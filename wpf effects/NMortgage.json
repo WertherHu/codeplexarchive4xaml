@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NMortgage",
+  "Title": "NMortgage",
+  "Description": "The goal of this project will be to give a prospective home buyer or an existing home owner the insight they need to explore effects of different repayment strategies or different mortgage structures. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The goal of this project will be to give a prospective home buyer or an existing home owner the insight they need to explore effects of different repayment strategies or different mortgage structures. <br /><br />This application provides you the ability to establish a mortgage baseline and a set of experiments to simulate the effect of various repayment strategies. <br /><br />You can define key variables such as interest rates, mortgage type, mortgage length and payment frequencies, inflation. After providing these key starting input values, you will be able to see the simulated mortgage payment amounts and view reports that summarize financial information and highlight sensitive variables. <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-23T17:03:07.183-07:00"
+}

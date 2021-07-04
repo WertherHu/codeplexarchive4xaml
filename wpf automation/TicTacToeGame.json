@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TicTacToeGame",
+  "Title": "TicTacToe using WPF 3.0",
+  "Description": "TicTacToe is a WPF 3.0 game that is good learning tool for WPF beginners as well as fun game for kids!\nIt uses many WPF aspects like, data-binding, TemplateBinding, 2D animations, ControlTemplates, Styles.\nIn the next release, I am planning to add 3D effects and ICommands.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TicTacToe is a WPF 3.0 game that is good learning tool for WPF beginners as well as fun game for kids&#33;<br />It uses many WPF aspects like, data-binding, TemplateBinding, 2D animations, ControlTemplates, Styles.<br />In the next release, I am planning to add 3D effects and ICommands.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-22T23:56:44.237-08:00"
+}

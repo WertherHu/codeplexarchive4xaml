@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fp",
+  "Title": "FP Interpreter (Silverlight) and Wiki",
+  "Description": " Implementation of John Backus's programming language FP in Silverlight and F#.\n\nBased on original ocaml project by  Christophe Deleuze\n\nhttp://christophe.deleuze.free.fr/D/fp.html\n\nThere is also a wiki on FP (in russian!) that makes use of the interpreter\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /> Implementation of John Backus&#39;s programming language FP in Silverlight and F&#35;.<br /><br />Based on original ocaml project by  Christophe Deleuze<br /><br />http&#58;&#47;&#47;christophe.deleuze.free.fr&#47;D&#47;fp.html<br /><br />There is also a wiki on FP &#40;in russian&#33;&#41; that makes use of the interpreter<br /><br /><br />More on John Backus and FP Programming Language can be found in wikipedia <br />\n<ol><li><a href=\"http://en.wikipedia.org/wiki/John_Backus\">John Backus</a></li>\n<li><a href=\"http://en.wikipedia.org/wiki/FP_programming_language\">FP Systems</a></li></ol>\n<br />The solution requires F# September CTP and Silverlight 2.0 SDK to build<br /><br /> The wiki is based on <a href=\"http://www.screwturn.eu\">Screw Turn Wiki</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Functional,FP,F#,Silverlight,fslex,fsyacc,fsharp,wiki,",
+  "LastEdited": "2008-12-25T00:40:57.673-08:00"
+}

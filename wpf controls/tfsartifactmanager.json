@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfsartifactmanager",
+  "Title": "TFS Artifact Manager",
+  "Description": "TFS Artifact Manager is a tool intended for downloading application \"artifacts\", such as database scripts and report files, from TFS. It pulls down these files from task source control changesets and attachments, organizes them, outputs task and change information, and helps combine and package database object changes. The tool's primary value is doing this in mass for a work item such as a Project work item, where it will enumerate all linked scenarios, issues, bugs, and tasks, providing the complete set of non-.net source code changes that need to be deployed for a given software release. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TFS Artifact Manager is a tool intended for downloading application &#34;artifacts&#34;, such as database scripts and report files, from TFS. It pulls down these files from task source control changesets and attachments, organizes them, outputs task and change information, and helps combine and package database object changes. The tool&#39;s primary value is doing this in mass for a work item such as a Project work item, where it will enumerate all linked scenarios, issues, bugs, and tasks, providing the complete set of non-.net source code changes that need to be deployed for a given software release. <br /><br /><br />For detailed information on this project please visit <a href=\"http://www.geoffhudik.com/tech/2011/8/17/tfs-artifact-manager.html\">http://www.geoffhudik.com/tech/2011/8/17/tfs-artifact-manager.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-18T14:06:54.917-07:00"
+}

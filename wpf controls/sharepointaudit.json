@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharepointaudit",
+  "Title": "SharePoint Audit View",
+  "Description": "SharePoint audit project which adds the ability to view audit logs at the SharePoint item, library and site level through the context menus and ribbon buttons.\r\n\r\nCode makes it easy to extend the audit offering that SharePoint provides, which to be honest is pretty poor.\r\n\r\nBasically, the project comprises of some layout pages which reuse a configurable user control to display auditing information within a paged grid control. Access to these pages is either via the edit control block (ECB) context menu or the ribbon interface.\r\n\r\nOnce deployed, activate the Item Level Auditing web feature.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nSharePoint audit project which adds the ability to view audit logs at the SharePoint item, library and site level through the context menus and ribbon buttons.<br>\r\n<br>\r\nCode makes it easy to extend the audit offering that SharePoint provides, which to be honest is pretty poor.<br>\r\n<br>\r\nBasically, the project comprises of some layout pages which reuse a configurable user control to display auditing information within a paged grid control. Access to these pages is either via the edit control block (ECB) context menu or the ribbon interface.<br>\r\n<br>\r\nOnce deployed, activate the Item Level Auditing web feature.</p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://www.stuartroberts.net/wp-content/uploads/2011/10/Audit-Information.png\" alt=\"\" width=\"788\" height=\"251\" style=\"vertical-align:middle\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,Audit,",
+  "LastEdited": "2011-10-03T17:12:47.057-07:00"
+}

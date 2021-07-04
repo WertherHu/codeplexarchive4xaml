@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ukcWatermarkTextbox",
+  "Title": "Asp.Net Watermark Textbox custom server control",
+  "Description": "Its a asp.net customer server control that allows you to simply use it on any web page, as you normally use a textbox control.\r\n\r\nIt uses JavaScript (jQuery) and CSS to achieve the desired functionality and it's having inbuilt required field validator.\r\n\r\nThe best part is its simple, easy to implement and re-usable.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Its a asp.net customer server control that allows you to simply use it on any web page, as you normally use a textbox control.<br /><br />It uses JavaScript &#40;jQuery&#41; and CSS to achieve the desired functionality and it&#39;s having inbuilt required field validator.<br /><br />The best part is its simple, easy to implement and re-usable.<br /><br />See documentation tab for more details on usage.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-07T02:14:16.803-08:00"
+}

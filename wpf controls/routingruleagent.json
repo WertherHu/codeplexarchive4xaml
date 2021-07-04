@@ -1,0 +1,9 @@
+{
+  "ProjectName": "routingruleagent",
+  "Title": "Routing Rule Agent",
+  "Description": "Microsoft Exchange Server has many rich Transport Rules for controlling email. One feature missing, however, is the ability to change default message routing based on critera.\r\n\r\nThis agent accomplishes this while also allowing the full flexibililty of rules.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Microsoft Exchange Server has many rich Transport Rules for controlling email. One feature missing, however, is the ability to change default message routing based on critera.<br /><br />This agent accomplishes this while also allowing the full flexibililty of rules.<br /><br /><br />Be sure to download the binary, &amp; follow all the installation instructions.  If you have any version of Exchange besides Exchange 2010 SP1, you may need to rebuild the DLL using the source code.<br /><br />Please let us know if you&#39;re using the Agent by posting in the Discussion!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Exchange,",
+  "LastEdited": "2011-08-25T12:15:27.847-07:00"
+}

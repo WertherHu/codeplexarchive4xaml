@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DotSpatialApp",
+  "Title": "DotSpatialApp",
+  "Description": "DotSpatialApp is a UI wrapper around DotSpatial that includes a ribbon and docking panels. The functionality in this project will also be exposed as an extension package to MapWindow 6.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nDotSpatialApp is a UI wrapper around DotSpatial that includes a ribbon and docking panels. The functionality in this project is also be exposed as an extension package to\r\n<a href=\"http://mapwindow6.codeplex.com/\">MapWindow 6</a>. Please download the <a href=\"http://mapwindow6.codeplex.com/releases\">\r\nrelease</a> there.</p>\r\n<p>The Ribbon and DockManager packages are published on the DotSpatial feed: <a href=\"http://www.myget.org/F/dotspatial/\">\r\nwww.myget.org/F/dotspatial/</a></p>\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=dotspatialapp&DownloadId=279031\" alt=\"Screenshot\"></p>\r\n<p>&nbsp;</p>\r\n<p>This project is being archived and will be abandoned at the end of 2017</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MapWindow,DotSpatial,Spatial,Mapping,",
+  "LastEdited": "2017-04-10T10:29:34.547-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AjaxColorPicker",
+  "Title": "Ajax Color Picker",
+  "Description": "Here is a C# Color Picker that uses AJAX to update the Back Color and Fore Color of sample text. You can readily adapt the code to work for your project. \n\nIt consists of 2 Web Controls - the ColorPickerControl (used for BackColor and ForeColor - it gets displayed twice) and the ColorEditorSample web control (used to build what the user sees).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Color Picker demo</h1>\rThe Color Picker demo consists of 2 Web Controls:<br />\n<ul><li>The Color Picker Web Control is a helper class that dislays the Display Palette. (It is called twice: once for background color and once for the text color.)</li>\n<li>The Color Editor Sample Web Control is added to the project&#39;s default web page.</li></ul>\n<br />Code for both Web Controls is in the App_Code folder.<br />Note the use of AJAX to update the control.<br /><img src=\"/projects/AjaxColorPicker/9bd718eb-0e7f-4c18-b386-044e2c8df7a6\" alt=\"ColorPicker.png\" title=\"ColorPicker.png\" />\n<h2>Instructions</h2>\r<ul><li>Click the top color palette to set the back color of the Sample text color.</li>\n<li>Click the bottom color palette to set the text color of the Sample text color.</li>\n<li>Transparent is used to make the color transparent.</li>\n<li>Enter six hexadecimal characters to select a color not in the color palette.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "AJAX,ColorPicker,ASP.NET Ajax,webcontrols,",
+  "LastEdited": "2008-09-14T11:31:23.983-07:00"
+}

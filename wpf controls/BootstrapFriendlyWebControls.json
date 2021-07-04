@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BootstrapFriendlyWebControls",
+  "Title": "Bootstrap Friendly Web Controls",
+  "Description": "This is the home of my Bootstrap Friendly Web Controls this will just be the source code as I go along.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>This is the home of my <strong>Bootstrap Friendly Web Controls</strong> this will just be the source code as I go along. This adds a set of Web Controls to make it easier to move to Bootstrap. The first control is the\r\n<strong>Bootstrap Menu</strong> control which is based on the Asp.Net Menu Control Which I have sub-classed and overridden the Render method to generate Bootstrap friendly markup.</p>\r\n<p><strong>Note:</strong> Supporting <strong>Bootstrap </strong>2.3.2 at the moment when I have this working I will work on getting\r\n<strong>Bootstrap </strong>3.0 working.</p>\r\n<p>Available through <a href=\"http://nuget.org\" target=\"_blank\">NuGet </a>search for\r\n<a href=\"http://www.nuget.org/packages/NotAClue.Web.UI.BootstrapWebControls/\">NotAClue Bootstrap Freindly WebForms Controls</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Web Forms,dynamic data,bootstrap,Freindly Controls,",
+  "LastEdited": "2013-08-27T06:32:32.363-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightPreloader",
+  "Title": "Silverlight Preloader",
+  "Description": "Display a custom preloader (progressbar) in Silverlight. This project explains how to turn your logo or graphic to a progress bar by filling it with color when Silverlight is loading.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Since most of custom progressbars are simple rectangular shape it will be a good idea to turn your own logo or graphic to a progressbar. This project changes the standard Silverlight preloader/progressbar into custom loader that fills Silverlight Tips logo with color while loading the app.<br /><br />For live demo and step by step tutorial go to: <a href=\"http://www.silverlighttips.com/?tag=/preloader\">http://www.silverlighttips.com/?tag=/preloader</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-12-30T06:01:01.733-08:00"
+}

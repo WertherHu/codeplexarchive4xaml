@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspnetsocialcontrols",
+  "Title": "ASP.NET Social Controls",
+  "Description": "ASP.NET Social Controls is a small collection of server controls designed to make integrating social sharing utilities such as ShareThis, AddThis and AddToAny easier, more manageable, and X/HTML-compliant, with configuration files and per-instance settings.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET Social Controls is a small collection of server controls designed to make integrating social sharing utilities such as ShareThis, AddThis and AddToAny easier, more manageable, and X&#47;HTML-compliant, with configuration files and per-instance settings.<br />\n<h1>Alpha of ShareThis control released</h1>\r<b>5th January 2011</b><br />I&#39;m pleased to announce the alpha of the ASP.NET Social Control with initial X/HTML-compliant support for ShareThis and a base class (&quot;BaseSocialControl&quot;) on which I&#39;m building support for AddToAny and AddThis.<br />Go get it from the <a href=\"http://aspnetsocialcontrols.codeplex.com/releases/view/58589\">downloads page!</a><br /><br />Also, kudos to <a href=\"http://sekkyumu.deviantart.com/\">sekkyumu</a> and <a href=\"http://www.shareicons.com\">the Share Icon project</a> for providing inspiration for the control logo and icon.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Social,social networking,social bookmarks,Server Controls,Server Control,",
+  "LastEdited": "2011-01-05T18:24:13.227-08:00"
+}

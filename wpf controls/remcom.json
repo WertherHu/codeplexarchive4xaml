@@ -1,0 +1,9 @@
+{
+  "ProjectName": "remcom",
+  "Title": "Remote Commands",
+  "Description": "Program which allow to control computer sending e-mails with commands.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nThe main aim of this project is to execute <a href=\"http://remcom.codeplex.com/wikipage?title=Commands.\">\r\ncommands</a>, received by e-mail.</p>\r\n<p>For example: you want to get screen's print from computer. You just send letter to e-mail address(which was configured before) with only &quot;ps&quot; as mail text and ofter some time you will response letter with attached image file.</p>\r\n<p>Program features:</p>\r\n<ul>\r\n<li>Receiving\\sending e-mails&nbsp; </li><li>Executing wide range of commands: uploading\\downloading files, starting torrents downloads, sending folder structure. Command list could be easily extended.\r\n</li><li>Suspending computer and waking it up in defined time. </li></ul>\r\n<p>Program consist of two project. One o them is lib project, which is doing all work: receiving\\sending e-mails, executing commands, suspending\\scheduling wake up. And the second one - UI project, written in WPF. So, if you want write your own UI or use RC\r\n in your own projects, you can easily do it by using only first project.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Commandline,e-mail,",
+  "LastEdited": "2012-10-21T01:37:47.387-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PagerHtmlHelper",
+  "Title": "PagerHtmlHelper",
+  "Description": "The PagerHtmlHelper allows you to quickly and simply add a paging control to any MVC 2 web application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The PagerHtmlHelper allows you to quickly and simply add a paging control to any MVC 2 web application.<br />\n<h1>Usage:</h1>\r<ol><li>Download the 3 files in the project</li>\n<li>Reference &quot;MvcUserControlHtmlHelpers.dll&quot; in your MVC 2 Web Application</li>\n<li>Add &quot;Pager.ascx&quot; to your App_Code folder - If you dont have an App_Code folder, just create one</li>\n<li>Add the stylesheet to your html&#39;s head section</li>\n<li>Write the following code into any of your views:</li></ol>\n&lt;% Html.RenderPager([TotalItemCountHere], <br />       [PageSize], <br />       [PageIndex], <br />       Request.Url.Query,<br />       [BaseUrl - Can be relative]); %&gt;<br />This will insert the pager control wherever you place the code.<br /><br />Find a complete article about how to use this control at <a href=\"http://benjii.me/2010/07/simple-mvc-2-pager-control-pagerhtmlhelper/\">http://benjii.me/2010/07/simple-mvc-2-pager-control-pagerhtmlhelper/</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-26T04:45:41.53-07:00"
+}

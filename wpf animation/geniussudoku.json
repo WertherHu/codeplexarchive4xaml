@@ -1,0 +1,9 @@
+{
+  "ProjectName": "geniussudoku",
+  "Title": "GeniusSudoku",
+  "Description": "une implementation en C# du célèbre jeu \"Sudoku\", pour les plateforme PPC et windows, et WPF ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />une implementation en C&#35; du c&#233;l&#232;bre jeu &#34;Sudoku&#34;, pour les plateforme PPC et windows, et WPF <br /><br /><br /><img src=\"/projects/geniussudoku/04f4a6fe-5b49-4f2b-82c7-dccc7af18385\" alt=\"geniussudokuwpf.jpg\" title=\"geniussudokuwpf.jpg\" /><br /><br />une nouvelle version va bient&#244;t voir le jour (pour silverlight 2.0b1) &#39;stay tunes&#39; <a href=\"http://blogs.developpeur.org/pierrick/\">http://blogs.developpeur.org/pierrick/</a><br />en avant premi&#232;re un aper&#231;u<br /><img src=\"/projects/geniussudoku/83f603c4-10c6-41b7-bfad-5a195f5696f5\" alt=\"silverlight_shot.jpg\" title=\"silverlight_shot.jpg\" /><br /><br />Une version Silverlight 2b2 est disponible <a href=\"http://blogs.developpeur.org/pierrick/archive/2008/06/24/sudoku-silverlight-2b2.aspx\">http://blogs.developpeur.org/pierrick/archive/2008/06/24/sudoku-silverlight-2b2.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,watch,.NET 2.0,WPF,.net 3.0,PPC,",
+  "LastEdited": "2008-07-06T13:49:30.097-07:00"
+}

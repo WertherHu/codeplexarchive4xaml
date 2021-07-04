@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dynobjects",
+  "Title": "DynObjects",
+  "Description": "DynObjects is an advanced implementation of the common concept of \"Game Objects\" used in many game engines. The library allows game developers to build dynamic objects with dynamically selectable components and behaviors.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DynObjects is an advanced implementation of the common concept of &#34;Game Objects&#34; used in many game engines. The library allows game developers to build dynamic objects with dynamically selectable components and behaviors.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-24T08:07:44.55-07:00"
+}

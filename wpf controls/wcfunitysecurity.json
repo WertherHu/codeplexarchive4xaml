@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wcfunitysecurity",
+  "Title": "Inversion Of Control sample to build a security system using:WCF, Unity, ASP.NET",
+  "Description": "Inversion Of Control sample to build a security system using: WCF, Unity, ASP.NET.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Inversion Of Control sample to build a security system using&#58; WCF, Unity, ASP.NET.<br /><br />The first document about the project:<br /><img src=\"/projects/wcfunitysecurity/7be42019-64a8-4d06-865a-cdd23681fa47\" alt=\"Project&#32;schema\" title=\"Project&#32;schema\" /><br />\n<h1><div style=\"clear:both;height:0;\">&nbsp;</div><a style=\"float:left;padding-right:.5em;\" href=\"http&#58;&#47;&#47;goo.gl&#47;YacFp\"><img src=\"/projects/wcfunitysecurity/7b63a0cc-e982-40e5-9af2-c19a5622ef09\" alt=\"Matteo&#32;Migliore&#32;-&#32;Il&#32;Demiurgo\" title=\"Matteo&#32;Migliore&#32;-&#32;Il&#32;Demiurgo\" /></a></h1>\rCoordinator: <a href=\"http://goo.gl/5Yowp\">Matteo Migliore</a> - Il Demiurgo<br /><a href=\"http://goo.gl/YacFp\">Italian blog - http://blogs.ugidotnet.org/matteomigliore</a><br /><a href=\"http://goo.gl/0XHAV\">Twitter - Matteo Migliore - http://twitter.com/matteomigliore</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Security,IOC,WCF,Unity,ASP.NET,MembershipProvider,dependency injection,utility,",
+  "LastEdited": "2011-04-08T08:36:49.577-07:00"
+}

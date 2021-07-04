@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OmnifactotumWpf",
+  "Title": "Omnifactotum.Wpf",
+  "Description": "Omnifactotum.Wpf: the .NET library intended to help developers avoid writing the same code for different WPF projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Has Moved</h2>\rThe project has moved to BitBucket: <a href=\"https://bitbucket.org/HarinezumiSama/omnifactotum.wpf\">https://bitbucket.org/HarinezumiSama/omnifactotum.wpf</a><br />\n<h2>Project Description</h2>\rOmnifactotum.Wpf&#58; the .NET library intended to help developers avoid writing the same code for different WPF projects.<br /><br />I&#39;ve been writing various helper classes, methods and extension methods while working on different  .NET projects. This project contains the more or less comprehensive set of those.<br /><br />Note that the code included in this project does not contain any algorithms constituting commercial secrets or proprietary information. I&#39;ve been duplicating pretty much the same code moving from one project to another during quite a few years.<br />\n<h2>Releases</h2>\rReleases are available at <a href=\"http://www.nuget.org/packages/Omnifactotum.Wpf\">http://www.nuget.org/packages/Omnifactotum.Wpf</a><br />\n<h2>Related Projects</h2>\r<ul><li><a href=\"https://omnifactotum.codeplex.com/\">https://omnifactotum.codeplex.com/</a> (moved to <a href=\"https://bitbucket.org/HarinezumiSama/omnifactotum\">https://bitbucket.org/HarinezumiSama/omnifactotum</a>)</li>\n<li><a href=\"https://omnifactotumnunit.codeplex.com/\">https://omnifactotumnunit.codeplex.com/</a> (moved to <a href=\"https://bitbucket.org/HarinezumiSama/omnifactotum.nunit\">https://bitbucket.org/HarinezumiSama/omnifactotum.nunit</a>)</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-11-23T17:08:47.767-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "agcommandmanager",
+  "Title": "Ag.CommandManager",
+  "Description": "A command manager implementation for Silverlights. Supports commanding to more or less any event using the ICommand interface",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A command manager implementation for Silverlights. Supports commanding to more or less any event using the ICommand interface</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-20T21:21:52.243-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "universalautosave",
+  "Title": "Universal Autosave",
+  "Description": "Universal Autosave (UA) is extension for DNN Platform.  It allows easy and fast to configure autosave functionality for any form/control without any coding.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Project moved to <a href=\"https://github.com/fordnn/universalautosave\">https://github.com/fordnn/universalautosave</a></h1>\r\n<p>&nbsp;</p>\r\n<p>Universal Autosave (UA) is extension for DNN Platform (former DotNetNuke). It allows easy and fast to configure autosave functionality for any form/control without any lines of code. Main features:</p>\r\n<ul>\r\n<li>Easy and fast configuration. </li><li>WYSIWYG configuration Wizard. </li><li>Automatic and manual data restore. </li><li>Periodical and &quot;smart&quot; autosave. </li><li>Unlimited autosave history and autosave expiration feature. </li><li>Client-side and server-side history location. </li><li>Different permissions for different groups/users. </li><li>Admin history of changes for any user/control/page. </li><li>Canned replies/values. </li></ul>\r\n<p>Detailed <a href=\"http://fordnn.com/DNN-Universal-Autosave\">documentation is available at our site</a>.</p>\r\n<p>v.01.00.02 <br>\r\n- New feature &quot;Difference Viewer&quot; is a tool to compare text differences between two versions of text.</p>\r\n<p>v.01.00.01 <br>\r\n- Added support for HTML Editor (DotNetNuke.RadEditorProvider). <br>\r\n- Modified history preview for long content. Now it displays only limited number of characters with show more button.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "forms,controls,autosave,dotnetnuke,dnn,",
+  "LastEdited": "2017-10-19T18:14:56.13-07:00"
+}

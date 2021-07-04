@@ -1,0 +1,9 @@
+{
+  "ProjectName": "organizerWP7",
+  "Title": "Organizer for Windows Phone",
+  "Description": "Windows Phone 7 Mango application for personal efficiency.\r\n\r\nCreate notes, organize tasks.\r\n\r\nApplication is on a planning/developing stage.\r\n\r\n- managing notes by two taps\r\n- managing contexts \r\n- creating tasks\r\n- rss reader (simple)\r\n- localization on English, Russian.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Windows Phone 7 Mango application for personal efficiency.<br /><br />Create notes, organize tasks.<br /><br />Application is on a planning&#47;developing stage.<br /><br />- managing notes by two taps<br />- managing contexts <br />- creating tasks<br />- rss reader &#40;simple&#41;<br />- localization on English, Russian.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 7,Windows Phone 7.5,MVVM,Silverlight,C#,",
+  "LastEdited": "2012-05-02T05:57:05.543-07:00"
+}

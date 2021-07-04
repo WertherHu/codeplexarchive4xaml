@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfmbx",
+  "Title": "MessageBoxEx - Extended MessageBox in WPF",
+  "Description": "This is an implementation of the original MessageBox which keeps most of the previous behavior, but also allows you to further customize it. The API is slightly different, but still easy to use. Customizing it may require a bit more code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an implementation of the original MessageBox which keeps most of the previous behavior, but also allows you to further customize it. The API is slightly different, but still easy to use. Customizing it may require a bit more code.<br /><br /><b>Features:</b>\n<ul><li>supports all features of the original MessageBox</li>\n<li>image can be customized</li>\n<li>buttons can be customized (button text, font bolding, button visibility)</li>\n<li>callbacks can be set on buttons to perform actions instead of closing the window (see the custom example)</li>\n<li>an optional check box can be displayed</li></ul>\n<img src=\"/projects/wpfmbx/a01ad6a4-b726-4c6e-8682-83cf8a692a79\" alt=\"mbx_small_text.png\" title=\"mbx_small_text.png\" /><br /><br /><img src=\"/projects/wpfmbx/38836582-ffc6-4c39-be57-51e14cda6ff1\" alt=\"mbx_large_text.png\" title=\"mbx_large_text.png\" /><br /><br /><img src=\"/projects/wpfmbx/1fb85e1e-7a98-4878-9c7a-b6fad1b1fd66\" alt=\"mbx_custom.png\" title=\"mbx_custom.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-17T13:43:12.627-07:00"
+}

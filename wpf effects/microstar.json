@@ -1,0 +1,9 @@
+{
+  "ProjectName": "microstar",
+  "Title": "MicroStar Particle System",
+  "Description": "MicroStar is a 2D particle system created in XNA 3.1 and is intended to make adding cool visual effects to XNA games simple and easy to do.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>MicroStar is a 2D particle system written in XNA 4 for Windows, Windows Phone 7 and Xbox 360.<br>\r\n<br>\r\nSee <a href=\"/wikipage?title=Particle%20Effect%20Examples&referringTitle=Home\">Particle Effect Examples</a> page for videos of the MicroStar particle system in action.<br>\r\n<br>\r\n<strong>Possible Future Additions</strong></p>\r\n<ul>\r\n<li>Support for 3D </li><li>Providing functionality for Windows Phone 7 touch and accelerometer functionality.\r\n</li><li>More samples <span style=\"color:#008000\">&#65279;</span> </li></ul>\r\n<p><span style=\"color:#008000\"><strong>This project is no longer being maintain on CodePlex.&nbsp; See updated version which works with MonoGame on GitHub at:\r\n<a href=\"https://github.com/jasonmitchell/supernova\">https://github.com/jasonmitchell/supernova</a></strong></span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,C#,.NET,2D particles,",
+  "LastEdited": "2013-04-11T10:14:04.097-07:00"
+}

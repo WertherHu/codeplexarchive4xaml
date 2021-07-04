@@ -1,0 +1,9 @@
+{
+  "ProjectName": "plasma",
+  "Title": "Plasma",
+  "Description": "Plasma is an in-process web server emulator that can be used for automation and unit testing of ASP.NET applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Plasma is an in-process web server emulator that can be used for automation and unit testing of ASP.NET applications.<br />\n<h2>Ok, so what can you do with it?</h2>\rBasically Plasma allows you to easily test or automate ASP.NET pages and applications in a performant manner, since everything occurs in-memory, so there is not network level overhead.  Many of the web test scenarios available as part of Visual Studio Team Suite : Tester SKU are possible with this framework and therefore available to NUnit users (examples - testing that a page has a given value on it after a postback, testing that a page returns within a given time threshold, etc.).<br /><br /><b>Initial release available as of 28 Feb 07</b>\n<ul><li>Test Projects will require updating WebAppHelper.cs file to point at actual file path of test web site project.</li></ul>\n\n<h2>NUnit Screenshot</h2>\r<img src=\"/projects/plasma/ac748b4b-17d1-4dba-b054-d63831ec3b1c\" alt=\"nunit_screenshot.gif\" title=\"nunit_screenshot.gif\" /><br />\n<h2>MSTest Screenshot</h2>\r<img src=\"/projects/plasma/a3d767f5-74d6-45d8-9243-87179aecf2aa\" alt=\"mstest_screenshot.gif\" title=\"mstest_screenshot.gif\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TDD,ASP.NET,Testing,CI,automation,Unit Test,webserver,nunit,RETURN 2010,",
+  "LastEdited": "2007-03-01T18:17:35.623-08:00"
+}

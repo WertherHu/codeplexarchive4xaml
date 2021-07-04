@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ThunderStorm",
+  "Title": "ThunderStorm",
+  "Description": "This is a browser build using WPF and the windows browser control. ThunderStorm does all the basic browser operations like browsing multiple sites using tabs, a",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>&quot;ThunderStorm&quot;</strong><br>\r\n<br>\r\nThis is a browser build using WPF and the windows browser control. ThunderStorm does all the basic browser operations like browsing multiple sites using tabs, adding bookmarks, navigating back and forth between sites using the browser history.</p>\r\n<p>This browser was built as a fun little project and in my spare time. It's time to open it up to people and see what they think and if there is any future for this project.</p>\r\n<p><strong>Prerequisites:</strong></p>\r\n<p>Requires .Net Framework 4.0 (should be automatically installed with this installation.)</p>\r\n<p><strong>Future enhancements:</strong></p>\r\n<ol>\r\n<li><span style=\"font-size:10pt\">using webkit.net instead of windows browser control,</span>\r\n</li><li><span style=\"font-size:10pt\">building a command tab (like a command prompt) where people can enter commands to do various operations in the browser without the use of a mouse. These operations may include scrolling, opening new tabs, closing existing tabs,\r\n bookmarking, downloading browser content etc.</span> </li></ol>\r\n<p>All ideas and help to improve this browser are welcome.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "browser,wpf,tab control,browser control,",
+  "LastEdited": "2013-05-21T15:39:23.19-07:00"
+}

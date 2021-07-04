@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ParallaxBackground",
+  "Title": "ParallaxBackground - A Metro moving background",
+  "Description": "A library for displaying a background that moves slower than the foreground in Windows Metro style (WinRT) applications written in C# / XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">ParallaxBackground - Another Metro moving background.<br /><br />Binaries available at: <a href=\"http://nuget.org/packages/ParallaxBackground\">http://nuget.org/packages/ParallaxBackground</a><br /><br />See a discussion here: <a href=\"http://w8isms.blogspot.com/2012/09/parallax-background-in-xaml-revisited.html\">http://w8isms.blogspot.com/2012/09/parallax-background-in-xaml-revisited.html</a><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-08T12:06:49.467-07:00"
+}

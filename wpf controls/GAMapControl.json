@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GAMapControl",
+  "Title": "Google Analytics Map Control",
+  "Description": "Display Google Analytics Map in ASP.NET application using this control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Display Google Analytics Map in ASP.NET application using this control.<br /><br />The control use Data Feed Request for Google Analytics Data Export API.<br />If number of markers too big, control on a page will loading very long.<br /><br /><img src=\"/projects/GAMapControl/0da0d224-5d0a-4efd-a4ad-b508449bdcc4\" alt=\"image1.png\" title=\"image1.png\" /><br /><br /><img src=\"/projects/GAMapControl/082844c7-df15-4e2b-9c7c-f0065608b30e\" alt=\"image3.png\" title=\"image3.png\" /><br /><i>(images shown statistics for different site)</i><br /><br />The first version was created by Brian P. Hamachek, second by Ilya P. Klementiev.<br /><br />Library .net 2.0, c#, Visual Studio 2010</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-23T01:49:15.193-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "IISLogAnalyzer",
+  "Title": "IISLogAnalyzer",
+  "Description": "IISLogAnalyzer is a package of software’s for analyzing IIS Log files. Package includes WPF and Silverlight 4 clients build with Prism and C# and the server build using C#, EF4, WCF and data provider model .",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>IISLogAnalyzer<br>\r\n</strong><br>\r\nIISLogAnalyzer is a package of software&rsquo;s for analyzing IIS Log files. Package includes WPF and Silverlight 4 clients build with Prism and C# and the server build using C#, EF4, WCF and data provider model. Project is based on my first Silverlight pratice\r\n project, that was build with Silverlight 3 Navigation template. The project will be updated to latest technologies.</p>\r\n<p>Package will include:<br>\r\n- Server, that can be configured to read log data from IIS log files, SQL Server Database or from ODBC datasource<br>\r\n- <span lang=\"EN-US\" style=\"color:black; font-size:10pt\">Silverlight client, that can be used as a whole application or use some modules of it in web page<br>\r\n- WPF client to get more efficient use of logs</span></p>\r\n<p><br>\r\n<img src=\"http://iisloganalyzer.codeplex.com/download?DownloadId=157808\" alt=\"Old naviagtion model ByBrowser view\" style=\"vertical-align:middle\"></p>\r\n<p><img src=\"http://iisloganalyzer.codeplex.com/download?DownloadId=157809\" alt=\"Old navigation model ByClient view\" style=\"vertical-align:middle\"></p>\r\n<p><img src=\"http://iisloganalyzer.codeplex.com/download?DownloadId=157811\" alt=\"Old navigation model ByResource view\" style=\"vertical-align:middle\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "IIS Logfiles,IIS Log,C#,WCF Services,Prism,silverlight 4,Entity Framework,",
+  "LastEdited": "2010-11-08T11:17:05.687-08:00"
+}

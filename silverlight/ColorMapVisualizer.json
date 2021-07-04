@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ColorMapVisualizer",
+  "Title": "Color Map Visualizer",
+  "Description": "A Silverlight project based on the Vector Visualizer http://bodurov.com/VectorVisualizer that helps to visualize color palette in three dimensions",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Silverlight project based on the Vector Visualizer http&#58;&#47;&#47;bodurov.com&#47;VectorVisualizer that helps to visualize color palette in three dimensions<br /><br />Example: <a href=\"http://bodurov.com/ColorMapVisualizer/\">http://bodurov.com/ColorMapVisualizer/</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,3D,color,Visualisation,",
+  "LastEdited": "2010-02-07T06:50:10.58-08:00"
+}

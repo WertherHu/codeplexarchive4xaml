@@ -1,0 +1,9 @@
+{
+  "ProjectName": "managedgpx",
+  "Title": "Managed GPX",
+  "Description": "Managed GPX is a managed C#-implementation for manipulating, evaluating and displaying GPX files. An interface to OSM will be also included.\n\nThe library consists of two parts: \n- Base API for reading, writing and reporting GPX-Files\n- GUI-Library for WPF-Rendering",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b>:<br />Managed GPX is a managed C&#35;-implementation for manipulating, evaluating and displaying GPX files. An interface to OSM will be also included.<br /><br />The library consists of two parts&#58; <br />- Base API for reading, writing and reporting GPX-Files<br />- GUI-Library for WPF-Rendering<br /><br /><b>Example for rendering one GPX-Track</b>:<br /><img src=\"http://blog.depon.net/uploads/ManagedGPX_14489/image.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,GPX,",
+  "LastEdited": "2009-05-14T14:06:53.563-07:00"
+}

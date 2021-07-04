@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ybotfieldcontrol2013",
+  "Title": "YBOT Field Control - 2013",
+  "Description": "YBOT 2013 Field Control Software.  Used to control the Youth BOT game field. Score the games and track field actions.  The field currently uses 1-wire.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />YBOT 2013 Field Control Software.  Used to control the Youth BOT game field. Score the games and track field actions.  The field currently uses 1-wire.<br /><br />This is the field control software for the 2013 YBOT Game.  It currently uses a 1-wire protocol for field communication. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "1-Wire,YBOT,XBee,Arduino,youth BOT,C#,one wire,onewire,youthbot,",
+  "LastEdited": "2012-10-22T17:03:54.57-07:00"
+}

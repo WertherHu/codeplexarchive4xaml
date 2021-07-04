@@ -1,0 +1,9 @@
+{
+  "ProjectName": "panview",
+  "Title": "PanView - A Metro Panning Custom Control",
+  "Description": "A custom control for displaying panning content Windows Metro style (WinRT) applications written in C# / XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">PanFlyout - Another Panning Custom Control for WinRT / Metro Style applications.<br /><br />Binaries available at: <a href=\"http://nuget.org/packages/PanView\">http://nuget.org/packages/PanView</a><br /><br />See a discussion here: <a href=\"http://w8isms.blogspot.com/2012/07/panview-metro-panning-custom-control.html\">http://w8isms.blogspot.com/2012/07/panview-metro-panning-custom-control.html</a><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-07-31T07:29:20.86-07:00"
+}

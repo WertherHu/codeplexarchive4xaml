@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AzharTheGreat",
+  "Title": "New Silverlight XPS Viewer (In Sl4)",
+  "Description": "New Silverlight XPS viewer ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />New Silverlight XPS viewer <br /><br />Background:<br />During my development last week I was working on a Silverlight based XPS viewer. During this viewer we came to a situation in which the an XPS was made from power point slide. In that PPT two images were shown during rendering the images present in it.<br /><br />Problem:<br />The problem is that Silverlight doesn’t have any viewport or viewbox support. Along with these problems, the font files need to be downloaded externally so that we can render them in our XPS Viewer.<br /><br />Findings:<br />Microsoft has provided support in Silverlight 4, Glyphs has a property of FontSource by which we can assign any font file stream to that. By this provision I was able to provide font files to XPS Viewer, this saved any extra DLL to be downloaded separately.<br /><br />Features:<br />•\tViewbox and Viewport support in Silverlight 4<br />•\tNo extra DLL required to be downloaded while rendering the XPS.<br />•\tZoomIn/ZoomOut support.<br /><br />Future work:<br />•\tAddition of Open File Dialog support, so that client can view files from its local machine.<br />•\tPrinting XPS from Silverlight<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-03T04:02:01.257-07:00"
+}

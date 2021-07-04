@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AniScrollViewer",
+  "Title": "Animate WPF ScrollViewer",
+  "Description": "AniScrollViewer shows how to animate a WPF ScrollViewer.  This is accomplished by extending the standard ScrollViewer with two dependent properties which when changed by an animation update the vertical and horizontal offset of the standard ScrollViewer.  It's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />AniScrollViewer shows how to animate a WPF ScrollViewer.  This is accomplished by extending the standard ScrollViewer with two dependent properties which when changed by an animation update the vertical and horizontal offset of the standard ScrollViewer.  It&#39;s developed in C&#35;.<br /><br /><br />Here is a SIMPLE example of animating a WPF ScrollViewer. This is NOT production ready code. I have purposefully left out error checking, templates, and anything that would complicate the solution. It should be used as a base reference point for your endeavors. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF Samples,",
+  "LastEdited": "2009-03-24T21:02:53.4-07:00"
+}

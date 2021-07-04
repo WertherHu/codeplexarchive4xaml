@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webandmobilefactory",
+  "Title": "The Web and Mobile Factory",
+  "Description": "Writing apps - both web and mobile - using the latest tools. HTML5, Silverlight, ASP.NET, jQuery - you name it, we write code in it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Welcome to the Web and Mobile Factory!</strong></p>\r\n<p>Earlier, this project was about using workflows, to interact with the social network. However, we've broadened - rather, changed tactics. We are basically a small start-up, who now specialize in writing apps, both web and mobile, using a variety of tools\r\n and technologies, for a myriad variety of uses. Our aim is to provide world-class web and mobile app engineering services to middle-sized businesses, as well as governmental and non-profit organizations.</p>\r\n<p>We're still working on our &quot;corporate&quot; website - it shouldn't take more than a a week or so. We're also revamping our Codeplex site - this is where we will share our open-source work with you, as well as our experiences while writing code for the web and\r\n mobile platforms. Think of it as our sandbox - a place where you guys give shape to our ideas. The next few days should see a lot of change, so stay tuned!</p>\r\n<p>&nbsp;</p>\r\n<p>Cheers!</p>\r\n<p>Rudi</p>\r\n<p>CTO, The Web and Mobile Factory.</p>\r\n<p>&nbsp;</p>\r\n<p>PS - This might not sound nice, but when I say we're revamping, that also means everything we worked on previously, goes into the recycle bin. Sorry!</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "F#,Twitter API,Facebook Graph API,silverlight 4,HTML5,jQuery,jQuery UI,Gestalt,Glimmer,ASP.NET 4.0,mobile app,android,iOS,Windows Phone 7,Cloud,",
+  "LastEdited": "2011-06-23T12:13:50.19-07:00"
+}

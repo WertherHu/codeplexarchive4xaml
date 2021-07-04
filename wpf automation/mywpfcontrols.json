@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mywpfcontrols",
+  "Title": "Gonte - MyWpfControls",
+  "Description": "MyWpfControls tries to make it easier for developers to create WPF applications. \nIt's developed in C#\n\nThis project requires the binary file MyUtilities.dll found in the project Gonte - MyUtilities",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">MyWpfControls<br /><br />Features:<br /><br />- View model support for a tree view control<br />- Asynchronous command class to execute background tasks<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-11T05:40:24.427-08:00"
+}

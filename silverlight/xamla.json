@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamla",
+  "Title": "Xamla, A Lightweight Design Application For Silverlight",
+  "Description": "Xamla is a lightweight design application for Silverlight.  It implements an MVVM pattern for the UI and also implements Unity for Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><a href=\"http://www.lucastudios.com/labs\" target=\"_blank\">Live Demo</a></p>\r\n<h2><strong>Project Description</strong></h2>\r\n<p>Xamla is a lightweight design application for Silverlight. It implements an MVVM pattern for nearly all aspects of the UI and also implements Unity for Silverlight.<br>\r\n<br>\r\n<strong>To get the most recent build of Xamla, please <a href=\"http://xamla.codeplex.com/SourceControl/ListDownloadableCommits.aspx#DownloadLatest\">\r\nClick Here</a>.</strong><br>\r\n<a href=\"/wikipage?title=Xamla%20Roadmap&referringTitle=Home\"></a></p>\r\n<p><a href=\"/wikipage?title=Xamla%20Roadmap&referringTitle=Home\">Xamla Roadmap</a></p>\r\n<p><br>\r\n(screenshot of Xamla demonstrating Perspective 3D transforms)<br>\r\n<img title=\"xamla2.png\" src=\"http://i3.codeplex.com/Download?ProjectName=xamla&DownloadId=80456\" alt=\"xamla2.png\"><br>\r\n<br>\r\n(screenshot of Xamla, demonstrating support for Image elements and 3D transforms)<br>\r\n<img title=\"xamla3.png\" src=\"http://i3.codeplex.com/Download?ProjectName=xamla&DownloadId=80471\" alt=\"xamla3.png\"><br>\r\n<br>\r\n<strong><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-18T04:20:46.973-07:00"
+}

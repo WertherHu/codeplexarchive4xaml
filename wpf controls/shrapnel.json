@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shrapnel",
+  "Title": "Shrapnel",
+  "Description": "Shrapnel is a C# control that provides a fully interactive graph. Custom drawing code can be provided to personalize the view. Custom elements can also be added for further personalization.\n\n(More detailed information to follow soon)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Shrapnel is a C&#35; control that provides a fully interactive graph. Custom drawing code can be provided to personalize the view. Custom elements can also be added for further personalization.<br /><br />&#40;More detailed information to follow soon&#41;<br /><br />Here are pointers to some of our early documentation:\n<ul><li><a href=\"https://shrapnel.codeplex.com/wikipage?title=Requirements&referringTitle=Home\">Requirements</a>, containing our initial set of requirements</li>\n<li><a href=\"https://shrapnel.codeplex.com/wikipage?title=Rough%20system%20design&referringTitle=Home\">Rough system design</a>, our first system design / object model based on our initial set of requirements</li>\n<li><a href=\"https://shrapnel.codeplex.com/wikipage?title=Coding%20style&referringTitle=Home\">Coding style</a>, some info on the used coding style and conventions</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-12-24T13:33:23.33-08:00"
+}

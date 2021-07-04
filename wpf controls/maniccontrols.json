@@ -1,0 +1,9 @@
+{
+  "ProjectName": "maniccontrols",
+  "Title": "Manic Controls",
+  "Description": "Library of specialized asp.net custom web controls. This library will grow as new controls will be added frequently.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Description</b><br />Library of specialized asp.net custom web controls. This library will grow as new controls will be added frequently.<br /><br /><b>Technology</b>\n<ul><li>Development: Visual Studio 2008</li>\n<li>Target framework: 2.0 and above</li></ul>\n<br /><b>Controls</b><br />\n<ul><li><b>Thumb</b> (<a href=\"http://services.4ants.ba/controls/samples/thumbs/\">Example</a>) is a control that automatically generates thumb image &quot;on the fly&quot; and delivers it to client.</li>\n<li><b>Uploader</b> (<a href=\"http://services.4ants.ba/controls/samples/uploader/\">Example</a>) is a control for multiple file upload.</li></ul>\n<br /><b>Licence</b><br />\n<ul><li><a href=\"http://maniccontrols.codeplex.com/license\">New BSD License (BSD)</a></li></ul>\n<br /><b>Support</b><br />\n<ul><li>Please ask your questions in &quot;Discussions&quot; section.</li>\n<li>Please submit bugs and requests in &quot;Issue Tracker&quot; section.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "asp.net,Controls,Custom,Thumb,Thumbnail,Generate,Corner,Watermark,Manic,Framework,Upload,Uploader,File,Multiple Files,multiple file upload,flash,swf,",
+  "LastEdited": "2010-02-02T06:28:44.067-08:00"
+}

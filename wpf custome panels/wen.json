@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wen",
+  "Title": "Wen - WPF 3D Navigator",
+  "Description": "Control the camera and the lights of a WPF 3D application without any code modification.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Wen</h1>\r\nWen is a tool that provides a navigation and control interface for WPF 3D applications. Features :\n<ul><li>Camera position, direction and rotation controlling</li>\n<li>Light position and direction controlling</li>\n<li>Switch lights of the scene on / off</li>\n<li>Visual indicators to show light positions and directions in the scene</li>\n<li>Get back to default positions / directions</li></ul>\n\n<h1>Help / Quick start</h1>\rHelp can be found on <a href=\"http://eynard.wordpress.com/wen\">Wen home</a> or in the <a href=\"http://wen.codeplex.com/documentation\">documentation section</a>.<br />\n<h1>Credits</h1>\rDeveloped by <a href=\"http://eynard.wordpress.com\">R&#233;mi Eynard</a>.<br />Wen uses <a href=\"http://snoopwpf.codeplex.com\">Snoop</a> code injector.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-31T04:48:43.73-07:00"
+}

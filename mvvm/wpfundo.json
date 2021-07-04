@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfundo",
+  "Title": "WPF UndoManager",
+  "Description": "WPF UndoManager provides a simple Undomanager on the base of WPF's MVVM-Pattern.\r\n\r\n",
+  "MovedLink": "https://github.com/LokiMidgard/wpfUndo",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><b>Project Description</b> </h1>\r\n<p><b></b><br>\r\nWPF UndoManager provides a simple undo manager that can easy integrate in your <strong>\r\nViewmodel</strong> and support you using the <strong>MVVM-Pattern</strong>. <br>\r\n<br>\r\nThere exists two methods how to use the undo manager.</p>\r\n<ul>\r\n<li>\r\n<h4>Using an implementation of the ICommand-Interface</h4>\r\nThe undo manager provides an implementation of ICommand, specifying a Method that can reverse the Command.\r\n</li><li>\r\n<h4>Using the INotifyPropertyChanged-Interface</h4>\r\nUsing this interface and reflection the undo manager monitors all changes to property's of INotifyPropertyChanged and INotifyCollectionChanged.\r\n</li></ul>\r\n<p>Just two lines of code can provide you a basic undomanager.</p>\r\n<h2>Feedback</h2>\r\n<p>Well you can use this library as you want (MIT), but I would be happy if you leave a comment in\r\n<a href=\"http://wpfundo.codeplex.com/discussions/248418\">Feedback</a> and tell me if it is useful and maybe in what kind of project you use it.\r\n</p>\r\n<hr>\r\n<h3>TODO:</h3>\r\n<ul>\r\n<li><strike>Write the Documentation Write Documentation for new Functions</strike>\r\n</li><li><strike>Monitor Collections.(Current only in source code not in build)</strike>\r\n</li><li>Batch multiple Changes. </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF MVVM,MVVM,Undo,undo redo,ICommand,INotifyPropertyChang,Redo,INotifyCollectionCha,",
+  "LastEdited": "2011-03-04T01:02:14.533-08:00"
+}

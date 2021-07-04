@@ -1,0 +1,9 @@
+{
+  "ProjectName": "yatdl",
+  "Title": "yaTDL - yet another To-Do List",
+  "Description": "yaTDL is a simple todo-list application written in C# that helps you manage your tasks.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><div class=wikidoc>\n<h3>Project Description</h3>\nyaTDL is a simple todo-list application for Windows written in C#.<br><br>If you would like to participate in the project, your're welcome, there's plenty of work to do.<br><br><a href=\"http://surveys.polldaddy.com/s/3644AF8532798566/\">Report a bug<span>&nbsp;</span></a><br><br><a href=\"/wikipage?title=User Guide&referringTitle=Home\">User Guide</a><br><a href=\"/wikipage?title=Roadmap&referringTitle=Home\">Roadmap</a><br><br><a href=\"http://yatdl.tumblr.com/\">Blog</a></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,todo,Aero Wizard,",
+  "LastEdited": "2010-07-30T02:08:02.253-07:00"
+}

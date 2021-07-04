@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfburner",
+  "Title": "Burning and Erasing CD/DVD/Blu-ray Media with WPF and IMAPI2",
+  "Description": "Burning and Erasing CD/DVD/Blu-ray Media with WPF and IMAPI2",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Burning and Erasing CD&#47;DVD&#47;Blu-ray Media with WPF and IMAPI2<br /><br /><br />A little while ago I was working on a WPF project that required the ability to archive data onto DVD but there were no WPF versions available freely. Luckily I found an excellent winforms version by Eric Haddan. This project is a port over of that winforms version to WPF, and implements the MVVM design pattern. I have avoided using any MVVM frameworks because I wanted people to be able to just compile the project and burn their media. To get the application looking good I am using a free WPF theme from reuxables, to remove or change this you will need to comment out the resource dictionary reference on the .App.xaml and delete any Style tags.<br /><br />This is still a work in progress, but you should have 90 to 95% parity with the original release.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Burning,",
+  "LastEdited": "2010-09-23T04:32:49.87-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcpaging",
+  "Title": "Q42.Wheels.Mvc.Paging",
+  "Description": "Q42 \"Wheel\" for creating pagination / sorting controls in .Net MVC (2/3) projects",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Q42 &quot;Wheel&quot; for creating pagination / sorting controls in .Net MVC (2/3) projects.<br /><br />I know this is a terribly short introduction...<br /><br />The <a href=\"https://mvcpaging.codeplex.com/documentation?referringTitle=Home\">Documentation</a> is, I&#39;m sorry to say, almost as elaborative. The source contains examples that should make up for the lack of information on this page, though.<br /><br />This now in: <a href=\"https://mvcpaging.codeplex.com/wikipage?title=Snippets&referringTitle=Home\">code samples &#40;snippets&#41;</a>!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Paging,MVC 3,MVC 2,.NET,pagination,Sorting,",
+  "LastEdited": "2011-03-31T08:42:38.14-07:00"
+}

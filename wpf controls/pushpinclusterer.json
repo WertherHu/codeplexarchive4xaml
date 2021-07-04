@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pushpinclusterer",
+  "Title": "WP7 Pushpin Clusterer",
+  "Description": "WP7 pushpin clusterer is a project that makes clustering pushpins on the bing maps control in your Windows Phone app easy.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWP7 pushpin clusterer is a project that makes clustering pushpins on the bing maps control in your Windows Phone app easy.<br>\r\n<br>\r\nThe pushpin clustering part is based on the <a href=\"http://www.scottlogic.co.uk/blog/colin/2011/11/pushpin-clustering-with-the-windows-phone-7-bing-map-control/\">\r\nPushpin Clustering with the Windows Phone 7 Bing Map control</a> blog post by <a href=\"https://twitter.com/#!/ColinEberhardt\">\r\nColin Eberhardt</a>. This project is adding some value to this approach by making it more generic so you can use it in your WP7 app without alot of code changes.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-17T23:02:04.577-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightPDF",
+  "Title": "Silverlight Export/Print to PDF",
+  "Description": "Demonstration project of how to print Silverlight 3 UI elements to PDF or PNG to a file on the local disk.  Uses Silverlight 3, VS 2010 Beta 2, and the iTextsharp library.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Print/Export to PDF from Silverlight</h1>\r\nSo let me guess you came across this project after searching for hours on how to get print function in Silverlight 3.  Well this project is an example of how to generate an Adobe Acrobat PDF file from Silverlight.  It uses a writeablebitmap, a generic webhandler, and the iTextsharp library (Version 4.1.6) to convert a PNG byte array to a PDF byte array which will get saved to the local file share.  So take a look, offer your commentary, and give me your feed back on how to make this better.  By way, I know their probably better ways to get the same end result and if you find one I welcome you to share it with me and the rest of the Silverlight community.<br /><br />This project was created using<br />\n<ul><li>Microsoft Silverlight 3 from <a href=\"http://www.microsoft.com/silverlight/\">http://www.microsoft.com/silverlight/</a></li>\n<li>Microsoft Visual Studio 2010 Beta 2 from <a href=\"http://www.microsoft.com/downloads/details.aspx?familyid=DC333AC8-596D-41E3-BA6C-84264E761B81&amp;displaylang=en\">http://www.microsoft.com/downloads/details.aspx?familyid=DC333AC8-596D-41E3-BA6C-84264E761B81&amp;displaylang=en</a></li>\n<li>iTextsharp v4.1.6 downloaded from <a href=\"http://sourceforge.net/projects/itextsharp/\">http://sourceforge.net/projects/itextsharp/</a></li>\n<li>Joe Stegman&#39;s <a href=\"http://blogs.msdn.com/jstegman/archive/2008/04/21/dynamic-image-generation-in-silverlight.aspx\">PNG Encoder</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight 3,C#,PDF,png,printing,",
+  "LastEdited": "2009-11-07T10:24:17.32-08:00"
+}

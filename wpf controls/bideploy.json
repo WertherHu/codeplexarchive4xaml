@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bideploy",
+  "Title": "SQL Server DB & SSIS Powershell Deployment",
+  "Description": "A lightweight way to automate SQL Server builds and deploy SSIS packages to development environments.  Uses Red Gate SQL Compare, SVN and Powershell.  Ideal for DW/BI projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A lightweight way to automate SQL Server builds and deploy SSIS packages to development environments.  Uses Red Gate SQL Compare, SVN and Powershell.  Ideal for DW&#47;BI projects.<br /><br />This is a small project to enable developers to quickly automate database builds and deploy SSIS packages from source control.  It&#39;s primarily aimed at BI/Data Warehouse developers.  It&#39;s currently in it&#39;s first iteration, but the script works with a little bit of customisation for server names etc.  Suggestions more than welcome!<br /><br />For a bit of background to this, see my  blog post at <a href=\"http://www.grapefruitmoon.net/automating-db-and-ssis-builds-from-source-con\">http://www.grapefruitmoon.net/automating-db-and-ssis-builds-from-source-con</a><br /><br />Updated, see: <a href=\"http://www.grapefruitmoon.net/powershell-deployment-script-update\">http://www.grapefruitmoon.net/powershell-deployment-script-update</a><br /><br />Note the blog links have updated to my new domain.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Deployment,powershell,ssis,SQL Server,Source Control,",
+  "LastEdited": "2012-04-18T10:59:22.277-07:00"
+}

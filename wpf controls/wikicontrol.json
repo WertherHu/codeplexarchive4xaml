@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wikicontrol",
+  "Title": "ASP.NET Wiki Control",
+  "Description": "This ASP.NET user control allows you to embed a very useful wiki directly into your already existing ASP.NET website taking advantage of the popular Markdown for wiki editing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This ASP.NET user control allows you to embed a very useful wiki directly into your already existing ASP.NET website taking advantage of the popular Markdown for wiki editing.<br /><br /><img src=\"http://www.hamishgraham.net/files/EditWiki.png\" /><br /><br /><img src=\"http://www.hamishgraham.net/files/VersionHistory.png\" /><br /><br />A full description and installation guide can be found here: <a href=\"http://www.hamishgraham.net/page/Downloads.aspx/ASP.NET-Wiki-Control-with-Markdown\">http://www.hamishgraham.net/page/Downloads.aspx/ASP.NET-Wiki-Control-with-Markdown</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-10T15:14:20.803-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SQLDataTransfer",
+  "Title": "SQL DataTransfer",
+  "Description": "This project is aimed for people who need to downgrade sql databases, using the SQL Management object libary.\r\nThe UI is WPF, based on the MVVM design pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis project is aimed for people who need to downgrade sql databases, using the SQL Management object libary.<br>\r\nThe UI is WPF, based on the MVVM design pattern.</p>\r\n<p>Upgrade is easy, the SQL Server attach procedure handles it, but downgrading is much more complicated while preseving the data.</p>\r\n<p>So here it is.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-13T12:27:48.803-08:00"
+}

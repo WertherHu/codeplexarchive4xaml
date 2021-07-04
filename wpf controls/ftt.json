@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ftt",
+  "Title": "Film title translator",
+  "Description": "This is a web service that offers a search engine on a film title and provides title translations in as many languages as possible. \n\nThe web service itself relies on 2 subprojects:\n+ One that relies on IMDb to perform the search and get information on the film (this was inspired by the IMDb Service project).\n+ One that manages a private database that stores the translations.\n\n3 phases are considered:\n-> Phase 1 - Done! : publish the web service. \n-> Phase 2: add functionalities for a public but controled access to the database to allow updates.\n-> Phase 3: top secret! ;-)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Publication Address:</b><br /><a href=\"http://www.filmalert.net/ftt/fttservices.asmx\">http://www.filmalert.net/ftt/fttservices.asmx</a><br /><br /><b>Project Description:</b><br />This is a web service that offers a search engine on a film title and provides title translations in as many languages as possible. <br /><br />The web service itself relies on 2 subprojects&#58;<br />&#43; One that relies on IMDb to perform the search and get information on the film &#40;this was inspired by the IMDb Service project&#41;.<br />&#43; One that manages a private database that stores the translations.<br /><br />3 phases are considered&#58;<br />-&#62; Phase 1 - Done&#33; &#58; publish the web service. <br />-&#62; Phase 2&#58; add functionalities for a public but controled access to the database to allow updates.<br />-&#62; Phase 3&#58; top secret&#33; &#59;-&#41;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "IMDb,film,movie,translation,",
+  "LastEdited": "2008-06-15T05:27:26.707-07:00"
+}

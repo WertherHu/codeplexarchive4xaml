@@ -1,0 +1,9 @@
+{
+  "ProjectName": "trul",
+  "Title": "Trul - .NET 4.0 NTier Sample App",
+  "Description": "Trul - .NET 4.0 NTier Sample App",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Trul - .NET 4.0 NTier Sample App<br />.net 4.0 NTier sample app<br /><br /><b>Technologies</b><br />ASP.NET MVC 4 (Web Application)<br />ASP.NET MVC 4 (Mobile Application)<br />Entity Framework 5.0 Poco<br />LINQ to Entities<br />Expression Trees<br />Auto Mapper<br />Castle Windsor<br />JQuery<br />JQuery Mobile<br />Knockout<br />Knockout Mapping<br />Twitter Bootstrap<br />Font Awesome<br />T4 Text Templates<br />MiniProfiler<br /><br /><b>Software Patterns</b><br />Repository Pattern <br />Service Locator Pattern <br />Service Layers pattern<br />Domain Driven Design (DDD) Pattern<br />Data Transfer Object (DTO) Pattern<br />Cross Cutting Design Pattern<br />Dependency Injection <br />Specification Pattern<br />MVVM Pattern<br />Factory Pattern<br />Singleton Pattern</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,Repository pattern,jquery mobile,knockout,Twitter Bootstrap,Auto Mapper,DTO Pattern,ntier,Service Layers,DDD Pattern,ASP.NET MVC,",
+  "LastEdited": "2013-01-22T02:53:44.683-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "somekit",
+  "Title": "Some Kit",
+  "Description": "Client library for invoking simple REST services based on URIs only. Simple POCO serialization applied. Asynchronous as well as synchronous (using manual reset events, not synchronization contexts) supported. Target: Full .NET, Silverlight 4 as well as Phone 7 Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "\r\n<div class=\"wikidoc\">\r\n<p>Simple client library for:</p>\r\n<ul>\r\n<li>Performing basic HTTP invocation of services. </li><li>Adding simple basic authentication. </li><li>Persistence of data using POCO persistence with DataContractSerializer and DataContractJsonSerializer.\r\n</li><li>Encrypting data using AES. </li></ul>\r\n<p>Created for the simple scenario of ie. not having proxies for some REST service, wanting to persist object graphs in normal files or isolated storage (Silverlight 4 or Phone 7).</p>\r\n<p>Supports any verb, but extra wrappers supported for GET, PUT, POST and DELETE. Asynchronous as well as synchronous wrappers for everything using normal HOFs. Json and Xml serialization wrappers provided - works using simple POCO serialization with either\r\n the DataContractSerializer or the DataContractJsonSerializer. No complicated type-discovery supported - decorate your type using [KnownType] if necessary.</p>\r\n<p>Basic authentication supported. Targets are: full .NET 4, Silverlight 4 and Phone 7 silverlight. Should work fine for XNA as well.</p>\r\n</div>\r\n",
+  "TagList": "REST,RESTful,HTTP,Phone 7,silverlight 4,JSON,Xml,aes,",
+  "LastEdited": "2010-12-06T07:54:38.367-08:00"
+}

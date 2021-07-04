@@ -1,0 +1,9 @@
+{
+  "ProjectName": "byldan",
+  "Title": "Byldan",
+  "Description": "Byldan is a .NET version of Maven. Unlike NAnt which is procedural, Byldan employs descriptive project files to manage the build.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Byldan is a .NET version of Maven. Unlike NAnt which is procedural, Byldan employs descriptive project files to manage the build.<br /><br /><br /><a href=\"https://byldan.codeplex.com/wikipage?title=Documentation%20%280.5%29&referringTitle=Home\">Documentation &#40;0.5&#41;</a><br /><br /><a href=\"https://byldan.codeplex.com/wikipage?title=Documentation%20%280.4%29&referringTitle=Home\">Documentation &#40;0.4&#41;</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "nunit,C#,build,automation,build tools,build tool,maven,",
+  "LastEdited": "2008-12-16T10:05:58.267-08:00"
+}

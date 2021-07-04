@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NGNImgGetter",
+  "Title": "NG Image Getter",
+  "Description": "Nationalgeographic has really stunning photos! They allow to download them via website. This program automates that process.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>The application to automate image download from <a href=\"http://www.nationalgeographic.com\">www.nationalgeographic.com</a></h3>\r<hr />\nNational geographic has really high quality images. They also have some picks like &quot;Photo of the Day&quot; and others. They allow download that photos as wallpapers. This program is attempt to automate that process. With <a href=\"http://msdn.microsoft.com/en-us/library/t71a733d(v=vs.80).aspx\">&quot;ClickOnce&quot;</a> release model you will stay secured from program&#39;s strange actions and always have latest version.<br /><br />For now the program is in &quot;alpha&quot; stage. So there are just some basic ideas implemented in it.<br /><i>Features</i>\n<ul><li>Grab <a href=\"http://photography.nationalgeographic.com/photography/photo-of-the-day/\">&quot;Photo of the Day&quot;</a> and save it to the selected location.</li></ul>\n<br /><br />Api for grabbing images from webpages is from another project: <a href=\"https://bitbucket.org/0x39dc/imagegrabberapi\">ImageGrabberAPI</a>.<br /><br /><i>Thank you for attention.</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,national geographic,ngn,photo of the day,downloader,wallpaper,grabber,image,clickonce,desktop,windows,wpf,",
+  "LastEdited": "2011-01-20T04:59:08.237-08:00"
+}

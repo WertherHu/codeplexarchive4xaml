@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bcplayer",
+  "Title": "BCPlayer - Game Audio API (for music made with BeepComp)",
+  "Description": "Game audio API to play music made with BeepComp chiptune app. 16 channels of sound effects (WAV/OGG files) can be loaded and played on top of music.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>BCPlayer is Game audio API to play music made with BeepComp chiptune app. Play music directly from text source files. 16 channels of sound effects (WAV/OGG files) can be loaded and played on top of music.</p>\r\n<p>The Chiptune app BeepComp can be downloaded at:<br>\r\n<a href=\"http://hiromorozumi.com/beepcomp\">http://hiromorozumi.com/beepcomp</a></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://hiromorozumi.com/beepcomp/images/bcplayer_demo_1_550.png\" alt=\"\" width=\"550\" height=\"433\"></p>\r\n<p><img src=\"https://farm2.staticflickr.com/1532/26407544482_c59f520727_b.jpg\" alt=\"BCPlayer game audio early demo.\" width=\"665\" height=\"329\"></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-06-07T00:53:10.58-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wztooltip",
+  "Title": "ASP.NET 2.0 wrapper for wz_tooltip",
+  "Description": "wz_tooltip is a JavaScript library for displaying fancy tooltips (thanks to its author, Walter Zorn!).\nThis project provides a custom web control which wraps wz_tooltip's functionality.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />wz_tooltip is a JavaScript library for displaying fancy tooltips &#40;thanks to its author, Walter Zorn&#33;&#41;.<br />This project provides a custom web control which wraps wz_tooltip&#39;s functionality.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wz_tooltip,tooltip,ASP.NET,",
+  "LastEdited": "2008-02-05T04:19:37.263-08:00"
+}

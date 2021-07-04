@@ -1,0 +1,9 @@
+{
+  "ProjectName": "invinilocalization",
+  "Title": "Invini.Localization",
+  "Description": "Localization framework for WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>SUMMARY</h1>\r\nLocalization framework for WPF.<br /><br />Available features:\n<ul><li>translations are defined in resource dictionaries with XAML instead of old ResX files,</li>\n<li>translations are resolved from down to top, if UI culture is set to en-us for example and there is no translation for this culture the library tries to find translation for en culture and If this one doesn&#39;t exist also then invariant culture is used,</li>\n<li>support for dual translations, library returns translations for both current culture and the invariant one, invariant culture may be used to deliver messages in culture which is understood by your support team,</li>\n<li>culture may be changed at runtime without restarting the application or refreshing current view,</li>\n<li>injecting runtime variables into translations is possible,</li>\n<li>translations are not  limited to strings, any object may be translated,</li>\n<li>non-UI classes also may be localized,</li>\n<li>converters may be used with the library,</li>\n<li>different culture may be specified for design-time.</li></ul>\nPlease refer <a href=\"https://invinilocalization.codeplex.com/documentation\">Documentation</a> for details.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Localization,WPF,Globalization,Locales,Translations,cultures,",
+  "LastEdited": "2015-01-13T23:49:39.987-08:00"
+}

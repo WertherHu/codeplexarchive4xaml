@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AjaxForWinForms",
+  "Title": "AjaxForWinForms",
+  "Description": "It's purpose is to have the Ajax controls on Windows Forms\nIt's developed in C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project aims at releasing at Windows Forms the same controls as the Asp.Net Ajax Controls Toolkit<br />The first release is TextBoxWatermark<br />http://ajax.asp.net/ajaxtoolkit/TextBoxWatermark/TextBoxWatermark.aspx</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,.NET,winforms,Controls,.NET 2.0,Windows Forms,AJAX Control Toolkit,AjaxForWinForms,",
+  "LastEdited": "2007-06-14T12:16:29-07:00"
+}

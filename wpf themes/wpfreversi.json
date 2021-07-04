@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfreversi",
+  "Title": "WPF Reversi",
+  "Description": "This is a an implementation of the Reversi game, or Othello with on WPF, using the well-known pattern MVVM. A very simple interface, fast, and good player.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a an implementation of the Reversi game, or Othello with on WPF, using the well-known pattern MVVM. A very simple interface, fast, and good player.<br /><br />This proyect is an implementation of the Reversi Game (Othello). It is implemented over the .NETFramework 4.0 using WPF.<br /><br />The AI for this game burns in an university proyect, where each student implemented an othello game player and we played a tournament. The best players get the maximun calification. This player was the champion of the tournament.<br />For this tournament was a rule that all the move should take less than 15 seconds, and also the player should not use store information. For this reason the main algorithm for the AI is the Mini-Max algorithm with the Alpha-Beta prune. <br /><br /><img src=\"/projects/wpfreversi/013b8b57-4076-480f-bf51-5466fbf63691\" alt=\"othello.jpg\" title=\"othello.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Reversi,Othello,MVVM,AI,",
+  "LastEdited": "2013-09-13T12:23:25.197-07:00"
+}

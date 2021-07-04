@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azlivestreaming",
+  "Title": "Windows Azure Live Smooth Streaming",
+  "Description": "Windows Azure Live Smooth Streaming Project is self-contained package for quickly deploying   Live Smooth Streaming solution to Windows Azure. Project contains:\r\n- VS 2010 solution ready to be published\r\n- Web portal with Silverlight player\r\n- Auto-configuration for Media Services ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windows Azure Live Smooth Streaming Project is self-contained package for quickly deploying   Live Smooth Streaming solution to Windows Azure. Project contains&#58;<br />- VS 2010 solution ready to be published<br />- Web portal with Silverlight player<br />- Auto-configuration for Media Services <br />\n<hr />\n<b>UPDATED!</b><br />Release 0.2.2 updated with minor fixes - read release notes<br /><a href=\"/projects/azlivestreaming/ca4dba46-5c4c-4b39-aa04-263bccc55dc3\">Download Deployment Guide</a> or <a href=\"https://azlivestreaming.codeplex.com/documentation?referringTitle=Home\">read online documentation</a>\n<hr />\n<b>Important!</b><br />Release prior 0.2.2 fixed bug when no Media Service is installed during deployment procedure.<br />Please use latest release.\n<hr />\n<br />Web portal for easy configuration included:<br /><img src=\"/projects/azlivestreaming/009965be-6227-408d-8688-0a8fed1b2094\" alt=\"cp_azlivestreaming.png\" title=\"cp_azlivestreaming.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure,Live Streaming,Media Services,Smooth Streaming,",
+  "LastEdited": "2011-07-18T11:32:59.587-07:00"
+}

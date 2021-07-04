@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TFSBranchPermRemoval",
+  "Title": "TFS Branch Permission Removal Event Subscriber",
+  "Description": "When you create a branch in TFS, the explicit TFS source control permissions from the source branch are copied to the target branch. Let's change that...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project is going to be moved to the TFS Plugins Suite</h1>\r<b><a href=\"https://tfspluginsuite.codeplex.com/\">https://tfspluginsuite.codeplex.com/</a></b><br /><br /><b>Project Description</b><br />When you create a branch in TFS, the explicit TFS source control permissions from the source branch are copied to the target branch. Let&#39;s change that...<br /><br />In order to adhere to the principle of least privilege, we needed to change the behavior so that permissions granted on the “Main” branch for developers would NOT propagate to staging and production branches (we’re using the code promotion branching model). A lot of people who are in this position seem to be removing the explicit permissions manually, but let&#39;s automate it.<br /><br />Download the BranchSecurityInheritOnly.dll and copy it to your %Program Files%\\Microsoft Team Foundation Server 11.0\\Application Tier\\Web Services\\bin\\Plugins folder on your TFS Server. Since it&#39;s using the Event Subscriber, that&#39;s it!<br /><br />Caveats:<br />Supports only TFS 2012 Update 1, but you could easily recompile for earlier versions.<br />Works only with first class branches.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Branching,version control,source ccontrol,team foundation,source control,",
+  "LastEdited": "2013-06-01T10:36:36.877-07:00"
+}

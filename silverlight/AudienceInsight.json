@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AudienceInsight",
+  "Title": "Microsoft Media Platform - Audience Insight",
+  "Description": "Part of the Microsoft Media Platform, Audience Insight utilizes Azure and SQL Server StreamInsight to facilitate real-time quality and usage analytics for Silverlight and Flash media projects",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nPart of the Microsoft Media Platform, <strong>Audience Insight</strong> utilizes Azure and SQL Server StreamInsight to facilitate real-time quality and usage analytics for Silverlight and Flash media projects<br>\r\n<br>\r\n<strong>Audience Insight</strong>:</p>\r\n<ul>\r\n<li>Enables low latency KPI visibility for online media experiences </li><li>React proactively and with precision </li><li>Extend query model to meet specific business requirements </li><li>Real time shaping and aggregation eliminates event noise </li><li>SaaS focused framework </li><li>Create or extend business models </li><li>Leverage the cloud to manage volatility </li><li>Open source </li></ul>\r\n<p>&nbsp;Update [September 2011]:</p>\r\n<p>We are finishing some tidy-up work on the codebase and putting it through a series of scalability tests on real events to make sure what we release is robust and reliable enough to use &quot;out of the box&quot; at scale, as well as to try and make it as generic enough\r\n to allow developers to build on the experience in as simple a way as possible. We are hoping to have an initial release documented and through the legal approvals process by the end of the year</p>\r\n<p>Thanks for your patience.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-09T10:36:37.997-07:00"
+}

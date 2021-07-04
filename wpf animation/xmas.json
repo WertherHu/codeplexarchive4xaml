@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xmas",
+  "Title": "Xna Multiplatform Animation System",
+  "Description": "XMas is a complete graphical animation system for XNA based in Unreal Animation Editor. You can create animations graph and bind with reflexion to your class. XMas include a graphical editor and a library for XBOX36",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2><b>Project Description</b></h2>\rXMas is a complete graphical animation system for XNA based in <a href=\"http://www.unrealtechnology.com/features.php?ref=animation\">Unreal Animation Editor</a>.You can create animations graph and bind with reflexion to your class. XMas include a graphical editor and a library for XBOX36.<br />You can check the current <a href=\"https://xmas.codeplex.com/documentation?referringTitle=Home\">Documentation</a> or a complete <a href=\"https://xmas.codeplex.com/wikipage?title=Tutorial&referringTitle=Home\">Tutorial</a>\n<h2><b>News</b></h2>\r<b>12-21-2008 -- Today is xmas day!!  Initial release!!</b> Download now !!\n<h2><b>Features</b></h2>\r<ul><li>Graphical editor</li>\n<li>XBOX360 and Windows support</li>\n<li>Basic animation nodes included: crossfade, blendlist, rangedcrossfade, random</li>\n<li>Support to create custom animation nodes</li>\n<li>Cal3d importer</li>\n<li>XNA 3.0</li></ul>\n<h2><b>Planing</b></h2>\r<ul><li>More models importers</li>\n<li>Custom model importers</li></ul>\n<h2><b>Credits</b></h2>\rXMas written by Jose Arias <a href=\"mailto:liaven@hotmail.com\">Email me!</a><br />Cald3d importer and skeleton  library by <a href=\"http://www.codernet.es\">Spear</a><br />Gradient Panel by Own<br />\n<h2><b>Pictures</b></h2>\r<b>Editor</b><br /><img src=\"/projects/xmas/1892eeae-329c-4925-b62b-824136aa21d0\" alt=\"Editor1.JPG\" title=\"Editor1.JPG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-12-21T14:48:16.147-08:00"
+}

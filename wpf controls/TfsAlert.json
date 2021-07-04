@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TfsAlert",
+  "Title": "TfsAlert",
+  "Description": "TfsAlert is a Windows System Tray application which monitors for subscribed TFS notifications and will display a balloon window accordingly.  In addition to notifications a user will have the ability to control limited TeamBuild functionality.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><a href=\"https://tfsalert.codeplex.com/wikipage?title=News%20Feeds&referringTitle=Home\">News Feeds</a>\n<h4>TfsAlert</h4>\r\nWelcome!! TfsAlert is a .Net 3.0 smart client which monitors for user selected TFS events and will display a balloon window in the Windows TaskBar Notification Area.  It is built on top of WCF where you can subscribe to any TFS event you feel fit.  It&#39;s initial focus is around Team Build management but will also include features around Work Item tracking.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,.NET,C#,alert,wcf,.net 3.0,",
+  "LastEdited": "2006-12-07T15:16:02.533-08:00"
+}

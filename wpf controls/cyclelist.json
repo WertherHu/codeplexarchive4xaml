@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cyclelist",
+  "Title": "CycleList",
+  "Description": "A replacement for the WPF ListBox Control. Displays only a single item and allows the user to change the selected item by clicking on it once. Very useful for touch screen apps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A replacement for the WPF ListBox Control. Displays only a single item and allows the user to change the selected item by clicking on it once. Very useful for touch screen apps.<br /><br />A picture, or more to the point, a movie is worth a thousand words... Here is a Grid control that shows a Label and a CycleList for five different pieces of equipment. Download the source code to see how this demo works. There are two demos, one is straight up WPF (Cirrostrata.CycleList.Test) and the other one uses <a href=\"http://caliburn.codeplex.com/\">Caliburn</a> (Cirrostrata.CycleList.CaliburnTest)<br /><br /><img src=\"/projects/cyclelist/f7159577-550a-4ff2-b411-ec5933bf775b\" alt=\"CycleListDemo.gif\" title=\"CycleListDemo.gif\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-08T15:35:59.277-08:00"
+}

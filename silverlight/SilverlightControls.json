@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightControls",
+  "Title": "Silverlight Extended Controls",
+  "Description": "The purpose of this control library is to extend the basic controls that Microsoft has provided with Silverlight. The focus of this project is on controls useful for business applications. For example: Navigation and Data Controls. This libray is built using Silverlight 2 beta 1. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The purpose of this control library is to extend the basic controls that Microsoft has provided with Silverlight. The focus of this project is on controls useful for business applications. For example&#58; Navigation and Data Controls. This libray is built using Silverlight 2 beta 1. <br /><br /><br />Current version includes a NavigationPane control inspired by the Outlook NavigationPane.  Future work on this control should include a collapse NavigationPane button and a &quot;NavigationButtonLocation&quot; property(top,bottom,..)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight Controls,",
+  "LastEdited": "2008-05-10T21:36:46.383-07:00"
+}

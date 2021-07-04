@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VS2010RC1FIX",
+  "Title": "VS2010 Rc1 Fix",
+  "Description": "Illustrates a fix for working with the ASAP.NET Wizard control with VS2010 RC1",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Illustrates a fix for working with the ASAP.NET Wizard control with VS2010 RC1<br /><br /><br />This is a very simple project implementing a Microsoft Walkthrough at <a href=\"http://msdn.microsoft.com/en-us/library/wdb4eb30%28VS.100%29.aspx and the manual patch required to get the project to compile. This fix was documented at [url:http://blogs.msdn.com/webdevtools/archive/2010/02/18/workaround-missing-declarations-for-controls-in-designer-file.aspx\">http://msdn.microsoft.com/en-us/library/wdb4eb30%28VS.100%29.aspx and the manual patch required to get the project to compile. This fix was documented at [url:http://blogs.msdn.com/webdevtools/archive/2010/02/18/workaround-missing-declarations-for-controls-in-designer-file.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-23T08:09:39.507-08:00"
+}

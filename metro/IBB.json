@@ -1,0 +1,9 @@
+{
+  "ProjectName": "IBB",
+  "Title": "Instant Beautiful Browsing",
+  "Description": "IBB is a Workspace that has a Windows 8 Look And Feel.\r\nThe application will be restored in July of 2014. :)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><a href=\"https://ibb.codeplex.com/wikipage?title=Screen%20Shots&referringTitle=Home\">Screen Shots</a><br /><img src=\"/projects/IBB/78f1c25e-472c-464c-a0a2-1cdfba145412\" alt=\"standarColor.png\" title=\"standarColor.png\" /><br />Instant Beautiful Browsing is a application that mimics the Windows 8 metro interface. This application can be used in case you wanna have the Windows 8 metro interface on your machine without the need of installing a new Operative System. <br />In the near future IBB will include more built-in apps like\n<ul><li>Calendar</li>\n<li>Store</li>\n<li>Music</li>\n<li>Google</li>\n<li>Lock Screen</li>\n<li>Setting</li>\n<li>Share Hub</li>\n<li>Devices Hub</li>\n<li>Search Hub</li></ul>\n<br /><img src=\"/projects/IBB/40fea24c-3ebf-4dbe-9671-15b25659bcec\" alt=\"banner1.png\" title=\"banner1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro UI,VB.NET,Windows Phone 7,Windows 8,Metro,Windows 7,TileDesign,transformation,IBB,InstantBeautifulBrow,InstantBeautiful,",
+  "LastEdited": "2014-08-09T10:59:55.89-07:00"
+}

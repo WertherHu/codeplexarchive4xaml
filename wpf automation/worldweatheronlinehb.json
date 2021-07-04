@@ -1,0 +1,9 @@
+{
+  "ProjectName": "worldweatheronlinehb",
+  "Title": "WorldWeatherOnline.com plug-in for HouseBot",
+  "Description": "This plug-in will use the worldweatheronline.com api and display in HouseBot automation software.\r\n\r\nPlease note that it requires the c# wrapper to work found here:\r\n\r\nhttp://www.housebot.com/forums/viewtopic.php?f=4&t=856395",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This plug-in will use the worldweatheronline.com api and display in HouseBot automation software.<br /><br />Please note that it requires the c&#35; wrapper to work found here&#58;<br /><br />http&#58;&#47;&#47;www.housebot.com&#47;forums&#47;viewtopic.php&#63;f&#61;4&#38;t&#61;856395<br /><br /><img src=\"/projects/worldweatheronlinehb/a6ac878a-8e96-42e2-b1a7-481558dddf1e\" alt=\"softwareremote.png\" title=\"softwareremote.png\" /><br /><img src=\"/projects/worldweatheronlinehb/3db793e1-260b-40a3-8a08-dfdaf58ac02b\" alt=\"screenshot.png\" title=\"screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-21T11:16:40-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfmessagebox",
+  "Title": "WPF MessageBox",
+  "Description": "WPF MessageBox is an implementation of a fully customizable MessageBox in WPF which has the exact same interface as the standard MessageBox class.\r\nCustomizing the message box is done by using styles and control templates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rWPF MessageBox is an implementation of a fully customizable MessageBox in WPF which has the exact same interface as the standard MessageBox class.<br />Customizing the message box is done by using styles and control templates.<br /><br /><img src=\"http://download.codeplex.com/download?ProjectName=wpfmessagebox&amp;DownloadId=237780\" /><br />\n<h1>Features</h1>\r<ul><li>The class WPFMessageBox has the exact same interface as the current WPF MessageBox class.</li>\n<li>Implemented as a custom control, thus fully customizable via standard WPF control templates.</li>\n<li>Has a default control template which looks like the standard MessageBox.</li>\n<li>Supports all the common types of message boxes: Error, Warning, Question and Information.</li>\n<li>Has the same “Beep” sounds as when opening a standard MessageBox.</li>\n<li>Supports the same behavior when pressing the Escape button as the standard MessageBox.</li>\n<li>Provides the same system menu as the standard MessageBox, including disabling the Close button when the message box is in Yes-No mode.</li>\n<li>Handles right-aligned and right-to-left operating systems, same as the standard MessageBox.</li>\n<li>Provides support for setting the owner window as a WinForms Form control.</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF Controls,",
+  "LastEdited": "2011-05-10T02:13:39.713-07:00"
+}

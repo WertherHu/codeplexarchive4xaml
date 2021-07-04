@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bookworm",
+  "Title": "Bookworm e-book reader",
+  "Description": "Bookworm is a WPF front-end for reading and managing e-books.\r\nIt also includes re-usable libraries for packaging, opening and indexing e-books.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Bookworm is a WPF front-end for reading and managing e-books.<br />It also includes re-usable libraries for packaging, opening and indexing e-books.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ebook,book,Books,e-book,bookworm,",
+  "LastEdited": "2009-07-29T20:20:43.01-07:00"
+}

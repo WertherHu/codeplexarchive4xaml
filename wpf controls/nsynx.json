@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nsynx",
+  "Title": "NSynx",
+  "Description": "NSynx is an integration application that enables you to send, retrieve data from multiples sources and let them connect each other by defining a set of work-flow statements.\n\nThe current planing contains an implementation of a flow engine that executes/evaluates actions.\nThese actions could be a control flow , a data transformation  or a auditing/logging step.\n\nThe development has just started , thus do not expect much implementation on the following days/week and don't forget that your opinions are very important. Hence if you have any thoughts , please don't hesitate to drop couple of words.\n\nI do not eager to implement flows using Windows Workflow Foundation in the near future.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />NSynx is an integration application that enables you to send, retrieve data from multiples sources and let them connect each other by defining a set of work-flow statements.<br /><br />The current planing contains an implementation of a flow engine that executes&#47;evaluates actions.<br />These actions could be a control flow , a data transformation  or a auditing&#47;logging step.<br /><br />The development has just started , thus do not expect much implementation on the following days&#47;week and don&#39;t forget that your opinions are very important. Hence if you have any thoughts , please don&#39;t hesitate to drop couple of words.<br /><br />I do not eager to implement flows using Windows Workflow Foundation in the near future.<br /><br />Project website : <br /><br /><a href=\"http://www.nsynx.com\">http://www.nsynx.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-08-12T11:14:26.683-07:00"
+}

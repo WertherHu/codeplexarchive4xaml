@@ -1,0 +1,9 @@
+{
+  "ProjectName": "naviFM",
+  "Title": "Navi File Manager",
+  "Description": "C# WPF file manager implementation uses winapi",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project description</strong><br>\r\nNavi is open source file manager.</p>\r\n<p>Program uses winapi for high performance.</p>\r\n<p>Project include</p>\r\n<p>* monitor the file system<br>\r\n* copying files<br>\r\n* <span>standard operations with files</span><span style=\"font-size:10pt\">&nbsp;</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-04-01T02:44:38.023-07:00"
+}

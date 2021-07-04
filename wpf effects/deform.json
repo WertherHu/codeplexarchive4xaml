@@ -1,0 +1,9 @@
+{
+  "ProjectName": "deform",
+  "Title": "DeForm",
+  "Description": "DeForm is a WinRT component that allows you to apply a pipeline of effects to a picture.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DeForm is a WinRT component that allows you to apply a pipeline of effects to a picture.<br /><br /><a href=\"http://blogs.msdn.com/b/eternalcoding/archive/2012/08/13/creating-a-winrt-component-using-c-cx-deform-a-direct2d-effect-toolkit.aspx\">http://blogs.msdn.com/b/eternalcoding/archive/2012/08/13/creating-a-winrt-component-using-c-cx-deform-a-direct2d-effect-toolkit.aspx</a><br /><br /><img src=\"http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-73-metablogapi/0181.image_5F00_132BCC8D.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C++/CX,c++,WinRT,Direct2D,",
+  "LastEdited": "2013-01-14T00:52:43.603-08:00"
+}

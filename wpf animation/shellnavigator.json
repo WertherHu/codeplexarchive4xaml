@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shellnavigator",
+  "Title": "ShellNavigator",
+  "Description": "This tool will help you in common scenario:\r\n\r\n\"Well, I've found a file in explorer, I want to open solution which contains project which contains my file\"\r\n\r\nShellNavigator will add some Windows Shell extensions and allow to open selected file in VisualStudio within proper solution.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This tool will help you in common scenario&#58;<br /><br />&#34;Well, I&#39;ve found a file in explorer, I want to open solution which contains project which contains my file&#34;<br /><br />ShellNavigator will add some Windows Shell extensions and allow to open selected file in VisualStudio within proper solution.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Visual Studio,Windows Shell,WPF,",
+  "LastEdited": "2011-12-14T00:28:52.627-08:00"
+}

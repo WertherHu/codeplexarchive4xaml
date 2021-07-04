@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flintsilverlight",
+  "Title": "Flint Particle System for Silverlight",
+  "Description": "Flint Particle System (Particle Engine) for Silverlight,based on original Flint Particles. XNA framework is not required.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Flint Particle System (Particle Engine) for Silverlight.<br />Migrated from FlintSharp <a href=\"http://code.google.com/p/flint-sharp/\">http://code.google.com/p/flint-sharp/</a>.<br />Based on original Flint Particles <a href=\"http://flintparticles.org/\">http://flintparticles.org/</a>.<br /><br />This is standalone particle system, XNA framework is not required.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "particles,particle,Silverlight,",
+  "LastEdited": "2012-05-03T18:56:05.963-07:00"
+}

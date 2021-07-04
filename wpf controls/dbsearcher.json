@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dbsearcher",
+  "Title": "Database Searcher",
+  "Description": "This is a small tool for searching a typed value inside all type matching columns and rows of a database. For connecting the database a .NET data provider for the server is required. The code is written in C# 3.0",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a small tool for searching a typed value inside all type matching columns and rows of a database. For connecting the database a .NET data provider for the server is required. The code is written in C&#35; 3.0<br /><br />Uses the <a href=\"http://wpf.codeplex.com/Wikipage\">WPF-Toolkit DataGrid</a>, .NET 3.5 SP1 and Visual Studio 2008.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Database,Database Tools,.NET 3.5 SP1,.NET 3.5 DB,WPF,data provider,",
+  "LastEdited": "2010-04-12T23:21:42.483-07:00"
+}

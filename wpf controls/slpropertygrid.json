@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slpropertygrid",
+  "Title": "Silverlight PropertyGrid",
+  "Description": "This project is a PropertyGrid implementation for Silverlight 2.0\nA propertygrid is a useful control that allows for dynamic user interface creation. You simply give the control the object you wish to edit and the UI is dynamically created for you.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is a PropertyGrid implementation for Silverlight 2.0<br />A propertygrid is a useful control that allows for dynamic user interface creation. You simply give the control the object you wish to edit and the UI is dynamically created for you.<br />The implementation uses the Expander control contained in the <a href=\"http://www.codeplex.com/Silverlight\">Silverlight Toolkit</a><br /><br /><b>Project Status</b><br />The first release has basic functionality. It has support for built-in types, enums and sub-objects. It supports properties categories.<br /><br /><img src=\"/projects/slpropertygrid/6be772c8-33cf-44ee-8f51-d11df892aa5e\" alt=\"screenshot\" title=\"screenshot\" /><br /><br /><b>Roadmap</b><br />The following steps are:\n<ul><li>Adding support for collections</li>\n<li>Make the control fully skinnable</li>\n<li>Provide better extensibility</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,PropertyGrid,Control,UI,Mirshahreza,",
+  "LastEdited": "2008-12-07T15:17:28.2-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PageTurn",
+  "Title": "C# Page Turn",
+  "Description": "This project is a translation of the famous JavaScript version of the PageTurn effect into C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is a translation of the famous JavaScript version of the PageTurn effect into C&#35;.<br /><br />Credits need to go out to this site <a href=\"http://silverlight.net/samples/1.0/Page-Turn/default.html\">http://silverlight.net/samples/1.0/Page-Turn/default.html</a>.<br /><br />To view this C# version click here <a href=\"http://silverlight.services.live.com/invoke/86739/Page%20Turn%20v2.0/iframe.html\">http://silverlight.services.live.com/invoke/86739/Page%20Turn%20v2.0/iframe.html</a><br /><br />As described earlier, I simply took the JavaScript version and translated it into C#. I did leave the <b>browser</b> out, since I didn&#39;t really needed it for my purposes. <br /><br />I hope this helps some of you understand the deeper workings of Silverlight. I can only advice breaking down functionality as much as possible. Rather create more objects with specific behaviors than building it all into one massive chunk of code. <br /><br />Good luck<br /><br />--tolga<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 2.0,PageTurn,",
+  "LastEdited": "2008-12-24T23:10:30.403-08:00"
+}

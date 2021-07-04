@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AdvSampleApp",
+  "Title": "Sample app for Adventureworks database",
+  "Description": "This project is to show people how to build apps around Adventureworks sample database with latest Microsoft technologies including WPF, Silverlight, Asp.Net, WF, WIF, etc.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis project is to show people how to build apps around Adventureworks sample database with latest Microsoft technologies including WPF, Silverlight, Asp.Net, WF, WIF, etc.</p>\r\n<p>Screenshot for ASP.Net MVC Application</p>\r\n<p><img src=\"http://download.codeplex.com/download?ProjectName=advsampleapp&DownloadId=211071\" alt=\"mvc screenshot\" width=\"831\" height=\"523\" style=\"vertical-align:middle\"><br>\r\n<br>\r\nFor detailed tutorials, please visit author's <a href=\"http://blog.sina.com.cn/programmingandlife\">\r\nblog</a>.<br>\r\n<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "AdventureWorks,sample,application,wcf,WF,WPF,WIF,Silverlight,MVC,my first sqlproject,",
+  "LastEdited": "2011-02-23T18:00:20.423-08:00"
+}

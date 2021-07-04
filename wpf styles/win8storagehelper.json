@@ -1,0 +1,9 @@
+{
+  "ProjectName": "win8storagehelper",
+  "Title": "Windows 8 Storage Helper",
+  "Description": "Windows 8 Storage Helper, helps to Create, Read a Text file and Saves as Image in PictureLibrary. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Introduction</h1>\r\n<p>Windows 8 Storage Helper, helps you create/read a Text(.txt) file.</p>\r\n<p>Also it can save as image from a given web url.</p>\r\n<h1>Usage</h1>\r\n<h2>To Create a Text File</h2>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2012/08/win8storagehelper-2.png\" alt=\"Screenshot 1\" width=\"715\" height=\"259\"></p>\r\n<h2>To Read a Text File</h2>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2012/08/win8storagehelper-3.png\" alt=\"Screenshot 2\" width=\"754\" height=\"227\"></p>\r\n<h2>To Save as Image from a URL</h2>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2012/08/win8storagehelper-1.png\" alt=\"Screenshot 3\" width=\"432\" height=\"67\"></p>\r\n<p>&nbsp;</p>\r\n<p>Blog: <a href=\"http://diptimayapatra.wordpress.com\">http://diptimayapatra.wordpress.com</a></p>\r\n<p>Follow me in twitter:&nbsp;<a href=\"http://twitter.com/dpatra\">http://twitter.com/dpatra</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows 8,xaml,Metro UI,Metro,Metro Style App,DocumentLibrary,PictureLibrary,",
+  "LastEdited": "2012-08-03T10:06:11.883-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "planetx",
+  "Title": "PlanetX for Silverlight",
+  "Description": "PlanetX is a simple space strategy game. The goal is conquer all the enemy planets.\r\n\r\nInstructions:\r\n\r\nSelect planet: left mouse button\r\nAttack planet: right mouse button\r\nChange fleet percent: mouse wheel\r\n\r\nYou can try the game:\r\n\r\n[url=http://games.lidercfeny.hu/jatek.php?jatek_id=9]",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Description<br /><br />PlanetX is a simple space strategy game. The goal is to conquer all the enemy planets.<br />\t<br />Instructions<br /><br />Select planet: left mouse button<br />Attack planet: right mouse button<br />Change fleet percent: mouse wheel<br /><br />You can try the game:<br /><br /><a href=\"http://games.lidercfeny.hu/jatek.php?jatek_id=9\">http://games.lidercfeny.hu/jatek.php?jatek_id=9</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "silverlight,game,c#,strategy,",
+  "LastEdited": "2011-08-05T03:58:48.647-07:00"
+}

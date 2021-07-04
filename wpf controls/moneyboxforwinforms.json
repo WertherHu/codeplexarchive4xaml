@@ -1,0 +1,9 @@
+{
+  "ProjectName": "moneyboxforwinforms",
+  "Title": "MoneyBox for WinForms",
+  "Description": "MoneyBox is a GUI Control use to format a number input to money format. \r\nIt is like a textbox, but only allows numbers.\r\nIt' is for WinForms .Net Developers.\r\nYou'll no longer have to controls the input data, neither confuse de user.\r\nIt's developed in C#.NET Framework 3.5",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MoneyBox is a GUI Control use to format a number input to money format. <br />It is like a textbox, but only allows numbers.<br />It&#39; is for WinForms .Net Developers.<br />You&#39;ll no longer have to controls the input data, neither confuse de user.<br />It&#39;s developed in C&#35;.NET Framework 3.5<br /><br />Si desean pueden ver tambien mi blog http://studentsexperience.wordpress.com/2011/10/09/moneybox-para-winforms/</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 3.5,C#,Windows Forms,GUI,Controls,winforms,",
+  "LastEdited": "2011-10-13T23:17:01.997-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WRWPF",
+  "Title": "White Rose WPF Control Library",
+  "Description": "This library contains many controls including Web controls and Win controls with full-support in design time. It will reduce your time in work.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><a href=\"https://wrwpf.codeplex.com/wikipage?title=News%20Feeds&referringTitle=Home\">News Feeds</a><br /><b>White Rose WPF Control Library</b><br />I&#39;m a WPF rocker althouth i&#39;m new in this area. In the first time when I create a WPF program, i said: &quot;Why we just have some built-in WPF controls?&quot;. WPF allow you to do everything but I don&#39;t want to make everything, I want to use everything :-) It&#39;s the reason I implement this library.<br /><br /><b>Which control will be implemented?</b>\n<ol><li><b>Vietnamese CalendarMonth</b> (or Lunar CalendarMonth)</li></ol>\n<i>You also can use this control for other culture but it support fully for Vietnamese culture (It&#39;s easy to understand what&#39;s the reason because i&#39;m a Vietnamese). You can find the lunar date (&#226;m lịch) and some other useful information (example: tiết kh&#237;). I also support displaying weekend and holiday in a different style. If you think you need more features, please let me know. I&#39;ll try my best.</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-06-16T04:31:25.69-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sarah",
+  "Title": "SARAH - Smart Artificial Robotics Assistant Hub",
+  "Description": "SARAH is Smart Artificial Robotics Assistant Hub. It communicate with the user in human-like style, and control hardware through verbal command.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SARAH is Smart Artificial Robotics Assistant Hub. It communicate with the user in human-like style, and control hardware through verbal command.<br />S.A.R.A.H. stands for Smart Artificial Robotics Assistant Hub.<br /><br /><b>Aims</b><br />The  aims of this project is to create a virtual assistant to help use to complete their daily tasks.<br /><br /><b>Objectives</b>\n<ul><li>Develop the core system of SARAH</li>\n<li>Make SARAH able to access and control other hardware</li>\n<li>Communicate between different instance of SARAH on different platform</li></ul>\n<br /><a href=\"https://sarah.codeplex.com/wikipage?title=Features&referringTitle=Home\">Features</a><br /><br /><b>Current Status</b><br /><b>&lt;2016.05.03&gt;</b> <i>Designing project framework</i><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-05-04T20:35:48.4-07:00"
+}

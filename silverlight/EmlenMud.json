@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EmlenMud",
+  "Title": "Game Engine (EmlenMud) Revival/Rewrite",
+  "Description": "This EmlenMud revival project is an attempt to bring old MUD game code into the 21st century, using new technologies such as C# 3.5, WCF, Silverlight, and LINQ.  This game engine is currently made available for learning purposes only.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This EmlenMud revival project is an attempt to bring old MUD game code into the 21st century, using new technologies such as C&#35; 3.5, WCF, Silverlight, and LINQ.  This game engine is currently made available for learning purposes only.<br /><br />If you would like to help out or have questions, please contact me.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,silverlight,mud,EmlenMud,",
+  "LastEdited": "2009-01-11T15:55:07.653-08:00"
+}

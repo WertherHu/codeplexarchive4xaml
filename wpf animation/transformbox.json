@@ -1,0 +1,9 @@
+{
+  "ProjectName": "transformbox",
+  "Title": "Transform Box",
+  "Description": "WPF Control. Translate, Rotate, Scale, Skew selected FrameworkElement.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>WPF Control. Translate, Rotate, Scale, Skew selected FrameworkElement.</b><br /><img src=\"https://www.codeplex.com/Download?ProjectName=transformbox&amp;DownloadId=682291\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "affine,matrix,transformation,rotate,scale,skew,translate,",
+  "LastEdited": "2013-05-21T02:03:02.143-07:00"
+}

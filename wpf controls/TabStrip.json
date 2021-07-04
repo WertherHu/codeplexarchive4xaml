@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TabStrip",
+  "Title": "TabStrip ASP.NET WebControl & Tab Image Builder Tool",
+  "Description": "An ASP.NET tab control which renders as a styled unordered list ( <ul> ). A tool for creating the tab images is also included, and you can add your own as well.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An ASP.NET tab control which renders as a styled unordered list &#40; &#60;ul&#62; &#41;. A tool for creating the tab images is also included, and you can add your own as well.<br /><br /><b>Features</b><br />\n<ul><li>Design-Time support</li>\n<li>Mouseover Effects</li>\n<li>Web Accessable (Reverts to an ordinary Unordered List when stylesheet is disabled)</li>\n<li>Search Engine friendly</li>\n<li>API for dynamic manipulation</li>\n<li>Flexibile look and feel with the ability to add your own images</li>\n<li>Image generation tool provided for creating a variety of images</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,visual studio 2005,.NET 2.0,Server Controls,asp.net controls,tabbed,webcontrol,webcontrols,Tab Control,TabStrip,tabs,folders,",
+  "LastEdited": "2015-06-22T10:49:16.79-07:00"
+}

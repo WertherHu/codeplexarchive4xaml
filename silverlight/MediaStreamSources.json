@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MediaStreamSources",
+  "Title": "MediaStreamSources",
+  "Description": "这是 CodePlex 上第一个可以呈现视频的 MediaStreamSource 项目。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>项目简介</b><br />这是 CodePlex 上第一个可以呈现视频的 MediaStreamSource 项目&#12290;<br /><br /><b>主要功能</b>\n<ul><li>FlvMediaStreamSource 可以打开视频流使用 H.264 编码，音频流使用 AAC 编码，容器使用 FLV 格式的视频文件。</li>\n<li>Mp4MediaStreamSource 可以打开视频流使用 H.264 编码，音频流使用 AAC 编码，容器使用 MP4 格式的视频文件。</li></ul>\n<b>已知问题</b>\n<ul><li>视频流最末帧无法呈现；</li>\n<li>不会引发 MediaElement 的 MediaEnded 事件。</li></ul>\n<b>我的博客</b><br />欢迎你访问我的博客 <a href=\"http://scottwong.cnblogs.com/\">http://scottwong.cnblogs.com/</a><br />如果什么有问题，请直接写在评论里吧，我会在我的能力范围内尽量帮你解决的。</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,MP4,ISO/IEC 14496-12,ISO/IEC 14496-14,ISO/IEC 14496-15,FLV,FlvMediaStreamSource,Mp4MediaStreamSource,Flash Video,H.264,MediaStreamSource,Flash,",
+  "LastEdited": "2010-05-30T13:47:52.437-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfweather",
+  "Title": "WPF Weather Station Project",
+  "Description": "Weather Station project implemented using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This was a project assigned to us in our GUI class. It is a weather station program done in C#/WPF. It makes full use of the MVVM pattern. The project gives us a directory, called &quot;data&quot;, with a list of XML files from which we read in to. We read the data and display it in a graph based on the user&#39;s query.<br /><br />To use, you need to go to File-&gt;Open..., choose the directory where all the XML data is stored, and then play around with the application!<br /><br />Backend Developer: samlh<br />Frontend Developer: slezakattack</div><div class=\"ClearBoth\"></div>",
+  "TagList": "weather,station,weather station,WPF,C#,C#/WPF,.NET 4.0,WPF Toolkit,Data Visualization,",
+  "LastEdited": "2011-12-14T09:10:19.613-08:00"
+}

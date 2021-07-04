@@ -1,0 +1,9 @@
+{
+  "ProjectName": "natesroguelikegame",
+  "Title": "Nate's Roguelike Game",
+  "Description": "Nate's Rogue-like Game is a console-style rogue-like, inspired by Nethack, ADOM, and D&D, and developed in C#. \r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Nate&#39;s Rogue-like Game is a console-style rogue-like, inspired by Nethack, ADOM, and D&#38;D, and developed in C&#35;. <br /><br /><br />The game itself will be a class library, and the initial renderer will be built in WPF.<br /><br />Done: <br />Base library<br />WPF Renderer<br /><br />In-progress:<br />Random room generation <br />Basic input / movement<br /><br />To-do:<br />AStar pathfinding implementation<br />Door / corridor generation<br />Attributes<br />Skills<br />Survival / combat mechanics<br />Magic<br />Items<br />NPCs<br />Quests<br />Main Menu<br />Save / Restore Game</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,XNA,roguelike,game,",
+  "LastEdited": "2012-10-16T10:30:53.393-07:00"
+}

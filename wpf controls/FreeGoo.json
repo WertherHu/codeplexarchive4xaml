@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FreeGoo",
+  "Title": "FreeGoo - A simple World Of Goo clone",
+  "Description": "FreeGoo - A simple physics based puzzler written in C#, using Farseer for physics and WPF for rendering. The game play is heavily based on the marvelous game World Of Goo.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />FreeGoo - A simple physics based puzzler written in C&#35;, using Farseer for physics and WPF for rendering. The game play is heavily based on the marvelous game World Of Goo.<br /><br />For information about the physics engine, see <a href=\"http://farseerphysics.codeplex.com/\">http://farseerphysics.codeplex.com/</a>. My immediate goals are to migrate this project to Silverlight, you&#39;ll be able to <a href=\"http://lotsacode.wordpress.com/\">read about this on my blog</a>.<br /><br />It&#39;s severely limited at the moment, there&#39;s for istance no win-condition. But the goal is to build a tower to the rotating thingie. Once you reach it, the &quot;free goos&quot; should start to climb the structure and jump out of the level<br /><br /><img src=\"/projects/FreeGoo/2e508e07-5e16-4eb4-a737-eed313fbc013\" alt=\"FreeGooScreenshot.JPG\" title=\"FreeGooScreenshot.JPG\" /><br />\n<h2>About the name</h2>\rWhen offered goo Homer Simpson replied &quot;Ooooh, free goo!&quot;. Combine that with World of Goo and Free (as in beer) Software and you have it.<br /><br />Top 10 Favorite Foods of Homer Simpson,<br />#10, Free Goo<br /><br /><a href=\"http://animatedtv.about.com/od/homersimpson/tp/homerfoods.htm\">http://animatedtv.about.com/od/homersimpson/tp/homerfoods.htm</a><br /><br /><b>Seo</b><br />My current work is Seo (searc engine optimization) based, check out; <a href=\"http://redust.com/seo-tips\">Seo Tips for your website</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-07T00:59:37.587-07:00"
+}

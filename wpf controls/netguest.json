@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netguest",
+  "Title": "NetGuest - Online Guestbook",
+  "Description": "NetGuest gives you an easy-to-setup way of allowing your users to post comments on your website.\r\nDeveloped in Visual Basic, it gives you full control (via a simple, and complete admin backend) user comments.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />NetGuest gives you an easy-to-setup way of allowing your users to post comments on your website.<br />Developed in Visual Basic, it gives you full control &#40;via a simple, and complete admin backend&#41; user comments.<br /><br />This is my very first .NET app, so there&#39;s definitely room for improvement.<br />NetGuest installs itself. All you have to do is put it on your website and run the Default.aspx page. It uses a SQL Server database for the data source and should be easily integrated with any website design.<br /><br /><b><u>NOTE</u></b>: Because NetGuest installs it&#39;s own data source, dbcreator access to SQL Server&#39;s master database is required. Also, NetGuest tries to access this database by using the username <b>sa</b> and password <b>sa</b>. If this is incorrect, or you are able to create databases on SQL Server, please replace these values with your login details (see the text file attached)<br /><br />Any feedback on my first application will be greatly appreciated. Obviously I&#39;m working on fixing a few issues (such as the one detailed above).<br /><br />Look out for v1.2 !!!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "NetGuest,",
+  "LastEdited": "2009-05-06T01:43:57.067-07:00"
+}

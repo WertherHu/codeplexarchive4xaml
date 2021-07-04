@@ -1,0 +1,9 @@
+{
+  "ProjectName": "service4u2",
+  "Title": "Service4u2 - C# JSON MVC Service helper library",
+  "Description": "A lightweight helper library written in C# for creating services that consume REST like JSON services.  Built to quickly allow using a .Net MVC site as a JSON API.\r\n\r\nContains versions for WPF / Winforms, Silverlight 3 and 4, and Windows Phone 7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A lightweight helper library written in C&#35; for creating services that consume REST like JSON services.  Built to quickly allow using a .Net MVC site as a JSON API.<br /><br />Contains versions for WPF &#47; Winforms, Silverlight 3 and 4, and Windows Phone 7.<br /><br />Created by <a href=\"http://jacob4u2.blogspot.com\">Jacob Gable</a><br />\n<h1>Examples</h1>\r\n<h2>Simple GET</h2>\r\n<img src=\"/projects/service4u2/952ca078-0330-4d3c-b058-5f08e099b21b\" alt=\"Simple&#32;GET\" title=\"Simple&#32;GET\" /><br />\n<h2>Simple POST</h2>\r\n<b>TODO</b><br />\n<h2>POST Array of Custom Objects</h2>\r\n<b>TODO</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Win Phone 7,MVC,JSON,Silverlight 4,",
+  "LastEdited": "2010-06-18T12:17:36.397-07:00"
+}

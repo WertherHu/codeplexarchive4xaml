@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfonyx",
+  "Title": "WPF Onyx",
+  "Description": "WPF Model-View-ViewModel framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Model-View-ViewModel framework.<br /><br />Onyx is a framework that aids in the development of WPF applications that follow the Model-View-ViewModel pattern.  The biggest reason for following this pattern is to allow you to unit test as much of your presentation logic as possible, without having to resort to fragile and difficult UI automation.  What this generally means is that as much of the code as possible should be moved out of the View and it&#39;s codebehind, and into the ViewModel.  Unfortunately, it can often be very difficult to move logic into the ViewModel while not creating a tight coupling to the specific View, or to any UI framework code, which would cause unit testing to become much more difficult.  Onyx uses a novel approach based on <i>IServiceProvider</i> which allows the ViewModel to interact with the View in an entirely decoupled and testable manner.<br /><br />For more information about how to use Onyx, see the <a href=\"https://wpfonyx.codeplex.com/wikipage?title=Introduction&referringTitle=Home\">Introduction</a>.<br /><br />To read what others have said, see <a href=\"https://wpfonyx.codeplex.com/wikipage?title=SeenOnWeb&referringTitle=Home\">SeenOnWeb</a>.<br />\n<h2>Not yet released</h2>\r\nOnyx is currently under heavy development.  The core is complete and works for WPF.  Nothing should prevent you from checking the source out and using it today.  However, we won&#39;t release the project until we&#39;ve ported it to work under Silverlight as well, and provided more extensive sample applications.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,Model View ViewModel,.NET 3.5,.NET,C# 3,wpf patterns,WPF MVVM,framework,WPF frameworks,Silverlight,mvvm,",
+  "LastEdited": "2009-04-15T06:11:57.737-07:00"
+}

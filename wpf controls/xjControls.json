@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xjControls",
+  "Title": "xjControls",
+  "Description": "I found myself rebuilding a handful of controls from project to project. They've reached a decent level of polish so I thought I'd start a repository and package some of these things up.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />I found myself rebuilding a handful of controls from project to project. They&#39;ve reached a decent level of polish so I thought I&#39;d start a repository and package some of these things up.<br /><br />I want to deliver easy to implement jQuery plugins, like <a href=\"https://xjcontrols.codeplex.com/wikipage?title=xjStatusBar&referringTitle=Home\">xjStatusBar</a>, that can also leverage the great design of jQuery UI.<br /><br />I just started this with some bare bones ASP.Net projects today. I have yet to seed the guts of the plugin properly and get the simple sample online. Ideally, I want to demonstrate xjControls in the ASP.Net MVC template that I included in the source.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-29T16:06:11.677-07:00"
+}

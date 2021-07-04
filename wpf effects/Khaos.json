@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Khaos",
+  "Title": "Khaos: WPF Web Browser",
+  "Description": "This a a web browser, html parser and html render written completely in .net using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><img src=\"/projects/Khaos/8b068dae-ab65-4af4-b5db-94743606131d\" alt=\"logo.png\" title=\"logo.png\" /> Khaos Web Browser</h1>\r This project is the development of a web browser in C#<br /><br />The browser is still in early stages of development and only supports basic static webpages.<br /><i>Note: this project is now out of date and has no activity, I&#39;ll update this page when and if that changes</i><br /><br />The Khaos project goals are to build a browser that is easy to understand and extend. This is done by placing focus on high quality design and architecture the result is a highly extensible and modular series of web technology components. Emphasis is also placed on simplicity and code quality in order to enhance understanding and extensibility.<br /><br />Screenshot of the current version<br /><img src=\"/projects/Khaos/47642aa9-bbf9-4ecb-aee5-2f88397274e3\" alt=\"Web&#32;Browser.jpg\" title=\"Web&#32;Browser.jpg\" /> <br /><br />You can follow my personal blog at <a href=\"http://lavinski.tumblr.com\">http://lavinski.tumblr.com</a> or twitter at <a href=\"http://twitter.com/lavinski\">http://twitter.com/lavinski</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Web Browser,DOM,Html Parser,html,html render,wpf,",
+  "LastEdited": "2011-06-29T19:55:37.05-07:00"
+}

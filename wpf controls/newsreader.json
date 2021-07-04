@@ -1,0 +1,9 @@
+{
+  "ProjectName": "newsreader",
+  "Title": "News reader",
+  "Description": "A simple news reader app for Windows Phone 7 using the Panorama control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple news reader app for Windows Phone 7 using the Panorama control<br /><br /><b>Detail:</b><br />Every one must have header about the panorama control available for the Windows Phone 7 applications. But have you created an app using it? This project creates a simple news reader app using the panorama control.<br /><br />The app will have two panorama screens, the first one will display the top stories, while the other will show a list of news categories for the user to choose.<br /><br /><img src=\"http://worldwidecode.files.wordpress.com/2011/03/top-stories.png\" /><br /><br /><img src=\"http://worldwidecode.files.wordpress.com/2011/03/categories.png\" /><br /><br /><img src=\"http://worldwidecode.files.wordpress.com/2011/03/world1.png\" /><br /><br />For more vist my blog post <a href=\"http://worldwidecode.wordpress.com/2011/03/30/news-reader-windows-phone-7-panorama-app/\">News reader: Windows Phone 7 Panorama App</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-30T05:14:13.613-07:00"
+}

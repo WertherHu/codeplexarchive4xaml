@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stackoverflow",
+  "Title": "StackOverflow.Net",
+  "Description": "A C# library for the StackOverflow API (currently in beta). Provides methods for every call currently in the StackOverflow API.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>StackOverflow.Net has been renamed and moved to <a href=\"http://stacky.codeplex.com\">http://stacky.codeplex.com</a>.</h1>\r<h2>All future updates and releases will be done from there.</h2>\r\nThanks,<br />The Management</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Stackoverflow,REST,C# 4.0,C#,Silverlight,silverlight 4,",
+  "LastEdited": "2010-06-11T22:52:16.803-07:00"
+}

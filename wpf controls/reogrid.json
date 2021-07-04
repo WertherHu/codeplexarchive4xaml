@@ -1,0 +1,9 @@
+{
+  "ProjectName": "reogrid",
+  "Title": "ReoGrid - .NET Spreadsheet Control",
+  "Description": "Supports Merge, Cells Style, Border Style, Data Format, Group and Outline, Cell Types, Freeze, Zoom, Undo/Redo/Repeat, Formula Evaluation and Script Execution.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br /><br />\n<h1>We have moved to <a href=\"http://reogrid.net\">ReoGrid.NET</a></h1>\r\n<br />\n<hr />\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,winform,Spreadsheet,UI Control,",
+  "LastEdited": "2014-06-08T00:42:10.907-07:00"
+}

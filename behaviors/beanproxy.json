@@ -1,0 +1,9 @@
+{
+  "ProjectName": "beanproxy",
+  "Title": "BeanProxy",
+  "Description": "BeanProxy is both a mock library as well as a stub factory. It can be configured for behavior or state verification. It has a truly rich API for strong typing of both method names and parameters. Enjoy its elegant use of delegates and property overloading for simple unit testing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />BeanProxy is both a mock library as well as a stub factory. It can be configured for behavior or state verification. It has a truly rich API for strong typing of both method names and parameters. Enjoy its elegant use of delegates and property overloading for simple unit testing.<br /><br /><b>Announcement!</b> BeanProxy 3.0 has brought in a lot of great features for defining predicted behavior. Also, an expert TDD consultant has reviewed the BeanProxy project and given some priceless feedback. As a result, I will be working to rename much of the API (mostly to simplify and reduce the number of calls needed to operate the system). Considering version 3.0 has just been released, it seems too soon to make a large number of breaking changes to move to version 4. Therefore, BeanProxy will have a new name and a new look (starting at a new version 1.0) in its next release. <u>This</u> project site will remain up for those using the old BeanProxy API. Any relevant updates will be merged over to 3.0 and may increase the version up to &lt;4.0.<br /><br />The next version of BeanProxy will be under the new project, <a href=\"http://smug.codeplex.com\">Smug</a>. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,C# 3.5,.NET,Unit Testing,proxy,mock,C# 3.0,",
+  "LastEdited": "2011-09-15T12:11:45.67-07:00"
+}

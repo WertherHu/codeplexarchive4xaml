@@ -1,0 +1,9 @@
+{
+  "ProjectName": "inetcl",
+  "Title": "iNet Class Library",
+  "Description": "Generic .NET class library which contains Tasking, Windows Portable Devices (WPD) wrapper, Image codec, Metadata access, Video codec, ... etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">iNet Class Library is generic .NET class library which consist of :<br />\n<ul><li><b>iNet</b>\n<ul><li>Win32 API.</li>\n<li><a href=\"https://inetcl.codeplex.com/wikipage?title=Tasking&referringTitle=Home\">Tasking</a>.</li></ul></li>\n<li><b>iNet.IO.PortableDevices</b>\n<ul><li>Windows Portable Device (WPD) interface for .NET.</li></ul></li>\n<li><b>iNet.Media</b>\n<ul><li>Image codec.</li>\n<li>EXIF metadata.</li>\n<li>XMP metadata.</li>\n<li>Image format conversion.</li></ul></li>\n<li><b>iNet.Media.Audio</b></li>\n<li><b>iNet.Media.Imaging.Filters</b></li>\n<li><b>iNet.Media.Video</b>\n<ul><li>Video codec.</li>\n<li>Video transcoding.</li></ul></li>\n<li><b>iNet.Windows</b>\n<ul><li>Extensions for WPF DependencyObject/UIElement/FrameworkElement, etc.</li></ul></li></ul>\nDependencies :\n<ul><li><a href=\"http://www.cybercom.net/~dcoffin/dcraw/\">dcraw</a></li>\n<li><a href=\"http://www.ffmpeg.org/\">FFmpeg</a></li>\n<li><a href=\"http://freeimage.sourceforge.net/\">FreeImage</a></li>\n<li><a href=\"http://nlog-project.org/\">NLog</a></li>\n<li><a href=\"http://www.codeproject.com/Articles/109639/nVLC\">nVLC</a></li>\n<li><a href=\"http://www.videolan.org/vlc/\">VLC media player</a></li></ul>\n<br />iNet Class Library is currently used by <a href=\"http://fotoalbum.openfoundry.org/\">FotoAlbum</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,video,metadata,Image,Wrapper,Windows,.NET,Interop,WinAPI,EXIF,XMP,",
+  "LastEdited": "2014-06-06T11:09:55.797-07:00"
+}

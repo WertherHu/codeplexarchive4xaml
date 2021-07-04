@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bubbleburst",
+  "Title": "BubbleBurst",
+  "Description": "BubbleBurst is an addictive game written in WPF.  It is the subject of the \"Advanced MVVM\" e-book.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Welcome to BubbleBurst</b><br /><br />BubbleBurst is a fun and addictive game, based on the classic game called BubbleBreaker.  It is the subject of <a href=\"http://www.advancedmvvm.com\">Advanced MVVM</a>, a book written by <a href=\"http://joshsmithonwpf.wordpress.com/\">Josh Smith</a> to help MVVM developers take their skills to the next level.  The application architecture is based on the Model-View-ViewModel design pattern.  Several difficult problems were solved in elegant, reusable ways, as explained in great detail by the <a href=\"http://www.advancedmvvm.com\">book</a>.  And if that isn&#39;t enough, the user interface was enhanced by several professional Visual Designers and User Experience gurus!<br /><br />Feel free to download the source code or binaries, even if you don&#39;t buy the book.  <br /><br />The application was compiled in Visual Studio 2008 with Service Pack 1.  It requires .NET 3.5 SP1 to be installed in order to run properly.<br /><br />Have fun!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,design patterns,Silverlight,UX,MVVM,game,Samples,BubbleBurst,",
+  "LastEdited": "2010-02-15T16:05:14.733-08:00"
+}

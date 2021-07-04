@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rssc",
+  "Title": "Reporting Services Source Control",
+  "Description": "Maintians copies of your Reporting Services (SSRS) reports in a file structure and commits them to source control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"border:none\">\r\n<tbody>\r\n<tr>\r\n<td style=\"padding:1em; border:none\"><img src=\"http://timlaqua.com/wp-content/uploads/2011/04/rsscLogo.png\" alt=\"logo\"></td>\r\n<td style=\"border:none; padding:1em; text-align:left; vertical-align:top\">\r\n<p><strong>Project Description</strong><br>\r\nMaintians copies of your Reporting Services (SSRS) reports in a file structure and commits them to source control.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-07T10:22:40.117-07:00"
+}

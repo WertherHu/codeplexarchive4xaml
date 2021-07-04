@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WixDeployment",
+  "Title": "WixDeploymentExtension",
+  "Description": "Extension support Biztalk Application deployment, Business Activity Monitor (BAM) Deployment and VSDBCMD based SQL deployment and SQLCMD script execution.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an extension for deploying latest Microsoft technologies. <br />Currently the following are supported<br /><br />Deploying BizTalk Applications (BizTalk Server 2010)<br />    - Create BizTalk Server Application<br />    - Add Resources to BizTalk Server Application<br />    - Add BizTalk Server Application References.<br />    - Deploy Bam Activity XMLs<br /><br />Deploy Visual Studio Database Project (Visual Studio 2010)<br />    - Deploy directly by simply specifying the output files.<br />    - Ability to configure Sql Cmd Variables through configuration.<br /><br /><br />Run SqlCmd command (work in progress)<br />    - Run SQL statements and SQL files as part of the deployment.<br />    - Configure when to run the scripts by giving conditions.<br />    - Set the SQLCMD variables with the using tags.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "VSDBCMD,Biztalk,BAM,Business Activity,deployment,WIX,SQLCMD,Automation,Extension,",
+  "LastEdited": "2012-11-22T04:02:43.9-08:00"
+}

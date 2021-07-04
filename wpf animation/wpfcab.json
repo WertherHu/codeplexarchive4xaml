@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfcab",
+  "Title": "WPF layer for CAB",
+  "Description": "Provides a pure Windows Presentation Foundation (WPF)\r\nlayer for the Composite Application Block (CAB). This allows WPF\r\napplications to leverage the CAB without the need for any Winforms interop.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>IMPORTANT: this project has been rolled into, and superseded by, the <a href=\"http://www.codeplex.com/scsfcontrib\">SCSFContrib</a> project.</h1>\r\nThe SCSFContrib project includes a complete rewrite of the WPF/CAB layer that focuses on correctness, usability and performance. It is backed by a large suite of unit and functional tests and also includes comprehensive API and user documentation. You should migrate from this implementation to SCSFContrib as soon as possible.<br /><br />Note that there are some breaking changes in the migration (mostly minor in impact). Here is a non-exhaustive list:\n<ul><li>UI element insertion indexes are now specified by an attached property rather than hijacking the <span class=\"codeInline\">FrameworkElement.Tag</span> property.</li>\n<li>Workspaces can be configured in XAML rather than requiring code-behind. As an example, see the <a href=\"http://www.codeplex.com/scsfcontrib/Wiki/View.aspx?title=WPFCAB%20Layer#ZoneWorkspace\">ZoneWorkspace documentation</a>.</li>\n<li>There are no modifications to the CAB core. Hence, the <span class=\"codeInline\">IWorkspace.SmartPartActivating</span> event is no longer present.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,.net 3.0,CAB,WPFCab,application block,Phil,WPF in Cab,CAB WPF,",
+  "LastEdited": "2007-07-04T22:36:53.38-07:00"
+}

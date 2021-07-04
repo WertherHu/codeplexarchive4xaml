@@ -1,0 +1,9 @@
+{
+  "ProjectName": "epubedit",
+  "Title": "Epub Editor",
+  "Description": "A simple epub editor that allows you to make quick changes to epub source files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nEpub Editor is a simple Windows application that allows you to modify epub source files.</p>\r\n<p>Epub Editor is a WPF MVVM project that uses the <a href=\"http://www.galasoft.ch/mvvm/\">\r\nMVVM Light Toolkit</a> framework. It is developed in C# under .NET 4.0.&nbsp;</p>\r\n<p>The project uses the&nbsp;<a href=\"http://dotnetzip.codeplex.com/\">DotNetZip</a> &nbsp;Library to work with epub files.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4.0 C# WPF,",
+  "LastEdited": "2014-05-14T11:51:51.52-07:00"
+}

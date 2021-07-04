@@ -1,0 +1,9 @@
+{
+  "ProjectName": "blackcameracapture",
+  "Title": "Black Camera Capture",
+  "Description": "A class library for display webcam vidéo and take screenshot in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project present a class library for display Webcam video on WPF application with AForge.<br /><br />In addition, there are a Screenshot function and a test client.<br /><br /><img src=\"/projects/blackcameracapture/c1315f44-bb99-4185-9528-fa44f1efdaf3\" alt=\"Screenshot.png\" title=\"Screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-04-08T08:50:51.17-07:00"
+}

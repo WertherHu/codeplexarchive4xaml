@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WindowGlows",
+  "Title": "WPF Custom Window Glows",
+  "Description": "Make WPF windows glow or have custom drop shadows as in Microsoft Visual Studio 2012 and onwards and Microsoft Office 2013.",
+  "MovedLink": "https://github.com/xprssn2/WindowGlows",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nThis library&nbsp;exposes methods that&nbsp;allow WPF windows to glow just like applications written by Microsoft, such as Microsoft Visual Studio 2012 and onwards, as well as Office 2013. These WPF windows do not have to have WindowStyle set to none, the methods\r\n work with whatever WPF windows.</p>\r\n<p>&nbsp;<img src=\"http://fc08.deviantart.net/fs70/f/2014/262/2/8/glowwindow1_by_expression2-d7zteae.png\" alt=\"Screenshot of test application\" width=\"518\" height=\"512\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Visual Studio,Office 2013,.NET Framework,",
+  "LastEdited": "2014-09-20T02:13:47.767-07:00"
+}

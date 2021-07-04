@@ -1,0 +1,9 @@
+{
+  "ProjectName": "YagnaGradientControl",
+  "Title": "WPF Gradient Control",
+  "Description": "It is my small effort to develop a gradient control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n<br>\r\n<br>\r\nWPF Gradient Control</p>\r\n<p>Gradient brush control is a brush selector control which will help the user to create gradient brush through UI. A User interface which will help the user to create linear or radial Brush.</p>\r\n<p>&nbsp;</p>\r\n<p>The main feature of this project is:</p>\r\n<p>&nbsp; &nbsp;* Color selector: A color selector through color can be selected.</p>\r\n<p>&nbsp; &nbsp;* Gradient Point selector: The user interface has the facility to select the start point and end point for Linear brush. And center point and origin point for radial brush.</p>\r\n<p>&nbsp; &nbsp;* Gradient stop add: Through the user interface user can add gradient stop in particular offset. &nbsp;</p>\r\n<p>&nbsp;<img src=\"/projects/YagnaGradientControl/79e516a1-ba5a-4910-9574-7487729da092\" alt=\"Linear Gradient Brush\" width=\"587\" height=\"438\"></p>\r\n<p><img src=\"/projects/YagnaGradientControl/106bd382-2025-47ab-8cd0-d3fc3e529328\" alt=\"Radial Gradient Brush\" width=\"587\" height=\"438\"></p>\r\n<p><img src=\"/projects/YagnaGradientControl/e0746cb8-a5a5-45a5-a3e8-fcb2b72f52e6\" alt=\"\" width=\"590\" height=\"439\"></p>\r\n<p>&nbsp;</p>\r\n<h2>My web address is&nbsp;<a title=\"Yagna IT Solution\" href=\"http://www.yagnaitsolution.ca\">Yagna IT Solution</a></h2>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF Gradient Control,Gradient,Radial,WPF,c#,",
+  "LastEdited": "2015-01-05T23:34:31.043-08:00"
+}

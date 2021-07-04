@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aginspector",
+  "Title": "Silverlight Inspector",
+  "Description": "Silverlight Inspector is a utility for inspecting Silverlight XAP files. Developers and designers can use it to view the visual tree of an application and/or control and view assemblies within a XAP. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Inspector is a utility for inspecting Silverlight XAP files. Developers and designers can use it to view the visual tree of an application and&#47;or control and view assemblies within a XAP. <br /><br /><br /><b>How Does it Work?</b><br />Silverlight Inspector works by downloading and modifying the XAP file you specify. The application downloads the given XAP, modifies its AppManifest.xaml, inserts AGHikariInjector.dll, and launches Sllauncher.exe with the new XAP file. AGHikariLauncher contains a basic UI for creating new instances of FrameworkElement-derived objects in each assembly, and a visual tree inspector for inspecting each instance.<br /><br />Credit goes to <a href=\"http://dotnetzip.codeplex.com/\">http://dotnetzip.codeplex.com/</a> for the XAP/ZIP file managed DLL I&#39;ve used in this project!<br /><br /><b>System Requirements</b><br />You&#39;ll need Silverlight 4 and .NET 4/VS2010 to build and run this project.<br /><br /><b>Screenshot</b><br /><img src=\"/projects/aginspector/0e7d8d3a-05bf-491d-b697-47f1c89b70a5\" alt=\"SLInspector-2.png\" title=\"SLInspector-2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight 4,XAML,visual tree,Mirshahreza,Decompiler,",
+  "LastEdited": "2010-08-18T07:34:54.647-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Halo3Stats",
+  "Title": "Halo 3 Statistics Aggregator",
+  "Description": "Statistics for each matchmaking and custom game in Halo 3 is saved to their website at http://www.bungie.net.  These classes will help users screen-scrape their stats from the website.  \n\nBuilt using the .NET Framework 3.5, Visual Studio 2008, HTMLAgilityPack, ParallelFX Dec CTP, and the CarlosAg WebChart Control for ASP.NET.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Statistics for each matchmaking and custom game in Halo 3 is saved to their website at http&#58;&#47;&#47;www.bungie.net.  These classes will help users screen-scrape their stats from the website.  <br /><br />Built using the .NET Framework 3.5, Visual Studio 2008, HTMLAgilityPack, ParallelFX Dec CTP, and the CarlosAg WebChart Control for ASP.NET.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-11-27T13:22:47.587-08:00"
+}

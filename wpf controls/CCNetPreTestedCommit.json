@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CCNetPreTestedCommit",
+  "Title": "Cruise Control .NET Pre-Tested Commit Extension",
+  "Description": "In this project i am going to extend cruise control with pre-tested commit feature.\n\nThis extension protects the code base from incorrect code. All code modification are submitted into version control ONLY if all defined requirements are met.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />In this project i am going to extend cruise control with pre-tested commit feature.<br /><br />This extension protects the code base from incorrect code. All code modification are submitted into version control ONLY if all defined requirements are met.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CruiseControl.NET,CCNet,",
+  "LastEdited": "2008-09-06T07:12:16.107-07:00"
+}

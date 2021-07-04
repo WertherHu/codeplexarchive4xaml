@@ -1,0 +1,9 @@
+{
+  "ProjectName": "volumemaster",
+  "Title": "VolumeMaster",
+  "Description": "VolumeMaster is an On Screen Display (OSD) that gets activated whenever the volume changes. It's written in WPF and uses Vista Core Audio API by Ray M.\r\n\r\nVolumeMaster allows you to change the volume simply by holding the shift key and scrolling your mouse wheel up / down. Holding shift and pressing the middle mouse button will toggle mute. \r\n\r\nIt was never intended to be a light weight application. \r\n\r\nVolumeMaster works on Windows Vista / 7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />VolumeMaster is an On Screen Display &#40;OSD&#41; that gets activated whenever the volume changes. It&#39;s written in WPF and uses Vista Core Audio API by Ray M.<br /><br />VolumeMaster allows you to change the volume simply by holding the shift key and scrolling your mouse wheel up &#47; down. Holding shift and pressing the middle mouse button will toggle mute. <br /><br />It was never intended to be a light weight application. <br /><br />VolumeMaster works on Windows Vista &#47; 7.<br /><br /><br /><a href=\"http://www.codeproject.com/KB/vista/CoreAudio.aspx\">Ray M&#39;s CoreAudio C# Wrapper</a><br /><br /><img src=\"/projects/volumemaster/33db8a3d-854f-4f48-a112-35d9ec6fb7dd\" alt=\"Screen&#32;Shot\" title=\"Screen&#32;Shot\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "volume,OSD,Mouse,",
+  "LastEdited": "2010-04-17T20:36:04.807-07:00"
+}

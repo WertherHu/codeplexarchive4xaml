@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfTool",
+  "Title": "wpfTool",
+  "Description": "wpfTool is a graph-based image processing tool using WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">wpfTool is a pipeline-based image processing tool, which I developed during one of our lab&#39;s internal program. Initially I just wanted to create a simple tiny software to assist my research that utilize WPF. However, after a while I found that this software tool could easily extend to a kind of general purpose image processing tool with little modify. So I just go a little further from my original design, and the result is wpfTool. <br />One of the main design principles is making this software as extensible as possible. So all the image processing modules are implemented through plug-ins. I take this approach so that anyone who need to do any image processing that is not implemented within wpfTool, he or she could easily create his or her own with plug-in.<br />The other design target is the flexibility. I want the users can create and modify their own image processing pipeline easily. So I choose the pipeline-based architecture. <br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-10-31T18:49:17.5-07:00"
+}

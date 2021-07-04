@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DxFluentUI",
+  "Title": "DxFluentUI",
+  "Description": "A fluent API to create user interfaces using DevExpress WinForms controls.\n\nThe goal of this project is to provide an abstraction layer on top of DevExpress controls to more easily create business applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A fluent API to create user interfaces using DevExpress WinForms controls.<br /><br />The goal of this project is to provide an abstraction layer on top of DevExpress controls to more easily create business applications.<br /><br />For more information about Fluent API&#39;s, see Martin Fowler&#39;s article <a href=\"http://www.martinfowler.com/bliki/FluentInterface.html\">http://www.martinfowler.com/bliki/FluentInterface.html</a><br />For more information on DevExpress controls, see <a href=\"http://www.devexpress.com/\">http://www.devexpress.com/</a><br /><br /><b>Syntax</b><br /><br /><a href=\"https://dxfluentui.codeplex.com/wikipage?title=Horizontal%20Grid&referringTitle=Home\">Horizontal Grid</a><br /><a href=\"https://dxfluentui.codeplex.com/wikipage?title=Vertical%20Grid&referringTitle=Home\">Vertical Grid</a><br /><br />You can find more information on <a href=\"http://sdesmedt.wordpress.com\">http://sdesmedt.wordpress.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Fluent Interface,DEVEXPRESS,",
+  "LastEdited": "2009-05-05T11:06:42.407-07:00"
+}

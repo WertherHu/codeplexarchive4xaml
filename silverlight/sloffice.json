@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sloffice",
+  "Title": "Silverlight \"office\"",
+  "Description": "Create an ASP.NET feature to view documens in Office Open XML WordprocessingML(PresentationML) format. These are stored on a web server.\nExtend Silverlight DataGrid so that it could imprt/export  to Office Open XML SpreadsheetML format.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">SilverLight &quot;Office&quot;<br /><br /><br />We are trying to manage the office product in silverlight.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-01-15T03:31:38.203-08:00"
+}

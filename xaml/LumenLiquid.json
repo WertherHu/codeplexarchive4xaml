@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LumenLiquid",
+  "Title": "LumenLiquid - Game Engine",
+  "Description": "LumenLiquid is a RPG Game Engine which is free to use for everyone. You can easily create your own games with the engine just by using the tools. The project is developed in C#, XNA and XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Important Note</b><br />This project is frozen for undefined time. Besides, I have a lot of work with my studies, so don&#39;t except any updates.<br /><br />Maybe I have another idea to reduce the overall complexity of such an engine, so I can start to work from scratch. The current state of development will be abandoned anyway.<br /><br />It was planned, that LumenLiquid is an easy to use game engine, which carries all tools needed to make a more or less complex 3D Adventure. The main problem was the complexity it has to cover in order to be a proper engine.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "rpg,game,fabled lands,engine,game engine,",
+  "LastEdited": "2014-01-14T13:40:02.317-08:00"
+}

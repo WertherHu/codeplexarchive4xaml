@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FriendsShareStuff",
+  "Title": "Windows Azure with Silverlight End To End Demo",
+  "Description": "\n\n*About Friends Share Stuff*\n\nFriendsShareStuff is a sample application built on Windows Azure and Silverlight to manage and share simple files and translate them into audio files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>About Windows Azure with Silverlight End To End Demo</b><br /><br /><br />&#42;About Friends Share Stuff&#42;<br /><br />FriendsShareStuff is a sample application built on Windows Azure and Silverlight to manage and share simple files and translate them into audio files.<br /><br />The application uses what in Windows Azure is called a Web Role. Web Roles are slices of web servers that you can use in order to host applications like ASP.NET, PHP, FAST-CGI, and You can get your own for testing visiting (http://www.microsoft.com/azure/windowsazure.mspx) Windows Azure Developer Center.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-07T10:21:10.573-08:00"
+}

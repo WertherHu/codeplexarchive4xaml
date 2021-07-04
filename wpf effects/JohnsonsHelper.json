@@ -1,0 +1,9 @@
+{
+  "ProjectName": "JohnsonsHelper",
+  "Title": "Johnson's Dictionary Transcription Helper",
+  "Description": "A tool to help transcribe entries in Samuel Johnson's classic 1755 dictionary into a computer readable form, see http://johnsonsdictionaryonline.com/ ",
+  "MovedLink": "https://github.com/Dijji/JohnsonsDictionaryHelper",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This project is a tool to help transcribe entries in Samuel Johnson&#39;s classic 1755 dictionary into a computer readable form.<br /><br />Astonishingly, there is currently no digital edition of this dictionary.  Brandi Besalke has set up a project to create one at <a href=\"http://johnsonsdictionaryonline.com/\">http://johnsonsdictionaryonline.com/</a> and has asked for help transcribing the entries..<br /><br />I signed up, but being the geek that I am, somewhere around the third entry that I transcribed, I began writing a program to do the repetitive bits for me. And here it is, in the hope that it will help other transcribers.<br /><br />To get started, see <a href=\"https://johnsonshelper.codeplex.com/wikipage?title=Getting%20Started&referringTitle=Home\">Getting Started</a><br />For a description of how to use the helper, see  <a href=\"https://johnsonshelper.codeplex.com/wikipage?title=Using%20the%20Helper&referringTitle=Home\">Using the Helper</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Johnson's Dictionary,",
+  "LastEdited": "2014-01-08T06:01:58.573-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmtombstone",
+  "Title": "MVVM Tombstone for Windows Phone",
+  "Description": "MVVM Tombstone provides a simple method for tombstoning your ViewModel properties and restoring them when appropriate.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>MVVM Tombstone for Windows Phone</h1>\rMVVM Tombstone provides a simple method for tombstoning your ViewModel properties and restoring them when appropriate.<br /><br />For an explanation on how to use this this, please look on this page:<br /><br /><a href=\"http://www.kenneth-truyers.net/2013/03/13/tombstoning-made-easy-in-windows-phone-mvvm/\">http://www.kenneth-truyers.net/2013/03/13/tombstoning-made-easy-in-windows-phone-mvvm/</a><br /><br />To install from nuget go here:<br /><br /><a href=\"https://nuget.org/packages/WindowsPhone.MVVM.Tombstone/\">https://nuget.org/packages/WindowsPhone.MVVM.Tombstone/</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-23T18:24:10.793-07:00"
+}

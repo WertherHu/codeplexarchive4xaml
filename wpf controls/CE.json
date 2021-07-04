@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CE",
+  "Title": "Content Editor",
+  "Description": "Content Editor is v1.5 of RichTextEditor. Content Editor is an advanced notepad.Its UI and advanced controls are brought for QIOS for free licensed under Ms-Pl.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Content Editor</b> is a program built in Visual Studio and packaged under Advanced Installer. It&#39;s an advanced notepad with an Office 2007 UI and ribbon control from QIOS. It requires .Net Framework 3.5 and has decended from another program.<br /><br />It has been stablely released here. I hope you like it. It took me 10-15 days to develop it.<br /><br />I hereby thank Codeplex for empowering my project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Editor,Notepad,advanced,ribbon,",
+  "LastEdited": "2013-03-09T22:54:05.18-08:00"
+}

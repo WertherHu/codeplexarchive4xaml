@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vhtrieu",
+  "Title": "MVVM + WPF + Data Annotations validation",
+  "Description": "This is sample project for MVVM with WPF\r\nIn this sample i'm using ViewModel Validation using Data Annotations.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><b>MVVM - ViewModel Validation using DataAnnotations</b><br /><br /><b>Overview</b><br />.NET 4.5, Visual Studio 2013<br />Test Driven Development<br />Create ObservableObject class for change notification<br />Create Abstract base ViewModel class<br />Utilize ObservableObject<br />Utilize IDataErrorInfo<br />Utilize Data Annotations<br />Derived viewmodel’s can override base implementation<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-01-26T23:53:06.683-08:00"
+}

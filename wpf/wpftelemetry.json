@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpftelemetry",
+  "Title": "WpfTelemetry",
+  "Description": "WpfTelemetry is a library for WPF projects to allow tracking of feature usage and client computer capabilities.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>WPF Telementry</b><br /><br /><b>Telemetry</b> - <i>n</i> the complete measuring, transmitting, and receiving apparatus for indicating, recording, or integrating at a distance, by electrical translating means, the value of a quantity. <br /><br />As the name suggests WPF Telemetry is a way to add measurement of certain quantities such as feature usage and target system information to your WPF application. In spite of the technical-sounding name this is pretty Lo-Fi stuff - a couple of calls to get some system information, a dictionary to store how often a feature is used, a timer that goes off periodically and a service to collect the information. It should be easy to bend to your needs to record the kinds of things your need to know about how people are using your application.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-07T08:22:39.5-08:00"
+}

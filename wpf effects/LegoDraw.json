@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LegoDraw",
+  "Title": "LegoDraw – Databinding of Composites in WPF",
+  "Description": "LegoDraw makes it easier for WPF developers to enhance their vision on composite design pattern along with WPF data binding of two dimensional arrays/lists containers. It's developed in C#3.0 using .NET 3.5.\r\n\r\nFind details @: http://www.geekscafe.net\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />LegoDraw: The application makes it easier for WPF developers to enhance their vision on composite design pattern along with WPF data binding of two dimensional arrays/lists containers. It&#39;s developed in C#3.0 using .NET 3.5.<br /><br />Details can be found at my blog&#39;s site, here is the link for it <a href=\"http://www.geekscafe.net/post/LegoDraw-e28093-Databinding-of-Composites-in-WPF.aspx\">Project: LegoDraw</a>.<br /><br /><a href=\"http://www.geekscafe.net\">Blogs: http://www.geekscafe.net</a><br /><a href=\"mailto:shams@geekscafe.net\">Email me: Shams Mukhtar (shams@geekscafe.net)</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF Application,C# 3.0,.NET 3.5,",
+  "LastEdited": "2009-04-13T14:40:38.41-07:00"
+}

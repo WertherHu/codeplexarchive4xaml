@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ScreenSaver",
+  "Title": "Screen Saver - C# - Creation & Management",
+  "Description": "Create and Manage Screen Savers using C# and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nScreen Saver<br>\r\n<br>\r\n<em><strong>Screen Saver.cs</strong></em></p>\r\n<p>Provides methods to control the screen saver set on the OS.</p>\r\n<p>You can check whether the screen saver is enabled and/or is running currently.</p>\r\n<p>You can start or stop the screensaver when required.</p>\r\n<p>You can also set the Timeout, idle time elapsed after which ScreenSaver starts.</p>\r\n<p><em><strong>Screen Saver Objects</strong></em></p>\r\n<p>A Screen Saver Object contains the path to a .scr file.</p>\r\n<p>Screen Saver does not have a public Constructor.</p>\r\n<p>Use the GetInstalledScreenSavers() to get an array of Installed Screen Savers.</p>\r\n<p>The Current property is used to modify the Screen Saver assigned on the OS.</p>\r\n<p>Screen Saver objects can be Previewed.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,ScreenSaver,screen saver,create,manage,configure,",
+  "LastEdited": "2015-02-11T16:50:47.883-08:00"
+}

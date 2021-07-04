@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ferrsimplicity",
+  "Title": "FerrSimplicity",
+  "Description": "A small, simple C# 2D game framework that ties tightly into the XNA architecture. Builds in easy support for game states, animation, component based objects, cameras, input, timers, color spaces, and more.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A small, simple C&#35; 2D game framework that ties tightly into the XNA architecture. Builds in easy support for game states, animation, component based objects, cameras, input, timers, color spaces, and more.<br /><br /><br /><b>This project is still in early development</b><br /><br />As a programming teacher in a Simulation and Game Development, I write a lot of simple, easy to use classes in XNA. This project is oriented towards collecting most of that code, and tying it together into something I can give to students or use in small, easy projects.<br /><br />Significant work will be done on this project over the winter break, so keep your eyes open. Also, some architecture decisions are still a little up in the air, so beware of major changes.<br /><br /><b>Other Projects</b><br /><br />In the meantime, check out my other project, <a href=\"http://ferrscript.codeplex.com/\">http://ferrscript.codeplex.com/</a>, an easy to use, performance oriented scripting language designed to work with and on the .NET Compact Framework!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-10T22:57:09.977-08:00"
+}

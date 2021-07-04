@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CCNumGenerator",
+  "Title": "Credit Card Number Generator",
+  "Description": "Credit card number generator is an application that generates random credit card numbers that are validated by the 'Luhn' algorithm.\r\nIt's developed using Visual Studio 2010 and the GUI is developed using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Credit card number generator is an application that generates random credit card numbers that are validated by the &#39;Luhn&#39; algorithm.<br />It&#39;s developed using Visual Studio 2010 and the GUI is developed using WPF.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-25T09:16:28.297-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfsstorageexplorer",
+  "Title": "TFS Storage Explorer",
+  "Description": "TFS Storage Explorer allows browsing the Team Foundation Server (non-version control) storage for TFS 2013 or above.",
+  "MovedLink": "https://github.com/jelledruyts/TfsStorageExplorer",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>IMPORTANT NOTE: THIS PROJECT HAS MOVED</b></h1>\r\n<h1>The project is now actively maintained at <a href=\"https://github.com/jelledruyts/TfsStorageExplorer\">https://github.com/jelledruyts/TfsStorageExplorer</a></h1>\r\n<hr />\n<br /><b>TFS Storage Explorer</b><br />TFS Storage Explorer allows browsing the Team Foundation Server &#40;non-version control&#41; storage for TFS 2013 or above.<br /><br /><b>Requirements</b><br />Visual Studio 2013 or Team Explorer 2013 must be installed to run this tool.<br /><br /><img src=\"/projects/tfsstorageexplorer/fe84514e-cbe3-4d0e-8734-28b22b3ecd54\" alt=\"TFS&#32;Storage&#32;Explorer\" title=\"TFS&#32;Storage&#32;Explorer\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "team foundation,team foundation serv,tfs,tfs 2013,",
+  "LastEdited": "2016-12-01T00:57:53.053-08:00"
+}

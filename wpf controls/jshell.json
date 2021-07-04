@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jshell",
+  "Title": "JShell A lightweight fast graphical shell for windows",
+  "Description": "JShell aka Justin Shell is a alternative to Windows Explorer, it provides a interface like Mac and Gnome Its main features are:\r\n\r\nJStart a command prompt type start menu\r\nIt does not start any of the run registry keys so viruses can take control.\r\nIts lightweight fast booting!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nJShell aka Justin Shell is a alternative to Windows Explorer, it provides a interface like Mac and Gnome Its main features are:<br>\r\n<br>\r\nJStart a command prompt type start menu<br>\r\n&nbsp; It does not start any of the run registry keys so viruses can't take control.<br>\r\nIts lightweight fast booting!<br>\r\n<br>\r\nNOTE MAKE SURE TO DISABLE UAC BEFORE INSTALL ON VISTA OR HIGHER!!!</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "shell,",
+  "LastEdited": "2011-08-30T11:53:32.483-07:00"
+}

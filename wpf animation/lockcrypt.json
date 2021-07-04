@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lockcrypt",
+  "Title": "LockCrypt",
+  "Description": "LockCrypt is an easy to use account management program which provides a secure, central database to store difficult to remember passwords and other personal information.\n\nWritten in C#, but the source tree contains code in WPF, Windows Forms (for Windows Mobile), and Java.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />LockCrypt is an easy to use account management program which provides a secure, central database to store difficult to remember passwords and other personal information.<br /><br />Written in C&#35;, but the source tree contains code in WPF, Windows Forms &#40;for Windows Mobile&#41;, and Java.<br /><br />LockCrypt includes:\n<ul><li>AES or TwoFish encryption provides secure storage for data.</li>\n<li><a href=\"http://wiki.lime49.com/index.php?title=Password_Generator\">Password generator</a>.</li>\n<li>Native translations into German, Portuguese, Spanish, Italian, Czech, Russian, Bulgarian, Slovenian, Hungarian, Hebrew and more.</li>\n<li>Secure Clipboard to protect passwords.</li>\n<li>Windows Mobile version for PDAs and smartphones.</li>\n<li>J2ME version for Java capable mobile phones.</li>\n<li>Groups to help keep accounts organised.</li>\n<li>Export to XML, CSV, HTML or Plain text files.</li>\n<li>Easy to use drag and drop interface.</li>\n<li>Print output.</li>\n<li>... and <a href=\"http://www.lockcrypt.com/features/\">much more</a></li></ul>\n\n<h2><a href=\"http://www.lockcrypt.com/\">LockCrypt Home Page</a></h2>\r<ul><li><a href=\"http://forums.lime49.com/\">Forums (Support)</a></li>\n<li><a href=\"http://www.lockcrypt.com/features/\">Features</a></li>\n<li><a href=\"http://wiki.lime49.com/\">Wiki and Manual</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-16T22:46:58.167-08:00"
+}

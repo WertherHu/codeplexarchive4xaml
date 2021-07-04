@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TextBoxWithCounter",
+  "Title": "TextBox with counter .NET WebControl (C#)",
+  "Description": "This is a TextBox with counter WebControl written in C#. It can be used and deployed in the same way as any normal control.\r\n\r\nYou can set the limit (maxlength) for the TextBox and specify the TextBoxMode (i.e. SingleLine, MultiLine, Password).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a TextBox with counter WebControl written in C&#35;. It can be used and deployed in the same way as any normal control.<br /><br />You can set the limit &#40;maxlength&#41; for the TextBox and specify the TextBoxMode &#40;i.e. SingleLine, MultiLine, Password&#41;.<br /><br />The screen shot below shows the control in action:<br /><br /><img src=\"http://jasear.files.wordpress.com/2012/01/textboxwithcounter1.png\" /><br /><br />Please rate and leave a review if you have found this control useful.<br /><br />Please also visit my blog: <a href=\"http://jasear.wordpress.com/\">http://jasear.wordpress.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,.NET,ASP.NET,WebControl,TextBoxWithcounter,",
+  "LastEdited": "2012-01-05T06:54:53.38-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Havok4Xna",
+  "Title": "Havok4Xna",
+  "Description": "A wrapper library for the Havok Physics and Animation Framework than can be used in XNA. Currently, only the PC platform is supported.\nCheck back frequently for updates.\n\nThe final goal is to expose most of the important classes and structures in the Havok framework. As a result, there is a ton of work to be done and anyone who is interested are welcome to help.\n\nHavok4Xna will be available under  the Apache License, Version 2.0.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A wrapper library for the Havok Physics and Animation Framework than can be used in XNA. Currently, only the PC platform is supported.<br />Check back frequently for updates.<br /><br />The final goal is to expose most of the important classes and structures in the Havok framework. As a result, there is a ton of work to be done and anyone who is interested are welcome to help.<br /><br />Havok4Xna will be available under  the Apache License, Version 2.0.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,3D Physics,Havok,",
+  "LastEdited": "2008-08-19T09:27:15.98-07:00"
+}

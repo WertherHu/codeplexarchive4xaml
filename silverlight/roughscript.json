@@ -1,0 +1,9 @@
+{
+  "ProjectName": "roughscript",
+  "Title": "RoughScript",
+  "Description": "自己随便做的一个运行在SL类库上的脚本引擎。\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">项目描述<br />Project Description<br /><br />RoughScript　是一种宿主脚本语言。目前运行在.net运行库上。可以通过使用Extension（扩展）和继承RScript来扩展。<br />RoughScript is an host script language. It&#39;s running under .net runtime. It&#39;s can be expanded by use of extension and inheritance RScript class.\t<br /><br />我的另一个项目RoughJs,它是一个Javascript编译器。<br />My another project RoughJs is a Javascript compiler.<br /><br />地址：<br />WebSite:<br /> http://roughjs.codeplex.com/</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,c#,Compiler,silverlight 3,script,RoughScript,silverlight 4,",
+  "LastEdited": "2010-01-24T04:41:01.343-08:00"
+}

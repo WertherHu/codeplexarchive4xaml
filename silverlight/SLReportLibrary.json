@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLReportLibrary",
+  "Title": "Silverlight Report Library",
+  "Description": "Silverlight Report Library makes it easier to print reports using Silverlight 4.0. You no longer have to write your PrintPage eventhandler, just add FrameworkElements to the Report and Print.  It's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Report Library makes it easier to print reports using Silverlight 4.0. You no longer have to write your PrintPage eventhandler, just add FrameworkElements to the Report and Print.  It&#39;s developed in C&#35;.<br /><br /><br />More info <a href=\"http://www.reflectionit.nl/Blog/default.aspx?guid=430acaae-2bc2-4523-b9ea-2221c8f3d11a\">http://www.reflectionit.nl/Blog/default.aspx?guid=430acaae-2bc2-4523-b9ea-2221c8f3d11a</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-07T04:22:19.92-08:00"
+}

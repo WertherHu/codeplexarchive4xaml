@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfVkClient",
+  "Title": "Vkontakte Wpf Client",
+  "Description": "This is a simple client for social network Vkontakte.\nIt can send message to your friends, download audio files or play it,list user video.\nAlso you can view user status and change yours.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis is a simple client for social network Vkontakte.<br>\r\nWith this program user can send message to friends , view friends information, change pesrsonal status ,download audio, video files or play it,<strong>&nbsp;</strong></p>\r\n<p>This program contains special API manager class, wich allow connect to API in VKontakte Network.</p>\r\n<p>Program is written on C#, using platform NET Framework 4.0 Client Profile, client UI using technology WPF.</p>\r\n<p>&nbsp;</p>\r\n<p>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-05T02:50:58.96-08:00"
+}

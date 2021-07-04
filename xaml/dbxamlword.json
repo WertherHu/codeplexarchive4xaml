@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dbxamlword",
+  "Title": "Dylan's XAML Word",
+  "Description": "A word processor that instead of saving to txt, doc etc it saves to .xaml files. That means it creates flow documents. Even the inexperienced can use it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A word processor that instead of saving to txt, doc etc it saves to .xaml files. That means it creates flow documents. Even the inexperienced can use it.<br />\n<h1>Welcome to the Home Page for Dylan&#39;s XAML Word.</h1>\r\n<h1>Name</h1>\r\nFirst of all the name carries my name, Dylan and secondly it also carries the name of the files it creates, .xaml files that contain flowdocuments. You may download version 1 or 2 and run the .exe file, it also has the .sln file. Version 3 will soon be released (it will support tables).<br />\n<h1>Function</h1>\r\nThis program uses menu commands to insert elements such as  the tags for FlowDocument, Bold, Italic, Underline, Paragraph, FontFamily, FontSize etc. This was done to help the user write a well formed .xaml file that could be read by any xaml editor such as Kaxaml or Xamlpad. The fonts and their sizes are selected from comboboxes and text is enetered in a richtextbox. Another richtextbox is used to contain the .xaml markup. The program can save and open the text version of the XAML code.<br />\n<h1>Language</h1>\r\nThe program has been written in Visual Basic 2008 using Visual Studio. The project is a winforms project not WPF. Programs for opening the .xaml files have to be in WPF.<br />\n<h1>Support</h1>\r\nThe program should work well on both Windows XP(including SPs) and Windows Vista.<br />\n<h1>Documentation</h1>\r\nDocumentation will soon be available in .xaml format.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "winforms,xaml,Visual Studio 2008,visual basic,document,",
+  "LastEdited": "2008-08-21T06:03:11.473-07:00"
+}

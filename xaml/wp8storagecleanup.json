@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp8storagecleanup",
+  "Title": "WP8 Storage Cleanup",
+  "Description": "App that enables cleaning up temporary or abandoned files on capability-unlocked Windows Phone 8 devices.\r\n\r\nSource is XAML/C#. Currently in Alpha development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />App that enables cleaning up temporary or abandoned files on capability-unlocked Windows Phone 8 devices.<br /><br />Source is XAML&#47;C&#35;. Currently in Alpha development.<br /><br />The app can also be discussed here: <a href=\"http://forum.xda-developers.com/showthread.php?p=50484806\">http://forum.xda-developers.com/showthread.php?p=50484806</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-02-20T06:37:46.517-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "knowledgekiosk",
+  "Title": "Knowledge Kiosk",
+  "Description": "A kiosk-esque Silverlight 5 application for the Info Support knowledge centra. The screen displays various information such as the currently given courses, blogs by employees, weather and time. The application retrieves its data from XML-based sources such as SharePoint Lists and RSS feeds. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>Project Description</h3>\rA kiosk-esque Silverlight 5 application for the Info Support knowledge centra. The screen displays various information such as the currently given courses, blogs by employees, weather and time. The application retrieves its data from XML-based sources such as SharePoint Lists and RSS feeds. <br />\n<h3>Technical Features</h3>\rThe Silverlight application features the following noteworthy features:\n<ul><li>Generic feed update mechanism with:\n<ul><li>Asynchronous polling of XML-based data sources</li>\n<li>Parsing XML to strongly typed objects</li>\n<li>2^n retry mechanism for failed calls</li></ul></li>\n<li>Runtime theme changing</li>\n<li>DigitalClockControl for displaying date and time</li>\n<li>External XML-based configuration</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-09T13:26:37.463-08:00"
+}

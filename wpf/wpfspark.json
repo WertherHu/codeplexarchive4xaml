@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfspark",
+  "Title": "WPF Spark",
+  "Description": "WPFSpark is a library of user controls which can be used to provide a rich User Experience to applications.\r\n\r\nThe WPFSpark Blog\r\nhttp://wpfspark.wordpress.com\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>WPFSpark v1.2</strong> is now released.</p>\r\n<h2>The codebase has been shifted to GitHub. You can access it <a href=\"https://github.com/ratishphilip/wpfspark\" target=\"_blank\">\r\nhere</a>.</h2>\r\n<p><img src=\"/projects/wpfspark/66d86a64-f856-4cd7-8384-13b193734848\" alt=\"WPFSpark\" width=\"659\" height=\"527\"></p>\r\n<p><strong>WPFSpark</strong> is a library of user controls which can be used by developers to provide a rich User Experience in their applications.</p>\r\n<p><strong>What's new in WPFSpark v1.2?</strong></p>\r\n<ul>\r\n<li><strong>ToggleSwitch</strong> has been rewritten from scratch to remove previous bugs and provide robust new features.\r\n</li><li><strong>FluidWrapPanel</strong> has been revamped to support child items of different sizes.\r\n</li><li>A new and improved <strong>SparkWindow</strong> with the look and feel of Windows 10 desktop window.\r\n</li><li>Bug fixes and improvements in other controls. </li></ul>\r\n<p>Check out this&nbsp;<a href=\"http://www.codeproject.com/Articles/1060961/WPFSpark-v\" target=\"_blank\">CodeProject article</a> describing in detail about the new features in\r\n<strong>WPFSpark v1.2</strong>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SprocketControl,Spark,WPF controls,WPFSpark,",
+  "LastEdited": "2015-12-07T11:16:15.997-08:00"
+}

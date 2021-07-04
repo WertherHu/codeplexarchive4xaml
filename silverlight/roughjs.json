@@ -1,0 +1,9 @@
+{
+  "ProjectName": "roughjs",
+  "Title": "RoughJs",
+  "Description": "This is an imitation Javascript engine.\n这是一个仿Javascript的引擎.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Project Description：<br />项目描述：<br /><br />希望能实现ECMAS-262 5th Edition的功能.完成一个能在.net上运行的Javascript脚本引擎.<br /><br />I hope implement ECMAS-262 5th Edition,to run .net platform Javascript engine.<br /><br />现在还只在控制台上运行，以后会使用Silverlight.<br />Now it`s running on console,the future will use Silverlight.<br /><br />为了庆贺我的小宝满月（09年12月30号出生），从2010年1月5号到2010年1月29号完成这个JavaScript编译器。<br /><br />感谢这段时间妻子和家人的支持。<br />Thinks my wife and and family support.<br /><br />2010-04-18 17:06终于完成了JavaScript从c#类库向Silverlight类库的迁移，接下来准备花一个月的时间完善这个编译器。<br />2010-04-18 17:06Finally completed the JavaScript from the c # class library to the Silverlight class library migration, then prepared to spend a month to complete the compiler.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 3,compiler,javascript,C#,parser,script,",
+  "LastEdited": "2010-04-18T02:14:33.45-07:00"
+}

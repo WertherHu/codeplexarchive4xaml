@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFScreenSaverArt",
+  "Title": "WPF Custom Screen Saver Art",
+  "Description": "Creating custom wallpaper is easy. But what about custom screen savers? This post will detail how to build a custom saver using Windows Presentation Framework (WPF). The posted code also provides some insight on how to create interesting particle effects using WPF animation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">WPF Custom Screen Saver Art<br /><br />Creating custom wallpaper is easy. But what about custom screen savers? This post will detail how to build a custom saver using Windows Presentation Framework (WPF). The posted code also provides some insight on how to create interesting particle effects using WPF’s animation engine, and how to implement multiple monitor support in .Net.<br /><br />Erik Klimczak - Clarity Consulting<br />Additional information on this project can be found here: http://blogs.msdn.com/coding4fun/archive/2008/06/20/8626294.aspx</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-21T14:16:06.477-07:00"
+}

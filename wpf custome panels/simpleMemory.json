@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simpleMemory",
+  "Title": "Simple Memory",
+  "Description": "A simple Memory.\r\nYou can define the dimension x*y.\r\n\r\nAlso there are two playing modes possible.\r\n- Pairs with the same cards (classical memory)\r\n- Pairs with different cards (find the same meaning)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA simple Memory written in C# and WPF.<br>\r\nYou can define the dimension x*y.<br>\r\n<br>\r\nAlso there are two playing modes possible.<br>\r\n- Pairs with the same cards (classical memory)<br>\r\n- Pairs with different cards (find the same meaning)</p>\r\n<p><strong>Change the dimension</strong></p>\r\n<ul>\r\n<li>open <em>Window.xaml.cs </em>and edit lines 24 and 25 (rows, colums) </li></ul>\r\n<p>&nbsp;</p>\r\n<p><strong>Change the images</strong></p>\r\n<ul>\r\n<li>Open the folder <em>images</em>&nbsp;and change the following: </li><li><em>background.png: </em>This is the background image. </li><li><em>picXx.png: </em>Those are the images. If you got a memory with dimensions 4x6 you got 24 fields and need 12 image pairs (pic1x.png - pic12x.png)\r\n</li></ul>\r\n<p>&nbsp;</p>\r\n<p><strong>Playing modes:</strong></p>\r\n<ul>\r\n<li>classical memory: Therefore a pair must have the same picture for picXa and picXb.\r\n</li><li>Same meaning mode: Therefore a pair must have different pictures for picXa and picXb.\r\n</li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,memory,WPF,",
+  "LastEdited": "2011-07-25T00:54:27.023-07:00"
+}

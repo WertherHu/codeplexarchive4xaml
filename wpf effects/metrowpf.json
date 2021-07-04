@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metrowpf",
+  "Title": "Metro WPF",
+  "Description": "Metro WPF provides a set of controls and styles for you to build your metro style WPF applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Metro WPF provides a set of controls and styles for you to build your metro style WPF applications.<br />\n<h1>Just released </h1>\rMetro WPF version 1.0 is now available, you can download the library and use it in you WPF app.<br />This library is also available via <a href=\"https://nuget.org/packages/WPF.Metro/\">NuGet</a>. \n<h1>Overview </h1>\r<img src=\"/projects/metrowpf/e5bd0488-af3f-4d6e-8b4d-972763211525\" alt=\"Metrodemo1.0.png\" title=\"Metrodemo1.0.png\" /><br /><br />Now you can use metro style in your WPF apps. Just add two resouce dictionaries into you application resources. For more details, see <a href=\"https://metrowpf.codeplex.com/wikipage?title=Using%20Metro%20Style%20in%20an%20Application&referringTitle=Home\">Using Metro Style in an Application</a> in documentation page.\n<h1>Future Release</h1>\r<ul><li>Theme editor will be availiable in version 1.1</li>\n<li>Metro animation behaviors are comming soon. </li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,WPF,Metro,Metro UI,Modern UI,UI,",
+  "LastEdited": "2013-06-17T18:41:06.177-07:00"
+}

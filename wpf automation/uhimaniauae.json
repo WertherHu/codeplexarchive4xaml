@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uhimaniauae",
+  "Title": "UiAutomationExtension",
+  "Description": "UI Automation を使いやすくするための拡張メソッド群です。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">通常、ダイアログにテキストを入力してボタンを押す操作を<br />UI Automation を使って実現しようとするとこんな感じになります。<br /><br /><pre>\n            var root = AutomationElement.RootElement;\n            var dialog = root.FindFirst(TreeScope.Children,\n                new PropertyCondition(AutomationElement.NameProperty, &quot;TestWindow&quot;));\n            var text = dialog.FindFirst(TreeScope.Children,\n                new PropertyCondition(AutomationElement.AutomationIdProperty, &quot;TextBox1&quot;));\n            var button = dialog.FindFirst(TreeScope.Children,\n                new PropertyCondition(AutomationElement.AutomationIdProperty, &quot;Button1&quot;));\n            (text.GetCurrentPattern(ValuePattern.Pattern) as ValuePattern).SetValue(&quot;foo&quot;);\n            (button.GetCurrentPattern(InvokePattern.Pattern) as InvokePattern).Invoke();\n</pre><br /><br />……うんざりですね。<br />というわけで面倒なところは拡張メソッドにまとめてみました。<br />UiAutomationExtension を使うと同じことをこんな感じで書けます。<br /><br /><pre>\n            UIAutomationExtension.Root.FromName(&quot;TestWindow&quot;).FromId(&quot;TextBox1&quot;).AsValue().SetValue(&quot;foo&quot;);\n            UIAutomationExtension.Root.FromName(&quot;TestWindow&quot;).FromId(&quot;Button1&quot;).AsInvoke().Invoke();\n</pre><br /><br />これで UI まわりの単体テストを少しは書きやすくなると思います。<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "UI Automation,",
+  "LastEdited": "2012-10-30T07:37:26.47-07:00"
+}

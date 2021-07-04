@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iphonetracker4win",
+  "Title": "iPhoneTracker for Windows and more",
+  "Description": "iPhoneTracker is app for visualizing iPhone's user location data(i.e. the consolidated.db file), and this project is a Silverlight ported app, it can be use on Windows and any other platforms installed with Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>iPhoneTracker </strong>is app for visualizing iPhone's user location data(i.e. the consolidated.db file), and this project is a\r\n<strong>Silverlight </strong>ported app, it can be use on Windows and any other platforms installed with Silverlight.<br>\r\n<br>\r\nThis app utilized <strong>Out-of-browser </strong>capability of Silverlight,&nbsp;therefore&nbsp;it requires latest version of Silverlight to be installed.<br>\r\n<br>\r\niPhoneTracker Windows版</p>\r\n<p>Contact me: <a href=\"mailto:xinhuang327@gmail.com\">xinhuang327@gmail.com</a></p>\r\n<p><img src=\"http://download.codeplex.com/download?ProjectName=iphonetracker4win&DownloadId=231467\" alt=\"\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Map,Silverlight,iphone,Bing Maps,iPhoneTracker,Out of Browser,Open Source,GPS,Location,LBS,",
+  "LastEdited": "2011-04-22T09:19:39.247-07:00"
+}

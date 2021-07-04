@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wptilemaker",
+  "Title": "wptilemaker",
+  "Description": "This is a Silverlight for Windows Phone control project to help people specify a 'tile' image from a source bitmap. The control lets the user move the image around an area on screen once the image is places to the users preference then the resulting bitmap can be used as a tile.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b> <br>\r\nThis is a Silverlight for Windows Phone control project to help people specify a 'tile' image from a source bitmap. The control lets the user move the image around an area on screen once the image is places to the users preference then the resulting bitmap\r\n can be used as a tile. <br>\r\n<p><a href=\"http://download.codeplex.com/download?ProjectName=wptilemaker&DownloadId=237467\"><img title=\"2011-05-09 14h02_53\" border=\"0\" alt=\"2011-05-09 14h02_53\" src=\"http://download.codeplex.com/download?ProjectName=wptilemaker&DownloadId=237468\" width=\"227\" height=\"375\" style=\"border-bottom:0px; border-left:0px; padding-left:0px; padding-right:0px; display:inline; border-top:0px; border-right:0px; padding-top:0px\"></a></p>\r\n<p>An example of the tile maker control in action.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WP7,Windows Phone 7,Live Tiles,",
+  "LastEdited": "2011-05-09T06:12:40.647-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "riafixer",
+  "Title": "RiaFixer",
+  "Description": "Solves a design-time performance issue when using RiaServices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Solves a design-time performance issue when using RiaServices.<br />While solved in the great OpenRiaServices project at <a href=\"https://openriaservices.codeplex.com/\">https://openriaservices.codeplex.com/</a>, the original RiaServices still suffers from a design-time performance bug.<br /><br />As part of it&#39;s client proxy code generation routines, RiaServices attempts to detect changes to the Server project&#39;s assembly references - making a change to the server project triggers client code generation.<br /><br />This routine is triggered during project load (which is correct), during build (which is correct), and also when switching design-time context from a XAML page with unsaved changes (not sure why).  This results in a big performance hit with larger DomainServices when making a XAML change followed by clicking on the Designer, or switching to another file without saving first (even saving triggers the code generation routine, but at least once it&#39;s done you can switch freely).<br /><br />The issue is that the file used to store details about the server project&#39;s references does not store the last-write-time of each file, which results in the code generation routines being triggered when they don&#39;t need to be.<br /><br /><b>The Fix</b><br />This custom MSBuild Task runs after the code generation routines, cleaning up the file RiaServices creates.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "RiaServices,WCF RIA,OpenRiaServices,Silverlight,",
+  "LastEdited": "2014-11-01T08:28:36.273-07:00"
+}

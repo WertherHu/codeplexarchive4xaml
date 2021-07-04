@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TicTacToeTah",
+  "Title": "TicTacToeTah",
+  "Description": "TicTacToeTah is a new twist on TicTacToe which requires you to think in three dimensions.  Built using C# and WPF.  It supports playing against your friends either locally or online and also has a challenging computer artifical intelligence.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>About</h1>\rTicTacToeTah is a new twist on TicTacToe which requires you to think in three dimensions. Built using C# and WPF. It supports playing against your friends either locally or online and also has a challenging computer artifical intelligence.<br />\n<h3>Interesting Fact</h3>\rInfact there are 76 different ways to win!<br />\n<h1>Screenshot</h1>\r<img src=\"/projects/TicTacToeTah/b36f7837-4590-49de-b799-63306a383871\" alt=\"tttt.png\" title=\"tttt.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,game,games,WPF,xaml,.net 3.0,",
+  "LastEdited": "2010-01-28T15:01:10.233-08:00"
+}

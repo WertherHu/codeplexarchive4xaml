@@ -1,0 +1,9 @@
+{
+  "ProjectName": "proudmonkeysitenav",
+  "Title": "ProudMonkey SiteNavigationTrail Control",
+  "Description": "The idea behind this control is to add simple navigation trails into your website by not worrying about QueryString handling in the URL. Also this control gives",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><a href=\"/wikipage?title=IMG&referringTitle=Home\"></a><img src=\"http://imageshack.us/a/img21/3196/snt5.jpg\" alt=\"\" width=\"293\" height=\"60\"><br>\r\n<br>\r\nNavigation trails a.k.a &quot;BreadCrumbs&quot; provide links to allow users to keep track of their locations within your application. These give idea to users on where they are at in their application.\r\n<br>\r\n<br>\r\nThe idea behind this control is to add simple navigation trails into your website by not worrying about QueryString handling in the URL. Also this control gives you full control on how your site trails are going to be structured.<br>\r\n<br>\r\nNote that this control will not render trails based on your menu hierarchy instead the trails will be created based on the page that you have navigated.</p>\r\n<p><a href=\"http://proudmonkeysitenav.codeplex.com/releases\">Download</a></p>\r\n<p><a href=\"http://proudmonkeysitenav.codeplex.com/documentation\">Documentation</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-07T10:05:32.42-08:00"
+}

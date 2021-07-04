@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssgenerator",
+  "Title": "Data & Image Generator for Slide.Show",
+  "Description": "Generates 'data.xml' and necessary web image assets (resized images) for a Slide.Show, reading metadata from your images and providing a graphical interface to customize the Slide.Show output content.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Generates &#39;data.xml&#39; and necessary web image assets &#40;resized images&#41; for a Slide.Show, reading metadata from your images and providing a graphical interface to customize the Slide.Show output content.<br /><br /><img src=\"/projects/ssgenerator/c80557e4-ac82-496c-91f1-9457c1c28816\" alt=\"SSGen.jpg\" title=\"SSGen.jpg\" /><br /><br />For some discussion of motivations, see <a href=\"http://www.benhoffman.us/default.asp?display=16\">http://www.benhoffman.us/default.asp?display=16</a>.<br /><br /><b></b>Make sure to grab .NET 3.5 : <a href=\"http://www.microsoft.com/downloads/details.aspx?FamilyID=333325fd-ae52-4e35-b531-508d977d32a6&amp;displaylang=en\">http://www.microsoft.com/downloads/details.aspx?FamilyID=333325fd-ae52-4e35-b531-508d977d32a6&amp;displaylang=en</a><br /><br /><b></b>Source code requires VS2008.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,.net 3.0,Photo Gallery,Gallery tool,silverlight image,slide show,",
+  "LastEdited": "2008-01-05T21:07:53.263-08:00"
+}

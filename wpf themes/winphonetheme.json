@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winphonetheme",
+  "Title": "Window Phone Automatic Theme Handler",
+  "Description": "Provides a sample showing how to easily use Themes in your Windows Phone projects",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Windows Phone Automatic Theme Handler</strong></p>\r\n<p>Windows Phone has the concept of Dark and Light themes. I really like this idea as I typically have my phone in Dark theme and switch to Light when in bright sunshine. Unfortunately not a lot of applications make use of these themes so I wanted to share\r\n the method I use to implement it. </p>\r\n<p>I owe the technique to a great post from <a href=\"http://www.identitymine.com/forward/2010/11/theming-tips-for-windows-phone-7-wp7/\">\r\nIdentityMine</a>, essentially you derive a new static resource type which loads the correct themed xaml *before* your page has started to load.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone,Themes,",
+  "LastEdited": "2012-12-19T02:31:32.51-08:00"
+}

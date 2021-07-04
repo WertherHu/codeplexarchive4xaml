@@ -1,0 +1,9 @@
+{
+  "ProjectName": "thumbnailbuilder",
+  "Title": "WPF Thumbnail Builder Library",
+  "Description": "Fast and simple thumbnail builder. Fully configurable from XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Fast and simple thumbnail builder. Fully configurable from XAML.<br /><br />--<br />Author projects:<br /><a href=\"http://www.wcf.net.ru\">Windows Communication Foundation on russian</a><br /><a href=\"http://www.queue.net.ru\">Microsoft SQL Server Service Broker on russian</a><br /><a href=\"http://www.queue.net.ru\">Wiindows Presentation Foundation on russian</a><br />--<br />About author:<br /><a href=\"http://rgolubin.moikrug.ru\">Roman Golubin info</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Thumbnail,MVVM,MVP,MVC,",
+  "LastEdited": "2010-06-12T12:30:14.523-07:00"
+}

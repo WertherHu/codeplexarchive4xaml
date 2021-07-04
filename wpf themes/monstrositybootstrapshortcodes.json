@@ -1,0 +1,9 @@
+{
+  "ProjectName": "monstrositybootstrapshortcodes",
+  "Title": "Monstrosity Bootstrap Shortcodes Wordpress",
+  "Description": "This plugin adds Bootstrap shorcodes to a Wordpress theme that does not already have shortcodes built into the theme.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n<br>\r\nThis is a small project adding some shortcodes to a bootstrap based Wordpress theme.<br>\r\nPlease note this for a theme that does not already have shortcodes, there could be a conflict.<br>\r\n<br>\r\nFor<br>\r\nBootstrap version 2.32</p>\r\n<ul>\r\n<li>row-fluid </li><li>span with offset </li><li>button </li><li>label </li><li>badge </li><li>hero-unit </li><li>header </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-17T09:25:17.937-07:00"
+}

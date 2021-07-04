@@ -1,0 +1,9 @@
+{
+  "ProjectName": "clipboardmanager",
+  "Title": "Clipboard Manager",
+  "Description": "Clipboard Manager handles multiple clipboard entries in a simple and lightweight fasion, just with two global hotkeys. It is system-wide and independent of any particular application. It is developed in C# using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Clipboard Manager handles multiple clipboard entries in a simple and lightweight fasion, just with two global hotkeys. It is system-wide and independent of any particular application. It is developed in C&#35; using WPF.<br /><br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-13T15:28:31.947-08:00"
+}

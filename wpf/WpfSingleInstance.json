@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfSingleInstance",
+  "Title": "WPF application Single Instance in one line of code for usage.",
+  "Description": "Usage: WpfSingleInstance.Make(); or WpfSingleInstance.Make(SingleInstanceModes.ForEveryUser);",
+  "MovedLink": "https://github.com/it3xl/WPF-app-Single-Instance-in-one-line-of-code",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Usage&#58; WpfSingleInstance.Make&#40;&#41;&#59; or WpfSingleInstance.Make&#40;SingleInstanceModes.ForEveryUser&#41;&#59;<br /><br />1. Add only a line of code (above) in the App.xaml.cs or in the main window.<br />2. Add a small static class in project (and a dummy enum SingleInstanceModes).<br /><br />No additional inheritance in App class.<br />No App.xalm deleting.<br />No so redundant WCF and Remoting.<br />It works by the EventWaitHandle. Look in code, it&#39;s so simply.<br /><br />I&#39;m not worried about security of string-name for EventWaitHandle :( . It opt to you.<br />I needed a reliable, robust, simple, small solution.<br /><br />it3xl.com</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-07-06T02:44:47.387-07:00"
+}

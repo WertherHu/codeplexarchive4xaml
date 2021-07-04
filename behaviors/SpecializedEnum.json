@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SpecializedEnum",
+  "Title": "SpecializedEnum: a base class to allow enum-like behavior with arbitrary objects",
+  "Description": "This class uses readonly variables, reflection, generics, and an internal ordered list to provide behavior similar to that of an enum but with arbitrary objects or value types rather than only integer numeric types. Public static readonly variables can be added in the derived class to represent the desired enum-like values.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This class uses readonly variables, reflection, generics, and an internal ordered list to provide behavior similar to that of an enum but with arbitrary objects or value types rather than only integer numeric types. Public static readonly variables can be added in the derived class to represent the desired enum-like values.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "enum,C#,C# 2.0,Generics,.NET 2.0,Enumeration,Reflection,Code Snippet,String Enum,",
+  "LastEdited": "2008-05-19T09:24:29.31-07:00"
+}

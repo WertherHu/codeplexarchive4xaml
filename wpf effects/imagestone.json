@@ -1,0 +1,9 @@
+{
+  "ProjectName": "imagestone",
+  "Title": "ImageStone",
+  "Description": "ImageStone is a powerful C++ class library for image manipulation. Its features include load, save, display, transformation, and nearly 100 special image effects. It can be used cross platform (includes Windows, Linux, Mac), and especially under Windows, it can be used as a DIB wrapper class.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ImageStone is a powerful C&#43;&#43; class library for image manipulation. Its features include load, save, display, transformation, and nearly 100 special image effects. It can be used cross platform &#40;includes Windows, Linux, Mac&#41;, and especially under Windows, it can be used as a DIB wrapper class.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "image,",
+  "LastEdited": "2011-12-06T04:39:23.713-08:00"
+}

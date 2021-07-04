@@ -1,0 +1,9 @@
+{
+  "ProjectName": "codereviewrequestautomation",
+  "Title": "Code Review Request Automation",
+  "Description": "Code Review Request Automation is for developers and teams that want control their check-ins...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b>\n<h2><b>Code Review Request Automation</b></h2>\r\nCode Review Request Automation is for developers and teams that want control their check-ins and create code review requests for specified projects, users and file &amp; path patterns. For example when you checked-in a Java Script file in the specific folder you can create a request to a TFS User. So Request Viewer will be able to check the changes in the source file and interpret them.  Solution has 2 project, one contains custom policy source code and other one contains a Visual Studio Installer Package (Vsix). When you build the projects and create the Vsix package you will be able to run it. and When you run it, it install a custom policy in Visual Studio as you see image below. So you have to add custom policy in this tab and then click Edit button.  Here you can select the project, area path, user to be assigned and affected source control paths in Regex format.<br /><br /><img src=\"/projects/codereviewrequestautomation/8a9a5e75-f9cf-458a-bb65-bb5fb44b965b\" alt=\"TfsCustomCheckinPolicySetting.jpg\" title=\"TfsCustomCheckinPolicySetting.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Code Review Request,Team,Foundation,Custom Policy,Checkin policy,Source control,visual studio,extension,",
+  "LastEdited": "2014-05-08T12:18:23.63-07:00"
+}

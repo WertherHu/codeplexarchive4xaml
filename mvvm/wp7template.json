@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp7template",
+  "Title": "Windows Phone 7 Silverlight MVVM Template",
+  "Description": "The main goal for the Windows Phone 7 Model View View Model Template is to accelerate the development of your Windows Phone 7 application.  It implements a combination of the awesome MVVM Light Toolkit and NInject for dependency injection.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Introduction</h2>\rThe main goal for the Windows Phone 7 Model View View Model Template is to accelerate the development of your Windows Phone 7 application.  It implements a combination of the awesome MVVM Light Toolkit and NInject for dependency injection.  The template aims to separate views from your model allowing you to provide a clean and easy to maintain application.  Additionally it has helpful tools to give your application full globalization support. \n<h2>Documentation</h2>\r<a href=\"http://wp7template.codeplex.com/documentation\">Getting Started</a><br /><a href=\"http://wp7template.codeplex.com/wikipage?title=INotifyPropertyChanged%20Implementation\">INotifyPropertyChanged Implementation</a><br /><a href=\"http://wp7template.codeplex.com/wikipage?title=Chooser%20Manager\">Chooser Manager</a>\n<h2>Contact</h2>\rThis project was formed based on a personal need to have a quick way to get up and running with MVVM without repeating mudane and boring project setup tasks.  If you have any suggestions, feedback or fancy helping out do not hesitate to get in touch:<br /><br /><b>Twitter</b> - <a href=\"http://www.twitter.com/jsharratt\">@jsharratt</a><br /><b>Blog</b> - <a href=\"http://consultingblogs.emc.com/jonsharratt/\">Jon Sharratt&#39;s Blog</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 7,mobile,MVVM,Template,windows phone,Phone 7,1,",
+  "LastEdited": "2011-01-12T13:48:42.593-08:00"
+}

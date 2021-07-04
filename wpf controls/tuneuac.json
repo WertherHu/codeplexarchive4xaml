@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tuneuac",
+  "Title": "Tune UAC",
+  "Description": "Tune UAC is a small application to easily configure the Windows Vista User Account Control settings.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Tune UAC - A small, easy application to configure the User Account Control settings in Windows Vista<br /><br />Tune UAC reads your current UAC settings and displays the results accordingly in the initial screen<br /><br />Screenshots can be viewed <a href=\"http://s33.photobucket.com/albums/d74/chaks_2k/Tune%20UAC/\">here</a><br /><br />Available features are,<br /><br />1) Turn on/off User Account Control,<br /><br />2) User Account Control behavior for Administrators,<br /><br />3) User Account Control behavior for Users, and<br /><br />4) Prompt for Secure Desktop<br /><br />There is a Help button for each of the feature which will explain what it is and it’s options.<br /><br />If you are not sure whether your system has the recommended UAC settings, you can check with Tune UAC’s Check My Settings feature which would check for the same, and if not, inform the same along with which settings are causing the problem. You can allow Tune UAC to automatically fix these issues or you can change it later using Tune UAC.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Vista Utils,Visual Studio 2008,User Account Control,C#,",
+  "LastEdited": "2007-12-01T07:54:51.403-08:00"
+}

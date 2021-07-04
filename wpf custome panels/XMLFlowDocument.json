@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XMLFlowDocument",
+  "Title": "WPF XML FlowDocument sample",
+  "Description": "A simple example of rendering XML as a WPF FlowDocument.\n\nIt's implemented as an IValueConverter, but can also be used standalone.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A simple example of rendering XML to a WPF FlowDocument.<br /><br />See here for more details: http://chriscavanagh.wordpress.com/2008/11/02/rendering-xml-as-a-flowdocument/<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-11-02T00:26:20.02-07:00"
+}

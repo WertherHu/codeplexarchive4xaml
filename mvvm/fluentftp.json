@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fluentftp",
+  "Title": "Fluent FTP",
+  "Description": "I found there is a lack of samples for building client FTP applications, so I decided to create a fairly straightforward FTP client.\r\nIt support basic abilities you would expect from a FTP client - directory browsing, file downloads and uploads, creating directories.\r\n\r\nThe UI aims to be as simple as possible, with minimum distraction. \r\n\r\nThis project is developed using the C#, WPF and the MVVM Pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />I found there is a lack of samples for building client FTP applications, so I decided to create a fairly straightforward FTP client.<br />It support basic abilities you would expect from a FTP client - directory browsing, file downloads and uploads, creating directories.<br /><br />The UI aims to be as simple as possible, with minimum distraction. <br /><br />This project is developed using the C&#35;, WPF and the MVVM Pattern.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,WPF,ftp,mvvm,",
+  "LastEdited": "2012-04-22T06:30:49.017-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WASP",
+  "Title": "Windows Automation Snapin for PowerShell",
+  "Description": "WASP is a PowerShell snapin for Windows Automation tasks like selecting windows and controls and sending mouse and keyboard events.\n\nWe have cmdlets like Select-Window, Select-Control, Send-Keys, Send-Click, Get-WindowPosition, Set-WindowPosition, Set-WindowActive, Remove-Window ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>WASP</h2>\r<img src=\"/projects/WASP/ffc5f132-9415-4fbc-91c9-c62c9d6c1100\" alt=\"WASP.png\" title=\"WASP.png\" /> WASP is a PowerShell snapin for Windows Automation tasks like selecting windows and controls and sending mouse and keyboard events. We have <a href=\"https://wasp.codeplex.com/wikipage?title=automation%20cmdlets&referringTitle=Home\">automation cmdlets</a> like Select-Window, Select-Control, Send-Keys, Send-Click, Get-WindowPosition, Set-WindowPosition, Set-WindowActive, Remove-Window ... etc.<br /><br />Our goal is to enable you to accomplish most Windows GUI Automation scripting from inside PowerShell, without resorting to specialized (and expensive) scripting tools. <br /><br />Just to be clear, don&#39;t expect any &quot;click to record&quot; functionality ... but do expect to be able to automatically tile windows, send mouse clicks and keystrokes, and in general, automate those tasks that you would normally not be able to do from a console.<br />\n<h3><a href=\"https://wasp.codeplex.com/wikipage?title=Some%20Usage%20Examples&referringTitle=Home\">Some Usage Examples</a></h3></div><div class=\"ClearBoth\"></div>",
+  "TagList": "PowerShell,Automation,Testing,Scripting,Windows Automation ,My Powershell,favorites,gui,UI Automation,toolset,",
+  "LastEdited": "2009-01-20T06:48:23.66-08:00"
+}

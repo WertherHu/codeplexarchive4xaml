@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BlazeApps",
+  "Title": "Blaze Apps - Web Community",
+  "Description": "Blaze Apps - Web Community has CMS capabilities, forums, blogs, galleries, events, polls, knowledge base and many other features.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Welcome to Blaze Apps, Web Community</b><br />The application is a suite of web services, including, Forums, Blogs, Galleries, Events, Polls, News, Private Messaging, and Content Managment (CMS).  Initially it started out as a knowledge base system, but slowly grew to a Web Community application and providing many features.<br /><br />The are more things planned for the application and we hope that you find the Web Community useful and easy to use.<br /><br />Please place all issues concerning the release in the <a href=\"http://www.blazeapps.com/forum.aspx?pid=for_board\">Blaze Apps Discussion forums</a>.<br /><br />Do not hesitate to provide feedback, suggestions, bugs, and so on about this release.  The more information received, the better  we can make the application.<br /><br />Please visit the <a href=\"https://blazeapps.codeplex.com/wikipage?title=Features&referringTitle=Home\">Features</a> page to see the features available.<br /><br /><b>Parent Site - SQL Express 2005 Based</b><br />Please go to <a href=\"http://www.blazeapps.com/\">Blaze Apps</a> to see the SQL Express 2005 version of the application in use.  Register and try it out for yourself.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "vs2005,Ajax,C#,blogging,CMS,mysql,watch,KB,VB.NET,blog,forum,ASP.NET 2.0,Web Services,Knowledge Base,SQLExpress,Poll,blogs,BlazeApps,Forums,to view,ASP.,Community,AJAX Control Toolkit,Survey Builder,Form Builder,CMS - VER,",
+  "LastEdited": "2009-05-19T20:49:12.82-07:00"
+}

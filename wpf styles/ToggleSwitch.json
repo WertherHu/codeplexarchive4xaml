@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ToggleSwitch",
+  "Title": "Toggle Switch Control Library",
+  "Description": "Use the Toggle Switch Control Library to create highly customizable toggle switch controls in Silverlight and WPF applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Use the Toggle Switch Control Library to create highly customizable toggle switch controls in Silverlight and WPF applications.<br /><br />Available on Nuget: <a href=\"http://nuget.org/List/Packages/ToggleSwitch\">http://nuget.org/List/Packages/ToggleSwitch</a><br /><br />Also available on GitHub: <a href=\"https://github.com/ejensen/toggle-switch-control\">https://github.com/ejensen/toggle-switch-control</a><br /><br /><a href=\"http&#58;&#47;&#47;yetilabs.org&#47;toggleswitch\"><img src=\"/projects/ToggleSwitch/5b1cbac5-558e-4363-8c80-25bb12e64f7c\" alt=\"Click&#32;to&#32;view&#32;the&#32;demo\" title=\"Click&#32;to&#32;view&#32;the&#32;demo\" /></a><br /><br />Requires Silverlight 4 or WPF 4 Client Profile</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-09-08T13:26:15.387-07:00"
+}

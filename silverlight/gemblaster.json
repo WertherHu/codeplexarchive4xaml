@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gemblaster",
+  "Title": "Gem Blaster",
+  "Description": "An entertaining game written for Silverlight 1.1 / 2.0. Click sets of adjacent gems that share the same color and see how high you can score.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An entertaining game written for Silverlight 1.1 &#47; 2.0. Click sets of adjacent gems that share the same color and see how high you can score.<br /><br /><br />Gem Blaster was written in late summer / fall of 2007, and currently runs on the Silverlight 1.1 Alpha runtime.<br /><br />It will be updated to support Silverlight 2.0 shortly after the new bits are made available by Microsoft.<br /><br /><img src=\"/projects/gemblaster/01fd812f-c921-4ff0-82d5-e5631bdd91a5\" alt=\"gemblaster.jpg\" title=\"gemblaster.jpg\" /><br /><br /><b>Instructions</b><br /><br />Not much to it. Find like-colored gems that are adjacent to each other, and click them to score points. Larger combinations will yield large points bonuses. If you clear a whole column, then the neighboring columns will slide over and make room for more. If you get into trouble, you can use up to five &quot;hints&quot; and five &quot;cheats&quot;.<br /><br />For more instructions, click the &quot;Learn How to Play&quot; button in the startup screen.<br /><br /><b>Demo</b><br /><br />We are hosting a live demo of the Gem Blaster game on our demo server here at Wintellect. Please do not abuse this server. Because thats just not cool.<br /><br />Demo page: <a href=\"http://demo.wintellect.com/gemblaster/\">http://demo.wintellect.com/gemblaster/</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight Game,game,puzzle,",
+  "LastEdited": "2008-08-20T17:29:29.883-07:00"
+}

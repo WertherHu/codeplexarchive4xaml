@@ -1,0 +1,9 @@
+{
+  "ProjectName": "manicweather",
+  "Title": "Manic Weather Control",
+  "Description": "Asp.net custom control that shows current weather conditions and weather forecast. Data is supplied by weather.com service.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Description</b><br />Asp.net custom control that shows current weather conditions and weather forecast. Data is supplied by weather.com service.<br /><br /><b>Technology</b>\n<ul><li>Development: Visual Studio 2008</li>\n<li>Target framework: 2.0 and above</li></ul>\n<br /><b>Controls</b><br />\n<ul><li>CurrentConditions</li>\n<li>Forecast</li></ul>\n<br /><b>Freatures</b><br />\n<ul><li>Shows current conditions for given location.</li>\n<li>Shows forecast for given location and number of days.</li>\n<li>Data caching.</li>\n<li>Fully localized control.</li></ul>\n<br /><b>Licence</b><br />\n<ul><li><a href=\"http://manicweather.codeplex.com/license\">GNU Library General Public License (LGPL)</a></li></ul>\n<br /><b>Support</b><br />\n<ul><li>Please ask your questions in &quot;Discussions&quot; section.</li>\n<li>Please submit bugs and requests in &quot;Issue Tracker&quot; section.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Framework,Custom,Weather,Service,Control,Forecast,Conditions,",
+  "LastEdited": "2014-03-25T03:35:02.45-07:00"
+}

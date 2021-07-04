@@ -1,0 +1,9 @@
+{
+  "ProjectName": "yammyy",
+  "Title": "Yammyy - a Yammer Client for .NET",
+  "Description": "Yammyy is a Yammer Client for .NET framework (Yammer is like twitter for companies  http://www.yammer.com/). Yammyy is rich yammer client based WPF, and supported OAuth. If you search WPF or OAuth for .NET samples,  yammyy project  may help you to make your implementation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Yammyy</h2>\rYammyy is a Yammer Client for .NET framework (Yammer is like twitter for companies. <a href=\"http://www.yammer.com/\">http://www.yammer.com/</a>). <br /><br /><img src=\"/projects/yammyy/c31a94f4-75b1-4580-93f9-9113a319eff4\" alt=\"yammyy2.png\" title=\"yammyy2.png\" /><br />\n<h2>Implementation</h2>\rYammyy is a rich yammer client based WPF, and supported OAuth. If you search WPF or OAuth for .NET samples, yammyy project may help you to make your implementation. <br />\n<h2>Future works</h2>\rNow Yammyy is under construction. so after complete implementation, i will enhance some functions like belows.\n<ul><li>Location Aware </li>\n<li>Social Graph</li>\n<li>etc...</li></ul>\n\n<h2>Links</h2>\rYammyy Site : <a href=\"http://www.yammyy.com/\">http://www.yammyy.com/</a><br />Yammer Site : <a href=\"http://www.yammer.com/\">http://www.yammer.com/</a> <br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-01-25T00:10:38.257-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cssmixer",
+  "Title": "CSS Mixer",
+  "Description": "CSS Mixer provide a GUI that allow you to combine many css files into one. \nAnd use the \"Yahoo! UI Library: YUI Compressor for .Net\" to minify it.\n\nUse it to improve your asp.net themes when you deploy a web application.\n\nChoose a css folder and go !",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CSS Mixer provide a GUI that allow you to combine many css files into one. <br />And use the &#34;Yahoo&#33; UI Library&#58; YUI Compressor for .Net&#34; to minify it.<br /><br />Use it to improve your asp.net themes when you deploy a web application.<br /><br />Choose a css folder and go &#33;<br /><br /><br /><u>first version</u> <br />\n<ul><li>combine css</li>\n<li>combine  and minify css</li>\n<li>save result</li></ul>\n<br />use the <a href=\"http://yuicompressor.codeplex.com/\">http://yuicompressor.codeplex.com/</a> project</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CSS,compression,merge,best practices,",
+  "LastEdited": "2010-02-17T13:54:54.53-08:00"
+}

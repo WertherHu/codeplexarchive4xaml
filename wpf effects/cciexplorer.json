@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cciexplorer",
+  "Title": "CCI Explorer (An alternative to .NET Reflector)",
+  "Description": "CCI Explorer is an alternative to RedGate Reflector.\nIt use the Microsoft Common Compiler Infrastructure to decompil and view source executable code.\n\nThe application is writing in WPF and use the MVVM pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CCI Explorer is an alternative to RedGate Reflector.<br />It use the Microsoft Common Compiler Infrastructure to decompil and view source executable code.<br /><br />The application is writing in WPF and use the MVVM pattern.<br /><br /><img src=\"/projects/cciexplorer/0c464302-8fd1-472c-8ace-2c848b2eac0a\" alt=\"CCIExplorer.png\" title=\"CCIExplorer.png\" /><br /><br /><b>Current features :</b>\n<ul><li>TreeView exploration</li>\n<li>C# decompilation</li></ul>\n<br /><b>Planned features :</b>\n<ul><li>Navigation from type to type</li>\n<li>Load assembly from GAC</li>\n<li>PRISM based framework for extensibility</li>\n<li>Visual Basic decompilation</li>\n<li>IL decompilation</li></ul>\n<br /><b>Currently, i&#39;m looking for contributors to work on this project.</b><br /><br />This project has been created and managed by Gilles TOURREAU (<a href=\"http://gilles.tourreau.fr\">http://gilles.tourreau.fr</a>), an MVP C#.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CCI,Common Compiler Infr,Reflector,",
+  "LastEdited": "2011-03-04T02:47:07.323-08:00"
+}

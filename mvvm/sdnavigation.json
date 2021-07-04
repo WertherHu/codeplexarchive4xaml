@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sdnavigation",
+  "Title": "SDNavigation",
+  "Description": "WP7 MVVM friendly Silverlight Navigation library (integrated with the Windows Phone Navigation Framework).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">WP7 MVVM friendly Silverlight Navigation library (integrated with the Windows Phone Navigation Framework).<br /><br />It is based on Laurent Bugnion&#39;s <a href=\"http://geekswithblogs.net/lbugnion/archive/2011/01/06/navigation-in-a-wp7-application-with-mvvm-light.aspx\">INavigationService</a> idea and combined with Rob GarFoot<a href=\"http://garfoot.com/blog/2010/09/silverlight-navigation-with-the-mvvm-pattern/\">MVVM Navigation Framework</a> approach to obtain the page context (via behavior).<br /><br /><b>**Coming soon posts + video tutorials **</b><br /><br />Developed by the <a href=\"http://www.silverdiagram.net\">SilverDiagram</a> Team<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-14T07:05:01.187-08:00"
+}

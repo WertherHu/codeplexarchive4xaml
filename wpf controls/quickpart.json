@@ -1,0 +1,9 @@
+{
+  "ProjectName": "quickpart",
+  "Title": "QuickPart",
+  "Description": "QuickPart is a SharePoint web part wrapper of ASP.NET user controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />QuickPart is a SharePoint web part wrapper of ASP.NET user controls.<br /><br />QuickPart安装程序与文档下载：<a href=\"http://www.codeplex.com/quickpart/Release/ProjectReleases.aspx?ReleaseId=22060\">http://www.codeplex.com/quickpart/Release/ProjectReleases.aspx?ReleaseId=22060</a><br /><br /><br /><b>什么是QuickPart？</b><br />如果您曾经给SharePoint 2007开发过Web Part，那么一定会不满意其开发效率。由于微软并未官方提供任何可视化的Web Part开发工具，所以开发人员们不得不使用代码来输出Web Part的界面信息，而这样的开发方式是极其低效的。<br />QuickPart是一个方便开发人员快速开发Web Part的工具。它能够将一个普通的ASP.NET用户控件包装成一个标准的Web Part，用于SharePoint中。也就是说，开发人员只需要创建出标准的ASP.NET用户控件，然后就可以使用QuickPart来将这个用户控件当做Web Part来使用。<br />由于在Visual Studio中可以可视化的创建用户控件，所以，用户控件具有很好的开发效率，而且，在服务器端事件处理等方面，用户控件都能很方便的实现。有了QuickPart，开发人员就可以间接的可视化开发Web Part了。而且，即使开发人员不了解开发Web Part的技术细节，也同样能开发出能用于SharePoint的Web Part！<br /><br /><b>我曾经安装过QuickPart的旧版本，如何将其更新到最新的版本，但将更新的影响减小到最小？</b><br />您可以从下载页面，仅下载最新的QuickPart程序集文件（QuickPart 1.03 DLL），使用这个压缩包里面的QuickPart.dll，替换掉您的服务器上原有的QuickPart.dll即可。<br /><br /><b>如何开发出能被QuickPart包装的用户控件？</b><br />简单的说，就和开发一个普通的ASP.NET用户控件一模一样，您不需要使用任何SharePoint特有的技术。<br /><br /><b>在用户控件中，可以创建自定义属性吗？</b><br />可以。和给标准的Web Part创建自定义属性一模一样，只需要给用户控件的属性添加上相应的Attribute修饰即可。<br />PersonalizableAttribute（必须）<br />WebBrowsableAttribute（必须）<br />WebDisplayNameAttribute<br />WebDescriptionAttribute<br /><br /><b>在用户控件中，可以使用Web Part Connection机制来进行数据传递吗？</b><br />可以。<br /><br /><b>在使用QuickPart时，似乎发现了一个bug，应该联系谁？</b><br />请联系kaneboy@gmail.com。<br /><br /><br />kaneboy&#39;s blog : <a href=\"http://blog.joycode.com/kaneboy\">http://blog.joycode.com/kaneboy</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,QuickPart,",
+  "LastEdited": "2009-01-20T07:54:02.413-08:00"
+}

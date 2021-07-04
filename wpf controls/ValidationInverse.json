@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ValidationInverse",
+  "Title": "A starting point for a validation framework using IoC in .NET and C#",
+  "Description": "The simplest validation framework that applies the Inversion Of Control principle (http://martinfowler.com/articles/injection.html). It's not a real world sample, but a simple starting point to understand a way to implement the separation of tasks in applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The simplest validation framework that applies the <a href=\"http://martinfowler.com/articles/injection.html\">Inversion Of Control</a> principle. It&#39;s not a real world sample, but a simple starting point to understand a way to implement the separation of tasks in applications. The Abstract Factory pattern provided is based on <a href=\"http://www.codeplex.com/NSK\">NSK</a>.<br /><br />The base class diagram:<br /><img src=\"/projects/ValidationInverse/dcbdff5b-7098-4507-9a73-4dbee5b7a91b\" alt=\"Class&#32;diagram\" title=\"Class&#32;diagram\" /><br /><br />Matteo Migliore<br /><a href=\"http://blogs.ugidotnet.org/matteomigliore\">Blog - http://blogs.ugidotnet.org/matteomigliore</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-01-22T02:24:47.87-08:00"
+}

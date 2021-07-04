@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpextensions",
+  "Title": "wpextensions",
+  "Description": "<project name> extend standart WP7 controls",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<span>WPExtensions</span><span>&nbsp;</span><span>provides an extension</span><span>&nbsp;</span><span>of standard</span><span>&nbsp;</span><span>elements.</span></p>\r\n<p><strong>install by NuGet:&nbsp;</strong><strong>&nbsp;</strong>Install-Package WPExtensions</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-26T02:31:19.053-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "heaven",
+  "Title": "Heaven Engine",
+  "Description": "Realtime Rendering Engine. It's based upon .NET Framework and XNA/SlimDX.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Heaven Engine </h2>\rRealtime rendering engine. It&#39;s based upon .NET Framework and XNA/SlimDX.<br />\n<h2>Applications</h2>\rThe technology has been integrated with an industrial application. It has been applied to render CAD-geometry and simulate/visualize process of measurement on coordinate measurement machine<br /><br /><img src=\"/projects/heaven/6f75bd79-2e68-47c9-a95e-3bbc2ec3ecba\" alt=\"scheme.png\" title=\"scheme.png\" /><br /><br /><img src=\"/projects/heaven/23aa7340-12a5-4db7-9976-fb0c7a2d78b4\" alt=\"analys.png\" title=\"analys.png\" /><br />\n<h2>Research</h2>\r<ul><li><a href=\"https://heaven.codeplex.com/wikipage?title=Additional%20researches&referringTitle=Home\">Additional researches</a></li></ul>\n\n<h2>Contacts</h2>\r\nDaniel Degtyarev<br />E-mail: daVinci@mail.ru<br />ICQ: 347665220</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,XNA,3D,engine,WPF,rendering,XBox360,NET,xbox,HLSL,GPU,Shader,Net 3.5,SlimDX,bDownload,",
+  "LastEdited": "2008-11-06T13:56:43.757-08:00"
+}

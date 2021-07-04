@@ -1,0 +1,9 @@
+{
+  "ProjectName": "halcyone",
+  "Title": "Halcyone : Silverlight Application Framework",
+  "Description": "Halcyone is open source application framework for rapid development of silverlight applications. Current version includes easy to use convention based rest service framework. Later we are planing to expose our navigation, messaging and mvvm tools.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Halcyone is open source application framework for rapid development of silverlight applications. Current version includes easy to use convention based rest service framework. Later we are planing to expose our navigation, messaging and mvvm tools.<br /><br />You can find more in formation in following article : <a href=\"http://www.silverlightshow.net/items/Introducing-to-Halcyone-Silverlight-Application-Framework-Silverlight-Rest-Extensions.aspx\">http://www.silverlightshow.net/items/Introducing-to-Halcyone-Silverlight-Application-Framework-Silverlight-Rest-Extensions.aspx</a><br /><br />Contributers:<br /><br /><a href=\"http://weblogs.asp.net/AlexeyZakharov/\">Alexey Zakharov</a> from <a href=\"http://witcraft.ru/\">Witcraft</a> team</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-20T01:18:34.173-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfborderless",
+  "Title": "Wpf Borderless Window",
+  "Description": "This is a custom window with no borders and kipping all the logic thanks to the WPF Shell Integration.\r\n\r\nIt has a custom control for the caption buttons and you can customize it with themes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a custom window with no borders and kipping all the logic thanks to the WPF Shell Integration.<br /><br />It has a custom control for the caption buttons and you can customize it with themes.<br /><br /><img src=\"/projects/wpfborderless/ab495340-6809-490d-9488-0696856a7b4f\" alt=\"screenshot.png\" title=\"screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Windows,Custom,",
+  "LastEdited": "2011-09-15T06:00:52.76-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnnforumextensions",
+  "Title": "DotNetNuke Forum Extensions",
+  "Description": "Various modules/themes used in combination with the Core DotNetNuke Forum module.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This particular version (the first one here on CodePlex) requires the Forum 4.6 Beta found here: <a href=\"http://dnnforum.codeplex.com/releases/view/47594\">http://dnnforum.codeplex.com/releases/view/47594</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotNetNuke,VB.NET,",
+  "LastEdited": "2010-06-22T00:41:24.907-07:00"
+}

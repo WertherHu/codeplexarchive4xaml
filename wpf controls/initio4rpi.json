@@ -1,0 +1,9 @@
+{
+  "ProjectName": "initio4rpi",
+  "Title": "initio-rpi",
+  "Description": "Project aims at providing a fully functional rest service to access the sensors and controls of the 4tronix Initio Robot kit for RaspberryPi",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Project aims at providing a fully functional rest service to access the sensors and controls of the 4tronix Initio Robot kit for RaspberryPi<br /><br /><b>Dependencies</b><br />- Python3.4<br />- tornado or asyncio<br />- RPIO <a href=\"http://pythonhosted.org/RPIO/\">http://pythonhosted.org/RPIO/</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-17T09:38:37.343-07:00"
+}

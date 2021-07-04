@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iCon",
+  "Title": "iCon",
+  "Description": "iCon - a sample Silverlight 4 based MVVM application that helps Quick M&R decision on the repair approval of the Containers. The Asset owners can use iCon to quickly watch the damages in a single preview and make their approval decisions fast. Container Preview uses the animation effects to map each sides & locations of the container and displays the damages using System.Color and images..The Project has a Dashboard that uses bingmaps for quick search of locations where depots has containers and the displays a drill down graph that highlights the container statistics by their types. It also features with Predictive analytics techniques to forecast the Revenues based on Income & Expense.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">iCon - a sample Silverlight 4 based MVVM application that helps Quick M&amp;R decision on the repair approval of the Containers. The Asset owners can use iCon to quickly watch the damages in a single preview and make their approval decisions fast. Container Preview uses the animation effects to map each sides &amp; locations of the container and displays the damages using System.Color and images..The Project has a Dashboard that uses bingmaps for quick search of locations where depots has containers and the displays a drill down graph that highlights the container statistics by their types. It also features with Predictive analytics techniques to forecast the Revenues based on Income &amp; Expense.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "iCon,silverlight 4,Silverlight,WCF Services,M&R,Approval Process,",
+  "LastEdited": "2011-09-04T01:04:53.957-07:00"
+}

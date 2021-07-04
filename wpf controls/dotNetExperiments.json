@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dotNetExperiments",
+  "Title": "dotNetExperiments",
+  "Description": "My experiments in .NET technologies, including the following:\n - Data access: LinqToSql, EntityFramework, NHibernate\n - DI: Unity, Castle Windsor\n - UI: ASP.NET MVC, WPF, Silverlight\n - Others...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />My experiments in .NET technologies, including the following&#58;<br /> - Data access&#58; LinqToSql, EntityFramework, NHibernate<br /> - DI&#58; Unity, Castle Windsor<br /> - UI&#58; ASP.NET MVC, WPF, Silverlight<br /> - Others...<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-06-07T21:32:18.94-07:00"
+}

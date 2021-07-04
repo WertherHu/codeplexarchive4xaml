@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SMN",
+  "Title": "SmartMis.Net.MSRSViewer for ReportviewerEx",
+  "Description": "SmartMis.Net.MSRSViewer is a web control that view MS report rdl",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SmartMis.Net.MSRSViewer 是一个web控件，在微软的ReportViewer的基础上，开发的可以自动处理浏览本地报表就像微软的报表服务一样，可以自动处理报表参数及数据源。使用SmartMis.Net.MSRSViewer浏览微软的报表rdl，简单易用，无需安装MSRS既可以想MSRS一样浏览报表，完全脱离 SQL  server ，尤其使用Access或者Oracle作为数据源时，使用微软报表设计器设计完报表后，直接把rdl交给SmartMis.Net.MSRSViewer， 进行简单配置即可解析浏览报表，而且可以根据实际情况集成到应用系统中，扩充了可以将Session, Cookies,Application,Request等系统值传入到报表，方便报表集成到系统中。<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-02T07:46:46-07:00"
+}

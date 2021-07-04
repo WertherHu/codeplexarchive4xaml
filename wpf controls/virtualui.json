@@ -1,0 +1,9 @@
+{
+  "ProjectName": "virtualui",
+  "Title": "VirtualUI",
+  "Description": "VirtualUI Control Toolkit for Unity3D",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><strong><img src=\"/projects/virtualui/e290fdd8-5169-46c2-aad8-7ac33da5659d\" alt=\"\" width=\"700\"><br>\r\n</strong></p>\r\n<p>VirtualUI is a control toolkit for Unity3D Basic 4.5.5 and above that includes the following 3D touchscreen controls:<br>\r\n<br>\r\n- Button<br>\r\n- Vertical/Horizontal Slider<br>\r\n- Color Picker<br>\r\n- CheckBox<br>\r\n- Data Repeater<br>\r\n- Date/Time Picker<br>\r\n- Pie/Line/Column Charts</p>\r\n<p><img src=\"/projects/virtualui/f2b60007-beb9-4b89-b43e-65e85fbdbc1e\" alt=\"\" width=\"700\"></p>\r\n<p><img src=\"/projects/virtualui/87a70ec9-4775-433b-947c-2919e864dc17\" alt=\"\" width=\"700\"></p>\r\n<p><img src=\"/projects/virtualui/1569143f-db64-4b46-adb0-1f58b5e9a9a7\" alt=\"\" width=\"700\"></p>\r\n<p><img src=\"/projects/virtualui/7967fc3b-6ef6-4dc3-a657-d2ed70621092\" alt=\"\" width=\"700\"></p>\r\n<p><img src=\"/projects/virtualui/113c75a4-a62e-4ab0-82cd-c9d037dd0ec3\" alt=\"\" width=\"700\"></p>\r\n<p><br>\r\nUpcoming Controls:<br>\r\n- TextBox<br>\r\n- Masked Input Box<br>\r\n- Numeric Input Box<br>\r\n- Modal Dialogs<br>\r\n- Wizard Dialogs<br>\r\n- Radio Button Groups<br>\r\n- Forms and Validation<br>\r\n- JSON Automatic Loading<br>\r\n- US/World Geo Maps</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-02-21T08:08:20.283-08:00"
+}

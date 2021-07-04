@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ServiceBoard",
+  "Title": "Service Board",
+  "Description": "Simple ASP.NET 2.0 page wich allows you to see state, start/stop windows services on a different computers in a network (if account have required permissions)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple ASP.NET 2.0 page wich allows you to see state, start&#47;stop windows services on a different computers in a network &#40;if account have required permissions&#41;<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "asp.net,service,panel,control,",
+  "LastEdited": "2014-06-21T08:04:06.257-07:00"
+}

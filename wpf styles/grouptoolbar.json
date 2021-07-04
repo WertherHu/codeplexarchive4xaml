@@ -1,0 +1,9 @@
+{
+  "ProjectName": "grouptoolbar",
+  "Title": "GroupToolbar for WPF",
+  "Description": "A Toolbar that can group your items and is totally templatable :)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Welcome to my first project!</h1>\r\n<p>This is a Custom Control (Toolbar) that can group your items and is totally templatable :)<br>\r\n<br>\r\nHave you seen Expression Blend and you liked its toolbar? Each item can contain related items. Yeah, it's lovable.</p>\r\n<p>This is a snapshot of the current state. It’s a bit ugly, but you should consider that it’s not skinned.</p>\r\n<p><a href=\"/projects/grouptoolbar/be64791d-fac0-49fb-bbcc-985523438086\"><img title=\"Untitled\" border=\"0\" alt=\"Untitled\" src=\"/projects/grouptoolbar/bb71dcab-4d88-4ca8-abd7-165a8144f036\" width=\"243\" height=\"324\" style=\"border-left-width:0px; border-right-width:0px; border-bottom-width:0px; float:none; padding-top:0px; padding-left:0px; margin-left:auto; display:block; padding-right:0px; border-top-width:0px; margin-right:auto\"></a>I\r\n hope you find it useful.<br>\r\n<br>\r\nIn the source code you will the control with the demo app all in one. You will be smart enough to separate everything in order to use it in your own project, won't you?\r\n</p>\r\n<p>When you run the app, you will see a very basic window with the toolbar. Try to switch tools and press the right mouse button to see the grouped tools in each button.</p>\r\n<p>&nbsp;</p>\r\n<p>I’m currently working to make it even better, a real toolbar that derived from the ToolBar class.\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Blend,Toolbar,Custom Controls,WPF,WPF MVVM,",
+  "LastEdited": "2012-11-04T05:40:29.383-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "panickey",
+  "Title": "Panic Key Monitor",
+  "Description": "Panic Key Monitor is a program that monitors presence of usb flash drive with secret key. If flash drive is removed and no pin code was entered then Panic Key Monitor executes custom batch file. It is developed using VB.NET, Windows Services, WPF, WCF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>Project Description:</h3>\rPanic Key Monitor is a program that monitors presence of usb flash drive with secret key. If flash drive is removed and no pin code was entered then Panic Key Monitor executes custom batch file. It is developed using VB.NET, Windows Services, WPF, WCF.<br /><br /><img src=\"/projects/panickey/4056f66a-1e3d-4090-bb16-242675c81894\" alt=\"Panic&#32;Key&#32;Process\" title=\"Panic&#32;Key&#32;Process\" /><br />\n<h3>Screenshots:</h3>\r<img src=\"/projects/panickey/bb7d2adf-c9e1-4505-b2bf-76537e290191\" alt=\"Enter&#32;Your&#32;PIN\" title=\"Enter&#32;Your&#32;PIN\" /><br /><br />Project is developed by <a href=\"http://www.karpach.com\">Viktar Karpach</a>. It is currently in beta development stage. <br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Flash Drive,Windows Service,WPF,WCF,Batch,",
+  "LastEdited": "2009-10-22T11:50:41.707-07:00"
+}

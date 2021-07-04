@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NetController",
+  "Title": "NetController",
+  "Description": "Controle sem teclas de direção, usando acelerômentro e .NET micro Framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>NetController</strong><br>\r\nFora dos joyticks comuns, o NetController &eacute; um projeto de um joystick com aceler&ocirc;metro - saindo da comum de bot&otilde;es direcionais. Projeto surgiu do ingresso no desafio .NET oferecio ple PUCRS.<br>\r\n<br>\r\n<strong>Objetivo</strong><br>\r\nSeu principal objetivo &eacute; mostrar como o .Net Framework pode estar presente em diversas plataformas, e proporcionar &oacute;timo ambiente de desenvolvimento.<br>\r\nCom isso o projeto &eacute; composto com o kit <a href=\"http://www.netduino.com/\">\r\nNetduino</a>; aceler&ocirc;metro MMA7455L da Freescale; com uma apli&ccedil;&atilde;o em .Net. Como o Netduino n&atilde;o oferece suporte usb client, a comunica&ccedil;&atilde;o com o computador foi feita com serial (mas com a vinda do projeto ao mundo open\r\n source, &eacute; prevista a contunialidade com melhorias).</p>\r\n<p>Mesmo sendo simples, o projeto envolve v&aacute;rios conceitos. Funcionamento de um aceler&ocirc;metro; comuni&ccedil;&atilde;o I2C e multiplaraforma.</p>\r\n<p>&nbsp;</p>\r\n<p>Espero que o projeto ajude na aprendizagem do .Net Framework; desperte o desejo de muitos apreenderem o mundo .Net, e desenvolver coisas legais!</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,SerialPort,.NET Micro Framework,I2C,WPF,Acelerometer,PUCRS,",
+  "LastEdited": "2010-12-30T18:03:43.727-08:00"
+}

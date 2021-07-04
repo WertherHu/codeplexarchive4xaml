@@ -1,0 +1,9 @@
+{
+  "ProjectName": "beeeye",
+  "Title": "Bee - Eye",
+  "Description": "Bing Image Search Application v1.0\r\nFor v1.0 Bee-Eye have\r\n- Multitouch\r\n- User Control\r\n- Templates\r\n- Styles\r\n- History \r\n- Share on Facebook\r\n- Save into your harddisk ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Overview:</b><br />Bee-Eye is a WPF application that shows the result of Bing searches in a user friendly environment. It takes the search results from Bing, and shows it within the list view. It also provides search history for previous searches. In the text searches, user can find the list of queries they entered. In image based searches, a thumbnail preview of the first image in the previous searches is shown. The main goal of Bee-Eye is providing a user interface for searching Bing and enjoyable multi touch experience for the users. After you select a search result in the list, you can use multi touch gestures for rotating, panning or resizing the image. If you want to share this image on Facebook or save it to your hard drive, Bee-Eye provides it too. <br /><br /><b>Goals:</b><br />As a user; Bee-Eye is a program to perform text or image search through Bing and explore the results. It also provides a way to share the images to social networks.<br />As a developer, this is a project to learn the WPF development environment and the different features of WPF like controls, styles, templates and multi-touch.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "bing,bing api,WPF,Facebook API,",
+  "LastEdited": "2010-06-18T14:29:21.417-07:00"
+}

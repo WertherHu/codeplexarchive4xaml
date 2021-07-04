@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WP7Localization",
+  "Title": "WP7Localization",
+  "Description": "This is a sample WP7 project that shows how to use localization. The app only implements english and spanish resources for this sample.\r\n\r\nLocalization implemented includes\r\n\r\nControl Text e.g. TextBlock's Text properties \r\nApplication Bar & Menu Items (example implements ApplicationBarMenuItem localization) \r\nApplicaiton Title Localisation",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis is a sample WP7 project that shows how to use localization. The app only implements english and spanish resources for this sample.</p>\r\n<p>Localization implemented includes</p>\r\n<ul>\r\n<li>Control Text e.g. TextBlock's Text properties </li><li>Application Bar &amp; Menu Items (example implements ApplicationBarMenuItem localization)\r\n</li><li>Applicaiton Title Localisation </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-26T07:50:02.843-07:00"
+}

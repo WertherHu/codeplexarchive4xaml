@@ -1,0 +1,9 @@
+{
+  "ProjectName": "unifiedaspcontrols",
+  "Title": "UnifiedASP Web Controls",
+  "Description": "This control pack includes an extended ASP.Net 2.0 GridView with simplified support for sorting and paging, and an extended TextBox control with built-in and more-easily configured validators. It was built as part of the open-source framework UnifiedASP.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This control pack includes an extended ASP.Net 2.0 GridView with simplified support for sorting and paging, and an extended TextBox control with built-in and more-easily configured validators. It was built as part of the open-source framework UnifiedASP.<br /><br /><b>Resources</b><br />This control pack is one component of our larger UnifiedASP framework and Code Generation tools. For video tutorials, examples of use, and documentation, visit our companion site at <a href=\"http://www.unifiedasp.net/index.php/unifiedasp-control-primer/\">http://www.unifiedasp.net/index.php/unifiedasp-control-primer/</a>.<br /><br /><b>Planning</b>\n<ul><li>We&#39;re soft-launching this to colleagues to get their feedback. We would welcome your feedback as well on any issues you find.</li>\n<li>This first release is in VB.Net</li>\n<li>A C# version will be released in April or May &#39;09.</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Controls,ASP.NET 2.0,GridView,TextBox,VB.NET,VB.Net 2.0,",
+  "LastEdited": "2009-04-23T11:03:53.953-07:00"
+}

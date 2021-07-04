@@ -1,0 +1,9 @@
+{
+  "ProjectName": "coreray",
+  "Title": "Core Ray",
+  "Description": "Core Ray is a physical raytracer completely written in C#. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Core Ray is a physical raytracer completely written in C&#35;. <br /><br /><b>Technology Used</b><br />C# 3.5, WPF (for UI client), Collada<br /><br /><b>Current Features</b>\n<ul><li>Full object pluggable architecture</li>\n<li>Multithreaded renderer</li>\n<li>Triangle based meshes to allow future GPU hardware acceleration using the same data.</li>\n<li>Basic Multi-view scenegraph implementation</li>\n<li>Samplers\n<ul><li>Basic sampler (1 sample per pixel)</li>\n<li>Stratified sampler</li></ul></li>\n<li>Basic Collada file support (Only geometry and camera loading supported for the moment)</li>\n<li>Supported Image output Format\n<ul><li>BMP</li></ul></li>\n<li>Integrators\n<ul><li>Whitted Integrator (No reflection rays or refraction rays for the moment)</li></ul></li>\n<li>Cameras\n<ul><li>Basic Perspective Camera</li></ul></li></ul>\n<br /><b>Website</b><br />Website is coming soon...</div><div class=\"ClearBoth\"></div>",
+  "TagList": "LINQ,C#,ray tracing,rendering,renderer,collada,WPF,.NET 3.5,C# 3.0,",
+  "LastEdited": "2009-05-30T01:37:32.743-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mcec",
+  "Title": "MCE Controller",
+  "Description": "MCE Controller lets you control a Windows HTPC (or any PC) over the network. Supports TCP/IP and RS-232.\r\n\r\nTHIS PROJECT HAS MOVED TO GITHUB.",
+  "MovedLink": "https://github.com/tig/mcec",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>MCE Controller has moved from Codeplex to Github.</h1>\r\n<p>Go to&nbsp;<a href=\"https://github.com/tig/mcec/wiki\">https://github.com/tig/mcec/wiki</a>&nbsp;to download the latest version.&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Media Center,",
+  "LastEdited": "2017-04-15T16:45:55.403-07:00"
+}

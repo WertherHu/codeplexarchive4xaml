@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ZuneForms",
+  "Title": "Zune HD Forms",
+  "Description": "Zune HD Forms makes it easier for Zune HD developers to create form applications for the Zune HD.  It's developed in C# using Microsoft Visual Studio C# Express, XNA Game Studio 3.1 and Game Studio 3.1 Zune Extensions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Zune HD Forms makes it easier for Zune HD developers to create form applications for the Zune HD.  It&#39;s developed in C&#35; using Microsoft Visual Studio C&#35; Express, XNA Game Studio 3.1 and Game Studio 3.1 Zune Extensions.<br /><br /><b>Current Controls in ZuneForms:</b><br />Form<br />Keyboard<br />KeyboardKey<br />Clipboard<br />TextBox<br />Label<br />ListBox<br />ListItem<br />Checkbox<br />ContextMenu<br />MenuItem<br />Button<br />TabControl<br />TabPage<br />MessageBox<br />Timer<br /><br />View our website for more details on the origination of Zune.Forms:<br /><br /><a href=\"http://www.jarstan.com/Blogs/tabid/57/EntryId/1/Zune-Forms.aspx\">http://www.jarstan.com/Blogs/tabid/57/EntryId/1/Zune-Forms.aspx</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Zune HD,Zune HD Developement,Zune HD Controls,XNA Development,XNA Starter Kit,Zune Keyboard Contro,Zune TextBox Contro,Zune ListBox Contro,Zune Form,",
+  "LastEdited": "2009-11-11T10:24:09.803-08:00"
+}

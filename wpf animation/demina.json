@@ -1,0 +1,9 @@
+{
+  "ProjectName": "demina",
+  "Title": "Demina",
+  "Description": "Demina is a simple keyframe based 2d skeletal animation system.  It's developed in C# using XNA.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Demina is a simple keyframe based 2d skeletal animation system.  It&#39;s developed in C&#35; using XNA.<br /><br />When I decided that I&#39;d like to use skeletal based animations in my new game, I looked around for an existing editor.  While there are some very nice applications designed for animation (ToonBoom Studio, Anime Studio Pro, etc.) I couldn&#39;t find anything that would output to a format that I could read into my game.  (Short of rendering individual frames out, which really defeats the purpose.)  So, until something better comes along, I&#39;ve put together Demina.<br /><br />The name Demina doesn&#39;t mean anything.  It comes from shortening Animation Editor to animed, and then turning it around.  I just liked the way it looked.<br /><br />Here&#39;s a short video clip showing a few simple animations that I created using Demina.<br /><br /><div class=\"video\" style=\"text-align:Left\"><span class=\"player\"><object height=\"360px\" width=\"640px\"><param name=\"movie\" value=\"http://www.youtube.com/v/UuMObTFm9q4\"></param><param name=\"wmode\" value=\"transparent\"></param><embed height=\"360px\" width=\"640px\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" src=\"http://www.youtube.com/v/UuMObTFm9q4\" /></object></span><br /><span class=\"external\"><a href=\"http://www.youtube.com/watch?v=UuMObTFm9q4\" target=\"_blank\">Launch in another window</a></span></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "skeletal animator,",
+  "LastEdited": "2012-03-12T15:28:50.127-07:00"
+}

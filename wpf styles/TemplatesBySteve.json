@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TemplatesBySteve",
+  "Title": "CORE Site Templates By Steve",
+  "Description": "CORE SharePoint 2010 Site Template. This theme combines LifeInSharePoint, Mega Menu and Fixed Width style in one theme. Created by Steve",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">SharePoint 2010 Site Template: CORESiteTheme<br /><br /><br />I have combined the LifeInSharePoint, Megemenu and a Fixed width in a very cool masterpage and style sheet. This is a good starting place for a cool masterpage.<br /><br />Copy the Solution (WSP) and implement using the powershell commands below in administration mode.<br /><br />1. STSADM -o addsolution -filename CORESiteTheme.wsp<br /><br />2. STSADM -o deploysolution -name CORESiteTheme.wsp -allowgacdeployment -immediate<br /><br />3. STSADM -o execadmsvcjobs<br /><br />4. Go to Site Actions | Site Settings | Manage Site Collection Features and Activate &quot;CORESiteTheme&quot;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-07-25T13:06:15.737-07:00"
+}

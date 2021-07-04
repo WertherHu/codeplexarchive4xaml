@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LifeInsurance",
+  "Title": "Life Insurance Reference Architecture",
+  "Description": "The Life and Annuties scenario is based on an Agent's Portal. This scenario exposes a rich UI via Silverlight and combines it with the power of SharePoint, Forms Services and the Business Data Catelog. The latest ACORD messages are used and have WS-* message exchange patterns (MEP)  to show how these web services can be used in modern architectures. \n\nComponents include:\n* Site Template\n* Workflow Components (Policy Creation, Automated Services, Simulated Underwriting)\n* 4 Message Exchange Patterns (MEP) web services based all on ACORD for Paramed, Credit, MIB, Status\n* InfoPath Form based on the ACORD 103 Messages\n* Silverlight Web Part that show the 360 view of the customer\n* OCS Integration \n* 3 ACORD BDC Entities\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>The Life Insurance Reference Architecture</b><br />The Life and Annuties scenario is based on an Agent&#39;s Portal. This scenario exposes a rich UI via Silverlight and combines it with the power of SharePoint, Forms Services and the Business Data Catelog. The latest ACORD messages are used and have WS-* message exchange patterns (MEP)  to show how these web services can be used in modern architectures. <br /><br />Components include:\n<ul><li>Site Template</li>\n<li>Workflow Components (Policy Creation, Automated Services, Simulated Underwriting)</li>\n<li>4 Message Exchange Patterns (MEP) web services based all on ACORD for Paramed, Credit, MIB, Status</li>\n<li>InfoPath Form based on the ACORD 103 Messages</li>\n<li>Silverlight Web Part that show the 360 view of the customer</li>\n<li>OCS Integration </li>\n<li>3 ACORD BDC Entities</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "RC,",
+  "LastEdited": "2008-03-03T16:37:25.603-08:00"
+}

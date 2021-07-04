@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLResizeAspectRatio",
+  "Title": "Silverlight Resize With Aspect Ratio",
+  "Description": "\nThis code sample shows how to resize and center your Silverlight application when the browser window is resized.\n\nThe application resizes from within the program code with no extra javascript needed to function.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This code sample shows how to resize and center your Silverlight application when the browser window is resized.<br /><br />The application resizes from within the program code with no extra javascript needed to function.<br /><br /><b></b><b>PLEASE PROVIDE FEEDBACK IF YOU DOWNLOAD THIS PROJECT</b>**<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 2.0,resize,aspect ratio,browser resize,Silverlight NPE,",
+  "LastEdited": "2009-03-27T12:50:15.837-07:00"
+}

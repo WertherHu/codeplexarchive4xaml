@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CopyFilesExtensions",
+  "Title": "CopyFilesExtensions : a library to copy files with progress events",
+  "Description": "Wrapper class and UserControls for the CopyFileEx API.\r\nWith this library, you can copy file and get evenet during copy. A user control is also available.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>R&#233;sum&#233;</h1>\rWrapper class and UserControls for the CopyFileEx API.<br />With this library, you can copy file and get evenet during copy. A user control is also available.\n<hr />\n\n<h2> Description du projet - Fran&#231;ais</h2>\rLe Framework .NET ne permet pas (encore) de copier des fichiers avec une information sur l&#39;avancement. Il faut passer par l&#39;API windows CopyFileEx pour r&#233;aliser cela. <br />Ce projet vise &#224; fournir un wrapper pour cette API afin de faciliter le travail du d&#233;veloppeur.<br /><br />Le travail effectu&#233; repose sur une impl&#233;mentation du wrapper fournie ici: http://msdn.microsoft.com/en-us/magazine/cc163851.aspx<br /><br /><br />\n<h2> Project description - English</h2>\rThe. NET Framework does not allow to copy files with information on the progress. You have to pass throught the windows CopyFileEx API to do that.<br />This project aims to provide a wrapper for this API to facilitate the developer&#39;s work.<br /><br />It is based on an implementation found here: http://msdn.microsoft.com/en-us/magazine/cc163851.aspx<br /><br />\n<hr /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,VB.NET,copy file,file,ProgressBar,.NET 3.5,.NET 4.0,CopyFileEx,Copier,Fichier,barre de progression,copy,progress,progression,event,events,evenement,Handler,",
+  "LastEdited": "2012-07-28T10:19:05.78-07:00"
+}

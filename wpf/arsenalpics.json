@@ -1,0 +1,9 @@
+{
+  "ProjectName": "arsenalpics",
+  "Title": "ArsenalPics",
+  "Description": "ArsenalPics is a XBAP app for viewing and downloading wallpapers from official site of Arsenal FC.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nArsenalPics is a XBAP app for viewing and downloading wallpapers from official site of Arsenal FC.<br>\r\n<br>\r\nThis app parses &nbsp;<a href=\"http://www.arsenal.com/the-match/wallpapers\" target=\"_blank\">http://www.arsenal.com/the-match/wallpapers</a> and creates a tree, where you can select wallpaper with desired resolution.</p>\r\n<p>&nbsp;<img src=\"/projects/arsenalpics/dd71d5f2-821b-420f-85b1-fbf3d89610a1\" alt=\"Screen\" width=\"655\" height=\"481\"></p>\r\n<p>How to use:</p>\r\n<ol>\r\n<li>Download and unpack the app.&nbsp; </li><li>Open ArsenalPics.xbap in Internet Explorer (right click - Run as..).&nbsp; </li><li>Select tree item to see image. </li><li>Right click on image: save image or set it as desktop background.&nbsp; </li><li>Press &quot;Get Next 20&quot; to load more images! </li></ol>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "arsenal,xbap,c#,wpf,",
+  "LastEdited": "2012-08-02T05:16:12.173-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "clover",
+  "Title": "Clover IM",
+  "Description": "Clover IM must be a powerfull ICQ messanger. It's developing in C# and using Windows Presentation Foudation. To use Oscar protocol it use own library, called OscarClover.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Clover IM must be a powerfull ICQ messanger. It&#39;s developing in C&#35; and using Windows Presentation Foudation. To use Oscar protocol it use own library, called OscarClover.<br /><br /><b>Now we are working ONLY with OscarClover-library to use Oscar protocol!!</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,.NET,WPF,Oscar,ICQ,",
+  "LastEdited": "2009-11-02T12:17:29.193-08:00"
+}

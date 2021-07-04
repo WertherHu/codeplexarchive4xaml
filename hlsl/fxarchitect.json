@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fxarchitect",
+  "Title": "Effect Architect",
+  "Description": "A real-time effect editor (currently) aimed at Direct3D9. The idea is to bring features that popular IDEs provide to HLSL coding, as well as features that are specific to graphical coding.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A real-time effect editor &#40;currently&#41; aimed at Direct3D9. The idea is to bring features that popular IDEs provide to HLSL coding, as well as features that are specific to graphical coding.<br /><br /><b>Current Features</b>\n<ul><li>Syntax Highlighting.</li>\n<li>Folding code blocks and multiple line comments.</li>\n<li>Sampler state configuration page.</li>\n<li>Live preview of effect output.</li>\n<li>Errors and warnings list, double-click to be taken to the start of the error.</li>\n<li>(Optional) Line numbering.</li>\n<li>(Optional) Word wrap.</li>\n<li>Dockable interface.</li></ul>\n<br /><b>Warning</b><br />This project is still very young, and as such has a lot of bugs which may or may not crash the program. While I am working to resolve said bugs, WPF is still new to me (first time I&#39;ve used it), so bug fixes may be slow coming as I learn the WPF API. If you have any advice on resolving bugs you encounter feel free to post a discussion about it, relevant educational links are welcome. <u>Save your work often!</u><br /><br /><a href=\"http://www.youtube.com/watch?v=H-q1qQeLKQQ\">Early demonstration video</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-20T17:57:43.477-07:00"
+}

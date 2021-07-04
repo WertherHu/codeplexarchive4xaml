@@ -1,0 +1,9 @@
+{
+  "ProjectName": "easystock",
+  "Title": "EasyStock",
+  "Description": "EasyStock is a small and easy to use Windows 8 app that gives you an overview of your favorite stocks with historical data for the last days, months and years. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Introduction</b><br />EasyStock is a small and easy to use Windows 8 app that gives you an overview of your favorite stocks with historical data for the last days, months and years. <br />EasyStock is a small and easy app for Windows 8 to view your stocks. <br /><br />You can make groups for your stocks and watch historical data. </div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4.5,Stock,Windows 8,Modern UI,WPF,",
+  "LastEdited": "2012-09-25T12:19:57.93-07:00"
+}

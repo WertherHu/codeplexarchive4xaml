@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfdaterangeslider",
+  "Title": "WPF Date Range Slider",
+  "Description": "A WPF Date Range Slider user control written with C# to allow your users to choose a range of dates using a double thumbed slider control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF Date Range Slider user control written with C&#35; to allow your users to choose a range of dates using a double thumbed slider control.<br /><br />Some features I needed in this control are:<br />     *    Ability to choose a range (high and low) of DateTime values with a single slider.<br />     *    Don’t let the the lower slider or upper slider pass each other.  I was creating this to use with a graph and if the sliders passed each other even for a millisecond, the graph would throw an exception.<br />     *    Enable or disable the upper or lower sliders separately <br />     *    Ability to lock the lower slider or upper slider at the minimum or maximum values respectively.<br /><br />Blogging about making of this control at gregandora.wordpress.com, introduction can be found:<br /> <a href=\"http://gregandora.wordpress.com/2011/01/10/wpf-date-range-double-slider-control-introduction/\">http://gregandora.wordpress.com/2011/01/10/wpf-date-range-double-slider-control-introduction/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DateRange Slider,",
+  "LastEdited": "2011-01-11T06:47:38.327-08:00"
+}

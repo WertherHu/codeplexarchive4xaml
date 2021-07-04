@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPPeoleEditorJavaS",
+  "Title": "Manage SharePoint PeopleEditor using Javascript",
+  "Description": "This is sample project to show user how to collect list of users selected into SharePoint people editor control.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>SharePoint PeopleEditor using JavaScript</b><br /><br />Collect information about selected user into people editor and use it into web service using <b>JAVA SCRIPT</b>.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-03T09:05:38.21-07:00"
+}

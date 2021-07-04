@@ -1,0 +1,9 @@
+{
+  "ProjectName": "camdoodle",
+  "Title": "Camdoodle",
+  "Description": "Doodling application. For kids.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Doodling application. For kids.<br /><br />The project started as a showcase for new Silverlight 4 features, wrapped in Silverlight/Expression behaviors.<br />See <a href=\"http://www.silverlightshow.net/items/Camdoodle-showcasing-Silverlight-4-new-features-as-behaviors.aspx\">http://www.silverlightshow.net/items/Camdoodle-showcasing-Silverlight-4-new-features-as-behaviors.aspx</a> for more details.<br /><br />See the application in action (Silverlight 4 required) <a href=\"http://tozon.info/sl/camdoodle\">http://tozon.info/sl/camdoodle</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,silverlight 4,children,drawing,behaviors,",
+  "LastEdited": "2010-01-15T06:09:33.727-08:00"
+}

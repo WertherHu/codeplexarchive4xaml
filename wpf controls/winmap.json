@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winmap",
+  "Title": "WinMap",
+  "Description": "WinMap is an analysis tool used to take a “snapshot” of a window’s controls, compare it to a previous “snapshot”, and display which controls have been altered between releases.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWinMap is an analysis tool used to take a &ldquo;snapshot&rdquo; of a window&rsquo;s controls, compare it to a previous &ldquo;snapshot&rdquo;, and display which controls have been altered between releases.<br>\r\n<br>\r\n</p>\r\n<p>It is part of a larger suite called ProdUI, which handles automating windows controls. The ProdUI project can be found\r\n<a href=\"http://produi.codeplex.com/\">Here</a>.</p>\r\n<p>Source code is maintained on a <a href=\"https://produi-repository.googlecode.com/svn/trunk\">\r\nGoogle Code</a><span style=\"font-size:9.5pt\">&nbsp;</span> project, though releases will be handled through CodePlex</p>\r\n<p>&nbsp;</p>\r\n<p><strong><span><strong><span>10/09/11</span></strong>&nbsp;<a href=\"http://winmap.codeplex.com/releases/view/74701\">New Release</a>&nbsp;- The initial release is available!</span></strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Accessibility,C#,UI Automation,UIA,Window Investigation,ProdUI,",
+  "LastEdited": "2011-10-09T07:11:01.477-07:00"
+}

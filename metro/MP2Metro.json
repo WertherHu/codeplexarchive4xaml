@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MP2Metro",
+  "Title": "MP2 Metro",
+  "Description": "MP2 Metro Skin is a skin designed for MediaPortal 2.  The skin is based on the new windows 8 metro UI.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />MP2 Metro is a skin for MediaPortal 2 (MP2), both the new skin and MP2 are still under development.<br />The main inspiration behind the skin is the newly released videos of windows 8 with its revamped metro ui design. <br /><br /> Some of the basic windows 8 concepts that can relate to MP2 are:<br />-\tActive home screen with “Live Tiles”<br />-\tFull screen content for apps (ie plugins in this case)<br />-\tEasy navigation <br />-\tQuick response<br /><br />Some of the MP2 concepts that need to be added and/or followed are:<br />-\tEasy navigation for remote (ie MCE remote control)<br />-\t10 Foot user interface design<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-27T07:45:46.77-07:00"
+}

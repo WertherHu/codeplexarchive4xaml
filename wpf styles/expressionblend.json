@@ -1,0 +1,9 @@
+{
+  "ProjectName": "expressionblend",
+  "Title": "Expression Blend Samples",
+  "Description": "A collection of samples and utilities for use in Expression Blend written by members of the Expression Blend team.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project contains samples of behaviors, effects, custom controls and other utilities for use with Expression Blend. These tools have been written for the community by the members of the Expression Blend product team.<br /><br />Contents:<br />Blend 4 samples for Silverlight 3, WPF 3.5, and Windows Phone 7 - The July 2010 release of the samples includes porting of these to work on Windows Phone 7 projects. The design-time time experience also works with Blend 4.<br /><br />PathListBoxUtils - a collection of behaviors, controls and extensions for use with the PathListBox control available at <a href=\"http://expressionblend.codeplex.com/releases/view/44915#DownloadId=120824\">http://expressionblend.codeplex.com/releases/view/44915#DownloadId=120824</a>.<br /><br />Sketch Mockups Library – A control library and the corresponding source code to create Mockup controls with rich design time experiences in WPF or Silverlight SketchFlow projects. Binaries are available at <a href=\"http://expressionblend.codeplex.com/releases/view/45452\">http://expressionblend.codeplex.com/releases/view/45452</a>.<br /><br />The latest source code for all of these is available by clicking on Source Code in the menu above.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "blend,Expression Blend,WPF,Silverlight,Expression Blend Sam,",
+  "LastEdited": "2010-07-23T15:01:34.347-07:00"
+}

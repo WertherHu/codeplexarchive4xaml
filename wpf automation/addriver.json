@@ -1,0 +1,9 @@
+{
+  "ProjectName": "addriver",
+  "Title": "Active Directory Driver",
+  "Description": "A common library to be used for basic Active Directory access.  ADDriver provides a standard set of methods to use when working with Active Directory.  Especially useful for AD automation development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA common library to be used for basic Active Directory access. ADDriver provides a standard set of methods to use when working with Active Directory. Especially useful for AD automation development.</p>\r\n<p>The AD Driver project is composed of two individual visual studio projects: Wrangler and the ADDriver.&nbsp; The ADDriver is a C# class library and the actual Active Directory driver.&nbsp; Wrangler is a Windows Form project that serves as an example of\r\n how to use the ADDriver.</p>\r\n<p><a href=\"http://addriver.codeplex.com/wikipage?title=Wrangler\">Wrangler</a></p>\r\n<p><a href=\"http://addriver.codeplex.com/wikipage?title=ADDriver\">ADDriver</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-28T20:55:45.22-07:00"
+}

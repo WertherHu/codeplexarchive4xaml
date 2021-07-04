@@ -1,0 +1,9 @@
+{
+  "ProjectName": "awdd",
+  "Title": "Automatic Wireless Disabler Daemon",
+  "Description": "The Automatic Wireless Disabler Daemon (AWDD) is a simple and unobtrusive Windows® application that will disable your wireless adapter when your system is connected to an Ethernet network.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Automatic Wireless Disabler Daemon &#40;AWDD&#41; is a simple and unobtrusive Windows&#174; application that will disable your wireless adapter when your system is connected to an Ethernet network.<br /><br /><b>Development Status</b><br />Currently, AWDD is a development build. Additional user interface niceties need to be added before it will be in a release state.<br /><br />Comments and suggestions are welcome, as are additions to my small codebase. If you try a release build, I would appreciate any and all feedback and/or constructive criticism. Keep in mind, though, that this is far from a release version of the application.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wireless,automation,",
+  "LastEdited": "2009-09-26T03:23:13.74-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wusic",
+  "Title": "Wusic - Web Music",
+  "Description": "Wusic.NET is an online video player and management system that highlights silverlight's rich-client functionality and potential.\n\nSome of the custom controls that make up Wusic.NET are drag n' drop, modality, sizability, YouTube and FaceBook integration, and Mac'ish menubar.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWusic.NET is an online music-video player and management system that highlights silverlight's rich-client functionality and potential.</p>\r\n<p>Wusic.NET sources YouTube&nbsp;for music videos and adds a social-networking spin that allows users to collaboratively improve a song's selection and share playlists.</p>\r\n<p>Some of the custom controls that make up Wusic.NET are drag n' drop, modality, sizability, YouTube and FaceBook integration, and Mac'ish menus.<br>\r\n<br>\r\nSee&nbsp;<a title=\"Wusic.NET\" href=\"http://wusic.net\" target=\"_blank\">Wusic.NET</a>&nbsp;for a live demo and download the\r\n<a title=\"source code\" href=\"http://wusic.codeplex.com/SourceControl/list/changesets#\">\r\nsource code</a>&nbsp;to check it out w/ examples.</p>\r\n<p><img src=\"http://download.codeplex.com/download?ProjectName=wusic&DownloadId=189388\" alt=\"Wusic screenshot\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-26T16:02:00.537-08:00"
+}

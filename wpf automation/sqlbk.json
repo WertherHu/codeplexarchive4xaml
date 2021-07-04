@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sqlbk",
+  "Title": "SQLBK; una solucion para respaldos de SQL Server. (SQL Server backups)",
+  "Description": "SQLBk es una aplicacion basada en .NET Framework 2.0 que permite realizar respaldos 'Full' de una base de datos de SQL Server, comprimirla y opcionalmente enviarla a un servidor FTP. En la proxima actualizacion se espera agregar respaldos diferenciales, multiples bases de datos y encriptacion.\r\n \r\nSQLBk is a VB .NET application that allows 'Full' backup of a database on SQL Server, compress and optionally sent to an FTP server. In the next update is expected to add differential backups, multiple databases and encryption.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\n<ul><li>SQLBk es una aplicacion basada en .NET Framework 2.0 que permite realizar respaldos &#39;Full&#39; de una base de datos de SQL Server, comprimirla y opcionalmente enviarla a un servidor FTP. En la proxima actualizacion se espera agregar respaldos diferenciales, multiples bases de datos y encriptacion.</li></ul>\n<br />\n<ul><li>SQLBk is a VB .NET application that allows  &#39;Full&#39; backup of a database on SQL Server, compress and optionally sent to an FTP server. In the next update is expected to add differential backups, multiple databases and encryption.</li></ul>\n<br /><img src=\"/projects/sqlbk/6b2eabca-8c56-42f2-803a-9a5ac5439697\" alt=\"SQLBk.jpg\" title=\"SQLBk.jpg\" /><br /><br /><br /><br />Antonio Ortiz<br />www.aortiz.net<br />www.qsoluciones.net</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SQL Server,Backup,BACKUP AUTOMATION,Backup compression,Backup FTP,SQL Server Backup,SQL Backup,Database backup,",
+  "LastEdited": "2012-05-07T21:21:06.593-07:00"
+}

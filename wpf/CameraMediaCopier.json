@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CameraMediaCopier",
+  "Title": "Camera.Media.Copier",
+  "Description": "CameraMediaCopier is a simple WPF application that copies JPG and AVI files from a camera's memory card into a folder format of the users choice (i.e c:\\My Pictures\\Canon\\IXUS 40\\2008\\Jan\\MyImage.JPG). During the copy process these images are displayed. Built using VS 2008.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CameraMediaCopier is a simple WPF application that copies JPG and AVI files from a camera&#39;s memory card into a folder format of the users choice &#40;i.e c&#58;&#92;My Pictures&#92;Canon&#92;IXUS 40&#92;2008&#92;Jan&#92;MyImage.JPG&#41;. During the copy process these images are displayed. Built using VS 2008.<br /><br />Feel free to provide suggestions on how to improve this app.<br /><br />One of the key things I&#39;d like to impove is the display of AVI files, so it would be great to get some feedback on this.<br /><br /><b>Enjoy</b><br /><br />I hope someone finds this useful</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-18T07:45:28.69-08:00"
+}

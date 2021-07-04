@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Arithmetics",
+  "Title": "Arithmetics",
+  "Description": "arithmetics for silverlight\r\nuse note pattern by time stream",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">this is a arithmetic note collection<br />to note by time<br /><br />this project gave for silverlight<br /><br />1, want to try to get algorithm and the specific technology has nothing to do, namely has certain abstraction. Can only rely on basic data, like the moves, int, double, byte, [], List, of course, we also allows rely on linq technology. <br /><br />2, want to have specific aim, algorithm from our usual accumulation may be solving a problem we can put it extracted from the abstract and then do some record to the inside .<br /><br />3, we are in time according to the markup to management, divided into years and four quarters.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "silverlight,4.0,arithmetics,projectdd,",
+  "LastEdited": "2011-11-14T07:50:30.18-08:00"
+}

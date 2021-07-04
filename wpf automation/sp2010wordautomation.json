@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sp2010wordautomation",
+  "Title": "SharePoint 2010 Word Automation",
+  "Description": "A sample project /solution that contains some components for Word Automation in SharePoint 2010.\n\nFirst component to be released is 4 custom workflow actions for converting documents that you can use in SharePoint Designer 2010.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A sample project &#47;solution that contains some components for Word Automation in SharePoint 2010.<br /><br />First component to be released is 4 custom workflow actions for converting documents that you can use in SharePoint Designer 2010.<br />\n<h2>Current features</h2>\r<ul><li><a href=\"https://sp2010wordautomation.codeplex.com/wikipage?title=Workflow%20actions&referringTitle=Home\">Workflow actions</a>\n<ul><li>Convert Document</li>\n<li>Get Conversion Job Status</li>\n<li>Convert Folder</li>\n<li>Convert Library</li></ul></li>\n<li><a href=\"https://sp2010wordautomation.codeplex.com/wikipage?title=Ribbon%20button&referringTitle=Home\">Ribbon button</a></li></ul>\n\n<h2>Planned features</h2>\r<ul><li><a href=\"https://sp2010wordautomation.codeplex.com/wikipage?title=Metadata%20synchronization&referringTitle=Home\">Metadata synchronization</a></li>\n<li>More workflow actions\n<ul><li>Convert Document Set</li></ul></li></ul>\n<br /><br />Please let me know if you would like to see other features and/or sample code.<br /><br />For more information about this project please visit my blog:<br /><a href=\"http://blog.petergerritsen.nl/tag/word-automation/\">http://blog.petergerritsen.nl/tag/word-automation/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "sharepoint 2010,Word Automation,Workflow Activities,KAV,",
+  "LastEdited": "2010-03-03T00:09:56.1-08:00"
+}

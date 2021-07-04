@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SCCSwitchProvider",
+  "Title": "SCC Switch Provider",
+  "Description": "Provides a GUI to Switch Source Code Control Providers.\r\nWorks with any source code system that registers itself as a, \"SCC provider\" on your system. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides a GUI to Switch Source Code Control Providers.<br />Works with any source code system that registers itself as a, &#34;SCC provider&#34; on your system. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-09T11:04:48.46-07:00"
+}

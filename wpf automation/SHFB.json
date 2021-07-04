@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SHFB",
+  "Title": "Sandcastle Help File Builder",
+  "Description": "A standalone GUI and Visual Studio integration package providing full configuration and extensibility for building help files with the Sandcastle tools.",
+  "MovedLink": "https://github.com/EWSoftware/SHFB",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>PLEASE NOTE:  THIS PROJECT HAS BEEN MOVED TO GITHUB</h1>\r<a href=\"https://github.com/EWSoftware/SHFB\">https://github.com/EWSoftware/SHFB</a><br /><br />Do not file any further issues here on CodePlex.  If you have an issue or a question, please submit it on the Issues page on the <a href=\"https://github.com/EWSoftware/SHFB/issues\">GitHub project site</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,xml,watch,favorites,tool,documentation,.NET 2.0,Tools,Visual Studio,Help,Sandcastle,Useful,automation,SandCastle Helper,Microsoft,utilities,Sandcastle Help File,Help Creation,Interesting,compiled help,xml code comments,myfav,Help Generation Tool,.NET 3.5,Help Builder,Sandc,help files,Code Documentation,XML Doc Comments,to use,documentation tool,SHFB,conceptual content,SFHB,.NET 4.0,Help File Builder,IN USE,mshelp,MS Help,Help 1,Help 2,MS Help 2,MS Help Viewer,HTML Help 2,HTML Help 1,Visual Studio Add-in,",
+  "LastEdited": "2015-01-26T15:08:20.573-08:00"
+}

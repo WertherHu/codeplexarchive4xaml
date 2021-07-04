@@ -1,0 +1,9 @@
+{
+  "ProjectName": "awesome",
+  "Title": "ASP.net MVC Awesome - jQuery Ajax helpers",
+  "Description": "rich set of helpers used to build highly responsive ajax-enabled Web applications. These helpers include the Grid, AjaxDropdown, PopupForm, Lookup and more",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>The free version of this library has been discontinued, you can see the demos and learn the latest commercial version on <a href=\"http://aspnetawesome.com\">http://aspnetawesome.com</a></h3>\r\n<h3>Demo App Live Link: <a href=\"http://demo.aspnetawesome.com\">http://demo.aspnetawesome.com</a></h3>\r\nMain Video Tutorial: <a href=\"http://youtu.be/qDyhszMa1yA?hd=1\">http://youtu.be/qDyhszMa1yA?hd=1</a><br />Lookup, MultiLookup and AjaxList Tutorial: <a href=\"http://youtu.be/gxb3z2VYJqg?hd=1\">http://youtu.be/gxb3z2VYJqg?hd=1</a><br />Popup, PopupForm and AjaxForm Tutorial: <a href=\"http://youtu.be/KcXUES-fN5s?hd=1\">http://youtu.be/KcXUES-fN5s?hd=1</a><br />ASP.net MVC Tutorial: <a href=\"http://www.youtube.com/watch?v=fsfOFL4bXXA\">http://www.youtube.com/watch?v=fsfOFL4bXXA</a><br />See also:\n<h3>prodinner demo: <a href=\"http://prodinner.codeplex.com\">http://prodinner.codeplex.com</a></h3></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,.NET,ASP.NET,Controls,web,AJAX Toolkit,best practices,MVC,Samples,nkreview,Popup,contrib,jQuery,ASP.NET MVC,aspnetmvc,MVC Framework,lookup,checkbox,Helpers,checkboxlist,Toolkit,cms,json,css,php,jQuery Ajax Helpers,",
+  "LastEdited": "2017-05-07T04:34:46.8-07:00"
+}

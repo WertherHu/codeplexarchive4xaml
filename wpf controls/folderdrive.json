@@ -1,0 +1,9 @@
+{
+  "ProjectName": "folderdrive",
+  "Title": "FolderDrive",
+  "Description": "FolderDrive is a small tool that turns your folders into drives. Imagine having your Dropbox folder behaving as the (almost real) harddrive. It's another handy solution in the ongoing quest for quick access to your favorite folders.\r\n\r\nThe project is developed in C# using WPF - you'll need .NET framework 4 to use it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nFolderDrive is a small tool that turns your folders into drives. Imagine having your Dropbox folder behaving as the (almost real) harddrive. It's another handy solution in the ongoing quest for quick access to your favorite folders.<br>\r\n<br>\r\nThe project is developed in C# using WPF - you'll need .NET framework 4 to use it</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "dropbox as drive,folder as drive,mount folder,mount dropbox folder,folder to drive,",
+  "LastEdited": "2016-09-29T05:57:25.053-07:00"
+}

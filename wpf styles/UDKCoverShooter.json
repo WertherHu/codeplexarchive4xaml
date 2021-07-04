@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UDKCoverShooter",
+  "Title": "UDK Cover-based Shooter",
+  "Description": "A Gears of War style cover-based shooter system written in Unrealscript for the Unreal Development Kit, for those who wish to create their own cover shooters",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A cover-based shooter system, similar to Gears of War, written in Unrealscript for the Unreal Development Kit.<br /><br /><br /><b>About the Project</b><br /><br />This is a third person shooter system I wrote to help those who wanted to create a Gears of War style shooter using the Unreal Development Kit (UDK). It is written in Unrealscript, which is a variant of Javascript written specifically by Epic for the Unreal Engine. Unlike Java however, it is case insensitive and permits operator overloading, but not method overloading.<br /><br />This will work out of the box if the UTGame sample content is installed, otherwise you will need to alter the skeletal mesh references, as well sockets and skelcontrols of course.<br /><br />Features:<br /><br />- Ability to stick to cover and pop in and out to attack<br />- Gears of War style reloading system, with a &quot;sweet spot&quot; for damage boost<br />- Sprinting<br />- Aiming<br />- Camera bob, smooth zoom and movement<br /><br /><a href=\"http://www.youtube.com/watch?v=wzbJha2wPFc\">Gameplay footage here</a><br /><br />Please feel free to use this code as a base for your own project, or rip parts for your own use.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-23T07:39:31.013-07:00"
+}

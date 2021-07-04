@@ -1,0 +1,9 @@
+{
+  "ProjectName": "relationshiptree",
+  "Title": "Related records explorer for Microsoft Dynamics CRM 2011",
+  "Description": "Silverlight tree control to see the related records of current opened record in form.\r\n\r\nThe entities and the relationships to display is configurable.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nSilverlight tree control to see the related records(upto any level) of current opened record in form.<br>\r\n<br>\r\nThe entities and the relationships to display is configurable.<br>\r\n<strong>&nbsp;</strong></p>\r\n<p>&nbsp;</p>\r\n<p><strong><img src=\"http://www.codeplex.com/download?ProjectName=relationshiptree&DownloadId=236907\" alt=\"\" width=\"752\" height=\"296\" style=\"float:left\"><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "crm,CRM 2011,Microsoft CRM,Microsoft Dynamics,connection,relationship,treeview,",
+  "LastEdited": "2011-05-07T10:54:32.32-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metroscaler",
+  "Title": "Metro Scaler",
+  "Description": "A helper app to set the Windows 8 and 8.1 DPI scaling by editing the reported monitor size.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Metro Scaler</h1>\r\nA helper app to set the Windows 8 and 8.1 DPI scaling by overriding the monitor size in inches.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-02-05T06:45:26.8-08:00"
+}

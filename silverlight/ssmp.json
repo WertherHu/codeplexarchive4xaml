@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssmp",
+  "Title": "Simple Silverlight Media Player (SSMP)",
+  "Description": "This is a really basic media player written in Silverlight and meant to be used by folks on their blogs.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />As the name suggests, this is a simple, reusable media player written in Silverlight. The player can be used within a standard website, a WordPress blog, a SharePoint site, etc., etc.<br /><br />You can read more about this project on my blog <a href=\"http://thinkfirstcodelater.com/blog/?p=217\">here</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-05T12:44:49.457-07:00"
+}

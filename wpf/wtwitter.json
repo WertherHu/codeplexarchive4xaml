@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wtwitter",
+  "Title": "すとれおじさん(仮)",
+  "Description": "twitterクライアントの作成に挑戦してみます。C#(WPF)使用。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">低機能低品質のついったークライアント。<br />要.net framework3.5<br />いろいろと未完成です。<br /><br />とりあえず起動したら右上の設定アイコンでアカウントを設定してください。<br />それ以上のわからないことはyuki1090までついっとで質問してください。<br /><br />===<br /><br />今後の方向性検討のため、アンケート（２つ）にご協力お願いします<br />・ついったークライアントに必須の機能<br /><a href=\"http://poll.fm/1qn9k\">http://poll.fm/1qn9k</a><br />・ついったークライアントに求めるもの<br /><a href=\"http://poll.fm/1qna2\">http://poll.fm/1qna2</a><br /><br />===<br />プログラムblog連動企画<br />http://wtwitter.blogspot.com/<br />たぶん完成までこぎ着けられないと思います。。<br /><br />かなりてきとうですが設計の理解の助けに簡単な図を書きました。<br />クラス図　<a href=\"http://bit.ly/d4wKLe\">http://bit.ly/d4wKLe</a>　シーケンス図　<a href=\"http://bit.ly/9X5NeM\">http://bit.ly/9X5NeM</a><br /><br />2010/08/02時点のイメージ（うしろの雲はデスクトップの背景です）<br /><img src=\"/projects/wtwitter/98961a55-8b75-4f92-aeb0-0eaeb1da93ae\" alt=\"すとれおじさんver0.04.png\" title=\"すとれおじさんver0.04.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-01T08:58:39.57-07:00"
+}

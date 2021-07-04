@@ -1,0 +1,9 @@
+{
+  "ProjectName": "skinonym",
+  "Title": "HyperCrunch Skinonym",
+  "Description": "Skinonym is a Skinning and Mobile framework for DotNetNuke(r). It extends the built-in capabilities of DotNetNuke by providing support for skin themes, rule-based skin, container or theme selection and also rule-based rendering of portal content to mobile devices using jQuery mobile.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Skinonym is a Skinning and Mobile framework for DotNetNuke&#40;r&#41;. It extends the built-in capabilities of DotNetNuke by providing support for skin themes, rule-based skin, container or theme selection and also rule-based rendering of portal content to mobile devices using jQuery mobile.</b><br /><br />Skinonym dramatically improves the capabilities of DotNetNuke by enabling site administrators, skin designers and module developers to address the demand for compelling web user experiences on the desktop and on mobile smartphones and tablets. <br /><br /><img src=\"/projects/skinonym/73909660-99ae-46ef-9f8a-2c29d6913422\" alt=\"skinonym-overview.png\" title=\"skinonym-overview.png\" /><br /><br />Skinonym has the following features:<br />- CSS-driven theme support for skins<br />- Rule-based, dynamic skin, container and theme selection<br />- Mobile device detection and feature enumeration using WURFL<br />- Amazing, zero-effort mobile availability of entire DotNetNuke sites using the jQuery Mobile framework<br />- Custom rendering of specific modules using pure HTML, jQuery and webservices<br /><br />Make the leap from <b>ordinary</b> to <b>SUPER</b> with Skinonym.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "dotnetnuke,DotNetNuke Skins,theme,ASP.NET,HyperCrunch,TechBubble,",
+  "LastEdited": "2011-06-20T15:42:55.03-07:00"
+}

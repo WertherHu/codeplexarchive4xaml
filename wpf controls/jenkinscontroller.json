@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jenkinscontroller",
+  "Title": "Jenkins Controller",
+  "Description": "JC is a Windows tray application controlling Jenkins factory. Among others, you can view, run, stop jobs, view build output and download generated artifacts.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />JC is a Windows tray application controlling Jenkins factory. Among others, you can view, run, stop jobs, view build output and download generated artifacts.<br /><br /><img src=\"/projects/jenkinscontroller/6064cdaa-d73c-4c90-93b3-45d4d6b776fd\" alt=\"JC&#32;-&#32;Overview_2.jpg\" title=\"JC&#32;-&#32;Overview_2.jpg\" /><br /><br />Jenkins Controller use <b>Jenkins .NET Client</b> NuGet package: <a href=\"https://jenkinscontroller.codeplex.com/wikipage?title=Jenkins%20.NET%20Client%20%28NuGet%20package%29\">https://jenkinscontroller.codeplex.com/wikipage?title=Jenkins%20.NET%20Client%20%28NuGet%20package%29</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-10T04:29:28.25-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azureautomation",
+  "Title": "Azure Table Storage Component and Data Modeling",
+  "Description": "How would you like to have an Azure Table Storage component?  Would you want it to be easily extensible?  What if it is easier to hookup than a grid control? Here it is. Use this Visual Studio template to automate the Azure Table storage.  Complete control over your data model.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />How would you like to have an Azure Table Storage component&#63;  Would you want it to be easily extensible&#63;  What if it is easier to hookup than a grid control&#63; Here it is. Use this Visual Studio template to automate the Azure Table storage.  Complete control over your data model.<br /><br /><br /><b>The purpose of this project is help you get from concept about Azure Tables to a working project that stores real data in the Azure Cloud.</b><br /><br />The project introduces using Visual Studio to automate Azure Tables.  Within a few minutes you can be testing your data model in Azure developer storage.  It incorporates all the basic functionallity of data storage giving you working CRUD methods ready to run.  It also incorporates minimal functions that will let your create, query, and delete tables in Azure.<br /><br />The focus is on getting up and running with your data model as quickly as possible.  To do this we incorporate the Visual Studio class diagrams that are so often overlooked.  You can be adding, modifying, and deleting properties in your data model in 10 seconds after your initial build.<br /><br />Following the steps should have your data on Azure Tables running in under 30 minutes.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-29T07:15:48.703-08:00"
+}

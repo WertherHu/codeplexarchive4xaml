@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flipcontrol",
+  "Title": "FlipControl 3D",
+  "Description": "This is a 3D Flip Control for WPF. It has a FrontSide and a BackSide. On Mouse Enter you can see the Backside.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>FlipControl 3D</b><br />This is a 3D Flip Control for WPF. It has a FrontSide and a BackSide. On Mouse Enter you can see the Backside.<br /><br /><img src=\"http://www.meirhuber.de/advertise/flip04.jpg\" /><br /><br />What is the FlipControl?<br />The FlipControl is a WPF Control that enables you to add Controls to a Panel at 2 Sides: as soon as you move the Mouse over the Control, it turns around and shows the Backside. All of that is in a 3D context! <br /><br />The Project Page is at: <a href=\"http://www.meirhuber.de/Projects/wpf/flip/Default.aspx\">http://www.meirhuber.de/Projects/wpf/flip/Default.aspx</a><br /><br />if you are interested in contributing feel free to contact me!<br /><br />- Mario</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,WPF 3D,wpf3d,WPF Custom Control,Controls,control,3D,3D Tools for WPF,3D Control,",
+  "LastEdited": "2009-01-29T14:09:18.89-08:00"
+}

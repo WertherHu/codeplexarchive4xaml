@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XSerializer",
+  "Title": "XSerializer",
+  "Description": "XSerializer serializes and deserializes objects into and from XML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Welcome to the XSerializer Project</h2>\rXSerializer serializes and deserializes objects into and from XML.<br />\n<h2>XSerializer vs. XmlSerializer</h2>\r<ul><li>Two simple custom attributes for mapping</li>\n<li>Supports: interfaces, classes, fields, properties, primitive types, IList&lt;&gt; and enums.</li>\n<li><b>S</b>imple, <b>S</b>tupid and <b>S</b>mall</li>\n<li>Customisable: T4 code generator and C# code</li></ul>\n\n<h2>Getting Started</h2>\r<pre>\n//custom attribute mapping sample\n[XBindingElement(&quot;book&quot;, false, 0, typeof(Book))]\npublic IList&lt;IBook&gt; Books { get; set; }\n\n//deserialize\nIXSerializer xSerializer = new XSerializer();\nILibrary lib = xSerializer.Deserialize(&quot;C:\\lib.xml&quot;, typeof (Library)) as ILibrary;\n\n//serialize\nxSerializer.Serialize(lib, &quot;library&quot;, &quot;C:\\lib.xml&quot;);\n</pre><br />\n<h2>XCodeGenerator (Code Generator UI)</h2>\r<img src=\"/projects/XSerializer/57f4a31d-02cc-4917-8012-bac7ba1c616e\" alt=\"XCodeGenerator.jpg\" title=\"XCodeGenerator.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XML,XSerializer,Serializer,deserialize,serialize,XSD,T4,XmlSerializer,C#,XBinding,Binding,wpf,mvvm,data,code,generator,generation,XCodeGenerator,",
+  "LastEdited": "2014-06-02T02:26:41.847-07:00"
+}

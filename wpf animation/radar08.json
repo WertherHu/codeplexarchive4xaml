@@ -1,0 +1,9 @@
+{
+  "ProjectName": "radar08",
+  "Title": "Animation of Radar by VB.Net(2008)",
+  "Description": "This program display the animation as radar, i used Graphics class, GraphicsPath class. I controlled this by using two timer class. There included DrawLine, Draw Circle, Draw Arc, and other graphic class as needed to display for the same of radar. And you can use this program for loading of your program or any other you need because of you can controls by coding.\n\nI created it by ActiveX Control because i want to used my project of I.A.D(NCC). I hope that you like it and you can easy to use. \n\nThank you for all.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Program Description</b><br /><br />This program display the animation as radar, i used Graphics class, GraphicsPath class. I controlled this by using two timer class. There included DrawLine, Draw Circle, Draw Arc, and other graphic class as needed to display for the same of radar. And you can use this program for loading of your program or any other you need because of you can controls by coding.<br /><br />I created it by ActiveX Control because i want to used my project of I.A.D&#40;NCC&#41;. I hope that you like it and you can easy to use. <br /><br />Thank you for all.<br /><br /><img src=\"/projects/radar08/81843eaf-cc40-476b-86bd-00e828ee0390\" alt=\"radar_img.bmp\" title=\"radar_img.bmp\" /><br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-09-25T06:45:54.753-07:00"
+}

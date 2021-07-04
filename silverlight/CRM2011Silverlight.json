@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CRM2011Silverlight",
+  "Title": "CRM 2011 Silverlight Web Resource for User Settings",
+  "Description": "CRM 2011, Silverlight Web Resource for Editing User Settings\n\nThis utility allows a User with certain permissions to Update User Settings such as DefaultCalendarView, PagingLimit and ShowGetStartedPage",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Project Description:<br>\r\nThis utility allows a User with certain permissions to Update User Settings such as DefaultCalendarView, PagingLimit and ShowGetStartedPage.\r\n<br>\r\nSetup Instructions:<br>\r\nManaged Solution contains Web Resources and a custom Entity called &ldquo;SystemUtil&rdquo; (schema name: utility_systemutil). Once Managed Solution is successfully imported set the &ldquo;Read&rdquo; Permission on System Util entity. All the users having Read\r\n access on System Util can view the link under Settings -&gt; System.</p>\r\n<p><strong>05/22/2011 - Uploaded next version CRMUtility_1_1_managed_V1.zip.zip</strong></p>\r\n<p><span style=\"text-decoration:underline\">Highlights of this version</span><br>\r\n1. Editing of HomePageArea and HomePageSubArea is available.<br>\r\n2. It automatically reads Published SiteMap and reads values for Area and Sub-Area.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CRM User Settings,CRM WebResource,",
+  "LastEdited": "2011-05-22T16:33:23.377-07:00"
+}

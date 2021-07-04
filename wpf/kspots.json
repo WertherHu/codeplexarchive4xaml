@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kspots",
+  "Title": "Kinect Spots",
+  "Description": "Kinect Spots is a small little app that displays a stylized bubble image based on the input from the Microsoft Kinect's camera.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Kinect Spots is a small little app that displays a stylized bubble image based on the input from the Microsoft Kinect&#39;s camera.<br /><br /><br />Requires the Kindect SDK <b>1.0</b>, available at <a href=\"http://kinectforwindows.org/\">http://kinectforwindows.org/</a><br /><br />Sample output:<br /><img src=\"/projects/kspots/c5d14b26-4913-458c-921b-2e1c6734eef6\" alt=\"MainWindow.jpg\" title=\"MainWindow.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "kinect,c#,WPF,",
+  "LastEdited": "2012-02-07T20:34:56.177-08:00"
+}

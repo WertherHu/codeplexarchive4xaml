@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vawindow",
+  "Title": "ヴぁウィンドウ",
+  "Description": "指定した画像を最前面に表示するソフト。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>ヴぁウィンドウ</h1>\r\n最前面に指定した画像を表示。<br /><br />ニコニコ放送(<a href=\"http://live.nicovideo.jp\">http://live.nicovideo.jp</a>)でユーザー生放送中に作成したソフト。<br />プログラミグ生放送のコミュニティはこちら。<br /><a href=\"http://ch.nicovideo.jp/community/co9320\">http://ch.nicovideo.jp/community/co9320</a><br /><br /><b>使い方</b>\n<ul><li>ウィンドウ（画像）を右クリックでメニュー表示\n<ul><li>アドレス指定： 画像ファイル（または画像URL）を指定。透過PNGを指定すると透明部分は表示に反映されます。</li>\n<li>反転： 反転表示</li>\n<li>増殖： 新しいウィンドウ表示</li></ul></li>\n<li>ウィンドウ上でマウスホイールで拡大・縮小</li>\n<li>ウィンドウに画像ファイルをドラッグ＆ドロップで画像変更</li>\n<li>ウィンドウをドラッグ＆ドロップで移動</li>\n<li>画像へのパスはユーザー領域に保存されます。</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ニコニコ生放送,WPF,VB.NET,",
+  "LastEdited": "2009-02-26T08:07:55.617-08:00"
+}

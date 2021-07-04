@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfalphabet",
+  "Title": "WPF Alphabet",
+  "Description": "WPF Alphabet is a application that I created to help my child learn the alphabet. It displays each letter and pronounces it using speech synthesis. It was developed using WPF and c# in about 3 hours (so its kinda rough). ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Alphabet is a application that I created to help my child learn the alphabet. It displays each letter and pronounces it using speech synthesis. It was developed using WPF and c&#35; in about 3 hours &#40;so its kinda rough&#41;. <br /><br />Specific WPF Features:<br />*DispatcherTimer (WPF)<br />*SpeechSynthesizer (WPF)<br />*URL Navigate (WPF) not PAGE<br /><br />XAML Examples:<br />*DockPanel<br />*Border<br />*TextBlock<br />*HyperLink<br />*Button&#39;s and Events<br /><br />Author&#39;s Homepage at <a href=\"http://michaelcrump.net\">http://michaelcrump.net</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-20T09:29:16.067-07:00"
+}

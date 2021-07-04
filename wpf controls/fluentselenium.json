@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fluentselenium",
+  "Title": "Fluent Selenium",
+  "Description": "Fluent Selenium is a library for .Net and it offers a design to help keeping test code clean and understantable. It provides an enhancement to the selenium remote control. This project was started by some developers at Pyxis Technologies.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Fluent Selenium is a library for .Net and it offers a design to help keeping test code clean and understantable. It provides an enhancement to the selenium remote control. This project was started by some developers at Pyxis Technologies.<br /><br /><b>Foreword</b> <br />The goal of this project to facilitate the writing of easy to read web tests for the <i>Selenium test framework</i>. Consequently, much of the documentation for this project is planned to focus on best practices for writing legible tests.<br /><br />For more information on <i>Selenium</i> see <a href=\"http://seleniumhq.org\">http://seleniumhq.org</a><br /><br />This project is the brainchild of Pyxis Technologies <a href=\"http://www.pyxis-tech.com\">http://www.pyxis-tech.com</a><br /><br />Presentation slides from the 2009 Montreal Code Camp are available at <a href=\"http://www.slideshare.net/pyxistech/fluentselenium-presentation-code-camp09\">http://www.slideshare.net/pyxistech/fluentselenium-presentation-code-camp09</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-05T12:57:57.71-08:00"
+}

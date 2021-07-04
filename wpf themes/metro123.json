@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metro123",
+  "Title": "Open a Metro Style App from Desktop App",
+  "Description": "Many people said that we can't open a MetroStyle App from WPF or any desktop App. Here I give you simple solution to solve this problem. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a Simple project helps in opening a Metro Style Application from any desktop Application. <br />Many people said that you can&#39;t open Metro App from desktop Application. So today I am giving you this source code example that shows you how you a trick to open the Metro App. <br />Enjoy</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro,WPF,Style,Open,Desk,Simple,",
+  "LastEdited": "2012-04-15T20:51:06.297-07:00"
+}

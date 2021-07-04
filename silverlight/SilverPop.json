@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverPop",
+  "Title": "SilverPop",
+  "Description": "Silverpop is a Silverlight 4, PRISM, MVVM demonstration application that demonstrates basic use of these concepts plus how to visualise data in a diagram. It is an accompaniment to a series of blog posts.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverpop is a Silverlight 4, PRISM, MVVM demonstration application that demonstrates basic use of these concepts plus how to visualise data in a diagram. It is an accompaniment to a series of blog posts.<br /><br />The application takes the form of a simple note board - you can add as many textual notes to the board as you like, resize them, rotate them, you can zoom in and out of the canvas, pan it, double click the canvas to add a new note.<br /><br />This code accompanies the blog posts at <a href=\"http://www.deepcode.co.uk\">http://www.deepcode.co.uk</a><br />\n<ul><li><a href=\"http://www.deepcode.co.uk/2011/01/prism-mvvm-and-silverlight-gripping-it.html\">http://www.deepcode.co.uk/2011/01/prism-mvvm-and-silverlight-gripping-it.html</a></li>\n<li><a href=\"http://www.deepcode.co.uk/2011/02/prism-mvvm-and-silverlight-finished.html\">http://www.deepcode.co.uk/2011/02/prism-mvvm-and-silverlight-finished.html</a></li></ul>\n<br /><img src=\"/projects/SilverPop/871c523c-e2ee-4940-abfd-96766065cbc3\" alt=\"sp-bettershot.png\" title=\"sp-bettershot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-14T05:27:04.433-08:00"
+}

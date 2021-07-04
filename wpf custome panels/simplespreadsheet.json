@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simplespreadsheet",
+  "Title": "Simple WPF Spreadsheet",
+  "Description": "A simple Excel-like spreadsheet with only basic functionalities",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>A very simple WPF-based spreadsheet application</h1>\r<ul><li>written using Caliburn.Micro MVVM framework</li>\n<li>expression evaluation relies on custom grammar and ANTLR-generated lexer/parser</li>\n<li>optimized cell values recalculation (topological sorting and parallel evaluation when possible)</li>\n<li>MEF is used for easy support of new custom functions</li></ul>\n<br />More details on architecture and features can be found on <a href=\"https://simplespreadsheet.codeplex.com/documentation?referringTitle=Home\">Documentation</a> page.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-15T02:19:04.893-07:00"
+}

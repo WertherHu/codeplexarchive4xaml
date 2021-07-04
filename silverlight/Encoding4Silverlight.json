@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Encoding4Silverlight",
+  "Title": "Encoding for Silverlight",
+  "Description": "For support all DBCS (Double-Byte Character Set) encoding for Silverlight & WP7 Application. Including GB2312, BIG5, shift_jis, Johab and so on",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>This project has been moved to <a href=\"http://github.com/Aimeast/Encoding4Silverlight\">http://github.com/Aimeast/Encoding4Silverlight</a></h2>\r\n<b>This project is to support all .Net supported encodings for Silverlight &amp; WP7 Application. Now, support DBCS (Double-Byte Character Set) encodings only. This contains GB2312, BIG5, shift_jis, Johab and so on.</b><br /><br />This project is fully implemented all Encoding functions therefore you can use this project as easy as .Net Framework built-in encoding. In order to use the project, you must embed an addition binary data files into your assembly. Following features have been implemented:<br />\n<ul><li>Immediate decode array bytes and encode string or array chars</li>\n<li>Use <i>StreamReader</i> and <i>StreamWriter</i> to read and write stream simple</li></ul>\n<h2>Sample</h2>\r<div style=\"color:Black;background-color:White;\"><pre>\r\nWebClient _wc = <span style=\"color:Blue;\">new</span> WebClient();\n_wc.Encoding = DBCSCodePage.DBCSEncoding.GetDBCSEncoding(<span style=\"color:#A31515;\">&quot;gb2312&quot;</span>);\n_wc.DownloadStringCompleted += (ss, ee) =&gt; txtResult.Text = ee.Result;\n_wc.DownloadStringAsync(<span style=\"color:Blue;\">new</span> Uri(txtUrl.Text));\r\n</pre></div><br />\n<h2>This project has been moved to <a href=\"http://github.com/Aimeast/Encoding4Silverlight\">http://github.com/Aimeast/Encoding4Silverlight</a></h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-20T04:14:44.113-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfanimatedgif",
+  "Title": "WPF Animated GIF",
+  "Description": "A simple library to display animated GIF images in WPF, usable in XAML or in code.",
+  "MovedLink": "https://github.com/thomaslevesque/WpfAnimatedGif/",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project has moved: <a href=\"https://github.com/XamlAnimatedGif/WpfAnimatedGif\">WpfAnimatedGif repository on GitHub</a></h1>\r\n<i>I will try to keep the CodePlex repository up to date, but issues should now be reported on GitHub.</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,Animated,gif,",
+  "LastEdited": "2016-02-18T12:16:34.027-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharpcopy",
+  "Title": "SharpCopy",
+  "Description": "SharpCopy is simple, keyboard controlled utility tool, it helps to store 10 copied texts at the same time, and restore then to the clipboard when needed.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>CopySharp is a simple clipboard app that allows you to copy multiple Text and restore them to the Clipboard when needed.</p>\r\n<p>Note: This app does not alter or modify the standard Control &#43; C / Control &#43; V, it just expand it with more features that are optional to use.</p>\r\n<p><em>How to use:</em></p>\r\n<p><strong>Control &#43; [0-9] &#43; C</strong> - Will copy the text and store it in the specified Key.<br>\r\n<span style=\"font-size:10pt\">Example: Control &#43; 7 &#43; C, will store the text in the key 7.</span></p>\r\n<p><strong>Control &#43; [0-9] - </strong>Will restore the Text stored in the Key pressed to the Clipboard, ready to be pasted using Control &#43; V<br>\r\nExample: Control &#43; 7 followed by Control &#43;V&nbsp;</p>\r\n<p><strong>Project Versions</strong></p>\r\n<p>V0.1a<br>\r\nFirst version.</p>\r\n<p><span style=\"font-size:10pt\">Next Version<br>\r\n</span>Fix discovered&nbsp;bugs.<br>\r\nAdd storage capabilities (To save and reload the Copied Data when the application is shutdown)</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Clipboard,Keyboard Hooks,WPF,Copy,Paste,.Net,",
+  "LastEdited": "2013-09-12T00:11:42.68-07:00"
+}

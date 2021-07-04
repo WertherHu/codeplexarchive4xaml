@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlGenerator",
+  "Title": "Xaml Code Behind Generator",
+  "Description": "Xaml Code Behind Generator makes it easier to generate Code Behind designer code from XAML, where code can be used at places where Xaml Services are not accessible.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Xaml Code Behind Generator makes it easier to generate Code Behind designer code from XAML, where code can be used at places where Xaml Services are not accessible.<br /><br /><b>Features</b>\n<ol><li>Using XAML 2009 in Silverlight and WPF</li>\n<li>Reusing Xaml Business Pages in Silverlight and WPF</li>\n<li>Support for User Controls derived from any Control</li>\n<li>Using Complied code instead of BAML</li>\n<li>Improving speed of XAML runtime</li>\n<li>Using XAML to generate code to be used in ASP.NET, Server Core etc, where XAML Services are not available</li>\n<li>Generated code is pure .NET 2.0 compliant, and you can target xaml objects to run in earlier .NET version too.</li>\n<li>You can also create Xaml for WinForms and use it for your .NET 2.0 projects, however please notice, the features of WPF will not be available, it can only create object hierarchies based on XAML, but it can not give you binding etc features.</li>\n<li>x:Name support for Resources, very useful for MVVM Pattern</li>\n<li>Support for Custom Extension with Custom Code Generator</li></ol>\n<br /><br /><img src=\"/projects/XamlGenerator/5777e8c3-7d92-4c3f-ac7a-f4617a57b7b6\" alt=\"Preview.png\" title=\"Preview.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,XAML,Xaml Generator,Silverlight,",
+  "LastEdited": "2010-09-28T09:14:34.443-07:00"
+}

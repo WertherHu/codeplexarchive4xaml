@@ -1,0 +1,9 @@
+{
+  "ProjectName": "IEC61850Com",
+  "Title": "IEC61850 Server -Client demo -C# -Overview of standard awaiting clearance",
+  "Description": "This is an example of server and client using IEC61850 concept.IEC61850 is a set of standards in Substation automation. A part of it is about Meta data definitions and Engineering - Part 5 of standard.The other part defines communication for ensuring interoperability- Part 7 ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an example of server and client using IEC61850 concept.IEC61850 is a set of standards in Substation automation. A part of it is about Meta data definitions and Engineering - Part 5 of standard.The other part defines communication for ensuring interoperability- Part 7 <br /><br />IEC61850 is one of the major standards in Substation automation and power systems domain using ethernet standards as base. This has also been integrated with industrial automation. The project here is just a demonstrator of the communicationconcept using<br />Abstract Communication Services Interface - ACSI<br />Abstract Syntax Notation ASN.1<br />SCSM - Specific communication service mapping concept using MMS - Manufacturer Messaging specification and its encoding concepts<br />The datattypes required might differ in C# world.<br />Please let me know your comments on this one. I am open for all:-) </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-17T21:39:12.58-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "zenui",
+  "Title": ".NET UI controls for the Dojo Framework",
+  "Description": "This project implements the Dojo Dijit widget library as ASP.NET server controls, making it easy to build a good looking and functional web interface from ASP.NET.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project implements the Dojo Dijit widget library as ASP.NET server controls, making it easy to build a good looking and functional web interface from ASP.NET.<br /><br />&quot;Dojo saves you time, delivers powerful performance, and scales with your development process. It’s the toolkit experienced developers turn to for building great web experiences.&quot; - <a href=\"http://www.dojotoolkit.org\">http://www.dojotoolkit.org</a><br /><br />Currently the project is it an alpha stage, but already the following dijit&#39;s are available:<br />\n<ul><li>Button</li>\n<li>Colour Palette</li>\n<li>Combo Box</li>\n<li>Date Text Field</li>\n<li>Drop Down Button</li>\n<li>Horizontal Rule</li>\n<li>Slider</li>\n<li>Number Field</li>\n<li>Text Area</li>\n<li>Text Field</li>\n<li>Toggle Button</li>\n<li>Validation Text Field</li>\n<li>Border Layout with Splitter</li>\n<li>Panels with XHR loading</li>\n<li>Popup Menu</li>\n<li>Nested Menus</li>\n<li>Draggable Dialog Window</li>\n<li>Toolbar</li>\n<li>Tabs</li>\n<li>Custom Tooltips</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "dojo,dijit,component,UI,UI Controls,Ajax,C#,.NET 4.0,Accessibility,Server Controls,Zen,Framework,jaws,ASP.NET,javascript,",
+  "LastEdited": "2010-11-01T10:05:18.437-07:00"
+}

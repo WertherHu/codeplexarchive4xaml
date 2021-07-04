@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamlcropcontrol",
+  "Title": "XamlCropControl",
+  "Description": "This is a XAML control for cropping images, implemented in C#.  WinRT only.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a XAML control for cropping images, implemented in C&#35;.  WinRT only.<br /><br />This is a simple UI control to allow cropping of an image for XAML apps on WinRT (written in C#).  It supports using a fixed or non-fixed aspect ratio.  It fully supports touch, including pinch/stretch and inertia, as well as mouse control.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-04-14T13:45:11.367-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "screenmonkey",
+  "Title": "Screen Monkey Extras",
+  "Description": "This project contains open source plugins for the Screen Monkey media control software. The projects here demonstrate how to create your own plugins for use with the Screen Monkey software.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project contains open source plugins for the Screen Monkey media control software. The projects here demonstrate how to create your own plugins for use with the Screen Monkey software.<br /><br /><b>Screen Monkey</b><br /><br />The screen monkey software is professional media playback and control software for Live Events, Theatre, Churches, VJ&#39;s and Broadcast. The software supports a large array of different media types and has a comprehensive plugin system for the addition of further media types.<br /><br />For further information on Screen Monkey you can visit the website at <a href=\"http://www.screenmonkey.co.uk\">www.screenmonkey.co.uk</a>. The developer documentation can be found at <a href=\"http://smdn.screenmonkey.org\">smdn.screenmonkey.org</a>.<br /><br /><b>Plugin Contents</b><br /><br />The following plugins for Screen Monkey have been made open source to allow the community to develop and improve them. They also provide good examples on how to create your own plugin for the media server software. Here is a list of plugins available in this project.<br /><br /><table><tr><th>Name</th><th>Type</th><th>Description</th></tr>\n<tr><td>Song Clip</td><td>Clip Plugin</td><td>Displays song words on the screen and allows the user to edit the song words.</td></tr>\n<tr><td>Bible Clip</td><td>Clip Plugin</td><td>Displays verses from Zefania or OpenSong formatted Bible translations.</td></tr></table><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-03T16:20:09.447-07:00"
+}

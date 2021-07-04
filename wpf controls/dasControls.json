@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dasControls",
+  "Title": "dasControls",
+  "Description": "dasControls is a library of custom macros for dasBlog started by Jay Harris (http://www.cptloadtest.com). The primary driver is taking content that is driven by client-side JS libraries and converting the content and data retrieval into a server-side control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>dasControls</h2>\rdasControls is intended to be a library of custom macros for the dasBlog blogging engine, beginning content that is driven by custom JS libraries and converting the content and data retrieval into server-side controls. For now, dasControls contains only a Twitter Status macro, but more controls will be added in the coming months.<br />\n<h3>dasControls TwitterStatus Macro</h3>\rThe TwitterStatus macro uses server-side retrieval of your Twitter data, eliminating all client-side JavaScript calls for your tweets. By placing the Twitter request on the server, the data is also available to any search engines that index your page. Additionally, data is cached on the server, and new updates are retrieved based on the polling interval you specify. When using real-time client-side JavaScript calls, there is a 2-5 second delay for your end-users while the data is retrieved from Twitter; by caching the data on the local server, this delay is eliminated, and the content for each user is delivered from the local cache, lightening the load for the end-user while avoiding an undue burden for high-traffic sites.<br /><br /><b>Requirements</b><br />dasControls requires dasBlog 2.3. Future versions will be compatible with older versions of dasBlog.<br />\n<h3>My Blog</h3>\rMy blog can be found at <a href=\"http://www.cptloadtest.com\">http://www.cptloadtest.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-30T19:26:36.597-07:00"
+}

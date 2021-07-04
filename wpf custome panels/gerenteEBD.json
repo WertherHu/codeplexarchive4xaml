@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gerenteEBD",
+  "Title": "Gerente EBD",
+  "Description": "Projeto em WPF e SQLite para controle de frequência na Escola Bíblica Dominical.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>O projeto <strong>Gerente EBD</strong>(Escola B&iacute;blica Dominical) tem como objetivo gerenciar a frequ&ecirc;ncia dos alunos matriculados nas escolas b&iacute;blicas para igrejas evang&eacute;licas, todo feito localmente, sem a necessidade de uma conex&atilde;o\r\n com a internet. Futuramente ser&aacute; implementada uma sincroniza&ccedil;&atilde;o com algum servi&ccedil;o online, para compartilhamento dessas informa&ccedil;&otilde;es.</p>\r\n<p>&nbsp;</p>\r\n<p>Compatibilidade</p>\r\n<ul>\r\n<li>O dispositivo precisa ter o .NET Framework 4.5 </li><li>Ter instalado o Sistema Operacional Windows 7 </li></ul>\r\n<p>&nbsp;</p>\r\n<p>Tecnologias</p>\r\n<ul>\r\n<li>WPF - Windows Presentation Foundation </li><li>Ribbon </li><li>Utiliza SQLite para salvar as informacoes. </li></ul>\r\n<p>&nbsp;</p>\r\n<p>Para implantacao do software, siga o Tutorial de Implantacao.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-10-29T04:19:49.823-07:00"
+}

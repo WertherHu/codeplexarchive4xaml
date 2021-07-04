@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SmallTFS",
+  "Title": "Small TFS client",
+  "Description": "<SmallTFS> is a simple, standalone client for <Team Foundation Server> 2010. Supports basic functionalities (CheckIn, CheckOut and rewies of checked out files. The project is writtenin <WPF> .NET <C#> V 4.0. \n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nSmallTFS is a simple, standalone client for Team foundation Server 2010. Supports basic functionalities (CheckIn, CheckOut and rewies of checked out files. The project is writtenin WPF .NET C# V 4.0.\r\n<br>\r\nThis project is a staring point for a usefull rich tfs standalone TFS client.</p>\r\n<p>The project is ment to be a base for more TFs operations like task management or merging and braching.&nbsp;</p>\r\n<p>Everibody are invited to contribute and help me create a usable standalone TFs client that can be usefull for all who don't have Visual studio installed.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-28T04:04:51.15-07:00"
+}

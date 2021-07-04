@@ -1,0 +1,9 @@
+{
+  "ProjectName": "micta",
+  "Title": "MIC Taiwan Test Automation Group",
+  "Description": "MIC在台灣推動的測試自動化程式庫計劃, 藉由參與此程式庫的開發來給大家一個快速進入自動測試的窗口.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MIC在台灣推動的測試自動化程式庫計劃, 藉由參與此程式庫的開發來給大家一個快速進入自動測試的窗口.<br /><br />本專案是希望能藉由一個小型自動測試系統的實作, 來帶給有心想要發展軟體自動測試系統的人一個簡單的起步, 目前的程式庫包含:<br />1) 檔案夾結構的設計, 可供未來多人同時開發.<br />2) 運用 VSTS 來 Build/Deploy/Test 的完整程序.<br />3) 隨機資料產生器, Assert 補充, Windows Service Helper, SQL Server Helper.<br />4) 驗證程式庫的一組測試程式 (BVT: Build Verification Test).<br /><br />下一波我會依觀眾的需求來增加功能, 如果有興趣加入的請跟我聯絡.<br /><br />Bentham Chang</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-10-21T00:44:20.437-07:00"
+}

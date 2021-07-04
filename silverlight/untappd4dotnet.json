@@ -1,0 +1,9 @@
+{
+  "ProjectName": "untappd4dotnet",
+  "Title": ".Net Untappd API Client",
+  "Description": ".Net Untappd API Client is a wrapper around the Untappd v3 API. It's developed in C# and works on .Net 3.5, Silverlight 3/4, and Windows Phone.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />.Net Untappd API Client is a wrapper around the Untappd v3 API. It&#39;s developed in C&#35; and works on .Net 3.5, Silverlight 3&#47;4, and Windows Phone.<br /><br /><br />The following methods are implemented along with unit tests:<br />\n<ul><li>Friend Feed</li>\n<li>User Feed</li>\n<li>Beer Info</li>\n<li>Beer Search</li>\n<li>Checkin</li>\n<li>Checkin (Test)</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-11T12:35:44.78-07:00"
+}

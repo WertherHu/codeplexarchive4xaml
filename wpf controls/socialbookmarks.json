@@ -1,0 +1,9 @@
+{
+  "ProjectName": "socialbookmarks",
+  "Title": "ASP.NET Social Bookmarks",
+  "Description": "Simple and extensible Web User Control for ASP.NET that supports various social networks (Twitter, Facebook, Google Bookmarks, etc) ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple and extensible Web User Control for ASP.NET that supports various social networks &#40;Twitter, Facebook, Google Bookmarks, etc&#41; <br /><br />By default you can use this social networks:<br /><br />   - Twitter<br />   - Facebook<br />   - Google Bookmarks<br />   - Picasa<br />   - RSS Feeds<br />   - Flickr<br />   - E-mail<br />   - Linkedin<br />   - Maps <br /><br />You can easily add new custom components to the control.<br /><br />More info available at  <a href=\"http://blastersystems.com/blog/?p=221\">http://blastersystems.com/blog/?p=221</a> (Translation available at the right toolbar )</div><div class=\"ClearBoth\"></div>",
+  "TagList": "social networking,asp.net,webcontrols,facebook,Social,Twitter,",
+  "LastEdited": "2010-03-13T11:43:42.943-08:00"
+}

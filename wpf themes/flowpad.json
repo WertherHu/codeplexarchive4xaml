@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flowpad",
+  "Title": "FlowPad",
+  "Description": "Flowpad is a light, fast and easy to use flow diagram editor. It helps you quickly pour your algorithms from your mind to 'paper'. It is written using WPF/C# 3.5.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Flowpad is a light, fast and easy to use flow diagram editor. It helps you quickly pour your algorithms from your mind to &#39;paper&#39;. It is written using WPF&#47;C&#35; 3.5.<br /><br />Below is simple diagram created in flowpad. Go to <a href=\"http://flowpad.codeplex.com/releases/view/40653\">Downloads</a> tab and get the alpha release.<br /><b>If you feel familiar with such a way of creating diagrams and you are a developer - please download the souce code and consider making a contribution to this project</b><br /><img src=\"/projects/flowpad/8c6ffc9a-937e-4329-b8db-1c7561b0cb42\" alt=\"flowpad_diagram.PNG\" title=\"flowpad_diagram.PNG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,XAML,flowchart,flowpad,flow diagram,C# 3.5,Drag And Drop,C# 3.0,Mirshahreza,",
+  "LastEdited": "2010-05-25T10:34:33.723-07:00"
+}

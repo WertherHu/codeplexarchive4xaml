@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MessageBoxWPF",
+  "Title": "Simple WPF MessageBox",
+  "Description": "This library provides an easy way to customize and use a WPF Message Box using a ViewModel and Styles.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Fully Customizable WPF Message Box</strong><br>\r\nThis library provides an easy to customize and use WPF Message Box using a ViewModel and Styles.</p>\r\n<p>&nbsp;</p>\r\n<p>Contains a ScrollViewer to handle long messages and&nbsp;the ability to select and copy the text.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Example:</strong></p>\r\n<p>&nbsp;<img src=\"/projects/MessageBoxWPF/6f0bbeed-fb28-451b-b917-da1d20836c4b\" alt=\"\" width=\"300\" height=\"163\"></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Designer:</strong></p>\r\n<p><img src=\"/projects/MessageBoxWPF/98efcc91-9d3c-484c-8a8c-220356d33026\" alt=\"\" width=\"402\" height=\"243\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-10-27T09:26:23.123-07:00"
+}

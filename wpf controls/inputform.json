@@ -1,0 +1,9 @@
+{
+  "ProjectName": "inputform",
+  "Title": "Web Input Form Control",
+  "Description": "This control allow developer to create the input form by configuring the control in html mode",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This control allow developer to create the input form by configuring the control in html mode<br /><br /><br />This project is currently in initial release mode which does not support design view to use the control in the visual studio, By this control developer can easily create the input form to capture the data from the end user.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-02T03:13:24.933-07:00"
+}

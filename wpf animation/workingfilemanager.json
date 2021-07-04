@@ -1,0 +1,9 @@
+{
+  "ProjectName": "workingfilemanager",
+  "Title": "WorkingFileManager",
+  "Description": "Encapsulates standard logic for WPF applications that offer New, Open, Save, Save As, Recent Files, and Exit operations.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>The goal of WorkingFileManager is to reduce the code, complexity, and development time for WPF applications that use the standard working file model--that is, the application presents an interface to modify data, as well as ways to perform operations like\r\n Save, Save As, Open, New, Exit, and Recent Files, while keeping track of when the current data needs to be saved.</p>\r\n<p>The WorkingFileManager encapsulates much of the logic related to keeping track of the clean/dirty state of a file and deciding when to prompt the user to save changes. It also provides ways to present Open and Save dialogs in a MVVM scenario.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-07-29T18:43:04.907-07:00"
+}

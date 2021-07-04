@@ -1,0 +1,9 @@
+{
+  "ProjectName": "blueportal",
+  "Title": "bluePortal",
+  "Description": "BluePortal is a video sharing and collaborative platform that is a front end to a video streaming platform (Silverlight Streaming, Homemade streaming, CDN streaming server).  BluePortal is based on three main components:\n\nBluePortal Core System\n-Video metadata (tag, categories, channel)\n-Video UGC (playlist, comments)\n-Video encoding\n-Video uploading to a streaming platform\n\nBluePortal  StarterKit : Sample website “you tube” like.\n-User management (share, friends)\n-Windows live authentication\n-BluePortal service platform: Set of APIs that expose the core system features.\n\nWeb Service API\n-Media RSS API\n\nBluePortal can be deployed as a standalone web site (mode starter kit) or as service for an existing website (mode services).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />BluePortal is a video sharing and collaborative platform that is a front end to a video streaming platform &#40;Silverlight Streaming, Homemade streaming, CDN streaming server&#41;.  BluePortal is based on three main components&#58;<br /><br />BluePortal Core System<br />-Video metadata &#40;tag, categories, channel&#41;<br />-Video UGC &#40;playlist, comments&#41;<br />-Video encoding<br />-Video uploading to a streaming platform<br /><br />BluePortal  StarterKit &#58; Sample website &#8220;you tube&#8221; like.<br />-User management &#40;share, friends&#41;<br />-Windows live authentication<br />-BluePortal service platform&#58; Set of APIs that expose the core system features.<br /><br />Web Service API<br />-Media RSS API<br /><br />BluePortal can be deployed as a standalone web site &#40;mode starter kit&#41; or as service for an existing website &#40;mode services&#41;.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "video,Media,ASP.NET 2.0,MOSS,",
+  "LastEdited": "2007-08-17T15:55:28.75-07:00"
+}

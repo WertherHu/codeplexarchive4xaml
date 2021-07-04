@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SharpestBeak",
+  "Title": "Sharpest Beak",
+  "Description": "SharpestBeak's concept is that players write their own logic of controlling chicken units so that enemy's units are eliminated.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Has Moved</h2>\rThe project has moved to BitBucket: <a href=\"https://bitbucket.org/HarinezumiSama/sharpestbeak\">https://bitbucket.org/HarinezumiSama/sharpestbeak</a><br />\n<h2>Overview</h2>\rSharpestBeak&#39;s concept is that players write their own logic of controlling chicken units so that enemy&#39;s units are eliminated.<br />\n<h2>Credits</h2>\rInitial idea by <a href=\"https://github.com/oyegorov\">Oleg Yegorov</a>, <a href=\"https://github.com/Sergiyko16\">Sergei Olshanetskii</a>, and Vitalii Maklai. Development and further ideas - by Vitalii Maklai (aka <a href=\"https://www.codeplex.com/site/users/view/VMcL\">VMcL</a> aka <a href=\"https://bitbucket.org/HarinezumiSama/\">HarinezumiSama</a>). The platform used for development is <a href=\"https://www.microsoft.com/net/download/dotnet-framework-runtime/net452\">Microsoft .NET Framework 4.5.2</a>. The logic can be implemented using any .NET 4.5.2+ compliant language.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,wpf,3d,logic,",
+  "LastEdited": "2017-11-23T17:26:22.177-08:00"
+}

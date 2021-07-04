@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpftoolkit",
+  "Title": "Extended WPF Toolkit™ Community Edition",
+  "Description": "The Extended WPF Toolkit™ is the number one collection of WPF controls, components and utilities for creating next generation Windows applications.",
+  "MovedLink": "https://github.com/xceedsoftware/wpftoolkit",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>July 11, 2017</h1>\r\n<h2>The project&#39;s new home is now on Github at <a href=\"https://github.com/xceedsoftware/wpftoolkit\">https://github.com/xceedsoftware/wpftoolkit</a></h2>\r\nExtended WPF Toolkit™ is the number one collection of WPF controls, components and utilities for creating next generation Windows applications. Use it to build professional looking, modern, and easy to use line of business applications. The Extended WPF Toolkit project has been downloaded more than 1 million times here and on <a href=\"http://www.nuget.org/packages/Extended.Wpf.Toolkit/\">NuGet</a>.<br /><br /><img src=\"/projects/wpftoolkit/3036eaaa-d99a-41d6-9092-eb32093c2b46\" alt=\"Xceed_Logo.png\" title=\"Xceed_Logo.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Controls,Components,WPF,Toolkit,Wizard,MessageBox,calculator,WPF controls,PropertyGrid,magnifier,WPF Toolkit,ColorPicker,TimePicker,Splitbutton,RETURN 2010,BusyIndicator,ButtonSpinner,ChildWindow,DateTimeUpDown,MaskedTextBox,RichTextBox,RichTextBoxFormatBar,ColorCanvas,WatermarkTextBox,DateTimePicker,CalculatorUpDown,DecimalUpDown,DoubleUpDown,IntegerUpDown,Extended WPF Toolkit,DropDownButton,CheckListBox,CollectionEditor,MultiLineTextEditor,sltool,700B90,cd/dvd-rom install,",
+  "LastEdited": "2017-07-12T12:43:08.757-07:00"
+}

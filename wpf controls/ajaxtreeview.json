@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ajaxtreeview",
+  "Title": "Ajax TreeView",
+  "Description": "A piece of ASP.NET code to generate an AJAX powered XHTML TreeView control. That is a progressively loading tree capable of handling HUGE structures.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An ASP.NET AJAX XHTML TreeView solution<br /><br />This Ajax component will render a UL-LI listing progressively. When you click a node it will query a webservice for the nodes to insert and dynamically expand without reloading your page or bloat your viewstate.<br />Since it is pure XHTML you can style it heavily with straight forward CSS.<br /><br /><img src=\"/projects/ajaxtreeview/e9f4f40d-47d2-41c3-9af6-477e1110154c\" alt=\"Capture.JPG\" title=\"Capture.JPG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,ASP.NET,xhtml,treeview,Css Friendly,Ajax TreeView,",
+  "LastEdited": "2008-05-06T06:39:22.547-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Linq2Charts",
+  "Title": "LINQ-to-Charts",
+  "Description": "Adds support for using LINQ with .NET Charting Controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This product is actively developed by the Linq2Chart team assigned to the Microsoft Open Technologies Hub and in collaboration with a community of open source developers. MS Open Tech is a subsidiary of Microsoft Corp.<br />\n<h2>About Linq2Charts</h2>\r\nMany data-centric applications need to visualize their results using charts. LINQ-to-Charts is a thin wrapper on top of the <a href=\"http://msdn.microsoft.com/en-us/library/system.windows.forms.datavisualization.charting.aspx\">System.Windows.Forms.DataVisualization.Charting</a> namespace that presents a LINQ-friendly and strongly typed compositional API for creating charts for .NET programmers.<br /><br />We have left the names of types and properties unchanged as much as possible so that most of the  <a href=\"http://archive.msdn.microsoft.com/mschart\">documentation and samples</a> from the underlying library is still applicable. This project is similar to the <a href=\"http://code.msdn.microsoft.com/windowsdesktop/FSharpChart-b59073f5\">F# Chart library</a> but is targeted at C# and VB programmers.<br /><br />The code comes with a small set of samples that should quickly get you up to speed with writing your own compositional charts. This project is also a good example of how you can create your own custom Rx bindings.<br /><br />Download the latest binary on NuGet: <a href=\"https://nuget.org/packages/Linq2Charts/\">https://nuget.org/packages/Linq2Charts/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-06T11:34:46.483-08:00"
+}

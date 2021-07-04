@@ -1,0 +1,9 @@
+{
+  "ProjectName": "myHealth",
+  "Title": "myHealth",
+  "Description": "myHealth provides a innovative way to track your training progress by tagging images with various training information (Body Fat%, Weight, etc)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Welcome to myHealth</h1>\r<img src=\"http://dotnet.org.za/blogs/rudi/myHealth.JPG\" /><br />myHealth is a innovative way to track your training progress by tagging photos with training information (like body fat% and current weight)<br /><br /><b>For the developer:</b><br />myHealth was written using WPF. Some of the leassons I have learned while writting myHealth has been documented on my blog (<a href=\"http://dotnet.org.za/rudi/archive/2008/06/23/myhealth.aspx\">http://dotnet.org.za/rudi/archive/2008/06/23/myhealth.aspx</a>)<br /><br />Rudi Grobler<br /><a href=\"http://dotnet.org.za/rudi\">http://dotnet.org.za/rudi</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,health,",
+  "LastEdited": "2008-06-23T01:17:01.537-07:00"
+}

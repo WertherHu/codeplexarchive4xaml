@@ -1,0 +1,9 @@
+{
+  "ProjectName": "statisticsserver",
+  "Title": "WebStatistics Server for Windows Server",
+  "Description": "WebStatistics Server for Windows Server is a tool to create visitor and traffic statistics of a Windows Server running IIS Webserver. It includes a log file parser and an ASP.NET based panel to view the statistics. It's developed in C# and ASP.NET.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rWebStatistics Server for Windows Server is a tool to create visitor and traffic statistics of a Windows Server running IIS Webserver. It includes a log file parser and an ASP.NET based panel to view the statistics. It&#39;s developed in C&#35; and ASP.NET.<br /><br /><b>Why another statistics service?</b><br />Anwer: There is no good free statistics service that works on .NET and ASP.NET.<br /><br /><b>Currently Supported Log Files</b>\n<ul><li>Microsoft Windows Server 2003 IIS Weblog</li></ul>\n\n<h2>Project development</h2>\rThis project is currently under development and no release version has been published.<br /><br /><b>CURRENTLY LESS TIME FOR THIS PROJECT. MORE IS COMING SOON.</b><br /><br /><table><tr><th> Release </th><th> Description </th><th> Status </th></tr>\n<tr><td> <b>04/10/2010</b> </td><td> Source code can be compiled and does some statistics and stores it to database. Read Documentation for installation notes. </td><td> Released </td></tr>\n<tr><td> 0.1 </td><td> First release of a working version of Statistics Server for Windows Server </td><td> Planned </td></tr></table><br /><br />If you are interested in supporting this project, contact me.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "statistics,iis,web,windows server,log analyzer,",
+  "LastEdited": "2010-07-26T03:07:32.307-07:00"
+}

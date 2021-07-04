@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RelayCommandRt",
+  "Title": "Relay Command for WinRT",
+  "Description": "A simple RelayCommand for WinRT (sans and entire MVVM framework).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">RelayCommand for WinRT - Someone had to do it.<br /><br />Binaries available at: <a href=\"http://nuget.org/packages/RelayCommandRt\">http://nuget.org/packages/RelayCommandRt</a><br /><br />Author&#39;s blog: <a href=\"http://w8isms.blogspot.com\">http://w8isms.blogspot.com</a><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-29T09:30:39.92-07:00"
+}

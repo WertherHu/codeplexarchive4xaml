@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cloudterminal",
+  "Title": "Cloud Terminal",
+  "Description": "Automatically retreive instance details from EC2 and connect over RDP, within a UX optimised for administration, debugging and productivity. Built in WPF and C# on .Net using the MSTSC ActiveX control for RDP.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Automatically retreive instance details from EC2 and connect over RDP, within a UX optimised for administration, debugging and productivity. Built in WPF and C&#35; on .Net using the MSTSC ActiveX control for RDP.</b><br /><br /><img src=\"/projects/cloudterminal/28b681ac-f544-41e2-8cd4-947274c011cd\" alt=\"CloudConnect.PNG\" title=\"CloudConnect.PNG\" /><br />\n<h2>Status</h2>\rThe project is currently in Alpha as core features are still in development. Releases are made <a href=\"https://cloudterminal.codeplex.com/documentation?referringTitle=Home\">at specific milestones</a>, and when the <a href=\"http://cloudconnect.codeplex.com/SourceControl/list/changesets\">code appears to be stable</a>. Note that the program does <b>not</b> attempt to perform any <i>write</i> operations to any cloud service. Nevertheless, it is recommended to use credentials which have read-only access (such as those created by <a href=\"http://aws.amazon.com/iam/\">AWS IAM</a>) as they are stored in your user-profile in plain-text.<br />\n<h2>Install</h2>\r<a href=\"http://cloudconnect.codeplex.com/releases/clickOnce\">The project is released as a click-once install.</a><br />\n<h2>Plans / Releases</h2>\r<a href=\"https://cloudterminal.codeplex.com/documentation?referringTitle=Home\">View information about project organisation and plans for each release...</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "RDP,Remote Desktop,remote control,EC2,aws,Azure,ssh,cloud,",
+  "LastEdited": "2011-05-18T04:56:15.883-07:00"
+}

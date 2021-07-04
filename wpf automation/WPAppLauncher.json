@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPAppLauncher",
+  "Title": "WP7 App Launcher",
+  "Description": "WP7 App Launcher allows you to launch Windows Phone 7 applications directly in Emulator or device without the need to open Visual Studio.\r\n\r\nDirectly launching .xap file on Emulator is specially usable for application demos or to automate application launc from a .bat file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b> <br>\r\nWP7 Emulator Launcher allows you to launch Windows Phone 7 applications directly in Emulator without the need to open Visual Studio.\r\n<br>\r\n<br>\r\nDirectly launching .xap file on Emulator is specially usable for application demos or to automate application launc from a .bat file.\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wp7,emulator,automation,Phone,Phone 7,device,",
+  "LastEdited": "2011-07-03T06:56:00.967-07:00"
+}

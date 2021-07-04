@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jqueryribbon",
+  "Title": "jQuery Ribbon",
+  "Description": "A ribbon control built on jQuery.\r\n\r\nIt supports grouping, dropdown menus, nested lists theming and more.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A ribbon control built on jQuery.<br /><br />It supports grouping, dropdown menus, nested lists theming and more.<br /><br />Demo page:<br /><a href=\"http://vinkr.net/ribbon\">http://vinkr.net/ribbon</a><br /><br /><b>Preview of version 2</b><br /><a href=\"http://vinkr.net/ribbon2\">http://vinkr.net/ribbon2</a><br /><br /><b>Screenshots:</b><br /><br />Minimize (new in Release 3):<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/min_5E315B80.png\" /><br /><br />Fixed position (new in Release 3):<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/fixed_019DDA19.png\" /><br /><br />Access keys (new in Release 2):<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/accesskeys_thumb_358EFBED.png\" /><br /><br />Menu:<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/orb_menu_3F0E6BBA.png\" /><br /><br />Theming:<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/ribbontheme_thumb_07CE5B20.png\" /><br /><br />Lists:<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/list_2749CC64.png\" /><br /><br />Groups:<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/groups_43970E84.png\" /><br /><br />Forms:<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/forms_44CB8196.png\" /><br /><br />Dropdown menus:<br /><img src=\"http://weblogs.asp.net/blogs/mikaelsoderstrom/dropdownmenus_08BF3FE1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "jQuery,Ribbon,jQuery Ribbon,web,Windows 7,menu,Ribbon Web,",
+  "LastEdited": "2010-02-20T16:07:06.133-08:00"
+}

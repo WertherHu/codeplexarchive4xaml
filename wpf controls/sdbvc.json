@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sdbvc",
+  "Title": "SQL Database Version Control",
+  "Description": "SQL Database Version Control illustrates keeping a set of scripts to maintain a database schema. Developed in CSharp.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SQL Database Version Control illustrates keeping a set of scripts to maintain a database schema. Developed in CSharp.<br /><br />Fuller description at <a href=\"http://www.johnplummer.com/tools/sql-databases-and-version-control.html\">http://www.johnplummer.com/tools/sql-databases-and-version-control.html</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-19T10:43:27.27-07:00"
+}

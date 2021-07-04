@@ -1,0 +1,9 @@
+{
+  "ProjectName": "notfoundlog",
+  "Title": "Amba.NotFoundLog module for Orchard CMS",
+  "Description": "Amba.NotFoundLog logs 404 errors for site, and shows it in admin control panel. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Amba.NotFoundLog logs 404 errors for site, and shows it in admin control panel. This module can be useful to detect 404 issues in case of site migration.<br /><br /><img src=\"/projects/notfoundlog/b9b0a839-0b7e-4f03-a1ef-eaa86db11548\" alt=\"404_logger.png\" title=\"404_logger.png\" /><br /><br />To use this module place following code to NotFound.cshtml file of your theme: <br /><pre>@{\n    WorkContext.Resolve&lt;INotFoundLogService&gt;().LogNotFound((string)Model.RequestedUrl, (string)Model.ReferrerUrl);\n} </pre></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-01-26T07:44:23.627-08:00"
+}

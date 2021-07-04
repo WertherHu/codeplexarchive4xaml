@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EmailProtector",
+  "Title": "Email Protector",
+  "Description": "Avoid SPAM! Email Protector protects the email addresses on your website.\nIt's an easy to use ASP.Net web control that hides email addresses from website email harvesters. \nThe email address is encrypted using the XTea algorithm. (http://en.wikipedia.org/wiki/XTEA)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nAvoid SPAM! Email Protector protects the email addresses on your website.<br>\r\nIt's an easy to use ASP.Net web control that hides email addresses from website email harvesters.\r\n<br>\r\nThe email address is encrypted using the XTea algorithm. (http://en.wikipedia.org/wiki/XTEA)<br>\r\n<br>\r\nBoth plain text and fully functional mailto links are supported.<br>\r\n<br>\r\nThe web control can be populated declaratively in a web page or programmatically from code.<br>\r\nThis allows for static as well dynamically loaded email addresses to be encrypted.<br>\r\n<br>\r\n<br>\r\n<img src=\"http://www.orbitone.com/img/orbit-one-logo.png\" alt=\"\" width=\"253\" height=\"73\"><br>\r\nOrbit One is a software development agency located in Ghent, Belgium.<br>\r\nWe specialize in internet facing websites, intranet and extranet applications.<br>\r\nWe use technologies such as ASP.Net, SharePoint, Umbraco and Microsoft Dynamics CRM.<br>\r\n<a href=\"http://www.orbitone.com\">http://www.orbitone.com</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Email,ASP.NET Control,SPAM,ASP.NET,javascript,",
+  "LastEdited": "2014-06-30T04:35:32.017-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "glossword",
+  "Title": "Glossword - Glossary Compiler",
+  "Description": "Glossword is a system written in PHP to create and publish online multilingual dictionary, glossary, or encyclopedia. Notable features: installation wizard, a custom alphabetic toolbar, history of editing for terms, delayed postings, SEF support and SEO enhancements, visual themes, a multicolumn listing of terms, export/import dictionaries in XML and CSV format, built-in search and cache engines, a multifunctional feedback form with CAPTCHA, UTF-8 encoding, XHTML 1.1.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Glossword is a system written in PHP to create and publish online multilingual dictionary, glossary, or encyclopedia. Notable features&#58; installation wizard, a custom alphabetic toolbar, history of editing for terms, delayed postings, SEF support and SEO enhancements, visual themes, a multicolumn listing of terms, export&#47;import dictionaries in XML and CSV format, built-in search and cache engines, a multifunctional feedback form with CAPTCHA, UTF-8 encoding, XHTML 1.1.<br /><br />Project home page: <a href=\"http://glossword.biz/\">http://glossword.biz/</a><br /><br />Glossword - это система, написанная на PHP, для создания и публикации онлайновых мультиязычных словарей, энциклопедий, справочников. Примечательные особенности: мастер установки, настраиваемый алфавитный указатель, история изменения терминов, отложенная публикация, поддержка ЧПУ и SEO оптимизация, цветовые схемы, многоколоночный список терминов, импорт/экспорт словарей в форматах XML/CSV, встроенная поисковая система, многофункциональная форма обратной связи с CAPTCHA, кодировка UTF-8, XHTML 1.1.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "php,mysql,script,dictionary,glossary,",
+  "LastEdited": "2008-07-12T23:01:25.403-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dayview2",
+  "Title": "DayView2",
+  "Description": "Code based on DayView Calendar (https://calendar.codeplex.com/) which no longer seems to be activly developed.",
+  "MovedLink": "https://github.com/k3ldar/DayView2",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>This project has moved to&nbsp;<a href=\"https://github.com/k3ldar/DayView2\">https://github.com/k3ldar/DayView2</a></strong></p>\r\n<p>&nbsp;</p>\r\n<p><strong>DayView2</strong><br>\r\n<br>\r\nBased on DayView Calendar (https://calendar.codeplex.com/) which has been extended to add extra functionality including:<br>\r\n</p>\r\n<ul>\r\n<li>User defined Working Hours (fired by an event) </li><li>Built in Print Method </li><li>Owner draw events for drawing on Header and Appointments </li><li>Ability to have multiple columns for the same day (i.e. different people) </li><li>Couple of new Renderers </li><li>New properties. </li></ul>\r\n<p><br>\r\nPlus quite a few other changes.<br>\r\n<br>\r\n<img src=\"/projects/dayview2/ad77b504-cfee-4e3e-8e9b-92396b798323\" alt=\"TeamView\" width=\"992\" height=\"574\" style=\"border:0\"></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"/projects/dayview2/f942ccef-9d40-457f-8c03-56b00a235747\" alt=\"SingleView\" width=\"991\" height=\"577\" style=\"border:0\"></p>\r\n<p><em>Why</em>? When I was after a calendar control I found DayView, however, it did not seem to be in active development any more, so I forked the code off which is now activly developed and freely available for others.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,dayview,calendar,outlook,diary,control,winform,salon diary,vb,.net,",
+  "LastEdited": "2017-07-03T22:07:54.54-07:00"
+}

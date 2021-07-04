@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sierpinskitriangle",
+  "Title": "The Sierpinski Triangle",
+  "Description": "The Sierpinski Triangle",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>The Sierpinski Triangle</strong></p>\r\n<p>The Sierpinski triangle (also with the original orthography Sierpiński), also called the Sierpinski gasket or the Sierpinski Sieve, is a fractal and attractive fixed set named after the Polish mathematician Wacław Sierpiński who described it in 1915.</p>\r\n<p>However, similar patterns appear already in the 13th-century Cosmati mosaics in the cathedral of Anagni, Italy,[1] and other places, such as in the nave of the Roman Basilica of Santa Maria in Cosmedin.[2]<br>\r\n<br>\r\nOriginally constructed as a curve, this is one of the basic examples of self-similar sets, i.e. it is a mathematically generated pattern that can be reproducible at any magnification or reduction.</p>\r\n<p>...</p>\r\n<p><a href=\"http://en.wikipedia.org/wiki/Sierpinski_triangle\" target=\"_blank\">www.wikipedia.org</a></p>\r\n<p><img src=\"http://s30.postimg.org/ufxn9y2gx/The_Triangle.jpg\" alt=\"\" width=\"421\" height=\"419\"></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Project Details:</strong></p>\r\n<p>&nbsp;<img src=\"http://s28.postimg.org/799mjj3zh/Main_Window_Loaded.jpg\" alt=\"\" width=\"624\" height=\"320\"></p>\r\n<p>&nbsp;<img src=\"http://s1.postimg.org/95xolc43j/Find_Mid_Point.jpg\" alt=\"\" width=\"336\" height=\"175\"></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://s18.postimg.org/ky54f38nd/Draw_Tirangle1.jpg\" alt=\"\" width=\"571\" height=\"417\">&nbsp;</p>\r\n<p><img src=\"http://s22.postimg.org/iba4m3o7l/Draw_Tirangle2.jpg\" alt=\"\"></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sierpinski Triangle,WPF - VB.NET,",
+  "LastEdited": "2014-02-27T18:47:32.453-08:00"
+}

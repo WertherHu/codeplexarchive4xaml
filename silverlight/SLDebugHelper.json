@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLDebugHelper",
+  "Title": "Silverlight Debug Helper",
+  "Description": "The Silverlight Debug Helper installs as a Visual Studio Extension and runs in the background until a Silverlight debug session is started.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Silverlight Debug Helper installs as a Visual Studio Extension and runs in the background until a Silverlight debug session is started.<br /><br />Please go to the <a href=\"http://sldebughelper.codeplex.com/documentation\">documentation page</a> for more details.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,visual studio addin,Debugging,",
+  "LastEdited": "2012-06-23T03:15:07.767-07:00"
+}

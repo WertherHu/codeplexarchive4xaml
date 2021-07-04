@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webuiautomation",
+  "Title": "Web UI Automation",
+  "Description": "Web UI Automation library help automate web interface input/output using C#.Net code. It also help test the Web UI using C#.Net code",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Web UI Automation library&nbsp;provides classes and methods to support the automation of Web based user interface.\r\n<strong>Web UI Automation help you provide input on a website and execute the events of website input/command controls.</strong></strong><br>\r\n<br>\r\n<br>\r\nWeb UI Automation library provides AutomaticWebRequest and AutomationElement. AutomaticWebRequest&nbsp;help you create a web request by providing the URL of the website/Web UI. AutomaticWebRequest constructor take URL as the parameter. This class does not support\r\n default and any other constructor. AutomaticWebRequest also support two important methods...</p>\r\n<p>&nbsp;</p>\r\n<p>- SetAutomationElement :&nbsp;which help you set the elements which will be a part of Web UI Automation</p>\r\n<p>- ExecuteNextStep : This method help you&nbsp;set attribute value on each element and&nbsp;also execute event on each elements specified in Element collection</p>\r\n<p>&nbsp;</p>\r\n<p>I hope this post will help you in some or the other way.</p>\r\n<p>You can also find some interesting content on <a href=\"http://www.techblogster.teavch.com\" target=\"_blank\">\r\ntechblogster</a>.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-23T09:15:59.57-08:00"
+}

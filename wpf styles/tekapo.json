@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tekapo",
+  "Title": "Tekapo",
+  "Description": "Tekapo is a wizard style application that will help you manage your digital photos. Most digital cameras will store images as JPEG files. Information about the camera and how the camera has taken the photo is placed into the JPEG file along with the image data. One of the pieces of information stored is the date and time that the photo was taken. Tekapo uses the picture taken date to organise the photos.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Tekapo is a wizard style application for managing digital photos. The application either renames jpg photos based on the datetime they were taken or shifts the datetime the images were taken.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "utility,imaging,Image Resizer,",
+  "LastEdited": "2009-03-31T17:16:42.8-07:00"
+}

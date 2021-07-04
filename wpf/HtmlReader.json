@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HtmlReader",
+  "Title": "Html Reader",
+  "Description": "Html Reader makes it easier for WPF WebBrowser users to access the Document property, and retrieve information from HTML pages. You'll no longer have to use MSHTML interfaces.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Html Reader makes it easier for WPF WebBrowser users to access the Document property, and retrieve information from HTML pages. You&#39;ll no longer have to use MSHTML interfaces.<br /><br /><b>Details</b><br />I&#39;m a fan of oldies music, and I&#39;m interested mainly in the history of 1950s-60s pop music. Most of my sources are Internet sites, like Last.fm, allmusic, and alike. I usually extract the information from HTML pages and save it to a database.<br /><br />In the past I used a WinForm with a WebBrowser. The Document property of the WebBrowser exposes a .Net HtmlDocument object, which exposes a CLR Document Object Model, which, in turn, wraps the native browser DOM. <br /><br />A year ago I started writing WPF projects. WPF has an equivalent WebBrowser Control, but its Document property exposes MSHTML objects – the native Internet Explorer DOM. MSHTML is a COM+ object model, a legacy from the 1990s, and it&#39;s not easy to work with. A great regression for Microsoft, I would say.<br /><br />So I wrote this small project according to my own needs: A lightweight DLL that reads information from an MSHTML Document. It can be extended to a full functioning CLR DOM, but I don&#39;t need it. If someone wants to participate and fill the rest – go ahead, please.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,html,WebBrowser,WPF,C#,",
+  "LastEdited": "2010-05-14T00:54:18.797-07:00"
+}

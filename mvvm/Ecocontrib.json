@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Ecocontrib",
+  "Title": "ECO contrib",
+  "Description": "ECO ist a excellent framework for domain driven design developed by CapableObjects AB. Share your additional features in this contrib project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ECO ist a excellent framework for domain driven design developed by CapableObjects AB. Share your additional features in this contrib project.<br /><br /><b>ECO Ressources</b> <br /><a href=\"http://www.capableobjects.com\">Web site of CapableObjects ECO</a><br /><a href=\"http://capableobjects.com/ProductsServices_ECO_VS.aspx\">What is ECO and what can you do with it</a><br /><a href=\"http://capableobjects.com/apps/InstantForum414/\">ECO forum</a><br />Follow the ECO blog: <a href=\"https://ecocontrib.codeplex.com/wikipage?title=ECO%20blog&referringTitle=Home\">ECO blog</a> or <a href=\"http://www.new.capableobjects.com//\">Blog on capableobjects.com</a><br /><br /><b>License</b><br />Eco contrib uses the <a href=\"http://www.opensource.org/licenses/mit-license.php\">MIT license</a><br /><br /><b>To join</b><br />If you want to contribute \n<ol><li>Register on codeplex</li>\n<li>Contact me (Peter Buchmann) via the People page with a description of your contribution </li></ol>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,UML,contrib,DDD,ECO,OCL,MDD,orm,code generation,Business Objects,undo redo,N-Tier,versioning,MVVM,View Model,State Machine,Undo,ORMapping,MDA,Visual Studio 2010,",
+  "LastEdited": "2011-10-28T06:10:48.783-07:00"
+}

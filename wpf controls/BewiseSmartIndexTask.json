@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BewiseSmartIndexTask",
+  "Title": "SSIS Custom Task BewiseSmartIndexManager",
+  "Description": "This project show an Maintenance Task which is availaible in Control Flow into SSIS Package. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project show an Maintenance Task which is availaible in Control Flow into SSIS Package. <br /><br />If you are newbie in SSIS component&#39;s developement you can go to this tutorial : <br />waiting url</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SQL Server,Integration Services,",
+  "LastEdited": "2010-08-09T01:57:39.327-07:00"
+}

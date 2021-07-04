@@ -1,0 +1,9 @@
+{
+  "ProjectName": "smeedee",
+  "Title": "Smeedee",
+  "Description": "Smeedee is a monitor that harvests key information from running software projects. Smeedee finds useful information in the Version Control System (source control), Continuous Integration system (build servers), source code itself and in the process management tool you are using.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><span style=\"color:#ff0000\">Smeedee has moved</span></h1>\r\n<p><span style=\"color:#ff0000\">Please see <a href=\"http://github.com/smeedee\">http://github.com/smeedee</a> for source code, issues etc. or\r\n<a href=\"http://smeedee.org\">http://smeedee.org</a> for our homepage with description and documentation.</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "smeedee,Continuous Integrati,agile,source control,version control,monitoring,C#,Silverlight,WPF,",
+  "LastEdited": "2011-05-13T04:19:17.613-07:00"
+}

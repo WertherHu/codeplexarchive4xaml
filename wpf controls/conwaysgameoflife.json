@@ -1,0 +1,9 @@
+{
+  "ProjectName": "conwaysgameoflife",
+  "Title": "Conway's Game of Life",
+  "Description": "A Windows C# app that implements a cellular automaton. Give an initial seed by clicking on the grid and making cells live or by letting the app create a random seed. Observe it evolve, control the speed of the simulation, stop it, save it or load previously saved confingurations.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A Windows app written in C# that implements a cellular automaton. <br />The user gives an initial seed by specifying the number of cells to be set to live and letting the app create a random seed, or by choosing which cells on the grid to be live himself. Then he can observe this initial configuration evolve – die or reproduce.<br />The user can control the speed of the simulation, stop it, save it or load previously saved configurations<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,game,Windows Forms,Simulation,Conway,Game of Life,cellular automaton,life,simulator,",
+  "LastEdited": "2011-02-10T19:04:45.3-08:00"
+}

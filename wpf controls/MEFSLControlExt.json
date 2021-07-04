@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MEFSLControlExt",
+  "Title": "MEF Silverlight Control Extensions",
+  "Description": "The Mef Silverlight Control Extensions gives you a declarative way of implement control importing using MEF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Mef Silverlight Control Extensions gives you a declarative way of implement control importing using MEF.<br /><br />Inspired by a project created for WPF by Glenn Block, these Silverlight Control extensions give you the ability to import and compose controls into your application referenced assemblies <i>and xap files to come</i> in a more declarative way using XAML.<br /><br />It is really easy to get started using the library:<br /><br />1) Add the Assembly catalogs to your app.xaml<br /><br /><pre>\n&lt;mef:Composition.Catalog&gt;\n        &lt;mef:Catalogs&gt;\n            &lt;mef:XapCatalog Xap=&quot;ExportedControls.xap&quot;/&gt;\n            &lt;mef:AssemblyCatalog Assembly=&quot;ExportedControlsFromAssembly, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null&quot;/&gt;\n        &lt;/mef:Catalogs&gt;\n&lt;/mef:Composition.Catalog&gt;\n</pre><br /><br />2) Add a custom control which has Mef imports<br /><br /><pre>\n&lt;local:ButtonWithImports mef:Composition.Compose=&quot;True&quot;/&gt;\n</pre><br /><br />And you are done, all of the imports will be composed.<br /><br /><i>If people find this interesting i wil do more work on this project and if anyone would like to help out that would be great also.</i><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-11T06:33:07.67-08:00"
+}

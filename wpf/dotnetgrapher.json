@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dotnetgrapher",
+  "Title": "Simple Dot Net Grapher",
+  "Description": "Demo project for drawing graphs based on a equation\r\nE.g F(x) = 5x^2 + 10x - 1\r\n\r\nJust a math grapher I made to test the DynamicDataDisplay library and dynamic string evaluation",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Demo project for drawing graphs based on a equation<br />E.g F&#40;x&#41; &#61; 5x&#94;2 &#43; 10x - 1<br /><br />Just a math grapher I made to test the DynamicDataDisplay library and dynamic string evaluation<br /><br /><img src=\"/projects/dotnetgrapher/06e67d86-8b39-470f-8977-6baf0d456918\" alt=\"dotnetgrapher.jpg\" title=\"dotnetgrapher.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Graph,Grapher,WPF,string evaluation,Mathematics,math parser,",
+  "LastEdited": "2011-06-12T08:53:26.373-07:00"
+}

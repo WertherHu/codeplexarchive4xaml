@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SkypeTranslator",
+  "Title": "SkypeTranslator",
+  "Description": "Help users to translate incoming message from Skype and Outlook applications to specified language.\r\nIn core was use Elysium , log4net , and WPF frameworks, WPF Toolkit Extended,TPL,WCF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project intent for translation of skype messagess.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-18T12:59:14.213-07:00"
+}

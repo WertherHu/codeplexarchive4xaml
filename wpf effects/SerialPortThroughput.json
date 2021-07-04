@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SerialPortThroughput",
+  "Title": "Serial Port Throughput Monitor",
+  "Description": "Monitor Serial Port throughput speed using WMI.\nThis chart used in this application is based on a very cool WPF chart control can be found in http://ligao101.wordpress.com/2007/08/21/another-chart-in-wpf/ \nMonitoring serial port speed was done using WMI performance counter in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Monitor Serial Port throughput speed using WMI.<br />This chart used in this application is based on a very cool WPF chart control can be found in http&#58;&#47;&#47;ligao101.wordpress.com&#47;2007&#47;08&#47;21&#47;another-chart-in-wpf&#47; <br />Monitoring serial port speed was done using WMI performance counter in C&#35;.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-05-03T13:53:44.273-07:00"
+}

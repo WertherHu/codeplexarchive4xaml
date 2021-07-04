@@ -1,0 +1,9 @@
+{
+  "ProjectName": "KnockoutJSWithMvc4",
+  "Title": "Simple sample of knockout JS, knockout JS validation and MVC 4",
+  "Description": "MVC 4 update based on\r\n\r\nhttp://blog.stevensanderson.com/2010/07/12/editing-a-variable-length-list-knockout-style/\r\n\r\nVisual Studio 2010",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>Demo of MVC 4, Knockout.js and Knockout validation&nbsp;working together. This is for all the people who want to learn to use MVC 4 and Knockout but need sample code to understand it faster. Talking from experience there is DEFINITELY a lack of samples out\r\n there, so I'm offering this.</p>\r\n<p>&nbsp;</p>\r\n<p>Based on code by Steve Sanderson:</p>\r\n<p><a href=\"http://blog.stevensanderson.com/2010/07/12/editing-a-variable-length-list-knockout-style/\">http://blog.stevensanderson.com/2010/07/12/editing-a-variable-length-list-knockout-style/</a></p>\r\n<p>The table HTML and bare framework knockout code is his work, but the validation code was added by me, and I'll keep adding more, until I'm satisfied the sample is good enough. I'm a perfectionist so it may take a while ;)</p>\r\n<p>This code will be extended - stay tuned!</p>\r\n<p>Regards,</p>\r\n<p>Scott T. (<a href=\"mailto:tunstals@hotmail.com\">tunstals@hotmail.com</a>) - feel free to drop me a line, ask any questions or even just general feedback.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "mvc 4,knockout.js,knockout,mvvm,example,sample,visual studio 2010,vs2010,asp.net,2013,knockout validation,",
+  "LastEdited": "2014-02-06T02:30:46.903-08:00"
+}

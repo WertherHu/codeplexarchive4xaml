@@ -1,0 +1,9 @@
+{
+  "ProjectName": "antcolony",
+  "Title": "Ant colony simulation in F#",
+  "Description": "Ant colony simulation in immutable F# with pheromone trails and ad hoc semi natural ant behavior.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Ant colony simulation in immutable F&#35; with pheromone trails and ad hoc semi natural ant behavior.<br /><br /><b>The project and its source code has migrated to GitHub <a href=\"https://github.com/gkn/FSharp.AntColony\">https://github.com/gkn/FSharp.AntColony</a></b><br /><br /><img src=\"/projects/antcolony/ddbd49d2-18b5-479c-ab7e-4ea7a9087c78\" alt=\"ants.jpg\" title=\"ants.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "F#,Parallel Programming,",
+  "LastEdited": "2016-05-25T11:44:54.673-07:00"
+}

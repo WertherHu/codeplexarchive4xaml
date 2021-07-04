@@ -1,0 +1,9 @@
+{
+  "ProjectName": "eNursePHR",
+  "Title": "eNursePHR",
+  "Description": "The project shows a prototype that integrates a nursing terminology (clinical care classification v2.0). It may be used to tag personal health information. Uses .NET-platform, entity framework and contains C# source. Source code also contains Silverlight-demo.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>The project shows a prototype that integrates a nursing terminology (clinical care classification v2.0). It may be used to tag personal health information. Uses .NET-platform, entity framework and contains C# source. Source code also contains Silverlight-demo.<br>\r\n<br>\r\n<img title=\"eNursePHR2009.jpg\" src=\"/projects/eNursePHR/d68bac15-f82a-4388-a8b9-5648725d72aa\" alt=\"eNursePHR2009.jpg\"><br>\r\n<br>\r\nMore info about classification in nursing:</p>\r\n<ul>\r\n<li>ICNP <a href=\"http://www.icn.ch/icnp.htm\">http://www.icn.ch/icnp.htm</a> </li><li>CCC <a href=\"http://www.sabacare.com\">http://www.sabacare.com</a> </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "LINQ,C#,SQL,Database,WPF,Entity Framework,health,Silverlight,Nursing,Care,PHR,Personal Health,sds,",
+  "LastEdited": "2015-03-29T04:49:53.603-07:00"
+}

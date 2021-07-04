@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nairo",
+  "Title": "Nairo",
+  "Description": "Nairo is a full managed code HTML Renderer. It aims to be an OpenSource replacement for the WebBrowser control and, in future it will support CSS 1.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Nairo is a full managed code HTML Renderer. It aims to be an OpenSource replacement for the WebBrowser control and, in future it will support CSS 1.<br /><br /><b>Plans for release v0.1</b>\n<ol><li>Full implementation of HTML 4.01 Standard</li></ol>\n<br /><b>Current State of the Project</b>\n<ol><li>p, h1, h2, h3, h4, h5 and h6 are implemented</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-06-16T10:57:37.053-07:00"
+}

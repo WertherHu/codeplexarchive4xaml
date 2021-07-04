@@ -1,0 +1,9 @@
+{
+  "ProjectName": "KeyMaster",
+  "Title": "Key Master",
+  "Description": "Key Master is a combination of open source hardware and software which allows amateur radio operators to have computer controlled switching of various CW keys.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Key Master is a combination of open source hardware and software which allows amateur radio operators to have computer controlled switching of various CW keys.<br />Key Master is a hardware / software project which uses the Netduino and C# to create a computer controlled switching matrix for HAM (Amateur) Radio CW keys.  The end result is a physical device which connects to both multiple radios and multiple keys (straight or electric).  The physical device will operate independently of a computer (thanks to the Netduino), but will also be configurable by a connected computer, using a GUI.  Any combination of key(s) to radio(s) can be established.  All keys and radios are isolated.<br /><br />The Key Master prototype will consist of three key inputs and three radio outputs.  These jacks will all be part of an I/O board that will need to be assembled and connected to the I/O pins of the Netduino.  Both the Netduino and I/O card will be mounted in a project box.<br /><br />Key Master will be configurable to read with a straight key or electronic key input.  The output will be configurable as analog or synthesized, allowing a straight key to synthesize an electronic key, or an electronic key to synthesize a straight key.<br /><br />In addition to being used locally to route keys to radios, Key Master will implement an IP listener to allow for remote keying by a computer application (such as HRD).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "HAM Radio,Morse Code,Amateur Radio,",
+  "LastEdited": "2013-02-13T09:05:10.563-08:00"
+}

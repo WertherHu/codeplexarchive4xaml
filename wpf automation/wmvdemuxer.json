@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wmvdemuxer",
+  "Title": "Simple WMV/ASF files muxer/demuxer",
+  "Description": "Simple WMV files muxer/demuxer implemented in C#/C++. It has simple WPF-based UI and allows copy/replace operations on video, audio and script streams (including scripts stored in a header). Could be used to mux wmv files with embedded scripts (Chessbase videos, for example).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple WMV files muxer&#47;demuxer implemented in C&#35;&#47;C&#43;&#43;. It has simple WPF-based UI and allows copy&#47;replace operations on video, audio and script streams &#40;including scripts stored in a header&#41;. Could be used to mux wmv files with embedded scripts &#40;Chessbase videos, for example&#41;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-07T08:52:51.577-08:00"
+}

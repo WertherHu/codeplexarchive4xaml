@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rcs",
+  "Title": "Remote Controlled Switch for all RC Receivers.",
+  "Description": "AVR Tiny based simple switch for any rc receiver. Allows to turn off / on lights, sound effect, retracts chassis, using free servo channel. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />AVR Tiny based simple switch for any rc receiver. Allows to turn off &#47; on lights, sound effect, retracts chassis, using free servo channel. <br /><br />Following project contains AVR Studio solution, pcb and schema files (Eagle) for remote controlled swich. I&#39;m using that switch for enable / disable LED light on wings of my flying model. This project is closed . There is no future development plans.<br /><br />To make it work you need, AVR Tiny 25 uC, two transistors, some AVR programmer and AVR Studio 5 or higher. <br /><br />RC Switch can be plugged into any receiver servo channel. It recognizes minimum and maximum position of radio stick. <br /><br />This video presents working module:<br /><a href=\"http://www.youtube.com/watch?v=CSmowMdxt6s\">http://www.youtube.com/watch?v=CSmowMdxt6s</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "AVR,Assembler,RC Switch,LED Remote Control,",
+  "LastEdited": "2012-10-16T14:53:19.097-07:00"
+}

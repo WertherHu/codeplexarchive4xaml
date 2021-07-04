@@ -1,0 +1,9 @@
+{
+  "ProjectName": "remotevoting",
+  "Title": "Remote Voting",
+  "Description": "Postgraduate work. The main aim is to create remote voting system addapted for Russian Federation. \r\nSome interesting staff regarding ICAO e-passport reading and image parsing. \r\nIt's developed in C#. Main technologies: WCF, WPF, EF 4.1, Unity, Smart Card protocols.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Postgraduate work. The main aim is to create remote voting system addapted for Russian Federation. <br />Some interesting staff regarding ICAO e-passport reading and image parsing. <br />It&#39;s developed in C&#35;. Main technologies&#58; WCF, WPF, EF 4.1, Unity, Smart Card protocols.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-02T04:12:03.22-08:00"
+}

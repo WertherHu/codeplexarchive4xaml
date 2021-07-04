@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TS3EzAdmin",
+  "Title": "Teamspeak 3 Ez Admin",
+  "Description": "This new Teamspeak 3 Admin Tool makes it easier for Server Administrators to easily Administrate their teamspeak 3 server.\r\nYou'll no longer have to resort to others to use the ServerQuery Commands that you may not know.\r\nIt's developed in vb.net, and soon to be a wpf application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This new Teamspeak 3 Admin Tool makes it easier for Server Administrators to easily Administrate their teamspeak 3 server.<br />You&#39;ll no longer have to resort to others to use the ServerQuery Commands that you may not know.<br />It&#39;s developed in vb.net, and soon to be a wpf application.<br /><br /><b>Known Bugs:</b><br />None - This project is still in alpha phase<br /><br /><b>ToDo:</b><br />VirtualServer Viewer<br />Better GUI<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-27T15:31:44.553-07:00"
+}

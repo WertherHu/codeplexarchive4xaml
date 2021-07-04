@@ -1,0 +1,9 @@
+{
+  "ProjectName": "notegarden",
+  "Title": "Note Garden",
+  "Description": "Note Garden is my extension to NodeGarden (http://alphalabs.codeplex.com) for Windows Phone 8, using Silverlight. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Note Garden is my extension to <a href=\"http://alphalabs.codeplex.com\">NodeGarden</a> for Windows Phone 8, using Silverlight. <br /><br /><div class=\"video\" style=\"text-align:Center\"><span class=\"player\"><object height=\"285px\" width=\"320px\"><param name=\"movie\" value=\"http://www.youtube.com/v/9Jr8T3lLuXg&amp;hd=1\"></param><param name=\"wmode\" value=\"transparent\"></param><embed height=\"285px\" width=\"320px\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" src=\"http://www.youtube.com/v/9Jr8T3lLuXg&amp;hd=1\" /></object></span><br /><span class=\"external\"><a href=\"http://www.youtube.com/watch?v=9Jr8T3lLuXg&amp;hd=1\" target=\"_blank\">Launch in another window</a></span></div><br /><br />Please see the Documentation section on how to get started using this code (certain files are required).<br /><br />Any issues, please contact via CodePlex or Twitter (<a href=\"http://www.twitter.com/keyboardp\">@keyboardP</a>).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-07T08:26:38.32-08:00"
+}

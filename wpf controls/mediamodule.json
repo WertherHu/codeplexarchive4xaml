@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mediamodule",
+  "Title": "Media module - Microsoft Dynamics CRM Add on",
+  "Description": "Media Module Management also called Media control for Microsoft Dynamamics CRM. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Media Module Management also called Media control for Microsoft Dynamamics CRM. <br /><br /><br /><b>Description</b><br />Media Module Management also called Media control for Microsoft Dynamamics CRM. You can add to any entity in CRM and then publish to try it. It&#39;s support for link images, link videos (Direct / Youtube / Vimeo). <br />It&#39;s also support media management like: add, edit, delete media.<br /><br /><b>Features</b><br />1.\tSet up a list of entities and users are using the Media module.<br />2.\tSet the parameters for Media Slideshow. <br />3.\tSet the mode of storing images and video<br />4.\tManage photos and videos on each entity (manager can add files as pdf, doc, ....). <br />5.\tSlideshow pictures and video.<br /><br />Please visit from website  <a href=\"http://www.crm-appstore.com/products/MediaApp/2013\">http://www.crm-appstore.com/products/MediaApp/2013</a><br /><br />Or <a href=\"http://www.tnsolutions.vn\">www.tnsolutions.vn</a><br /><br />Contact us: <a href=\"http://info@tnsolutions.vn\">info@tnsolutions.vn</a><br /><br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Media Module add on,MS CRM,Dynamics CRM,CRM,TN Solutions,Customize CRM,Add on CRM,",
+  "LastEdited": "2015-03-13T22:00:49.49-07:00"
+}

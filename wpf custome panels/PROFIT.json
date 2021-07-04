@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PROFIT",
+  "Title": "PROFIT",
+  "Description": "Perpetuum© MMO sci-fi game fitting tool.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><a href=\"http&#58;&#47;&#47;www.perpetuum-online.com&#47;\"><img src=\"/projects/PROFIT/2ef97fa5-c860-4323-a1d3-b475ea72135a\" alt=\"Visit&#32;Perpetuum&#32;website\" title=\"Visit&#32;Perpetuum&#32;website\" /></a><br /><br />Perpetuum&#169; MMO sci-fi game fitting tool. <br /><br /><br /><b><u>Some screenshots :</u></b><br />\n<h5>Main window :</h5>\r\n<img src=\"/projects/PROFIT/8f25bdd1-b1bd-4b3b-8bcc-d26ca9fa682a\" alt=\"Main&#32;view\" title=\"Main&#32;view\" /><br /><br /><img src=\"/projects/PROFIT/1bc7ab8e-8342-4865-a770-2c924ddd1c92\" alt=\"New&#32;empty&#32;fitting\" title=\"New&#32;empty&#32;fitting\" /><br /><br /><img src=\"/projects/PROFIT/f55f6460-a51c-409f-a220-31f3dba84dae\" alt=\"Fitted&#32;module&#32;details\" title=\"Fitted&#32;module&#32;details\" /><br /><br /><img src=\"/projects/PROFIT/5081dad6-567f-42a6-9533-72889dee652c\" alt=\"loaded&#32;ammunition&#32;details\" title=\"loaded&#32;ammunition&#32;details\" /><br />\n<h5>Agent details :</h5>\r\n<img src=\"/projects/PROFIT/2fa09d18-875c-404b-9089-96b7e5253801\" alt=\"Agent&#32;extensions&#32;view\" title=\"Agent&#32;extensions&#32;view\" /><br />\n<h5>Module info :</h5>\r\n<img src=\"/projects/PROFIT/06409f11-b25a-4736-91bf-3c23c2f2fad5\" alt=\"Module&#32;details\" title=\"Module&#32;details\" /><br />\n<h5>Robot features details :</h5>\r\n<img src=\"/projects/PROFIT/95ee3f57-6861-4954-9592-cfefd5204b4b\" alt=\"Robot&#32;features\" title=\"Robot&#32;features\" /><br /><br /><img src=\"/projects/PROFIT/de696410-c886-457a-9b0b-736f23902437\" alt=\"Robot&#32;bonuses\" title=\"Robot&#32;bonuses\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,C# 4.0,perpetuum,",
+  "LastEdited": "2011-09-27T04:11:42.963-07:00"
+}

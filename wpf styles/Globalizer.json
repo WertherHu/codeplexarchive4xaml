@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Globalizer",
+  "Title": "WPFSharp.Globalizer",
+  "Description": "WPFSharp Globalizer - A project deisgned to make localization and styling easier by decoupling both processes from the build.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project has moved to GitHub !</h1>\r<a href=\"http://rhyous.github.io/WPFSharp.Globalizer\">http://rhyous.github.io/WPFSharp.Globalizer</a><br /><br />A library for localizing WPF that decouples localization from build as well as providing the technology to change the language at runtime, including a separate style for the language.<br /><br />Get it from NuGet: <a href=\"https://www.nuget.org/packages/WPFSharp.Globalizer\">https://www.nuget.org/packages/WPFSharp.Globalizer</a><br /><br />Use XAML files that can be easily updated with any text editor. Never go into localization lock down again.<br /><br />English Example<br /><img src=\"/projects/Globalizer/02e5e681-129a-4726-85cd-95a1a7652f85\" alt=\"WPF&#32;Globalization&#32;Example&#32;English.png\" title=\"WPF&#32;Globalization&#32;Example&#32;English.png\" /><br /><br />Spanish Example<br /><img src=\"/projects/Globalizer/d9c227c4-29d0-4dc2-8108-2cd24ac08944\" alt=\"WPF&#32;Globalization&#32;Example&#32;Spanish.png\" title=\"WPF&#32;Globalization&#32;Example&#32;Spanish.png\" /><br /><br />Hebrew Example <br />(Note: I have no idea how accurate the words are. I just used Google to translate)<br /><img src=\"/projects/Globalizer/e9b1aece-d806-4339-8a0a-04265b9408c5\" alt=\"WPF&#32;Globalization&#32;Example&#32;Hebrew.png\" title=\"WPF&#32;Globalization&#32;Example&#32;Hebrew.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-05-06T14:14:14.927-07:00"
+}

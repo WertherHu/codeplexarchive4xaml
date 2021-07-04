@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xnaelectriceffect",
+  "Title": "XNA Electric Effect",
+  "Description": "An electric effect implemented using XNA 4 fro Windows Phone 7. It provides an easy way to configure settings to create realistic electric effects, lightening effects, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An electric effect implemented using XNA 4 fro Windows Phone 7. It provides an easy way to configure settings to create realistic electric effects, lightening effects, etc.<br /><br /><b>CatmullRom</b><br /><img src=\"http://download.codeplex.com/Download?ProjectName=xnaelectriceffect&amp;DownloadId=357435\" /><br /><br /><b>Line</b><br /><img src=\"http://download.codeplex.com/Download?ProjectName=xnaelectriceffect&amp;DownloadId=357433\" /><br /><br /><b>Bezier</b><br /><img src=\"http://download.codeplex.com/Download?ProjectName=xnaelectriceffect&amp;DownloadId=357434\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,windows phone,",
+  "LastEdited": "2012-03-21T23:24:57.647-07:00"
+}

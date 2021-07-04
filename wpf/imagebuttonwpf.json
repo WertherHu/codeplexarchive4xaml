@@ -1,0 +1,9 @@
+{
+  "ProjectName": "imagebuttonwpf",
+  "Title": "WPF - Image Button",
+  "Description": "WPF Image Button makes it easier to create buttons using XAML markup which include an image as part of their design.\r\nYou will no longer need to rewrite the control template for every button you have just to include an image beside some text.\r\nDeveloped in XAML and C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Image Button makes it easier to create buttons using XAML markup which include an image as part of their design.<br />You will no longer need to rewrite the control template for every button you have just to include an image beside some text.<br />Developed in XAML and C&#35;<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "sdm1,",
+  "LastEdited": "2010-09-10T07:00:49.07-07:00"
+}

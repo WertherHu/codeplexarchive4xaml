@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TouchGraphWP7",
+  "Title": "Touch Enabled Graph Control WP7",
+  "Description": "This is a high performance, custom graph control for the WP7 platform.  It supports user touch to scale and translate along the X-axis, accepts custom data to populate the graph, and can draw fill or line charts.  This control smoothly scales to hundreds of thousands of points.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a high performance, custom graph control for the WP7 platform.  It supports user touch to scale and translate along the X-axis, accepts custom data to populate the graph, and can draw fill or line charts.  This control smoothly scales to hundreds of thousands of points.<br /><br />For a demonstration of this graph, view <a href=\"http://www.youtube.com/watch?v=VIWNOCSc_is\">this video</a><br /><br />Learn more at the <a href=\"http://www.bryanalger.com/projects/wp7_graph.html\">creator&#39;s website</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight Controls,Silverlight 2.0,windows phone,Windows Phone 7,WP7,chart,graph,",
+  "LastEdited": "2011-04-24T14:58:01.467-07:00"
+}

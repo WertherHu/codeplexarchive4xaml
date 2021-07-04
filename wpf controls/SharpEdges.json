@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SharpEdges",
+  "Title": "Flat UI for ASP controls Sharp Edges زوايا حاده",
+  "Description": "This project is intended for developers who are looking a simple flat UI for ASP controls with right to left support \"RTL\" ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>&nbsp;</p>\r\n<h1>Sharp Edges UI -&nbsp; زوايا حاده</h1>\r\n<p><br>\r\nFlat UI &quot;Sharp Edges&quot; &quot;زوايا حاده&quot; for ASP controls. The project supports right to left &quot;RTL&quot; languages such as Arabic. Beta Version, works fine on chrome, firefox ...IE css needs some tuning.<br>\r\n<br>\r\nThe Demo for this project includes a set of ASP controls:</p>\r\n<ul>\r\n<li>Navigation Menu control </li><li>Textbox control </li><li>Button control </li><li>Search textbox control </li><li>Data Grid control </li><li>Dropdown list control </li><li>Check box control </li><li>Radio Button control </li><li>Tabs control </li><li>Log in control </li><li>Accordion control </li></ul>\r\n<p><br>\r\n<strong>Acknowledgements</strong></p>\r\n<ul>\r\n<li><a href=\"http://www.dfc-e.com/metiers/multimedia/opensource/jqtransform/\">jqTransform plugin\r\n</a></li><li><a href=\"http://fortawesome.github.io/Font-Awesome/\">Awesome Fonts </a></li><li><a href=\"http://icomoon.io/\">Icomoon Fonts </a></li><li><a href=\"http://tympanus.net/codrops/\">Codedrops</a> for awesome tutorials&nbsp;\r\n</li><li><a href=\"http://jquery.com/\">Jquery </a></li><li>Developed by Yasser Al ALwan </li></ul>\r\n<p>Any issues feel free to email me at yasser.alwan@gmail.com<br>\r\n<br>\r\n<img src=\"/projects/SharpEdges/8f8ee402-0277-4b47-aad2-a721f2bf4130\" alt=\"\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "UI,Flat,ASP,Controls,",
+  "LastEdited": "2013-08-30T22:43:57.037-07:00"
+}

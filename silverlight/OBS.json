@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OBS",
+  "Title": "Online Battlemat System",
+  "Description": "The Online Battlemat system is designed to eventually replace a typical battlemat used to play D&D. In the future, it will ideally allow for a shared battlemat experience over the internet.\r\n\r\nOBS is written in Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Online Battlemat system is designed to eventually replace a typical battlemat used to play D&#38;D. In the future, it will ideally allow for a shared battlemat experience over the internet.<br /><br />OBS is written in Silverlight.<br /><br />The idea is to give users an online, hosted battlemat grid surface, with markers for drawing, and tokens that represent characters. The software does not enforce or rely on any rules - leaving that up to the players (just like a real battlemat) gives the user more freedom and makes things faster and more natural. Right now there&#39;s no networking, but theoretically it would be some kind of peer-to-peer network with nonpersisted data.<br /><br />Here are some probably out-of-date screenshots with I guess lots of jpeg artifacts!<br /><img src=\"http://download.codeplex.com/download?ProjectName=obs&amp;DownloadId=203372\" /><br /><br /><img src=\"http://download.codeplex.com/download?ProjectName=obs&amp;DownloadId=203373\" /><br /><br /><img src=\"http://download.codeplex.com/download?ProjectName=obs&amp;DownloadId=203374\" /><br /><br /><img src=\"http://download.codeplex.com/download?ProjectName=obs&amp;DownloadId=203375\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-26T21:54:14.18-08:00"
+}

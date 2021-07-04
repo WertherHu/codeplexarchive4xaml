@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ErrorHandlingBlock",
+  "Title": "Error Handling Block",
+  "Description": "Provides customizable handling of transient errors. Built-in handlers for WCF, WebClient, HttpRequest. For .NET, Silverlight, Store App, Windows Phone.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Relocated to the <a href=\"https://errorhandlingblock.codeplex.com/wikipage?title=url%3ahttp%3a%2f%2ffreshmeat.codeplex.com&referringTitle=Home\">FreshMeat Project</a></h2>\r\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Error,Exception,Handling,Retry,Transient,Silverlight,.NET,Windows Phone,",
+  "LastEdited": "2013-03-08T23:43:32.513-08:00"
+}

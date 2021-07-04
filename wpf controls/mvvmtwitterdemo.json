@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmtwitterdemo",
+  "Title": "MVVM Twitter Demo",
+  "Description": "This project is for demo'ing the awesomeness and beauty of MVVM with WPF.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is for demo&#39;ing the awesomeness and beauty of MVVM with WPF.  <br /><br /><img src=\"http://www.intersoftpt.com/Support/ClientUI/Docs/images/MVVM_Overview.jpg\" /><br />(An MVVM overview)<br /><br />There are two versions in the source code - one using a custom MVVM framework tailored specifically for the needs of the app (which are small), and another reusing existing MVVM tools in a modular expansion that easily allows for functionality to be dropped in at a later time.<br /><br />I have tried to address real-world MVVM concerns in as condensed a fashion as possible, so feel free to peruse, tweak, break, and fix the code as you see fit as you begin or improve the way you use MVVM at work or play.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,WPF,C#,",
+  "LastEdited": "2014-03-14T12:27:57.087-07:00"
+}

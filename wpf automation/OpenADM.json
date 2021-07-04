@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OpenADM",
+  "Title": "OpenADM",
+  "Description": "OpenADM is collection of Tools and a System Framework that provides specifications to develop, build and operate a legal Windows-based \"distro\".",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />OpenADM is collection of Tools and a System Framework that provides specifications to develop, build and operate a legal Windows-based &#34;distro&#34;.<br /><br />The main OpenADM goals are:\n<ol><li>Provide a balanced technology-mix in order to deliver good quality, reliable, highly-automated and low cost services.</li>\n<li>Provide a low-cost, secure and manageable framework for users and IT staff in an increasingly complex environment.</li>\n<li>Provide a high degree of operational automation.</li></ol>\nOpenADM is a ThinkInBig project and can be reached at: <a href=\"http://thinkinbig.org/\">http://thinkinbig.org/</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "scripting,scripts,shell,automation,cmd,vbscript,powershell,Framework,distribution,administration,Operations,dfo,security,service delivery,delegation,ITIL,MOF,IOI,",
+  "LastEdited": "2009-02-15T04:11:25.05-08:00"
+}

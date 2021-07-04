@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winxappremover",
+  "Title": "WindowsXAppRemover",
+  "Description": "Remove Modern UI (Metro) Apps from Windows!\r\n\r\nWith the Windows X App Remover, you can easily read out which Apps are installed and remove the ones you don't want",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Remove Modern UI &#40;Metro&#41; Apps from Windows&#33;<br /><br />With the Windows X App Remover, you can easily read out which Apps are installed and remove the ones you don&#39;t want<br /><br /><img src=\"/projects/winxappremover/031b34e0-27a4-4ced-96a2-f9f3fc31339f\" alt=\"winxarscreen.png\" title=\"winxarscreen.png\" /><br />\n<h2>Info for Usage</h2>\r<ul><li>Supported Windows images: install.wim of Windows 8, Windows 8.1 and Windows 10. You may encounter errors with other .wim files.</li></ul>\n\n<ul><li>A help file is included in the program.</li></ul>\n\n<h2>System Requirements</h2>\r<ul><li>dotnet Framework 4.0 or higher</li>\n<li>For full support, you need Windows 10</li></ul>\nX -&gt; supported<br />_ -&gt; not supported<br /><br /><table><tr><th> Used OS </th><th> Windows 8 </th><th> Windows 8.1 </th><th> Windows 10 </th></tr>\n<tr><td> Windows 8 </td><td> X </td><td> <i>  </td><td> </i> </td></tr>\n<tr><td> Windows 8.1 </td><td> X </td><td> X </td><td> _ </td></tr>\n<tr><td> Windows 10 </td><td> X </td><td> X </td><td> X </td></tr></table><br /><br />\n<h2>Credits</h2>\rFabian Schmidt, 2016<br /><a href=\"http://www.f-tools.eu\">http://www.f-tools.eu</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro,App,Apps,Windows,Windows 8,Windows 8.1,Windows 10,Remover,Remove,X,",
+  "LastEdited": "2016-03-07T01:48:46.663-08:00"
+}

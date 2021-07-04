@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinectvoice",
+  "Title": "PowerPoint Kinect Voice Control",
+  "Description": "PowerPoint Kinect Voice Control provides control of PowerPoint to voice commands from the Kinect.  This allows the user to go navigate in the presentation using voice commands \"Forward\", \"Back\", etc.  This is a small sample of how the Kinect can be used for non-gaming projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nPowerPoint Kinect Voice Control provides control of PowerPoint to voice commands from the Kinect. This allows the user to go navigate in the presentation using voice commands &quot;Forward&quot;, &quot;Back&quot;, etc. This is a small sample of how the Kinect can be used for non-gaming\r\n projects.<br>\r\n<br>\r\n<br>\r\n<strong>Requirements</strong></p>\r\n<ul>\r\n<li>Kinect for Windows SDK beta </li><li>Microsoft PowerPoint </li></ul>\r\n<p><br>\r\n<strong>Usage</strong></p>\r\n<ul>\r\n<li>Compile and run the project. This will launch PowerPoint. </li><li>Start a slide show. From here the voice commands &quot;Forward&quot; and &quot;Next Slide&quot; will take you to the next slide in the slideshow (or step you thru an series of animations) and the commands &quot;Back&quot; and &quot;Previous Slide&quot; will take you back one.\r\n</li></ul>\r\n<p><br>\r\n<strong>Limitations</strong><br>\r\nCurrently the plugin is setup to always connect to the Kinect. No error handling is in place to handling the hardware not being connected. This will be added later.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-26T10:16:51.353-08:00"
+}

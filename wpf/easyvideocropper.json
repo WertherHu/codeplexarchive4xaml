@@ -1,0 +1,9 @@
+{
+  "ProjectName": "easyvideocropper",
+  "Title": "Easy Video Cropper",
+  "Description": "A simple application to make cropping videos easy for anyone.\r\n\r\n- Automatically detects black lines\r\n- Uses FFMPEG",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA simple application to make cropping videos easy for anyone.</p>\r\n<p>The goal is to use the least amount of steps&nbsp;to remove black lines (or&nbsp;any other parts of the video)&nbsp;and keep the same video quality while reducing the file size.</p>\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=easyvideocropper&DownloadId=304133\" alt=\"\"><br>\r\n<br>\r\n- Automatically detects black lines<br>\r\n- Uses FFMPEG</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,video,Media,cropper,C#,ffmpeg,video converter,",
+  "LastEdited": "2011-11-15T18:48:17.343-08:00"
+}

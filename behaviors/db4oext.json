@@ -1,0 +1,9 @@
+{
+  "ProjectName": "db4oext",
+  "Title": "Db4o Extensions",
+  "Description": "Db4o Extensions is a .NET library to ease database routines like creating composite keys, defining deletion behavior, data validation and transparent persistance.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Db4o Extensions is a .NET library to ease database routines like creating composite keys, defining deletion behavior, data validation and transparent persistance.<br /><br /><b>Key Features</b>\n<ul><li>composite keys for a class (including alternative composite keys)</li>\n<li>auto configuration for Unique attribute usage</li>\n<li>handling .NET data annotations for data validation</li>\n<li>deferred deletion support with different deletion behavior defined via attributes (Cascade, Set Null, Restrict)</li>\n<li>object consistency checking</li></ul>\n<a href=\"https://db4oext.codeplex.com/documentation?referringTitle=Home\">Documentation</a><br /><a href=\"https://db4oext.codeplex.com/wikipage?title=Example&referringTitle=Home\">Example</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "db4o,",
+  "LastEdited": "2012-05-28T02:46:49.387-07:00"
+}

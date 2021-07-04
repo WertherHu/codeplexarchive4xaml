@@ -1,0 +1,9 @@
+{
+  "ProjectName": "html5mediaplayer",
+  "Title": "HTML5 Media Player (Video / Audio)",
+  "Description": "A .NET implementation of the VideoJS and AudioJS open source projects with video and audio support for HTML5.  Excellent for use with iPod, iPad, iPhone, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA .NET implementation of the VideoJS and AudioJS open source projects with video and audio support for HTML5. Excellent for use enabling video and audio from your website to work with iPod, iPad, iPhone, etc.<br>\r\n<br>\r\n<img src=\"http://content.screencast.com/users/mjhufford/folders/Jing/media/94211bf4-1b94-4315-adbe-e08298449e92/00000002.png\" alt=\"\"><br>\r\n<br>\r\nOpen Source Project Websites:<br>\r\n<a href=\"http://videojs.com/\">http://videojs.com/</a><br>\r\n<a href=\"https://github.com/dz0ny/AudioJS\">https://github.com/dz0ny/AudioJS</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "HTML5,VideoJS,AudioJS,streaming,video,audio,Server Controls,UI Controls,",
+  "LastEdited": "2010-11-21T07:18:41.153-08:00"
+}

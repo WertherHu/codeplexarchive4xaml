@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TFSControl",
+  "Title": "TFS Control (Team Foundation Server Assistant)",
+  "Description": "This is an internal project developed at Dooblo (http://www.dooblo.net) to assist us in viewing what files were changed in the source control (using Microsoft's Team System).\nIt a great tool to track changes that had occurred at a specified time frame and are suspected of causing problems.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is an internal project developed at Dooblo (<a href=\"http://www.dooblo.net\">http://www.dooblo.net</a>) to assist us in viewing what files were changed in the source control (using Microsoft&#39;s Team System).<br />It a great tool to track changes that had occurred at a specified time frame and are suspected of causing problems.<br />Screen Shot: <br /><img src=\"/projects/TFSControl/ae999e02-bb46-477a-8388-e32a33913c94\" alt=\"ScreenShot.jpg\" title=\"ScreenShot.jpg\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Team System,Team Foundation,Team Foundation Serv,Source Control,Source Code Control,",
+  "LastEdited": "2008-05-15T23:46:06.013-07:00"
+}

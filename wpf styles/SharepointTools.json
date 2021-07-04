@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SharepointTools",
+  "Title": "SharepointTools",
+  "Description": "This Application was built to make it easier to handle SharePoint 2010 operations like deploying solutions or exporting SharePoint 2010 solutions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This Application was built to make it easier to handle SharePoint 2010 operations like deploying solutions or exporting SharePoint 2010 solutions.<br /><br /><b>Features</b><br />*Deploy solution packages.<br />*Import solution packages.<br /><br /><b>Environment</b><br />*Tested with SharePoint 2010.<br /><br /><img src=\"http://imageshack.com/a/img853/9578/cfnk.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,C#,Deployment,WPF,",
+  "LastEdited": "2014-10-12T11:36:19.51-07:00"
+}

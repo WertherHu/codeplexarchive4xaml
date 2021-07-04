@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metardotnet",
+  "Title": "Metar.NET",
+  "Description": "Metar.NET is a class library project to download metar information from National Weather Service and parse encoded metar strings into human readable format. We also have some plans to create windows forms and/or WPF client to display parsed weather information.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Metar.NET is a class library project to download metar information from National Weather Service and parse encoded metar strings into human readable format. We also have some plans to create windows forms and&#47;or WPF client to display parsed weather information.<br /><br /><b>About Metar</b><br />Current and recent METAR reports from around the world are available from the NWS either through this presentation or via anonymous FTP at <a href=\"http://ftp://tgftp.nws.noaa.gov/data/observations/metar\">ftp://tgftp.nws.noaa.gov/data/observations/metar</a>. METAR observations are available as individual reports or in cycle files. The information available here is represented in a meteorological code , however, extensive information is available about the METAR Code furnished by NESDIS.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-02-10T09:47:47.907-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfbehaviorlibrary",
+  "Title": "WPF Behavior Library",
+  "Description": "WPF Behavior Library is a set of additional actions for WPF that allow you to add extra behaviors to a control quickly and easily. Currently the only behavior is Drag & Drop but more are planned. Help, comments, and feedback are welcome.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">WPF Behavior Library is a set of additional actions for WPF that allow you to add extra behaviors to a control quickly and easily. Currently the only behavior is Drag &#38; Drop but more are planned. Help, comments, and feedback are welcome.<br /><br />If you find issues with any of the behaviors or have any suggestions please send an email or log them in the issue tracker.<br /><br />Current behaviors:\n<ul><li>Drag &amp; Drop in controls that inherit from ItemsControl (e.g. Listbox, ListView, TabControl). Based on <a href=\"http://gallery.expression.microsoft.com/en-us/DragDropBehavior\">an excellent behavior</a> by Ed Foh with additional tweaks and features.</li></ul>\n\n<h2>Examples</h2>\r\n<b>Simple Drag &amp; Drop Example</b><br /><br /><pre>\n&lt;ListBox Margin=&quot;5&quot; ItemTemplate=&quot;{StaticResource ListBoxDataTemplate}&quot;&gt;\n    &lt;Interaction:Interaction.Behaviors&gt;\n        &lt;dd:DragDropBehavior ItemType=&quot;{x:Type local:Person}&quot; DataTemplate=&quot;{StaticResource ListBoxDataTemplate}&quot; /&gt;\n    &lt;/Interaction:Interaction.Behaviors&gt;\n&lt;/ListBox&gt;\n</pre><br />\n<hr />\n<br /><b>Feature Roadmap</b><br />\n<ul><li>Drag &amp; Drop Behavior\n<ul><li>Allow dropping across windows</li>\n<li>Extend beyond ItemsControls</li></ul></li>\n<li>Numeric TextBox Behavior</li>\n<li>Virtual Keyboard Input Behavior</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Behaviors,DragDrop,Behavior,",
+  "LastEdited": "2010-06-06T11:23:24.73-07:00"
+}

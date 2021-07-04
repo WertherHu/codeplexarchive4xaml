@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aradblog",
+  "Title": "aradBlog",
+  "Description": "aradBlog is a full featured blog engine targeted at .NET developers. It is light weight and very simple to modify and extend. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />aradBlog is a full featured blog engine targeted at .NET developers. It is light weight and very simple to modify and extend. <br /><br /><br />Some notes:If you have problem using it,<br />1)give full permision to user &#39;ASPNET&#39; especially on folder &#39;App_Data&#39;<br />\t1-1)if you run it on your local host , right click on folder &#39;App_Data&#39; , goto Security tab , and add user ASPNET and give it full permision<br />\t1-2)if you run it on web , goto your control panel administration , and give the user APNET full access to folder &#39;App_Data&#39;<br />2)If you run it on your localhost , make VirtualDirectory in IIS.<br />3)Admin login URL : http://yourSiteName/newsadmin   UserName : admin,  PassWord : admin<br /><br />Have fun using it.<br />Arad Company Site: http://www.arad-itc.com/<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=aradBlog&amp;title=Arad Blog%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "blog,CMS,ASP.NET 2.0,Portal,ASP.NET Control,",
+  "LastEdited": "2010-01-21T14:21:32.173-08:00"
+}

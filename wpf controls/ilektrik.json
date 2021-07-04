@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ilektrik",
+  "Title": "Silverlight NumericUpDown with nullable types support",
+  "Description": "Silverlight NumericUpDown control with support for nullable data types (int/int?/double/double?....). ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight NumericUpDown control with support for nullable data types &#40;int&#47;int&#63;&#47;double&#47;double&#63;....&#41;. <br /><br />First public release 0.1:<br /><br />- Support for nullable numeric data types (int?, double?, float?, ....)<br />- Added fixes to some minor bugs found in standard numericUpDown (handling big (positive and negative) values)<br /><br />Probably there are still some bugs in my code. With your help I will try to correct them... So - feedback and any suggestions are welcome. <br /><br />Ilektrik</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-15T06:19:00.273-07:00"
+}

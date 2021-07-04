@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PanoramaBasedWebSite",
+  "Title": "Panorama Based Web Site",
+  "Description": "Generic web site example and web controls for use with SQL Server 2005 or 2008 and Panorama NovaView.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Generic web site example and web controls for use with SQL Server 2005 or 2008 and Panorama NovaView.<br /><br />The project now contains:\n<ul><li>PanoramaView web control</li>\n<li>UpdateDateLabel web control</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Panorama,SQL Server,SQL Server 2005,SQL Server 2008,Analysis Services,openup,",
+  "LastEdited": "2008-08-31T10:24:56.43-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UrduEnableTextBox",
+  "Title": "Urdu and Arabic enabled Text Box control",
+  "Description": "I want to create a user control i.e. textbox that will contain the functionality to type ARABIC or URDU .\r\nInitially i am using these two languages but later it will be expanded. I want to handle it by unicode so that storing textbox data to database and displaying data back to textbox will be handled.\r\nI want to develope it using C#. Any help or guidance will be appreciated.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Urdu Arabic Enabled TextBox control.<br /><br />This project is currently in setup mode and only available to project coordinators and developers. Once you have finished setting up your project you can publish it to make it available to all CodePlex visitors.<br /><br />There are three requirements before you publish:<br /><br />- Edit this page to provide information about your project<br />- Upload the initial source code for your project<br />- Add your project license<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-05-11T07:50:04.047-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "episerveresimp",
+  "Title": "EPiServer CMS ElencySolutions.ImageMap.Properties",
+  "Description": "The project provides two new EPiServer properties (ImageMap and HotSpot).\r\n\r\nThe properties use a silverlight image map editor for image map editing and hot spot picking.",
+  "MovedLink": "",
+  "HomeWiki": "\r\n<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>The ImageMap properties are for use in EPiServer CMS 6 and provide a user with an easy way to create image maps and pick hot spots on an image.</p>\r\n<p>The properties serialize and deserialize there values into strongly typed objects so the data is straight forward to work with for the developer.</p>\r\n<p>For more information please refer to the usage instructions below and the following blog posts:</p>\r\n<p><a href=\"http://world.episerver.com/Blogs/Lee-Crowe/Dates/2011/4/ElencySolutions-Image-Map-and-Hot-Spot-Editor-v10-Released/\" target=\"_blank\">ElencySolutions Image Map and Hot Spot Editor v1.0 Released</a></p>\r\n<p><strong>Requirements</strong></p>\r\n<p>To be able to use this plug-in you will need to have EPiServer CMS 6 or later which can be downloaded from\r\n<a href=\"http://world.episerver.com/en/Download/\" target=\"_blank\">EPiServer World</a></p>\r\n<p><strong><span style=\"color:#ff0000\">By far, the easiest way to install this is to install the nuget package from the\r\n<a href=\"http://nuget.episerver.com\" target=\"_blank\">EPiServer nuget feed</a></span></strong></p>\r\n</div>\r\n",
+  "TagList": "",
+  "LastEdited": "2011-11-30T07:00:25.727-08:00"
+}

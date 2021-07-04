@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ZipIt",
+  "Title": "ZipIt",
+  "Description": "Multi-threaded WPF app buillt with DotNetZip.\r\n\r\nThis app shows how to set up DotNetZip with WPF multi-threading it is also set up to password protect the archive",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Multi-threaded WPF app buillt with DotNetZip.<br /><br />This app shows how to set up DotNetZip with WPF multi-threading it is also set up to password protect the archive using AES256 encryption.<br /><br />This solution was written with C# and was built with Visual Studio 2013 Ultimate.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-02-19T16:40:56.407-08:00"
+}

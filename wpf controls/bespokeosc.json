@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bespokeosc",
+  "Title": "Bespoke Open Sound Control Library",
+  "Description": "A .NET Open Sound Control library.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A .NET Open Sound Control library.<br /><br />“Open Sound Control (OSC) is an open, transport-independent, message-based protocol developed for communication among computers, sound synthesizers, and other multimedia devices.” (from <a href=\"http://opensoundcontrol.org/spec-1_0\">http://opensoundcontrol.org/spec-1_0</a>)<br /><br />There are a number of OSC implementations, including a couple in C# (<a href=\"http://opensoundcontrol.org/implementation/osc-net-v1-2\">1</a>, <a href=\"http://luvtechno.net/d/1980/02/open_sound_control_for_net_2.html\">2</a>), but I decided to roll my own and make it freely available. This implementation sits atop the .NET 4.0 Framework and uses and uses TCP or UDP as the transport protocol. It includes support for Osc Messages and Bundles, and supports the following payload data types: Int32, Int64, Float, Double, String, Blob (byte array), Osc TimeTag, ASCII character, boolean, Nil, Infinitum, and RGBA color.<br /><br />The OscServer class is at the heart of the system, and includes support for unicast, broadcast, and multicast. As OSC packets, bundles, and messages are received corresponding events are fired. Additionally, the system will (optionally) filter Osc address patterns that the user registers.<br /><br />The package includes simple client and server examples in both C# and Visual Basic.NET.<br /><br />For more information, please visit <a href=\"http://www.bespokesoftware.org\">http://www.bespokesoftware.org</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,OSC,Open Sound Control,",
+  "LastEdited": "2012-06-06T08:52:33.583-07:00"
+}

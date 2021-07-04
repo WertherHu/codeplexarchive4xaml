@@ -1,0 +1,9 @@
+{
+  "ProjectName": "inmotion",
+  "Title": "InMotion - Venus2",
+  "Description": "This Project will target the SMC pollux with its text based interpreter language venus2.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This Project will target the SMC pollux with its text based interpreter language venus2.<br /><br />There will be a whole set of Functions in the framework to get and set the devices over the rs232 port. <br />Further documentation about venus2 and pollux http://www.micos.ws/Con_5018.html<br /><br />Planned:<br />\n<ol><li>Venus2 compatibel function set</li>\n<li>.NET for InMotion framework (C#)</li>\n<li>HPGL file-format for navigating the axis</li>\n<li>GUI / Component for visualizing and controlling the axis movement</li>\n<li>dynamic-language support (IronPython) for fast prototyping</li></ol>\n<br /> </div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,.NET 2.0,DLR,IronPython,Controls,WPF,WPF 3D,",
+  "LastEdited": "2007-11-29T15:02:20.577-08:00"
+}

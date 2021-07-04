@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfIpodControls",
+  "Title": "WpfIpodControls",
+  "Description": "It's an assembly that contains WPF styles and controls with IPod Touch look like",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />It&#39;s an assembly that contains WPF styles and controls with IPod Touch look like<br /><br /><br />At this time styles are defined only for following components :<br />- Button<br />- ListBox<br />- CheckBox<br /><br /><b>Screenshots :</b><br /><br /><img src=\"/projects/WpfIpodControls/b3a93220-d50a-4170-a915-b56f0ccb8888\" alt=\"pageScrollerDemo1.jpg\" title=\"pageScrollerDemo1.jpg\" /><br /><br />switches are checkboxes with a specific style<br /><br /><img src=\"/projects/WpfIpodControls/36913733-da27-4f0a-a02b-27c48406e558\" alt=\"lbScrollbarHighlighted.jpg\" title=\"lbScrollbarHighlighted.jpg\" /><br /><img src=\"/projects/WpfIpodControls/9856fdbe-c8a0-42b2-9ec7-805c93258a62\" alt=\"listboxdemo1.jpg\" title=\"listboxdemo1.jpg\" /><br />as on Ipod each item in Listbox is separated by a line<br /><img src=\"/projects/WpfIpodControls/b5c6260e-4133-4436-b535-50ef1d2fcfb0\" alt=\"pageScrollerDemo2.jpg\" title=\"pageScrollerDemo2.jpg\" /><br /><img src=\"/projects/WpfIpodControls/ab9eefdc-0322-493b-b487-de02a1c215f2\" alt=\"pageScrollerDemo3.jpg\" title=\"pageScrollerDemo3.jpg\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-05-03T06:54:15.863-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uritree",
+  "Title": "UriTree",
+  "Description": "UriTree is a tiny WPF application that solves the Favorites problem with an OPML-based XML file loaded in your System Notification Area as a cascading menu.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />UriTree is a tiny WPF application that solves the Favorites problem with an OPML-based XML file loaded in your System Notification Area as a cascading menu.<br /><br /><img src=\"http://farm5.static.flickr.com/4039/5153643940_8e4ea7c064.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "xml,OPML,WPF,System Tray,favorites,desktop tool,Windows 7,",
+  "LastEdited": "2010-11-06T23:44:25.903-07:00"
+}

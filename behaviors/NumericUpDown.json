@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NumericUpDown",
+  "Title": "NumericUpDown",
+  "Description": "An NumericUpDown control that demonstrates a clean and clear way to implement this common control:\r\n1. It uses an attached behavior to do regex input validation\r\n2. It supports decimal places and 1000 number groups\r\n3. It supports keyboard keys: Up/Down/Ctrl-Up/Ctrl-Down for small/large changes\r\n4. It supports databinding\r\n5. It's lookless",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An NumericUpDown control that demonstrates a clean and clear way to implement this common control&#58;<br />1. It uses an attached behavior to do regex input validation<br />2. It supports decimal places and 1000 number groups<br />3. It supports keyboard keys&#58; Up&#47;Down&#47;Ctrl-Up&#47;Ctrl-Down for small&#47;large changes<br />4. It supports databinding<br />5. It&#39;s lookless<br /><br /><img src=\"/projects/NumericUpDown/93d67af8-ceaa-4c50-81cd-25b2a02032d8\" alt=\"NumericUpDown.png\" title=\"NumericUpDown.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-20T07:54:46.223-07:00"
+}

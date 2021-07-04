@@ -1,0 +1,9 @@
+{
+  "ProjectName": "glassui",
+  "Title": "Glass UI",
+  "Description": "A Windows Forms Control Library built specifically for Aero Glass. This will consist of existing controls, modified to render on glass, as well as some completely custom controls. All controls will also render in non Aero projects, but the main focus will be on glass.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Windows Forms Control Library built specifically for Aero Glass. This will consist of existing controls, modified to render on glass, as well as some completely custom controls. All controls will also render in non Aero projects, but the main focus will be on glass.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-12T09:26:54.37-08:00"
+}

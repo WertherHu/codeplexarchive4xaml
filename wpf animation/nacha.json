@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nacha",
+  "Title": "NACHA C# Class with WPF Test App",
+  "Description": "Do you need to generate a NACHA PPD file? This is great starting point for you! Actually, it's a great, almost finished, point for you! More info below.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The WPF test app isn&#39;t coded.  I&#39;ll update it soon.<br /><br />Other than that, there&#39;s not much to say that isn&#39;t documented in the code.  The documentation tab has short descriptions of the solution and the two projects.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "NACHA,C#,Visual Studio 2012,WPF,",
+  "LastEdited": "2012-07-07T12:01:38.297-07:00"
+}

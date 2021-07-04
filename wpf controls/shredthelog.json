@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shredthelog",
+  "Title": "Shred the Log",
+  "Description": "Shred the Log is a SharedTalk.com chat client.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Shred the Log is a SharedTalk.com chat client.<br /><br /><b>Download</b><br /><a href=\"http://shredthelog.heliohost.org/download/setup.exe\">ClickOnce installer</a><br /><br /><b>Screenshots</b><br /><a href=\"http&#58;&#47;&#47;qwqg7w.bay.livefilestore.com&#47;y1ppE_hfttlZRPNA_kj01PYdNYyj8nMlfTAo4z9ExLFZ4y240ucDlksiFnb-YRQFPGUE3LIIEF1R839tmTpjvEmf9f7en8lmSvm&#47;MainWindow.png&#63;psid&#61;1\"><img src=\"/projects/shredthelog/5f22b17d-026c-478d-a345-fbebc47b6132\" alt=\"Main&#32;window\" title=\"Main&#32;window\" /></a><br /><img src=\"/projects/shredthelog/a31ecdda-77f6-4b6d-9c0e-66208dd9713d\" alt=\"Chat&#32;window\" title=\"Chat&#32;window\" /><br /><img src=\"/projects/shredthelog/e83af255-41e5-4b3a-b3e9-3db5b4183a6d\" alt=\"User&#32;profile\" title=\"User&#32;profile\" /><br /><br /><b>Similar Projects</b><br />There is another SharedTalk.com client app called <a href=\"http://lazunin.com/stclient_en.html\">Stclient</a>. It is cross-platform (since it is written in Python) and provides some unique features.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4.0,WPF,Chat,MEF,Theme,",
+  "LastEdited": "2010-07-07T02:21:34.173-07:00"
+}

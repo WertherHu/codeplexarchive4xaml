@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ezwpf",
+  "Title": "EzWPF",
+  "Description": "EzWPF privides common WPF utilities including converters & behavior factories so you don't have to re-work !\n\nThe project is developed in C# with .Net Framework 4.0",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />EzWPF privides common WPF utilities including converters &#38; behavior factories so you don&#39;t have to re-work &#33;<br /><br />The project is developed in C&#35; with .Net Framework 4.0<br /><br />Providing Utilties:\n<ul><li>JavaLongToDateConverter: Helps you converting a Long from Java Date into C# DateTime</li>\n<li>UrlToImageConverter: Helps you converting a image from http to xaml view, binding is also working!</li>\n<li>Control-Event to Command Factory: Helps you binding WPF control events into ICommand objects, which allows you to remove most all code-behindes and writing them in ViewModel when you&#39;re using a MVVM design pattern.  LoadedEvent of following controls are implemented\n<ul><li>Button, CheckBox, ComboBox, ContentControl, DataGrid, DatePicker, Expander, ItemsControl, ListBox, ListView, Menu, Password, Popup, Progress, TabControl, TextBlock, TreeView, WebBrowser.</li>\n<li>Some of them comes with ClickEvent or SelectionChangedEvent. You can put your own event into the code or enharitent them.</li></ul></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-30T21:50:08.197-07:00"
+}

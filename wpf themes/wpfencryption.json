@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfencryption",
+  "Title": "WPF Encryption",
+  "Description": "This develop a application for encryption/encode a string or checksum a file",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>WPF Encryption and Checksum</strong></p>\r\n<p><strong>This develop a application for encryption/encode a string or checksum a file.&nbsp;</strong></p>\r\n<table id=\"AutoNumber5\" border=\"0\" cellspacing=\"0\" width=\"100%\">\r\n<tbody>\r\n<tr>\r\n<td width=\"100%\">\r\n<p><strong>Major Features:</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"100%\">\r\n<ul>\r\n<li>\r\n<p>Support of 12 well-known and documented hash and checksum algorithms: <strong>\r\n&nbsp;MD4, MD5, SHA-1, SHA-2( 256, 384) CRC32, NTLM.</strong></p>\r\n</li><li>\r\n<p>Support of a custom hash algorithm (<strong>Encode</strong>-based) used in <strong>\r\nSHA-1</strong> and <strong>MD5</strong>&nbsp;applications.</p>\r\n</li><li>\r\n<p>Support of 2 input data formats: <strong>files </strong>and&nbsp;<strong>text strings</strong>.</p>\r\n</li><li>\r\n<p>Work with large size files.</p>\r\n</li><li>\r\n<p>Calculates hash/checksum &nbsp;for files of any type: music, audio, sound, video, image, icon, text, compression, etc., with the extensions: .mp3, .wav, .avi, .mpg, .midi, .mov, .dvd, .ram, .zip, .rar, .ico, .gif, .pif, .pic, .tif, .tiff, .txt, .doc, .pdf,\r\n .wps, .dat, .dll, .hex, .bin, .iso, .cpp, .dss, .par, .pps, .cue, .ram, .md5, .sfv, etc</p>\r\n</li><li>\r\n<p>Enable drop file into windows to checksum</p>\r\n</li></ul>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-20T01:31:18.377-07:00"
+}

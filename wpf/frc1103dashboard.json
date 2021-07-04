@@ -1,0 +1,9 @@
+{
+  "ProjectName": "frc1103dashboard",
+  "Title": "FRC1103 - FRC Dashboard viewer",
+  "Description": "This dashboard viewer and library is intended to be an alternative to the LabView dashboard viewer provided by FIRST and NI.\n\nIt supports both dashboard data and video streaming from the robot camera.\n\nIt is written in VB.net, using WPF, Prism, and Unity.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This dashboard viewer and library is intended to be an alternative to the LabView dashboard viewer provided by FIRST and NI.<br /><br />It supports both dashboard data and video streaming from the robot camera.<br /><br />It is written in VB.net, using WPF, Prism, and Unity.<br /><br /><b>Technologies</b><br />This project is written in VB.net for the PC side, and the example apps for the robot side are written in Wind River C++. The robot side code is a extended version of the WPILib dashboard demo code.<br /><br />The PCs side uses relatively straight forward .net code. There are some asynchronous network calls, but nothing more complicated than that. The UI is written in WPF, and uses Prisim to allow easy integration of other functionality. Users are able to create their own dashboard views, and by using WPF data binding are it is very quick and easy to customize the UI. For more information about modification see <a href=\"https://frc1103dashboard.codeplex.com/wikipage?title=Creating%20a%20custom%20dashboard%20view&referringTitle=Home\">Creating a custom dashboard view</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "FRC,Dashboard,.net,vb.net,c++,",
+  "LastEdited": "2009-02-07T18:03:04.427-08:00"
+}

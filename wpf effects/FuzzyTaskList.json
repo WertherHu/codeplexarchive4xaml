@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FuzzyTaskList",
+  "Title": "Fuzzy Task List",
+  "Description": "The fuzzy task list is for the kinds of tasks that don't have fixed times, such as:\n* getting a hair cut \n* going to dentist \n* keeping in touch with old friends\nA traditional calendar approach doesn't work for these kind of activities, as there's no impact if you miss the date by a few days.\nThe Project FuzzyTaskList is meant an open source version of the product Sciral Consistency.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The fuzzy task list is for the kinds of tasks that don&#39;t have fixed times, such as&#58;<br />&#42; getting a hair cut <br />&#42; going to dentist <br />&#42; keeping in touch with old friends<br />A traditional calendar approach doesn&#39;t work for these kind of activities, as there&#39;s no impact if you miss the date by a few days.<br />The Project FuzzyTaskList is meant an open source version of the product Sciral Consistency.<br /><br /><br /><br /><b>Installation</b><br /><a href=\"http://squidnet.com/ftl/publish.htm\">install the application via ClickOnce</a><br /><br /><b>Screen Shot</b><br /><img src=\"/projects/FuzzyTaskList/436d385a-0c0d-4945-96ca-4764ccd5ed71\" alt=\"Capture.JPG\" title=\"Capture.JPG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 3.5,WPF,tasks,Applications,task,",
+  "LastEdited": "2008-04-06T15:07:24.13-07:00"
+}

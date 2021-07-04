@@ -1,0 +1,9 @@
+{
+  "ProjectName": "soundswitch",
+  "Title": "SoundSwitch",
+  "Description": "SoundSwitch makes it easier to switch playback devices (sound cards).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Important: Soundswitch moved to GitHub</h1>\r<h2>Soundswitch v3+ (is on <a href=\"https://github.com/Belphemur/SoundSwitch\">GitHub</a>)</h2>\rThanks to Belphemur (Antoine) there&#39;s now a SoundSwitch which works on Windows 10!  <br />You can find it <a href=\"https://github.com/Belphemur/SoundSwitch/releases\">here</a>.  <br />It&#39;s been tested on Windows 7 &amp; 10.  <br />If you encounter any errors create an issue <a href=\"https://github.com/Belphemur/SoundSwitch/issues\">on GitHub</a>. (And not on CodePlex)<br />\n<h2>Thanks to:</h2>\r<a href=\"http://www.codeplex.com/site/users/view/gregmac\">gregmac</a><br />For the named sound devices (now you don&#39;t have to fiddle with numbers anymore!)<br />Easy manual switching between devices by clicking the SoundSwitch icon.<br /><br /><a href=\"https://github.com/Belphemur\">Belphemur</a><br />For taking over the development of SoundSwitch.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sound control,usb to headphone,sound panel,#good,",
+  "LastEdited": "2016-02-08T00:16:47.51-08:00"
+}

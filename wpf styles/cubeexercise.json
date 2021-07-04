@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cubeexercise",
+  "Title": "CubeExercise",
+  "Description": "It is a program which helps you to practise the Rubik's Cube.\nIt's developed in C#, with WPF and .NET 3.5.\nThe UI has Chinese version only. It is not localized yet (but I do have the plan).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />It is a program which helps you to practise the Rubik&#39;s Cube.<br />It&#39;s developed in C&#35;, with WPF and .NET 3.5.<br />The UI has Chinese version only. It is not localized yet &#40;but I do have the plan&#41;.<br /><br />To download the executables, visit &quot;Downloads&quot; page.<br />To view or download the source code, visit &quot;Source Code&quot; page.<br />To report a bug, request a feature, or add a comment, visit &quot;Issue Tracker&quot; page.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Rubik's Cube,cube,",
+  "LastEdited": "2009-09-13T03:48:10.2-07:00"
+}

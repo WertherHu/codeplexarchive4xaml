@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpf2dphysicsplus",
+  "Title": "WPF 2D Physics+",
+  "Description": "WPF2DPhysics+ builds on the WPF 2D Physics Demo developed by Chris Cavanagh.\n\nIt will provide additional \"coolness\" by adding ability to remove, nudge, drag, rotate objects in the 2D scene.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF2DPhysics&#43; builds on the WPF 2D Physics Demo developed by Chris Cavanagh.<br /><br />It will provide additional &#34;coolness&#34; by adding ability to remove, nudge, drag, rotate objects in the 2D scene.<br /><br /><br />Current version adds<br /><br />1) Rotate Objects -- click the scroll wheel - scroll wheel will then rotate the object -- click again to stop rotation<br />2) Sound when bodies collide -- not very good at the moment<br />3) Explosion sound when a body is &quot;clicked and removed&quot; from the world<br />4) Fixes some bugs in the Newton wrapper -- GET procedures were not marshalling correctly<br /><br />Previous versions implemented<br /><br />1) LB Click to remove body<br />2) LB Click and Flick to move body<br />3) Expander for buttons<br />4) Controlling number of bodies dropped into the world<br />5) RB Click to Drag<br />6) Body glows on mouse entry<br /><br />Goal for Next Version<br /><br />1) Better sound<br /><br />Limitations:<br /><br />1) Platforms cannot be pushed or rotated<br /><br />See the issue tracker for latest bug status.<br /><br />You can follow my WPF learning experience @ <a href=\"http://wpfexperiences.blogspot.com/\">http://wpfexperiences.blogspot.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF 2D,Newton Dynamics,Physics,",
+  "LastEdited": "2009-07-18T22:19:58.973-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "critex",
+  "Title": "Critex: A simple Metro-inspired CMS",
+  "Description": "CMSes are often really a tease to integrate, and often offer more than needed. Critex is just simple.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nCritex is a simple developer-friendly CMS that you add to your solution and use with ease.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "cms,metro,mvc,",
+  "LastEdited": "2012-06-25T03:56:56.827-07:00"
+}

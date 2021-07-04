@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ybotfieldcontrol2014",
+  "Title": "YBOT Field Control - 2014",
+  "Description": "YBOT Field Control program for the 2014 game.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />YBOT Field Control program for the 2014 game.<br /><br /><br />Basic Field control program for Youth B.O.T.&#39;s game field. It is used as a template to create new games every year. <br /><br /><br />Basic Field control program for Youth B.O.T.&#39;s game field. It is used as a template to create new games every year.<br /><br />It uses a windows pc to communicate to DS2408 1-wire nodes and xbee arduino node. It is used to control field lights as well and receive input from the field. It is also used to switch on the game controllers, game timing, and scoring.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ybot,youthbot,youth b.o.t.,youth bot,1-wire,xbee,2014,",
+  "LastEdited": "2013-09-09T16:36:46.313-07:00"
+}

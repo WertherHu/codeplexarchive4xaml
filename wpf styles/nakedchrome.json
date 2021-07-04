@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nakedchrome",
+  "Title": "NakedChrome",
+  "Description": "NakedChrome（すっぽんぽんくろーむ） launches Google Chrome with initial profile. After using it, NakedChrome roll-backs profile to the one using usually. It's developed in C#/WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>This project is for Google Chrome v16.0 or lower. Don&#39;t use it with current version of Google Chrome.</b><br /><br />NakedChrome&#65288;すっぽんぽんくろーむ&#65289; launches Google Chrome with initial profile. After using it, NakedChrome roll-backs profile to the one using usually. It&#39;s developed in C&#35;&#47;WPF.<br />\n<h1>What is this ?</h1>\r\nNakedChrome launched Google Chrome with the initial profile, not with the profile you are using every day. When you want to take a screenshot of DEFAULT Google Chrome, or when you try extension in plain environment, it helps you. After using DEFAULT Google Chrome, NakedChrome set Google Chromes&#39; profile to the one witch you are using.<br /><br /><b>.NET Framework 4 is required.</b><br />\n<h1>How to use ?</h1>\r\n<ul><li>Launch and <a href=\"https://nakedchrome.codeplex.com/wikipage?title=Kill%20Google%20Chrome%27s%20Process&referringTitle=Home\">Kill Google Chrome&#39;s Process</a> and <a href=\"https://nakedchrome.codeplex.com/wikipage?title=Launch%20Naked%20Chrome&referringTitle=Home\">Launch Naked Chrome</a>.</li>\n<li>Use from Jump List without UI (Windows 7 only).</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Google Chrome,",
+  "LastEdited": "2013-03-23T23:56:43.757-07:00"
+}

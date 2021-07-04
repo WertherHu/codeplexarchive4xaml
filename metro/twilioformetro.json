@@ -1,0 +1,9 @@
+{
+  "ProjectName": "twilioformetro",
+  "Title": "Twilio for Windows 8 \"Metro-style\" Applications",
+  "Description": "This example is specifically designed to show how to leverage existing .NET skillsets to build Windows 8 \"Metro-style\" applications, using the outstanding Twilio platform, and the Twilio.Api library from John Sheehan.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis example is specifically designed to show how to leverage existing .NET skillsets to build Windows 8 &quot;Metro-style&quot; applications, using the outstanding Twilio platform, and the Twilio.Api library from John Sheehan.<br>\r\n<br>\r\nTo get started, open MainPage.xaml.cs, and insert your API credentials into lines 102 and 103. Then compile and deploy.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-02T21:33:48.917-07:00"
+}

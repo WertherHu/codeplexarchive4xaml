@@ -1,0 +1,9 @@
+{
+  "ProjectName": "2dspriteeditor",
+  "Title": "2D Sprite Editor",
+  "Description": "This is a 2d sprite editor. Import your sprite sheet, trace your animations frame and export the coordinates points in a simple txt file, ready to import.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />2D Sprite Editor &#232; un tool per lo sviluppo di videogame bidimensionali. Permette di importare le &quot;strisce&quot; di sprite, &quot;ricalcarle&quot; e quindi esportare le coordinate dei fotogrammi delle varie animazioni in un file di testo generico, pronto per essere importato in un qualsiasi altro engine.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-29T11:53:13.257-08:00"
+}

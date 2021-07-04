@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sl5",
+  "Title": "Silverlight 5 MarkupExtensions and Other Utilities",
+  "Description": "This project contains a replacement for certain WPF functionalities in SL5.\r\n\r\nCurrently contains \r\n<ul>\r\n<li>TypeExtension</li>\r\n<li>StaticExtension</li>\r\n<li>MultiBinding (and IMultiValueConverter)</li>\r\n<li>ObjectDataProvider</li>\r\n<li>ArrayExtension</li>\r\n</ul>",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description:</strong></p>\r\n<p><strong></strong><br>\r\nThis project contains a replacement for certain WPF functionalities in SL5.&nbsp; Currently the project contains&nbsp;6 markup extensions with more on the way:</p>\r\n<ul>\r\n<li>TypeExtension - reference types to set on properties. </li><li>StaticExtension - get the value of a static field or property. </li><li>MultiBinding (and IMultiValueConverter) - allows data binding to be performed on a single property from more than one source.&nbsp; (I.E. bind three byte values into an RGB for a color)\r\n</li><li>ObjectDataProvider- call static methods or parametrized constructors (including a fairly competent overload resolver).\r\n</li><li>ArrayExtension - easily declare an array and initialize it from a collection of elements.\r\n</li><li>CompositeCollection (and CollectionContainer)- declare a collection that is itself made up of smaller collections.&nbsp; The created collection will correctly respond to collection change events from the smaller parts and translate them to collection changed\r\n events on the outer collection. </li></ul>\r\n<p>A sample application is included in the source code and it contains a single XAML&nbsp;page using all of the markup extensions.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-09T10:46:54.247-07:00"
+}

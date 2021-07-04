@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slsouthpark",
+  "Title": "Silverlight South Park Animation",
+  "Description": "This is a prototype application I'm working on for my daughter, which uses some of the South Park characters being animated; this is being built in Expression Designer and Blend. \r\n\r\nAll graphics are built in Designer and exported as XAML then converted into user controls in Blend.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a prototype application I&#39;m working on for my daughter, which uses some of the South Park characters being animated&#59; this is being built in Expression Designer and Blend. <br /><br />All graphics are built in Designer and exported as XAML then converted into user controls in Blend.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-28T16:17:18.897-07:00"
+}

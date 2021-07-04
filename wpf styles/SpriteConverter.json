@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SpriteConverter",
+  "Title": "2.5D Sprite Converter",
+  "Description": "Light weight sprite converter for UnityEditor.\r\nCreate 2.5D style sprite sheet from given GameObject or Prefab.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>2.5D Sprite Converter</h1>\r\nLight weight sprite converter for UnityEditor.<br />Create 2.5D style sprite sheet from given GameObject or Prefab.<br />\n<h2>Get here: <a href=\"http://u3d.as/GTd\">http://u3d.as/GTd</a> (still pending review 2017-1-12)</h2>\r\nWorks well on all the version of Unity 5.X. <br /><br />How To Use: <br />1, Select your model. <br />2, Click &quot;Create&quot; button. <br /><br />○ Easy To Use: Create sprites by only one click. <br />○ Well Organized: Sprites from same model have the same size, and the pivot always fit the 3D pivot of the model. <br /><br />○ Powerful: You can ajust the edge color, light intensity, view angles, etc... <br />\n<hr />---- ∠( ᐛ 」∠)＿ -------- <br />Twitter @_Moenen <br />QQ 1182032752 <br />EMail moenenn@163.com<br /><br /><img src=\"/projects/SpriteConverter/c3421855-b8e5-4475-8b28-e7f86c43e256\" alt=\"0.png\" title=\"0.png\" /><br /><br /><img src=\"/projects/SpriteConverter/d201f293-0ff1-4bdf-8a6f-cd14467ef92e\" alt=\"1.png\" title=\"1.png\" /><br /><br /><img src=\"/projects/SpriteConverter/5b2321e2-5ea5-46ab-b871-19bc28ceca79\" alt=\"2.png\" title=\"2.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-01-12T03:21:34.23-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xmlgrid",
+  "Title": "XmlGridControl",
+  "Description": "XmlGridControl is .NET Windows Forms grid control for view XML data in a table format.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />XmlGridControl is .NET Windows Forms grid control for XML data in table format viewing. <br />Adding this controls gives your application an opportunity to have a professional XML-editor appearance. <br /><br /><img src=\"/projects/xmlgrid/241931cb-51a7-437f-a423-8be9e50d0729\" alt=\"XmlGridDemo.jpg\" title=\"XmlGridDemo.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "GridView,xml,Windows Forms,viewer,control,datagrid,",
+  "LastEdited": "2010-01-05T12:11:00.95-08:00"
+}

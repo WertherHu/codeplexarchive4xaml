@@ -1,0 +1,9 @@
+{
+  "ProjectName": "reggie",
+  "Title": "Reggie - Regular Expression Generator/Tester",
+  "Description": "Reggie's goal is to be a simple developer tool for writing and testing Regular Expressions. It is inspired by the venerable Regulator tool and will be created in WPF using the MVVM pattern with the Caliburn Micro framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rReggie&#39;s goal is to be a simple developer tool for writing and testing Regular Expressions. It is inspired by the venerable Regulator tool and will be created in WPF using the MVVM pattern with the Caliburn Micro framework.<br />\n<h1>Version 0.2</h1>\r<ul><li>Rebuilt with Caliburn Micro framework.</li>\n<li>Using Ninject for Inversion of Control.</li>\n<li>Simplified architecture - removed separate business layer because the business logic is so light that it is not worth the effort (20 lines!). Will refactor if doing so provides a real benefit.</li></ul>\n<br /><img src=\"/projects/reggie/b8d2a400-8588-495a-bfd0-203d94dfc633\" alt=\"Reggie&#32;0.2\" title=\"Reggie&#32;0.2\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "regex,Regular Expressions,WPF MVVM,WPF,",
+  "LastEdited": "2012-04-17T19:18:51.283-07:00"
+}

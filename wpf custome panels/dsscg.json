@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dsscg",
+  "Title": "WSO2 Data Service Server Code Generator for C#.NET",
+  "Description": "This is a tool which helps .NET developers to work with WSO2 Data Service.\r\n\r\nThe code generation includes Data Service Definition, C# Proxies and View Models.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>WSO2 Data Service Server Code Generator for C#.NET</b><br /><i>A Code Generator based on .NET technology for using DSS data services.</i><br /><br />Any issues please contact <u>Goudarzi@live.com</u></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,xml,WPF,Code Generator,web service,Wsdl,DSS,viewmodel,WSO2,Data Service,",
+  "LastEdited": "2014-02-11T19:43:31.86-08:00"
+}

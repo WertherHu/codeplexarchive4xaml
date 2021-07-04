@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flowwpf",
+  "Title": "Flow WPF - Flow diagram framework for WPF",
+  "Description": "This project aims to create a framework to create applications that draws diagrams with drag-n-drop functionality and smart routing using MVVM pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>FlowWPF - Demo</p>\r\n<p><br>\r\nThis project aims to create a framework to create applications that draws diagrams with drag-n-drop functionality and smart routing using MVVM pattern.</p>\r\n<p><span style=\"text-decoration:line-through\">The FlowWPF project is not yet open to the public. This is just a demo to see it in action!</span></p>\r\n<p><span style=\"text-decoration:line-through\">Nuget available at https://www.nuget.org/packages/FlowWPF</span></p>\r\n<p><span style=\"text-decoration:line-through\">Enjoy.</span></p>\r\n<p>&nbsp;</p>\r\n<h3>22/8/2016:</h3>\r\n<h3>Due to&nbsp;licensing issues and server costs, FlowWPF will be discontinued on September 1st. Thanks to all who used it and supported us with feedback.</h3>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-08-31T12:33:58.843-07:00"
+}

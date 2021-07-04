@@ -1,0 +1,9 @@
+{
+  "ProjectName": "opendialog",
+  "Title": "WPF Open Dialog",
+  "Description": "WPF Open Dialog is a simple and free open file/folder dialog for WPF using MVVM pattern. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Open Dialog is a simple and free open file&#47;folder dialog for WPF using MVVM pattern. <br />\n<h1>Features</h1>\r<ul><li>Open file dialog</li>\n<li>Folder browser dialog</li>\n<li>Save file dialog</li>\n<li>File filter by extension</li>\n<li>Customizable date format</li>\n<li>Customizable texts of UI elements</li>\n<li>Setting owner and startup location</li></ul>\n\n<h1>Screenshots</h1>\r\nOpen File Dialog:<br /><img src=\"/projects/opendialog/76f4e694-4104-4a60-8a6e-673293c4403c\" alt=\"OpenFileDialog.png\" title=\"OpenFileDialog.png\" /><br /><br />Open File Dialog with file filter by file extension:<br /><img src=\"/projects/opendialog/05c307fe-bc83-46c2-b9ad-a71001b32c0d\" alt=\"OpenFileDialogFilter.png\" title=\"OpenFileDialogFilter.png\" /><br /><br />Open Folder Dialog:<br /><img src=\"/projects/opendialog/8375df3b-4554-44b0-9b73-0d2f07547d72\" alt=\"OpenFolderDialog.png\" title=\"OpenFolderDialog.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "open,open dialog,open file dialog,open folder dialog,wpf,C#,xaml,file picker,file browser,file chooser,folder picker,folder browser,folder chooser,directory picker,directory browser,directory chooser,file explorer,save,save dialog,save file dialog,",
+  "LastEdited": "2013-01-18T14:12:32.927-08:00"
+}

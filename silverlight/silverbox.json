@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverbox",
+  "Title": "SilverBox",
+  "Description": "SilverBox (aka SilverlightHelper) is a silverlight class library that helps you to develope faster your apps.\n\n- Logging\n- Debugging\n- Serialization\n- Mouse events (Double Click or Mouse Wheel on a DataGrid)\n- VisualTree Helper\n- Common Extension Methods\n\nIt's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverBox &#40;aka SilverlightHelper&#41; is a silverlight class library that helps you to develope faster your apps.<br /><br />- Logging<br />- Debugging<br />- Serialization<br />- Mouse events &#40;Double Click or Mouse Wheel on a DataGrid&#41;<br />- VisualTree Helper<br />- Common Extension Methods<br /><br />It&#39;s developed in C&#35;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2009-08-26T14:03:47.997-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simplefilesearch",
+  "Title": "Simple File Search Tool",
+  "Description": "A simple yet extensible WPF-based file search tool.\r\nJust an example of using MVVM approach (thanks to Caliburn.Micro) in WPF applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A simple file search tool with plugin support<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-28T08:28:45.823-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MassRenamer",
+  "Title": "MassRenamer",
+  "Description": "MassRenamer makes it easier to do mass file renaming for a directory. MassRenamer allows replacement (with wildcards), trimming start and end, capitalization, replacing underscores and dashes, and more. It also has an on the fly preview of changes. It is developed in C#/WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MassRenamer makes it easier to do mass file renaming for a directory. MassRenamer allows replacement &#40;with wildcards&#41;, trimming start and end, capitalization, replacing underscores and dashes, and more. It also has an on the fly preview of changes. It is developed in C&#35;&#47;WPF.<br /><br />Currently only does names, although I am looking into support the editing of music tags.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 3.5 SP1,C# 3.0,WPF,TextBead,",
+  "LastEdited": "2008-11-06T19:54:37.087-08:00"
+}

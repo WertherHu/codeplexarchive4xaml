@@ -1,0 +1,9 @@
+{
+  "ProjectName": "linquid",
+  "Title": "Linquid",
+  "Description": "Linquid is a functional GUI library for .NET 3.5, Mono 2.0 and .NET Compact Framework 3.5. \nIt provides LINQ interface to layout of WinForms controls and \ncomposition of reactive values.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>About</b><br /><br />Linquid is a functional GUI library for .NET 3.5, Mono 2.0 and .NET Compact Framework 3.5. <br />It provides LINQ interface to layout of WinForms controls and <br />composition of reactive values.<br />Design of the library was inspired by Conal Elliott&#39;s <a href=\"http://www.haskell.org/haskellwiki/Phooey\">Phooey</a>.<br /><br /><b>Samples</b>\n<ul><li><a href=\"https://linquid.codeplex.com/wikipage?title=Basic%20sample&referringTitle=Home\">Basic sample</a></li>\n<li><a href=\"https://linquid.codeplex.com/wikipage?title=Transforming%20sources&referringTitle=Home\">Transforming sources</a></li>\n<li><a href=\"https://linquid.codeplex.com/wikipage?title=Calculator&referringTitle=Home\">Calculator</a></li>\n<li><a href=\"https://linquid.codeplex.com/wikipage?title=Layout&referringTitle=Home\">Layout</a></li>\n<li><a href=\"https://linquid.codeplex.com/wikipage?title=Inserting%20controls&referringTitle=Home\">Inserting controls</a></li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "LINQ,.NET 3.5,GUI,",
+  "LastEdited": "2008-12-05T14:36:26.31-08:00"
+}

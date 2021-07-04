@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ChalkExtensions",
+  "Title": "Graffiti CMS Chalk Extensions",
+  "Description": "Custom Chalk Extensions for Telligent's Graffiti CMS product - http://graffiticms.com/\n\nGraffiti CMS is a simple content management system from Telligent. Graffiti uses Chalk to render themes. Chalk a very simple templating language - a combination of NVelocity and Graffiti goodies. This project contains Chalk extensions which adds some features and operations that are missing from the current release of Graffiti. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Custom Chalk Extensions for Telligent&#39;s Graffiti CMS product - http&#58;&#47;&#47;graffiticms.com&#47;<br /><br />Graffiti CMS is a simple content management system from Telligent. Graffiti uses Chalk to render themes. Chalk a very simple templating language - a combination of NVelocity and Graffiti goodies. This project contains Chalk extensions which adds some features and operations that are missing from the current release of Graffiti. <br /><br />Chalk Extensions currently contains the following methods:<br />\n<ul><li>public PostCollection GetAllPostsForCategory(string categoryName)</li>\n<li>public Post GetNextPostForCategory(string categoryName, Post currentPost)</li>\n<li>public Post GetPreviousPostForCategory(string categoryName, Post currentPost)</li>\n<li>public PostCollection SortPostsAscending(PostCollection posts, string propertyName)</li>\n<li>public PostCollection SortPostsDescending(PostCollection posts, string propertyName)</li>\n<li>public PostCollection Randomize(PostCollection original, int numberOfPosts)</li>\n<li>public PostCollection GetRandomPostsForCategory(string categoryName, int numberOfPosts)</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Graffiti,Telligent,Grafitti,",
+  "LastEdited": "2008-03-15T18:37:02.103-07:00"
+}

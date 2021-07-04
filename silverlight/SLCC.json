@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLCC",
+  "Title": "Silverlight Code Camp Reference Implementation",
+  "Description": "Silverlight Code Camp Website Australia 2011. \r\n\r\nTechnology: C#, Silverlight, Asp.Net MVC, jQuery\r\n\r\nFeatures: CodeCamp Sessions, Location Map, User Voting, Registration (via EventBrite), Down Level Experience, Mobile Browsers friendly CSS\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Silverlight Code Camp Website Australia 2011.</b><br /><br />Technology: C#, Silverlight, Asp.Net MVC, jQuery<br /><br />Features: \n<ul><li>CodeCamp Sessions</li>\n<li>Location Map</li>\n<li>User Voting</li>\n<li>Registration (via EventBrite)</li>\n<li>Down Level Experience</li>\n<li>Mobile Browser friendly CSS</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SLCC,Silverlight,Code Camp,MVC,",
+  "LastEdited": "2010-12-21T21:52:34.697-08:00"
+}

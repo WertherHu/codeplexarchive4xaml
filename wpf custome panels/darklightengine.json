@@ -1,0 +1,9 @@
+{
+  "ProjectName": "darklightengine",
+  "Title": "DarkLight Engine",
+  "Description": "Le DarkLight engine est un moteur 3D basé programmé en C# et utilisant les API DirectX10 et WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>DarkLight Engine</h1>\r\n<h2>Presentation</h2>\r\nDarkLight est un projet scind&#233; en deux sous-projets majeurs :\n<ul><li>DirectX 10 WPF API : Une API permettant de combiner la puissance de DirectX10 et la richesse de WPF. Cette API se base sur le Framework WPF 3D, enrichi pour besoins de DirectX10.</li>\n<li>Le moteur DarkLight, bas&#233; sur l&#39;API pr&#233;c&#233;dent, utilis&#233;e pour le rendu 3D d&#39;un syst&#232;me solaire.</li></ul>\n\n<h2>Etat du projet</h2>\r\nEn construction. La version t&#233;l&#233;chargeable est une version de d&#233;veloppement.<br />\n<h2>Historique du projet</h2>\r\n<b>06/2012 :</b> Publication sur CodePlex<br /><b>11/2012 :</b> D&#233;marrage du sous-projet DirectX 10 WPF API<br /><b>12/2010 :</b> D&#233;marrage du sous-projet DarkLight<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-26T08:26:01.953-07:00"
+}

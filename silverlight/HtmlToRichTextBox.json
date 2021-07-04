@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HtmlToRichTextBox",
+  "Title": "Html To RichTextBox",
+  "Description": "HtmlToRichTextBox is a plain libary for Converting html code into the RichTextBox.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nHtmlToRichTextBox is a plain libary for converting html code into the Silverlight RichTextBox.</p>\r\n<p><strong>Example</strong></p>\r\n<pre>string html =GetHtml();\nvar htb = new HtmlToRichTextBox(html);\nhtb.ApplyHtmlToRichTextBox(richTextbox);\n</pre>\r\n<p><strong>Screen shot </strong></p>\r\n<p><strong><img src=\"http://www.codeplex.com/Download?ProjectName=htmltorichtextbox&DownloadId=278346\" alt=\"screen shot\" width=\"762\" height=\"375\"><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,silverlight 4,RIA,xaml,html,RichTextBox,",
+  "LastEdited": "2011-09-06T23:03:23.43-07:00"
+}

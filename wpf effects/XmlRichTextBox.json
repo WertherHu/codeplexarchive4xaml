@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XmlRichTextBox",
+  "Title": "RichTextBox with XML formatting and color coding like Visual Studio",
+  "Description": "This is a Windows Forms RichTextBox that will display formatted XML using the color code scheme found in Visual Studio.  Easily portable to MVC, WPF and ASP.NET",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>XmlRichTextBox Windows Forms Control</h1>\r\nThis is a user control that extends the RichTextBox in Windows Forms to display formatted XML with color coding just like in Visual Studio.<br /><br />It is meant for people who want a quick and dirty RichTextBox for QA to view requests/responses in a familiar format.  Placing this code into production may require a lot more testing.<br /><br />The meat of the control is held in the XmlStateMachine.cs class which can be taken out and used to extend controls in MVC, ASP.NET or WPF.<br /><br />There is also a built-in context menu to Select All, Copy Text and Copy Rich Text by right clicking the control.<br /><br />NOTE: The control requires System.Xml.Linq to be referenced by the project.<br /><br /><img src=\"/projects/XmlRichTextBox/69b3c98c-cd72-4b2f-a07a-ed10af5a2474\" alt=\"Example.png\" title=\"Example.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-12-14T14:12:52.633-08:00"
+}

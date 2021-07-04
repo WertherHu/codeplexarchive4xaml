@@ -1,0 +1,9 @@
+{
+  "ProjectName": "snom",
+  "Title": "Snom Phone .NET Library",
+  "Description": ".NET Automation library for the snom IP phones.\r\n\r\nProvides simple class library to interact with you snom phone: \r\n- Press any key on the phone.\r\n- Dial numbers.\r\n- Answer or hang up call.\r\n- Mute and un-mute.\r\n- Hold and un-hold a call.\r\n- Navigate through a routing phone system using dial tone.\r\n- Get events on incoming or outgoing calls, as well as other events.\r\n- Change any phone setting.\r\n- Get a screen capture.\r\n- And more...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />.NET Automation library for the snom IP phones.<br /><br />Provides simple class library to interact with you snom phone&#58; <br />- Press any key on the phone.<br />- Dial numbers.<br />- Answer or hang up call.<br />- Mute and un-mute.<br />- Hold and un-hold a call.<br />- Navigate through a routing phone system using dial tone.<br />- Get events on incoming or outgoing calls, as well as other events.<br />- Change any phone setting.<br />- Get a screen capture.<br />- And more...<br /><br /><img src=\"http://www.marshallvoip.com/images/snom320.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-28T14:24:39.887-07:00"
+}

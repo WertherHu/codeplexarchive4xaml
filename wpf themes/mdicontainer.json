@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mdicontainer",
+  "Title": "MDI Container for WPF",
+  "Description": "MDIContainer extends WPF to support MDI (Multiple Document Interface). It displays your user control as window in a container.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MOVED TO GIT</b> <a href=\"https://github.com/andrassebo/mdicontainer\">https://github.com/andrassebo/mdicontainer</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MDI,WPF,C#,CustomControl,.NET,hammer,",
+  "LastEdited": "2016-12-10T08:49:42.877-08:00"
+}

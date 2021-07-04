@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dotnetmigrations",
+  "Title": "DotNetMigrations",
+  "Description": "Ruby on Rails \"Migrations\" ported to .NET\n\nMigrations are a way to define your database schema in such a way that it is easy to:\n* put into source control (know which schema changes relate to which code changes)\n* share between developers\n* rollback or upgrade to any version of t",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>We&#39;ve Moved!</h2>\r\nDotNetMigrations has moved to Github! Check us out at <a href=\"http://www.github.com/jpoehls/dotnetmigrations\">http://www.github.com/jpoehls/dotnetmigrations</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ruby On Rails,database schema,Version Control,migration,schema,Tools,Database,Deployment Tools,setup,migrations,",
+  "LastEdited": "2010-08-28T18:41:31.6-07:00"
+}

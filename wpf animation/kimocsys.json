@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kimocsys",
+  "Title": "kimocsys",
+  "Description": "KiMoCSys stands for Kinect Motion Capture System.\r\n\r\nIt captures the movement using the kinect hardware  and kinect SDK for windows and generates a Collada file with the animation inside.\r\n\r\nIntended for indie game developers and enthusiasts.\r\n\r\nUse WPF and C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />\n<hr />-- Still in development. No functional code yet ------ <br /><br />KiMoCSys stands for Kinect Motion Capture System.<br /><br />It captures the movement using the kinect hardware  and kinect SDK for windows and generates a Collada file with the animation inside.<br /><br />Intended for indie game developers and enthusiasts.<br /><br />Use WPF and C&#35;<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-05T18:57:45.553-08:00"
+}

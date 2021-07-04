@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pshttp",
+  "Title": "Sorlov.PowerShell.HTTPHandler",
+  "Description": "This Project is a simple http handler for parsing powershell pages (PSP3) in IIS.\r\nSyntax is like old-style ASP 3.0 but uses PowerShell as the backend Engine.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This Project is a simple http handler for parsing powershell pages &#40;PSP3&#41; in IIS.<br />Syntax is like old-style ASP 3.0 but uses PowerShell as the backend Engine.<br /><br /><br />This is a very simple example of a HTTP Handler.<br /><br />It will bind to *.PSP3 pages.<br />In the pages you can use &lt;% %&gt;-tags to include PowerShell code.<br /><br />There are also some common objects exposed like $Request etc inside PowerShell.<br /><br />Works like old-style ASP.<br /><br />Contributions welcome.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-23T23:03:20.147-07:00"
+}

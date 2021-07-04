@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LyncWPFDemo",
+  "Title": "LyncWPFDemo",
+  "Description": "LyncWPFDemo solution is a demo project for \"Microsoft Lync 2013 SDK Development Manual\".\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project shows how to use the Microsoft Lync 2013 SDK and Windows Presentation Foundation (WPF) to create a Lync Control, and how to deploy applications that use the Lync Control.<br /><br /><b>Requirements</b><br />1) Microsoft Lync 2013 must be installed and running on the development computer.<br />2) The Lync client must be signed in to the computer where the Lync application is running.<br />3) Microsoft Lync 2013 SDK must be installed on the development computer.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Lync 2013,C# WPF,",
+  "LastEdited": "2014-02-25T00:02:03.337-08:00"
+}

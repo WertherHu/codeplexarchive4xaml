@@ -1,0 +1,9 @@
+{
+  "ProjectName": "areader",
+  "Title": "aReader",
+  "Description": "aReader is a free software, it's used as an XPS document reader. It's developed in C# Language and use Windows Presentation Foundation technology with .NET Framework 3.5.\r\n\r\nMixed with Ribbon Controls Library for GUI (Graphic User Interface) make this application user friendly.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">aReader is a free software that is used as an XPS document reader. By using this application, read XPS documents become easier and faster. This application is freely used and distributed to anyone. aReader is made by using the latest technology from Microsoft that Windows Presentation Foundation with some libraries that use one of them is the Ribbon Controls Library.<br /><br />This application uses a GUI (Graphic User Interface) which is similar to Microsoft Office 2007. By having such interfaces, it would be easier for users in using this application. This application has been released with version 1.0.0.0.<br /><br />Hopefully this application can be useful for others. Some features will increase in subsequent versions. This application is dedicated to our beloved community, namely the Microsoft User Group Indonesia (MUGI).<br /><br />Minimum Requirements<br /><br />Operating System<br /> *Windows XP Professional Service Pack 2 / Windows 7<br /> <br />Processor<br /> Intel Pentium IV 1.8GHz<br /> <br />Memory<br /> 256MB<br /> <br />Video<br /> 64MB<br /> <br />Hardisk<br /> 7MB<br /> <br />.NET Framework<br /> .NET Framework v3.5 SP1<br /> <br /><br />       *For Windows XP Professional Service Pack 2 must be installed .NET Framework v3.5 with Service Pack 1<br /><br />       *For Windows 7, it doesn&#39;t need .NET Framework v3.5 Service Pack 1<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-05T02:04:38.57-08:00"
+}

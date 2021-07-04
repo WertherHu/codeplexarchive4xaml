@@ -1,0 +1,9 @@
+{
+  "ProjectName": "isotile",
+  "Title": "Isometric Tile Engine",
+  "Description": "Isotile is an isometric tile engine with its own map editor. The inspiration for this tile engine comes from the popular AOE series of games. Iso tile aims to support unit animation, path finding, group formation and collision detection and to be easy to incorporate in a game.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Isotile is an isometric tile engine with its own map editor. The inspiration for this tile engine comes from the popular AOE series of games. Iso tile aims to support unit animation, path finding, group formation and collision detection and to be easy to incorporate in a game.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-06-06T05:57:46.38-07:00"
+}

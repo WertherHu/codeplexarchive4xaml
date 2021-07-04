@@ -1,0 +1,9 @@
+{
+  "ProjectName": "musiccontrol",
+  "Title": "music control",
+  "Description": "The music-control program is one part of the music-control system. With this Programm and a Chrome Addon you can control the player of many internet music stream sites (last.fm, wearehunted.com, grooveshark.com, hypem.com, youtube.com playlists) with the keyboard. Developed in C#/WPF.\r\n\r\nThis code is OpenSource that everyone can see that the program do not more than looking for pressed key and send a command to the Chrome Extenstion.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThe music-control program is one part of the music-control system. With this Programm and a Chrome Addon you can control the player of many internet music stream sites (last.fm, wearehunted.com, grooveshark.com, hypem.com, youtube.com playlists) with the keyboard.\r\n Developed in C#/WPF.</p>\r\n<p>&nbsp;</p>\r\n<p>Avast shows a virus warning. This is a false positiv. The code is open source. Everyone can check.</p>\r\n<p><br>\r\nmore information on<br>\r\n<br>\r\n<a href=\"http://musiccontrol.nbickel.com\" target=\"_blank\">musiccontrol.nbickel.com</a></p>\r\n<p>&nbsp;</p>\r\n<p>Thanks to this two projects:</p>\r\n<p><a href=\"http://www.codeproject.com/KB/WPF/wpf_notifyicon.aspx\">http://www.codeproject.com/KB/WPF/wpf_notifyicon.aspx</a></p>\r\n<p><a href=\"http://code.google.com/p/bauglir-websocket/\">http://code.google.com/p/bauglir-websocket/</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-10-03T02:55:15.217-07:00"
+}

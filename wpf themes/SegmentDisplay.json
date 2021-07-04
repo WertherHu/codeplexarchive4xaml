@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SegmentDisplay",
+  "Title": "Segment Display",
+  "Description": "This project provides some controls for emulating physical segment indicators.\r\nNow it implements 1,7,9,14,16 standart segment indicators with some templates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Segment Display</b><br />This project provides some controls for emulating physical segment indicators.<br />Now it implements 1,7,9,14,16 standart segment indicators with some templates.<br /><br />This project provides some controls for emulating physical segment indicators.<br />Now it implements 1,7,9,14,16 standart segment indicators with some templates.<br /><br /><img src=\"/projects/SegmentDisplay/9cfd3744-1771-4425-91a2-b357402fc46d\" alt=\"SegmentDisplay.png\" title=\"SegmentDisplay.png\" /><br />Additional information is available here: <a href=\"http://devsoft.ru\">Author</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,WPF Custom Control,Indicator,",
+  "LastEdited": "2012-07-24T23:46:40.96-07:00"
+}

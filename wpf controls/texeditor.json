@@ -1,0 +1,9 @@
+{
+  "ProjectName": "texeditor",
+  "Title": "TexEditorControl",
+  "Description": "The TeX editor control written in C#, which is an adaptation of ICSharpCode.TextEditor for TeX. Features syntax highlighting, command completion and folding.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The TeX editor control written in C&#35;, which is an adaptation of ICSharpCode.TextEditor for TeX. Features syntax highlighting, command completion and folding.<br /><br />This project is the <a href=\"http://en.wikipedia.org/wiki/TeX\">TeX</a> editing component, which can be used in various TeX editors.<br />It is written in C# and builds under Visual Studio 2008 and .NET 3.5.<br />The demo application TestEditor is included.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TeX,ICSharpCode,TexEditorControl,",
+  "LastEdited": "2009-04-30T03:30:05.623-07:00"
+}

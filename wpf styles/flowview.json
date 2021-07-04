@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flowview",
+  "Title": "HTML5 Canvas FlowView",
+  "Description": "FlowView is a simple to use API for creating/implementing a flowview style element in HTML5/Canvas.\n\nThe FlowView looks much like something from Apple's cover view.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />FlowView is a simple to use API for creating&#47;implementing a flowview style element in HTML5&#47;Canvas.<br /><br />The FlowView looks much like something from Apple&#39;s cover view.<br /><br />You can see an example of this widget from my webpage below which implements the Flow View.  Please feel free to take a look at it.<br /><a href=\"http://www.open-iris.com/flow_view.html\">http://www.open-iris.com/flow_view.html</a><br /><br />Release of <a href=\"https://flowview.codeplex.com/releases/view/57969\">Flow View v1.2</a> will bring about the onclick functionality.  <a href=\"https://flowview.codeplex.com/workitem/14944\">On-Click callback for Elements</a>  Now, when we click on an element the click event will be passed to the element to execute the function clickcallback().</div><div class=\"ClearBoth\"></div>",
+  "TagList": "canvas api,html5,javascript,FlowView,Cover Flow,",
+  "LastEdited": "2010-12-22T19:41:04.563-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sdlsdk",
+  "Title": "(Obsolete) IronRuby and IronPython in Silverlight",
+  "Description": "The dynamic languages and Silverlight integration let you write browser applications with dynamic languages, like Ruby and Python. Please visit IronRuby or IronPython's websites' for using them in Silverlight",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>These site is obsolete and just here for archival purposes. Go to IronRuby and IronPython&#39;s CodePlex sites for all Silverlight-related content.</h1>\r\nPlease visit the respective pages for IronRuby and IronPython releases, which work in Silverlight &quot;out of the box&quot;; this project was merged directly into the languages releases.<br /><br /><b><a href=\"http://ironruby.net/browser/\">IronRuby in Silverlight</a></b><br /><b><a href=\"http://ironpython.net/browser/\">IronPython in Silverlight</a></b><br /><br /><i>Note: IronRuby also contains IronPython binaries for using them together. Unless you need a specific version of IronPython, just download IronRuby&#39;s latest release to get both.</i><br /><br />This site&#39;s discussions and issue tracker is no longer moderated. If you have any questions on using IronRuby and IronPython in Silverlight, please post them on the language&#39;s mailing list:<br /><br /><b><a href=\"http://rubyforge.org/mailman/listinfo/ironruby-core\">Join the IronRuby Mailing List</a></b><br /><b><a href=\"http://lists.ironpython.com/listinfo.cgi/users-ironpython.com\">Join the IronPython Mailing List</a></b><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "IronPython,WPF/e,Silverlight,dlrconsole,DLR,silverlight dlr,dynamic language,*,Ruby,",
+  "LastEdited": "2010-04-29T22:17:39.46-07:00"
+}

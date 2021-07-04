@@ -1,0 +1,9 @@
+{
+  "ProjectName": "currencytextbox",
+  "Title": "A simple ASP.NET Currency / Money TextBox User Control",
+  "Description": "A ASP.NET TextBox control used with AJAX maskeditextender makes it possible to enter numbers but it's not very intuitive to use. CurrencyTextBox control is a user control on top of TextBox to allow easy entry/update of money / currency values.\n9/12/2010: Updated with some fixes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A ASP.NET based UserControl for easy entry of Currency / Money. This User Control is extended from ASP.NET 2.0 TextBox control. It works for any .Net versions above 2.0. After using the AJAX MaskedEditExtender with TextBox control, I have found users complaining about it being cumbersome so I went ahead and wrote this User Control. It uses the ASP.NET TextBox in conjunction with some javascript to achieve the results without having to add any Mask. <br /><br />Supported:<br />1. Free flow entry with a programmable limit to number of decimals. This limit is set using a property.<br />2. Formats the money value on tab-out. <br />3. Changes to entry mode on focus.<br /><br />Does not, at this point of time,:<br />1. Allow negative values<br />2. Currency signs.<br /><br />Update: 9/12/2010 - a new binary is available with some bug fixes.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MaskedEditExtender,asp.net textbox,currency textbox,maskedEdit,currency formatting,money textbox,",
+  "LastEdited": "2010-09-12T18:13:25.673-07:00"
+}

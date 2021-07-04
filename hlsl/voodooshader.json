@@ -1,0 +1,9 @@
+{
+  "ProjectName": "voodooshader",
+  "Title": "Voodoo Shader Framework",
+  "Description": "Voodoo Shader is a comprehensive graphics framework for powering shaders in multiple programs, during development or after release. Voodoo uses plugins and a shared core to support many games and other applications and is compatible with Direct3D and OpenGL.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Voodoo Shader is a comprehensive graphics framework for powering shaders in multiple programs, during development or after release. Voodoo uses plugins and a shared core to support many games and other applications and is compatible with Direct3D and OpenGL.<br /><br />The Voodoo Shader project has been relocated to Github:<br />https://github.com/peachykeen/VoodooShader</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Shader,CG,HLSL,glsl,Framework,",
+  "LastEdited": "2011-12-06T10:20:06.383-08:00"
+}

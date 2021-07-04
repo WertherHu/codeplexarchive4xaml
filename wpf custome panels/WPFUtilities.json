@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFUtilities",
+  "Title": "WPF Utilities",
+  "Description": "A small set of utility classes to aid in the unit testing of WPF based projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">WPFUtilities is a small library of helper classes and methods that are useful in unit testing WPF related code.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,utilities,",
+  "LastEdited": "2007-06-03T07:55:33.057-07:00"
+}

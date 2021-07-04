@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rcmc",
+  "Title": "Remote Control for Windows 7 Media Center",
+  "Description": "Allow you to control Windows 7 Media Center from another PC.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rAllow you to control Windows 7 Media Center from another PC.<br /><br /><img src=\"/projects/rcmc/3e418045-5dd0-4dd4-af25-54d8e7fabb50\" alt=\"rcmc.png\" title=\"rcmc.png\" /><br />\n<h2>Planned features and changes (6th November 2010)</h2>\r\n<ul><li>change addin port to 13100</li>\n<li>add keyboard support in application (<b>completed in source code</b>)</li>\n<li>create windows service which will provide more functionality than addin\n<ul><li>with default port 13110</li>\n<li>implement simple http server to control mce from mobile phones and etc.</li></ul></li></ul>\n\n<h2>Install notes</h2>\r\nFirstly you have to install RMCSerup.msi on PC with Media Center which you want to control. Default port is 10000 and cannot be changed, at this time.<br />Tested on Windows 7 x86 and x64<br />\n<h2>Program notes</h2>\r\nOn another computer, unpack and run RCMC.exe. Application runs in the bottom right corner. Hostname of PC with Media Center, write into TextBox (port can be specified with colon and number, without whitespace). Buttons at the right side are Connect and Disconnect.<br /><br />Pavel ViPPeR Pech<br /><a href=\"http://vipper.peshiba.cz\">http://vipper.peshiba.cz</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows 7,media center,remote control,",
+  "LastEdited": "2010-11-23T10:40:47.327-08:00"
+}

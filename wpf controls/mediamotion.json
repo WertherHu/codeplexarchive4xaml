@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mediamotion",
+  "Title": "Eip MediaMotion",
+  "Description": "Mediamotion is a file explorer controlled by hand gestures, using the 'Leap Motion' tool.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><strong>MediaMotion</strong></h1>\r\n<p>Mediamotion is a file explorer with multimedia integration. Browsing folders and reading files is done using &ldquo;leap motion&rdquo;. Hand movements will allow the user to move within his system. The gestures will be detected by a small device called Leap\r\n Motion, recently made accessible to developers.<br>\r\nFor example, it will be possible to choose a folder by moving your hand facing the Leap Motion, or moving an element closer by moving your hand forward, etc.<br>\r\nIntegrating different media-related softwares will enable the user to use his files with the Leap Motion: pause a song or a video by a hand movement, change the sound volume, etc.<br>\r\nOur main objective is to create a file explorer entirely adapted to the Leap Motion. Compared to the already existing solutions, MediaMotion&rsquo;s interface will be completely redesigned. The elements will be dynamic and could be moved in three dimensions,\r\n to fully use the potential of the Leap Motion and take into account its depth of view.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-04-05T06:53:29.937-07:00"
+}

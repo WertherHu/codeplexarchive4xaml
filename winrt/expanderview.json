@@ -1,0 +1,9 @@
+{
+  "ProjectName": "expanderview",
+  "Title": "ExpanderRT",
+  "Description": "Due to the lack of Expander controller that is compatible with WinRT, I decided to port the ExpanderView from the Windows Phone toolkit. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">ExpanderRT<br /><br />Due to the lack of Expander controller that is compatible with WinRT, I decided to port the ExpanderView from the Windows Phone toolkit. This ExpanderRT is functional in Windows Phone 8, Windows 8.1 and universal apps.<br /><br />To use/modify the the ExpanderRT just copy the code inside the 2 sub/folders (ExpaControl and ExpaResource) from the Shared folder.<br /><br />DreamNet</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-27T12:03:44.697-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "regexutility",
+  "Title": "RegEx Utility",
+  "Description": "A full-featured regular expression editor built using WPF (and the MVVM pattern). Supports the composition and running of regular expressions. Accepts files, the windows registry and other data sources as input.\r\n\r\nThis tool is useful both for developing and for actually using regular expressions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A full-featured regular expression editor built using WPF &#40;and the MVVM pattern&#41;. Supports the composition and running of regular expressions. Accepts files, the windows registry and other data sources as input.<br /><br />This tool is useful both for developing and for actually using regular expressions.<br /><br /><b>Screen Shot</b><br /><img src=\"/projects/regexutility/7bb811d9-fb6e-4a15-8019-c7825552462b\" alt=\"RegExUtility_Main.png\" title=\"RegExUtility_Main.png\" /><br /><br />Regular Expressions can be extremely helpful tools for dissecting and processing text. Unfortunately, while the libraries to parse and execute them are numerous, tools for developing and running regular expressions are not. This is a tool I developed for myself. I&#39;ve found it useful and thought that others might too.<br /><br />I developed this tool in WPF using my take of the MVVM pattern. In time I may provide documentation, etc, but for now the tool stands as-is. I am releasing this as an alpha version knowing that most of the features do not yet work. If you are interested in helping me to develop this tool, please feel free to contact me.<br /><br /><b>I&#39;ve released a basic install. This is the alpha release - use at your own risk.</b><br />(I can&#39;t even garauntee that the install will work correctly.)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "regex,Regular Expressions,WPF,MVVM,Ribbon,",
+  "LastEdited": "2011-07-26T14:15:03.85-07:00"
+}

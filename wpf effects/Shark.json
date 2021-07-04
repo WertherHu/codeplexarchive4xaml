@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Shark",
+  "Title": "Shark Messenger",
+  "Description": "Secure Messenger built with WCF, WPF, SQL Server, RSA, AES",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a secure client, server messenger built using WCF, WPF technologies, the database is SQL Server, and it works using RSA, and AES protocols.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-18T08:20:32.457-08:00"
+}

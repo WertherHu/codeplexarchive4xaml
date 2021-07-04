@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfreports",
+  "Title": "Open-Source .NET WPF Reporting Engine",
+  "Description": "This project allows you to create reports using WPF (Windows Presentation Foundation). Its supports headers and footers, DataTable binding, barcode generation, XPS creation and more.\n\nThis is a very early alpha version not intented to be used in production environments.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project allows you to create reports using WPF &#40;Windows Presentation Foundation&#41;. Its supports headers and footers, DataTable binding, barcode generation, XPS creation and more.<br /><br />This is a very early alpha version not intented to be used in production environments.<br /><br /><b>Sample Reports</b><br /><br /><img src=\"/projects/wpfreports/abd7af70-815c-46ad-b063-ee786e692fdb\" alt=\"simplereport.png\" title=\"simplereport.png\" /> <img src=\"/projects/wpfreports/cf610e45-0bec-47d4-bf63-e0518dde8419\" alt=\"barcodereport.png\" title=\"barcodereport.png\" /> <img src=\"/projects/wpfreports/b4fee977-c81c-452f-949b-248c3be691c2\" alt=\"chartreport.png\" title=\"chartreport.png\" /><br /><br />Follow me on Twitter: <a href=\"https://twitter.com/quadfinity\">@quadfinity</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,WPF,Reporting,.NET 3.5,Charting,XAML,barcode,Top,report,wpf print,",
+  "LastEdited": "2013-06-16T06:27:17.54-07:00"
+}

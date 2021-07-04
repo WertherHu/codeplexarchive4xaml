@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamlimageconverter",
+  "Title": "XamlImageConverter",
+  "Description": "A tool to convert Xaml to images.",
+  "MovedLink": "https://github.com/simonegli8/XamlImageConverter",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>XamlImageConverter</h2>\r\n<p>A tool for ASP.NET to convert XAML, SVG and Photoshop files to images, pdf, animated gifs and html image maps.</p>\r\n<h3>Features&nbsp;</h3>\r\n<ul>\r\n<li>Rendering of images in ASP.NET on the fly in an HttpHandler or during the build process of a web application.\r\n</li><li>Supported target image formats: gif (also animated), jpg, png, tif, bmp, xps, pdf, xaml, ps, eps&nbsp;\r\n</li><li>Supported source image formats: xaml, svg, psd, HTML </li><li>XAML batch files describing conversion jobs and a self describing VisualStudio Item Template with intellisense. &nbsp;&nbsp;\r\n</li><li>Image localization support for creating images with localized text for multiple cultures. &nbsp;&nbsp;\r\n</li><li>Modification of the source xaml in the batch file, for example to generate multiple buttons with<br>\r\ndifferent text. </li><li>Creating animated gif's or filmstrips from xaml storyboards. &nbsp; </li><li>Creation of HTML image maps from visual shapes of named xaml or svg elements </li><li>Printing of HTML pages to PDF's. </li></ul>\r\n<h2><span lang=\"EN-US\" style=\"font-size:12pt\"><br>\r\n</span></h2>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "XAML,",
+  "LastEdited": "2013-06-03T04:39:32.207-07:00"
+}

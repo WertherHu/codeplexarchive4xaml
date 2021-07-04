@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FlanAjaxControls",
+  "Title": "FlanAjaxControls",
+  "Description": "Extenders using the ASP.net AJAX framework",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Extenders using the ASP.net AJAX framework<br /><br />Currently contains the following extenders<br />UpdatePanel Popup Extender<br />UpdateProgress Overlay Extender</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Controls,Ajax,ASP.NET,",
+  "LastEdited": "2008-03-13T21:53:35.117-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnecudiag",
+  "Title": "DnEcuDiag - A .NET Ecu Diagnostic Application",
+  "Description": "DnEcuDiag is an application framework for developing electronic control unit diagnostic functionality without the need to implement code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>DnEcuDiag is an application framework for developing electronic control unit diagnostic functionality without the need to implement code</p>\r\n<p>Electronic control units are defined as an XML metadata file which is added to the application and loaded at runtime</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Diagnostics,Framework,ECU,metadata,",
+  "LastEdited": "2012-01-10T12:12:53.593-08:00"
+}

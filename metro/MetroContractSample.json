@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MetroContractSample",
+  "Title": "MetroContractSample",
+  "Description": "Metroスタイルアプリでコントラクトを使うサンプルコード",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nMetroスタイルアプリでコントラクトを使うサンプル<br>\r\nMetro style sample code for using Contract</p>\r\n<p>[2012/10/11] <strong>RTM対応版は code.msdn.microsoft.com で公開しています。</strong><br>\r\n&rarr; <a title=\"MetroContractSample XAML/C#\" href=\"http://code.msdn.microsoft.com/windowsapps/MetroContractSample-XAMLC-f424c3a7\">\r\nhttp://code.msdn.microsoft.com/windowsapps/MetroContractSample-XAMLC-f424c3a7</a></p>\r\n<p>※ 以下に掲載してあるコードは Win8CP &#43; VS11beta 用です。製品版ではビルドできません。</p>\r\n<p><br>\r\n<img src=\"http://download.codeplex.com/Download?ProjectName=metrocontractsample&DownloadId=376990\" alt=\"\" width=\"640\" height=\"384\"></p>\r\n<div id=\"_mcePaste\" style=\"width:1px; height:1px; overflow:hidden; top:0px; left:-10000px\">\r\n&#65279;</div>\r\n<p>&nbsp;<br>\r\n(Sorry, The following is written only in Japanese.)</p>\r\n<hr>\r\n<p>これは次の記事のサンプルコードの一つです(もう一つは、<a href=\"http://bwnotepadmetro.codeplex.com/\">bwNotepad for Metro</a>)。</p>\r\n<blockquote>@IT 2012/05/11 掲載<br>\r\n<img src=\"http://www.atmarkit.co.jp/fdotnet/chushin/readyforwin8app_index/readyforwin8app_l.gif\" alt=\"\" width=\"376\" height=\"50\"><br>\r\n<strong><a href=\"http://www.atmarkit.co.jp/fdotnet/chushin/readyforwin8app_02/readyforwin8app_02_01.html\">特集：続・Windows 8開発に向けて準備しよう</a></strong><br>\r\n「コントラクト」でMetroスタイル・アプリのサンドボックスを乗り越える！<br>\r\n&nbsp;―― アプリを連携させる新しい仕組みを理解しよう！ ――</blockquote>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro,Contract,FileOpenPicker,Share Contract,Search Contract,",
+  "LastEdited": "2012-10-11T06:35:14.21-07:00"
+}

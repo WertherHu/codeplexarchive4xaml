@@ -1,0 +1,9 @@
+{
+  "ProjectName": "thumbnailcreator",
+  "Title": "Thumbnail creator and image resizer",
+  "Description": "a user control to create thubnails and resize images for display",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A user control to resize images and create thumbnails<br />Height and width are maximums the image is resized to fit with in them keeping its origional height to width ratio, so image is not streached or squished just resized to fit in the box<br />creates jpg thumbnails in ThumbFolder and renders an image control with the thumb nail<br />If an image with the same name exists in the ThumbFolder a new one will only be created if the date modified on the origional is newer than the date modified on the thumb<br /><br />use as follows<br /><br />&lt;%@ Register tagPrefix=&quot;Cains&quot; TagName=&quot;ThumbnailCreator&quot; Src=&quot;~/Controls/ThumbnailCreator.ascx&quot; %&gt;<br /><br /> &lt;Cains:ThumbnailCreator<br /> ID=&quot;ThumbnailImage&quot; <br /> ThumbHeight=&quot;100&quot;<br /> ThumbWidth=&quot;150&quot;<br /> ThumbFolder=&quot;~/Editable/ProdThumbs&quot;                    <br /> ErrorImage=&quot;~/images/noimage.png&quot;<br /> OrigionalImage=&#39;~/images/ImageToResize.png&#39;  <br /> runat=&quot;server&quot;                  <br /> /&gt;      <br /><br />Version 1.2 release fixes an issue that was occuring when the control was used inside paged data.<br />Version 1.2.1 added importing of namespaces to .vb (previously in web.config)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-07T16:56:27.873-07:00"
+}

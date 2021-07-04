@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wikiloca",
+  "Title": "DVDShare",
+  "Description": "Locadora de DVD para uso não comercial\nDesenvolvido em C# utilizando MVC\nProjeto desenvolvido por Wiki Informática LTDA\nwww.wikicode.com.br",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Locadora de DVD para uso n&#227;o comercial<br />Desenvolvido em C&#35; utilizando MVC<br />Projeto desenvolvido por Wiki Inform&#225;tica LTDA<br />www.wikicode.com.br<br /><br />DVD Share &#233; um sistema de cadastro e gerenciamento de loca&#231;&#227;o de v&#237;deos. Este sistema permite cadastrar, pesquisar e alugar filmes.<br />Funciona da seguinte maneira:<br />Os usu&#225;rios do sistema devem cadastrar seus filmes que desejam emprestar. Podendo ele tamb&#233;m alugar filme de outro usu&#225;rio. N&#225; devolu&#231;&#227;o do filme o usu&#225;rio pode classificar o filme. O DVD Share &#233; exatamente o que voc&#234; sempre quis em mat&#233;ria de entretenimento e compartilhamento de v&#237;deos!<br /><br />Novidades:<br />Tempo de espera em reserva<br />Baixar trailar do youtube para vers&#227;o offline<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Model View Presenter,Model View Control,",
+  "LastEdited": "2009-03-19T13:00:16.78-07:00"
+}

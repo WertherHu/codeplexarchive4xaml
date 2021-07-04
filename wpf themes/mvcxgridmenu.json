@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcxgridmenu",
+  "Title": "MvcContrib UI Extensions - Themed Grid & Menu",
+  "Description": "UI Extensions to the MvcContrib Project - Themed Grid & Menu",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>MvcContrib UI Extensions - Themed Grid &amp; Menu</strong></p>\r\n<p><strong>&nbsp;</strong>UI Extensions to the MvcContrib Project - Themed Grid &amp; Menu</p>\r\n<p>The project contains UI extensions to the MvcContrib project - specifically, a jQuery themed and ajaxified grid and a menu helper.</p>\r\n<p>You can view the posts on my blog:</p>\r\n<ul>\r\n<li><a href=\"http://tdryan.blogspot.com/2011/01/themed-ajaxified-mvccontrib-grid-with.html\" target=\"_blank\">Themed &amp; Ajaxified MVCContrib Grid - with page size dropdown</a>\r\n</li><li><a href=\"http://tdryan.blogspot.com/2011/02/mvccontrib-menu.html\" target=\"_blank\">MvcContrib Menu</a>\r\n</li></ul>\r\n<p>You can also view the demo project <a href=\"http://tdanryan.com/mvccontrib/\" target=\"_blank\">\r\nhere</a>, which contains inline code views.</p>\r\n<p>There is also a NuGet package available via the NuGet package management system - MvcContrib.Shp is the package name.</p>\r\n<p><strong><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-16T14:41:58.31-08:00"
+}

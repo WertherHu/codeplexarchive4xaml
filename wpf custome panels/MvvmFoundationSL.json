@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MvvmFoundationSL",
+  "Title": "Mvvm Foundation Silverlight",
+  "Description": "Mvvm Foundation Silverlight is a library of classes that are helpful when building Silverlight applications based in the MVVM pattern.\n\nThis library is based on the WPF only MVVM Foundation, with a Silverlight library add-on.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Mvvm Foundation Silverlight is a library of classes that are helpful when building Silverlight applications based in the MVVM pattern.<br /><br />This library is based on the WPF only MVVM Foundation, with a Silverlight library add-on.<br /><br />The source code contains the original MVVM foundation WPF library, a Silverlight library and 2 sample project: one WPF sample and one Silverlight sample. <br />To download the latest version, go to the &quot;Source code&quot; tab.<br /><br />For more information about MVVM Foundation, please visit http://mvvmfoundation.codeplex.com/.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-22T01:25:51.307-07:00"
+}

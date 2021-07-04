@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aboutbox",
+  "Title": "WPF About Box",
+  "Description": "WPF About Box is a simple and free about box for WPF using MVVM pattern. Several properties can be set. Some properties are read from assembly, automatically.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF About Box is a simple and free about box for WPF using MVVM pattern. Several properties can be set. Some properties are read from assembly, automatically.<br />\n<h1>Properties</h1>\r\nFollowing properties of the about box can be set:<br />\n<ul><li>Title</li>\n<li>Application Logo</li>\n<li>Description</li>\n<li>Version (4 or 3 digits)</li>\n<li>Publisher Logo</li>\n<li>Copyright</li>\n<li>Hyperlink</li>\n<li>Additional Notes</li></ul>\n<br /><img src=\"/projects/aboutbox/e9765e5a-2f9e-4aa9-bcf2-3fe973594739\" alt=\"Screenshot.png\" title=\"Screenshot.png\" /><br /><br />Following properties of the about box will be set automatically by reading the AssemblyInfo (can be overwritten):<br />\n<ul><li>Title</li>\n<li>Description</li>\n<li>Version</li>\n<li>Copyright</li></ul>\n\n<h1>Features</h1>\r\n<ul><li>Draggable</li>\n<li>Close on lost focus</li></ul>\n\n<ul><li>Create your own View using the existing ViewModel</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "about box,wpf,xaml,c#,about,about dialog,",
+  "LastEdited": "2014-01-10T08:26:18.113-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "swf",
+  "Title": "Swf.Net",
+  "Description": "This is a complete library to parse and generate swf (Flash) files. It also converts to and from the homebrew 'Vex' format, which is used as an intermediate format. Vex can then generate xaml, and wmf files as well as swf files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>NOTE: This project has mostly moved to https://github.com/debreuil/Swf2XNA</b><br /><br /><b>Project Description</b><br />This is a complete library to parse and generate swf &#40;Flash&#41; files. It also converts to and from the homebrew &#39;Vex&#39; format, which is used as an intermediate format. Vex can then generate xaml, and wmf files as well as swf files.<br /><br />Currently supports swf files up to Flash version 8. This is a VS2008 project in C#. Includes Actionscript support (read and write, at the bytecode level). Also has a various side projects - xna experiments, swf to xaml conversion (&quot;The Converted&quot;), a swf dump tool, flasm support, a box2d code generator...<br /><br />!Sub Projects\n<ul><li><a href=\"https://swf.codeplex.com/wikipage?title=theConverted&referringTitle=Home\">theConverted</a> Swf to Xaml Converter</li>\n<li><a href=\"https://swf.codeplex.com/wikipage?title=V2D&referringTitle=Home\">V2D</a> A Box2D Layout Generator</li></ul>\n<br /><br />Created by Robin Debreuil over 2007 and 2008. Future plans include AS3 parsing and generation (which means swf 9 and 10 support), and to link it with the C# parser project (also hosted on codeplex).<br /><br />This has been released under the BSD.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-07T23:34:17.987-07:00"
+}

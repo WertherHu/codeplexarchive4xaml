@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LinqToPi",
+  "Title": "LinqToPi",
+  "Description": "LinqToPi is a basic LINQ provider for the OSIsoft PI system. It enables programmers to quickly access PI data using LINQ. \n\nIt enables programmers to quickly develop WPF applications and services using WCF, .NET RIA Services or ADO.NET Data Services.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />LinqToPi is a basic LINQ provider for the OSIsoft PI system. It enables programmers to quickly access PI data using LINQ. <br /><br />It enables programmers to quickly develop WPF applications and services using WCF, .NET RIA Services or ADO.NET Data Services.<br /><br /><br /><br />Please visit <a href=\"http://www.osisoft.com\">http://www.osisoft.com</a> for more information about the OSIsoft PI system.<br /><br />LinqToPi was created using the IQToolkit tutorial by Matt Warren (<a href=\"http://blogs.msdn.com/mattwar/pages/linq-links.aspx\">http://blogs.msdn.com/mattwar/pages/linq-links.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-31T09:44:28.813-08:00"
+}

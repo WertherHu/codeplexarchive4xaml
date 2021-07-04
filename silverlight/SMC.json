@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SMC",
+  "Title": "SilverMossChart",
+  "Description": "SMC makes it easier for end user to see calculate data in sharepoint custom list fields.SMC is use visifire(http://www.visifire.com/) charts .",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SMC makes it easier for end user to see calculate data in sharepoint custom list fields.SMC is use visifire&#40;http&#58;&#47;&#47;www.visifire.com&#47;&#41; charts .<br /><br />    I developed this    webpart  to  calculate sharepoint list  fields easier   and user can make a decision certainly. Webpart use sharepoint webservices for get list information. Users can select a list then set a field name ,and they can see pie or column charts.<br /><br /><img src=\"/projects/SMC/80fbb18b-3455-4351-ad54-e4158f069b27\" alt=\"Moss1.jpg\" title=\"Moss1.jpg\" /><br /><img src=\"/projects/SMC/88ee786e-ee12-4d6d-9ff5-5786c110350c\" alt=\"Moss2.jpg\" title=\"Moss2.jpg\" /><br /><img src=\"/projects/SMC/7d7d3e30-e7af-431d-a558-e5f58555849d\" alt=\"Moss3.jpg\" title=\"Moss3.jpg\" /><br /><img src=\"/projects/SMC/8207fda5-4e6f-408d-82b3-92c7bad2767b\" alt=\"Moss4.jpg\" title=\"Moss4.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "moss,sharepoint,Silverlight,charts,chart,MOSS 2007,MOSS Tools,MOSS webparts,Chart Model,SharePoint 2007,WebPart,",
+  "LastEdited": "2009-04-02T02:53:38.807-07:00"
+}

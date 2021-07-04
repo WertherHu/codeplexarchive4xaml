@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WCFLatencyTstHarness",
+  "Title": "WCF Latency Test Harness",
+  "Description": "This project contains a harness to test the latency of WCF (and .NET Remoting) for different bindings, serializers, parameters (and sizes), OneWay/TwoWay, etc. It can be used to test the latency behavior for a large set of scenarios, and can easily be customized to assess the latency of your chosen implementation.\n\nSee also http://geekswithblogs.net/BVeldhoen/archive/2008/01/26/wcf-latency-test-harness.aspx.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Project Description<br />This project contains a harness to test the latency of WCF (and .NET Remoting) for different bindings, serializers, parameters (and sizes), OneWay/TwoWay, etc. It can be used to test the latency behavior for a large set of scenarios, and can easily be customized to assess the latency of your chosen implementation.<br /><br />See here <a href=\"http://bveldhoen.wordpress.com/2010/09/05/wcf-latency-test-harness-and-wcf-performance/\">http://bveldhoen.wordpress.com/2010/09/05/wcf-latency-test-harness-and-wcf-performance/</a> for more documentation and results.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WCF,Performance,Test,wcf Test,",
+  "LastEdited": "2010-09-15T00:22:46.883-07:00"
+}

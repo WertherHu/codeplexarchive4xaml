@@ -1,0 +1,9 @@
+{
+  "ProjectName": "portHmServ",
+  "Title": "portHmServ - Sync AD/CSV file user accounts to hMailServer with WPF GUI",
+  "Description": "This Powershell script helps in bulk import of hMailServer user accounts from Active Directory using Async WPF GUI. It Provides complete control to sync account",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This Powershell script helps in bulk import of hMailServer user accounts from Active Directory using Async WPF GUI. It Provides complete control to sync accounts from specific Organization Unit or Group. It can also be use to import existing AD accounts to hMailServer by using CSV/TXT file.  The zip also includes a sample CSV file to show how it can be used.<br /><br /><b>System Requirements:</b><br />- Windows Server 2008 SP2, 2008 R2 SP1, 2012, 2012 R2 <br />- Microsoft .NET Framework 4  <br />- Windows PowerShell 3.0 <br />- hMailServer <br /><br />For more info about portHmServ go to: <a href=\"https://www.programmingpakistan.com/forums/powershell-group4/porthmserv-forum8/\">https://www.programmingpakistan.com/forums/powershell-group4/porthmserv-forum8/</a><br /><br /><b>Credit:</b><br /><a href=\"https://gallery.technet.microsoft.com/scriptcenter/AD-and-hMailServer-account-638691e5\">https://gallery.technet.microsoft.com/scriptcenter/AD-and-hMailServer-account-638691e5</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-12-21T08:04:53.077-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rsc",
+  "Title": "Remote Server Controller",
+  "Description": "Remote Server Controller is server-side solution for administration of your Windows server. Have full control in browser, custom client, command line and more!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Remote Server Controller is server-side solution for administration of your Windows server. Have full control in browser, custom client, command line and more&#33;<br /><br />Just execute Remote Server Controllers on your server and enjoy! Use whatever tool you have, wherever you are! The REST technology allows you to use even simple internet browser to control your remote server.<br />\n<h1>Current version supports:</h1>\r<h2>Services</h2>\r- check status<br />- start<br />- stop<br />\n<h1>Quick start</h1>\r\n- install Remote Server Controllers on your server<br />- allow configured port (default 55011) in your firewall<br />- configure all services you want to controll remotely in config file<br />- control your service via browser<br /><pre>\nhttps://your_server:55011/RESTController/JSON/Service/Status/example_service_name\n</pre></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-08-27T10:19:05.24-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flagsync",
+  "Title": "FlagSync",
+  "Description": "FlagSync is a synchronization and backup tool, which allows you to synchronize or backup your files with local folders (or an extern harddrive or flashdrive) and FTP-Servers, as well as synchronize your non-iPod MP3-Player with iTunes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project has moved to <a href=\"https://github.com/flagbug/FlagSync\">https://github.com/flagbug/FlagSync</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Synchronization,Backup,C#,.NET,.NET 3.5,WPF,FlagSync,",
+  "LastEdited": "2014-08-18T06:42:32.573-07:00"
+}

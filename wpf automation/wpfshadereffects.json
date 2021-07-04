@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfshadereffects",
+  "Title": "WPF Shader Effects (WpfShaderEffects)",
+  "Description": "WpfShaderEffects is intended to be out-of- the-box-ready-to-use ShaderEffects for WPF. I lean on the great work that has already been done to use shader effects in WPF (notably wpffx and bling). I hope to provide a library that is easy to use and to change",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WpfShaderEffects is intended to be out-of- the-box-ready-to-use ShaderEffects for WPF. I lean on the great work that has already been done to use shader effects in WPF &#40;notably wpffx and bling&#41;. I hope to provide a library that is easy to use and to change<br /><br />I owe it to the projects bling.codeplex.com and wpffx.codeplex.com.<br /><br />Wpffx provided me with the sources for the pixelshaders.<br /><br />Bling provided me with the idea and code that the DirectX isn&#39;t needed in order to compile .fx files. Requiring the full DirectX SDK is cumbersome and Bling had some interesting Interop code to DirectX instead (Originally written by someone named NyaRuRu appearantly).<br /><br />Basically what I&#39;ve done is combining the pixelshaders from wpffx, the compiler from bling with some .TT files to autogenerate the WPF classes.<br /><br />I hope it proves useful<br /><br />PS Silverlight projects included as well<br /><br /><u>M&#229;rten</u><br /><br /><br /><img src=\"/projects/wpfshadereffects/544e2171-eace-415f-979b-ea6ca57a8c32\" alt=\"sample.jpg\" title=\"sample.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,Silverlight,C#,DirectX,PixelShader,VS2008SP1,",
+  "LastEdited": "2009-08-11T01:18:07.523-07:00"
+}

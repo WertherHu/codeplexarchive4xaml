@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlCleaner",
+  "Title": "XAML Cleaner AddIn",
+  "Description": "XamlCleaner is a small add-in utility what makes it easier for developers and designers to clean xaml filles of unused and duplicates namespace references. In addition include a WPF application project to pharser xaml files out freely Visual Studio.\n\nIt's developed in C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XamlCleaner is a small add-in utility what makes it easier for developers and designers to clean xaml filles of unused and duplicates namespace references. In addition include a WPF application project to pharser xaml files out freely Visual Studio.<br /><br />It&#39;s developed in C&#35;<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-18T09:52:50.433-07:00"
+}

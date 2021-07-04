@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfprogress",
+  "Title": "WPF Background Progress Indicator",
+  "Description": "The WPF Background Progress Indicator allows developers to show the application is busy without stopping the animation when the UI thread is busy. The indicator's appearance can be modified by using the BusyStyle property.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The WPF Background Progress Indicator allows developers to show the application is busy without stopping the animation when the UI thread is busy. The indicator&#39;s appearance can be modified by using the BusyStyle property.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-02T19:25:24.093-07:00"
+}

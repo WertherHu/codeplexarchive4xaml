@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MyDistrictBuilder",
+  "Title": "MyDistrictBuilder",
+  "Description": "MyDistrictBuilder allows anybody to build legislative districts and submit to the Florida House of Rep. It is built on Bing Maps, Silverlight and AZURE. Written in C#. It is written to allow anyone to adapt for any states census geography. www.floridaredistricting.cloudapp.net",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\n<h1>This project utilizes these other CodePlex Projects:</h1>\r\n<ul><li>http://sqlspatialtools.codeplex.com/</li>\n<li>http://slsharpziplib.codeplex.com/</li>\n<li>http://sharpmap.codeplex.com</li></ul>\n\n<h2><b>MyDistrictBuilder</b>    <a href=\"http://floridaredistricting.cloudapp.net/MyDistrictBuilder.aspx\">http://floridaredistricting.cloudapp.net/MyDistrictBuilder.aspx</a></h2>\r\n<br />     J. Alex Kelly, Staff Director<br />     Florida House of Representatives<br />     Redistricting Committee<br />     400 HOB The Capitol<br />     402 South Monroe Street<br />     Tallahassee, FL 32399<br />     Office 850-922-9457<br /><br />www.floridaredistricting.org<br />Follow MyDistrictBuilder on Facebook<br />Follow MyDistrictBuilder on Twitter<br />Follow MyDistrictBuilder on YouTube<br />Follow MyDistrictBuilder on SlideShare<br />Redistricting Archives at www.floridaredistricting.org/archives<br />Questions or Comments about MyDistrictBuilder, email: west.bob@myfloridahouse.gov<br /><br />Mail to: J. Alex Kelly<br />Florida House of Representatives<br />400 House Office Building<br />402 South Monroe Street<br />Tallahassee, Florida 32399-1300<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "redistricting,bing maps,Florida House,azure,silverlight,",
+  "LastEdited": "2015-09-29T15:22:51.22-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "srf",
+  "Title": "SRF (Send-Receive Files)",
+  "Description": "SRF is a simple application. It was created to send and receive files. It's developed in C#(with use WPF and MVVM-pattern).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><strong>&nbsp;</strong>SRF is a simple application. It was created to send and receive files. It's developed in C# (with using WPF and MVVM-pattern).</p>\r\n<p>For use SRF:</p>\r\n<ul>\r\n<li>one user create the Server and send files; </li><li>other user create the Client and receive files; </li></ul>\r\n<p>&nbsp;</p>\r\n<p>*The project is temporarily suspended.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SRF,C# 4.0,WPF,Server,Client,file transfer,",
+  "LastEdited": "2013-08-29T00:07:25.223-07:00"
+}

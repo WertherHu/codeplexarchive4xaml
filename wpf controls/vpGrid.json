@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vpGrid",
+  "Title": "vpGrid",
+  "Description": "Full client-side JavaScript framework to create any kind of grid. vpGrid takes the best out of jqGrid while having full control on Design, Interaction and Data.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nvpGrid is a client-side JavaScript framework&nbsp;that will help you create any kind of business grid in an already existing Web Page.&nbsp;This Web Page could be a SharePoint 2007/2010/2013 site page, or could be an ASP.NET MVC page, or could be an ASP.NET\r\n WebForm page.</p>\r\n<p>vpGrid is based on jQuery, jQuery-UI, jqGrid and qTip2.</p>\r\n<p>vpGrid can integrate with any kind of server technology (Microsoft and non Microsoft) to show and manage&nbsp;remote data.&nbsp;</p>\r\n<p>vpGrid is&nbsp;also based on&nbsp;the jQuery-File-Upload-9.5.7&nbsp;plugin to handle file upload/download use cases.</p>\r\n<p>vpGrid takes the best out of jqGrid while having full control on the design of the grid, on user interactions, on business requirements and on remote data read/write operations.</p>\r\n<p>vpGrid is currently in a refactoring process where core parts are taken away to a dedicated library on GitHub:&nbsp;<a title=\"jQuery-extensions\" href=\"https://github.com/hdorgeval/jQuery-extensions\">jQuery-extensions</a>.</p>\r\n<p>Anybody who wants to leverage this library is welcomed.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "jqGrid,jQuery-UI,jQuery,qTip2,Javascript,grid,",
+  "LastEdited": "2014-11-24T14:13:32.917-08:00"
+}

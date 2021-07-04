@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mymediastuff",
+  "Title": "MyMediaStuff - Catel demo app",
+  "Description": "MyMediaStuff is a demo application that shows some advanced features of Catel, an open-source MVVM Framework for WPF and Silverlight.\n\nFor more information about Catel, visit http://catel.codeplex.com.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MyMediaStuff is a demo application that shows some advanced features of Catel, an open-source MVVM Framework for WPF and Silverlight.<br /><br />For more information about Catel, visit http&#58;&#47;&#47;catel.codeplex.com.<br /><br />Below is a video demonstrating the application:<br /><div class=\"video\" style=\"text-align:Left\"><span class=\"player\"><object height=\"285px\" width=\"320px\"><param name=\"movie\" value=\"http://www.youtube.com/v/4hS_saszaoQ\"></param><param name=\"wmode\" value=\"transparent\"></param><embed height=\"285px\" width=\"320px\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" src=\"http://www.youtube.com/v/4hS_saszaoQ\" /></object></span><br /><span class=\"external\"><a href=\"http://www.youtube.com/watch?v=4hS_saszaoQ\" target=\"_blank\">Launch in another window</a></span></div><br /><br />Although the application looks really simply (that&#39;s the purpose), there are some pretty advanced features that answer the following question:<br />\n<ol><li>How to create view-models for user controls, based on the datacontext?</li>\n<li>How to play a video without directly calling an element on the view from the view-model?</li>\n<li>How to use services in the view-models to show pop-up windows?</li></ol>\n<br />If you have any questions, don&#39;t hesitate to start a discussion! We are here to help!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Catel,WPF,MVVM,Framework,mvvm framework,example project,example,",
+  "LastEdited": "2011-03-11T11:55:48.94-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Hayabusa",
+  "Title": "Hayabusa",
+  "Description": "Localisation app developp with my custom framework ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/Hayabusa/6c9d80f5-a9ea-45fd-b59b-84b0040fe19a\" alt=\"header_cp.jpg\" title=\"header_cp.jpg\" /><br /><br /><b>Description Projet</b><br />Application de localisation et de gestion de chauffeurs &#233;crite avec le framework .NET 4 et WPF.<br /><br /><b>Technologies</b><br />- Caliburn.Micro pour le MVVM<br />- WPF pour la pr&#233;sentation<br />- LINQ pour construire un ORM<br />- SQL Server 2008 Express pour la base de donn&#233;es<br />- Bing Maps<br /><br /><b>Etat</b><br />En d&#233;veloppement<br /><br /><b>Documentation</b><br /><a href=\"https://hayabusa.codeplex.com/documentation?referringTitle=Home\">Documentation</a><br /><br /><b>License</b> <br />Mozilla Public License 1.1 (MPL)<br /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf MVVM caliburn LI,",
+  "LastEdited": "2011-06-25T12:37:50.257-07:00"
+}

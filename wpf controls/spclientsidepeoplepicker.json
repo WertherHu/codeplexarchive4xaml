@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spclientsidepeoplepicker",
+  "Title": "SharePoint 2013 Client Side People Picker Demo",
+  "Description": "SharePoint 2013 Client-Side People Picker Control How To Demo Basic Usage",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n</p>\r\n<p>I recently put together a basic web part that made use SharePoint&rsquo;s client-side People Picker control and was slightly surprised with how easy and straight forward it was. I hope that by sharing this others will also see how stress-free it can be to\r\n leverage the various SharePoint 2013 client-side controls.</p>\r\n<p>A more detailed description of this project can be found on the <a href=\"http://blog.appliedis.com/\">\r\nAIS Blog</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-28T04:05:37.677-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Oomph",
+  "Title": "Oomph - A Microformats Toolkit",
+  "Description": "Oomph makes Microformats more accessible for developers, designers and users.  Oomph is an amalgamation of applications: an Internet Explorer Add-in built in C++ that finds Microformats on a page; a cross-browser HTML overlay built using JQuery that aggregates Microformats; a set of beautiful CSS styles for Microformats; and a Windows Live Writer plug-in written in WinForms for inserting hCards. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Oomph: A Microformat Toolkit</b><br />The main goal with <i>Oomph</i> is to make Microformats more accessible for users, developers and designers.  Oomph is an amalgamation of applications: \n<ul><li>An Internet Explorer Add-in built in C++ that finds Microformats on a page</li>\n<li>A cross-browser HTML overlay built using JQuery that aggregates Microformats</li>\n<li>A set of beautiful CSS styles for Microformats</li>\n<li>A Windows Live Writer Plug-in written in WinForms for inserting hCards</li></ul>\n<br /><a href=\"http://www.codeplex.com/Oomph/Release/ProjectReleases.aspx\">Download Oomph now!</a><br /><br />For more information about Oomph, see the articles and video at <a href=\"http://visitmix.com/lab/#oomph\">Mix Online</a>.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET 3.5,control,Library,Microformats,",
+  "LastEdited": "2009-03-30T12:17:39.387-07:00"
+}

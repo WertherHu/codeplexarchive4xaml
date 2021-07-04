@@ -1,0 +1,9 @@
+{
+  "ProjectName": "win8templates1",
+  "Title": "Windows 8 App Design Reference Template: Block Style Color",
+  "Description": "Block Style Color template will help if you want to build an app which needs a Variable Size Content display blocks.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong><span style=\"color:#404040\">Disclaimer:&nbsp;</span></strong><span style=\"color:black\">The template provided in the form of Visual Studio project (C# and JS) is meant to act as a starter kit for Windows 8 Store apps development. You are&nbsp;recommended\r\n to change or modify the look and feel to suit the branding that is required for your app. The template by no means restricts you to stick to the layout, navigation or other aspects indicated.</span></p>\r\n<p><span style=\"color:#000000\"><strong><strong>Project Description</strong></strong></span></p>\r\n<p><span style=\"color:black\"><span style=\"text-decoration:underline; color:#800000\">Block Style Color</span> template will help if you want to build an app which needs a Variable Size Content display blocks</span></p>\r\n<p><span style=\"color:black\">The Block Style Color template contains placeholders for Category and Detail Page.&nbsp;You can leverage this style if your implementation scenario is closest to this template.\r\n</span></p>\r\n<p><span style=\"color:black\">Download includes the following</span></p>\r\n<ul>\r\n<li><span style=\"color:black\">Source (C# and JS)</span> </li><li><span style=\"color:black\">Package</span> </li><li><span style=\"color:black\">Snapshots</span> </li><li><span style=\"color:black\">Documentation</span>&nbsp; </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-04T00:16:32.753-08:00"
+}

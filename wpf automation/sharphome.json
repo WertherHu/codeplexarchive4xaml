@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharphome",
+  "Title": "Sharp Home",
+  "Description": "Sharphome is designed to run on Windows and Linux (via the Mono Project) and is designed to be useful in home automation and home security.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Sharp Home</b><br /><br />SmartHome is a .net application designed to run on Windows and Linux (via mono project).<br /><br />It is designed to communicate with Insteon devices and allow for other capabilities useful for a home automation and home security system. At this time it is very much a work in progress.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "home automation,",
+  "LastEdited": "2012-05-30T18:53:24.39-07:00"
+}

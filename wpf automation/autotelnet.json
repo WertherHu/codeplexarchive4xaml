@@ -1,0 +1,9 @@
+{
+  "ProjectName": "autotelnet",
+  "Title": "AutoTelnet",
+  "Description": "This application provides a Telnet automation tool that can be used both via GUI and command line.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><br>\r\nThis application provides a Telnet automation tool that can be used both via GUI and command line. With AutoTelnet is possible editing an Telnet script with parameter and expression, save the script for use later in command line mode.</p>\r\n<p><strong>This project is moved on my GitHub repository</strong> <a href=\"https://github.com/ermannog/AutoTelnet\" target=\"_blank\">\r\nhttps://github.com/ermannog/AutoTelnet</a>.</p>\r\n<p>AutoTelnet&nbsp;is develop in Visual Studio 2013 using VB.NET and require .NET Framework version 4.0&nbsp;or&nbsp;higher.</p>\r\n<p>An&nbsp;example of use of AutoTelnet is the&nbsp;backup of &nbsp;switchs, see <a href=\"https://autotelnet.codeplex.com/releases/view/629696\">\r\nBackup switch samples scripts</a>.</p>\r\n<p><img src=\"/projects/autotelnet/0f2d58e8-9297-4880-a672-ac142af3f8c1\" alt=\"GUI\" width=\"800\" height=\"557\"></p>\r\n<p><img src=\"/projects/autotelnet/bf973779-ace8-41db-91c5-4e5b289a772c\" alt=\"\" width=\"451\" height=\"354\"></p>\r\n<p><img src=\"/projects/autotelnet/7276433d-f487-4a65-9a4b-69c0e740a12f\" alt=\"Settings\" width=\"800\" height=\"557\"></p>\r\n<p><img src=\"/projects/autotelnet/8f1c6155-1f73-4e3c-b544-f0eff24c1026\" alt=\"Command line\" width=\"574\" height=\"265\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-05-08T00:52:17.723-07:00"
+}

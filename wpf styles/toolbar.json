@@ -1,0 +1,9 @@
+{
+  "ProjectName": "toolbar",
+  "Title": "Ajax Toolbar for ASP.NET",
+  "Description": "This toolbar is an Ajaxian ASP.NET WebControl for WebForms and has both a server-side and client-side API. The control is written in C# with the 3.5 BCL and uses the MS AJAX client library. It also uses CSS heavily for its presentatin and its style sheet can be easily customized.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Overview</b><br />This toolbar is an ASP.NET WebControl with a server-side and client-side API. The control&#39;s state is automatically maintained between client and server. It uses CSS for its presentation and it can be easily customized through its style sheet. Client side events are provided for handling and canceling button clicks. <b>Ajax Toolbar is now available through NuGet</b><br /><br /><br /><b>Features</b>\n<ul><li>Full control over the toolbar and it&#39;s buttons is available on the the server-side. </li>\n<li>The client API is a little more limited and has the following features:\n<ul><li>Enable and disable buttons</li>\n<li>Select and unselect buttons</li>\n<li>Hide and show buttons</li>\n<li>Change button text</li>\n<li>Swap button CSS classes</li></ul></li></ul>\n\n<ul><li>Client-side changes are persisted on the server-side and vice versa. </li>\n<li>The buttons work with the ASP.NET form validation mechanisms and confirmation checks are as easy as configuring a confirmation message.</li></ul>\n<b>Requirements</b>\n<ul><li>The solution requires the Visual Studio 2010 (but could probably easily be downgraded to VS 2008)</li>\n<li>Microsoft Ajax Minifier</li></ul>\n<b>Example</b><br />I have supplied serveral examples with the source code that demonstate the full capabilities of the toolbar.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,.NET,ASP.NET,css,webcontrol,.NET 3.5,menu,Server Control,Ajaxian,Toolbar,Menubar,",
+  "LastEdited": "2015-06-22T10:49:41.813-07:00"
+}

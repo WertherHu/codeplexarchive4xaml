@@ -1,0 +1,9 @@
+{
+  "ProjectName": "greenarrow",
+  "Title": "GreenArrow",
+  "Description": "Just a simple mark-locate-click automation tool by comparing graphic pieces.\nGreenArrow makes it easier for automation script writer to handle UI elements which cannot be located by normal methods, like keyword or classid.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Just a simple mark-locate-click automation tool by comparing graphic pieces.<br />GreenArrow makes it easier for automation script writer to handle UI elements which cannot be located by normal methods, like keyword or classid.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-21T22:10:19.323-08:00"
+}

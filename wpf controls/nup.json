@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nup",
+  "Title": "nup",
+  "Description": "This software is my personal control of stocks. I'm works with Bovespa.\r\n\r\nThis is write in C#, with Visual Studio 2008 Express",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Control of Stocks, through generalization and composition.</b><br />This software is my personal control of stocks. I&#39;m works with Bovespa.<br /><br />This is write in C&#35;, with Visual Studio 2008 Express<br /><br />Para utilizado, voc&#234; deve abrir o projeto e adiciona-los em gridviews. Existe um exemplo.<br />A base de dados est&#225; sendo serializada em arquivos.<br /><br />For you to use, you must open the project and adds them in gridviews. There is an example.<br />The database is being serialized in files.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-29T06:52:25.097-07:00"
+}

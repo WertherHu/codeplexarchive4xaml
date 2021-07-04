@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GoogleCharts",
+  "Title": "Google Charts for Asp.Net",
+  "Description": "An Asp.net Control for creating charts using the Google Charts API",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An Asp.net Control for creating charts using the Google Charts API<br /><br />This is a Asp.Net web control which helps build charts using the Google Charts API (<a href=\"http://code.google.com/apis/chart/\">http://code.google.com/apis/chart/</a>). For more information read the initial post on the project: <a href=\"http://blog.spontaneouspublicity.com/2007/12/09/aspnet-control-for-google-charts/\">http://blog.spontaneouspublicity.com/2007/12/09/aspnet-control-for-google-charts/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Google chart,",
+  "LastEdited": "2008-02-10T12:40:41.983-08:00"
+}

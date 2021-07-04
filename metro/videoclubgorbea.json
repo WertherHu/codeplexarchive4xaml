@@ -1,0 +1,9 @@
+{
+  "ProjectName": "videoclubgorbea",
+  "Title": "VideoClubGorbea Online Video Renting -Reference Project-",
+  "Description": "VideoClubGorbea it's a reference project, based on a imaginary online video renting shop in wich you will learn  how to make the solution arquitecture, how to separete in n-layers, using the latest technology and design patterns such: .net 4.5, c#, MVC 4, async ctp, parallel task library, MVVM, Entity Framework Code First, Metro style app... and much more! ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>This Project it’s for educational purpose. This is a sample that covers every development step in a full .NET project, from the arquitecture, Project división to design patterns… Because of that, i tried to make an easy to understand Project about internet\r\n movie renting shop with this requeriments and technologies you will learn about:</p>\r\n<p><strong>Technologies </strong></p>\r\n<ul>\r\n<li>c# </li><li>.NET 4.5 </li><li>WCF </li><li>Metro &#43; WinRT </li><li>Async CTP </li><li>ParallelTaskLibrary </li><li>MVC 4 Asp.net </li><li>EntityFramework 4 Code First </li><li>Moq </li><li>Unity </li><li>HTML5 </li><li>Reactive Extensions </li></ul>\r\n<p><strong>Desing patterns</strong> </p>\r\n<ul>\r\n<li>MVVM </li><li>Separation of concerns </li><li>Interface Segregation </li><li>Unit Testing </li><li>IOC </li><li>SOLID </li></ul>\r\n<p>By Fernando Urkijo Cereceda</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4.5,Code First,Metro UI,C#,async ctp,MVVM,Unit of Work,Arquitectura,HTML5,Arquitecture,Entity Framework,MVC,videoclub,videoclub gorbea,video club gorbea,videoclubgorbea,reactive extensions,Metro,",
+  "LastEdited": "2011-11-06T05:09:59.59-08:00"
+}

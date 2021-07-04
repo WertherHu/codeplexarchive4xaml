@@ -1,0 +1,9 @@
+{
+  "ProjectName": "saral",
+  "Title": "Saral WPF",
+  "Description": "Saral is a Framework to ease the development of WPF client application. \r\nIt facilitates development of application using PRISM/Composite Application Block and MVVM Design Pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Saral is a Framework to ease the development of WPF client application. <br />It facilitates development of application using PRISM&#47;Composite Application Block and MVVM Design Pattern.<br /><br /><br />The initial version of this Framework provides infrastructure to display ShowMessage(), OpenFileDialog() and SaveFileDialog() from Model or ViewModel layer of MVVM design pattern  <br /><br /> <a href=\"http://technovivek.blogspot.com/2010/08/display-message-box-and-file-open-save.html\">http://technovivek.blogspot.com/2010/08/display-message-box-and-file-open-save.html</a><br /><br />SaralCommand (not in released version but checked-in in code) <br /><br /><a href=\"http://technovivek.blogspot.com/2010/08/simplified-icommand-implementation-in.html\">http://technovivek.blogspot.com/2010/08/simplified-icommand-implementation-in.html</a><br /><br /><br /><b>It’s an Open Project without any funding, liability and restriction. Let’s keep up the spirit of developer community</b><br /><br />Join the Saral development team : <a href=\"http://technovivek.blogspot.com/2010/08/saral-framework-development-team-join.html\">http://technovivek.blogspot.com/2010/08/saral-framework-development-team-join.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-24T06:01:40.67-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mastersofinfluence",
+  "Title": "Masters of Influence",
+  "Description": "Collect resources, build towers, attack your enemies, and expand your influence. A board-game styled game for XBox 360 and XBLA, second attempt.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nCollect resources, build towers, attack your enemies, and expand your influence. A board-game styled game for XBox 360 and XBLA: my second attempt.</p>\r\n<p>Uses GPU instancing, trees, and particle systems.</p>\r\n<p><img id=\"wikiFile0\" src=\"/projects/mastersofinfluence/a60f8091-b8ff-4789-a52b-125db36b05e4\" alt=\"\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Board Game,Game,XNA,C#,XBLA,Turn Based,",
+  "LastEdited": "2014-10-16T11:46:38.183-07:00"
+}

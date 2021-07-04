@@ -1,0 +1,9 @@
+{
+  "ProjectName": "produi",
+  "Title": "ProdUI",
+  "Description": "ProdUI is designed to be used when a GUI needs to be manipulated automatically (Prodded). Uses the UI Automation Framework to aid in testing GUI's",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong><span style=\"text-decoration:underline\"><span style=\"font-size:9.5pt; color:#30332d\">Project Description</span></span></strong></p>\r\n<p><strong>ProdUI is awake!</strong>&nbsp;I am looking for active volunteers to help me get this project back on its feet. First thing....get the repo back in order and structure the solution. Quite a bit of work has been done on the WinForms and Ehllapi stuff,\r\n but now its time to get to WPF and web.&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "UI Automation,C#,Window Investigation,UIA,Accessibility,",
+  "LastEdited": "2016-03-22T05:15:10.273-07:00"
+}

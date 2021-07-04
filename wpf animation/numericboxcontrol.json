@@ -1,0 +1,9 @@
+{
+  "ProjectName": "numericboxcontrol",
+  "Title": "NumericBox WPF User Control Library",
+  "Description": "The NumericBox WPF User Control is a simple numeric up/down control for WPF applications. It supports setting a min and max value, and it has the most essential events. Currently it's only working with integers. The User Control Library is developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The NumericBox WPF User Control is a simple numeric up&#47;down control for WPF applications. It supports setting a min and max value, and it has the most essential events. Currently it&#39;s only working with integers. The User Control Library is developed in C&#35;.<br /><br /><b>License</b>: <a href=\"http://numericboxcontrol.codeplex.com/license\">The MIT License</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C# 4.0,C#,WPF,WPF controls,wpf control,UserControls,User Controls,",
+  "LastEdited": "2010-09-04T07:49:09.963-07:00"
+}

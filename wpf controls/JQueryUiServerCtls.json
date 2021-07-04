@@ -1,0 +1,9 @@
+{
+  "ProjectName": "JQueryUiServerCtls",
+  "Title": "jQuery Ui Server Controls",
+  "Description": "JQueryUi Server Controls provide ASP.net MVC server controls which output JQuery UI controls (only tab control at this time).  This ensures that your page is always displayed as you intend & doesn't have a delay while the JQuery UI script is applied, which can look unprofessional",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />JQueryUi Server Controls provide ASP.net MVC server controls which output JQuery UI controls &#40;only tab control at this time&#41;.  This ensures that your page is always displayed as you intend &#38; doesn&#39;t have a delay while the JQuery UI script is applied, which can look unprofessional<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-24T22:17:09.59-07:00"
+}

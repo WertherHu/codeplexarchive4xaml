@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Shifter",
+  "Title": "Shifter, a lightweight IoC container",
+  "Description": "Shifter is an inversion of control (IoC) container. It is design as a very lightweight container. It is written in c#.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Shifter is an inversion of control &#40;IoC&#41; container. It is design as a very lightweight container. It is written in c&#35;.<br /><br />Right now it supports constructor, field, property and method injection. Recently I added Windows Phone 8. Now you can implement dependency injection with Shifter on your Windows 8 phone!<br /><br />I hope you like it.<br /><br />I have a blog where I will publish information. My blog is <a href=\"http://www.tronsoft.nl\">http://www.tronsoft.nl</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ioc,",
+  "LastEdited": "2013-05-11T07:19:02.173-07:00"
+}

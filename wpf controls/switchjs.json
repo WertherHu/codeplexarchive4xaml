@@ -1,0 +1,9 @@
+{
+  "ProjectName": "switchjs",
+  "Title": "Switch JS Control (Client Side)",
+  "Description": "Switch JS control is a very light client side library to create switch(es) on web applications or mobile applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>Switch JS control is a very light client side library to create switch(es) for web applications or mobile applications. Idea was to design a very simple iPhone style of switch control to use it on android and iPhone applications. You will find the design\r\n very rough in the attached example. but i hope it might be helpful to some extent, and can be extended/enhanced to make it nice and usable.<br>\r\n<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-31T08:17:43.803-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LunarPhaseGadget",
+  "Title": "Lunar Phase Silverlight Gadget",
+  "Description": "Meet the moon phase, percent of illumination and corresponding zodiac sign from your desktop. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Meet the moon phase, percent of illumination and corresponding zodiac sign from your desktop. <br /><br /><img src=\"http://img528.imageshack.us/img528/3501/lunarphase3.png\" /><br /><br />Lunar Phase Gadget is a Windows gadget for sidebar. <br /><br />It&#39;s developed in Silverght 3 with VS2010 RC. <br /><br />Full tested. <br /><br />Completely MVVM implementation. <br /><br />Multilanguage, auto location detection, support spanish, english, italian, chinese, french and Portuguese, default english<br /><br /><i>By default Silverlight gadget <b>don&#39;t work with Windows 64 bits</b>. You have to close your current sidebar and then run sidebar.exe (32bit) from C:\\program files (x86)\\Windows sidebar.</i><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Gadget,Moon Phases,MVVM,Localization,",
+  "LastEdited": "2010-04-11T11:58:50.42-07:00"
+}

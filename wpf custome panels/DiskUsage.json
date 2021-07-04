@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DiskUsage",
+  "Title": "Disk Usage",
+  "Description": "Disk Usage is a small WPF tool to analyze the drive space on Windows. It can plot pie charts of the folder size. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Disk Usage is a small WPF tool to analyze the drive space on Windows. It can plot pie charts of the folder size. <br /><br /><img src=\"https://sites.google.com/site/pchandir/home/DiskUsage.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-31T04:56:01.68-08:00"
+}

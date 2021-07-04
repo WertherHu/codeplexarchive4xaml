@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vmworkshop",
+  "Title": "VM Workshop",
+  "Description": "The VM Workshop is a simple reference application demonstrating the Model View ViewModel (MVVM) and Presentation Model pattern in a number of different UI platforms:\r\n\r\n - Silverlight\r\n - WPF \r\n - WebForms \r\n - ASP.NET MVC \r\n - Ajax \r\n - WinForms \r\n\r\nAvailable in C# and VB.NET",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The VM Workshop is a simple reference application demonstrating the Model View ViewModel &#40;MVVM&#41; and Presentation Model pattern in a number of different UI platforms&#58;<br /><br /> - Silverlight<br /> - WPF <br /> - WebForms <br /> - ASP.NET MVC <br /> - Ajax <br /> - WinForms <br /><br />Available in C&#35; and VB.NET</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-02T15:10:13.257-08:00"
+}

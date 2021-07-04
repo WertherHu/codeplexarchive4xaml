@@ -1,0 +1,9 @@
+{
+  "ProjectName": "epiccms",
+  "Title": "EpicCms",
+  "Description": "epiccms is only a name. The underlying system consists of two components: an api data service that replicates database tables, views, and procedures directly by url routes; a web interface that is very lightweight and purposed only to directly edit database table data. It is the intention that users will have full control over their data, how it is distributed, who has access, and when or how long anything(anyone) has access to all single pieces of data. It is also the intention that users will be able to easily use this interface to interact and set these basic rights to their data. Finally, it is the intent of the design of the system to give the ability to exclusively to control data users create and protect the fundamental creative rights of all people.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />epiccms is only a name. The underlying system consists of two components&#58; an api data service that replicates database tables, views, and procedures directly by url routes&#59; a web interface that is very lightweight and purposed only to directly edit database table data. It is the intention that users will have full control over their data, how it is distributed, who has access, and when or how long anything&#40;anyone&#41; has access to all single pieces of data. It is also the intention that users will be able to easily use this interface to interact and set these basic rights to their data. Finally, it is the intent of the design of the system to give the ability to exclusively to control data users create and protect the fundamental creative rights of all people.<br /><br />Active beta site: <a href=\"http://keneucker.aspnet45.cytanium.com/\">http://keneucker.aspnet45.cytanium.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-22T15:29:12.383-07:00"
+}

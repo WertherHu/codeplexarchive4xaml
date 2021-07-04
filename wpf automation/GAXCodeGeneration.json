@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GAXCodeGeneration",
+  "Title": "Code Generation Guidance Package",
+  "Description": "A Guidance package which allows you to generate items from within Visual Studio, selecting metadata from a wizard and generating against a T4 template.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Guidance package which allows you to generate items from within Visual Studio, selecting metadata from a wizard and generating against a T4 template.<br /><br />See the following blog posts for more details:\n<ul><li><a href=\"http://geekswithblogs.net/EltonStoneman/archive/2009/03/07/code-generation-guidance-package.aspx\">Code Generation Guidance Package</a> - describes the base Code Generation GAX package</li>\n<li><a href=\"http://geekswithblogs.net/EltonStoneman/archive/2009/03/08/sixeyed.guidance.codegeneration-sample-package.aspx\">Sixeyed.Guidance.CodeGeneration Sample Package</a> - describes customizing the basic package with tailored recipes</li>\n<li><a href=\"http://geekswithblogs.net/EltonStoneman/archive/2009/03/09/sixeyed.guidance.codegeneration-technical-walkthrough.aspx\">Sixeyed.Guidance.CodeGeneration: Technical Walkthrough</a> - technical description of the Code Generation components</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "GAX,T4,Guidance Automation,Code Generator,code generation,",
+  "LastEdited": "2009-03-09T11:07:29.233-07:00"
+}

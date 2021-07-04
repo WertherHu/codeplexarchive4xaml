@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spotifyremote",
+  "Title": "SpotifyRemote",
+  "Description": "Small .NET 3.5 based app to control the Spotify (http://www.spotify.com/) client from a webbased interface suitable for mobile devices such as iPod/iPhone.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Small .NET 3.5 based app to control the Spotify &#40;http&#58;&#47;&#47;www.spotify.com&#47;&#41; client from a webbased interface suitable for mobile devices such as iPod&#47;iPhone.<br /><br /><b>SpotifyAPI</b><br /><br />This project also contains a simple API to communicate with the Spotify client. The API got most basic features implemented such as play/pause, next/prev, current playing song info. Download file &quot;<a href=\"/projects/spotifyremote/983ce097-0331-43ae-a629-6f7867dc2be5\">APIDemo.zip</a>&quot; to see what it can do.<br /><br /><br /><img src=\"/projects/spotifyremote/79d7e6ef-a26d-49ea-8749-48744e7dfebb\" alt=\"DSC00607.JPG\" title=\"DSC00607.JPG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "spotify,remote,spotifyremote,spotifyapi,api,",
+  "LastEdited": "2009-08-20T13:52:05.2-07:00"
+}

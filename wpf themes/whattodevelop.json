@@ -1,0 +1,9 @@
+{
+  "ProjectName": "whattodevelop",
+  "Title": "What to develop",
+  "Description": "What to develop 是为“提督業も忙しい！” (KanColleViewer) 设计的明石工厂插件",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>What to develop 是为&#8220;提督業も忙しい&#65281;&#8221; &#40;KanColleViewer&#41; 设计的明石工厂插件</b><br /><br />“提督業も忙しい！” (<a href=\"http://http://grabacr.net/kancolleviewer\">KanColleViewer</a>)是ぐらばく设计的DMM网页游戏“艦隊これくしょん ～艦これ～”插件。<br /><br /><b>使用方法</b><br />点击<a href=\"https://whattodevelop.codeplex.com/documentation\">这里</a>查看说明文档<br />如有任何疑问或建议欢迎就地贴条，或到<a href=\"http://bbs.ngacn.cc/read.php?tid=7764930\">NGA</a>发贴。<br /><br /><b>授权</b><br />- KanColleViewer 通过 MIT 协议授权用户<br />- 本应用通过 GPL 协议授权用户<br />- Style 目录下的样式来源于 <a href=\"http://www.codeproject.com/Articles/442856/Visual-Studio-Metro-Styles-for-WPF\">Winfried L&#246;tzsch</a>，通过 COPL 协议授权<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "KanColleViewer,XML,WPF,可以在二号舰后面添加一栏改修完会变成什么,初次进入屏幕小右侧无滚轮看不到全部,",
+  "LastEdited": "2015-03-26T00:25:06.563-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "chromacode",
+  "Title": "ChromaCode",
+  "Description": "ChromaCode is a syntax highlighter library for WPF developers. It is developed in C# for .NET 4 as an extension to the WPF Richtext control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>Project Description</h3>\rChromaCode is a syntax highlighter library for WPF developers. It is developed in C&#35; for .NET 4 as an extension to the WPF Richtext control<br />\n<h2>Introduction</h2>\rChromaCode is a WPF syntax code highlighter which is full customisable via XML definition files. The main features that I would like to get out of this highlighter are:<br />\n<ul><li>Most important: it must be reasonable fast and handle files of a reasonable size</li>\n<li>It must support highlighting of:\n<ul><li>Words</li>\n<li>Characters</li>\n<li>Groups (i.e. block comments such as those surrounded by /* */ in C</li>\n<li>Regular Expressions</li></ul></li>\n<li>It must be configurable so that it can support different languages</li></ul>\n<br />The following is an example of the highlighter at work in its current state. I am very close to a release no, just a few more tests and bugs to work out:<br /><br /><img src=\"/projects/chromacode/ca1a2a37-c341-489f-a938-bd383bf62401\" alt=\"introduction.png\" title=\"introduction.png\" /><br /><br />The project came about becuase of these three reasons:<br />\n<ol><li>To help me learn more about creating WPF custom controls</li>\n<li>Because I needed a syntax highlighter for my other project <a href=\"http://superquery.codeplex.com\">SuperQuery</a> and I couldn&#39;t find one that did everything I wanted and was compatible with the SuperQuery GPL license.</li>\n<li>And perhaps the most important reason: It is fun to set these challenges and try and solve them :)</li></ol>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,.NET 4,C#,syntax highlighting,Custom Controls,",
+  "LastEdited": "2011-05-05T14:42:03.68-07:00"
+}

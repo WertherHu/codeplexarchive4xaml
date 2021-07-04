@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hueLampStatus",
+  "Title": "Philips Hue Lamp Change Color Based On User Status (Skype, Lync, Outlook calenda",
+  "Description": "The color of Hue Lamp is controlled based on user status (Lync, Outlook Calendar, Skype). For example, when a user is in a call, the lamp color will be red. Whe",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The color of Hue Lamp is controlled based on user status (Lync, Outlook Calendar, Skype). For example, when a user is in a call, the lamp color will be red. When the user is free, the lamp color will be green.<br /><br />You will need to install Skype API SDK, Lync 2013 API SDK and you need to have installed Outlook 2013. The application is not finished yet, but is a good starting point. Until now, on my machine worked pretty okay. Because of Skype API SDK don’t forget to build solution for a 86x processor.<br /><br />https://vunvulearadu.blogspot.com</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-08-10T00:51:56.89-07:00"
+}

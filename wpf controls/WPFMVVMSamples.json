@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFMVVMSamples",
+  "Title": "WPFMVVMSamples",
+  "Description": "Prototype for displaying prompt windows and get user response to continue a process. The App is built using C# WPF(.NET 4.5.1), Modern UI for WPF and MVVM.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Modern UI Prompt Windows</h1>\rA prototype using Modern UI for WPF and MVVM to Display Prompt Windows inorder to receive response from the User which in turn maybe used to continue a process or perform an action based on the given input.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-02T06:00:30.647-07:00"
+}

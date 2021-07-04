@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightModal",
+  "Title": "Silverlight Modal Window",
+  "Description": "Modal UserControl that \"wraps\" a hosted UserControl inside a window frame which provides for resizing, moving, maximizing, and many of the other features enjoyed with traditional modal Windows forms.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Modal UserControl that &#34;wraps&#34; a hosted UserControl inside a window frame which provides for resizing, moving, maximizing, and many of the other features enjoyed with traditional modal Windows forms.<br /><br /><br />This project is an extension of the following:<br /><br /><a href=\"http://www.codeproject.com/KB/silverlight/slmodal.aspx\">http://www.codeproject.com/KB/silverlight/slmodal.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2009-04-01T09:06:25.503-07:00"
+}

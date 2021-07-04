@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pausetask",
+  "Title": "Pause Task",
+  "Description": "Pauses a SQL Server Integration Services Control Flow for a specified number of milliseconds, or until a specific time of day.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Pauses a SQL Server Integration Services Control Flow for a specified number of milliseconds, or until a specific time of day.<br /><br /><br /><img src=\"http://7s0stw.blu.livefilestore.com/y1pJRPq2rXPPCcYo3PPe_wklBRDKkIb9m2xovuYEweZkpK9MWUsuElEzZtMAflioG9iOfVZjaK3ogQwlNKWORhPWzVTfrNdQdu9/PauseTaskOnDesignSurface.jpg\" /><br /><br />Please visit the <a href=\"http://ssisctc.codeplex.com\">SSIS Community Tasks and Components</a> project on CodePlex for more useful SSIS tools.<br /><br />The Task can be configured to wait for an elapsed time:<br /><br /><img src=\"http://7s0stw.blu.livefilestore.com/y1pxpgq1Y-W78kAZbqWJfiiMJyQP6AdqNCqUigaHFCtb5ckaFAWTkULE1cYT3AaFAPoGXJpuqibcQAeoPTR8Rve9lBrBshd91Gu/PauseTaskEditorElapsed.jpg\" /><br /><br />Or delay until a specific time of day:<br /><br /><img src=\"http://7s0stw.blu.livefilestore.com/y1pbH1EUflSPyWJqEMcfWFo6rwr8cW_bj-fOmLV3iGvKaL7rxxlZsqWw29xKXeqylyazhvUm62_3uAFi7oTwaFYY4Imwy94BAWT/PauseTaskEditorUntil.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-03T11:16:22.427-08:00"
+}

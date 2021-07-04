@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MiniHSM",
+  "Title": "Mini HSM (Hierarchical State Machine)",
+  "Description": "A fast lightweight implementation of a Hierarchical State Machine (HSM) for .NET 4, Windows Store Apps, Windows Phone and Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Relocated to the <a href=\"https://minihsm.codeplex.com/wikipage?title=url%3ahttp%3a%2f%2ffreshmeat.codeplex.com&referringTitle=Home\">FreshMeat Project</a></h2>\r\n<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "hierarchical,State,machine,HSM,statechart,",
+  "LastEdited": "2013-03-08T23:41:27.03-08:00"
+}

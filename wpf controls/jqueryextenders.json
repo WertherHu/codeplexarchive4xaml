@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jqueryextenders",
+  "Title": "JQuery Control Extenders for ASP.NET",
+  "Description": "Unlike many other projects providing jQuery integration for ASP.NET, this library aims to implement jQuery controls by using ExtenderControl and provide a similar experience to the AjaxControlToolkit,",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Unlike many other projects providing jQuery integration for ASP.NET, this library aims to implement jQuery controls by using ExtenderControl and provide a similar experience to the AjaxControlToolkit,<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-10T04:02:32.003-08:00"
+}

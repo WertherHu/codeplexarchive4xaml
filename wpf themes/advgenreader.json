@@ -1,0 +1,9 @@
+{
+  "ProjectName": "advgenreader",
+  "Title": "AdvGenReader",
+  "Description": "This project is to build a user friendly RSS reader. We are aimed to use WPF for this project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is to build a user friendly RSS reader. We are aimed to use WPF for this project.<br />This is Initiated by <a href=\"http://www.advgen.com\">AdvanGeneration</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "RSS,wpf,MVC,",
+  "LastEdited": "2013-07-19T04:56:20.857-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "smartvoice",
+  "Title": "Smart Voice",
+  "Description": "Smart Voice let's you control Skype using your voice. It allows you to write messages, issue phone calls, etc. This application was developed thinking in cars and was made for a curricular unit at my university. Currently I'm using C#/.NET, Microsoft SAPI and the Skype API.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Smart Voice let&#39;s you control Skype using your voice. It allows you to write messages, issue phone calls, etc. This application was developed thinking in cars and was made for a curricular unit at my university. Currently I&#39;m using C&#35;&#47;.NET, Microsoft SAPI and the Skype API.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Skype,Skype API,Voice,SAPI,.NET,Smart Voice,",
+  "LastEdited": "2010-05-29T01:30:15.33-07:00"
+}

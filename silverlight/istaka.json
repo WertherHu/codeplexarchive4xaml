@@ -1,0 +1,9 @@
+{
+  "ProjectName": "istaka",
+  "Title": "Okey Board Game",
+  "Description": "Istaka is a turkish board game called \"Okey\".\r\nPlayed with domino like pieces on a board,\r\nwith four players getting turns.\r\n\r\nProject supports client platform to meet \r\nplayers and play the game over internet.\r\n\r\nSilverlight, MVC pattern used.\r\n\r\nNeeds improvement on UI Design.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Okey Board Game v0.1</h1>\r\n<br /><i>lobby</i><br /><img src=\"http://istaka.codeplex.com/download?DownloadId=153621\" /><br /><br /><br /><i>game play</i><br /><img src=\"http://istaka.codeplex.com/download?DownloadId=153622\" /><br />\n<hr />\n<h2>What is it?</h2>\rIstaka is a turkish board game called &#34;Okey&#34;.<br />Played with domino like pieces on a board,<br />with four players getting turns.<br /><br />Project supports client platform to meet <br />players and play the game over internet.<br /><br />Silverlight, MVC pattern used.<br /><br />Needs improvement on UI Design.<br /><br />\n<hr />\n<h2>Usage &amp; Setup</h2>\rPlease mail me or leave your contact information if you have any troubles or interest on this project. <br />eguneys@hotmail.com</div><div class=\"ClearBoth\"></div>",
+  "TagList": "multiplayer,game,Design,",
+  "LastEdited": "2010-10-11T13:36:38.65-07:00"
+}

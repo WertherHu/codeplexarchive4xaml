@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sctsc",
+  "Title": "Search Community Toolkit - ASP.NET Search Controls",
+  "Description": "The ASP.NET search controls, part of the Search Community Toolkit, provides ASP.NET developers with simple to use set of search controls (Search input and results controls) which connect to the search web service on SharePoint Server 2007, SharePoint Server 2007 for Search, Search Server 2008 and Search Server 2008 Express.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/sctsc/985432d4-3287-4e31-a8bd-d5373c8afca0\" alt=\"searchcomv2small.jpg\" title=\"searchcomv2small.jpg\" /><br /><br /><b>Project Description</b><br />The ASP.NET search controls, part of the Search Community Toolkit, provides ASP.NET developers with simple to use set of search controls &#40;Search input and results controls&#41; which connect to the search web service on SharePoint Server 2007, SharePoint Server 2007 for Search, Search Server 2008 and Search Server 2008 Express.<br /><br />The controls provide a simple and easy way to add search capability to your ASP.NET site very quickly (<b>and for free if you use <a href=\"http://www.microsoft.com/enterprisesearch/serverproducts/searchserverexpress/download.aspx\">Search Server 2008 Express</a></b>) and brand the results using XSLT. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,",
+  "LastEdited": "2008-05-20T14:18:37.01-07:00"
+}

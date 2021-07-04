@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TreeViewWP8",
+  "Title": "TreeView_WP8",
+  "Description": "The control for Windows phone 8 which showing hierarchical data.\r\nSupport MVVM ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>TreeView control</strong><br>\r\n<br>\r\nThe control for <strong>Windows phone 8</strong> which showing&nbsp;hierarchical data</p>\r\n<p><em>You can see MVVM example in&nbsp;<a href=\"https://treeviewwp8.codeplex.com/SourceControl/latest#TreeView/Example/\">SOURCE CODE</a></em></p>\r\n<p><a href=\"https://www.nuget.org/packages/TreeView_WP8/\" target=\"_blank\">Nuget package</a></p>\r\n<p><img src=\"/projects/TreeViewWP8/abe6bb05-50bf-4885-92f1-2c15b19a0c47\" alt=\"\" width=\"480\" height=\"800\"></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,Tree,tree view,",
+  "LastEdited": "2014-03-04T01:24:10.243-08:00"
+}

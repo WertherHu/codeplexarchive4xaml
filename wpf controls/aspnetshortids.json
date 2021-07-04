@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspnetshortids",
+  "Title": "ASP.NET ShortIDs Control Toolkit aka NunoGomesControlToolkit",
+  "Description": "This toolkit is intended to improve web apps performance by decreasing total page size. This page size reduction is achieved by decreasing control ClientID size.\n\nThis control toolkit can be applied to any existing ASP.NET 2.0 Web Aplication by using tagmappings.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This toolkit is intended to improve web apps performance by decreasing total page size. This page size reduction is achieved by decreasing control ClientID size.<br /><br />This control toolkit can be applied to any existing ASP.NET 2.0 Web Aplication by using tagmappings.<br /><br />To obtain maximum redution it&#39;s also recommended to extend webforms, masterpages and usercontrols not from regular Page, MasterPage and UserControl controls from ASP.NET framework but instead use the corresponding control from this toolkit.<br /><br />TagMapping is only used for markup interpretation and therefore all dynamic created controls are not mapped. To override this limitation its also included in this toolkit the DynamicControlBuilder class. Use this class to allow tagmapping over dynamic created controls.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Tools,webcontrols,shortid,Controls,",
+  "LastEdited": "2009-07-02T16:54:17.337-07:00"
+}

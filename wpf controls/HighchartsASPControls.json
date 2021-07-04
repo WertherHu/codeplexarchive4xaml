@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HighchartsASPControls",
+  "Title": "Highcharts ASP.NET Controls",
+  "Description": "Highcharts is the most powerfull JS library for showing charts in html. Now I'm creating ASP.NET user controls for using this component easily and faster.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Highcharts ASP.NET Controls</h1>\r\n<a href=\"http://www.Highcharts.com\">Highcharts</a> is the most powerfull JS library for showing charts in html. Now I&#39;m creating ASP.NET user controls for using this component easily and faster.<br /><br /><b>Controls:</b>\n<ul><li><a href=\"https://highchartsaspcontrols.codeplex.com/wikipage?title=Chart&referringTitle=Home\">Chart</a></li>\n<li><a href=\"https://highchartsaspcontrols.codeplex.com/wikipage?title=Gauge&referringTitle=Home\">Gauge</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".Net,Javascript,ASP.NET,Component,Highcharts,",
+  "LastEdited": "2013-11-15T20:54:42.197-08:00"
+}

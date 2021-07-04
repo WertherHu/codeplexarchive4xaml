@@ -1,0 +1,9 @@
+{
+  "ProjectName": "thehelpertrinity",
+  "Title": "The Helper Trinity",
+  "Description": "This project contains a set of helper classes for most any .NET application: argument checking, event raising, and exception raising. The code supports my article [url:The Helper Trinity|http://www.codeproject.com/KB/cs/thehelpertrinity.aspx]. For now at least, documentation is available solely via the article.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project has moved to <a href=\"https://github.com/kentcb/TheHelperTrinity\">GitHub</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,mono,.NET 3.5,Extension Methods,argument checking,event raising,exception raising,helper,Helpers,revisit,Silverlight,NuGet,",
+  "LastEdited": "2015-01-07T23:14:59.563-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "KinectHandTracking",
+  "Title": "Simple Hand Tracking with MS Kinect SDK & WPF",
+  "Description": "KinectHandTracking makes it easier for MS Kinect SDK developers to track the hands and tell whether a hand is making a fist. It's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nKinectHandTracking makes it easier for MS Kinect SDK developers to track the hands and tell whether a hand is making a fist. It's developed in C#.<br>\r\n<br>\r\nI'm doing my best to make it work in a very simple way.<br>\r\nthough it's unstable now.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-03T01:08:17.86-07:00"
+}

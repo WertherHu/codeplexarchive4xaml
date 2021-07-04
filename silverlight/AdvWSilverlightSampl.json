@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AdvWSilverlightSampl",
+  "Title": "AdventureWorks Silverlight samples",
+  "Description": "AdventureWorks Silverlight samples",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />AdventureWorks Silverlight samples<br /><br />- Install SQL2008.AdventureWorksLT2008 database (http://msftdbprodsamples.codeplex.com/releases/view/37109)<br />- Create AdventureWorks database<br />(AdventureWorks 2008 OLTP Script<br />http://msftdbprodsamples.codeplex.com/releases/view/89502 )<br />- Change &lt;connectionStrings&gt; in web.config</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-07-07T12:43:35.1-07:00"
+}

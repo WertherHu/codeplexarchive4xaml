@@ -1,0 +1,9 @@
+{
+  "ProjectName": "KSharpLib",
+  "Title": "KSharp Ajax Control Toolkit Library",
+  "Description": "Built ontop of the Microsoft ASP.NET Ajax Control Toolkit, this library offers enhanced versions of the controls found in the Ajax Control Toolkit.\n\nThis initial \"preview\" release will showcase an extended CalendarExtender Control, which has the ability to limit date selections.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Built ontop of the Microsoft ASP.NET Ajax Control Toolkit, this library offers enhanced versions of the controls found in the Ajax Control Toolkit.<br /><br />This initial &#34;preview&#34; release will showcase an extended CalendarExtender Control, which has the ability to limit date selections.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-28T16:29:23.56-07:00"
+}

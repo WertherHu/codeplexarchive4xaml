@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mobilefitvut",
+  "Title": "Mobile FIT VUT",
+  "Description": "Školní aplikace pro začínající studenty FIT VUT. Obsahuje potřebné informace pro studium na Vysokém učení v Brně fakulta Informačních technologií.\r\n\r\nAplikace obsahuje:\r\n-školní příručku\r\n-aktuální jídelní lístkem menz\r\n-kontaktní informace na zaměstnance FIT VUT\r\n-mapu fakulty FIT\r\n-aktuality\r\n-plánovač úloh\r\n\r\nAplikace se nachází na Windows Marketplace: http://www.windowsphone.com/cs-CZ/apps/c2e8036d-970a-4ab1-8ca4-b97788a0dcb5\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Mobile FIT VUT je školn&#237; aplikace pro zač&#237;naj&#237;c&#237; studenty FIT VUT. Obsahuje potřebn&#233; informace pro studium na Vysok&#233;m učen&#237; v Brně fakulta Informačn&#237;ch technologi&#237;. Aplikace je vytvořena na platformu Windows Phone 7.1 a využ&#237;v&#225; datov&#233; služby. Jazyk aplikace je čeština.<br /><br />Aplikace obsahuje:<br />- školn&#237; př&#237;ručku<br />- aktu&#225;ln&#237; j&#237;deln&#237; l&#237;stkem menz<br />- kontaktn&#237; informace na zaměstnance FIT VUT<br />- mapu fakulty FIT<br />- aktuality<br />- pl&#225;novač &#250;loh<br /><br />v 1.1:<br />- přid&#225;na funkce rozvrh, umožuje si vytvořit vlastn&#237; rozrvh<br />- grafick&#233; &#250;pravy<br />- změna ovl&#225;dac&#237;ch prvků<br /><br />v 1.2:<br />- grafick&#233; &#250;pravy<br />- doplněna datab&#225;ze kontaktů<br />- upraven&#225; funkce rozvrh<br /><br />v 1.3:<br />- upraven&#225; pr&#225;ce se soubory v isolated storage<br /><br />v 1.4:<br />- upraven&#225; a doplněna datab&#225;ze kontaktů<br /><br />Aplikace se nach&#225;z&#237; na Windows Marketplace:<br /><a href=\"http://www.windowsphone.com/cs-CZ/apps/c2e8036d-970a-4ab1-8ca4-b97788a0dcb5\">http://www.windowsphone.com/cs-CZ/apps/c2e8036d-970a-4ab1-8ca4-b97788a0dcb5</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-12T04:25:07.793-07:00"
+}

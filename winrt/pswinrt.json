@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pswinrt",
+  "Title": "WinRT PowerShell Module",
+  "Description": "These PowerShell cmdlets are wrappers around WinRT APIs that are callable by desktop applications, such as the PeerFinder class for discovering paired devices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />These PowerShell cmdlets are wrappers around WinRT APIs that are callable by desktop applications, such as the PeerFinder class for discovering paired devices.<br /><br />You can use these cmdlets to quickly query for information exposed to desktop applications for use in Windows Store applications without the overhead of describing UI and setting bindings. For example, you can use <span class=\"codeInline\"> Get-DeviceInformation </span> to list all the devices and their properties so you can define the proper AQS filter in your modern application.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Win8,winrt,powershell,",
+  "LastEdited": "2012-11-28T14:19:11.25-08:00"
+}

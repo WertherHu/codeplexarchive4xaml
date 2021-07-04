@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spatools",
+  "Title": "SPA Tools",
+  "Description": "SPA Tools is an open-source set of tools which help creating some beautiful and responsive Single Page Applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>SPA Tools</h1>\rSPA Tools is an open-source set of tools which help creating some beautiful and responsive SPA. <br />This packages depends on several javascript libraries :\n<ul><li><a href=\"http://knockoutjs.com/\">Knockout</a></li>\n<li><a href=\"http://underscorejs.org/\">Underscore</a></li>\n<li><a href=\"http://jquery.com\">jQuery</a></li>\n<li><a href=\"http://sammyjs.org/\">Sammy</a></li></ul>\n\n<h2>Data context</h2>\r<ul><li>Javascript ORM</li>\n<li>Mapped to OData Service</li>\n<li>Relations (one2many, one2one, many2one)</li>\n<li>Local Cache</li>\n<li>Extensible</li></ul>\n\n<h2>Knockout Extensions</h2>\r<ul><li>Underscore integration</li>\n<li>Moment integration</li>\n<li>jQuery UI integration</li>\n<li>Many binding handlers</li>\n<li>Many extenders</li></ul>\n\n<h2>SPA Bootstrapper</h2>\r<ul><li>Wrappers</li>\n<li>Navigation</li>\n<li>LocalStorage</li>\n<li>Messaging (inter View Model)</li>\n<li>App Templates</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "odata,knockout,javascript,webapi,spa,orm,underscore,jquery,sammy,mvvm,binding,",
+  "LastEdited": "2012-12-20T08:33:21.957-08:00"
+}

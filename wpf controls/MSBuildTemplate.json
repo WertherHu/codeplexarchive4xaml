@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MSBuildTemplate",
+  "Title": "MSBuild Project Template for Visual Studio",
+  "Description": "A Visual Studio template that gives a basic framework for editing MSBuild project files from within the Visual Studio IDE, also supporting Source Control without leaving the Solution Explorer window.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Visual Studio template that gives a basic framework for editing MSBuild project files from within the Visual Studio IDE, also supporting Source Control without leaving the Solution Explorer window.<br /><br />see <a href=\"http://blogs.conchango.com/stuartpreston/archive/2008/03/21/msbuild-project-template-v2-0.aspx\">http://blogs.conchango.com/stuartpreston/archive/2008/03/21/msbuild-project-template-v2-0.aspx</a> for more information.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,MSBuild,Source Control,Visual Studio,Team System,",
+  "LastEdited": "2008-03-21T11:05:51.8-07:00"
+}

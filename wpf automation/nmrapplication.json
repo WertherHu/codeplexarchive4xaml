@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nmrapplication",
+  "Title": "Automation of the Interpretation of Data of NMR of non-rigid Molecules in mesoph",
+  "Description": "In this work a Computer System is presented for the Automation of the Interpretation of Data of Nuclear Magnetic Resonance of non-rigid Molecules in mesophases.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">In this work a Computer System is presented for the Automation of the Interpretation of Data of Nuclear Magnetic Resonance of non-rigid Molecules in mesophases.<br /><br />The present work is an application of the use of the computation in the development of problems related to physical sciences, in which Oriented Objects Techniques, Numeric Methods and Computer Graphics are applied.<br /><br />The coherent use of these techniques allows to endow to the application of the assembling capability and maintenance of certain non rigid molecules in mesophases, where the investigator defines orientational and conformational parameters, which are used in calculation processes to obtain the structure of the molecule and his tensile of order, having as starting point the given spectroscopyc values.<br /><br />The final product that has been obtained is Aplicaci&#243;n NMR, which has been implemented through the programming language Microsoft&#174; Visual C++™, Versi&#243;n 5.0.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-03-16T10:29:08.357-07:00"
+}

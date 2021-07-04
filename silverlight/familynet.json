@@ -1,0 +1,9 @@
+{
+  "ProjectName": "familynet",
+  "Title": "Family Net",
+  "Description": "Genealogy application in web environment, it is based on Family Show project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Genealogy application in web environment, it is based on Family Show project.<br /><br />Main idea is to have a branch of Family Show runing in the web, so it needs to replace user interface and others things to make it possible.<br /><br />First work is study the code and define changes needed, at the same time add people to the project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 2.0,Visual Studio 2008,.NET 3.0,",
+  "LastEdited": "2008-04-06T05:27:01.673-07:00"
+}

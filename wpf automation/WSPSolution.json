@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WSPSolution",
+  "Title": "SharePoint 2007 Solution and Packaging Guidance",
+  "Description": "WSPSolution is a standard for building SP 2007 solutions in Visual Studio, namespace planning, deployment planning, WSP creation, and build automation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WSPSolution is a standard for building SP 2007 solutions in Visual Studio, namespace planning, deployment planning, WSP creation, and build automation.<br /><br />This project is based on the guidance found in the post: <a href=\"http://weblogs.asp.net/erobillard/archive/2009/07/30/Building-and-Packaging-SharePoint-Solutions-and-the-WSPSolution-Project.aspx\">Building and Packaging SharePoint Solutions</a>. The post refers to two utilities (<a href=\"http://www.codeplex.com/WSPBuilder\">WSPBuilder</a> and <a href=\"http://code.msdn.microsoft.com/SPDisposeCheck\">SPDisposeCheck</a>) that should be downloaded separately and placed in the intended folders. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-30T20:46:15.433-07:00"
+}

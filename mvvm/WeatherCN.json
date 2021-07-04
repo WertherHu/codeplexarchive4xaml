@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WeatherCN",
+  "Title": "WeatherCN - 中国天气",
+  "Description": "WeatherCN - 中国天气",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWeatherCN - 中国天气</p>\r\n<table border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p><img src=\"http://download.codeplex.com/download?ProjectName=weathercn&DownloadId=208546\" alt=\"\"></p>\r\n</td>\r\n<td>\r\n<p>HighYouth写的Phone7小应用.用来熟悉Phone7开发模型.</p>\r\n<p>虽然只是一个&quot;天气预报&quot;,但作为Phone7应用,五脏俱全.</p>\r\n<p>Phone7有很多地方不同于企业级Silverlight应用的开发:</p>\r\n<p>很不同的一点是:如果你将MVVM引入Phone7,那么你的结局会很惨!<br>\r\n(非但不能从MVVM中受益还会深受其害,因为Phone7基于Silverlight3.0)</p>\r\n<p>并且目前这个Core .Net CLR中不包含GB2312编码，也就是说你从服务器返回的信息如果是<br>\r\nGB2312编码，你恐怕得使用我在WeatherCN中的处理方法&ldquo;换签证&rdquo;咯。</p>\r\n<p>还有Phone7的应用Run在手机端，所以会有更多的设计差异，譬如 设定 的功能要&ldquo;即时生效&rdquo;，<br>\r\n不出现还需点击&ldquo;确认&rdquo;按钮的设计。</p>\r\n<p>This is WeatherCN<br>\r\nGood Luck！</p>\r\n<p>&nbsp;</p>\r\n<p>欢迎访问我的技术手写：HighYouth.com</p>\r\n<p>加入微软战车技术交流群（原ImagineCup参赛队伍召集群）127133213</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;视频演示：<a href=\"http://www.tudou.com/programs/view/L3bji91h5tk/\" target=\"_blank\">http://www.tudou.com/programs/view/L3bji91h5tk/</a></p>\r\n<p>开发过程纪实：<a href=\"http://highyouth.com/viewthread.php?tid=129&extra=page%3D1\">http://highyouth.com/viewthread.php?tid=129&amp;extra=page%3D1</a></p>\r\n<p><a href=\"http://download.codeplex.com/download?ProjectName=weathercn&DownloadId=208551\">WeatherCN_Phone_Beta</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WeatherCN,Weather,Phone7,WP7,MVVM,",
+  "LastEdited": "2011-03-24T01:21:28.8-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WordXmlDataSrv",
+  "Title": "Word CustomXML data services",
+  "Description": "Services to add,change and read metadata embedded into a Word document. Metadata are stored in a custom XML file into the Word document. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Word Services for custom XML data</b><br /><br />The goal of this project is give a way to update programatically a Word document to modifiy embedded data. In some cases, you must link document content with Metadata as SharePoint do. You can found on CodePlex the great tool &quot;XMLMapping&quot;. &quot;XMLMapping&quot; use embedded custom XML into Word file and map it to content controls. With &quot;XMLMapping&quot;, you can add or update custom XML content but only from Word. In some scenario, you can do that from an external application and probably without Word installed. Typically from an ASP.NET application. If you plan to do that, this project is for you. It&#39;s a simple and easy solution based on web services technology.<br /><br />The project provide 2 services, one to set metadata&#39;s into Word and the second to retrieve there. To include metadata into the content of the Word document, use simply &quot;XMLMapping&quot; AddIn. As you see, this project is the ideal companion of &quot;XMLMapping&quot; project. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "WORD,CUSTOM XML,Content Controls,xml mapping,",
+  "LastEdited": "2013-04-16T22:49:24.53-07:00"
+}

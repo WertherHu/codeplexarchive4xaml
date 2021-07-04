@@ -1,0 +1,9 @@
+{
+  "ProjectName": "efis",
+  "Title": "Electronic flight instrument system EFIS (VB WPF+forms controls)",
+  "Description": "Electronic flight instruments controls to use in windows forms and WPF forms",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Electronic flight instruments controls to use in windows forms and WPF forms<br /><br /><br />I have been using small rc planes and helicopters, and I don&#39;t like the way the telemetry is displayed on the ground station. I would prefer some more realistic and fancy airliner MFD like way. I didn&#39;t see any other project like this, so I decided to start my own.<br /><br />The programming language I will use is Visual Basic .net v4.5.<br /><br />For begining I will make WPF form controls that wil indicate all Boeing 737-800 EFIS system:\n<ul><li>PFD</li>\n<li>MFD</li>\n<li>EICAS</li>\n<li>EICAM</li></ul>\n<br /><b>PFD</b><br />The PFD (Primary Flight Display) mainly displays the ADI (Attitude Director Indicator) also know as the &quot;Artificial Horizon&quot;, and speed and altitude tapes. When complete all of the will be fully functional.<br />A picture is shown bellow how it will be (image from wikipedia)<br /><br /><img src=\"http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Primary_Flight_Display.svg/530px-Primary_Flight_Display.svg.png\" /><br /><br />At first I will start with PFD, when completed, I will start the next one.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "electronic,flight,instrument,system,EFIS,ADI,attitude,director,indicator,PFD,primary,display,",
+  "LastEdited": "2015-01-27T12:30:40.307-08:00"
+}

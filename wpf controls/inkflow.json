@@ -1,0 +1,9 @@
+{
+  "ProjectName": "inkflow",
+  "Title": "Ink Flow",
+  "Description": "The project is for the learning of F# in application development: WPF, SharpGL, Asynchronous. \r\nThe software is for creating art with realistic ink dynamics.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The project is for the learning of F&#35; in application development&#58; WPF, SharpGL, Asynchronous. <br />The software is for creating art with realistic ink dynamics.<br /><br />This is a small program I am building for fun to learn application programming with F#, wpf, sharpgl, and asynchronous programming. It runs like a paint program but its focus is ink with ink dynamics to model flow and eluent flow (ink separation). </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-21T11:08:00.27-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ThePeoplesJukebox",
+  "Title": "The People's Jukebox",
+  "Description": "The People's Jukebox lets you run a centralised music server and control it from multiple clients. The jukebox plays tracks from pre-configured lists, user choices and random selections. Implemented as RESTful WCF services on the server, with a Silverlight client.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>The People&#39;s Jukebox</b><br />The People&#39;s Jukebox lets you run a centralised music server and control it from multiple clients. The jukebox plays tracks from pre-configured lists, user choices and random selections. Implemented as RESTful WCF services on the server, with a Silverlight client.<br /><br /><b>Sample</b><br />Try a live sample of the jukebox here: <a href=\"http://sixeyed.com/ThePeoplesJukebox.html\">The People&#39;s Jukebox on sixeyed.com</a>. This is a stubbed version, there&#39;s no music playing on the server, and the client always shows the same results, but it demonstrates how the client works.<br /><br /><b>References</b><br />More details on installing and configuring the jukebox, and a brief technical walkthrough are on my blog: <a href=\"http://geekswithblogs.net/EltonStoneman/archive/2009/09/30/the-peoples-jukebox.aspx\">The People&#39;s Jukebox</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-30T12:02:19.707-07:00"
+}

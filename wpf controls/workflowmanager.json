@@ -1,0 +1,9 @@
+{
+  "ProjectName": "workflowmanager",
+  "Title": "WorkflowManager",
+  "Description": "Provides a set of controls for managing workflows hosted by Windows Workflow Foundation in ASP.NET web applications. The framework provides support for workflow-wiring with a minimal need for code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides a set of controls for managing workflows hosted by Windows Workflow Foundation in ASP.NET web applications. The framework provides support for workflow-wiring with a minimal need for code.<br /><br /><b>Disclaimer</b><br />The project is in an early stage of planning/development. It&#39;s not stable and certainly not complete!<br />Please add suggestions and requests in the discussions.<br /><br /><b>Requirements</b>\n<ul><li><a href=\"http://www.microsoft.com/downloads/details.aspx?FamilyId=10CC340B-F857-4A14-83F5-25634C3BF043\">Microsoft .NET Framework 3.0</a></li>\n<li><a href=\"http://www.microsoft.com/downloads/details.aspx?familyid=5d61409e-1fa3-48cf-8023-e8f38e709ba6&amp;displaylang=en\">Visual Studio 2005 extensions for .NET Framework 3.0</a></li></ul>\n<br /><b>Examples</b>\n<ul><li><a href=\"https://workflowmanager.codeplex.com/wikipage?title=WorkflowManager%20markup&referringTitle=Home\">WorkflowManager markup</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,workflow,WWF,Workflow Foundation,.NET 3.5,",
+  "LastEdited": "2007-05-22T01:28:27.51-07:00"
+}

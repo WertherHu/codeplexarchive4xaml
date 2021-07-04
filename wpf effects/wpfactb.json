@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfactb",
+  "Title": "WPF AutoComplete TextBox Control",
+  "Description": "A AutoComplete TextBox Control written in WPF, Looks like the system built-in auto-completion(SHAutoComplete).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A AutoComplete TextBox Control written in WPF, Looks like the system built-in auto-completion(SHAutoComplete).<br /><br />a related blog entry can be found here:<br /><a href=\"http://blogs.windowsclient.net/dragonz/archive/2010/02/23/autocomplete-textbox-control-for-wpf.aspx\">http://blogs.windowsclient.net/dragonz/archive/2010/02/23/autocomplete-textbox-control-for-wpf.aspx</a><br /><br />Feel free to leave any comments and suggestions in the <a href=\"http://wpfactb.codeplex.com/Thread/List.aspx\">Discussions area</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,",
+  "LastEdited": "2010-02-25T20:51:00.87-08:00"
+}

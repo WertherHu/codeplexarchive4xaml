@@ -1,0 +1,9 @@
+{
+  "ProjectName": "blognetnuke",
+  "Title": "BlogNetNuke",
+  "Description": "BlogNetNuke is a free, extensible blogging module for DotNetNuke.  BlogNetNuke utilizes user controls for custom skinning and includes multiple extensions. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />BlogNetNuke is a <b>FREE</b> blogging module for <a href=\"http://www.dotnetnuke\">DotNetNuke</a>.  BlogNetNuke utilizes the popular DotNetNuke content management system while providing a WordPress-like editing UI.  The systems supports multiple blogs per site, with multiple layouts all defined by user controls - the common design structure of DotNetNuke.<br /><br /><br /><b>Features</b>\n<ul><li>Multiple blogs per site.</li>\n<li>Move blog module to another page without affecting anything in the system.</li>\n<li>Multiple authors per blog.</li>\n<li>Supports extensionless URLs.</li>\n<li>Tags, Categories, Excerpts, Keywords and Descriptions per post.</li>\n<li>Determine draft or published post.</li>\n<li>Immediate or scheduled publishing.</li>\n<li>Multiple layout options designed via User Controls (.ascx).</li>\n<li>Blog Extensions\n<ul><li>Categories List</li>\n<li>Tag Cloud</li>\n<li>Archives List</li>\n<li>Recent Posts</li></ul></li></ul>\n<br /><br />BlogNetNuke is currently used by multiple <a href=\"https://blognetnuke.codeplex.com/wikipage?title=web%20sites&referringTitle=Home\">web sites</a>.<br /><br />This project is maintained by <a href=\"http://www.desertedroad.com\">DesertedRoad</a>.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-18T17:16:04.28-08:00"
+}

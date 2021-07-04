@@ -1,0 +1,9 @@
+{
+  "ProjectName": "8Beats",
+  "Title": "8Beats",
+  "Description": "The goal of this project is to demonstrate how Cloud based testing and automation  can be used to simplify and optimize more effectively app testing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Solution created as part of my dissertation project with the UOL.</p>\r\n<p><strong>Mobile Apps:</strong></p>\r\n<ul>\r\n<li>8Beats - Audio to MIDI <strong>Android</strong> Xamarin Demo App; </li></ul>\r\n<p><strong>Web API:</strong></p>\r\n<ul>\r\n<li>Web API responsible for the audio conversion (POST/GET); </li></ul>\r\n<p><strong>Test Projects:</strong></p>\r\n<ul>\r\n<li>Unit Test Methods; </li><li>Performance Tests; </li><li>Xamarin Test Cloud Tests; </li></ul>\r\n<p>The goal of this project is to demonstrate how Cloud based testing and automation can be used to simplify and optimize more effectively app testing trough active use of virtual user&rsquo;s simulation over the SDLC (Software Development Lifecycle) by testing\r\n a single application in a combination over more than 1032 devices saving developers and testers time.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-07-05T04:30:22.193-07:00"
+}

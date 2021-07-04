@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmwrapper",
+  "Title": "MVVM Wrapper Kit",
+  "Description": "MVVM Wrapper Kit makes it easier for View Model programmers to wrap their business objects and collections while preserving change notification and collection synchronization.\n\nIt wraps ObservableCollection and business objects  that implement INotifyPropertyChanged",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MVVM Wrapper Kit makes it easier for View Model programmers to wrap their business objects and collections while preserving change notification and collection synchronization.<br /><br />It wraps ObservableCollection and business objects  that implement INotifyPropertyChanged<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-15T21:33:04.143-08:00"
+}

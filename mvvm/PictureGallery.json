@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PictureGallery",
+  "Title": "Picture Gallery App With The Model-View-ViewModel Design Pattern",
+  "Description": "(1)Use WCF service to get pictures;\r\n(2)Custome the data templete of listbox;\r\n(3)Apply MVVM pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A Picture Gallery App With The Model-View-ViewModel Design Pattern</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-28T23:20:57.177-08:00"
+}

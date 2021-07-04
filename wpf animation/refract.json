@@ -1,0 +1,9 @@
+{
+  "ProjectName": "refract",
+  "Title": "Refract - MVVM library for Silverlight",
+  "Description": "A library of base classes to facilitate the Model/View/ViewModel pattern in Silverlight using Prism (Composite WPF and Silverlight).  It also provides a deeplinking navigation implementation that uses the RegionManager.  This library was designed for Silverlight 3 in VS 2008.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b><u>Refract</u></b><br /><br />This library provides core functionality to facilitate the MVVM pattern in Silverlight using Prism.  It also provides support for deep linking navigation using Prisms modularity namespace.<br /><br />See <a href=\"http://u-ix.blogspot.com for more infomration\">http://u-ix.blogspot.com for more infomration</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-06T08:37:31.41-08:00"
+}

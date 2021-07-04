@@ -1,0 +1,9 @@
+{
+  "ProjectName": "holidays",
+  "Title": "Holidays",
+  "Description": "SharePoint layout-based application for presenting list of Holidays for the international offices of world-wide company which is based on eSPACE platform.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Welcome</h1>\r\neSPACE Holidays is the application to be used within Windows SharePoint Services (WSS) 3.0 (or Sharepoint Server 2007). <br />It provides user-friendly screen for displaying list of Holidays for international offices of the world-wide company.<br /><br />This project is started since 25/12/2009 from Russia, Saint-Petersburg. <br />\n<h1>Installation</h1>\r\nPlease follow the <a href=\"http://holidays.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=37760#DownloadId=98570\">Installation Guide</a> which is Recommended Download for this project.<br />\n<h1>Perspective</h1>\r\nIn general this application represents the part of <a href=\"http://espace.codeplex.com\">eSPACE</a> platform which is intended for aggregation several applications within SharePoint. These applications will be created for different purposes which are actual for medium-size company during regular day-to-day business activities.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,WSS,Theme,Consulting,Holidays,SPFeatureReceiver,Expertise,",
+  "LastEdited": "2010-01-04T10:32:53.017-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "raona3Dcloth",
+  "Title": "Raona  - Silverlight 3D Cloth",
+  "Description": "Raona - Silverlight 3D Cloth",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b><u>Raona Silverlight 3D Cloth</u></b><br /><br />3D Cloth set, and displayed in a virtual 3D environment by using Microsoft Silverlight and Kit3D.<br />Physics (gravity, springness, dumping, and so on) developed on this same project.<br /><br />Main parameters to be set:\n<ul><li>Physics parameters (springness, forces - wind, gravity, ... - , node weight)</li>\n<li>Number of nodes (cloth is set, by default, as a 10x10 nodes grid) - 100 nodes - ).</li>\n<li>Fixed nodes (by default, nodes on vertices are fixed)</li></ul>\n<br /><br />Developed by:<br />   &#210;scar Oto<br />   User Experience Architect <br />   Raona Enginyers S.L.<br />   <a href=\"http://www.raona.com\">http://www.raona.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-07T01:13:14.72-07:00"
+}

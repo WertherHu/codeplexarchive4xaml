@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ROOTFileAnalyzer",
+  "Title": "ROOT File Size Analyzer",
+  "Description": "Analyzes the output of ROOT TTree::Print() to show a TTree by size on disk, size per entry, type, etc. Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Analyzes the output of ROOT TTree&#58;&#58;Print&#40;&#41; to show a TTree by size on disk, size per entry, type, etc. Silverlight.<br /><br />You use ROOT? You have a ROOT file that is too bid? This little SilverLight app is meant to help you quickly see what is going on in the file. Steps for use are:<br />\n<ol><li>Use ROOT on your local machine to open the file</li>\n<li>Enter the following command &quot;{ ntuplename-&gt;Print(); } &gt; junk.txt&quot; where you replace ntuplename with the name of your actual ntuple.</li>\n<li>Load up the <a href=\"http://deeptalk.phys.washington.edu/ROOTFileAnalyzer\">website</a> that hosts the SilverLight control</li>\n<li>Click on the button in the upper right hand corner (&quot;Load...&quot;)</li>\n<li>Past the contents of junk.txt into that text box (or a URL that points to the data).</li>\n<li>Click &quot;Load&quot;</li></ol>\n<br />You can sort the columns by clicking on the headers! Have fun. Quick, dirty, but was very useful for me. For more info see the Documentation page, including a screen shot.<br /><br />Requires SilverLight 4.0 installed (as far as I know, only Windows and Mac for now).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-20T06:08:55-08:00"
+}

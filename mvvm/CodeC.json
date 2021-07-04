@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CodeC",
+  "Title": "Code Compiler",
+  "Description": "This project is developed by Windows Presentation Foundation with MVVM, PRISM & MEF. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Code Compiler</strong></p>\r\n<p>This is the code <a href=\"http://visualstudiogallery.msdn.microsoft.com/6b3822a4-9952-4094-944c-187d2e48468c\" target=\"_blank\">\r\nCode Compiler</a></p>\r\n<table border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td><strong>IDE:</strong></td>\r\n<td>Visual Studio 2010 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Framework: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span>\r\n</span></strong></td>\r\n<td>4.0</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Language:</strong></td>\r\n<td>C#</td>\r\n</tr>\r\n<tr>\r\n<td><strong>Technology:</strong></td>\r\n<td>WPF, MVVM, MEF, PRISM</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>This project is developed by Windows Presentation Foundation with MVVM, PRISM &amp; MEF.&nbsp;</p>\r\n<p>Please feel free to post your questions, suggestions and comments on this code.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-02T22:28:44.897-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TextDiffVisualiser",
+  "Title": "Text Difference Visualizer",
+  "Description": "Silverlight control for discovering and visualizing the difference between two text files or just two strings that you copy and paste. You can choose files either by clicking on the file buttons and selecting them from the file dialogue or you can just drag and drop them.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Silverlight control for discovering and visualizing the difference between two text files or just two strings that you copy and paste. You can choose files either by clicking on the file buttons and selecting them from the file dialogue or you can just drag and drop them in the boxes.<br /><br />Demo: <a href=\"http://bodurov.com/TextDiff/\">http://bodurov.com/TextDiff/</a><br /><br />Company web site: <a href=\"http://www.YouVisio.com/\">http://www.YouVisio.com/</a><br /><br />Also check our Windows Phone app: <a href=\"http://stars-3D.com/\">http://stars-3D.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-20T16:27:44.263-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "activitystreams",
+  "Title": "ActivityStreams.Net",
+  "Description": "ActivityStreams.NET is a library to support the usage of Activity Streams in .NET. The format conforms the one specified by the DISCO project. The library supports .NET 3.5 and 4, Silverlight and Windows Phone.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ActivityStreams.NET is a library to support the usage of Activity Streams in .NET. The format conforms the one specified by the DISCO project. The library supports .NET 3.5 and 4, Silverlight and Windows Phone.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-06T05:38:58.537-08:00"
+}

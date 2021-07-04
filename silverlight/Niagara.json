@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Niagara",
+  "Title": "Project Niagara",
+  "Description": "An alternative way to supply validation metadata for use in Silverlight projects. Secondary goal of the project is to provide Validation services to ADO.NET Data Services and Web Services  to provide parity with RIA Services.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An alternative way to supply validation metadata for use in Silverlight projects. Secondary goal of the project is to provide Validation services to ADO.NET Data Services and Web Services  to provide parity with RIA Services.<br /><br />The deliverables for this project will include:<br /><br />- <b>ValidatingDataSvcUtil</b>: Produce Validating Data Service Proxies.<br />- <b>ValidatingProxy Library</b>: Supply external metadata for generation of Proxies.<br />- <b>MValidation</b>: DSL for defining Validation outside of attributes.<br />- <b>Oslo Integration</b>: to store/retrieve validation out of the Oslo Repository.<br />- <b>Alignment</b>:  RIA Services&#39; and ADO.NET Data Services&#39; Validation Logic <br /><br /><br /><b>Project Name</b><br /><br />In 1857, the first Trans-Atlantic telegraph cable was completed using two ships.  One of those ships was the USS Niagra.  My hope is to help validation information be more readily available to all who need it and therefore I am naming it after that ship.<br /><br /><img src=\"http://www.atlantic-cable.com/Cableships/Niagara/CM-Niagara_s.jpg\" /><br /><br />USS Niagara <a href=\"http://www.atlantic-cable.com/Cableships/Niagara/index.htm\">http://www.atlantic-cable.com/Cableships/Niagara/index.htm</a><br />Image courtesy of Cyril Malyon; scan by Jim Jones <br /> <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wouter,Silverlight,RIA Services,ADO.NET Data Service,Web Services,WCF,ASMX,Validation,WCF Services,",
+  "LastEdited": "2009-09-24T23:24:09.927-07:00"
+}

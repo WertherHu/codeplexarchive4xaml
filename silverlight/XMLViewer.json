@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XMLViewer",
+  "Title": "XMLViewer",
+  "Description": "A fun little Silverlight app and control that can display and XML file in pleasing manner!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />A fun little Silverlight app and control that can display an XML file in pleasing manner! Currently it is limited to how deep you make its containing div since I haven&#39;t taken the time to make it tell the DOM its expanding. Also, in the project is a test site for working with and editing the control.<br /><br />Have fun!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Studio Add In,",
+  "LastEdited": "2008-11-15T07:32:04.373-08:00"
+}

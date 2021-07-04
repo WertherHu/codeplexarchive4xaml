@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightbuzz1",
+  "Title": "Using projection to build a 3D carousel in Silverlight 3",
+  "Description": "In this example I use the new projection properties in Silverlight 3 to build a 3D image carousel. Moving the mouse left to right controls the speed and direction of the carousel. Moving the mouse up and down changes the opacity of the carousel.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">In this example I use the new projection properties in Silverlight 3 to build a 3D image carousel. Moving the mouse left to right controls the speed and direction of the carousel. Moving the mouse up and down changes the opacity of the carousel, allowing you to see what is going on behind the carousel.<br /><br />View the full tutorial and working example here: <a href=\"http://www.silverlightbuzz.com/2009/06/12/using-projection-to-build-a-3d-carousel-in-silverlight-3/\">http://www.silverlightbuzz.com/2009/06/12/using-projection-to-build-a-3d-carousel-in-silverlight-3/</a><br /><br />View many more Silverlight tutorials and source here: <a href=\"http://www.silverlightbuzz.com\">http://www.silverlightbuzz.com</a><br /><br /><b>Screen shot of Image spindle at Opacity level 1</b><br /><br /><img src=\"http://www.silverlightbuzz.com/images/codeplex/imageSpindleFull.jpg\" /><br /><br /><b>Screen shot of Image spindle at Opacity level 0.5</b><br /><br /><img src=\"http://www.silverlightbuzz.com/images/codeplex/imageSpindleTransparrent.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight 3,3D,Carrousel,Image Control,xaml,C#,Blend,blend 3,Projection,",
+  "LastEdited": "2009-07-07T01:48:52.963-07:00"
+}

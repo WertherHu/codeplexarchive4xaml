@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightocs",
+  "Title": "Silverlight presence indicator",
+  "Description": "Custom control which lets you add presence indicators to your Silverlight 3 applications as well as direct access to the Communicator panel which lets you send IM/mail, schedule meetings and start video calls.\n\nRequires Office Communicator to be installed and signed in.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Custom control which lets you add presence indicators to your Silverlight 3 applications as well as direct access to the Communicator panel which lets you send IM&#47;mail, schedule meetings and start video calls.<br /><br />Requires Office Communicator to be installed and signed in.<br /><br />As this control makes use of the Name.dll, Microsoft Office is required to be installed. Its also worth mentioning that Office 2010 has a different Communicator panel than the previous versions.<br /><br /><a href=\"http://zetitle.wordpress.com/2010/02/12/silverlight-presence-indicator/\">http://zetitle.wordpress.com/2010/02/12/silverlight-presence-indicator/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Office Communicator,Presence,IM,instant messenger,Silverlight 3,",
+  "LastEdited": "2010-02-11T23:44:42.597-08:00"
+}

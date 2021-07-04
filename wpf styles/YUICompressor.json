@@ -1,0 +1,9 @@
+{
+  "ProjectName": "YUICompressor",
+  "Title": "Yahoo! UI Library: YUI Compressor for .Net",
+  "Description": "This is a .NET port of the Yahoo! UI Library's YUI Compressor Java project. The objective of this project is to compress any Javascript and Cascading Style Sheets to an efficient level that works exactly as the original source, before it was minified.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>&nbsp;</p>\r\n<h1>&nbsp; WE HAVE MOVED TO GITHUB !</h1>\r\n<p>&nbsp; &nbsp;All code and questions are now over at <a href=\"https://github.com/PureKrome/YUICompressor.NET\">\r\nPureKrome/YUICompressor</a>.</p>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align:center\"><img src=\"http://i.imgur.com/jvG4BTq.gif\" alt=\"\" width=\"287\" height=\"177\"></p>\r\n<p>&nbsp;</p>\r\n<p>Please pop over there for all your needs.</p>\r\n<p>Cya there!</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Yahoo!,YUI,Javascript,minification,c#,.NET,.NET 3.5,CSS,combine,YUICompressor ,YUICompressor.Net,sontek-favorite,asp.net,Compression,MSBuild,FileCombining,css minification,js minification,yui compressor,star,Interesting,",
+  "LastEdited": "2014-08-19T05:50:42.013-07:00"
+}

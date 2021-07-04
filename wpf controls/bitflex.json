@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bitflex",
+  "Title": "BitFlex Framework",
+  "Description": "A general purpose framework that provides the missing implementation for WinForms controls, additional controls, and enterprise services like authentication and global hooks.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA general purpose framework that provides the missing implementation for WinForms controls, additional controls, and enterprise services like authentication and global hooks.</p>\r\n<p><strong>Issue Tracking<br>\r\n</strong>Bug tracking will use <a href=\"http://www.dcomproductions.com/products/faulttrack\" target=\"_blank\">\r\nFaultTrack</a> which is developed by DCOM Productions, the same creators of BitFlex.</p>\r\n<p>Database: Sql Server 2008 R2<br>\r\nServer: mssql1.cloudsites.gearhost.com<br>\r\nUsername: todo<br>\r\nPassword: todo</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-20T18:17:08.627-07:00"
+}

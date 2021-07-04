@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winbudget",
+  "Title": "WinBudget",
+  "Description": "WinBudget is a simple C# WPF application that allows for the recording of income and expenses along with a few charts and statistics of your budget. It has been created in order to get rid of budget design in spreadsheets. This project is also being developed as I learn how to code in WPF.\r\n\r\nFeatures will be expanding as the project continues. Refer to the Issue Tracker for upcoming features.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WinBudget is a simple C&#35; WPF application that allows for the recording of income and expenses along with a few charts and statistics of your budget. It has been created in order to get rid of budget design in spreadsheets. This project is also being developed as I learn how to code in WPF.<br /><br />Features will be expanding as the project continues. Refer to the Issue Tracker for upcoming features.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-03T19:17:46.343-08:00"
+}

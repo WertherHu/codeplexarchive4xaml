@@ -1,0 +1,9 @@
+{
+  "ProjectName": "corDovaSample",
+  "Title": "Visual studio Cordova Sample app with adminlte",
+  "Description": "App for basic coredova app in visual studio using adminlte theme.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<img src=\"https://cordova.apache.org/static/img/cordova_bot.png\" alt=\"\" width=\"121\" height=\"136\" style=\"float:left\">This project is sample project for coredova phonegap application using visual studio. It includes adminlte version v2.0 as a theme set.<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Coredova,phonegap,visualstudio,typescript,adminlte,bootstrap,",
+  "LastEdited": "2016-06-21T02:28:24.767-07:00"
+}

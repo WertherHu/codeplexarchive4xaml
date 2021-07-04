@@ -1,0 +1,9 @@
+{
+  "ProjectName": "estoque",
+  "Title": "Estoque",
+  "Description": "Estoque is a Todo-App that comes with TFS integration an sync.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Project Description</h1>\r\n<p>Estoque is a Todo-App that comes with TFS integration an sync.<br>\r\n<br>\r\n</p>\r\n<h1>MustHaves</h1>\r\n<p>*Add Items<br>\r\n*Simple and fast use of the interface (adding items)<br>\r\n*Sync with TeamFoundationServer<br>\r\n*Parent (Scenario) - Child (Task) - Relation defines the interface<br>\r\n*Save only items that are not in the tfs<br>\r\n*Dark Skin to save energy ;)</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "todo,tfs,xaml,wpf,Silverlight,wp7,",
+  "LastEdited": "2010-12-01T03:48:25.387-08:00"
+}

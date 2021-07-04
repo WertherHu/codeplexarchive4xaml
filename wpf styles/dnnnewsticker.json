@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnnnewsticker",
+  "Title": "DNN News Ticker",
+  "Description": "This DNN platform module is a wrapper around the popular, open-source jQuery News Ticker plugin (aka BBC-style news ticker) written by Rhodri George.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This DNN platform module is a wrapper around the popular, open-source jQuery News Ticker plugin &#40;aka BBC-style news ticker&#41; written by Rhodri George.<br /><br />This module for DNN Platform v 7.3.1 and later is a wrapper around the popular <i>jQuery News Ticker</i> plugin (aka BBC-style news ticker) written by Rhodri George and released under GPLv2 as an open-source project (https://github.com/rhodimus/jQuery-News-Ticker). Both reveal and fade-in/fade-out effects are provided.<br /><br />The module exposes all settings for the News Ticker script and creates and manages multiple news items which may be custom or creation date sequenced and displayed indefinitely or for a period of time defined by a start and end date.<br /><br />All management controls (datetime picker, spinner, etc.) are open-source jQuery plugins or jQueryUI widgets rather than Telerik. Custom sequencing of news items is setup via drag-and-drop of grid rows or clicking of up/down arrows without post-back.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DNN,News Ticker,",
+  "LastEdited": "2014-08-29T20:20:28.88-07:00"
+}

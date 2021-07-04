@@ -1,0 +1,9 @@
+{
+  "ProjectName": "houseofthefuture",
+  "Title": "House of the Future",
+  "Description": "Complete system for total home automation. Utilizes SQLite for all database needs.  Currently about 80% complete/functional.\n\nBackend - polls the light levels and updates the database. Reads from the database to update light levels per user input. Also includes a custom Imation Disk Stakka driver to control disc Inserts and Ejects.\n\nInterface - designed for a UMPC. IR functionality for use with Global Cache networked IR box to act as a remote control for all your AV gear. Sets light levels in the database for the backend to read. Has movie/game browser functionality.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Complete system for total home automation. Utilizes SQLite for all database needs.  Currently about 80&#37; complete&#47;functional.<br /><br />Backend - polls the light levels and updates the database. Reads from the database to update light levels per user input. Also includes a custom Imation Disk Stakka driver to control disc Inserts and Ejects.<br /><br />Interface - designed for a UMPC. IR functionality for use with Global Cache networked IR box to act as a remote control for all your AV gear. Sets light levels in the database for the backend to read. Has movie&#47;game browser functionality.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Home Automation,remote control,",
+  "LastEdited": "2008-03-11T09:57:09.11-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFPDFViewer",
+  "Title": "WPF PDF Viewer",
+  "Description": "WPF PDF Viewer",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Introduction:</strong></p>\r\n<p><a title=\"Buy me a cup of cofee\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bhushanpoojary%40gmail%2ecom&lc=US&item_name=Column%20To%20Chooser&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\" target=\"_blank\"><img src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=wpfextendeddatagrid&DownloadId=528935\" alt=\"\" width=\"300\" height=\"90\" style=\"float:right\"></a></p>\r\n<p>In this project&nbsp;<span>Adobe PDF Reader COM Component is used and wrapped as WPF control.&nbsp;</span></p>\r\n<p><strong>Background</strong><strong>:</strong></p>\r\n<p>&nbsp; &nbsp;The application uses WPF PDF Viewer control to display default pdf.</p>\r\n<p>&nbsp; &nbsp;<img src=\"http://www.codeplex.com/Download?ProjectName=wpfpdfviewer&DownloadId=529138\" alt=\"PDF Viewer\" width=\"619\" height=\"441\" style=\"vertical-align:middle\"></p>\r\n<p><strong>Usage:</strong></p>\r\n<p><strong></p>\r\n<div style=\"color:black; background-color:white\">\r\n<pre>pdfViewer.LoadFile(txtFileLoaction.Text);\n</pre>\r\n</div>\r\n<br>\r\n</strong>\r\n<p></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "PDF Viewer,PDF,WPF PDF,",
+  "LastEdited": "2012-11-13T10:53:28.46-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "autolist",
+  "Title": "AutoList",
+  "Description": "WPF custom control based on .NET4 GridView and ListView with a lot of additional features.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Moved to Git</b>  - <a href=\"https://github.com/andrassebo/autolist\">https://github.com/andrassebo/autolist</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,.net,wpf,listview,gridview,List,AutoList,hammer,",
+  "LastEdited": "2016-12-11T11:31:52.74-08:00"
+}

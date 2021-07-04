@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPFaceBook",
+  "Title": "SharePoint Status Update Webpart (Facebook Style)",
+  "Description": "A Status Update webpart, similar to the status update used on facebook.  This does not integrate with facebook at all.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Status Update webpart, similar to the status update used on facebook.  This does not integrate with facebook at all.<br /><br /><br />Status Update Webpart.<br /><br />Uses a Custom SharePoint list to display status similar to facebook.  <br />-Supports &quot;Liking&quot;<br />-Supports Comments.<br /><br />Add a simple workflow to notify creators when someone comments on a post.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-28T08:04:11.603-07:00"
+}

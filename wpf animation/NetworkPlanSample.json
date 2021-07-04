@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NetworkPlanSample",
+  "Title": "NetworkPlanSample",
+  "Description": "This is a port of the Office Plan Sample in the Visio 2010 SDK. It has been converted to VB.NET and rather than WinForms it uses WPF.\nA component of the DC_Rack project",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a port of the Office Plan Sample in the Visio 2010 SDK. It has been converted to VB.NET and rather than WinForms it uses WPF.<br />A component of the DC_Rack project<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "dc_rack,visio 2010,",
+  "LastEdited": "2010-09-05T07:10:12.663-07:00"
+}

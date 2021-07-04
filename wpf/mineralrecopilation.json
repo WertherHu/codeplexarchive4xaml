@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mineralrecopilation",
+  "Title": "WPF Mineral Recopilation Simulation",
+  "Description": "WPF Project that simulate mineral recopilation. It had several wpf useful things.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>This project is WPF agent simulator. It is developed as an academic project, but i think that have some interesting things, like a board (wpf panel) to display items by rows and colums. This could be useful for some board games.</b><br /><br /><br /><img src=\"/projects/mineralrecopilation/b4ea7988-a051-416f-bef5-56c44c334f40\" alt=\"RecopilationProject.jpg\" title=\"RecopilationProject.jpg\" /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,simulation,",
+  "LastEdited": "2012-09-05T13:43:59.807-07:00"
+}

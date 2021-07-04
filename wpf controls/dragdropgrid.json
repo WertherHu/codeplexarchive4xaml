@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dragdropgrid",
+  "Title": "DragDropGrid",
+  "Description": "A DataGridView for .NET Forms development that extends the base DataGridView control to add drag and drop between DragDropGrids, and reordering of items within the same DragDropGrid.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>DragDropGrid</b><br /><br />I recently was asked to implement Drag and Drop functionality in a windows forms app, and I was suprised to find that no one has posted a complete control that you can just throw on a page and use.<br /><br />So I took some examples online, added in my own flavor, and created the DragDropGrid control.  Its ready to be used as is.<br /><br />The DragDropGrid will allow dragging and dropping of items between 2 grids of the same structure.  It also allows reordering of items within the grid.<br /><br />The &quot;AllowDrop&quot; flag must be turned on to accept a drop or reorder.<br />The &quot;AllowDrag&quot; flag must be turned on to allow the drag operation to begin.<br />The &quot;AllowReorder&quot; flag must be turned on to allow reordering of items within the same grid.<br /><br /><b>New Release V 1.1 -  Now Supports DataBound DragDropGrids</b><br /><br />Dragging And Dropping between DragDropGrids with a BindingSource is now supported.  Violation of primary keys and constraints will result in no action and an underlying &quot;First Chance Exception&quot;.<br /><br />There is a new option in the properties window for DragType.  Move is the defaut.  This is a Cut/Paste.  There is also now a Copy selection which is the equivilant of Copy/Paste.<br /><br />THIS IS ONLY FOR 2.0 FRAMEWORK AND 2005.  IT WILL NOT WORK IN 2003.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "winforms,WinForm Controls,Custom Controls,DragDrop,DataGridView,Drag And Drop,Reorder Rows,Drag Rows,",
+  "LastEdited": "2008-01-30T14:36:51.42-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iisapppooltm",
+  "Title": "IISAppPoolTM",
+  "Description": "IISAppPoolTM allows you to control IIS 7.0 application pool right from you windows system tray. You no longer have to go through IIS management console and to manage your application pool. Do it directly from you Windows taskbar! IISAppPoolTM is  developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b> <br>\r\nIISAppPoolTM allows you to control IIS 7.0 application pool right from you windows system tray. You no longer have to go through IIS management console and to manage your application pool. Do it directly from you Windows taskbar! IISAppPoolTM is developed in\r\n C#.\r\n<p>This project falls into the developer utility tools category. The main reason why I created this tool is to accelerate my work when developping application backed by IIS 7.0 from Visual Studio. Each and every time Visual Studio builds the solution, IIS resets\r\n IIS application pools, causing the computer to slow down, if you have multiple application pools, for no apparent reasons. With IISAppPoolTM, you can now stop all application pools while performing development, compiling and running unit tests, and when you\r\n are ready to take it for the big ride, the functionnal tests, then just start your application pools and test!</p>\r\n<p>I don’t see much more functionalities which could be added right now, but if its of some interrest for you guys, just let me know by creating an issue, and I’ll add it for you!</p>\r\n<p>Cheers all!</p>\r\n<p>App Pool, Application Pool AppPool</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-27T16:53:10.247-08:00"
+}

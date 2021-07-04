@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp7sync",
+  "Title": "Windows Phone 7 Contact Synchroniztion",
+  "Description": "Its a Web Application App for Windows Phone 7 to provide contact sharing mechanism over any network.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Its a Web Application App for Windows Phone 7 to provide contact sharing mechanism over any network.<br /><br /><br />Its a Web Application App for Windows Phone 7 to provide <b>contact sharing</b> mechanism over any network.<br /><br />it uses 2 components<br />WCF (Webservice)<br />WP7 libraries<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 7,WCF Services,WPF,C#,",
+  "LastEdited": "2012-06-22T04:38:18.35-07:00"
+}

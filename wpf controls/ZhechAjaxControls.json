@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ZhechAjaxControls",
+  "Title": "AjaxControlToolkit additional extenders",
+  "Description": "AjaxControlToolkit based additionals extenders.  Now it contains BreadCrumbsExtender and UpdatePanelExtender for long opertions using Comet. It's developed in asp.net 2.0.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>This project has started for an experementations with AjaxControlToolkit.</b></h1>\rSource code contains some additional extention controls for a standart controls library.<br /><br />Now it contains the following extenders:\n<ul><li>- <b>BreadCrumbsExtender</b> for hierarchical data (it not almost supported toolkit and requared the jQuery)</li>\n<li>- <b>UpdatePanelExtender</b> for long executing operations (implementing the state design pattern on an ASP)</li></ul>\nThe documentation will be updated soon.<br /><br />Please, feedback your opinions about those extenders.<br /><br /><br /><b>Project Description</b><br />AjaxControlToolkit based additionals extenders.  Now it contains BreadCrumbsExtender and UpdatePanelExtender for long opertions using Comet. It&#39;s developed in asp.net 2.0.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "AJAX Control Toolkit,breadcrumb,UpdatePanel,",
+  "LastEdited": "2010-06-24T10:42:53.997-07:00"
+}

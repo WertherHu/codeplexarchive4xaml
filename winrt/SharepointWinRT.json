@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SharepointWinRT",
+  "Title": "Sharepoint WinRT Client",
+  "Description": "A PoC to connect to SharePoint Online services, perform login and get info using REST services.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A PoC to connect to SharePoint Online services, perform login and get info using REST services.<br /><br /><br />Use this Project as a base one for creating a SharePoint Online WinRT application. <br />It currently provides standard Login and Query methods for SharePoint Online.<br /><br />SSO is not yet implemented, waiting for a test scenario for implementing it.<br /><br />Client authentication is done thanks to the useful information found at:<br /><a href=\"http://allthatjs.com/2012/03/28/remote-authentication-in-sharepoint-online/\">http://allthatjs.com/2012/03/28/remote-authentication-in-sharepoint-online/</a><br />and<br /><a href=\"http://www.wictorwilen.se/Post/How-to-do-active-authentication-to-Office-365-and-SharePoint-Online.aspx\">http://www.wictorwilen.se/Post/How-to-do-active-authentication-to-Office-365-and-SharePoint-Online.aspx</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-25T05:03:19.167-07:00"
+}

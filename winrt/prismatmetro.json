@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prismatmetro",
+  "Title": "Prism@Metro",
+  "Description": "Prism@Metro is a quick port of Prism 4.0 for WinRT Metro Style Apps with C# and MetroIoc",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Update 07/29/2012</b><br />I updated prism@metro to be compatible with Win8 RC.<br /><br />I just migrated Prism form Metro Style Apps with C#. For sure it is no proper migration, but for my purpose it worked quite well.<br /><br />Here a few information:<br />\n<ul><li>There are no tests until now, so no garantee that it works!</li>\n<li>The MetroIoc library is used for dependency injection.</li>\n<li>I hadn&#39;t the time to migrate the week delegate referece, so pay attention that everything works with strong references, even though you configured it to work with week references!</li>\n<li>I also added a very small example to to compose a simple Metro App, everything else should work like in Prism 4.0.</li></ul>\n<br />Feel free to contribute to  the Project with your source code :)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-07-29T05:15:45.113-07:00"
+}

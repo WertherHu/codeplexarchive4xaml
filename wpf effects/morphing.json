@@ -1,0 +1,9 @@
+{
+  "ProjectName": "morphing",
+  "Title": "Morphing",
+  "Description": "Morphing is a simple graphics editor providing morphing of images by warping method and creation of simple animations.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br /><i>Morphing is a simple graphics editor providing morphing of images by warping method and creation of simple animations.</i><br />\n<hr />\n<img src=\"/projects/morphing/a164bfa4-8094-4ab6-a14a-bd3805948b74\" alt=\"Morphing.png\" title=\"Morphing.png\" /><br /><br /><b>Features</b>\n<ul><li><b>multilingual GUI</b></li>\n<li>realtime image morphing</li>\n<li>intuitive GUI</li>\n<li>export to animated gif (using NGIF: <a href=\"http://www.codeproject.com/KB/GDI-plus/NGif.aspx\">http://www.codeproject.com/KB/GDI-plus/NGif.aspx</a>)</li>\n<li>drag&amp;drop support</li></ul>\n<br /><b>Requirements:</b>\n<ul><li>Microsoft .NET Framework 3.0</li></ul>\n<br /><b>Known issues:</b>\n<ul><li>timeline is limited to 200 frames</li>\n<li>transformations of shapes are buggy</li>\n<li><del>only Czech language currently available</del></li></ul>\n<br /><b>Todo:</b>\n<ul><li>make the timeline infinite</li>\n<li>finish icons on the tools panel</li>\n<li>add the possiblity to change properties of drawed shapes</li>\n<li>add the option for exporting all frames at once</li>\n<li>improve author&#39;s English :-)</li>\n<li><del>translate GUI to English</del></li></ul>\n<br /><img src=\"/projects/morphing/ca433408-111e-4f59-949b-078fb97f7a02\" alt=\"Example.gif\" title=\"Example.gif\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "graphics,morphing,warping,image,editor,tiny,WPF,C#,nice,grid,fun,NGif,",
+  "LastEdited": "2009-09-01T12:52:15.273-07:00"
+}

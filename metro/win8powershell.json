@@ -1,0 +1,9 @@
+{
+  "ProjectName": "win8powershell",
+  "Title": "Windows 8 App Management Toolkit for Powershell",
+  "Description": "Lets you launch Windows Store (Metro) apps from Powershell, check if the Start screen or Windows Store apps are visible, and much more",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windows 8 App Management Toolkit for Powershell is the must have cmdlet for automating and managing Windows Store apps.<br /><br />The toolkit enhances the functionality of the existing Get-AppxPackage method by adding methods to\n<ul><li>Launch, suspend, and terminate Windows Store apps</li>\n<li>Check if the Start screen or any Windows Store apps are visible on any monitors</li>\n<li>Discover the capabilities of applications such as background tasks</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-07-10T20:00:15.823-07:00"
+}

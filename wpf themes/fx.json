@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fx",
+  "Title": "WPF Shader Effects Library",
+  "Description": "A library of shader effects for Windows Presentation Foundation SP1.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A library of shader effects for Windows Presentation Foundation SP1.<br /><br />The 0.1 release contains the following effects:\n<ul><li>Negative <img src=\"/projects/fx/c81389b9-f45e-4a8f-bc84-00c8a61b2bc9\" alt=\"negative.jpg\" title=\"negative.jpg\" /></li>\n<li>Gray-scale <img src=\"/projects/fx/0170f9e3-ed15-4a9a-a7f5-647633afe6e5\" alt=\"grayscale.jpg\" title=\"grayscale.jpg\" /></li>\n<li>Sepia Tone <img src=\"/projects/fx/efb8fb25-02ca-4c56-bf89-999122fd2dde\" alt=\"sepia.jpg\" title=\"sepia.jpg\" /></li>\n<li>Bloom <img src=\"/projects/fx/2685cba3-fbd7-473d-bb01-b274ea8e67ef\" alt=\"bloom.jpg\" title=\"bloom.jpg\" /> (still somewhat crappy)</li>\n<li>Motion Blur <img src=\"/projects/fx/ee0c48c9-9bb2-4c64-a936-c9a2505df2f9\" alt=\"motionblur.jpg\" title=\"motionblur.jpg\" /></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,PixelShader,FX,Shader,ShaderEffect,MyList,MyList.WPF,WPF Shader Effects,wpf shader,",
+  "LastEdited": "2008-09-08T04:54:52.737-07:00"
+}

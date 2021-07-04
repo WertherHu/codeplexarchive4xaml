@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vcseVBA",
+  "Title": "vcseVBA - version controlled software engineering in VBA",
+  "Description": "Simplify distributed application development for Visual Basic for Applications with this Excel Addin",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nSimplify distributed application development for Visual Basic for Applications with this Excel Addin<br>\r\n<br>\r\n<span style=\"font-size:10pt\">Visual Basic for Applications (VBA) is originally an integrated programming language for Microsoft Office which is also useful to automate various other Windows Applications.</span></p>\r\n<p>This Addin tries to simplify the distributed development in VBA for Microsoft Excel and make it easier for developers to add their source to version control systems.</p>\r\n<p>&nbsp;</p>\r\n<p>The testing parts of this Addin are based on<a title=\"xlUnit by Mike Woodhouse\" href=\"https://xlvbadevtools.codeplex.com/\" target=\"_self\"> xlUnit by Mike Woodhouse</a></p>\r\n<p>&nbsp;</p>\r\n<p><em>documentation on how to use this addin will be made available in the first week of July 2013</em></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-30T04:59:22.867-07:00"
+}

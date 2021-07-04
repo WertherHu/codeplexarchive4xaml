@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssisreportgenerator",
+  "Title": "SSIS Report Generator Task (Custom Control Flow Component)",
+  "Description": "SSIS Report Generator Task (Custom Control Flow Component)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h3><strong>SSIS Reporting Services - Report Generator (Custom Control Flow Custom Component)</strong></h3>\r\n<p>As the name says it, this &quot;Control Flow&quot; custom component can be used render your SQL Server Reporting Services in files withe the following formats: PDF, Word, Excel, HTML 4.0, MHTML, CSV, XML</p>\r\n<ul>\r\n<li><strong>System requirements:</strong>\r\n<ul>\r\n<li><strong>Microsoft SQL Server <em>2012</em> - for SSIS development </strong></li><li><strong>Microsoft Visual Studio 2012/2013 - for component development</strong></li></ul>\r\n</li></ul>\r\n<p>Please take a look at the <a href=\"http://ssisreportgenerator.codeplex.com/documentation\">\r\ndocumentation</a> page to see how you can use it.</p>\r\n<p>So here we are. I've done minimal cleanup, and the code isn't perfect (and there are few comments) and I have to testify that I was inspired by a similar component that I found here on CodePlex.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Note:</strong> I'd really appreciate any feedback on whether you think the project isn't feasible, whether you'd like to use it if it were more mature, and that sort of thing. Leave comments or email me at\r\n<a href=\"mailto:cosmin.vlasiu@gmail.com\">cosmin.vlasiu@gmail.com</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ssis,SSRS,Reporting Services,Report Generator,.net,c#,control flow,ssis ssrs,ssis report,",
+  "LastEdited": "2014-06-03T07:30:06.32-07:00"
+}

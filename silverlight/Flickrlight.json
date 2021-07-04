@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Flickrlight",
+  "Title": "Flickrlight",
+  "Description": "Flickrlight is a personal fun project out of love of Flickr and Silverlight.  You can experience it here: http://www.flickrlight.net.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Flickrlight is a personal fun project out of love of <b>Flickr</b> and <b>Silverlight</b>.  <br />You can experience it here: <a href=\"http://www.flickrlight.net\">http://www.flickrlight.net</a>.<br /><br />Here is a preview of Flickrlight:<br /><br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:200px;width:200px;\"><param name=\"source\" value=\"http://www.flickrlight.net/ClientBin/SLPhotos.Recent.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"initParams\" value=\"uid=13112122@N00,eff=flip,border=2,sec=5,count=50,mode=set,sid=72157594190057889\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe><br /><br />Enjoy !<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "flickr,Silverlight,Photo Gallery,",
+  "LastEdited": "2010-03-16T20:29:55.69-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flickr4sl",
+  "Title": "Flickr API for Silverlight",
+  "Description": "C# Wrapper for the Flickr API built for use in Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />C&#35; Wrapper for the Flickr API built for use in Silverlight.<br /><br /><b>Overview</b><br />Accessing the <a href=\"http://www.flickr.com/services/api/\">Flickr API</a> from <a href=\"http://www.silverlight.net/\">Silverlight</a> has never been easier. Unlike the existing <a href=\"http://www.codeplex.com/wikipage?ProjectName=FlickrNet\">Flickr.Net wrapper</a>, which relies on a lot of custom serialization and request issuing/response processing code, the Flickr API for Silverlight harnesses the built in capabilities of WCF to perform requests. And it is designed specifically for Silverlight.<br /><br /><b>Status</b><br />This project is still in early stages and only has a small number of methods tested. Contributions are welcome!<br /><br /><b>Download</b><br />Currently the project is only available via source code download (see the Source Code tab). Once I get better coverage of the FlickerAPI I will do a beta release.<br /><br /><b>Dependencies</b><br />The Flickr API for Silverlight depends on <a href=\"http://slrest.codeplex.com/\">WCF Rest  Extensions for Silverlight</a>. You&#39;ll need to checkout both repositories to build.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-27T12:13:57.803-07:00"
+}

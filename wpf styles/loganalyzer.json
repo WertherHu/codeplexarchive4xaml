@@ -1,0 +1,9 @@
+{
+  "ProjectName": "loganalyzer",
+  "Title": "Log Analyzer",
+  "Description": "This project has the aim to help developers to see live log/trace from their application applying visual styles to the grabbed text.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project has the aim to help developers to see live log&#47;trace from their application applying visual styles to the grabbed text.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,log,",
+  "LastEdited": "2010-05-28T01:16:08.817-07:00"
+}

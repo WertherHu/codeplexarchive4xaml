@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FluentValidation",
+  "Title": "Fluent Validation for .NET",
+  "Description": "A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules for your business objects. ",
+  "MovedLink": "https://github.com/JeremySkinner/FluentValidation",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules for your business objects. <br />\n<h1>FluentValidation has moved to github. Please use the github issue tracker for all issues/comments. </h1>\r<h1><a href=\"http://github.com/JeremySkinner/FluentValidation\">http://github.com/JeremySkinner/FluentValidation</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,LINQ,WPF,Toolkit,Library,favorite,Business Logic,MVC,validation,Validation Framework,validator,Silverlight,Star,Fluent Interface,infrastructure,Fluent,Fluent Validation,MVC Validation,DataValidation,Hop'tag,windows phone,Data Annotations,nibernate,fluent API,FV,",
+  "LastEdited": "2015-04-13T08:21:02.83-07:00"
+}

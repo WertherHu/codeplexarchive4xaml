@@ -1,0 +1,9 @@
+{
+  "ProjectName": "poodlefix",
+  "Title": "Powershell Automated POODLE Check & Remediation",
+  "Description": "This project is aimed at providing a simple way to check and mitigate against the POODLE SSL 3.0 vulnerability in an automated fashion. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2 style=\"text-align:center\"><strong>Automated POODLE Check &amp; Fix for Windows Server 2008 and above &amp; Windows Vista and above</strong></h2>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align:left\"><strong>Synopsis:</strong></p>\r\n<ul>\r\n<li><strong>This project is aiming to provide a quick way for win sys admins &amp; IT security&nbsp;conscious&nbsp;users to mitigate against the POODLE&nbsp;SSL 3.0 vulnerability.&nbsp;</strong>\r\n</li></ul>\r\n<p>&nbsp;</p>\r\n<p><strong>Instructions:</strong></p>\r\n<ol>\r\n<li><strong>Deploy this script to the Windows machine that needs to be checked or mitigated</strong>\r\n</li><li><strong>Run as administrator from the powershell console</strong> </li><li><strong>Check the console for any messages that may suggest an error and follow the steps listed in the console to mitigate.</strong>\r\n</li></ol>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "POODLE,IT Security,SSL 3.0,SSL,SSL 3,SSL v3,POODLE Fix,Powershell,Automation,",
+  "LastEdited": "2015-01-13T12:38:36.17-08:00"
+}

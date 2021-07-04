@@ -1,0 +1,9 @@
+{
+  "ProjectName": "crm2011templates",
+  "Title": "CRM 2011 Style Templates",
+  "Description": "CRM 2011 Style Templates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The development model for CRM 2011 has shifted from server side to client side. To extend CRM and to have the same look and feel throughout the application, it&#39;s better to have a standard style templates that we can put into the CRM 2011 web resources. I have created a few templates that you can leverage to extend CRM 2011.<br /><br />This is the first version of the style templates, I have included three html forms which they are the main CRM form, main CRM area form and the lookup form.  I have uploaded screenshot of the templates on my blog. http://darrenliu.wordpress.com/<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CRm2011,",
+  "LastEdited": "2010-12-02T16:56:10.837-08:00"
+}

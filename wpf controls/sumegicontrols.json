@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sumegicontrols",
+  "Title": "Sumegi Controls",
+  "Description": "ASP.NET Ajax Control Extenders, like Google Map based location searching and formatted list for images.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET Ajax Control Extenders, like Google Map based location searching and formatted list for images.<br /><br />\n<h1>Sumegi Controls</h1>\r\nThe <a href=\"https://sumegicontrols.codeplex.com/\">Sumegi Controls</a> is a various <a href=\"http://www.asp.net\">ASP.NET</a> <a href=\"https://ajaxcontroltoolkit.codeplex.com/\">Ajax Control Extenders</a> for <a href=\"http://maps.google.com\">Google Map</a> based location searching.<br /><br /><a href=\"https://developers.google.com/maps/\">Google Maps API</a><br />\n<h2>Extenders in the package</h2>\r\n<ul><li>ExtendedValidatorCallout</li>\n<li>FieldAjaxChange</li>\n<li>GMap - GoogleMap extender\n<ul><li>GMapCommon</li>\n<li>LocationGMap</li></ul></li>\n<li>ImageLoader</li>\n<li>MenuFormat - Format ASP.NET Menu Control</li>\n<li>PlaceSearch\n<ul><li>LocationPlaceSearch</li>\n<li>LocationAirport</li>\n<li>LocationWaypoint</li></ul></li>\n<li>Plugins\n<ul><li>jQuery.DateField</li>\n<li>jQuery.TimeField</li>\n<li>jQuery.HoverTooltip</li>\n<li>ValidationScripts</li></ul></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-08-05T09:45:07.07-07:00"
+}

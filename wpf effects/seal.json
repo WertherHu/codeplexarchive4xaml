@@ -1,0 +1,9 @@
+{
+  "ProjectName": "seal",
+  "Title": "Side effect analysis for .NET",
+  "Description": "Seal is a modular static analysis tool that infers side-effects of methods in a .NET application. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Seal is a modular static analysis tool that infers side-effects of methods in a .NET application. The side-effects of a method are the set of heap locations in the program state right before the invocation of the method (referred to as prestate) that are modified (or written) by the method. Intuitively, these are the locations on which the method has an effect and hence can be expected to change after the method invocation. A method with no side-effects is said to be pure. Seal supports many sophisticated (and higher-order) C# features such as LINQ, delegates, event-handlers, exceptions, and scales to several thousand lines of code. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-14T20:20:34.063-07:00"
+}

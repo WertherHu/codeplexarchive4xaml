@@ -1,0 +1,9 @@
+{
+  "ProjectName": "foxcommerce",
+  "Title": "FoxCommerce",
+  "Description": "FoxCommerce is open source e-commerce solution. It's developed in \r\n- Asp.NET MVC3 and Razor View Engine\r\n- Visual C#.NET\r\n- jquery 1.5.1\r\n- jquery-ui 1.8.11\r\n- knockout MVVM Javascript Library\r\n- jquerymobile",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">FoxCommerce is open source e-commerce solution. Using following technologies, <br />\n<ul><li>Asp.NET MVC4</li>\n<li>C#</li>\n<li>jquery</li>\n<li>Backbone.js</li>\n<li>_underscore.js</li>\n<li>jquerymobile</li>\n<li>SignalR</li>\n<li>Redis</li>\n<li>ServiceStack</li>\n<li>Autofac</li></ul>\n<br /><i>Many useful tool during the research phase</i><br /><br /><b>Development which were suspended due to the density will start again..</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET MVC,e-commerce,shopping cart,jQuery,SpecF,bdd,knockout,SignalR,redis,wcf,Commerce,",
+  "LastEdited": "2013-03-12T04:53:30.857-07:00"
+}

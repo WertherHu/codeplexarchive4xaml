@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ODataControls",
+  "Title": "Silverlight Data Source Control for OData",
+  "Description": "The control extends OData  proxy class and cooperates with others Silverlight GUI controls. The control supports master-detail, paging, filtering, sorting, validation, changing data. You can append your validation rules. It works like a Data Source Control for RIA Services.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The library contains Data Source Control for XAML forms. The control extends proxy class to get an  access to OData Services(created by Visual Studio) and cooperates with others Silverlight GUI controls. The control supports master-detail, paging, filtering, sorting, validation, changing data. You can append your validation rules. It works like a Data Source Control for RIA Services.<br /><br />You can try Live demo here <a href=\"http://alutam.cz/samples/DemoOData.aspx\">http://alutam.cz/samples/DemoOData.aspx</a><br /><br />In detail, there are three basic classes: ODataSource, ODataSourceView and Entity.\n<ol><li>ODataSource is a control and you can use it in XAML Forms.</li>\n<li>ODataSourceView is a class which contains a data set. ODataSourceView has the following interfaces:  IEnumerable, INotifyPropertyChanged, INotifyCollectionChanged, IList, ICollectionView, IPagedCollectionView ,IEditableCollectionView.</li>\n<li>Entity is a class for one data record and has the following interfaces: IDisposable, INotifyPropertyChanged, IEditableObject, IRevertibleChangeTracking, IChangeTrackin.</li></ol>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "OData,WCF Data Services,silverlight 4.0,",
+  "LastEdited": "2010-09-09T10:50:24.083-07:00"
+}

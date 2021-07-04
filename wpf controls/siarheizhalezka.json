@@ -1,0 +1,9 @@
+{
+  "ProjectName": "siarheizhalezka",
+  "Title": "Economic news grabber",
+  "Description": "WCF service for get news from rss, news sites and etc. WPF client for presentation this data for end users.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WCF service for get news from rss, news sites and etc. WPF client for presentation this data for end users.<br /><br />Getting news from different economic sites or services. <br /><br />including:<br /><br />1. Wpf client<br />2. WCF Service<br />3. DataAccess - SQL</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-03T01:50:35.277-07:00"
+}

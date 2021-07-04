@@ -1,0 +1,9 @@
+{
+  "ProjectName": "batik",
+  "Title": "Batik",
+  "Description": "Batik is ASP.NET Controls & ASP.NET Ajax 4 Helper to make easier for ASP.NET Ajax client binding. You can create a two way binding (get and save) using Batik dataview. All field will be automatically filled into datasource with single line of code.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Batik is ASP.NET Controls &#38; ASP.NET Ajax 4 Helper to make easier for ASP.NET Ajax client binding. You can create a two way binding &#40;get and save&#41; using Batik dataview. All field will be automatically filled into datasource with single line of code.<br /><br /><br />Using Batik, you can create ASP.NET Ajax 4 client binding without writing javascript code. Batik Dataview will manage datasource and generate proxy for binding and updating data. <br />All Batik controls is generic, you does not require to casting from Text into expected data-type. On specify DataType property, Batik control will be rendered as assigned datatype. Integer datatype will render numeric only textbox, DateTime datatype will render Date picker, etc.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,",
+  "LastEdited": "2009-11-09T16:00:04.713-08:00"
+}

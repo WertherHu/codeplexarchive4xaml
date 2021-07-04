@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hfr8",
+  "Title": "hfr8 - Forum Hardware.fr pour Windows Phone 8",
+  "Description": "hfr8 vous permet de surfer sur le forum de Hardware.fr via votre Windows Phone. Il est développé sous Silverlight (C#/XAML).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Description du projet</b><br />hfr8 est une application Windows Phone disponible sur le MarketPlace qui vous permet de consulter HFR facilement via votre terminal Windows Phone. Son d&#233;veloppement a commenc&#233; le 12 f&#233;vrier 2011.<br />Le d&#233;veloppement de l&#39;appli se fait sous trois principes chers &#224; Windows Phone 8 : simplicit&#233;, ergonomie, et rapidit&#233;.<br /><br /><b>Fonctionnalit&#233;s</b><br />- Gestion compl&#232;te de l&#39;identit&#233;.<br />- Possibilit&#233; de surfer sur le forum via les cat&#233;gories.<br />- Possibilit&#233; de lire ses sujets favoris (drapeaux cyans et &#233;toiles).<br />- Possibilit&#233; de r&#233;pondre &#224; un topic.<br />- Possibilit&#233; d&#39;&#233;diter un message.<br />- Gestion des MP.<br />- Th&#232;me blanc/th&#232;me noir.<br />- Param&#233;trage d&#39;affichage des avatars.<br />- Param&#233;trage d&#39;affichage des signatures.<br />- Notification de nouveau MP.<br />- Epinglage d&#39;un topic en page d&#39;accueil.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-10-03T13:33:03.987-07:00"
+}

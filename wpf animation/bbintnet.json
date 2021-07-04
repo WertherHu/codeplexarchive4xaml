@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bbintnet",
+  "Title": "BBInterfaceNET",
+  "Description": "BBInterfaceNET is a visual designer for building Blackberry user interfaces.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n<strong>BBInterfaceNET </strong>is visual designer application built with the purpose of helping developers construct Blackberry user interfaces more easily. The application will allow the user to build the Blackberry screens visually by using drag and drop\r\n operations. After the screens are built the user can generate the code that will be imported in the Blackberry project.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVC,Blackberry,Prism,visual designer,UI,User Interface,Model-View-ViewModel,C# 4.0,.NET 4.0,",
+  "LastEdited": "2012-06-17T00:59:49.353-07:00"
+}

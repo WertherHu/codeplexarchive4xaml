@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nsisautorun",
+  "Title": "NSIS Autorun",
+  "Description": "NSIS Autorun is a graphical CD/DVD/USB autorun (autoplay) engine that launches installers made with NSIS. Non-rectangular windows, animation, and sound are supported. Can be used with Windows 95/NT4 - 7(x86/x64).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />NSIS Autorun is a graphical CD&#47;DVD&#47;USB autorun &#40;autoplay&#41; engine that launches installers made with NSIS. Non-rectangular windows, animation, and sound are supported. Can be used with Windows 95&#47;NT4 - 7&#40;x86&#47;x64&#41;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "c++,Win32,Installer,autorun,",
+  "LastEdited": "2010-04-22T21:08:01.157-07:00"
+}

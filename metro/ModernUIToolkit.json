@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ModernUIToolkit",
+  "Title": "Windows 8 Toolkit - Charts and More",
+  "Description": "I'm trying to Build a Charting Control Set for Windows 8 Modern UI I already Built a Pie Chart which is available now on \r\n\r\nhttp://blogs.msdn.com/b/mertoapps",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Project Overview :<br>\r\nThe main perpose for this is to build a set of reusable controls for Windows 8 Modern UI Development The Primary Release will contain the PieChart that I developed earlier on<br>\r\nhttp://blogs.msdn.com/b/metroapps<br>\r\n<br>\r\nmain Controls <br>\r\n- Pie Chart<br>\r\n- ColumnChart <br>\r\n- Line Chart <br>\r\n<br>\r\nWith support of Multi Series and Stacked Charts<br>\r\n<br>\r\nSamples in Action:</p>\r\n<p><img src=\"/projects/ModernUIToolkit/ce696ea0-298b-4cc8-b264-ccbf7bc6d506\" alt=\"\" width=\"683\" height=\"384\"></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=modernuitoolkit&DownloadId=491377\" alt=\"\" width=\"683\" height=\"384\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Chart,Charting,Windows 8,Metro,Metro UI,Xaml,Silverlight Toolkit,Modern UI,WinRT,Pie Chart,Line Chart,Column,",
+  "LastEdited": "2012-09-27T01:40:03.437-07:00"
+}

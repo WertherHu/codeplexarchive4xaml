@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharepointtabcontrol",
+  "Title": "SharePoint 2010 Ribbon TabControl",
+  "Description": "Creating an application page inside SharePoint is easy, extending the ribbon with a custom tab is also easy.\r\nBut creating a ribbon inside a custom application page is an other ballgame.\r\nThis control moves the implementation the designlevel",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">empty</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-09T04:33:24.627-08:00"
+}

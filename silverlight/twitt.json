@@ -1,0 +1,9 @@
+{
+  "ProjectName": "twitt",
+  "Title": "Twitt - Windows Phone 7 Twitter App",
+  "Description": "This is a full Windows Phone 7 Twitter sample app, that I've been blogging about on http://samjarawan.blogspot.com.  This project teaches how to use oAuth to authenticate a twitter account on a Windows Phone 7 application as well as how to use the Twitter APIs using Hammock.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Twitt is a Windows Phone 7 sample Twitter application.  This application is used to demonstrate using oAuth on Windows Phone as well as creating a &#39;real&#39; Twitter app for Windows Phone 7.<br /><br />Details on the coding can be found at the following Blog : http://samjarawan.blogspot.com<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WP7,wp7dev,windows phone 7,twitter,silverlight,oAuth,",
+  "LastEdited": "2010-10-02T22:10:43.987-07:00"
+}

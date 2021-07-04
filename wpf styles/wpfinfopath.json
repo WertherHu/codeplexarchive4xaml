@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfinfopath",
+  "Title": "Hosting InfoPath FormControl inside WPF Application",
+  "Description": "Here is a basic sample to host an InfoPath form inside of Windows Presentation Foundation.  This sample shows how to use the WindowsFormsHost to embed the Microsoft.Office.InfoPath.FormControl in a WPF application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Here is a basic sample to host an InfoPath form inside of Windows Presentation Foundation.  This sample shows how to use the WindowsFormsHost to embed the Microsoft.Office.InfoPath.FormControl in a WPF application.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WindowsForms,OfficeSystem,Office2007,Office 2007,InfoPath,",
+  "LastEdited": "2007-09-13T20:18:37.337-07:00"
+}

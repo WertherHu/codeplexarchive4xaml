@@ -1,0 +1,9 @@
+{
+  "ProjectName": "scrybersamples",
+  "Title": "Scryber PDF Generation Samples",
+  "Description": "Scryber PDF Generator is the open source library for quickly creating dynamic PDF documents with style.This project holds the source for the guides and examples",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rScryber PDF Generator is the open source library for quickly creating dynamic PDF documents with style.This project holds the source for the guides and examples<br />\n<h1>Scryber</h1>\rIf you have not yet downloded the scryber libraries then you can do so here <a href=\"http://scryber.codeplex.com\">http://scryber.codeplex.com</a><br />\n<h2>Source code samples</h2>\rThe code samples contain 14 specific pdfx document templates that generate PDF files showing the core features of the library.<br />These are then all combined into a the &#39;AllSystemTests.pdfx&#39; template that is a 108 page demonstration of the main features of the scryber library<br /><br /><a href=\"http://www.scryber.co.uk/Portals/2/Data/SampleDocuments/AllSystemTests_0_9_0.pdf\">http://www.scryber.co.uk/Portals/2/Data/SampleDocuments/AllSystemTests_0_9_0.pdf</a><br /><br /><img src=\"/projects/scrybersamples/72b21b68-0879-4155-9873-da85b8618a1b\" alt=\"SystemTestImg.png\" title=\"SystemTestImg.png\" /><br /><br /><br />The full solution is for VS 2013</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-06-10T07:17:59.867-07:00"
+}

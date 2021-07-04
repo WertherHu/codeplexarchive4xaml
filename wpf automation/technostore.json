@@ -1,0 +1,9 @@
+{
+  "ProjectName": "technostore",
+  "Title": "TechnoStore",
+  "Description": "TechnoStore is a proof-of-concept application intended to show the integration possibilities between Windows Azure, SQL Azure and Office 365. It consists of a single WebRole (ASP.NET/C#) hosted in Windows Azure, connected to a SQL Azure-hosted cloud database and using PowerShell for process automation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TechnoStore is a proof-of-concept application intended to show the integration possibilities between Windows Azure, SQL Azure and Office 365. It consists of a single WebRole &#40;ASP.NET&#47;C&#35;&#41; hosted in Windows Azure, connected to a SQL Azure-hosted cloud database and using PowerShell for process automation.<br /><br />\n<h2>Purpose:</h2>\rTo demonstrate that a cloud application hosted on Windows Azure Platform can cooperate with Office 365’s functional capabilities.<br />\n<h2>Scope:</h2>\rThe application includes basic ERP functions in order to simulate a real-world environment of an application stored on the cloud (using <b>Windows Azure</b> and <b>SQL Azure</b>). The application requires a User ID and Password of an <b>Office 365 subscription</b> in order to be able to simulate seamless integration between the application’s ERP functions and the features provided by Office 365, namely <b>Exchange Online, Lync Online and SharePoint Online</b>.<br />\n<h2>Pre-requisites for deployment and test:</h2>\rPlease refer to my blog post on the topic about integrating Windows Azure applications with O365 subscriptions. You will find the pre-requisites that you must fulfill before deploying this app and use it on the cloud: <a href=\"http://www.pavelslavov.com/blog/?p=843\">http://www.pavelslavov.com/blog/?p=843</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-28T04:47:46.803-08:00"
+}

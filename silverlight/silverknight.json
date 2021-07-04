@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverknight",
+  "Title": "SilverKnight",
+  "Description": "SilverKnight is a simple chess-like game. With knight moves conquer as much fields as possible. Requirements: Silverlight 2.0",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverKnight is a simple chess-like game. With knight moves conquer as much fields as possible. Requirements&#58; Silverlight 2.0<br /><br /><b>Live demo</b><br />For live demo and full score list visit <a href=\"http://www.papnkukn.net/silverknight/\">http://www.papnkukn.net/silverknight/</a><br /><br /><b>Additional information</b><br />Title: SilverKnight<br />Author: Papn Kukn (papnkukn@gmail.com)<br />Location: http://www.codeplex.com/silverknight/<br />Requirements: Silverlight 2.0<br />License: Microsoft Public License (Ms-PL)<br /><br /><b>Troubleshooting</b><br />Question: <i>Game does not start when index.html is loaded. Install Microsoft Silverlight link (image) is loaded instead.</i><br />Answer: <i>You either don&#39;t have plugin installed or your browser is blocking Sliverlight content. If browser shows something like &#39;allow content&#39; then click it. If still doesn&#39;t work then install latest Silverlight plugin or beta2 for first release.</i><br /><br />Question: <i>Why is not my name displayed on score list?</i><br />Answer: <i>You have not gained enought points or connection with score server cannot be established. Try to find full score list on the SilverKnight website.</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-10-26T11:03:58.72-07:00"
+}

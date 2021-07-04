@@ -1,0 +1,9 @@
+{
+  "ProjectName": "picasawindowsphone",
+  "Title": "Picasa Viewer for Windows Phone 7",
+  "Description": "This is a simple reader for Picasa that allows the user to browser all his Picasa Album and download single photos.\n\nThis is the first release, tested only in the Windows Phone Emulator...in the next week, new features will be released.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis is a simple reader for Picasa created for Windows Phone 7.</p>\r\n<p>The application allows the user to browser all his Picasa Album and download single photos.</p>\r\n<p><strong><span style=\"color:#0000ff\">I tested only the emulator...if someone test it on a real windows phone, please send me a feedback with the\r\n<em>reaction</em>&nbsp;of the application. Thank you very much</span></strong></p>\r\n<p><strong>Next Features to improve:</strong></p>\r\n<p>1) Download a complete Picasa Album</p>\r\n<p>2) Create a new Picasa Album</p>\r\n<p>3) Upload &nbsp;one or more photos in a Picasa Album</p>\r\n<p><strong>The Login</strong></p>\r\n<p><img src=\"http://www.sintax.org/picasaviewer/picasaviewer_login.jpg\" alt=\"The Login Procedure\" width=\"350\" height=\"394\" style=\"border:0; margin:10px\">&nbsp;</p>\r\n<p><strong>The Album List (false thumbnail in this screenshot)</strong></p>\r\n<p><strong><img src=\"http://www.sintax.org/picasaviewer/picasaviewer_album_list.jpg\" alt=\"The List of the Album\" width=\"350\" height=\"394\"></strong></p>\r\n<p><strong>The Photo Detail</strong></p>\r\n<p><strong><img src=\"http://www.sintax.org/picasaviewer/picasaviewer_photodetail.jpg\" alt=\"The Detail of a Photo\" width=\"350\" height=\"394\"><br>\r\n</strong></p>\r\n<p><strong><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 7,Picasa,Picasa Web Albums,Silverlight,",
+  "LastEdited": "2010-11-10T00:01:00.603-08:00"
+}

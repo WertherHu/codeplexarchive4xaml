@@ -1,0 +1,9 @@
+{
+  "ProjectName": "projectsquared",
+  "Title": "Project - Squared",
+  "Description": "Simple and easy Real Time Strategy game that focuses on gameplay and not on graphics. Game's written in C#, with help of XNA Game Framework (4.0), giving us ability to deploy to a wider range of platforms. Interesting fact: 2D shapes are rendered using vector graphics, in that way we get this very simple and cartoonish look.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple and easy Real Time Strategy game that focuses on gameplay and not on graphics. Game&#39;s written in C&#35;, with help of XNA Game Framework &#40;4.0&#41;, giving us ability to deploy to a wider range of platforms. Interesting fact&#58; 2D shapes are rendered using vector graphics, in that way we get this very simple and cartoonish look.<br /><br /><br /><b>Screenshots</b><br /><br /><i>These screenshots are taken on Windows 7 (x64) machine under 1024x768 resolution.</i><br /><br /><a href=\"http&#58;&#47;&#47;projectsquared.codeplex.com&#47;SourceControl&#47;changeset&#47;changes&#47;73027\"><img src=\"/projects/projectsquared/847da79e-a30d-4e90-afd7-90c57b91036e\" alt=\"Build&#32;73027\" title=\"Build&#32;73027\" /></a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,game,XNA,3D,engine,WPF,RTS,C# 4.0,JustBuild,2D,",
+  "LastEdited": "2011-05-11T11:32:30.393-07:00"
+}

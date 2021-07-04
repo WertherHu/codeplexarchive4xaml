@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TFSWIACIP",
+  "Title": "TFS Work Item Association Check-in Policy",
+  "Description": "This policy requires TFS source control check-ins to be associated with a single, in-progress task that is assigned to you.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project is going to be moved to the TFS Plugins Suite</h1>\r<b><a href=\"https://tfspluginsuite.codeplex.com/\">https://tfspluginsuite.codeplex.com/</a></b><br /><br />This policy requires TFS source control check-ins to be associated with a single, in-progress task that is assigned to you.<br /><br />&quot;Do one commit per small-grained, consistent task.&quot; (Berczuk)<br /><br />(See FAQs in documentation section.)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,tfs 2010,Check-in Policy,Process Template,Process management,Team System,Team Foundation,Team Foundation Serv,Work Item Tracking,Work Item,",
+  "LastEdited": "2013-06-01T10:35:57.253-07:00"
+}

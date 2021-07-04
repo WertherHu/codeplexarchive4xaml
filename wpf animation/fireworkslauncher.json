@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fireworkslauncher",
+  "Title": "FireworksLauncher",
+  "Description": "This is the first iteration for building my fireworks launcher. With presentation layer in WPF, NETMF using GHI Panda II board/G120",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This is a WPF application that synchronize fireworks launch and the music. I use the netmf framework to control the relay with a ghi electronic board.<br /><br /><b>Next step is</b><br /><br />- Create a protocol to communicate with the G120HDR and Panda II netmef board<br /><br /><b>Libraries used in my project</b><br /><br />I&#39;m using NAUDIO project <a href=\"http://naudio.codeplex.com/\">http://naudio.codeplex.com/</a><br />and WPF Sound Visualization Library <a href=\"http://wpfsvl.codeplex.com/\">http://wpfsvl.codeplex.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "fireworks,netmf,",
+  "LastEdited": "2013-12-10T16:03:45.513-08:00"
+}

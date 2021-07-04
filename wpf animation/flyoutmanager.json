@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flyoutmanager",
+  "Title": "FlyoutManager",
+  "Description": "An MVVM-spirited manager for MahApps.Metro Flyouts used within the Prism framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>FlyoutManager</h1>\r\n<b>Project Description</b><br />An MVVM-spirited manager for MahApps.Metro Flyouts used within the Prism framework.<br /><br />FlyoutManager provides a mechanism for managing the Flyout control provided by the MahApps.Metro library within the Prism framework.  Separation of concerns and loose coupling patterns are used to provide an easy to implement and extensible solution that fits well in an MVVM paradigm.<br /><br />FlyoutManager depends on the Prism library, using Unity extensions although it could easily be modified to use an alternative DI container.  Obviously MahApps.Metro is also a dependency of the project.<br /><br />Available via Nuget Package Manager as Bulldog.FlyoutManager<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Prism,MVVM,WPF,MahApps,MahApps.Metro,Flyout,MetroFlyout,",
+  "LastEdited": "2016-04-05T14:04:30.973-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfsgiggle",
+  "Title": "TfsGiggle - TFS SourceControl search",
+  "Description": "TfsGiggle makes it easier for developers to search for and find files in source control, based on source code contents (C# & C++), changeset id/committer/comment or associated workitems by id or title.\r\n\r\nTfsGiggle is developed in C# and uses the Lucene.Net search engine.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TfsGiggle makes it easier for developers to search for and find files in source control, based on source code contents &#40;C&#35; &#38; C&#43;&#43;&#41;, changeset id&#47;committer&#47;comment or associated workitems by id or title.<br /><br />TfsGiggle is developed in C&#35; and uses the Lucene.Net search engine.<br /><br /><br /><img src=\"/projects/tfsgiggle/85f6f51d-4ed5-4d43-b517-e8746703cb73\" alt=\"TfsGiggleSearchPreviewImage.png\" title=\"TfsGiggleSearchPreviewImage.png\" /><br /><br /><img src=\"/projects/tfsgiggle/19b639c2-084a-43d1-8237-b23cfcf034a4\" alt=\"tfsgiggle.png\" title=\"tfsgiggle.png\" /><br />\n<h2><b>All constructive feedback are most welcome :-)</b></h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,TFS WorkItem Tools,Source Code Control,Version Control,Visual Studio 2010,visual studio addin,",
+  "LastEdited": "2012-01-30T13:32:02.537-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CharmFlyout",
+  "Title": "CharmFlyout - A Metro Flyout Custom Control",
+  "Description": "A custom control for displaying flyouts from the settings charm in Windows Metro style (WinRT) applications written in C# / XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">CharmFlyout - Another Charming Custom Control for WinRT / Metro Style applications.<br /><br />Binaries available at: <a href=\"http://nuget.org/packages/CharmFlyout\">http://nuget.org/packages/CharmFlyout</a><br /><br />See a discussion here: <a href=\"http://w8isms.blogspot.com/2012/07/charmflyout-another-charming.html\">http://w8isms.blogspot.com/2012/07/charmflyout-another-charming.html</a><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-29T09:28:33.963-07:00"
+}

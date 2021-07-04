@@ -1,0 +1,9 @@
+{
+  "ProjectName": "scalabletextelement",
+  "Title": "ScalableTextElement for Silverlight",
+  "Description": "ScalableTextElement is a component for Silverlight.\n\nIt includes controls that contain text : \n- ComboBox\n- TextBlock\n- TextBox\n- ListBox\n- RadioButton\n- CheckBox\n- Button\n\nThe font size is automatically chosen depending on the size of the control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ScalableTextElement is a component for Silverlight.<br /><br />It includes controls that contain text &#58; <br />- ComboBox<br />- TextBlock<br />- TextBox<br />- ListBox<br />- RadioButton<br />- CheckBox<br />- Button<br /><br />The font size is automatically chosen depending on the size of the control.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "silverlight,RIA,component,",
+  "LastEdited": "2010-02-10T10:49:09.977-08:00"
+}

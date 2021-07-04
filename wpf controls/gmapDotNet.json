@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gmapDotNet",
+  "Title": "GMap.NET",
+  "Description": "GMap.NET is a simple server control to allow easy implementation of google maps into any C# or VB.NET project without the use of any code and includes seamless integration with a .Kml file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />GMap.NET is a simple server control to allow easy implementation of google maps into any C&#35; or VB.NET project without the use of any code and includes seamless integration with a .Kml file.<br /><br />The ease of use here is that you can simply create the KML file in Google Earth, save it, publish it to the web and easily integrate it into a web page with no coding.<br /><br /><b>This code is open to anyone to improve/add/upgrade/break :)</b><br /><br /><b>If you like this project you can show your appreciation by making a small donation:</b>  <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=RKYC2Z8B4QW54&amp;lc=ZA&amp;item_name=Halcyonetic%20Studios&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted\">PayPal Donation</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Google Earth,ASP.NET Control,google maps,C#,mapas,",
+  "LastEdited": "2009-10-10T05:04:35.863-07:00"
+}

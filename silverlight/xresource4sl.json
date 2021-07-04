@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xresource4sl",
+  "Title": "Silverlight Resource Extension",
+  "Description": "Silverlight Resource Extension.\r\n\r\nExtension silverlight project for use ResX resources and localize satellite dll.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\n<h2>Silverlight Resource Extension improves:</h2>\r\n- to help using localizable resource based on resx files;<br />- dynamic load resource from server;<br />- to provide extended mechanism load behavior and options;<br />- to have simple implementation of СultureInfo resources provider.<br /><br />Today library provides only string resources.<br /><br />In Source Code there is an example how to use this library.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-02T00:09:59.847-07:00"
+}

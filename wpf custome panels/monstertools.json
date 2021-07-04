@@ -1,0 +1,9 @@
+{
+  "ProjectName": "monstertools",
+  "Title": "MonsterTools",
+  "Description": "A simple modular tool collection, based on .NET 4.5, WPF and Prism.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA simple modular application, based on .NET 4.5, WPF and Prism.<br>\r\n<br>\r\nModule 1: ping tool, using a WPF UI.</p>\r\n<p>Module 2: GUID generator (work in progress...)<br>\r\n<br>\r\nMore modules to come...</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-04-21T22:55:46.897-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sqlmgmtlite",
+  "Title": "Sql Management Lite",
+  "Description": "Sql Management lite a free query management tool. One stop application to interact with multiple databases and database servers. Supports MicroSoft Sql, Oracle",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple and easy tool to manage sql queries.<br /><br />Sql Management lite a free query management tool. One stop application to interact with multiple databases and database servers. Supports MicroSoft Sql, Oracle and MySql.<br /><br /><br />The purpose of the tool is very simple and clear. Tool is created to serve basic needs of developers, Project Managers and any one who has got access to database server.<br /><br />It&#39;s purpose manage a library of script that are used repeatedly and execute them whenever required, with parameters and different values for parameters of course, export/mail results to concerned department or person for further analysis.<br /><br />Tool is built using C# and .Net framework 4.5 and WPF technology.<br /><br />Find more about the project here <a href=\"http://sqlmgmtlite.weebly.com\">http://sqlmgmtlite.weebly.com</a><br />Read documentation here <a href=\"http://sqlmgmtlite.weebly.com\">http://sqlmgmtlite.weebly.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "sql,sql management,sql management lite,microsoft sql,oracle,mysql,query manager,query management too,query management,sql tool,c#,.Net,wpf,database reporting,data analysis,",
+  "LastEdited": "2015-03-22T22:26:49.717-07:00"
+}

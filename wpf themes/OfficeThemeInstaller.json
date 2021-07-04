@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OfficeThemeInstaller",
+  "Title": "Office Theme Installer",
+  "Description": "Office Theme Installer makes it easier for Office Theme designers to deploy themes to the users. You'll no longer have to copy the files manually. It's developed in WiX.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>What is Office Theme Installer</b><br />Office Theme Installer makes it easier for Office Theme designers to deploy themes to the users. You&#39;ll no longer have to copy the files manually. It&#39;s developed in WiX.<br /><br /><b>Start Here</b><br /><a href=\"https://officethemeinstaller.codeplex.com/documentation?referringTitle=Home\">Documentation</a><br /><br /><b>Contribute</b><br />If you feel this is a useful tool, contributers are welcomed to create a GUI </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-23T16:49:40.947-07:00"
+}

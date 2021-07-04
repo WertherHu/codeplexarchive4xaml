@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jcp",
+  "Title": "SharePoint 2010 JavaScript Registration Panel",
+  "Description": "The SharePoint 2010 JavaScript Registration Panel allows you to add JavaScript files to a site collection without SharePoint 2010 Designer intervention. This is helpful in scenarios where SharePoint Designer 2010 is disabled globally, but you have to add some JavaScript files (e.g. jQuery) to your site collection for every page load.\r\n\r\nThe aim of this project is to provide following features:\r\n- load JavaScript files on every page load of your site collection\r\n- define the sequence for loading your JavaScript files on the fly\r\n- sandboxed solution\r\n- Office 365 compatibility\r\n- centralized configuration\r\n- no need for customizing SharePoint pages or page layouts in many scenarios\r\n\r\nCheck the documentation section for more details",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The SharePoint 2010 JavaScript Registration Panel allows you to add JavaScript files to a site collection without SharePoint 2010 Designer intervention. This is helpful in scenarios where SharePoint Designer 2010 is disabled globally, but you have to add some JavaScript files &#40;e.g. jQuery&#41; to your site collection for every page load.<br /><br />The aim of this project is to provide following features&#58;<br />- load JavaScript files on every page load of your site collection<br />- define the sequence for loading your JavaScript files on the fly<br />- sandboxed solution<br />- Office 365 compatibility<br />- centralized configuration<br />- no need for customizing SharePoint pages or page layouts in many scenarios<br /><br />Check the documentation section for more details<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint 2010,SharePoint,Sandboxed Solutions,Sandbox,Sandbox Solutions,Office 365,toolset,eval,",
+  "LastEdited": "2012-03-17T03:03:33.863-07:00"
+}

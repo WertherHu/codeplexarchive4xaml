@@ -1,0 +1,9 @@
+{
+  "ProjectName": "codesocially",
+  "Title": "Code Socially",
+  "Description": "Code Socially is a website for noobs who just learned programming (.NET, Android, Ruby, IPhone Dev, etc) and have ideas to build a web app/project. A website where everyone can learn from each other socially. \nDeveloped using ASP.NET MVC, Silverlight, JQuery, Blend, C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nCode Socially is a website for those people who wants to learn programming in a more social way in various platform (.NET, Android, Ruby, IPhone Dev, etc).The concept of learning and helping each other and put it into a project to build something is very unique\r\n and which triggers people to learn more and more.</p>\r\n<p>This website will facilitate everyone to have a supporting environment to learn from each other and build small projects which will be composed to be a learning tutorial. Each member can generate a webcast series, create a gantt chart for their project,\r\n find people with similar backgrounds and interest to develop for a project. Everything is so much fun if it's social, and so does coding socially.</p>\r\n<p>Developed using ASP.NET MVC, Silverlight, JQuery, Blend, C#.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-21T18:44:33.79-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pdfrider",
+  "Title": "PDF Rider",
+  "Description": "PDFRider is an utility for doing some simple manipulations to PDF documents. It is written in c#/.net 3.5 (WPF), with the aim to be simple and user friendly.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br />PDFRider is an utility for doing some simple manipulations to PDF documents. It is written in c&#35;&#47;.net 3.5 &#40;WPF&#41;, with the aim to be simple and user friendly.<br /><br />PDF Rider is made upon the utility <a href=\"http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/\">pdftk</a> and can be used to:<br /><br />    * Merge PDF documents<br />    * Insert pages from another pdf file<br />    * Extract pages from a PDF document to a new document<br />    * Delete pages<br />    * Rotate pages<br />    * Crypt and Decrypt a pdf file<br />    * Burst a document into single pages<br /><br />    * Version 0.5 enables automatic updates checking<br /><br />PDFRider uses a web browser control to render the pdf file. In this way you can view the pdf file with your standard reader (Adobe Reader, etc...) as you do inside a browser!<br /><br /><img src=\"/projects/pdfrider/6fc83b20-d541-434f-bb7d-67d8346acb03\" alt=\"screen06.jpg\" title=\"screen06.jpg\" /><br /><br />Translations of the software are available at <a href=\"https://pdfrider.codeplex.com/wikipage?title=Translations&referringTitle=Home\">Translations</a>. If you want to submit a new translation, feel free to contact me.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "PDF,GUI,",
+  "LastEdited": "2011-07-15T04:44:38.57-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "invadersscreensaver",
+  "Title": "Space Invaders Screensaver",
+  "Description": "A simple WPF screensaver.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple WPF screensaver.<br /><br />The screensaver will not work well with lower resolutions. <br /><br /><img src=\"/projects/invadersscreensaver/e53fdfd1-22a4-4f07-a028-e8c691ec47dc\" alt=\"screensaver_screenshot.png\" title=\"screensaver_screenshot.png\" /><br /><br />Note: the screensaver is not interactive.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "screensaver,space invaders,",
+  "LastEdited": "2013-01-10T05:17:47.327-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "batchfileide",
+  "Title": "BatchItAll",
+  "Description": "BatchItAll\r\n\r\nBatchItAll is an IDE designed to create .bat files easily. Its many features include a selected text editor, a color picker, a switch making dialog, preloaded code snippets, a reading feature, a testing feature, and much more.\r\n\r\nSome features are unfinished. They will be finished soon, after the next major release.\r\n\r\nThere are some minor bugs and all, and I will try to fix them up.\r\n\r\nBatchItAll IS NOT DEAD!\r\n\r\nI am not finished. Currently, I am adding a syntax-highlighting and editing control to the project.\r\n\r\nExpect another release in a month or two.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />BatchItAll<br /><br />BatchItAll is an IDE designed to create .bat files easily. Its many features include a selected text editor, a color picker, a switch making dialog, preloaded code snippets, a reading feature, a testing feature, and much more.<br /><br />Some features are unfinished. They will be finished soon, after the next major release.<br /><br />There are some minor bugs and all, and I will try to fix them up.<br /><br />BatchItAll IS NOT DEAD&#33;<br /><br />I am not finished. Currently, I am adding a syntax-highlighting and editing control to the project.<br /><br />Expect another release in a month or two.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Batch File,Batch IDE,Batch File IDE,Visual Basic,VB,Visual Basic 2008,",
+  "LastEdited": "2011-10-05T11:59:48.567-07:00"
+}

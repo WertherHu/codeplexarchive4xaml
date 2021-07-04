@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ReportViewerForMvc",
+  "Title": "ReportViewer for MVC",
+  "Description": "ReportViewer control for ASP.NET MVC technology, displayed on an auto-resize iframe HTML tag and render on an ASP.NET Web Form.",
+  "MovedLink": "https://github.com/armanio123/ReportViewerForMvc",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>We moved!</h1>\r\n<p>All of the code has been moved to&nbsp;<a href=\"https://github.com/armanio123/ReportViewerForMvc\">GitHub ReportViewerForMvc</a>.</p>\r\n<p>Please submit any issues or comments there. I'll try my best to address them, it's been a looong time since the last time I work on this.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "viewer,SSRS,ReportViewer,report,html helper,HtmlHelper,Reporting,MVC,",
+  "LastEdited": "2017-09-22T00:03:57.53-07:00"
+}

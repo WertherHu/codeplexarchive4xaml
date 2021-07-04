@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cocodownloader",
+  "Title": "Downloader for MS-COCO Dataset",
+  "Description": "WPF C# Windows application made to download MS-COCO Dataset images by image.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Downloader for MS-COCO Dataset</h1>\r\nThis is a windows application made to download <a href=\"http://mscoco.org/\">MS-COCO Dataset</a> images by image. Why?<br /><br />Well, MS-COCO Dataset is really large (at least considering the internet speed and reliability in my country). Trying to download such a large file (even using a download manager) is very prone to error. After waiting for more then 24 hours, I ended up with a corrupted file. So I spent 2 hours writing a small WPF C# application to download the Dataset image by image so that if some problems occurred in the internet connection, unstable electricity or whatever, it will continue after the last correctly downloaded image. If you have the same problem, this may help you. Good Luck!<br /><br /><u>Note</u> This application is actually much slower than downloading the whole compressed file at once.<br /><br /><u>Note</u> This code uses <a href=\"http://www.newtonsoft.com/json\">Newtonsoft.JSON</a> and the repository contains the files downloaded from Nuget. I read its license (MIT) and from what I understood, there should be no problem leaving it in the repository. If there is a problem, kindly notify me. Thank you.<br /><br /><b>Screenshot</b><br /><br /><img src=\"/projects/cocodownloader/61d5b7e9-7756-404f-81a2-e0650bc14df0\" alt=\"Screenshot.png\" title=\"Screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,Downloader,MS-COCO,",
+  "LastEdited": "2015-11-23T11:23:20.87-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "linkedinwinrt",
+  "Title": "LinkedIn WinRT",
+  "Description": "This library provides basic functionality for using the LinkedIn API in a Windows 8 Store App.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>LinkedIn WinRT</b><br />This library provides basic functionality for using the LinkedIn API in a Windows 8 Store App.<br /><br /><br /><b>Features</b>\n<ul><li>Login with WebAuthenticationBroker</li>\n<li>Get user info(id, name, email, profile picture, full profile, etc.)</li>\n<li>Get the connections of the authenticated user</li></ul>\n<br />Download LinkedInWinRT from CodePlex or install using  <a href=\"https://nuget.org/packages/LinkedInWinRT\">NuGet</a><br /><br /><a href=\"https&#58;&#47;&#47;nuget.org&#47;packages&#47;LinkedInWinRT\"><img src=\"/projects/linkedinwinrt/ccd845af-c483-4410-ab17-b4c2d1d8d22e\" alt=\"Nuget\" title=\"Nuget\" /></a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "winrt linkedin,windows 8 linkedin,linkedin c#,winrt linkedin api,linkedin oauth,",
+  "LastEdited": "2013-08-20T13:05:33.41-07:00"
+}

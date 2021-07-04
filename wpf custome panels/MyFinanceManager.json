@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MyFinanceManager",
+  "Title": "MyFinanceManager",
+  "Description": "A tool for WindowsMobile-Devices to take control of my expenses.\r\n\r\nComes in combination with a (probably WPF)-PC-Application to register my income. It reads the data from the mobile device to check if my financial survival is at risk.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rA tool for WindowsMobile-Devices to take control of my expenses.<br /><br />Comes in combination with a &#40;probably WPF&#41;-PC-Application to register my income. It reads the data from the mobile device to check if my financial survival is at risk.<br /><br />\n<h1>Comment by project coordinator</h1>\rThis project should keep your personal finances in mind to avoid this little things called &quot;banking crisis&quot;. Your smaller expenses should be tracked with a WindowsMobile (5.0 or 6.1). Small means all expenses you handle with your wallet. This is why the WM-software is very simple and not fully featured. It only should be very fast and easy to handle. <br /><br />If you want to manage complexer expenses like rent or other periodical spending, there&#39;s a desktop client. This part of the software also can book earnings. It additionally should be able to make some kind of statistics. May be. <br /><br />The WM-client is developed on .Net-Compact 3.5<br />The Desktop-client is develop on .Net 3.5 and should use WPF.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,windows mobile,finance,",
+  "LastEdited": "2008-12-19T15:34:49.553-08:00"
+}

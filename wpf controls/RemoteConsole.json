@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RemoteConsole",
+  "Title": "Remote Console for Windows",
+  "Description": "Remote Console for Windows is a tcp/ip based c/s model remote console for windows, like ssh, but smaller and easier to use.\n\nDeveloped in VB.net",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Remote Console for Windows is a tcp&#47;ip based c&#47;s model remote console for windows, like ssh, but smaller and easier to use.<br /><br />Developed in VB.net<br /><br />the newest binary and document (both debug and release) can be downloaded @<br /><a href=\"http://myapp.hzj-jie.net/console/deploy/bin/\">http://myapp.hzj-jie.net/console/deploy/bin/</a><br /><br />the newest source code can be downloaded @<br /><a href=\"http://myapp.hzj-jie.net/basicVB/\">http://myapp.hzj-jie.net/basicVB/</a><br />and<br /><a href=\"http://myapp.hzj-jie.net/console/\">http://myapp.hzj-jie.net/console/</a><br /><br /><br /><a href=\"http://count.hzj-jie.net\"><img style=\"border:none;\" src=\"http://count.hzj-jie.net/site.jpg\" alt=\"visit counter\" title=\"visit counter\" /></a></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".net 3.5,remote control,console,",
+  "LastEdited": "2010-01-29T11:24:19.297-08:00"
+}

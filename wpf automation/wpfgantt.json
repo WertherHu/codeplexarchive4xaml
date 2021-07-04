@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfgantt",
+  "Title": "WPF Gantt chart",
+  "Description": "Gantt chart control for WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Gantt chart, which I created for my use...   It&#39;s not perfect, but if you find it useful for you, feel free to use it :) <br /><br /><b>View Documentation</b> <a href=\"http://wpfgantt.codeplex.com/documentation\">http://wpfgantt.codeplex.com/documentation</a><br /><br />Note: yes, <b>some</b> things are in CZECH language, it won&#39;t be hard to deduce and translate (or ask me) ...<br />So please tell me if this worked for you if you are going to use it :)<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf chart gantt,WPF Controls,",
+  "LastEdited": "2010-04-22T07:30:05.34-07:00"
+}

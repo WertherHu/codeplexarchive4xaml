@@ -1,0 +1,9 @@
+{
+  "ProjectName": "qualitystorm",
+  "Title": "The QualityStorm Project",
+  "Description": "QualityStorm is an open source PIMS - Process Information Management System.\n\nIt will support the adoption of the DMAIC - Define, Measure, Analyse, Improve and Control -  methodology from the Six Sigma Strategy by any kind of production process.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />QualityStorm is an open source PIMS - Process Information Management System.<br /><br />It will support the adoption of the DMAIC - Define, Measure, Analyse, Improve and Control -  methodology from the Six Sigma Strategy by any kind of production process.<br /><br /><br />QualityStorm will be able to collect information from several different sources, such as:\n<ul><li> Manual Input;</li>\n<li> OPC Servers;</li>\n<li> SQL databases;</li>\n<li> Calculations;</li>\n<li> Webservices; </li>\n<li> COM devices.</li></ul>\n <br />A set of analythical tools will be available to analyse the information. The tools planned so far include:\n<ul><li>Queries with export abilities;</li>\n<li>Custom designed forms;</li>\n<li>Dashboards;</li>\n<li>Common Charts;</li>\n<li>Control Charts.</li></ul>\n<br />Another important planned feature is the possibility to trigger reaction procedures whenever certain conditions are met, like when a specific process variable value is out of statistical control.<br /><br />Main project page: <a href=\"http://www.qualitystorm.com\">http://www.qualitystorm.com</a><br />Project blog: <a href=\"http://www.qualitystorm.com/blog\">http://www.qualitystorm.com/blog</a><br /><br /><br /> <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Six Sigma,Quality Control,Control Chart,",
+  "LastEdited": "2009-01-25T14:31:13.147-08:00"
+}

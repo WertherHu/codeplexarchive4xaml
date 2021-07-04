@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metroimdb",
+  "Title": "Metro Imdb",
+  "Description": "This project uses Mah Apps WPF Metro theme and imdbapi.org Rest Api to display data. It saves the titles in local disk.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Metro IMDB</strong><br>\r\n<br>\r\nThis project is created in WPF 4.5, Visual Studio 2012.&nbsp;</p>\r\n<p>The aim of the project is to use IMDB Rest API using&nbsp;http://imdbapi.org/</p>\r\n<p>Note: Make sure you are using it for non-commercial purposes. (private use only)</p>\r\n<p>The application makes use of Mah Apps Metro Theme for WPF. (http://mahapps.com/MahApps.Metro/)</p>\r\n<p>The screenshot of the application are follows.</p>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2013/03/myimdb-01.png\" alt=\"\"></p>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2013/03/myimdb-02.png\" alt=\"\"></p>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2013/03/myimdb-03.png\" alt=\"\"></p>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2013/03/myimdb-04.png\" alt=\"\"></p>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2013/03/myimdb-05.png\" alt=\"\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro,WPF,Imdb,Local Imdb,",
+  "LastEdited": "2013-03-12T03:43:09.423-07:00"
+}

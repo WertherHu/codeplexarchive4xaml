@@ -1,0 +1,9 @@
+{
+  "ProjectName": "anagramme",
+  "Title": "Anagramme",
+  "Description": "Jeu en réseau basé sur les anagrammes. Démonstraction technique utilisant WPF, WCF, WF, MEF et le pattern MVVM.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Anagramme</h1>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-23T18:34:04-07:00"
+}

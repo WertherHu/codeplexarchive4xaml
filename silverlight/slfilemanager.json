@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slfilemanager",
+  "Title": "Silverlight Server File Manager",
+  "Description": "SLFilemanager is a Server-side file manager written as Silverlight object.\r\n- Written in Visual Basic. \r\n- Uses the Silverlight Multi upload manager. \r\n- Communication by means of WCF service.\r\n- Folders in treeview\r\n- Files in Gridview\r\n- Support for drag and drop.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rMy first contribution to the community.<br /><br />After all kind of problems with a asp.net version of the server file manager for my CMS and to take the dive into Silverlight I started this project to provide a Silverlight server file manager.<br />\n<ul><li>It is fully written in Visual Basic.</li>\n<li>Uses a WCF service to coounicate with the server which is handeling the IO on the server.</li>\n<li>Drag and drop support of files and folders.</li>\n<li>Folders in a treeview, files in a grid.</li>\n<li>integrates Silverlight upload module <a href=\"http://silverlightfileupld.codeplex.com\">http://silverlightfileupld.codeplex.com</a></li></ul>\n<br />Very interested in your comments.<br />Help me out to make it a stable release.<br />\n<h1>Update 29-07-2010</h1>\r<ul><li>Migrated to SL4 (drag/drop, implicit styles)</li>\n<li>Added collapse and expand tree buttons</li>\n<li>Treeview starts collapsed</li></ul>\n<br /><img src=\"http://www.zschuschen.nl/Domeinen/5/Images/Illustraties/SlServerFilemanager.png\" alt=\"Thumbnail\" title=\"Thumbnail\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,WCF,silverlight 4.0,silverlight 4,Mirshahreza,",
+  "LastEdited": "2010-07-29T04:38:41.973-07:00"
+}

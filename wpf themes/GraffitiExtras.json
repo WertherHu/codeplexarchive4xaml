@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GraffitiExtras",
+  "Title": "Graffiti Extras",
+  "Description": "An open source project to create a set of plug-ins, extensions, widgets and themes for Telligent Graffiti CMS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An open source project to create a set of plug-ins, extensions, widgets and themes for Telligent Graffiti CMS.<br /><br /><b>What is included in Graffiti Extras 1.2?</b><br />Here is a list of plug-ins, extensions, widgets and themes that are included in this version:\n<ul><li><b>Sitemap plug-in</b></li>\n<li><b>Waegis plug-in</b></li>\n<li><b>Mobile Theme Selector plug-in</b></li>\n<li><b>Pingomatic plug-in</b></li>\n<li><b>RSS Extender plug-in</b></li>\n<li><b>Comment Reply Notifier plug-in</b></li>\n<li><b>IP Blocker plug-in</b></li>\n<li><b>Community Credit plug-in</b></li>\n<li><b>Disable Spam Comment Notifications plug-in</b></li>\n<li><b>Sharing extension</b></li>\n<li><b>Community Reactions extension</b> </li>\n<li><b>Post Navigator extension</b></li>\n<li><b>Search Relevancy extension</b> </li>\n<li><b>Theme Explorer extension</b></li>\n<li><b>Poll Manager widget</b></li>\n<li><b>Underground theme</b> </li>\n<li><b>Windows Mobile theme</b></li></ul>\n<br /><br /><b><a href=\"http://keyvan.io\">Keyvan Nayyeri&#39;s blog about computer science, software development, and technology</a></b><br /><b><a href=\"http://keyvan.fm\">Keyvan Nayyeri&#39;s podcast channel</a></b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Telligent,Graffiti,C#,Extension,Extensibility,Keyvan Nayyeri,Thomas Freudenburg,Plugin,Brian Zalk,Graffiti CMS,RETURN,",
+  "LastEdited": "2012-03-17T13:38:52.36-07:00"
+}

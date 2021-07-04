@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dronecontroller",
+  "Title": ".NET DroneController",
+  "Description": "The .NET DroneController makes it easy to write applications that allow you to control an ARDrone quadricopter.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong> <br>\r\nThe .NET DroneController makes it easy to write applications that allow you to control an ARDrone quadricopter.\r\n<br>\r\n<br>\r\nSome more information: <a href=\"http://www.digitude.net/blog/?p=51\">www.digitude.net/blog</a>\r\n<br>\r\n<br>\r\nThe source code is created with Visual Studio 2010, the PlayGround application uses the Microsoft Expression Blend Software Development Kit (SDK) for .NET 4.<br>\r\n<br>\r\nThere are some restrictions on the usage of the .NET DroneController library. <br>\r\n<br>\r\nAllowed: <br>\r\n<br>\r\n- Using the .NET DroneController for creating applications for entertainment. <br>\r\n<br>\r\nNot allowed: <br>\r\n<br>\r\n- Create applications that could conflict with local law regulations <br>\r\n- Create applications for purposes other than entertainment, (e.g. monitoring or spy software)\r\n<br>\r\n<br>\r\nAs always be careful when playing around with the ARDrone.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-01T05:47:14.947-08:00"
+}

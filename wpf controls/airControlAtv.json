@@ -1,0 +1,9 @@
+{
+  "ProjectName": "airControlAtv",
+  "Title": "Air Control ATV",
+  "Description": "App for Windows Phone to remote control Apple TV with FireCore aTV Flash (or Black) and AirControl installed.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />App for Windows Phone to remote control Apple TV with FireCore aTV Flash &#40;or Black&#41; and AirControl installed.<br /><br /><b>Features:</b>\n<ul><li>Multi function buttons</li>\n<li>Text input</li>\n<li>Shortcuts to My Media, Netflix and Youtube</li></ul>\n<br /><b>Futures:</b>\n<ul><li>Now playing</li>\n<li>Gesture pad\n<ul><li>Swipe to navigate</li>\n<li>Tap to select</li>\n<li>Hold to long press</li>\n<li>Two-finger tap to go back to menu</li>\n<li>Tap zones for more commands</li></ul></li>\n<li>Haptic feedback</li>\n<li>Now playing Live Tile</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Apple TV,AirControl,Windows Phone,",
+  "LastEdited": "2013-10-24T05:19:59.72-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CGOnline",
+  "Title": "Board Game Online Platform",
+  "Description": "Board Game Online",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Card Game Online Platfom</b></h1>\rBoard Game Online<br />\n<h2><b>Project Target</b></h2>\r\nThe purpose is to create an platform that user could login and communicate with each other, in the meantime, it provide a group of api, which allow developers to create online games and publish to platform, any users would join and play game on platform.<br /><br />Sounds like SNS. However, this project should allowing more <u>interactive action</u>. It&#39;s based on .net(Silverlight, WCF, Azure, etc.).<br />\n<h2><b>Feature Requirement</b></h2>\r\nThe basic infostructure provided by platform\n<ul><li>User authentication module</li>\n<li>GameRoom module</li>\n<li>Game Excute module</li>\n<li>Platform Client(Silverlight)</li></ul>\n<br />The core feature is a set of Api for creating interactive application\n<ul><li>Identity resource manage api</li>\n<li>instruction send/receive api</li></ul>\n\n<h2><b>Sample</b></h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WCF,Silverlight,",
+  "LastEdited": "2011-01-24T19:55:25.58-08:00"
+}

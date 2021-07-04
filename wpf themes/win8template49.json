@@ -1,0 +1,9 @@
+{
+  "ProjectName": "win8template49",
+  "Title": "Windows 8 App Design Reference Template: Travel Light Theme",
+  "Description": "Travel light theme is an emulation of a travel app with placeholders for Summary, Group summary, and Detail data.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong><span>Disclaimer:&nbsp;</span></strong>The template provided in the form of Visual Studio project (C# and JS) is meant to act as a starter kit for Windows 8 Store apps development. You are&nbsp;recommended to change or modify the look and feel to\r\n suit the branding that is required for your app. The template by no means restricts you to stick to the layout, navigation or other aspects indicated.</p>\r\n<p><strong><span>Project Description</span></strong></p>\r\n<p><span style=\"font-size:10pt; color:black\"><span style=\"color:#800000; text-decoration:underline\">Travel light theme</span> is an emulation of a travel app with placeholders for Summary, Group summary, and Detail data.</span></p>\r\n<p><span style=\"font-size:10pt; color:black\">You can leverage this template even if you are not building a travel app, but the implementation scenario is closest to the template. Please refer to the &ldquo;snapshots&rdquo; folder under the root template folder\r\n to get a glimpse of the template look and feel.</span></p>\r\n<p><strong>Download</strong> includes the following</p>\r\n<ul>\r\n<li>Source (C# and JS) </li><li>Package </li><li>Snapshots </li><li>Documentation </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-07T03:13:09.773-08:00"
+}

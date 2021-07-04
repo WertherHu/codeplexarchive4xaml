@@ -1,0 +1,9 @@
+{
+  "ProjectName": "phoneandstoreapphelpers",
+  "Title": "Windows Phone and Windows Store app utility routines and helper libraries",
+  "Description": "This project provides free utilities (code routines) and helper classes for Windows Phone 8 and Windows 8/8.1 Store app developers using C# and XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project</strong><br>\r\n<br>\r\nWindows Phone 8 and Windows 8/8.1 Store Application Helper Libraries for C#/XAML</p>\r\n<p><strong>Description</strong></p>\r\n<p>This project contains a small set of useful helper libraries that make the development of your Windows Phone 8 and Windows 8/8.1 Store applications easier. The set of available routines will expand over time.</p>\r\n<p>Enjoy!</p>\r\n<p>Regards,</p>\r\n<p>Jani J&auml;rvinen</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 8,Windows 8 store apps,Windows Runtime,WinRT,WP8,",
+  "LastEdited": "2013-12-18T05:21:59.863-08:00"
+}

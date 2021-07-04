@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fileconvertor",
+  "Title": "WS-FileConvertor",
+  "Description": "WS-FileConvertor is a .NET application that converts image files into text readable format. Application also uploads the converted files (Text format)into SharePoint. All image formats are supported including GIF, JPG, BMP, TIFF, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWS-FileConvertor is a .NET application that converts image files into text readable format. Application also uploads the converted files (Text format)into SharePoint. All image formats are supported including GIF, JPG, BMP, TIFF, etc.</p>\r\n<p>This application has been tested to work with SharePoint 2010. We are currently testing it with SharePoint 2013 RTM version.<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,MOSS,WSS,upload,SharePoint 2007,Sharepoint Tools,file convertor,convertor,ocr,image convertor,automation,file conversion,",
+  "LastEdited": "2013-01-19T17:17:47.067-08:00"
+}

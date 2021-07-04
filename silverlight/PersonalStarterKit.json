@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PersonalStarterKit",
+  "Title": "Extended Personal Site Starter Kit",
+  "Description": "Extended Personal Site Starter Kit是一个基于ASP.NET 3.5和ASP.NET 3.5 Extensions的个人站点，它使用了如下技术：\n1.ASP.NET 3.5\n2.ASP.NET MVC Framework\n3.LINQ to SQL\n4.ASP.NET AJAX",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Extended Personal Site Starter Kit</h1>\rExtended Personal Site Starter Kit是一个基于ASP.NET 3.5和ASP.NET 3.5 Extensions的个人站点，将会采用如下技术：<br />1.ASP.NET 3.5<br />2.ASP.NET MVC Framework<br />3.LINQ to SQL<br />4.ASP.NET AJAX<br />5.WCF<br />6.Silverlight<br />\n<h1>主界面</h1>\r<img src=\"/projects/PersonalStarterKit/e89b483a-028d-4732-a074-1a9b5111f4ca\" alt=\"Home2.gif\" title=\"Home2.gif\" /><br /><br />博客园Web技术联盟小组<br />地址：<a href=\"http://space.cnblogs.com/group/webdev/\">http://space.cnblogs.com/group/webdev/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET 3.5,Silverlight,LINQ TO SQL,WCF,ASP.NET Ajax,",
+  "LastEdited": "2008-01-01T18:31:01.143-08:00"
+}

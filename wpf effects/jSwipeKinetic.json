@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jSwipeKinetic",
+  "Title": "jSwipeKinetic - a touch optimized kinetic scroller",
+  "Description": "A jQuery plugin that enables you to add kinetic scrolling on your touch optimized projects. jSwipeKinetic is build on top of jGestures (jgestues.codeplex.com).\r\n\r\nIncluding: the elastic effect made famous by ios and the abillity to swipe or drag an element.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>jSwipeKinetic</h1>\rA jQuery plugin that enables you to add kinetic scrolling on your touch optimized projects. jSwipeKinetic is build on top of jGestures &#40;jgestues.codeplex.com&#41;.<br /><br />Including&#58; the elastic effect made famous by ios and the abillity to swipe or drag an element.<br />\n<h2>Example</h2>\r<pre> jQuery(document).ready(function () {\n\t $(&#39;.jGestures_swipeKinetic&#39;).jSwipeKinetic({sSelectorItems: &#39; &gt; li&#39;})\n}); </pre><br />\n<h2>Requires</h2>\r<ul><li>jQuery: Get jQuery at <a href=\"http://jquery.com/\">http://jquery.com/</a></li>\n<li>jGestures: Get jGestures at <a href=\"http://jgestures.codeplex.com/\">http://jgestures.codeplex.com/</a></li></ul>\n<br /> </div><div class=\"ClearBoth\"></div>",
+  "TagList": "iphone,ipad,Touch,gestures,jQuery,javascript,jquery plugin,iPod,",
+  "LastEdited": "2012-04-26T08:04:05.92-07:00"
+}

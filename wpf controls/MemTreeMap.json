@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MemTreeMap",
+  "Title": "MemTreeMap",
+  "Description": "MemTreeMap is a tool that shows the memory usage of the system RAM graphically in a treemap. The Treemap control from the visualisation components of the microsoft research is used.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MemTreeMap shows a graphical overview of the memory usage of your computer</b><br /><br />Process Explorer from sysinternals is always open on my system. Often I wished to see how all the memory is spent without checking numbers in Process Explorer. MemTreeMap  uses the Visualisation Components from Microsoft Research to show the memory usage in a practical way.<br />There are a bunch of tools to chek the harddisk usage (WinDirStat, Sequoia, ...), but only one (which name i forgot) for the RAM usage, and that one isn&#39;t free anymore.<br /><br /><img src=\"/projects/MemTreeMap/7d169165-486f-4cb5-9303-353d1c31d6c9\" alt=\"MemTreeMap.png\" title=\"MemTreeMap.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-12-09T23:41:10.74-08:00"
+}

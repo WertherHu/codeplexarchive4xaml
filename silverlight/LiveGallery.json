@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LiveGallery",
+  "Title": "Live Gallery",
+  "Description": "This is a Silverlight project, built on the Wall3D photo viewer starter sample, available with Microsoft Expression Blend 3. It pulls geocoded photos from Flickr service and displays them in a photo wall. The project uses MEF for themed plugins.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This is a Silverlight project, built on the Wall3D photo viewer starter sample, available with Microsoft Expression Blend 3. It pulls geocoded photos from Flickr service and displays them in a photo wall. The project uses MEF for themed plugins.<br /><br />Additional information about the project is available:<br /><br /><a href=\"http://www.silverlightshow.net/items/Honey-I-MEF-fed-the-Silverlight-Gallery-for-Christmas-Part-1.aspx\">http://www.silverlightshow.net/items/Honey-I-MEF-fed-the-Silverlight-Gallery-for-Christmas-Part-1.aspx</a><br /><a href=\"http://www.silverlightshow.net/items/Honey-I-MEF-fed-the-Silverlight-Gallery-for-Christmas-Part-2.aspx\">http://www.silverlightshow.net/items/Honey-I-MEF-fed-the-Silverlight-Gallery-for-Christmas-Part-2.aspx</a><br /><a href=\"http://tozon.info/blog/post/2009/10/26/Halloween-Live-Gallery.aspx\">http://tozon.info/blog/post/2009/10/26/Halloween-Live-Gallery.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "silverlight,Blend,Photo Gallery,Photo Viewer,flickr,geotagging,Bing Maps,",
+  "LastEdited": "2010-01-15T02:34:10.777-08:00"
+}

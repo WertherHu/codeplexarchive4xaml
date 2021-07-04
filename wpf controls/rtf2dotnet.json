@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rtf2dotnet",
+  "Title": "RTF 2 .NET",
+  "Description": "This is a small application which allows you to take an RTF file and parse it into code that you can use in a .NET project as the control's RTF property.  Basically it simply displays the RTF code as plain text.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a small application which allows you to take an RTF file and parse it into code that you can use in a .NET project as the control&#39;s RTF property.  Basically it simply displays the RTF code as plain text.<br /><br />I am in the process of commenting the source code.  It should be updated shortly.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-08T09:21:29.157-07:00"
+}

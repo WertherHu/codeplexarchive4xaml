@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ExpressionTreeTests",
+  "Title": "Expression Tree Tests",
+  "Description": "Displays several expression trees as graphs on a WPF canvas.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">&quot;Expression Tree Tests&quot; displays several C# expressions as graphs on a WPF canvas.<br /><br />It is <i><b>only</b></i> a test program that leverages several class libraries in <b>binary</b> form <i>that are not part of its distribution</i>.<br /><br /><img src=\"/projects/ExpressionTreeTests/393155e4-68fd-4eb9-9ab1-eba529869871\" alt=\"SixPairs.com\" title=\"SixPairs.com\" /> <b>cf.</b> <a href=\"http://www.sixpairs.com\">http://www.sixpairs.com</a><br /><br /><img src=\"/projects/ExpressionTreeTests/acf6f362-382c-4a12-acf4-1d04a2676939\" alt=\"Screen&#32;Shot&#32;&#35;1\" title=\"Screen&#32;Shot&#32;&#35;1\" />  <img src=\"/projects/ExpressionTreeTests/794714de-d138-44f9-84c9-77c14dd9c56a\" alt=\"Screen&#32;Shot&#32;&#35;2\" title=\"Screen&#32;Shot&#32;&#35;2\" /><br /><br /><img src=\"/projects/ExpressionTreeTests/9e0f2768-5520-4355-be12-6c3aff5aa7db\" alt=\"Screen&#32;Shot&#32;&#35;3\" title=\"Screen&#32;Shot&#32;&#35;3\" /><br /><br />Expressions that are displayed in the test project:<br /><br /><img src=\"/projects/ExpressionTreeTests/c53c3ec9-7b9e-441e-8de3-a4864dc287d8\" alt=\"List&#32;of&#32;tests&#32;conducted\" title=\"List&#32;of&#32;tests&#32;conducted\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Expression Trees,wpf,graph,lambda,",
+  "LastEdited": "2009-04-20T09:17:21.86-07:00"
+}

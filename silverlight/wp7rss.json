@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp7rss",
+  "Title": "Windows Phone 7 RSS Reader",
+  "Description": "This project provides the source code for a Windows Phone 7 (Silverlight) RSS Reader. It was originally created as part of a one-week long WP7 hackathon sponsored by Microsoft UK.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project provides the source code for a Windows Phone 7 &#40;Silverlight&#41; RSS Reader. It was originally created as part of a one-week long WP7 hackathon sponsored by Microsoft UK.<br /><br /><b>Overview</b><br /><br />Earlier in the year Microsoft UK ran a <a href=\"http://blogs.msdn.com/b/ukmsdn/archive/2011/01/29/dddhack-competition-at-ddd9.aspx\">DDDHack competition</a>, where you were given the sourcecode for a Windows Phone 7 RSS Reader application (<a href=\"http://rssreaderwp7.codeplex.com/\">http://rssreaderwp7.codeplex.com/</a>) and one week to make your improvements. This project was my (winning) entry to that competition.<br /><br />Please not, the competition was a one week hackathon, with the emphasis on adding features rather than clean code! As a result, this code is a little intelligent!<br /><br />I do plan to build on this project, cleaning it up a little, but for now, it is a useful record of my entry.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-08T02:53:17.447-07:00"
+}

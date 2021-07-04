@@ -1,0 +1,9 @@
+{
+  "ProjectName": "identifyui",
+  "Title": "IdentifyUI - An automation tool to identify objects",
+  "Description": "IdentifyUI - An automation tool to identify objects\r\nIt works only on windows operating system. It has been tested on Windows XP. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>IdentifyUI - An automation tool to identify objects</b></h1>\r\nThis tool is developed keeping in mind the need to identify windows objects. The entire UI Automation framework is developed in such a way that the existing objects on the desktop will be represented in the form of a tree.<br /><br />This tool displays the various properties of an object when it is selected which can be used by developers and testers to work on that object for their various automation needs.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-05T10:46:46.637-07:00"
+}

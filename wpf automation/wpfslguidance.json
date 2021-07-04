@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfslguidance",
+  "Title": "Guidance on Differences Between WPF and Silverlight",
+  "Description": "WPF and Silverlight are both XAML based platforms but there are some important functionality and implementation differences between the two.  This project contains content illustrating these differences and the best practices for developing against these platforms.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF and Silverlight are both XAML based platforms but there are some important functionality and implementation differences between the two.  This project contains content illustrating these differences and the best practices for developing against these platforms.<br /><br />Content posted to this project includes a whitepaper detailing what is similar and different between the two platforms as well as how to code against both platforms getting as much code reuse as possible.<br /><br />Thank you everyone that has downloaded and read the whitepaper.  Furthermore, we appreciate the community&#39;s help in making this whitepaper the best that it can be.  Please continue to review and leave you comments; we hear your feedback and will be updating the paper over the next couple of weeks.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,WPF,C#,VB.NET,WPF Vs Silverlight,",
+  "LastEdited": "2009-06-15T12:03:47.613-07:00"
+}

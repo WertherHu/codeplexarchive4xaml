@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFFishEye",
+  "Title": "Fish Eye effect for WPF.In VB.Net, A very nice Animation, with custom speed",
+  "Description": "WPF Fisheye project includes a usercontrol which a developer can use to implement the fisheye effect in a listview.\r\n\r\nThanks,\r\nVikas\r\n[url:Visit my blog|http://excelnoob.blogspot.com]",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">WPF Fisheye project includes a usercontrol which a developer can use to implement the fisheye effect in a listview. This listview first loads the Images in a listview and the images give a Fish Eye effect once the mouse is hovered over the image.<br /><br /><br />Edited : 29th June 2011<br /><br />Hi All, <br /><br />I have been getting too many emails with this control not working. So I have tried to build something for you guys. Please download the new build and it has what you need. A user control, which you can import in a Windows Forms, in a Office Task Pane (Excel, PowerPoint, or Word), or in any different WPF Window. <br /><br />Since I have cropped the code from one of the Existing project of mine, so the code may not look very clean, but it will solve the purpose of lot of people who may not have time to develop a control like this. More over, the control is developed in VB.Net. So Nice haan, we get too many code samples in C#, but not in VB.net so I thought to post it here.<br /><br />Thanks,<br />Vikas</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF Fisheye,FishEye Effects,Images In Listview,VB.Net,",
+  "LastEdited": "2011-06-29T03:33:25.543-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightVideoShow",
+  "Title": "Silverlight Video CoverFlow",
+  "Description": "This a Silverlight Sample Application including a Coverflow of Video (streaming)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Overview</b><br />This project is a sample application to show a CoverFlow Videos.<br /><br /><b>Details</b><br />This application was created with Silverlight composite application based on Prism Framework. The architecture is based on PRISM framework and includes Model-View-ViewModel (MVVM) pattern. <br /><br /><b>Additional Links</b>\n<ul><li>Prism 4.0 - <a href=\"http://compositewpf.codeplex.com/\">http://compositewpf.codeplex.com/</a> </li>\n<li>Silverlight 5 SDK - <a href=\"http://www.microsoft.com/download/en/details.aspx?id=2570\">http://www.microsoft.com/download/en/details.aspx?id=2570</a></li>\n<li>Microsoft Media Platform : Player Framework - <a href=\"http://smf.codeplex.com/\">http://smf.codeplex.com/</a></li>\n<li>Nuget - <a href=\"http://nuget.codeplex.com/\">http://nuget.codeplex.com/</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-27T08:37:54.237-08:00"
+}

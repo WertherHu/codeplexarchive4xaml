@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rawler",
+  "Title": "Rawler　-The Web scraping Framework using XAML",
+  "Description": "This is the Web scraping Framework using XAML .This framework makes Web scraping possible by only XAML. \r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is the Web scraping Framework using XAML .This framework makes Web scraping possible by only XAML. <br /><br /><br />XAMLで記述することで、webページの取得、解析までをやれるフレームワークです。<br />すばやく、多くのWebページでのデータ取得ができると思います。<br /><br />基本機能として、webからのページ取得、解析、そのデータの保存をXAMLでの表記のみで行うことができます。<br />ログインを必要とするページにも対応し、またページングにも対応し、次々とページを取得することができます。<br /><br />また、WPFのプログラムのようにコードビハインドでイベント処理を追加すれば、細かい制御ができ、データベースと連携して、webで取得したデータをデータベースに貯めるなどのことができます。、<br /><br />使い方の日本語資料<br /><a href=\"http://web.sfc.keio.ac.jp/~kiichi/wiki/index.php?Rawler\">http://web.sfc.keio.ac.jp/~kiichi/wiki/index.php?Rawler</a><br /><a href=\"http://d.hatena.ne.jp/kiichi55/20111012/1318440723\">http://d.hatena.ne.jp/kiichi55/20111012/1318440723</a><br /><a href=\"http://d.hatena.ne.jp/kiichi55/20111023/1319375530\">http://d.hatena.ne.jp/kiichi55/20111023/1319375530</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-26T06:41:45.543-07:00"
+}

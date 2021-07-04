@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilvercloudAPI",
+  "Title": "Soundcloud Silverlight API",
+  "Description": "This is an attempt of creating a Silverlight wrapper wrapper for the Soundcload API for use with .NET, Silverlight and Windows Phone 7 Applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The Soundcloud Silverlight API is aimed at .NET, Silverlight and Windows Phone 7 Developers.<br />The API will allow you to develop applications talking to and working with http://soundcloud.com.<br /><br />There are currently 3 different libraries planned:\n<ul><li>.NET Library (for Windows Applications)</li>\n<li>Silverlight Library (for Silverlight Applications)</li>\n<li>WP7 Library (for Windows Phone 7 Applications)</li></ul>\n<br />The project is in the early planning phase, so that might chance over time.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-27T10:39:46.92-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "goofyproject",
+  "Title": "Hotel Management System",
+  "Description": "A system for control and managing of the hotel rooms and their content.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Hotel Management System</h1>\r<i>This is а team project, part of the course &quot;Object Oriented Programming&quot; in the Telerik Academy .</i><br />\n<h2>Description</h2>\r\nThis is light console based system for control and managing of hotel rooms and their content. <br />The software offers the possibility of describing and store information about rooms and their content. That gave to both receptionists and room service staff the possibility easily to manage their work.<br /><br />The top level object is the hotel, which consists of some rooms and many clients. On this level the receptionists can organize every client and every room.<br /><br />Moreover, the content of every room can be described: from furniture to food stock. This helps the service personnel to check the presence the entire room content and to replace some items with new one.<br />\n<h2>Example</h2>\r\nIn room number 61 there are a two-seater bed, a TV and 3 towels. On the front desk we could check if the room is vacancy, rent the room for a client or get information about previous clients. In this example the receptionist can see that there are only two sleeping seats. When the housekeepers visit the room, they can check if all described objects from their list are there and which item they have to replace with new one or to replace the quantities. So they are able to see that the room have a TV and check is it still there and replace the towels with clean ones.<br />\n<h2>Team members:</h2>\r<ul><li>Boyan Dzhorgov</li>\n<li>Zlatil Zlatilov</li>\n<li>Simeon Aleksandrov</li>\n<li>Tanya Poparova</li>\n<li>Tsvetomir Nikolov</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-18T13:12:44.22-07:00"
+}

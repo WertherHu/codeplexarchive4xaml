@@ -1,0 +1,9 @@
+{
+  "ProjectName": "picklist",
+  "Title": "PickList (Dual Listbox) ASP.NET WebControl",
+  "Description": "Renders two listboxes side-by-side with buttons between them form moving options from one listbox to the other. Other names for this type of control include dual listbox and double listbox.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Renders two listboxes side-by-side with buttons between them form moving options from one listbox to the other. Other names for this type of control include dual listbox and double listbox.<br /><br /><img src=\"https://lh5.googleusercontent.com/-zczfaRd9M9M/TgUBEpWFADI/AAAAAAAACZg/zMHea1nDrnc/s288/PickList.png\" /><br /><br /><b>Features</b>\n<ul><li>Its simplicity</li>\n<li>Inherts from ListControl class from System.Web.UI.WebControls</li>\n<li>Binds to a DataTable or Collection just like the ListBox control</li>\n<li>Fully stylable</li>\n<li>Works in all browsers (client script is very simple)</li>\n<li>Looks great in designer mode</li></ul>\n<b>Requirments</b>\n<ul><li>.NET 2.0 or greater</li>\n<li>Nothing else (does not require a ScriptManager, MS Ajax, or jQuery)</li></ul>\n<b>Example</b><br />A sample application is provided to demonstrate the control&#39;s features.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,ASP.NET,C#,Controls,Server Controls,control,webcontrol,Css Friendly,PickList,ListBox,ewn,Dual ListBox,double listbox,list box,webcontrols,",
+  "LastEdited": "2015-06-22T10:52:17.047-07:00"
+}

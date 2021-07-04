@@ -1,0 +1,9 @@
+{
+  "ProjectName": "claimsbasedwpf",
+  "Title": "WPF Guidance for Claims-Based and Federated Security Models",
+  "Description": "This project includes a whitepaper, code samples that are reference implementations providing guidance for building claims-based and federated security models that involve WPF clients with WCF and Geneva Framework. Note that Geneva Framework is not required for the WPF client.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project includes a whitepaper, code samples that are reference implementations providing guidance for building claims-based and federated security models that involve WPF clients with WCF and Geneva Framework. Note that Geneva Framework is not required for the WPF client.<br /><br /><br /><b>Latest Release</b><br />The latest release of the reference samples an be found here: <a href=\"http://claimsbasedwpf.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=29658\">Sample Code</a><br />UPDATED Nov 22, 2009 for the release of Windows Identity Foundation<br /><br />The accompanying whitepaper can be found here: <a href=\"http://claimsbasedwpf.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=29892\">Building Claims-Based WPF Applications Whitepaper</a><br /><br /><b>Contact Info</b><br />Please try to use the discussion board for this project for any project-related questions and feedback. If you have a question not project-related you can email me, Michele Leroux Bustamante, at <a href=\"mailto:mlb@dasblonde.net\">mlb@dasblonde.net</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Authentication,Identity,WIF,",
+  "LastEdited": "2009-11-22T23:13:29.307-08:00"
+}

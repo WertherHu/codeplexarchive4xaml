@@ -1,0 +1,9 @@
+{
+  "ProjectName": "plox",
+  "Title": "Plox",
+  "Description": "Plox is a Windows service that automatically deletes specified files based on creation and modification dates - FTP support is planned for version 2.0. This project also includes PloxEd, a GUI for editing the registry values that drive Plox.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Plox is a Windows service that automatically deletes files, based on a variely of criteria, from local and FTP filesystems. Plox can manage an unlimited number of jobs, each with independent deletion criteria, and can be scheduled to run as often as needed. Never manually manage temp folders again!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,FTP,Document Control,Services,Purging,",
+  "LastEdited": "2008-08-14T09:17:29.407-07:00"
+}

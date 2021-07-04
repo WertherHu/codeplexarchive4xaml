@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webpageviewer",
+  "Title": "web page viewer",
+  "Description": "web page view on wpf application by using \"WebBrowser class\"",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />web page view on wpf application by using &#34;WebBrowser class&#34;<br /><br />web page viewer is an application that displays a Web site by using the &quot;WebBrowser class&quot; of dot Net Framework.<br /><br />This app can set &quot;Always On Top&quot;.<br /><br />That&#39;s all...<br /><br /><b>System Requirements</b><br />\n<ul><li>.Net Framework 3.5</li></ul>\n\n<hr />\n<br /><b>概要</b><br /><br />web page viewerは.Net FrameworkのWebBrowserクラスを利用してWebサイトを表示するアプリケーションです。<br /><br />「常に手前に表示」を設定できます。<br /><br />ただそれだけです。<br /><br /><b>システム要件</b>\n<ul><li>.Net Framework 3.5</li></ul>\n\n<hr />\n<br /><b>Screen Shot</b><br /><br /><img src=\"/projects/webpageviewer/f5f13bb6-00bd-4c72-85d7-8847582d506a\" alt=\"webpageviewer_ss.png\" title=\"webpageviewer_ss.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-12T08:51:54.727-07:00"
+}

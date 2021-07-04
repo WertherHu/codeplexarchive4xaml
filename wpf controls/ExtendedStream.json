@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ExtendedStream",
+  "Title": "ExtendedStream",
+  "Description": "This is a Library that helps users of it to simply access streams and control them.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a Library that helps users of it to simply access streams and control them.<br />Controls like safe read , add header to a stream, make sub stream of an stream, merge streams,and...<br /><br />there is a solution for slicing a stream to fixed size streams too.<br /><br />Any idea about streams appreciated. With your help this project can be useful.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Stream,",
+  "LastEdited": "2014-06-14T07:15:46.097-07:00"
+}

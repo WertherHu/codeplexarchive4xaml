@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightGaugeDemo",
+  "Title": "Silverlight & JavaScript Gauge Demo",
+  "Description": "A very simple example of a gauge usingonly HTML to host a Silverlight control with inline XAML for the gauge itself.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Silverlight Javascript XAML Gauge Example</b><br /><br />A very simple example of using Silverlight as a canvas with inline XAML and Javascript interaction.  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-09-02T06:56:53.65-07:00"
+}

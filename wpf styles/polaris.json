@@ -1,0 +1,9 @@
+{
+  "ProjectName": "polaris",
+  "Title": "Polaris",
+  "Description": "Polaris is a framework that is based on and extends Prism and the Microsoft Enterprise Library. Its main purpose is to implement mechanisms to improve the user experience by creating fluid, animated user interfaces which are always compelling and responsive, giving the user appropriate feedback. The Polaris framework intends to be portable so that its controls and utilities can be used across different platforms, including WPF, Silverlight, Windows Phone 7 and when possible, WinRT.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Polaris is a framework that is based on and extends Prism and the Microsoft Enterprise Library. Its main purpose is to implement mechanisms to improve the user experience by creating fluid, animated user interfaces which are always compelling and responsive, giving the user appropriate feedback. The Polaris framework intends to be portable so that its controls and utilities can be used across different platforms, including WPF, Silverlight, Windows Phone 7 and when possible, WinRT.<br /><br /><br /><b>Polaris ArenaNet Guild Wars 2</b><br />For information about this division please check  <a href=\"https://polarisgw2.codeplex.com\">https://polarisgw2.codeplex.com</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVC,",
+  "LastEdited": "2013-09-27T16:02:11.34-07:00"
+}

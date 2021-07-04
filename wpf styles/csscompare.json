@@ -1,0 +1,9 @@
+{
+  "ProjectName": "csscompare",
+  "Title": "CSS Compare",
+  "Description": "CSS Compare is a utility to compare two CSS files and output unique styles.  It's useful for exporting customizations and managing stylesheet versions.\r\n\r\nUnlike traditional text comparison tools, CSS Compare evaluates individual CSS styles instead of pure text blocks, allowing for net comparisons regardless of where a style may appear in the file.  CSS Compare is compatible with all levels of CSS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>CSS Compare</h2>\rThis project is now maintained on GitHub: <a href=\"https://github.com/bertjohnson/CSSCompare\">https://github.com/bertjohnson/CSSCompare</a><br /><br /><b>Project Description</b><br />CSS Compare is a utility to compare two CSS files and output unique styles.  It&#39;s useful for exporting customizations and managing stylesheet versions.<br /><br />Unlike traditional text comparison tools, CSS Compare evaluates individual CSS styles instead of pure text blocks, allowing for net comparisons regardless of where a style may appear in the file.  CSS Compare is compatible with all levels of CSS.<br /><br /><b>Other Projects</b><br />For additional projects by Bert Johnson, visit <a href=\"https://bertjohnson.com\">https://bertjohnson.com</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-10-31T18:31:12.88-07:00"
+}

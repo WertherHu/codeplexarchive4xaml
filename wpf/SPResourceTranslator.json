@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPResourceTranslator",
+  "Title": "SPResourceTranslator (SharePoint Resources File Translator)",
+  "Description": "This tool enables you to translate your sharepoint resource files automatically to a another language. A new translated resx resource files will be created based next to the orgininal selected resource file.\n\nKind regards\nTom Van Gaever",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This tool enables you to translate your sharepoint resource files automatically to a another language. A new translated resx resource files will be created based next to the orgininal selected resource file.<br /><br />Kind regards<br />Tom Van Gaever<br /><br /><br />more information can be found at the documentation page:<br /><a href=\"http://spresourcetranslator.codeplex.com/documentation\">http://spresourcetranslator.codeplex.com/documentation</a><br /><br /><img src=\"http://tomvangaever.be/blogv2/wp-content/uploads/2012/04/spresources.png\" /><br /><br />Read more at my blog: <a href=\"http://tomvangaever.be/blog/index.php?entry=entry091024-213032\">http://tomvangaever.be/blog/index.php?entry=entry091024-213032</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "resource files,Sharepoint,SharePoint 2007,WPF,neomatics,tom van gaever,Sharepoint Tools,SharePoint Dev,SharePoint Dev Tools,",
+  "LastEdited": "2012-04-22T12:12:21.503-07:00"
+}

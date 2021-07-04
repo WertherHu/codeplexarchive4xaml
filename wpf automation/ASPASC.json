@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ASPASC",
+  "Title": "ASP.Net Application Services Configuration Tool",
+  "Description": "WPF tool to help users set-up Membership and Roles for ASP.Net Web Applications.",
+  "MovedLink": "https://github.com/istavrinides/ASPAC",
+  "HomeWiki": "<div class=\"wikidoc\"><b>ASP.Net Application Services Configuration Tool</b><br /><br />The project was created to provide a WPF tool to help users set-up Membership for ASP.Net Web Applications.<br /><br />The application supports connecting to an existing aspnetdb database, retrieving all available application, the application&#39;s users and roles.<br /><br />The application allows the maintenance of all application users (add/edit/delete) and maintenance of all application roles (add/edit/delete/membership).<br /><br />Comments/Bugs/Suggestions are welcomed.<br /><br />I reserve the right to answer any questions and address any bugs on the basis of my own free time.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-24T06:27:02.953-07:00"
+}

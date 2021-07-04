@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metrolaunch",
+  "Title": "Metro Launch",
+  "Description": "Metro Launch is a new Start menu inspired by Windows 8's.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Metro Launch is a new Start menu written in AutoIt v3, inspired by Windows 8&#39;s.<br /><br /><b>Features:</b>\n<ul><li>Customizable Lock screen</li>\n<li>Tiles</li>\n<li>Pure Metro UI style</li>\n<li>You can pin files and executables</li></ul>\n<br /><b>Requisites:</b>\n<ul><li>Windows 7, Windows Vista or Windows XP</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro,Metro UI,AutoIT,Start Menu,Launcher,",
+  "LastEdited": "2012-11-10T05:00:05.37-08:00"
+}

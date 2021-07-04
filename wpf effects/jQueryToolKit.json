@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jQueryToolKit",
+  "Title": "jQueryToolKit",
+  "Description": "Built upon the ASP.NET 3.5 and jQuery, it's collection of we-client components.\r\nImplement jQuery Extender control and jQuery control.\r\njQuery Extender control : extend featur of asp.net standard control with jquery effect and plug-in\r\njQuery control : new type of web control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Fantastic control that use jquery control.</b><br /><br />With this library you can create asp.net that use jquery framework, if you like ajaxControlToolKit ... you love this project, is small of AjaxKit but is very very easy.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "JQuery,",
+  "LastEdited": "2009-02-16T13:24:26.1-08:00"
+}

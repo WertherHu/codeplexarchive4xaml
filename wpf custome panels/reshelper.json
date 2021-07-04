@@ -1,0 +1,9 @@
+{
+  "ProjectName": "reshelper",
+  "Title": "ResHelper Manager",
+  "Description": "Resource strings management tool that creates localization files for any type of localization target (asp.net, wpf and so on...)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>About ResHelper Manager</h1>\rResource strings management tool that creates localization files for any type of localization target &#40;asp.net, wpf and so on...&#41;<br /><br />ResHelper Manager tool provides effective way to localize any kind of solution. All resource strings are in the same place during the translation. Each language is stored in separate Xml file. Language files are grouped in ResHelper solution (*.rhsln extension files). By this tool you can provide your localization files to people (translators), which are not developers.<br /><br />In Source Code section (or download section) are source codes of demo application, where you can see how to localize wpf application by ResHelper Manager. Detailed information about application installation and using is in Documentation section. Automatic translation of selected resource string and language is available on one-click button. Automatic translation runs on Google Translation Services. <i>(ResHelper Manager is localized in several languages by itself :o) )</i><br />\n<h3>Screenshots</h3>\r\n<img src=\"/projects/reshelper/cfcf2891-8ac8-4572-b206-dfe8c4158f15\" alt=\"01.png\" title=\"01.png\" /> <br /><i> All languages are displayed in the same place, for easy translation. </i><br /><br /><img src=\"/projects/reshelper/1c03cd51-31fa-44bc-87e5-5db7c22ded5e\" alt=\"02.png\" title=\"02.png\" /><br /><i>Untranslated resource strings are marked with warning picture. This screenshot</i><br /><i>show manager in edition mode (maximized window of manager looks better).</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-14T04:08:05.28-07:00"
+}

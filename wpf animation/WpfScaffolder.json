@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfScaffolder",
+  "Title": "Scaffolder for WPF",
+  "Description": "The Wpf Scaffolder is a control that generates quick, flexible UI based on POCO objects and attributes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The <b>Wpf Scaffolder</b> is a control that lets you create simply UI  based on entities (<i>a l&#225;</i> Dynamic Data). The control highly relies on attributes from <b>System.Component</b> like<br />\n<ul><li>DisplayName</li>\n<li>Bindable</li>\n<li>ListBindable</li>\n<li>ComplexBindingProperties</li></ul>\n<br />You can specify your POCO like this<br /><br /><pre>\npublic class Product\n{\n        [DisplayName(&quot;Product Name&quot;)]\n        [Bindable(true)]\n        public string ProductName { get; set; }\n\n        public int ID { get; set; }\n\n        [DisplayName(&quot;Quantity&quot;)]\n        [Bindable(true)]\n        public int Quantity { get; set; }\n\n        [DisplayName(&quot;Attributes&quot;)]\n        [ListBindable(true)]\n        public List&lt;string&gt; Attributes { get; set; }\n}\n</pre><br /><br />and the Wpf Scaffolder will render a control like this:<br /><br /><img src=\"/projects/WpfScaffolder/2fd150b1-62e5-48ca-bebd-954a8a7f6b85\" alt=\"scaffolder.png\" title=\"scaffolder.png\" /><br /><br />This project is still in development, so if you feel helpful you can contribute in the project or suggest enhancements and features.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-07-17T12:46:22.36-07:00"
+}

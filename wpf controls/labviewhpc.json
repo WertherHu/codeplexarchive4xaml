@@ -1,0 +1,9 @@
+{
+  "ProjectName": "labviewhpc",
+  "Title": "LabView interface for windows HPC",
+  "Description": "This project is a prototype library that attempts to integrate in the same enviroment the Data Acquisition and the Data Analysis systems.\r\n\r\nThe library is a collection of LabVIEW Virtual Instruments that permts the job submission to a Windows HPC cluster.\r\nJobs results can be easaly collected in order to perform actions via the DAQ control.\r\n\r\nFull documentation and examples are included.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Lab_VIEW interface for Windows HPC.<br>\r\n</strong><br>\r\nThe aim of this project is to provide a set of Lab_VIEW VI (Virtual Instruments) that can permit to operate a Windows HPC cluster from a Lab_VIEW project.</p>\r\n<p>For start please look at this short presentation:</p>\r\n<p><a href=\"https://vimeo.com/41131686\">https://vimeo.com/41131686</a></p>\r\n<p>You may also be interested on downloding the reference documentation.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-04T10:57:05.527-07:00"
+}

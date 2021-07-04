@@ -1,0 +1,9 @@
+{
+  "ProjectName": "functionalityjs",
+  "Title": "Functionality.JS",
+  "Description": "Functionality.JS is a JavaScript library of collection functions useful for functional-style programming. It is inspired by, but not a direct port of LINQ .NET",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\r\nFunctionality.JS is a JavaScript library of collection functions useful for programming in a more &quot;functional&quot; style (hence the name). It is inspired by, but not a direct port, of .NET LINQ; it aims to go beyond LINQ, introducing functions and concepts not found in LINQ. The long-term road-map is to make this library into a a one-stop, comprehensive library for collection functions in JavaScript.<br /><br />There are other LINQ-style libraries, but Functionality.JS is very simple in concept, easy to get started with ( since we don&#39;t use any arcane lambda syntax, the learning curve is essentially zero), and easy to integrate into your existing code (since it&#39;s just plain JavaScript). For now, there is no concept of lazy evaluation and other such features. All that is provided is a straightforward set of functions for repetitively applying a  function to a collection object. Functionality.JS  helps you to banish for-loops and a lot of repetitive and error-prone procedural code from your JavaScript code. <br /><br /><b>Example Usage:</b><br /> Using Functionality.JS is as simple as calling the appropriate method on an array (or Dictionary object), e.g.,<br /><br /><pre>\nvar arr = [&#39;a&#39;, &#39;b&#39;, &#39;c&#39;, null, &#39;e&#39;];&quot;}\nvar noNulls = arr.where(function(x) { return x != null; });\n</pre><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-06-05T16:59:46.577-07:00"
+}

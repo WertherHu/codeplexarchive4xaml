@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlScaffolding",
+  "Title": "XamlScaffolding",
+  "Description": "XamlScaffolding is a set of T4 Templates that use T4Scaffolding package to generate XAML applications - Silverlight/Windows Phone/Win8",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XamlScaffolding is a set of T4 Templates that use T4Scaffolding package to generate XAML applications - Silverlight&#47;Windows Phone&#47;Win8<br /><br />Project main goal is to make building Xaml based applciations base functionality fast and easy.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-23T06:38:08.667-08:00"
+}

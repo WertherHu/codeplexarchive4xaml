@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlToys",
+  "Title": "XamlToys",
+  "Description": "xaml2emf, xaml2drawing, xaml2xps, xaml2png, etc - a library and command line tools for performing batch operations on Xaml files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>XamlToys</h1>\r<h2>Convert Xaml To EMF, Render Xaml to System.Drawing &amp; more</h2>\rXamlToys is a CLR 3.5 library that implements various high level operations on Xaml files, and a collection of mostly command line tools that perform batch operations on Xaml files.\n<h2>Current Version</h2>\r For developers, the public interface includes:\n<ul><li>LoadXamlFromFile</li>\n<li>RealizeFrameworkElement</li>\n<li>GetDrawingFromXaml</li>\n<li>MakeDrawingSerializable</li>\n<li>CreateEmf</li>\n<li>RenderDrawingToGraphics</li></ul>\nFor end users, the command line tools are:\n<ul><li>xaml2emf - converts visual xaml content to emf files which can be placed in Word and other applications.</li>\n<li>xaml2drawing - flattens the visual tree from nested xaml framework elements to a single drawing group.</li></ul>\nThe current tools were written orginally to allow drawings from Microsoft Expression Design to be used in other workflows.\n<h2>Next Version</h2>\r<ul><li>flow2xps and xaml2png are being ported from independant implementations to the current library.</li>\n<li>cfXaml - GUI tool to convert Expression Design&#39;s cfXaml package format to EMF in place on the clipboard.</li>\n<li>xamlview - yet another XamlPad-ish tool, with support for packaged ResourceDictionary + images drawings.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "watch,xaml,.NET 3.5,vs2008,emf,Useful,",
+  "LastEdited": "2007-11-21T18:23:59.9-08:00"
+}

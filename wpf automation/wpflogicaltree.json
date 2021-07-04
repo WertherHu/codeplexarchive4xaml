@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpflogicaltree",
+  "Title": "WPF Application for Displaying Logical Trees",
+  "Description": "WPF application that allows drag/drop of .xaml file, then displays WPF logical tree for that file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF application that allows drag&#47;drop of .xaml file, then displays WPF logical tree for that file.<br /><br />Full description of this project can be found at <a href=\"http://stuff.seans.com/2010/10/29/an-application-to-let-you-view-wpf-logical-trees/\">http://stuff.seans.com/2010/10/29/an-application-to-let-you-view-wpf-logical-trees/</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-29T15:01:48.39-07:00"
+}

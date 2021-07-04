@@ -1,0 +1,9 @@
+{
+  "ProjectName": "motionfx",
+  "Title": "InfoStrat Motion Framework",
+  "Description": "InfoStrat Motion Framework enables you to easily use motion tracking in your WPF applications with depth sensors such as Kinect and PrimeSensor.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />InfoStrat Motion Framework enables you to easily use motion tracking in your WPF applications with depth sensors such as Kinect and PrimeSensor.<br /><br />Video:<br /><div class=\"video\" style=\"text-align:Center\"><span class=\"player\"><object height=\"285px\" width=\"320px\"><param name=\"movie\" value=\"http://www.youtube.com/v/ADEQ8E5-2Vo\"></param><param name=\"wmode\" value=\"transparent\"></param><embed height=\"285px\" width=\"320px\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" src=\"http://www.youtube.com/v/ADEQ8E5-2Vo\" /></object></span><br /><span class=\"external\"><a href=\"http://www.youtube.com/watch?v=ADEQ8E5-2Vo\" target=\"_blank\">Launch in another window</a></span></div><br /><br />Download the code and sample project at the Downloads tab.<br /><br />Documentation is coming. Please make sure to install the latest <a href=\"http://www.microsoft.com/downloads/en/details.aspx?FamilyID=3b170b25-abab-4bc3-ae91-50ceb6d8fa8d\">DirectX End-User Runtimes (June 2010)</a>. If the OpenNI samples work but the depth image in HandTesting is stuck on loading, you may need to update the DirectX runtimes.<br /><br />Source repository located at:<br /><a href=\"https://github.com/InfoStrat/MotionFx\">https://github.com/InfoStrat/MotionFx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-10T10:15:18.277-08:00"
+}

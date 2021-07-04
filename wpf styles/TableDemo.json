@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TableDemo",
+  "Title": "MVC Table Styling selection to CSS and demo table",
+  "Description": "Enter table styling by selection from drop-down list and both generated CSS and see effect of the CSS on a demo table.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Enter table styling by selection from drop-down list and both generated CSS and see effect of the CSS on a demo table.<br /><br />This project follows an idea from a PHP page, whereby table characteristics can be selected from drop-down lists  and as the selection takes place, a sample table displays the effect of the selection.<br /><br />The project has been deployed at <a href=\"http://www.tatworth.net\">http://www.tatworth.net</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-28T04:50:33.27-07:00"
+}

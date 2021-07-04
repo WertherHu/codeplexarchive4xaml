@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XPSReader",
+  "Title": "XPS Reader",
+  "Description": "XPS Reader is a WPF reader of XPS Documents with the Mitsu's control WPFControlBook, to read a document like a book.\n\nThe application convert the XPS Documents pages in PNG files, and these files are added to the WPFControlBook to be built like a book. You can turn pages with the mouse, with a double-click on a page, to click on the button Next or the button Previous.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XPS Reader is a WPF reader of XPS Documents with the Mitsu&#39;s control WPFControlBook, to read a document like a book.<br /><br />The application convert the XPS Documents pages in PNG files, and these files are added to the WPFControlBook to be built like a book. You can turn pages with the mouse, with a double-click on a page, to click on the button Next or the button Previous.<br /><br />The link on my french blog : <a href=\"http://blogs.developpeur.org/audrey/archive/2008/06/29/wpf-xps-reader.aspx\">http://blogs.developpeur.org/audrey/archive/2008/06/29/wpf-xps-reader.aspx</a> <br /><br />You can find the WPFBookControl on the Mitsu&#39;s CodePlex Project : <a href=\"http://www.codeplex.com/wpfbookcontrol\">WPFBookControl</a><br /><br /><img src=\"http://blogs.developpeur.org/photos/audrey/images/40209/original.aspx\" /><br /><br /><b><u>Edit v0.2 :</u> Now you can read horizontal documents like this :</b><br /><br /><img src=\"http://blogs.codes-sources.com/photos/audrey/images/41398/original.aspx\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,XPS,C#,",
+  "LastEdited": "2008-09-07T07:34:21.6-07:00"
+}

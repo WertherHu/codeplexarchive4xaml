@@ -1,0 +1,9 @@
+{
+  "ProjectName": "editone",
+  "Title": "Editone",
+  "Description": "Editone is an audio editor for the Windows Store platform. It aims to provide easy and intuitive touch controls as well as functionality and extensibility.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rEditone is an audio editor for the Windows Store platform. It aims to provide easy and intuitive touch controls as well as functionality and extensibility.<br /><br />Editone is an audio editor for the Windows Store platform. It aims to provide easy and intuitive touch controls as well as functionality and extensibility comparable to other programs such as the open source program <a href=\"http://audacity.org\">Audacity</a>.<br /><br /><b>New users please refer to <a href=\"https://editone.codeplex.com/wikipage?title=User%20manual&referringTitle=Home\">User manual</a></b><br />\n<h1>Building Editone</h1>\rThese are the requirements for building and running Editone:\n<ul><li>A device running Windows 8.1</li>\n<li>Visual Studio 2013 with latest updates</li>\n<li>lessc installed in the environment PATH variable (see <a href=\"http://lesscss.org/usage/#command-line-usage-installing-lessc-for-use-globally\">http://lesscss.org/usage/#command-line-usage-installing-lessc-for-use-globally</a>)</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-01-04T13:51:05.727-08:00"
+}

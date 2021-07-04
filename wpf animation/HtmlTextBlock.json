@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HtmlTextBlock",
+  "Title": "HtmlTextBlock for WPF",
+  "Description": "HtmlTextBlock is a light-weighted WPF control that allow you to display rich text, by translating html into TextBlock.Inlines.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />HtmlTextBlock is a light-weighted WPF control that allow you to display rich text, by translating html into TextBlock.Inlines.<br /><br /><img src=\"/projects/HtmlTextBlock/2a8c351b-0b91-4de4-aa03-d197be400cf7\" alt=\"screenshot.png\" title=\"screenshot.png\" /><br /><br />For more information, please see the code project article - <a href=\"http://www.codeproject.com/Articles/33196/WPF-Html-supported-TextBlock\">http://www.codeproject.com/Articles/33196/WPF-Html-supported-TextBlock</a><br /><br />Install from Nuget - <a href=\"https://www.nuget.org/packages/HtmlTextBlock\">https://www.nuget.org/packages/HtmlTextBlock</a><br /><br />This is WPF only, some cleanup have been done to remove Windows Forms dependency.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-07T00:10:53.353-07:00"
+}

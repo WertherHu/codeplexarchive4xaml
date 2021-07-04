@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Reveil",
+  "Title": "Reveil",
+  "Description": "Reveil is a desktop alarm clock and pomodoro clock",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Reveil is a desktop alarm clock and pomodoro clock<br /><br /><br /><img src=\"/projects/Reveil/274855ea-ad5a-4c2d-9750-f36a70cbd54b\" alt=\"capture.png\" title=\"capture.png\" /><br /><br /><br />Reveil is an unofficial application of the <a href=\"http://pomodorotechnique.com\">Pomodoro Technique&#174;</a>. <br />\n<h1>References</h1>\r<ul><li><a href=\"http://www.codeproject.com/Articles/57984/WPF-Loading-Wait-Adorner\">WPF Loading Wait Adorner</a>, Jeremy Hutchinson, 2010-02-10</li>\n<li><a href=\"http://www.codeproject.com/Articles/49853/Better-WPF-Circular-Progress-Bar\">Better WPF Circular Progress Bar</a>, Sacha Barber, 2010-01-04</li></ul>\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "alarm,clock,wpf,pomodoro,timer,",
+  "LastEdited": "2014-01-11T06:28:25.437-08:00"
+}

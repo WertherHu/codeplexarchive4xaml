@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ScalableIS",
+  "Title": "ScalableIS",
+  "Description": "Big data ETL\r\n\r\nEnhanced by MPI. NET\r\n\r\nMapReduce style processing\r\n\r\nSuper computing",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n</p>\r\n<p>A BIG DATA ETL turnkey.</p>\r\n<p>As a member growing in the wave of big data, <br>\r\nnot only data management but also data value added.</p>\r\n<p>Do not satisfy with condition we stay. <br>\r\nHug the changing world and lead the change.</p>\r\n<p>ScalableIS is a distributed ETL framwork. <br>\r\nIt takes care of the difficult system &quot;plumbing work&quot;,<br>\r\nallowing you focus on the valuable operation event. <br>\r\nScalableIS runs efficiently at scale on supercomputer with GPU grids.<br>\r\nWe adopt F# with enhance of MPI.NET.</p>\r\n<p><br>\r\nScalableIS supports&nbsp;map-reduce style processing and CUDA style process addressing,<br>\r\nYou&nbsp;can keep&nbsp;the familiar parallel&nbsp;coding style you like.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-04-06T02:47:54.95-07:00"
+}

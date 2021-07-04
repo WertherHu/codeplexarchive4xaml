@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GRNotesToDelicious",
+  "Title": "Google reader notes to Delicious Export tool (WPF)",
+  "Description": "Google reader discontinued note in reader features. Current google reader allows to export users old notes in JSON format, This App will parse the JSON  file & upload it to it delicious , delicious is a good alternative for note in reader",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Google reader discontinued note in reader features. Current google reader allows to export users old notes in JSON format, This App will parse the JSON file &amp; upload it to it delicious , delicious is a good alternative for note in reader<br />Its a .NET 4 WPF App<br /><br /><img src=\"https://lh6.googleusercontent.com/-_gz1iK9l77A/TtJLuHHX0JI/AAAAAAAADCQ/7Yv_okpgGlI/s800/GoogleReaderToDeliciousScreen.png\" /><br /><br /><b>Known Problems</b><br /><br />Google reader export feature has some problem, its not exporting all the notes to JSON , only exporting last 4-5 months of data<br />google is working on a solution check status on <a href=\"http://www.google.com/support/reader/bin/static.py?page=known_issues.cs\">http://www.google.com/support/reader/bin/static.py?page=known_issues.cs</a><br /><br /><b>Features</b><br /><br />Google reader notes JSON is imported to a local sql compact datbase<br />Support resuming - Already exported bookmarks will not be exported again<br /><br /><b>Libraries used</b><br /><br />Json.NET<br />Entity framework 4.1 (DbContext API)<br />MVVM Light<br />SQL Compact 3.5<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,Entity Framework,Entity Framework 4.1,",
+  "LastEdited": "2011-11-27T06:43:02.5-08:00"
+}

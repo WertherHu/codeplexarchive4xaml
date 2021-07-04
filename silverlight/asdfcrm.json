@@ -1,0 +1,9 @@
+{
+  "ProjectName": "asdfcrm",
+  "Title": "ASDF-CRM",
+  "Description": "A Cleanly Designed CRM system based on .Net4 technologies with Silverlight GUI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">ASDF CRM is intended to be a complete CRM system developed in .NET4 (and later) using standard Microsoft technologies for Line of Business Applications.  At the time of creation my reading is that it is Entity Framework, RIA services, MEF and Silverlight running against SQL Server.<br /><br />The intention is NOT to be platform agnostic but to use the unique benefits of the platform as much as possible.  Initially it will not be targeting the Azure platform (mostly because it is not available in my location as yet.) <br /><br />Initial versions will focus on managing information regarding Organisations (with one or multiple sites/branches/locations) and Individuals, and to track tasks/incidents/cases relating to them.  The system is intended to integrate with e-mail systems etc.<br /><br />The system does not do anything useful yet.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-18T04:33:38.15-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "family",
+  "Title": "Family Tree. Reference Implementation using Live, WCF, WPF, CAB",
+  "Description": "The Project is an attempt build a family tree structure, Integration with Live contacts, hooked up via an WPF based application for Offline / Online browsing. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Project is an attempt build a family tree structure, Integration with Live contacts, hooked up via an WPF based application for Offline &#47; Online browsing. <br /><br /><br /><a href=\"https://family.codeplex.com/wikipage?title=Tech%20Specs&referringTitle=Home\">Tech Specs</a><br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-06-24T12:47:50.647-07:00"
+}

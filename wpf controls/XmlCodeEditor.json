@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XmlCodeEditor",
+  "Title": "XmlCodeEditor",
+  "Description": "XmlCodeEditor is a Silverlight 4 control based on RichTextControl that creates coloring and intellisense similar to the one in Visual Studio for editing MVC Views. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XmlCodeEditor is a Silverlight 4 control based on RichTextControl that creates coloring and intellisense similar to the one in Visual Studio for editing MVC Views. <br /><br />The project is still under development. The intellisense is not yet hooked up.<br /><br />Demo: <a href=\"http://www.bodurov.com/XmlEditor/\">http://www.bodurov.com/XmlEditor/</a><br /><br /><br />Use as:<br /><br /><pre>\n&lt;UserControl \n    ...\n    xmlns:XmlCodeEditor=&quot;clr-namespace:com.bodurov.SilverlightControls.XmlCodeEditor;assembly=com.bodurov.SilverlightControls.XmlCodeEditor&quot;&gt;\n\n    &lt;Grid x:Name=&quot;LayoutRoot&quot;&gt;\n        &lt;XmlCodeEditor:XmlCodeEditorBox x:Name=&quot;CodeEditor&quot; Height=&quot;450&quot;  TextWrapping=&quot;NoWrap&quot;&gt;&lt;/XmlCodeEditor:XmlCodeEditorBox&gt;\n    &lt;/Grid&gt;\n&lt;/UserControl&gt;\n</pre></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Editor,XML,Rich Text Editor,",
+  "LastEdited": "2010-05-28T13:37:59.34-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vscleaner",
+  "Title": "Visual Studio Cleaner",
+  "Description": "Visual Studio 2012, Cleaner. Cleans Bin, Obj, ClientBin  folders. A Tool for Windows.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Introduction</h1>\r\n<p>VS Cleaner is a project targetted to save disk space by cleaning temporary files created by Visual Studio.</p>\r\n<h1>Description</h1>\r\n<p>This project would help you delete unnecessary files that you left behind when you finish any try-out project. This would really help you save disk space.</p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2012/08/vscleaner1.png\" alt=\"Screenshot1\" width=\"610\" height=\"410\"></p>\r\n<p>&nbsp;</p>\r\n<p>Blog: <a href=\"http://diptimayapatra.wordpress.com\">http://diptimayapatra.wordpress.com</a></p>\r\n<p>Follow me in twitter:&nbsp;<a href=\"http://twitter.com/dpatra\">http://twitter.com/dpatra</a></p>\r\n<p><a href=\"http://www.softpedia.com/progClean/VS-Cleaner-Clean-219593.html\"><img src=\"http://www.softpedia.com/base_img/softpedia_clean_award_f.gif\" alt=\"certified by softpedia\" width=\"170\" height=\"116\"></a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Visual Studio,Visual Studio 2010,Visual Studio 2008,Visual Studio 2012,Tools,Tool,Windows 7,Windows XP,WPF,",
+  "LastEdited": "2012-08-03T21:17:00.07-07:00"
+}

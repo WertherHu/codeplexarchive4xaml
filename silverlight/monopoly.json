@@ -1,0 +1,9 @@
+{
+  "ProjectName": "monopoly",
+  "Title": "monopoly game",
+  "Description": "Monopoly is an open source project for educational purposes. The project will incorporate XNA, Silverlight, WCF technologies.\r\nThe project will also show good design patterns considerations, and integration into Facebook App.\r\nThe project will  be written in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The project is an implementation of the monopoly game, with multi-player and multi-platform support.<br />The monopoly project is intended for educational purposes - specifically for academic purposes.<br />This project will show use of WCF, XNA, technologies, and good design patterns and software engineering methods.<br />This project was created as part of academic requirements  of Tel-Aviv Yaffo College , CS Department (<a href=\"http://www.mta.ac.il\">http://www.mta.ac.il</a>)<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-05T10:12:39.407-08:00"
+}

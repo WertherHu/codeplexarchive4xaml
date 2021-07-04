@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WorkItemHierarchy",
+  "Title": "TFS Work Item Hierarchy using a custom control",
+  "Description": "This TFS Custom control for Work Items (requires SP1) allows setting a parent work item, displays parent work item as well as a child hierarchy and prevents closing a parent when any child work items are not closed.\n\nKnown Issues:\nAs with any TFS custom work item control, this does not function from within TFS Web Access (TeamPlains).\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>TFS Custom Work Item Control - Work Item Hierarchy</b><br />This TFS Custom control for Work Items &#40;requires SP1&#41; allows setting a parent work item, displays parent work item as well as a child hierarchy and prevents closing a parent when any child work items are not closed.<br /><br />Known Issues&#58;<br />As with any TFS custom work item control, this does not function from within TFS Web Access &#40;TeamPlains&#41;.<br /><br /><br /><br />Please comment on this code.  I&#39;m eager to hear what you have to say.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Custom Controls,Hiera,Work Ite,Work Item,Team System,",
+  "LastEdited": "2007-12-06T16:11:23.57-08:00"
+}

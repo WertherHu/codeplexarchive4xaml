@@ -1,0 +1,9 @@
+{
+  "ProjectName": "battlelogmobile",
+  "Title": "Battlelog Mobile",
+  "Description": "Battlelog Mobile retrieves your real time Battlefield 3 soldier information from EA / DICE Battlelog server to your Windows Phone. You are able to track your progression in easy, intuitive manner with lots of \"eye candy\", such as images and charts.\r\n\r\nAll three platforms are supported (PC, PS3, XBox). \r\n\r\nThis is a WP7 application, developed in C# and it will be active as long as EA / DICE lacks to provide their own \"killer\" for mobile devices. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Important!</h1>\r\nWe have migrated this project over to <b>GitHub</b> @ <a href=\"https://github.com/mikkoviitala/battlelogmobile\">https://github.com/mikkoviitala/battlelogmobile</a><br />This project page will not be updated after version 1.3.0.0 is out, on May 25th 2012.<br /><br />Project homepage can be found @ <a href=\"http://mikkoviitala.github.com/battlelogmobile\">http://mikkoviitala.github.com/battlelogmobile</a><br /><br /><b>Getting the application</b><br />Head over to <a href=\"http://windowsphone.com/s?appid=003ef672-e898-4564-8799-7bd258060cc0\">Windows Phone Marketplace</a>.<br />Downloadable XAP file- and source code available on this site can ONLY be deployed to <br /><i>unlocked</i> development device or emulator.<br /><br /><b>Participate?</b><br />We are still looking for that one guy/gal who can make the UX better for our application. <br />With raw XAML or Blend, choice is yours!<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Battlelog,Battlefield 3,WP7,C#,AmCharts,MVVM,MVVM Light Toolkit,JSON,Json.NET,Windows Phone 7,",
+  "LastEdited": "2012-09-06T07:46:19.557-07:00"
+}

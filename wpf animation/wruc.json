@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wruc",
+  "Title": "Weather Reader User Control",
+  "Description": "This project is written completely in C# and WPF technologies. The goals of the project are:\n  - To have a user control that can easily plugable to any app\n  - To have the functionality of Vista weather gadget\n  - To demonstrate the ease of WPF\n\nThe control parses a XML weather feed from the internet and updates an object model that is data bound to the UI. The design was created with extensibility in mind and can be adapted to any general feed with minimal changes.\n\nThe control currently uses the Vista weather gadget images, for which Microsoft has the copyright. If you are planning to use this control for anything other than learning purposes, please make sure you design your own images.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is written completely in C&#35; and WPF technologies. The goals of the project are&#58;<br />  - To have a user control that can easily plugable to any app<br />  - To have the functionality of Vista weather gadget<br />  - To demonstrate the ease of WPF<br /><br />The control parses a XML weather feed from the internet and updates an object model that is data bound to the UI. The design was created with extensibility in mind and can be adapted to any general feed with minimal changes.<br /><br />The control currently uses the Vista weather gadget images, for which Microsoft has the copyright. If you are planning to use this control for anything other than learning purposes, please make sure you design your own images.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,usercontrol,msn weather,weather gadget,Expression Blend,Expression Design,databinding,Weather Reader User,wpf gadget,",
+  "LastEdited": "2007-11-21T21:46:27.933-08:00"
+}

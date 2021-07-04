@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPWCMFieldControls",
+  "Title": "SharePoint 2007 WCM Field Controls",
+  "Description": "A collection of sample Field Controls for use within Publishing Sites built using Office SharePoint Server 2007's Web Content Management features.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A collection of sample Field Controls for use within Publishing Sites built using Office SharePoint Server 2007&#39;s Web Content Management features.<br /><br />\n<ul><li><b><a href=\"https://spwcmfieldcontrols.codeplex.com/releases/view/5038\">MultimediaFieldControl v0.9</a></b>: Custom field type and control allowing content authors to specify a URL, width and height of a media file (SWF, PDF, WMV, MPEG, AVI, MPG, MOV) and renders the display of the control with the appropriate ActiveX control markup.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,MOSS,moss2007,MOSS 2007,Sharepoint WCM,SharePoint 2007 WCM ,WCM,SP-Content,",
+  "LastEdited": "2007-06-17T00:26:06.127-07:00"
+}

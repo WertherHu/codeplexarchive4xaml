@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CloneFactory",
+  "Title": "CloneFactory",
+  "Description": "CloneFactory is a class for deep cloning any object or struct.\r\nCloning behaviour may be specified either by the use of attributes, or by code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Deep Cloning of CLR Objects and structs</b><br />CloneFactory is a class for deep cloning any object or struct.<br />Cloning behaviour may be specified either by the use of attributes, or by code.<br /><br />The main focus when developing the CloneFactory has been performance, and large parts of the logic is therefore implemented by using IL code.<br /><br />For use in your own project, you only need to include the source file CloneFactory.cs</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Clone,Deep clone,Shallow clone,",
+  "LastEdited": "2017-03-03T10:04:43.71-08:00"
+}

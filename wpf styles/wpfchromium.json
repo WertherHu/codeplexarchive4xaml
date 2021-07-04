@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfchromium",
+  "Title": "WPF Chromium WebBrowser control",
+  "Description": "Being able to render and interact with webpages within WPF opens up some great opportunities.  This project mixes Google’s Chromium project, a great wrapper called Awesomium and a little WPF pixie dust...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Being able to render and interact with webpages within WPF opens up some great opportunities.  This project mixes Google&#8217;s Chromium project, a great wrapper called Awesomium and a little WPF pixie dust...<br /><br /><b>UPDATE</b> - New version available for .NET 4.0 here: <a href=\"http://wpfchromium4.codeplex.com\">WPF 4.0 Chromium WebBrowser control</a><br /><br />For more information see the related blog post here:<br /><br /><a href=\"http://chriscavanagh.wordpress.com/2009/08/25/a-real-wpf-webbrowser/\">http://chriscavanagh.wordpress.com/2009/08/25/a-real-wpf-webbrowser/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,web browser,C#,",
+  "LastEdited": "2010-10-04T21:50:39.407-07:00"
+}

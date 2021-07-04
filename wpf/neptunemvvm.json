@@ -1,0 +1,9 @@
+{
+  "ProjectName": "neptunemvvm",
+  "Title": "Neptune, a MVVM Framework for Visual Basic 2010",
+  "Description": "Neptune is a light framework for building WPF apps based on the Model-View-ViewModel pattern with Visual Studio 2010 and .NET 4. Written in *Visual Basic 2010*",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Neptune is a light framework for building WPF apps based on the Model-View-ViewModel pattern with Visual Studio 2010 and .NET 4. Written in &#42;Visual Basic 2010&#42;<br /><br /><br />The library contains: a <i>ViewModelBase</i> class, ready to be inherited - a <i>ServiceLocator</i> class which you use within service layers - a <i>Messenger</i> class which you use as the message broker - <i>RelayCommand</i> and <i>RelayCommand(Of T)</i> classes for relaying the command logic - a simple <i>IDataService</i> intervace with most common members which you can inherit in your service layers.<br /><br />The library is featuring the Messenger class from the <a href=\"https://neptunemvvm.codeplex.com/wikipage?title=http%3a%2f%2fkarlshifflett.wordpress.com%2focean%2f&referringTitle=Home\">Ocean</a> framework by <a href=\"https://neptunemvvm.codeplex.com/wikipage?title=http%3a%2f%2fkarlshifflett.wordpress.com%2f&referringTitle=Home\">Karl Shifflett</a><br /><br />Available downloads include:<br />\n<ol><li>Source code</li>\n<li>Binary library</li>\n<li>Project Template installer for Visual Studio 2010</li></ol>\n<br />Developed by Alessandro Del Sole, Microsoft MVP</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,VB.NET,Visual Studio 2010,",
+  "LastEdited": "2011-11-13T08:07:38.223-08:00"
+}

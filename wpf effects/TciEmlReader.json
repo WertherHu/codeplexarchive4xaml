@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TciEmlReader",
+  "Title": "Desktop Eml (Eml) Viewer (2014)",
+  "Description": "A desktop application that reads and displays the 'eml' files created by Windows Live Mail (Windows 7)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A desktop application that reads and displays the &#39;eml&#39; files created by Windows Live Mail &#40;Windows 7&#41;<br /><br />This is a light-weight desktop application with a convenient and intuitive drag-and-drop interface.<br /><br />Windows 8 does not contain a native tool for reading the &#39;eml&#39; (Email) files created by Windows Live Mail (Windows 7).  This application aims to fill the gap.<br /><img src=\"/projects/TciEmlReader/6be69e23-fd8e-4baa-a783-c8991c2a4bc0\" alt=\"about.jpg\" title=\"about.jpg\" /><br />A sample screen shot of the application is shown below...<br /><img src=\"/projects/TciEmlReader/0bd4fb49-df12-4645-a657-3551f62ab024\" alt=\"main.jpg\" title=\"main.jpg\" /><br />Double-clicking an item opens it for viewing<br /><img src=\"/projects/TciEmlReader/4c2a1a6a-337e-4c67-9753-8a40e4ac3697\" alt=\"email.jpg\" title=\"email.jpg\" /><br /><br />For more details, visit <a href=\"https://tciemlreader.codeplex.com/documentation\">https://tciemlreader.codeplex.com/documentation</a><br />\n<h1>Techie Stuff</h1>\r\nThe application is written in C#/WPF using the .NET 4.5 framework.  It incorporates the &quot;OpenPop&quot; package distributed by &quot;Source Forge&quot; (<a href=\"http://sourceforge.net/projects/hpop/\">http://sourceforge.net/projects/hpop/</a>).  The application requires Visual Studio 2013 to build and deploy.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,wpf,mvvm,.net,windows 8,windows live mail,email,eml files,email reader,tyburn,drag and drop,eml reader,multi-threading,gradient,",
+  "LastEdited": "2014-04-03T14:28:52.353-07:00"
+}

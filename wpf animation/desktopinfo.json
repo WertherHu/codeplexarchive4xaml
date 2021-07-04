@@ -1,0 +1,9 @@
+{
+  "ProjectName": "desktopinfo",
+  "Title": "Desktop Info",
+  "Description": "Do you want to display informations on your desktop? Well this is the solution for you. \n\nCreated using WPF and MEF Framework from .NET 4.0\n\nEasy to extend and easy to configure",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Do you want to display informations on your desktop&#63; Well this is the solution for you. <br /><br />Created using WPF and MEF Framework from .NET 4.0<br /><br />Easy to extend and easy to configure<br /><br />Technologies to be used: <b>Microsoft .net framework 4.0, WPF, MEF</b><br />Other to be used (possibly): <b>FlickrApi, Windows Sensors and Location Platform, Google Data Protocol (for .NET), Google Maps</b><br /><br /><a href=\"https://desktopinfo.codeplex.com/wikipage?title=Origins%20of%20the%20project&referringTitle=Home\">Origins of the project</a><br /><br /><img src=\"/projects/desktopinfo/5260546e-7091-43a8-a5dc-c7c471abfe81\" alt=\"desktopinfo.jpg\" title=\"desktopinfo.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-21T01:08:48.89-07:00"
+}

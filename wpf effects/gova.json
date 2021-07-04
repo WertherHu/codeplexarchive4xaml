@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gova",
+  "Title": "GoVA",
+  "Description": "This project provids tools & environment which manage match game of something and also showing/measuring real-time race status, tracking race results and so on.\r\nThis tools & environment will be developed using WCF, WPF, SQL Server, MSRS and some Windows Embedded Technologies.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project provids tools &#38; environment which manage match game of something and also showing&#47;measuring real-time race status, tracking race results and so on.<br />This tools &#38; environment will be developed using WCF, WPF, SQL Server, MSRS and some Windows Embedded Technologies.<br /><br /><br />&quot;GoVA&quot; is shorthand of &quot;<u><b>G</b></u>ame <u><b>O</b></u>rganizer, <u><b>V</b></u>iewer and <u><b>A</b></u>dministrator&quot;<br /><br />GoVA&#39;s architecture<br /><img src=\"/projects/gova/e44c03ef-5503-4357-9857-528ba5ff9722\" alt=\"GoVAArchitecture.png\" title=\"GoVAArchitecture.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-04-23T03:57:36.467-07:00"
+}

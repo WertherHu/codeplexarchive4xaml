@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rapidlayout",
+  "Title": "Rapid Layout 2009",
+  "Description": "Rapid Layout 2009 is a WPF and Silverlight panel that has a wide variety of layout options while combining the functionality of a Grid, DockPanel, Canvas and StackPanel. This is acheived without the need for nested panels. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rRapid Layout 2009 is a WPF and Silverlight panel that has a wide variety of layout options while combining the functionality of a Grid, DockPanel, Canvas and StackPanel. This is acheived without the need for nested panels. <br />\n<h1>Rapid Layout 2009</h1>\r\nThis project is WPF/Silverlight version of the powerful winforms layout engine that can be found at <a href=\"http://rapidlayout.net\">http://rapidlayout.net</a>.<br /><br />The download includes a VS 2008 solution that has various demos and tutorials. It also includes the runtime dlls for use in your own project.<br /><br />Watch this space for further documentation and tutorials.<br />\n<h2>Examples</h2>\r<a href=\"http://jalindi.com/rapidsilver\">Silverlight Live Example</a><br />\n<h2>Runtime</h2>\rThe WPF/Silverlight parts are Open Source. The underlying helix engine is provided as a royalty free runtime dll. Rapid Layout 2009 is designed to be easily hand coded in XAML. We will also provide a commercial GUI extension for the Visual Studio designer in the future that guide you in creating layouts. We may someday provide a plugin to Blend if Microsoft provide improved Blend extensibility.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,silverlight,stackpanel,wpf grid,canvas,panel,layout,",
+  "LastEdited": "2009-09-19T19:17:37.973-07:00"
+}

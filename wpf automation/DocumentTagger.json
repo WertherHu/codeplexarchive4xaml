@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DocumentTagger",
+  "Title": "DocumentTagger",
+  "Description": "DocumentTagger project aims at providing documents managing framework to support the tagging and retrieval of Microsoft Office and Acrobat PDF files.\r\n\r\nThis project is part of academic requirements for BSc in CS at the MTA (www.mta.ac.il).\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Document Tagger</h2>\rIs a project for managing documents in office or home environment using the assistants of Text Mining algorithms.<br />\n<h2>Features</h2>\r<ul><li>Integration with Windows 7 indexing methodology - Embedding tags within Word files.</li>\n<li>Employ Text Mining methods for user assistant tagging of a document.</li>\n<li>Wrapping of the IFilter mechanism for getting document word histogram, with minimal memory usage.</li></ul>\n\n<h2>Documentation</h2>\rIs an ongoing endeavor. You can find the current documentation in the Documentation section.<br />Also, the code is fairly documented --  and you can get the code from the Source Code section <br />\n<h2>Contact me</h2>\ryou can contact me at yuval.codeplex@gmail.com</div><div class=\"ClearBoth\"></div>",
+  "TagList": "data mining,text mining,tag extraction,user assisted,AI,Office 2007,Windows 7,WPF,Master-Detail,MVVM,interop,",
+  "LastEdited": "2011-10-08T12:38:05.977-07:00"
+}

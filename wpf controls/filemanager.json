@@ -1,0 +1,9 @@
+{
+  "ProjectName": "filemanager",
+  "Title": "File Manager",
+  "Description": "ASP.NET file manager user control.\r\n\r\nThis user control allows people to cut, copy, paste, rename, delete and download files and folders just like an FTP browser.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET file manager user control.<br /><br />This user control allows people to cut, copy, paste, rename, delete and download files and folders just like an FTP browser.<br /><br />This project is currentyl in development. Please feel free to contact us for any features and improvements.<br /><br />Programmers needed for this project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "File System,file,FTP,FTP Client,asp.net controls,ASP.NET,File manager,",
+  "LastEdited": "2007-05-25T07:19:53.083-07:00"
+}

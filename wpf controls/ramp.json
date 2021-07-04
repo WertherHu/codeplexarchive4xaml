@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ramp",
+  "Title": "Visual Studio LoadTest Ramper",
+  "Description": "Visual Studio LoadTest 2010 Ramp-Up or Ramp-Down Control.\r\n\r\nThis control along with provided LoadTest plugin can help to ramp the current user load easily.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Visual Studio LoadTest 2010 Ramp-Up or Ramp-Down</b><br /><br />This project contains 3 installers, when all of these are installed in an environment where Visual Studio LoadTest 2010 is being used, it will provide you with an option to Ramp-Up or Ramp-Down your current load on a given scenario. <br /><br />When the load test is running, right click on the graph area and choose Max Users and choose Ramp-Up or Ramp-Down and it will provide a small dialog to capture the Ramp-Up or Ramp-Down by users and for a specific scenario. This should then make adjustments to the running user load. <br /><br />For the above to work, in your .loadtest file add the Ramp plugin to it. Ramp plugin for the .loadtest is delivered as one of the 3 installers mentioned above.<br /><br /><b><i>will write a better write up soon, take above as a quick and dirty write up to avoid codeplex from deleting the project</i></b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-04-28T14:08:11.383-07:00"
+}

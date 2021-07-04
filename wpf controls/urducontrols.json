@@ -1,0 +1,9 @@
+{
+  "ProjectName": "urducontrols",
+  "Title": "Urdu Controls",
+  "Description": "This is a library of .Net controls for easily developing Urdu applications. The edit controls support phonetic Urdu keyboard. The included sample application contains a simple Urdu text editor as well as a Rich-text Urdu editor which make use of these controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This is a library of controls that makes it easier to create Urdu applications.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Urdu,Urdu Editor,",
+  "LastEdited": "2010-02-07T07:33:36.867-08:00"
+}

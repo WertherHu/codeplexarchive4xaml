@@ -1,0 +1,9 @@
+{
+  "ProjectName": "w8mvvm",
+  "Title": "MVVM for Windows 8",
+  "Description": "This library contains all you need to build a WinRT Metro Style application for Windows 8 using MVVM pattern, C# and XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project contains classes that allows to follow MVVM pattern in C# Windows Store applications.<br /><br />Start your project using our popular <a href=\"http://visualstudiogallery.msdn.microsoft.com/b287f569-7bf9-40d2-80f3-02c9945f1f33\">project template</a>.<br /><br />This is not a framework. So you can use features that you like.<br /><br />Features:\n<ul><li>Screen orientations behavior</li>\n<li>Events and commands binding</li>\n<li>Call a view from its model</li>\n<li>Handle page navigation</li>\n<li>Event triggers for animations</li>\n<li>Binding converters</li>\n<li>Some controls&#39; behaviors</li>\n<li>Context menu behavior</li>\n<li>Context popup behavior</li>\n<li>AppBar behavior</li>\n<li>Settings charm panels</li></ul>\n<br />NuGet package: <a href=\"https://nuget.org/packages/w8mvvm\">w8mvvm</a><br /><br />See the <a href=\"https://w8mvvm.codeplex.com/documentation?referringTitle=Home\">Documentation</a> for a sample code.<br /><br />This project is supported by <a href=\"http://eastbanctech.com\">EastBanc Technologies</a> international company.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "xaml,MVVM,project template,mvvm framework,MVVM samples,Windows 8,WinRT,Windows Runtime,MVVM Toolkit,windows store,",
+  "LastEdited": "2013-03-09T13:58:31.39-08:00"
+}

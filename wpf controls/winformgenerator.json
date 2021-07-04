@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winformgenerator",
+  "Title": "Windows forms generator",
+  "Description": "Windows Forms Generator is a class library to generate Windows Forms from a class. It will check all properties in a class and then create all controls for you.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windows Forms Generator is a class library to generate Windows Forms from a class or value. It will check all public class properties and then create all controls for you. <br /><br />For example int will generate a numericUpDown, string a textbox or List a listbox with add, edit and delete buttons. <br /><br />A class example:<br /><br />This class <br /><br /><pre>\n    class User\n    {\n        public int Id { get; set; }\n\n        public string Name { get; set; }\n\n        public int Age { get; set; }\n\n        public bool Male { get; set; }\n\n        public Stuff Stuff { get; set; }\n\n        public List&lt;User&gt; UserListTest { get; set; }\n\n        public string DesignTest { get; set; }\n\n        public override string ToString()\n        {\n            return Name; \n        }\n    }\n</pre><br /><br />will give you this form<br /><br /><img src=\"http://s15.postimg.org/vpgn0a87f/form.png\" /><br /><br />Supported types: <br />\n<ul><li>int </li>\n<li>string</li>\n<li>double</li>\n<li>float </li>\n<li>long </li>\n<li>decimal</li>\n<li>short</li>\n<li>bool</li>\n<li>List&lt;E&gt;</li>\n<li>Vector2</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WinForms,Generator,WinForms Generator,C#,.NET,Windows forms,",
+  "LastEdited": "2014-08-01T08:40:46.623-07:00"
+}

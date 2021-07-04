@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bingmapv7aspnetcontr",
+  "Title": "Bing Map V7 ASP.NET Control",
+  "Description": "More information in relation to Bing Maps can be obtained from the following sites:\r\n\r\nhttp://www.microsoft.com/maps/isdk/ajax/ and\r\nhttp://www.bingmapsportal.com/",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is my first attempt of building a web control using ajax. So far so good. This is an aspnet control that creates the bing map control for version 7. This is not VEMaps.<br /><br /><b>What has been done so far...</b><br /><br />Create the Bing Map<br />Use the BingTheme<br />Inforbox can show on click, on mouseover or you can display a tooltip only<br />Set options for Map<br />Set Center and Zoom<br />Assign Bing Key<br />Added Layer<br />Add InfoBox to later<br />Add pushpins, polygons, polylines to a layer (no longer direct to map)<br />Set view bounds to polygon / polyline<br />Add java script with AddScript method. All references to the map in code should be with &quot;&lt;map&gt;&quot;<br />Pushpins can have custom icons<br />Easy fill and strokecolor constants (these now use system.drawing.color)<br />Maps.Color (argb) is now derived from System.Drawing.Color with conversion function<br />Polygons can be added with transparency by changing the A to 127 (set IsTransparent = true)<br /><br />The latest source and example is on the source code tab.<br /><br /><b>To do</b><br /><br />Import KML, Asri Shape, Dbf, GeoRSS etc<br />Event Handling<br />Testing inside UpdatePanel<br />Databinding<br />Searching<br /><br /><b>To note</b><br /><br />Not all functionality of the SDK will be implemented here as my focus is on what I can use for my projects. However if anyone needs functionality that is not implemented, I am welcome to comments and suggestions.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-25T03:26:45.473-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "powershellforsharepoint",
+  "Title": "Useful PowerShell Automation Script (Highly reusable) for SharePoint 2010&2013",
+  "Description": "Repository of useful Powershell automation scripts which are often required for SharePoint Point Projects",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><strong>Reusable Ready PowerShell Scripts for various daily need of SharePoint projects</strong><br>\r\n<br>\r\n</h1>\r\n<p>All the PowerShell&nbsp;scripts are available for download in downloads section.</p>\r\n<ol>\r\n<li>Empty recycle bin of all site collections (parameter: web application URL) </li><li>Get AD Group Members in specific OU of Active Directory (parameter: outcome CSV file path, OU search string)\r\n</li><li>Scan Local files and folders and make it ready for migration ( It's pre-migration utility to ensure whether all folders and files are ready for migration to SharePoint or not, if not then help in auto fixing to make it ready)\r\n</li></ol>\r\n<p><strong>.. more will be added soon</strong></p>\r\n<h3><em><strong>Let's NOT&nbsp;reinvent, LET's reuse... and make swift deliveries</strong></em></h3>\r\n<p>If you do have more then please share..</p>\r\n<p>:-) Happy sharing</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-01T00:30:37.87-08:00"
+}

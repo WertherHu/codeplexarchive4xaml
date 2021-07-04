@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wixpat",
+  "Title": "Wix Installer Toolkit",
+  "Description": "An integrated toolset in Visual Studio that rapidly builds your WIX installer for you, using the industry's best practices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An integrated toolset in Visual Studio that rapidly builds your WIX installer for you, using the industry&#39;s best practices.<br /><br />The goal of this project is to create a set of simple and evolving integrated graphical design tools in Visual Studio that make it easy for developers to quickly and reliably create installers using the WIX technology. Which bakes in recommended practices for building WIX setup projects by the WIX community.<br /><br /><br /><i>This project has been created in response to the request to create an evolving toolkit that demonstrates the value of the NuPattern tooling platform for developers who want to build installers quickly and easily. <a href=\"http://nupattern.codeplex.com/workitem/71\">Build a WIX Toolkit</a>.</i><br /><br /><br />If you are keen, we would love to transition ownership of this project to someone who can take the lead on moving this project forward. Please contact the current project owner.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Pattern Automation,NuPattern,",
+  "LastEdited": "2013-06-18T20:44:31.887-07:00"
+}

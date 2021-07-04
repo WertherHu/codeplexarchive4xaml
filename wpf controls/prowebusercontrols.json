@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prowebusercontrols",
+  "Title": "asp.net data entry user controls",
+  "Description": "prowebusercontrols makes it easier for asp.net (2.0, 3.5, C#. VB) web developers to use common data entry controls for web forms, by encapsulation functionality and markup, into user controls. This method reduces code, and gives reusability, within the application, in many cases.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />prowebusercontrols makes it easier for asp.net &#40;2.0, 3.5, C&#35;. VB&#41; web developers to use common data entry controls for web forms, by encapsulation functionality and markup, into user controls. This method reduces code, and gives reusability, within the application, in many cases.<br /><br />Please, don&#39;t be surprised by the simplicity of such a project. It is starting out simple, that we build good principles.<br /><br />The goal here, is to really take the max out of user controls. started out with a simple required field validator, to go on to more controls with asp.net.<br />Progressively, we&#39;ll also add controls from the Ajax toolkit, such as a Calendar User Control and more.<br />Also, Still to add events.<br /><br />The reason to upload the project into CodePlex, is that, it takes time for each developer to go on about developing his own user control. It is better to have an open source project, with tested user controls, and fully customisable through source code.<br /><br />For Visual Studio, it&#39;s the 2005 version for now, until Team explorer gets installed successfully for visual studio 2008. It&#39;s a simple website, transferable from visual studio 2005 to 2008 easily.<br /><br />Regards to all interested in this project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-01-31T16:33:55.023-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ADBrowser",
+  "Title": "Active Directory Browser web part for SharePoint",
+  "Description": "Have you ever needed to know what the membership of a particular Active Directory group is before granting the whole group access to a SharePoint site or list? \r\n\r\nThis SharePoint web part allows end users to view all of the Active Directory users in each AD group under a specified LDAP path. This is a read only view of the group members. \r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Have you ever needed to know what the membership of a particular Active Directory group is before granting the whole group access to a SharePoint site or list&#63; <br /><br />This SharePoint web part allows end users to view all of the Active Directory users in each AD group under a specified LDAP path. This is a read only view of the group members. <br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Active Directory,Sharepoint,SharePoint 2007,Sharepoint Tools,SharePoint WebPart,WebPart,User Controls,User Control,MOSS,MOSS 2007,MOSS webparts,MOSS feature,Feature,",
+  "LastEdited": "2012-04-23T11:37:28.227-07:00"
+}

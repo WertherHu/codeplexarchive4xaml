@@ -1,0 +1,9 @@
+{
+  "ProjectName": "postleitzahlensuche",
+  "Title": "postleitzahlensuche",
+  "Description": "Postleitzahlen Suche\r\nC# WPF Applikation; Suche nach Postleitzahlen oder Orten => Liefert als Ergebnis eine Liste von übereinstimmenden Orten mit deren PLZs",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Postleitzahlen Suche</strong></p>\r\n<p>Typ: C# WPF Applikation, .NET Framework 4</p>\r\n<p>Suche nach Postleitzahlen oder Orten =&gt; Liefert als Ergebnis eine Liste von &uuml;bereinstimmenden Orten mit deren Postleitzahlen</p>\r\n<p>Liest &uuml;ber eine CSV-Datei die Ortsdaten ein und konvertiert diese in ein List-Objekt...</p>\r\n<p>Ort&nbsp;wird &uuml;ber&nbsp;maps.google.at dargestellt, mittels Diagnostic.Process ... usw.</p>\r\n<p>Autor: Matthias Raab</p>\r\n<p><img src=\"/projects/postleitzahlensuche/e33551b1-f03b-4a42-8395-20d28febecac\" alt=\"\" width=\"510\" height=\"408\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-07T15:31:27.79-08:00"
+}

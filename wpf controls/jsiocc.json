@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jsiocc",
+  "Title": "JS IoCC",
+  "Description": "Build larger apps with this smart Inversión of Control and Dependency Injection tool.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>JS IoCC</h1>\r\n<h2>Introduction</h2>\r\n<p>With JS IoCC you will be able to build large JavaScript applications by assembling code with\r\n<strong>Inversion of Control</strong> and <strong>Depdendency Injection</strong>.</p>\r\n<p>It has no edpendency with any framework and works fine in all browsers.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-21T03:20:46.693-07:00"
+}

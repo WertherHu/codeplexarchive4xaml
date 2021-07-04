@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kaboom",
+  "Title": "Kaboom!  The MVVM framework for the web...",
+  "Description": "Kaboom makes it possible to create RIA applications using the MVVM design pattern. It's developed in JavaScript and is made to leverage jQuery, JSON, and aspMVC.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Kaboom makes it possible to create RIA applications using the MVVM design pattern. It&#39;s developed in JavaScript and is made to leverage jQuery, JSON, and aspMVC.<br /><br /><b>Kaboom attempts to disprove the claim that MVVM is just a &quot;work around&quot; for Silverlight and WPF development.</b><br /><br />Source code is currently on downloads page: <a href=\"http://kaboom.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=29146\">http://kaboom.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=29146</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-16T11:15:48.28-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "piechart4wp7",
+  "Title": "A Pie Chart Generator for WP7 (Windows Phone 7) developers",
+  "Description": "This is to introduce a Siliverlight class library that provides developers with methods and properties to create a pie chart dynamically in their application.  With this class library, it only takes 4-5 lines of code to produce a pie chart.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This is to introduce a <b>Siliverlight class library</b>  that provides developers with methods and properties to create a <b>pie chart</b> dynamically from their application. With this class library, it only takes 4-5 lines of code to produce a pie chart. <br /><br />The source code provided is the full implementation of <b>PieChart4WP7 version 1</b> on Windows Phone 7 Silverlight project.<br /><br />Development Platform :  Windows 7, Windows Phone 7 in .NET Framework 4<br />Target Platform           :  Windows Phone 7 Silverlight<br />Programming Lang.     :  C#<br />IDE                             :  Visual Studio 2010 Ultimate<br /><br />Applications in use      : \n<ol><li><b>&quot;MyTravelLedger&quot;</b> at the Windows Phone 7 marketplace</li></ol>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Pie Chart,.NET 4.0,Windows Phone 7,silverlight 4,C#,Visual Studio 2010,class library,Class,chart,",
+  "LastEdited": "2011-06-10T16:29:35.23-07:00"
+}

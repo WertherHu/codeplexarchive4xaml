@@ -1,0 +1,9 @@
+{
+  "ProjectName": "calendarwinapp",
+  "Title": "Calendar for Windows App Store",
+  "Description": "This project allows the user to add a Calendar Control on the Windows App Application.\r\nSupports Windows 8.1 ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br /><br /><b>Windows 8 Calendar Control</b> <br /><br /><br /><br /><br />Since Microsoft released the Windows AppStore applications, they have reduced the size of the SDk to increase the performance on all their platforms. However with this release we have lost some of the most valuable controls that we used for granted in the normal WPF. This project tries to provide a calendar control that could be used in various application.  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "calendar,windows app store,windows 8.1,windows 8,wpf,xaml,",
+  "LastEdited": "2014-09-11T07:02:13.65-07:00"
+}

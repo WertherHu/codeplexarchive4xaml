@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PVReportDeployer",
+  "Title": "PVReportDeployer",
+  "Description": "PVReportDeployer provides a WPF based UI for you to change hard coded data source in PowerView report, makes the report moving from site to site much easier.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PVReportDeployer provides a WPF based UI for you to change hard coded data source in PowerView report, makes the report moving from site to site much easier.<br /><br />In a PowerView report (.rdlx file), the data source field is hard coded inside &lt;DataSourceReference&gt; tag in report.rdl, so when you are moving reports to from one SharePoint site to another, you need to:\n<ol><li>download rdlx file </li>\n<li>unzip it</li>\n<li>modify the &lt;DataSourceReference&gt; field inside the report</li>\n<li>zip to rdlx file </li>\n<li>upload to new SharePoint site</li></ol>\n<b>PVReportDeployer</b> provides a WPF based UI for you to accomplish the tedious steps above.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint 2013,PowerView,",
+  "LastEdited": "2014-07-22T13:10:45.473-07:00"
+}

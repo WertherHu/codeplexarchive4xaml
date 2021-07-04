@@ -1,0 +1,9 @@
+{
+  "ProjectName": "moxaml",
+  "Title": "MoXAML Power Toys",
+  "Description": "MoXAML Power Toys provides an easy to use WPF/Silverlight add-in for Visual Studio 2010.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MoXAML Power Toys is a Visual Studio AddIn that’s designed to make your coding that bit more productive for WPF/Silverlight applications.<br /><br />Designed to be easy to add your own plug ins to, MoXAML provides a central repository for managing tasks such as prettifying XAML files, managining multiple XAML code comments, automatically adding field modifiers and so on. All source code is present here - there&#39;s no hidden voodoo, and no hidden files. It&#39;s all available for you to use, and to extend as you see fit.<br /><br />More details can be found on my blog at <a href=\"http://peteohanlon.wordpress.com/moxaml-power-toys/\">http://peteohanlon.wordpress.com/moxaml-power-toys/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-15T04:40:54.147-07:00"
+}

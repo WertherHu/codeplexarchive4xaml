@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp7feedbackcontrol",
+  "Title": "Windows Phone 7 Feedback Control",
+  "Description": "Windows Phone user control for sending feedback directly from the application",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nAs simple as it sounds: reusable control for your app's users to send their feedback directly from your app.</p>\r\n<p>You can set the basic properties, like static / editable subject line, default subject, default e-mail body text - and, of course, the e-mail address for the feedback to be sent to.<br>\r\n<strong><br>\r\n</strong></p>\r\n<p><img src=\"http://khksoftware.com/images/FeedbackControl/DarkS.jpg\" alt=\"Screenshot with Light scheme\" width=\"240\" height=\"400\">&nbsp; &nbsp;<img src=\"http://khksoftware.com/images/FeedbackControl/LightS.jpg\" alt=\"Screenshot with Light scheme\" width=\"240\" height=\"400\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-26T09:05:41.297-07:00"
+}

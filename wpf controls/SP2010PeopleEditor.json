@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SP2010PeopleEditor",
+  "Title": "Custom People Editor - SharePoint 2010",
+  "Description": "SharePoint 2010 Custom people editor will allow users to define access permissions to admin and other users through Central Administration. The custom people editor control will restrict selection based on settings defined in admin page in CA.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The out-of-the-box SharePoint people picker allows users to select users, SharePoint groups, Distribution Lists &amp; Security groups. Users may accidentally add large AD groups to SharePoint groups and send notifications to hundreds of people. The administrator may want more control over the security of the people picker control. In some scenario the administrator may want to restrict the user to only select ‘users’ or ‘SharePoint Groups’. This can be achieved by creating a custom people picker control which inherits from SharePoint people editor.<br /><br /><b>Environment</b><br />SharePoint 2010, VS 2010<br /><br /><b>Detailed Description</b><br />Find high level documentation on <a href=\"http://markviky.blogspot.com/2010/09/custom-people-picker-editor-in.html\">http://markviky.blogspot.com/2010/09/custom-people-picker-editor-in.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-11T00:59:46.32-07:00"
+}

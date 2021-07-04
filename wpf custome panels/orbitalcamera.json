@@ -1,0 +1,9 @@
+{
+  "ProjectName": "orbitalcamera",
+  "Title": "Orbital Camera Controller",
+  "Description": "WPF component that allow user to easily control a camera the way most famous 3D applications do, such as 3D Studio MAX or Maya.\r\nThis component control a camera attached to a Viewport3D.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF component that allow user to easily control a camera the way most famous 3D applications do, such as 3D Studio MAX or Maya.<br />This component control a camera attached to a Viewport3D.<br /><br />The interesting part of the code is in the OrbitalCameraController.cs file.<br />The whole application in just a sample demonstration code for usage.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-09T21:55:04.677-08:00"
+}

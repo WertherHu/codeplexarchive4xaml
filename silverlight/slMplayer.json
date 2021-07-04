@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slMplayer",
+  "Title": "Simple Silverlight Media Player",
+  "Description": "This is a simple silverlight audio player with ability to navigate through the music and changing volume.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>recently I create a simple silverlight player which is usable for embedding music into the website and weblogs .</p>\r\n<p>You can play pause and navigate through music.</p>\r\n<p><a href=\"http://nokhodian.com/\"><img title=\"player\" src=\"http://nokhodian.com/blog/wp-content/uploads/2010/10/player.jpg\" alt=\"\" width=\"260\" height=\"47\"></a></p>\r\n<p>If you like it check out my weblog as well http://nokhodian.info</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-03T06:37:24.197-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcxaml",
+  "Title": "MvcXaml",
+  "Description": "A custom View Engine for ASP.NET MVC that allows Controller Action Methods to return dynamically generated images based on XAML markup.",
+  "MovedLink": "https://github.com/crpietschmann/MvcXaml",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A custom View Engine for ASP.NET MVC that allows Controller Action Methods to return dynamically generated images based on XAML markup.<br />\n<h2>Articles</h2>\r\n<a href=\"http://pietschsoft.com/post/2011/01/09/MvcXaml-Images-from-XAML-within-ASPNET-MVC-Application.aspx\">MvcXaml - Images from XAML within ASP.NET MVC Application</a> by Chris Pietschmann<br /><a href=\"http://nuget.org/packages/MvcXaml\">MvcXaml v1.0 is Available as a NuGet Package</a><br /><br /><img src=\"/projects/mvcxaml/c3988476-6c74-48f7-b979-2ee61c10744c\" alt=\"MvcXamlScreenshot.png\" title=\"MvcXamlScreenshot.png\" /><br />\n<h2>Contributors</h2>\r\n<b>Chris Pietschmann</b> - Chris is a Microsoft MVP for Bing Maps, Co-Founder of <a href=\"http://carto.com\">Carto LLC</a> and Owner of <a href=\"http://simplovation.com\">Simplovation LLC</a>. You can view Chris&#39; blog at <a href=\"http://pietschsoft.com\">http://pietschsoft.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "xaml,MVC,ASP.NET MVC,ViewEngine,Image,",
+  "LastEdited": "2012-05-03T08:14:51.677-07:00"
+}

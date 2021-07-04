@@ -1,0 +1,9 @@
+{
+  "ProjectName": "crorchardhelpers",
+  "Title": "CR_OrchardHelpers",
+  "Description": "Devexpress CodeRush plugin. Helps develop modules/themes for Orchard CMS faster and safer.\r\n\r\nIt can automatically create ContentPart class from ContentPartRecord class, and provide intellassist for stylesheets included in Views.\r\n\r\nThere are features I'm planning to add when I have more time to work on this plugin.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Devexpress CodeRush plugin. Helps develop modules&#47;themes for Orchard CMS faster and safer.<br /><br />It can automatically create ContentPart class from ContentPartRecord class, and provide intellassist for stylesheets included in Views.<br /><br />There are features I&#39;m planning to add when I have more time to work on this plugin.<br /><br />For more DXCore plugins you can visit <b><a href=\"http://code.google.com/p/dxcorecommunityplugins\">http://code.google.com/p/dxcorecommunityplugins</a></b>.<br />For plugin development, a really helpful site is <b><a href=\"http://www.skorkin.com/\">http://www.skorkin.com/</a></b> from Alex Skorkin.<br /><br />About Orchard CMS, what can I say... The amazing cms is at <b><a href=\"http://orchardproject.net/\">http://orchardproject.net/</a></b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-05T09:26:38.37-07:00"
+}

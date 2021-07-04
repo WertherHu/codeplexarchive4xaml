@@ -1,0 +1,9 @@
+{
+  "ProjectName": "agscatalog",
+  "Title": "ArcGIS Server Rest Catalog",
+  "Description": "jquery widget that display all MapServer service of ESRI ArcGIS Server in accordion control.\r\n\r\nRequire jQuery and JsRender.\r\n\r\n\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\njquery widget that display all MapServer service of ESRI ArcGIS Server in accordion control.<br>\r\n<br>\r\nRequire jQuery, jQuery UI and JsRender.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-28T05:50:58.263-07:00"
+}

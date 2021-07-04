@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bingmapsts",
+  "Title": "Bing Maps TypeScript Declarations",
+  "Description": "Unofficial TypeScript declarations for the Bing Maps v7 AJAX Control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Bing Maps TypeScript Declarations</h1>\r\nHi everyone, this project has moved to a github repository to allow for quick maintenance and be able to react to changes easier. Please see here for a more up to date version of the declarations: <a href=\"https://github.com/Kyle-Muir/bing-maps-ajax-control-typescript-declaration\">https://github.com/Kyle-Muir/bing-maps-ajax-control-typescript-declaration</a>. We will update the documentation here further down the track.<br /><br />This project contains unofficial TypeScript declarations for the <a href=\"http://msdn.microsoft.com/en-us/library/gg427610.aspx\">Bing Maps v7 AJAX Control</a>. It is meant to bridge the gap between the release of TypeScript and the release of the official Bing Maps declaration files.<br />\n<h2>Installation</h2>\rYou can download the declaration files directly from the <a href=\"http://bingmapsts.codeplex.com/releases/\">downloads</a> page.<br /><br />A <a href=\"http://nuget.org/packages/BingMapsTypeScript\">NuGet package</a> is also available in the public NuGet repository.<br /><br /><i>Install-Package BingMapsTypeScript</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Bing Maps,TypeScript,Bing,",
+  "LastEdited": "2014-10-16T13:54:43.867-07:00"
+}

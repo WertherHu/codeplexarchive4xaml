@@ -1,0 +1,9 @@
+{
+  "ProjectName": "codestory",
+  "Title": "CodeStory",
+  "Description": "CodeStory would be an easy to use and powerful web framework by Supporting reuseable modules,defining page layout,changing skin etc..",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/codestory/0e7998a6-1e87-440f-9489-0fa969c92322\" alt=\"CodeStory.png\" title=\"CodeStory.png\" /><br />CodeStory would be an easy to use and powerful web framework by Supporting reuseable modules,defining page layout,changing skin etc..<br />And it&#39;s subproject CodeStory.WebControls provides some useful controls,such as PropertyGrid，TreeGrid,HeadLink,ConfirmButton etc.<br /><br /><br /><a href=\"https://codestory.codeplex.com/wikipage?title=What%20does%20codestory%20want%20to%20do&referringTitle=Home\">What does codestory want to do</a><br /><br /><b>Guid</b><br /><a href=\"https://codestory.codeplex.com/wikipage?title=How%20to%20install&referringTitle=Home\">How to install</a><br /><a href=\"https://codestory.codeplex.com/wikipage?title=How%20to%20use&referringTitle=Home\">How to use</a><br /><br /><br /><br /><b>Any questions are welcome!</b><br /><b>msn:yangtaox@gmail.com</b><br /><br /><b>Task</b><br />#.Documents and Souce code comment.<br />#.User management and Bug fix.(v0.25)<br />#.Portlet and resource in it authentication support.(v0.30)<br />#.Provide a much pleasant user interface.(v0.4)<br />#.Add some useful modules,such as News,File manager,Blog,Forum etc.(v0.5-v0.8)<br />and so on.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,CMS,Controls,Portal,ASP.NET 2.0,webcontrols,",
+  "LastEdited": "2007-10-26T23:01:53.493-07:00"
+}

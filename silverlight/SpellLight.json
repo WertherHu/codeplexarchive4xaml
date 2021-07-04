@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SpellLight",
+  "Title": "SpellLight - Lightweight Silverlight Spell Checker Library",
+  "Description": "SpellLight is a lightweight Silverlight Spell Check library",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SpellLight is a lightweight spell check library utilizing Google Spell Check API. The main objectives while building this library have been the following:<br />\n<ul><li>Lightweight - No additional dependancies to external dicitonary files/resources</li>\n<li>Extensibility - The library is extensible for adding additional spell check providers in future. </li>\n<li>Ease of use - Can be added to any Silverlight project with minimal steps</li></ul>\n<br />Please feel free to use in your projects and let me know your comments. <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-20T10:46:15.37-07:00"
+}

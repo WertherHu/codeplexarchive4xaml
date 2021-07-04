@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dotnetnukeautomation",
+  "Title": "DotNetNuke® Automation Tests",
+  "Description": "Suite of MBUnit and Watin tests that provide automation testing for DotNetNuke",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Suite of MBUnit and Watin tests that provide automation testing for DotNetNuke<br /><br />Automation tests for DotNetNuke.<br /><a href=\"https://dotnetnukeautomation.codeplex.com/wikipage?title=Step%20by%20Step%20BVT%20Automation%20Set%20Up&referringTitle=Home\">Step by Step BVT Automation Set Up</a><br /><a href=\"https://dotnetnukeautomation.codeplex.com/wikipage?title=Running%20your%20DNN%20BVT%20Tests&referringTitle=Home\">Running your DNN BVT Tests</a><br /><a href=\"https://dotnetnukeautomation.codeplex.com/wikipage?title=Running%20your%20Other%20DNN%20Automation%20Tests&referringTitle=Home\">Running your Other DNN Automation Tests</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-09-14T15:14:55.093-07:00"
+}

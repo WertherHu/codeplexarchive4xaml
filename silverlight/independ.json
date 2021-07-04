@@ -1,0 +1,9 @@
+{
+  "ProjectName": "independ",
+  "Title": "Independ",
+  "Description": "The Independ is a lightweight dependency injection container with support for constructor and property call injection written in .NET 4 especially for Windows Phone 7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Independ is a lightweight dependency injection container with support for constructor and property call injection written in .NET 4 especially for Windows Phone 7.<br /><br /><br /><b>Features:</b>\n<ol><li>Clear interfce compatible with <a href=\"http://unity.codeplex.com/\">Unity</a></li>\n<li>Constructor with maximum parameters count injection</li>\n<li>Stated constructor injection (see InjectionConstructorAttribute)</li>\n<li>Property injection (see DependencyAttribute)</li>\n<li>Hierarchical resolve</li>\n<li>Implementation of IServiceLocator interface</li>\n<li>Fluent interface</li>\n<li>Supports <b>Windows Phone 7!</b></li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DI,IoC,dependency injection,UnityContainer,Windows Phone 7,Silverlight,",
+  "LastEdited": "2010-12-02T10:19:38.9-08:00"
+}

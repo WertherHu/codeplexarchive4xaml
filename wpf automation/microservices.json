@@ -1,0 +1,9 @@
+{
+  "ProjectName": "microservices",
+  "Title": "Microservices & Azure",
+  "Description": "This code repository provided is a reference implementation that demonstrates Automation, Microservices Architecture and IoT on Azure",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Update</b> </h1>\r<h2>The location for this repository has been moved. The new location is here: <a href=\"https://github.com/bobfamiliar/microservices-iot-azure\">microservices-iot-azure</a></h2>\r\n<a href=\"http://www.amazon.com/Microservices-IoT-Azure-Microservice-Architecture/dp/1484212762/ref=sr_1_10?ie=UTF8&amp;qid=1444775013&amp;sr=8-10&amp;keywords=microservices\">*NOW AVAILABLE FOR PRE-ORDER*</a><br /><br /><a href=\"http://www.amazon.com/Microservices-IoT-Azure-Microservice-Architecture/dp/1484212762/ref=sr_1_10?ie=UTF8&amp;qid=1444775013&amp;sr=8-10&amp;keywords=microservices\"><img style=\"border:none;\" src=\"http://bobfamiliar.azurewebsites.net/wp-content/uploads/2015/10/bookcover-small.jpg\" alt=\"Microservices, IoT and Azure\" title=\"Microservices, IoT and Azure\" /></a><br /><br /><b>Microservices, IoT and Azure</b> <br /><i>Leveraging DevOps and Microservice Architecture to deliver SaaS Solutions</i><br />by Bob Familiar, published by Apress Publishing.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure,Microservices,Continuous Delivery,SaaS,PaaS,IaaS,SQL Database,DocumentDb,Redis,Service Fabric,Event Hub,Stream Analytics,Cloud Services,Service Bus,Azure Web Site,ASP.NET Web API,ReST,Visual Studio,PowerShell,Automation,DevOps,",
+  "LastEdited": "2015-10-18T10:00:38.32-07:00"
+}

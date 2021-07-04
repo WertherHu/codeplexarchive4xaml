@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CaptchaControl",
+  "Title": "Captcha web control",
+  "Description": "A simple captcha web control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple captcha web control<br /><br />The control generates captcha images.<br />Option for regeneration of images by the user. <br />The image generator interface and the random text generator interface  can be replaced by a user defined implementations.<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-08-27T22:23:42.927-07:00"
+}

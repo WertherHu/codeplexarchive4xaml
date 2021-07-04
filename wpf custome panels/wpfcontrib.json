@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfcontrib",
+  "Title": "WPF Contrib",
+  "Description": "WPF Contrib is a collection of controls and utility classes I've accumulated over the years.",
+  "MovedLink": "https://github.com/aelij/WPFContrib",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project has moved to GitHub</h1>\r<h1><a href=\"https://github.com/aelij/WPFContrib\">https://github.com/aelij/WPFContrib</a></h1>\r\n<h2>Project Description</h2>\rWPF Contrib is a collection of controls and utility classes I&#39;ve accumulated over the years.<br />\n<h2>How to get it</h2>\rDownload from NuGet: <a href=\"https://www.nuget.org/packages/AvalonLibrary\">https://www.nuget.org/packages/AvalonLibrary</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Controls,WPF,xaml,cool,Avalon,WPF controls,Wpf Contrib,MyList.WPF,.NET 4.0,",
+  "LastEdited": "2015-03-24T21:51:44.867-07:00"
+}

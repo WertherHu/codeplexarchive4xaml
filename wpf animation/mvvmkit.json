@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmkit",
+  "Title": "MVVMKit",
+  "Description": "MVVMKit makes it easier to create WPF applications using the MVVM pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MVVMKit makes it easier to create WPF applications using the MVVM pattern.<br /><br /><b>MVVMKit</b> is a lightweight library containing only what is absolutely necessary to get you started creating WPF applications using the MVVM pattern. <br />The library is a collection of base classes, helpers and utilities that facilitate the creation of view models, communication between them and state management in the view models. The project started as a way to create generic and reusable components that help WPF projects get started quickly.<br /><br />Included with the source code is a sample application that is meant to show some of the features included in the library and provide examples to get you started on creating your own applications. <br /><br /><b>New Release : Dec 27, 2010</b><br />A new release of MVVMKit is available for download. It contains a more refined version of the framework with simplified architecture, re-designed classes for consistency, new examples added to the demo application and API documentation built with Sandcastle.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF MVVM,MVVM,WPF,",
+  "LastEdited": "2010-12-27T18:16:53.593-08:00"
+}

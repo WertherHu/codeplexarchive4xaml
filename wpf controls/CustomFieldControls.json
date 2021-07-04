@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CustomFieldControls",
+  "Title": "Sharepoint - Query Based Lookup Field Control",
+  "Description": "This is one of my older projects having two custom field definitions:\n\n1. the Parent-Child control (improved on the Datacogs solution)\n2. Query Based Look Up Field Control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />A custom field control for WSS 3.0/MOSS 2007 to get filtered data from other list based on complex queries that is otherwise not possible through OOTB lookup field.<br /><br />This is one of my older projects having two custom field definitions&#58;<br /><br />1. the Parent-Child control &#40;improved on the Datacogs solution&#41;<br />2. Query Based Look Up Field Control<br /><br /><b>Query Based Lookup Field</b><br /><img src=\"http://lh4.ggpht.com/baig.adil/SGnPkS81V8I/AAAAAAAAAJY/zjsLHa8YkXY/customField_QueryBasedLookUp.GIF?imgmax=144\" alt=\"Query Based Lookup Field Control\" title=\"Query Based Lookup Field Control\" /><br /><br /><b>Parent Control</b><br /><img src=\"http://lh5.ggpht.com/baig.adil/SGnQPRgWnGI/AAAAAAAAAJg/IVvmWKLq7Ls/s144/customField_parentControl.png\" alt=\"Parent Control\" title=\"Parent Control\" /><br /><br /><b>Child Control</b><br /><img src=\"http://lh5.ggpht.com/baig.adil/SGnQ7c_GkzI/AAAAAAAAAJo/GuIe4kX2CVc/s144/customField_childControl.png\" alt=\"Child Control\" title=\"Child Control\" /><br /><br />for related posting:<br /><a href=\"http://baigadil.blogspot.com/2007/11/sharepoint-2007-custom-lookup-drop-down.html\">http://baigadil.blogspot.com/2007/11/sharepoint-2007-custom-lookup-drop-down.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint 2007,Custom Fields,MOSS 2007,SP-Developer,SharePoint Dev,Sharepoint,sharepoint controls,field,MOSS Lookup field,Query,",
+  "LastEdited": "2008-07-07T00:52:56.533-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "win8timepicker",
+  "Title": "Windows 8 Time Picker for Windows Phone",
+  "Description": "A Windows Phone implementation of the Time Picker control found in the Windows 8.1 Alarms app.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This simple library gives Windows Phone developers access to a time picker based upon Microsoft&#39;s new control in the Windows 8.1 Alarms app. Users select the time by sliding the rings, the outermost controlling the minutes and the inner controlling the hours. <br /><br />Developed by Alex White <a href=\"https://win8timepicker.codeplex.com/wikipage?title=awhite.us&referringTitle=Home\">awhite.us</a><br /><br /><b>Screenshot</b><br /><br /><img src=\"http://i.imgur.com/LYvQMiM.png\" /><br /><br /><b>Usage</b><br /><br />See the documentation tab for instructions!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,WP8,time,control,picker,windows 8,ui,user interface,gui,",
+  "LastEdited": "2013-07-23T13:58:24.967-07:00"
+}

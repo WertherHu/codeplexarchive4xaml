@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jjcraft",
+  "Title": "JJCraft - 魔兽世界竞技场战斗日志分析工具",
+  "Description": "JJCraft是一个阅读魔兽世界竞技场战斗记录的工具. \n\n它能将战斗日志组织成更加易读的形式, 便于战后经验总结和敌情分析; 并且能将一场竞技场战役描述成网页报告, 方便玩家之间请教和探讨.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">JJCraft是一个阅读魔兽世界竞技场战斗记录的工具. <br /><br />它能将战斗日志组织成更加易读的形式, 便于战后经验总结和敌情分析&#59; 并且能将一场竞技场战役描述成网页报告, 方便玩家之间请教和探讨.<br /><br />参与战斗的各个单位所受到的伤害, 治疗以及他对他人进行的伤害或治疗都会按照时间线排列好, 并以直观的颜色显示.<br /><br />点击<a href=\"http://jjcraft.codeplex.com/Release/ProjectReleases.aspx\">http://jjcraft.codeplex.com/Release/ProjectReleases.aspx</a>进入下载页面.<br /><br /><img src=\"/projects/jjcraft/6eefce29-0441-4756-866c-75c4add407f0\" alt=\"jjcraftreport.png\" title=\"jjcraftreport.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wow,wpf,world of warcraft,",
+  "LastEdited": "2010-01-04T09:24:58.637-08:00"
+}

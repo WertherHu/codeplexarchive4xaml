@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EchoBox",
+  "Title": "Silverlight Audio Effect Box",
+  "Description": "This is a C# Silverlight 4 sample application which process audio sample in near real time. It allows to capture the default audio input device and to apply audio effects like Echo, Reverberation, modulation and then play it on the fly. It uses a MediaStreamSource derived class",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a C&#35; Silverlight 4 sample application which process audio sample in near real time. It allows to capture the default audio input device and to apply audio effects like Echo, Reverberation, modulation and then play it on the fly. It uses a MediaStreamSource derived class<br /><br />You can test the first version of this application online @ : <a href=\"http://www.runtime.fr/EchoBox\">http://www.runtime.fr/EchoBox</a><br />(in order test it you should plug a microphone and an audio headset)<br /><br />FRENCH : <br />Ce projet est un exemple d&#39;application de traitement de sons en Silverlight. <br />Le principe utilis&#233; est de capturer les &#233;chantillons en provenance du Micro (merci Silverlight 4) puis de leur faire subir plusieurs traitements (r&#233;verb&#233;ration, Echo, ...) avant de les reproduire sur la sortie audio par d&#233;faut.<br /><br />Cette application a fait l&#39;objet d&#39;un article d&#233;crivant de mani&#232;re d&#233;taill&#233;e l&#39;impl&#233;mentation. L&#39;article paraitra prochainement ...<br />Il est possible de tester la premi&#232;re version de cette application directement en ligne &#224; l&#39;adresse suivante : <a href=\"http://www.runtime.fr/EchoBox\">http://www.runtime.fr/EchoBox</a><br />(pour la tester munissez vous d&#39;un casque et d&#39;un micro :-)<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Audio,Media,Samples,silverlight 4,C#,",
+  "LastEdited": "2010-06-30T08:16:11.367-07:00"
+}

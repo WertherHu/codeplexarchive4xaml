@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wizardry",
+  "Title": "Wizardry",
+  "Description": "Wizardry is intended to provide a framework for creating wizards using MVVM in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Wizardry is intended to provide a framework for creating wizards using MVVM in WPF.<br /><br />The main project is currently based around using the Prism and Unity frameworks however there are plans to make a generic version that could be used with any desired IoC/DI framework.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-13T12:04:18.853-07:00"
+}

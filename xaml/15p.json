@@ -1,0 +1,9 @@
+{
+  "ProjectName": "15p",
+  "Title": "15 puzzle - Пятнашки",
+  "Description": "Простая игра пятнашки(15 Puzzel) для Windows 8.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Описание проекта</b><br />Простая игра пятнашки&#40;15 Puzzel&#41; для Windows 8.<br /><br /><br /><br />Здесь я представляю готовый проект пятнашек под Windows 8. <br />Данный проект поддерживает разрешение от 1366 x 768 и выше.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "15 Puzzel,Пятнашки,Windows 8,XAML,C#,Puzzel,Пазлы,15,fifteen,",
+  "LastEdited": "2013-08-01T22:03:03.903-07:00"
+}

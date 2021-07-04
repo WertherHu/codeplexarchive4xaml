@@ -1,0 +1,9 @@
+{
+  "ProjectName": "imageviewerwpf",
+  "Title": "Image Viewer (wpf version)",
+  "Description": "Image viewer helps windows users to review images on their computer. It is written i Csharp and wpf.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"http://aikah.free.fr/images/Capture.png\" /><br /><br />Image viewer helps windows users to review images on their computer. It is written i Csharp and wpf.<br /><br />Features :<br /><br />-Diaporama, with ajustable speed.<br />-Drag and drop image files from browser.<br />-Image re-ordering in the thumbnail panel via drag and drop<br />-support jpeg , gif , bmp , png and tiff.<br /><br />copyright 2010 Marc P.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,",
+  "LastEdited": "2011-01-05T22:46:16.75-08:00"
+}

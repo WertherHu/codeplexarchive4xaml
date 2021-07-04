@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ECP",
+  "Title": "Open Source Exchange Control Panel",
+  "Description": "A project to work on the development of an open source control panel for Microsoft Exchange 2007 (and 2010). We aim to create a control panel to allow both business and host to provide a way for users to create and manage exchange accounts through a simple web interface.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A project to work on the development of an open source control panel for Microsoft Exchange 2007 &#40;and 2010&#41;. We aim to create a control panel to allow both business and host to provide a way for users to create and manage exchange accounts through a simple web interface.<br /><br />\n<h1>Get Involved</h1>\rSign up with codeplex and post your desired participation level, area of expertise, and any information relevant to the cause. We will send you a confirmation soon after. You may also contact the project owner through &quot;codeplex contact feature&quot;.<br /><br />We are looking for:<br /><br /><b>Developers</b><br />C# developers of all skill levels are welcome to participate.<br />Particular skills needed include PowerShell, WCF, asp.net, MVC and JQuery<br /><b>Testers</b><br />People with Exchange systems available for testing, obviously not production systems!<br /><b>Designers</b><br />UI for Front-End web application. <br /><b>Technical Writers</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Control Panel,",
+  "LastEdited": "2009-08-13T15:47:31.853-07:00"
+}

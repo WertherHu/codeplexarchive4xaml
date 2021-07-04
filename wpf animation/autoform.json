@@ -1,0 +1,9 @@
+{
+  "ProjectName": "autoform",
+  "Title": "AutoForm",
+  "Description": "AutoForm is a WPF library which automatically builds data entry forms based on a data or view model class.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>AutoForm</b></h1>\r\nAutoForm is a WPF library for automatically creating data entry forms. Given the data model object your form uses as its DataContext, AutoForm will build the necessary input controls for all writeable properties, all bound to the model and ready for use.  Extensive customization lets you override input control choices, modify controls before they are added and easily create definitions for your own input controls or those from third-party libraries.<br /><br />AutoForm 1.1.0 has been released on 20th Nov, adding support for WPF Toolkit Community Edition, sub-forms, ListBox definition, static text and header definitions and minor improvements.  Release notes are on the Downloads page, wiki will be updated soon.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,data entry form,",
+  "LastEdited": "2014-11-20T07:44:27.627-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "compatibilityapi",
+  "Title": "Compatibility API between Winforms and WPF UI controls",
+  "Description": "The Compatibility API allows you currently to convert to and from certain formats from WPF and Winforms that do similar jobs but are imcompatible. e.g. the Image UI element in WPF requires BitmapImage format as its 'ImageSource'. On the other hand Winforms' PictureBox requires the regular Bitmap object as its 'Image'. The current alpha version allows you to convert to and from System.Drawing.Bitmap and System.Windows.Media.Imaging.ImageSource or System.Windows.Media.Imaging.BitmapImage.\r\nHelpful for your Imaging related conversions as of now. Still working on more...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Compatibility API allows you currently to convert to and from certain formats from WPF and Winforms that do similar jobs but are imcompatible. e.g. the Image UI element in WPF requires BitmapImage format as its &#39;ImageSource&#39;. On the other hand Winforms&#39; PictureBox requires the regular Bitmap object as its &#39;Image&#39;. The current alpha version allows you to convert to and from System.Drawing.Bitmap and System.Windows.Media.Imaging.ImageSource or System.Windows.Media.Imaging.BitmapImage.<br />Helpful for your Imaging related conversions as of now. Still working on more...<br /><br />Implemented on .NET4.0 in C#<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4.0,WPF,winforms,bitmap,Compatibility,",
+  "LastEdited": "2012-01-28T15:52:26.133-08:00"
+}

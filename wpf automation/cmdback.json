@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cmdback",
+  "Title": "Simple Command Line Backup Tool",
+  "Description": "Simple Command Line Backup Tool automates the backup of files from the command line for use in batch files.\r\n\r\nIncludes file type filters/ recursive/non recursive and number days to keep backups for.\r\n\r\nRight now this is simply a quick app I created for a client of mine that needed a simple backup utility to go with a product I delivered.\r\n\r\n.NET 2.0 C# Console Application \r\n\r\nHopefully this will morph into a useful utility with features not common in other command line backup utilities.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple Command Line Backup Tool automates the backup of files from the command line for use in batch files.<br /><br />Includes file type filters&#47; recursive&#47;non recursive and number days to keep backups for.<br /><br />Right now this is simply a quick app I created for a client of mine that needed a simple backup utility to go with a product I delivered.<br /><br />.NET 2.0 C&#35; Console Application <br /><br />Hopefully this will morph into a useful utility with features not common in other command line backup utilities.<br /><br />See Downloads for the Current Release.<br /><br />Browse the Documentation tab for usage tips.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,C# 3.0,Visual Studio 2010,utility,Command Line,VS2010,console app,Backup,BACKUP AUTOMATION,$+$,",
+  "LastEdited": "2011-11-23T18:08:30.787-08:00"
+}

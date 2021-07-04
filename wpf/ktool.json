@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ktool",
+  "Title": "KTool",
+  "Description": "Ktool is a tool for learning japanese kanji for student.\r\nIt doesn't include a dictionary, student should add word that they are learning by themselves.\r\n\r\nCode in WPF, .NET 4.0",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">I&#39;m adding new function for KTool: Hiragana test. The screen will display kanji word and require you to enter this kanji in hiragana. It&#39;s ready to use if you download the source code and build the program for your own. But I have to make sure this function has no stupid bug before release it ^^ You can see the preview of this function below:<br />\n<h2>Preview:</h2>\rMain screen:<br /><img src=\"https://lh3.googleusercontent.com/--491B2-SSK4/T2iPHv78ZjI/AAAAAAAAABc/q_Ce9rnbrZI/s226/main%2520screen.jpg\" /><br /><br />Search screen:<br /><img src=\"https://lh5.googleusercontent.com/-_kQutF4S-xE/T2iP-aCvSbI/AAAAAAAAAB0/R1wDbqoocSY/s400/search%2520screen%25202.jpg\" /><br /><br />Hiragana Test screen:<br /><img src=\"https://lh4.googleusercontent.com/-T-Glc5CX2-A/T5QcUXAObcI/AAAAAAAAACU/KNz5dHCQDts/s355/hiragana%2520test%2520screen.jpg\" /><br /><br />Hiragana Test screen 2:<br /><img src=\"https://lh5.googleusercontent.com/-1cFocdziUYk/T5Qaq93N8jI/AAAAAAAAACI/EN2xm8sKIUk/s394/hiragana%2520test%2520screen%25203.jpg\" /><br /><br />Hiragana Test screen 3:<br /><img src=\"https://lh6.googleusercontent.com/-_hU-BA28_nE/T5Qaq6XuWII/AAAAAAAAACE/8IMXniPsz5Q/s443/hiragana%2520test%2520screen%25204.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Kanji,Learning Tools,learn kanji,",
+  "LastEdited": "2012-04-22T07:59:41.227-07:00"
+}

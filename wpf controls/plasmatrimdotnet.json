@@ -1,0 +1,9 @@
+{
+  "ProjectName": "plasmatrimdotnet",
+  "Title": "plasmatrim.net",
+  "Description": "A library for controlling the USB PlasmaTrim from a .net application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>PlasmaTrim.net</strong><br>\r\n<br>\r\n<br>\r\nPlasmaTrim.net is a managed, entirely C#-based library for controlling a USB PlasmaTrim. The\r\n<a href=\"http://plasmatrim.com/\">USB PlasmaTrim</a> is an 8-LED, individually addressable light bar produced by ChromaCove.</p>\r\n<p>PlasmaTrim.net completely abstracts away all the mess of dealing with the USB HID protocol, allowing you to program patterns and control the device in real-time using native .net types like System.Drawing.Color. It handles all the heavy lifting in the background\r\n for you!</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-03T05:37:07.82-07:00"
+}

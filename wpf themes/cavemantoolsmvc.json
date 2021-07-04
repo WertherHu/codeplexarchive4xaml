@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cavemantoolsmvc",
+  "Title": "CavemanTools Mvc",
+  "Description": "Asp.Net Mvc 3 toolkit for faster development with less code. Features theming support for both Razor and WebForm engines and easy to use helpers. It's developed in C#, .Net 4 .",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Asp.Net Mvc 3 toolkit for faster development with less code. Features theming support for both Razor and WebForm engines and easy to use helpers. It&#39;s developed in C&#35;, .Net 4 .<br />\n<h1>Moved to BitBucket <a href=\"https://bitbucket.org/sapiensworks/caveman-tools/wiki/Home\">https://bitbucket.org/sapiensworks/caveman-tools/wiki/Home</a></h1>\r\n<b>Note:</b> CavemanTools Mvc binary is available via <a href=\"http://nuget.org/Packages/Packages/Details/CavemanTools-Mvc-1-0-0\">NuGet</a>  too.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET MVC,MVC 3,Toolkit,class library,Razor,C#,Theme,",
+  "LastEdited": "2012-02-05T08:20:22.127-08:00"
+}

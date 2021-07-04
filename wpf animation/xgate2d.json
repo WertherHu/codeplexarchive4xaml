@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xgate2d",
+  "Title": "XGate2D - XNA 2D Game Engine",
+  "Description": "XGate2D is 2D game engine built using XNA Framework. \r\nXGate2D currently has 8 features: input handler, animation, Graphical User Interface (GUI), collision detection, physics, particle system, tiling engine, and audio engine.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XGate2D is 2D game engine built using XNA Framework. <br />XGate2D currently has 8 features&#58; input handler, animation, Graphical User Interface &#40;GUI&#41;, collision detection, physics, particle system, tiling engine, and audio engine.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-20T04:38:51.357-07:00"
+}

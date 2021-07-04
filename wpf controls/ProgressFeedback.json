@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ProgressFeedback",
+  "Title": "Silverlight Progress Feedback",
+  "Description": "Demonstrates how to get progress feedback from slow running WPF processes in Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Demonstrates how to get progress feedback from slow running WPF processes in Silverlight.<br /><br />To read more about this project, visit my blog post about this technique <a href=\"http://lotsacode.wordpress.com/2010/11/17/progress-feedback-from-slow-wcf-call-in-silverlight/\">Progress Feedback From Slow WCF Call in Silverlight</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-17T14:02:36.983-08:00"
+}

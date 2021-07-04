@@ -1,0 +1,9 @@
+{
+  "ProjectName": "caffeine",
+  "Title": "Caffeine Model Framework",
+  "Description": "A view model framework that provides a very robust change recognition system including IsDirty and IsDirtyWithin flags for view models and much, much more...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h3>Still a work in progress...</h3>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,",
+  "LastEdited": "2012-11-28T07:24:11.477-08:00"
+}

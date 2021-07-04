@@ -1,0 +1,9 @@
+{
+  "ProjectName": "menunavigator",
+  "Title": "ASP.NET menu navigation server control",
+  "Description": "A lightweight menu navigation server control features dynamic horizontal menu generation, simply easy to customize and use.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a simple light weight menu navigation server control:<br /><br />Features includes:<br />1. Display and hide submenu items horizontally when hover or click the menu(depends on configure);<br />2. Property to enable slow effect of menu transformation <br />2. Customizable appearance such as color and width.<br />3. Items are editable programmatically. For example, display additional menu items for admin users.<br />4. Support xml setup, site map and declarative setup.<br /><br />See the demo <a href=\"http://www.startaspnetsite.com/menudemo.aspx\">http://www.startaspnetsite.com/menudemo.aspx</a><br />Check my blog <a href=\"http://www.startaspnetsite.com/post/2009/04/26/Open-source-ASPNET-menu-navigator-server-control.aspx\">http://www.startaspnetsite.com/post/2009/04/26/Open-source-ASPNET-menu-navigator-server-control.aspx</a><br /><img src=\"/projects/menunavigator/ce37c9dc-bd28-4d1a-9035-f190df66fec0\" alt=\"MenuNavigator.gif\" title=\"MenuNavigator.gif\" /><img src=\"/projects/menunavigator/6c7a652a-ae03-493a-9cfe-3000e2ae8ad1\" alt=\"MenuNavigator2.gif\" title=\"MenuNavigator2.gif\" /><br /><br />Next release will include supporting asp.net style class and increasing flexibility.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "menu,",
+  "LastEdited": "2009-05-16T05:11:09.793-07:00"
+}

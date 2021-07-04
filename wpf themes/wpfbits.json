@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfbits",
+  "Title": "WPF Bits and Pieces",
+  "Description": "WPF being a truely dynamic enviroment, opens up enless oppotunities.\nThis application will show-case snippets of code, which I found really useful.\n\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Wpf Bits and Pieces is a mini application showing some of the more intricate ins and outs of WPF and other technologies.<br /><br />Getting a little application together for the first time with WPF or any technology for that matter, can be tedious to say the least.<br /><br />I feel its time I start giving back a little, so I have started this project to share, some of my experiences, and maybe some nice little tips that I have picked up along the way.<br /><br /><br />To start with, we will have to get an application host going. - <a href=\"https://wpfbits.codeplex.com/documentation?referringTitle=Home\">Getting started</a><br /><br />Created application host - Done (partially, will add features as we go)<br /><br />Some of the technologies used are listed below....<br />WPF Framework<br />.Unity application block<br /><br />Base application is in place.<br />Unity is implemented. <a href=\"https://wpfbits.codeplex.com/wikipage?title=Configuration%20file%20is%20in%20place&referringTitle=Home\">Configuration file is in place</a><br /><br />Some of the techniques we will be using is my understanding of MVVM and MVC.<br /><br />So hold on to your hats and procedd to getting started.<br /><br /><br /><b>Inspirational characters</b><br />Rudi Grobler - <a href=\"http://wpfthemes.codeplex.com/\">WPF Themes</a> - Some really cool themes for your site, thanks Rudi.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Unity,Wpf Unity,C#,Andrew van Dijk,",
+  "LastEdited": "2010-01-22T05:16:57.417-08:00"
+}

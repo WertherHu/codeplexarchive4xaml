@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssissshcomponents",
+  "Title": "SSIS SSH Components",
+  "Description": "SSIS control flow tasks for SFTP and executing shell commands along with an SSH connection manager.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>SSIS SSH Components</h1>\r\nThis package consists of two SSIS control flow tasks and one connection manager.<br /><br />This is the connection manager. Pretty self explanatory.<br /><img src=\"/projects/ssissshcomponents/94e91484-6355-4c84-8aba-ec593c61003b\" alt=\"connection_manager.png\" title=\"connection_manager.png\" /><br /><br />This is the execute command task. The command text is executed one line at a time on the host defined by the selected connection manager.<br /><img src=\"/projects/ssissshcomponents/02713341-9e26-4fba-9946-6acf0661f356\" alt=\"execute_command_task.png\" title=\"execute_command_task.png\" /><br /><br />This is the SFTP task in receive mode. The source file is downloaded from the host defined by the SSH Connection Manager to the directory defined by the Destination Connection Manager.<br /><img src=\"/projects/ssissshcomponents/8071545a-430a-4a4d-bbe2-9092b3dbb6c7\" alt=\"ftp_receive.png\" title=\"ftp_receive.png\" /><br /><br />This is the SFTP task in send mode. The source file is uploaded to the host defined by the SSH Connection Manager from the directory defined by the Source Connection Manager. The uploaded file is placed in the Send Files Destination Directory on the host defined by the SSH Connection Manager.<br /><img src=\"/projects/ssissshcomponents/ad6737df-24a9-434c-9114-0a1635995f4a\" alt=\"ftp_send.png\" title=\"ftp_send.png\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-28T09:37:14.363-08:00"
+}

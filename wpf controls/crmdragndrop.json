@@ -1,0 +1,9 @@
+{
+  "ProjectName": "crmdragndrop",
+  "Title": "CrmXpress Drag-n-Drop Upload Control for Dynamics 365/CRM 2016/2015/2013",
+  "Description": "A Drag-n-Drop Upload Control For Dynamics CRM",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA Drag-n-Drop Upload Control For Dynamics 365/CRM<br>\r\n<br>\r\n<strong>This version of&nbsp;CrmXpress Drag-n-Drop Upload Control for Dynamics 365/CRM 2016/2015/2013 has been tested against Microsoft Dynamics 365/CRM 2016/2015/2013 On Premise and Online&nbsp;using Internet Explorer 11.</strong></p>\r\n<p><strong>System Requirements</strong></p>\r\n<ul>\r\n<li>Microsoft Dynamics 365/CRM 2016/2015/2013 </li><li>Microsoft Windows 7/8/8.1 or Microsoft Windows Server 2008 R2/2012 </li><li>Microsoft Internet Explorer 10/11 </li></ul>\r\n<p><strong>Visit : <a href=\"http://blog.crmxpress.net/\">http://blog.crmxpress.net</a> for more tools, tips and tricks.</strong></p>\r\n<p><strong>PS:&nbsp;Variant of this&nbsp;code was originally posted at <a title=\"http://blogs.msdn.com/b/chinmay/archive/2014/06/29/drag-n-drop-upload-control-for-dynamics-crm-2013.aspx\" href=\"http://blogs.msdn.com/b/chinmay/archive/2014/06/29/drag-n-drop-upload-control-for-dynamics-crm-2013.aspx\" target=\"_blank\">\r\nhttp://blogs.msdn.com/b/chinmay/archive/2014/06/29/drag-n-drop-upload-control-for-dynamics-crm-2013.aspx</a></strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-11-17T23:52:18.873-08:00"
+}

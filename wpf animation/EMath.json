@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EMath",
+  "Title": "EMath",
+  "Description": "PL: Program EMath pomaga w nauce matematyki.\r\nEN: EMath program helps in learn mathematic.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Education program <b><i>&quot;EMath&quot;</i></b></h1>\r\n<b>Project Description</b><br />PL&#58; Program EMath pomaga w nauce matematyki.<br />EN&#58; EMath program helps in learn mathematic.<br /><br /><b>PL:</b> W programie znajduje się obszerny podręcznik z zadaniami do samodzielnego wykonania. Projekt jest rozwijany i będzie sukcesywnie uzupełniany o dodatkowe informacje. Zalecamy pobieranie tylko stabilnych wersji.<br /><b>EN:</b> The program contains comprehensive quidebook with tasks aimed to be self-made. The project is currently being developed and will be gradually supplemented with additional information. It is highly reccomended to download only stable versions of the project.<br /><br /><b>PL:</b> Wymagania systemowe znajdują się na zakładce dokumentacja.<br /><b>EN:</b> System Requirements is in Documentation tab.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Education,Math,Mathematics,.NET 4.0,C# 4.0,Matematyka,Edukacja,Intrestiing,WPF,School Software,",
+  "LastEdited": "2011-02-02T16:04:33.897-08:00"
+}

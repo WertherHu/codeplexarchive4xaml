@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BloodGlucoseManage",
+  "Title": "Blood Glucose Manager",
+  "Description": "Blood Glucose Manager is a tool build in .net 3.5 with a WPF userinterface. The main focus of the project is to build an application that can manage blood glucose readings. It is designed to use reflection which makes it easy to extend the various types of readers (The glucose measurement devices 'hardware') supported and likewise extend the application with additional views on the readings returned from the devices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Blood Glucose Manager is a tool build in .net 3.5 with a WPF userinterface. The main focus of the project is to build an application that can manage blood glucose readings. It is designed to use reflection which makes it easy to extend the various types of readers &#40;The glucose measurement devices &#39;hardware&#39;&#41; supported and likewise extend the application with additional views on the readings returned from the devices.<br /><img src=\"/projects/BloodGlucoseManage/050ff2f2-a98a-47e2-a6b2-e0a71c12b86c\" alt=\"Graph.jpg\" title=\"Graph.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MediSense,Precision Xceed,MediSense Precision ,",
+  "LastEdited": "2008-01-02T15:17:35.487-08:00"
+}

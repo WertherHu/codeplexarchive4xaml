@@ -1,0 +1,9 @@
+{
+  "ProjectName": "multipointtuio",
+  "Title": "MultipointTUIO",
+  "Description": "Use multiple mouse to control TUIO based apps. I built this originally to test Multitouch Apps in Windows",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Multipoint TUIO</b><br /><br />MultiPoint TUIO is a tool for developers to test applications that make use of Multi-touch trackers that broadcast data using the TUIO protocol. The application is built for Windows XP / Vista using the Microsoft Multipoint SDK. This enables the user to interact with the application using multiple pointer devices, just like the Microsoft Surface SDK. This tool eases the process of building TUIO applications as it removes the need for testing your application using a true Multi-touch device. Take a look at http://multipointtuio.iamhigham.com/ for a demo vid...</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-30T06:19:32.01-08:00"
+}

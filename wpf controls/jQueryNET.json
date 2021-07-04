@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jQueryNET",
+  "Title": "ASP.NET AJAX jQuery Extension",
+  "Description": "ASP.NET AJAX jQuery Extension is components library based on ASP.NET AJAX Control Toolkit approach and jQuery javascript library  that simplifies HTML document traversing, event handling, animating, and Ajax interactions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET AJAX jQuery Extension is components library based on ASP.NET AJAX Control Toolkit approach and jQuery javascript library  that simplifies HTML document traversing, event handling, animating, and Ajax interactions.<br /><br /><b>jQuery.NET</b> aims to build collection of functional ASP.NET ajax components easy-to-use on server-side and client-side ajax programming. Main feature of this projects is combine <a href=\"http://ajaxcontroltoolkit.codeplex.com\">ASP.NET AJAX Control Toolkit</a> approach and <a href=\"http://www.jquery.com\">jQuery</a> JavaScript library.<br /><br />ASP.NET AJAX Control Toolkit  suggest an elegant way how to create ASP.NET ajax component. Base classes for control and extender, attributes and designers is decision for server-side programming and Microsoft AJAX for client-side. But some disappointments relating to Microsoft AJAX pure functionality to traverse and control HTML document suggest idea of using jQuery javascript library on client-side.<br /><br />jQueryNET supports all major web browsers including:\n<ul><li>Internet Explorer 6+</li>\n<li>Firefox 2+ (PC, Mac)</li>\n<li>Safari 3+</li>\n<li>Opera 9+ (PC, Mac)</li>\n<li>Chrome</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ajax,jQuery,ASP.NET,ASP.NET Control,ASP.NET Ajax,",
+  "LastEdited": "2009-06-28T11:35:28.72-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverdollarprism",
+  "Title": "SilverDollar PRISM Extensions",
+  "Description": "extensions for PRISM for Windows Store Apps\r\n\r\n1. Support Windows 8.1 XAML Framework Changes\r\n2. Additional features\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">We use PRISM for Windows Store in our apps. We think it&#39;s good but could be better. Here is how we think PRISM should work inside Windows Store apps.<br /><br />Enjoy.<br /><br />Please be advised that his is a fork from the original PRISM for Windows Store codebase provided by Microsoft P&amp;P. We offer no warranty and make no claims for the source code provided on this web site. We are merely offering our modifications to PRISM for Windows Store back to the community for your use in your Windows Store projects.<br /><br />If you have questions for feedback please contact support@silverdollar-software.com.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-16T23:12:58.923-08:00"
+}

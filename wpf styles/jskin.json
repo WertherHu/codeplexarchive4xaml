@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jskin",
+  "Title": "JSkin C# WinForms Skin Library",
+  "Description": "jSkin is .NET Winforms Skin Library that allows you to decorate your Formborder with custom style. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>jSkin - Custom Window Skin Library for .NET Winforms</h1>\r\njSkin is .NET Winforms Skin Library that allows you to decorate your Formborder with custom style.<br />This library is compatible to .NET Framework 3.5/4.0 in C# and VB.NET language.  <br /><br /><img src=\"/projects/jskin/65ba65e0-7edf-4624-886f-8e15a51cb265\" alt=\"image.png\" title=\"image.png\" /><br />\n<h2>Features</h2>\r\n<ul><li>Apply skin by simply adding the control to the form</li>\n<li>Alter the Form Text or ICON by changing the property of the Form</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Winforms,Skin,jSkin,Usercontrol,",
+  "LastEdited": "2013-03-31T09:13:33.197-07:00"
+}

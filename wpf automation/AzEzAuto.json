@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AzEzAuto",
+  "Title": "Azure Easy Automation",
+  "Description": "This project is to automate the provision and deployment of the Azure using management apis. This can be easily integrated with release management process.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is to automate the provision and deployment of the Azure using management apis. This can be easily integrated with release management process.<br /><br /><br />Follow this link for documentation <a href=\"http://www.codetails.com/slolam/automate-orchestrate-azure-deployment/20130625\">http://www.codetails.com/slolam/automate-orchestrate-azure-deployment/20130625</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-07-11T14:14:01.417-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TableView",
+  "Title": "WPF Table View",
+  "Description": "WPF DataGrid replacement. \r\nSimple WPF control to display a table of data with improved performance.\r\nDeveloped in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />WPF DataGrid replacement. <br />Simple WPF control to display a table of data with improved performance.<br />Developed in C&#35;.<br /><br />TableView is a simple WPF data grid like control. It came about due to perceived complexity and performance issues with the existing WPF DataGrid and other commercial grid controls. <br />TableView is designed to just display large quantities of data in a grid/table format without a lot of bells and whistles.<br /><br />Built using .net 3.5 and VS2010.<br /><br />This is a beta project, TableView does everything that I need it to do and not much else. Having said that WPF is flexible enough that there are many ways to extend the functionallity of TableView without changes to the existing codebase. I&#39;m interested in suggestions or contributions for new features but I&#39;m keen to keep the control light weight and as simple as possible.<br /><br /><b>Key features</b><br /><br /> * Displays data in a grid format with column headers.<br /> * Freeze one or more columns on the left hand side of the grid.<br /> * Based on a Virtualized row container to minimise resource usage with large data sets.<br /> * Simple column binding.<br /><br /><b>Version 1.0 beta</b><br /><br />Initial release into the public domain.<br /><br /><b>TableView Demo program</b><br /><br /><img src=\"/projects/TableView/361e9124-1633-46e0-9003-faa1d206eb4f\" alt=\"TableViewDemo.png\" title=\"TableViewDemo.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,.NET,.NET 3.5,.NET 4.0,C#,Grid,DataGrid,WPF Table View,",
+  "LastEdited": "2012-03-14T06:55:04.187-07:00"
+}

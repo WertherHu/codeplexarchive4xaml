@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stat",
+  "Title": "SharePoint Total Automation Toolkit",
+  "Description": "The SharePoint Total Automation Toolkit is a set of data driven tools designed to automate all aspects of SharePoint installation and custom solution deployment",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The SharePoint Total Automation Toolkit is a set of data driven tools designed to automate all aspects of SharePoint installation and custom solution deployment<br /><br />A detailed description of the project is available at the <a href=\"http://www.allthingsmicrosoft.com\">All Things Microsoft Blog</a> here:<br />     <a href=\"http://www.allthingsmicrosoft.com/2014/02/sharepoint-total-automation-toolkit-overview/\">SharePoint Total Automation Toolkit Overview</a><br /><br /><br />The help files containing the command syntax and configuration file formats are available here:<br />     <a href=\"http://www.allthingsmicrosoft.com/stat/help/default.html\">SharePoint Total Automation Toolkit Command Reference</a><br />(Please keep in mind these are still a work in progress while the project is in Alpha)<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,PowerShell,",
+  "LastEdited": "2014-02-10T09:11:46.91-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bouncesample",
+  "Title": "BounceSample",
+  "Description": "Bouncesample is a basic framework for creating Silverlight-based Windows Phone 7 games which meet the mandate that two presses of the Back button exit the user out of the game. It contains a Main Menu, an Options Menu, a \"Game\", and a Pause Menu.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Bouncesample is a basic framework for creating Silverlight-based Windows Phone 7 games which meet the mandate that two presses of the Back button exit the user out of the game. It contains a Main Menu, an Options Menu, a &#34;Game&#34;, and a Pause Menu.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wp7dev,WP7,Silverlight,",
+  "LastEdited": "2010-08-22T12:53:41.943-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wtfmanager",
+  "Title": "WTFManager",
+  "Description": "Wtf Manager Framework is an application framework for building extensible applications. An application built on Wtf Framework may consist of many different modules, which provide different kinds of functionality through Module Services and Service Extensions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Wtf Manager Framework is an application framework for building extensible applications. An application built on Wtf Framework may consist of many different modules, which provide different kinds of functionality through Module Services and Service Extensions.<br /><br />Currently Wtf Manager Framework is used to build a set of File Manager modules.<br />Wtf Manager UI Modules are being built on <a href=\"http://avalondock.codeplex.com/\">AvalonDock Library</a>.<br /><br /><b>Project Status</b><br />Abandoned. :( The project code is quite old and requires a lot of effort to update it to the current technologies and tools. It was started in an effort to learn WPF and long before MVVM frameworks matured, so it&#39;s code doesn&#39;t add any value for today&#39;s developers. It might be interesting as a set of Win API examples, though.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,File System,File manager,Win32,.NET 3.5,",
+  "LastEdited": "2013-04-09T02:17:10.197-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shoutcastmss",
+  "Title": "Shoutcast MediaStreamSource",
+  "Description": "Shoutcast MediaStreamSource is a MediaStreamSource implementation of the Shoutcast protocol for Silverlight.  This MediaStreamSource allows both Silverlight 4+ OOB and Windows Phone 7 applications to consume a Shoutcast stream using a MediaElement.\r\n\r\nCurrently, Mp3 and AAC+ Shoutcast streams are supported on Windows Phone.  However, ONLY Mp3 is supported on Desktop Silverlight.\r\n\r\nThere is also limited (i.e. somewhat untested) M3u and PLS playlist support.\r\n\r\nPlease report any issues playing Shoutcast streams with the following: \r\n* URI to the problem stream\r\n* Description of the problem\r\n* The error returned (or not!) from the Shoutcast MediaStreamSource\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Shoutcast MediaStreamSource is a MediaStreamSource implementation of the Shoutcast protocol for Silverlight.  This MediaStreamSource allows both Silverlight 4&#43; OOB and Windows Phone 7 applications to consume a Shoutcast stream using a MediaElement.<br /><br />Currently, Mp3 and AAC&#43; Shoutcast streams are supported on Windows Phone.  However, ONLY Mp3 is supported on Desktop Silverlight.<br /><br />There is also limited &#40;i.e. somewhat untested&#41; M3u and PLS playlist support.<br /><br />Please report any issues playing Shoutcast streams with the following&#58; <br />&#42; URI to the problem stream<br />&#42; Description of the problem<br />&#42; The error returned &#40;or not&#33;&#41; from the Shoutcast MediaStreamSource<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Shoutcast,mediastreamsource,streaming,Streaming Media,mp3,windows phone 7,",
+  "LastEdited": "2012-03-22T12:27:08.47-07:00"
+}

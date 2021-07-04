@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mystore",
+  "Title": "MyStore",
+  "Description": "Sample project that demonstrates Windows Phone 7 Best Practices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>My Store</b> is a sample Windows Phone application that was used during the Techdays 2012 french event to demonstrate Windows Phone development best practices.<br /><br />We will publish more information about how we have developed the application as soon as possible :)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,reference,best practice,best practices,tile,animation,design,tombstoning,error handling,",
+  "LastEdited": "2012-02-24T06:22:29.443-08:00"
+}

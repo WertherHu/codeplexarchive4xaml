@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prismmvc",
+  "Title": "PrismMVC for enterprise applications",
+  "Description": "PrismMVC is a framework based on Microsoft PRISM for the development of WPF and Silverlight enterprise-class applications. PrismMVC implements MVC and MVVM patterns.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PrismMVC is a framework based on Microsoft PRISM for the development of WPF and Silverlight enterprise-class applications. PrismMVC implements MVC and MVVM patterns.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Silverlight,Enterprise,PRISM,MVC,MVVM,Controller,",
+  "LastEdited": "2011-04-10T16:51:22.103-07:00"
+}

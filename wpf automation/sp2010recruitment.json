@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sp2010recruitment",
+  "Title": "Simple Recruitment solution for SharePoint 2010",
+  "Description": "Our Recruitment solution for SharePoint 2010 helps track open positions, candidates, and automate recruitment processes. Users can easily customize recruitment workflows right from the app without any advanced skills.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>Project Description</h3>\rOur Recruitment solution for SharePoint 2010 helps track open positions, candidates, and automate recruitment processes. Users can easily customize recruitment workflows right from the app without any advanced skills.<br />\n<h3>Feature summary</h3>\r<ul><li>Keep track of open positions</li>\n<li>Keep track of candidates</li>\n<li>Organize CVs and other information</li>\n<li>Define recruitment workflows</li>\n<li>Assign tasks and collect results of interviews or tests</li>\n<li>Examine hiring history through statistics</li></ul>\n\n<h3>Contact</h3>\rThis software was created by <a href=\"http://www.boldbrick.com\">BoldBrick</a>. Feel free to <a href=\"mailto:codeplex@boldbrick.com\">contact us</a> with any questions or inquiries.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,workflow,automation,Recruitment,HR,SharePoint 2010,",
+  "LastEdited": "2011-06-22T15:56:10.45-07:00"
+}

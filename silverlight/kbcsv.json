@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kbcsv",
+  "Title": "KBCsv",
+  "Description": "A .NET CSV parsing and writing library that has great performance, is light-weight and easy to use.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project has moved to <a href=\"https://github.com/kentcb/KBCsv\">GitHub</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "csv,.NET,library,csv reader,mono,Silverlight,NuGet,Tabillo,",
+  "LastEdited": "2015-01-07T23:16:55.22-08:00"
+}

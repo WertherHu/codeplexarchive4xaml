@@ -1,0 +1,9 @@
+{
+  "ProjectName": "csmpfit",
+  "Title": "csmpfit - A Least Squares Optimization Library in C# (C Sharp)",
+  "Description": "A C# port of the C-based mpfit Levenberg Marquardt solver at Argonne National Labs (http://cow.physics.wisc.edu/~craigm/idl/cmpfit.html), including both desktop .NET and Silverlight project libraries.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>ATTENTION: THIS PROJECT HAS BEEN MOVED TO GITHUB!</h1>\r\n<b>All new development, including Portable Class Library and .NET Core support, can be tracked <a href=\"https://github.com/cureos/csmpfit\">here</a>.</b><br /><br /><br /><b>Project Description</b><br />A C&#35; port of the C-based mpfit Levenberg Marquardt solver at Argonne National Labs &#40;http&#58;&#47;&#47;cow.physics.wisc.edu&#47;&#126;craigm&#47;idl&#47;cmpfit.html&#41;, including both desktop .NET and Silverlight project libraries.<br /><br /><b>Credits</b><br /><i>csmpfit</i> is based on the following IDL and C <i>MPFit</i> libraries:<br /><br /><table><tr><td> Details </td><td> Levenberg-Marquardt nonlinear optimization library </td></tr>\n<tr><td> Website </td><td> http://www.physics.wisc.edu/~craigm/idl/idl.html </td></tr>\n<tr><td> License </td><td>\tPublic </td></tr>\n<tr><td> Credits </td><td>\tB. Garbow, K. Hillstrom, J. More&#39; (Argonne National Laboratory, MINPACK project, March 1980), C. Markwardt (Enhancements and packaging), S. Moshier (ported from Fortran to C) </td></tr></table><br /><br /><b>Additional Acknowledements</b><br /><i>csmpfit</i> was developed in collaboration with researchers at the <a href=\"http://virtualphotonics.codeplex.com\">Virtual Photonics Technology Initiative</a>. This work was made possible in part by the Laser Microbeam and Medical Program (LAMMP: P41 RR01192), an NIH/NCRR National Biomedical Technology Center.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-06-01T10:43:00.663-07:00"
+}

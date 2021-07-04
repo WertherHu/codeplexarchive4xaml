@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FeatureToggle",
+  "Title": "FeatureToggle",
+  "Description": "An antidote to source control branching sickness.\r\n\r\nSimple library using the Feature Toggle design/release/continuous integration pattern.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An antidote to source control branching sickness.<br /><br />Simple library using the Feature Toggle design&#47;release&#47;continuous integration pattern.<br /><br />\n<h1>This project has moved to: <a href=\"https://github.com/jason-roberts/FeatureToggle\">https://github.com/jason-roberts/FeatureToggle</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-25T20:09:15.777-08:00"
+}

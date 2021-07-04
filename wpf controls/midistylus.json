@@ -1,0 +1,9 @@
+{
+  "ProjectName": "midistylus",
+  "Title": "MidiStylus",
+  "Description": "MidiStylus allows you to control MIDI-enabled hardware or software using your pressure-sensitive pen tablet.\n\nThe program maps the X position, Y position, and pressure values from the pen tablet to 3 MIDI control values that the user specifies.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MidiStylus</b><br />Current Version 0.5.1 BETA<br /><br />MidiStylus allows you to control MIDI-enabled hardware or software using your pressure-sensitive pen tablet.<br /><br />The program maps the X position, Y position, and pressure values from the pen tablet to 3 MIDI control values that the user specifies.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-08T07:41:30.283-08:00"
+}

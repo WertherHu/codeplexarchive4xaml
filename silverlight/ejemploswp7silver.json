@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ejemploswp7silver",
+  "Title": "Ejemplos WP7 Silverlight",
+  "Description": "Los ejemplos en silverlight para WP7 pueden servir de base de las aplicaciones más comunes.\nTodos los ejemplos son en lenguaje C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Descripci&#243;n del proyecto</b><br />Los ejemplos en silverlight para WP7 pueden servir de base de las aplicaciones m&#225;s comunes.<br />Todos los ejemplos son en lenguaje C&#35;.<br /><br /><br /><b>Listado de ejemplos</b>\n<ol><li>Canal de noticias (<i>en curso</i>): un ejemplo sencillo de c&#243;mo crear un canal de noticias con v&#237;deos incrustados\n<ol><li><a href=\"http://www.cristalab.com/tutoriales/tutorial-de-desarrollo-de-aplicaciones-para-windows-phone-7-c94140l/\">creaci&#243;n del canal de noticias</a></li>\n<li><a href=\"http://www.cristalab.com/tutoriales/programacion-para-windows-phone-7-interfaz-y-diseno-c94787l/\">Mejoras visuales y navegaci&#243;n</a></li>\n<li><a href=\"http://www.cristalab.com/tutoriales/programacion-para-windows-phone-7-guardar-el-estado-c95639l/\">Guardar el estado (tombstoning)</a></li>\n<li><a href=\"http://www.cristalab.com/tutoriales/programacion-para-windows-phone-7-mejorar-el-rendimiento-c97700l/\">Mejoras de rendimiento</a></li>\n<li>(en curso) Interacci&#243;n con otros servicios</li>\n<li>(en proyecto) Preparaci&#243;n para el Marketplace</li></ol></li></ol>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-02T04:29:13.757-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmstack",
+  "Title": "MVVM Stack for WinJS",
+  "Description": "A set of reusable WinJS classes that helps you creating Windows Store Applications using MVVM Pattern.\r\n-Supports suspend/resume\r\n-Messaging\r\n-Blendability",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A set of reusable WinJS classes that helps you creating Windows Store Applications using MVVM Pattern.<br />-Supports suspend&#47;resume<br />-Messaging<br />-Blendability<br /><br /><br />A reusable set of javascript classes for creating Windows Store apps using MVVM Pattern.<br />\n<h2>Documentation</h2>\rInside Documentation area you&#39;ll find a series of blog posts describin how the stack works and how to use it in your WinJS applications</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-25T23:58:23.113-07:00"
+}

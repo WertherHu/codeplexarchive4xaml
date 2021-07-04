@@ -1,0 +1,9 @@
+{
+  "ProjectName": "robotrules",
+  "Title": "WWW RobotRules - Robot.txt parser",
+  "Description": "This library provides the support of the robots.txt files and respect the standard : http://www.robotstxt.org/wc/robots.html.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>A Simple and Powerful Library to Deal with Web Robots Control Strategy.</h1>\rThis is a simple library to parse robots.txt and robots meta tag. The library fully respects the RFC 1808 and the RFC 1945<br /><br />Code project article : <a href=\"http://www.codeproject.com/Tips/740073/A-Simple-and-Powerful-Library-to-Deal-with-Web-Rob\">http://www.codeproject.com/Tips/740073/A-Simple-and-Powerful-Library-to-Deal-with-Web-Rob</a><br /><br /><img src=\"http://blog.appharbor.com/resources/images/nuget.png\" /><br /><br /><a href=\"https://www.nuget.org/packages/RobotRules/\">https://www.nuget.org/packages/RobotRules/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "engine,web,Search,Robots,webcrawler,crawler,web crawler,WWW,spider,robot,robottxt,rules,search engine,robots.txt,bluecurve,roborules,robotrules,WWW RobotRules,robot control file,perl WWW:::RobotRule,WWW:::RobotRules,RETURN,",
+  "LastEdited": "2014-03-07T14:56:41.513-08:00"
+}

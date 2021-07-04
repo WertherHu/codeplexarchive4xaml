@@ -1,0 +1,9 @@
+{
+  "ProjectName": "datavirtualizaton",
+  "Title": "Data Virtualization in WPF",
+  "Description": "Data virtualization so that when dealing with very large data set (10K+ rows with 20+columns) it only loads required data into memory",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Data virtualization so that when dealing with very large data set &#40;10K&#43; rows with 20&#43;columns&#41; it only loads required data into memory<br /><br />Still in POC, will try to finish this up sooon<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-23T02:18:36.093-08:00"
+}

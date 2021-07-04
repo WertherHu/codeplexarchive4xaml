@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Skill",
+  "Title": "Skill",
+  "Description": "A middle-ware for Unity3D, Skill implements useful AI scripts and algorithms to be used in games.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Welcome to Skill</p>\r\n<p><br>\r\n<strong>Project Description</strong><br>\r\nA middle-ware for Unity3D, Skill implements useful AI scripts and algorithms to be used in games.</p>\r\n<p>download latest source code&nbsp;<a title=\"Source\" href=\"https://skill.codeplex.com/SourceControl/list/changesets\" target=\"_blank\">Here</a></p>\r\n<p>download latest skill unitypackage and sample&nbsp;<a href=\"https://skill.codeplex.com/releases/view/611321\" target=\"_blank\">Here</a></p>\r\n<p><strong>Features</strong></p>\r\n<ul>\r\n<li>BehaviorTree </li><li>AnimationTree </li><li>AudioController </li><li>UI controls </li><li>Editor UI controls </li><li>SaveGame&nbsp;Serialization </li><li>Persian text </li><li>Implant </li><li>Distance tool </li><li>Curve Editor </li><li>Subtitle Editor, Renderer </li><li>Localization Dictionary Editor </li><li>Matinee Editor </li><li>Copy Components tool </li><li>Move and Duplicate tool </li><li>Paint Color(texture) on mesh </li><li>Batch mesh creator </li><li>3D Curves </li><li>Useful scripts like : AnimatorManager, Weapon, Cameras, Health,... </li><li>... </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,AI,Animation,AnimationTree,BehaviorTree,animation tree,behavior tree,Unity3D,unity,",
+  "LastEdited": "2015-02-11T08:25:27.193-08:00"
+}

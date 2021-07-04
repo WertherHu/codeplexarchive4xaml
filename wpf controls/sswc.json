@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sswc",
+  "Title": "Sitefinity Social Widgets Contrib",
+  "Description": "Sitefinity Social Widget Contrib makes it easier for GiveCamp Charities and other Sitefinity users to pull their social feeds into your site. You'll no longer have to build one off controls. It's developed in a combination of C# and JQuery.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Sitefinity Social Widget Contrib makes it easier for GiveCamp Charities and other Sitefinity users to pull their social feeds into your site. You&#39;ll no longer have to build one off controls. It&#39;s developed in a combination of C&#35; and JQuery.<br /><br /><b>Development Requirements</b><br />You will need Sitefinity 4.0 SDK or Sitefinity 4.0 Community Edition to modify or enhance the code in this project. You can download either of these by visiting the <a href=\"http://www.sitefinity.com/\">Telerik Sitefinity website</a>. You will find the needed assemblies to reference in the Sitefinity download.<br /><br /><b>Other References</b><br />This project makes use of the <a href=\"http://facebooksdk.codeplex.com\">Facebook SDK</a>, <a href=\"http://jqueryimagerotator.codeplex.com\">jQuery Image Rotator Plugin</a>, and <a href=\"http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/\">prettyPhoto</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-25T19:19:54.6-08:00"
+}

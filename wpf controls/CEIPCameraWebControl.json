@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CEIPCameraWebControl",
+  "Title": "Web Control for DPWS Discovery and Streaming from Prototype Windows CE IP Camera",
+  "Description": "This project consists of a Web Control (ActiveX) that provides 2 main functions;\r\n\r\n1) Automatic Discovery using DPWS / WSD to detect Prototype Windows CE IP Network cam on the subnet.\r\n\r\n2) JPEG video streaming from device using discovery infomation to setup stream (DirectX).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">NOTE: Project requires an IP Camera that implements WSD on the same subnet.<br /><br /><b>Project Description</b><br />This project consists of a Web Control &#40;ActiveX&#41; that provides 2 main functions&#59;<br /><br />1&#41; Automatic Discovery using DPWS &#47; WSD to detect Prototype Windows CE IP Network cam on the subnet.<br /><br />2&#41; JPEG video streaming from device using discovery infomation to setup stream &#40;DirectX&#41;.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-15T15:40:59.99-08:00"
+}

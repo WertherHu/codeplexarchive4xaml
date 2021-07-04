@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sqliteportable",
+  "Title": "SQLite Portable Library (Windows 8.1, Windows Phone 8.0, Windows Phone 8.1)",
+  "Description": "This portable class library for SQLite available for Windows 8.1, Windows Phone Silverlight 8 and Windows Phone 8.1",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>SQLite provides a self-contained, server less, zero-configuration, transactional SQL database engine.\r\n<br>\r\n<br>\r\nThe SQLite product is a native extension and therefore the .NET developer has to wrap differently the code across different Windows platforms.<br>\r\n<br>\r\nThis portable class library for SQLite available as NuGet package (<a href=\"https://www.nuget.org/packages/SQLitePortable\">https://www.nuget.org/packages/SQLitePortable</a>) simplifies the installation and development experience for .NET developers by providing\r\n a single interface across Windows Phone 8 (Silverlight based), Windows Phone 8.1 (Runtime based) and Windows Store (8.0 and 8.1).</p>\r\n<p>Requirements for Windows Store Apps:</p>\r\n<ol>\r\n<li>Platform:&nbsp;x86, x64, ARM (Any CPU is not supported) </li><li>Microsoft Visual C&#43;&#43; 2013 Runtime Package for Windows </li><li>SQLite for Windows Runtime </li></ol>\r\n<p>Requirements for Windows Phone Store Apps:</p>\r\n<ol>\r\n<li>Platform: x86, ARM&nbsp;(Any CPU is not supported) </li><li>Microsoft Visual C&#43;&#43; 2013 Runtime Package for Windows Phone </li><li>SQLite for Windows Phone 8.1 </li></ol>\r\n<p>Requirements for Windows Phone 8 Silverlight:</p>\r\n<ol>\r\n<li>Platform: x86, ARM&nbsp;(Any CPU is not supported) </li><li>SQLite for Windows Phone </li></ol>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-02T09:46:51.627-07:00"
+}

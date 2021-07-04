@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flexsetup",
+  "Title": "FleXSetup",
+  "Description": "FleXSetup is a collection of WiX (Windows Installer XML) automation tools that make life easier for WiX developers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />FleXSetup is a collection of WiX &#40;Windows Installer XML&#41; automation tools that make life easier for WiX developers.<br /><br /><b>FleXSetup: Professional tools for professional setup developers</b><br /><br /><b>Currently Available Tools</b><br />- SimpleSfx: a free, open-source self-extractor builder<br />- Unpacker: pure Win32 self-extractor used as part of SimpleSfx (<b>does not require .NET Framework!</b>)<br />- MSIDiff: a tool that compares two MSIs<br />- WiXFileTool: generates WiX file definitions and component definitions for a collection of files<br /><br /><b>Possible Future Tools</b><br />- Patch maker: a simple wizard that generates a WiX PCP project from two MSI files<br />- MSIValidator: a tool that validates an MSI against a .cub file<br /><br /><b>About Dacris Software</b><br />Dacris Software Inc. is a Canadian ISV, founded by Dan Tohatan in 1999 to create powerful software for IT professionals and technology enthusiasts. The company slogan is &quot;Optimize Life.&quot;<br /><a href=\"http://www.dacris.com\">http://www.dacris.com</a><br /><br /><b>Support Dacris Open-Source</b><br />Donations by Bitcoin can be made at this address: <b>1D56fS5ov3ZhtspWM4nXvrW5d69wphjkiQ</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WiX,",
+  "LastEdited": "2012-04-27T10:28:03.62-07:00"
+}

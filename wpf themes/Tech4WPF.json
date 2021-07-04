@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Tech4WPF",
+  "Title": "Tech4WPF",
+  "Description": "Tech4WPF make it easier for developers to create technical applications. You will no longer have to create your own user controlls like knobs, gauges and charts",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\r\nTech4WPF make it easier for developers to create technical applications. You will no longer have to create your own user controlls like knobs, gauges and simple charts. It&#39;s developed in C#/WPF.&#160;<br /><br />This project was inspirated by <i>Qwt - Qt Widgets for Technical Applications</i> <a href=\"http://qwt.sourceforge.net/\">http://qwt.sourceforge.net/</a>. It&#39;s not port, but similar project, creating controls for technical aplications using .NET framework, WPF and all benefits of this platform like binding etc.<br /><br />There are three basic controls:\n<ul><li><b>Gauge Control</b></li></ul>\n<img src=\"/projects/Tech4WPF/89e52f83-2680-4976-8258-18256ad07205\" alt=\"Gauge.jpg\" title=\"Gauge.jpg\" />\n<ul><li><b>Knob Control</b> </li></ul>\n<img src=\"/projects/Tech4WPF/c66b3707-53f0-4de4-8783-8402afe13307\" alt=\"Knob.jpg\" title=\"Knob.jpg\" />\n<ul><li><b>Chart Control</b></li></ul>\n<img src=\"/projects/Tech4WPF/060e5c0e-e221-4917-b7a1-0d9366c078aa\" alt=\"Chart.jpg\" title=\"Chart.jpg\" /><br /><br />Tech4WPF was created as a bachelor&#39;s thesis at Brno University of Technology, Faculty of Information Technology (Czech Republic).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF controls,User Controls,Controls Library,C#,WPF,Chart Control,Knob Control,Gauge Control,Technical Apps,",
+  "LastEdited": "2012-05-16T11:25:10.45-07:00"
+}

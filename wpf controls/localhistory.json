@@ -1,0 +1,9 @@
+{
+  "ProjectName": "localhistory",
+  "Title": "Local History for Visual Studio",
+  "Description": "Local History for Visual Studio automatically creates a history of your files every time they are saved. The history can be compared with the current version.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Local History for Visual Studio automatically creates a history of your files every time they are saved. The history can be compared with the current version.<br /><br /><b>Quick Start Guide</b>\n<ol><li>Right click on a project item and click Local History to display the history.</li>\n<li>Double-click the revision to compare it with the latest version.</li>\n<li>View your code differences, it&#39;s that easy.</li></ol>\n<img src=\"/projects/localhistory/f08e6962-0a97-48d1-8e0b-ca838e384772\" alt=\"vs_local_history_callout.png\" title=\"vs_local_history_callout.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Source Control,History,",
+  "LastEdited": "2013-10-31T15:05:48.713-07:00"
+}

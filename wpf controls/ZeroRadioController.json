@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ZeroRadioController",
+  "Title": "RadioController",
+  "Description": "This project started from people installing Tablets in Mustangs. You would typically loose most control of the radio. This projects brings that back!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is the page for the all code related to the RadioController by ZeroAviation<br /><br />This project uses Xarmin MonoDroid. You can download a free version of their software for development/debugging.<br /><br />The API commands to the hardware can be found here<br />MustangRadioControllerAPI.xlsx<br /><br />This software uses proprietary hardware only available from ZeroAviation.<br /><br />You are free to rebuild, fork, do whatever you want with the Software. Or build your own UI with the API.<br /><br />Interested in the Hardware? Contact me</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-28T12:30:12.27-07:00"
+}

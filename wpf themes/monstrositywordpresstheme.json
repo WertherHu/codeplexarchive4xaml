@@ -1,0 +1,9 @@
+{
+  "ProjectName": "monstrositywordpresstheme",
+  "Title": "Monstrosity Bootstrap Wordpress Theme",
+  "Description": "Bootstrap WordPress Stater theme. Uses Node.js and Grunt for concatenation, minify css, uglify and Image Resize.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Bootstrap starter WordPress theme</b><br />Bootstrap WordPress Stater theme. Uses Node.js and Grunt for concatenation, minify css, uglify and Image Resize.<br /><br />This is a starter theme for WordPress it is based on Bootstrap 3.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-20T05:03:54.46-08:00"
+}

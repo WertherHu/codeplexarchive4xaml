@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sqliter",
+  "Title": "SQLiter",
+  "Description": "An IDE for SQLite.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><strong>SQLiter</strong></h1>\r\n<p>This project is to learn WPF / Testing and get better at C# and at the same time create an awesome free client for SQLite databases.</p>\r\n<p>Thanks, Muhammad.</p>\r\n<p><strong>SCREENSHOT:</strong></p>\r\n<p><img src=\"/projects/sqliter/0e3c0151-8e95-45b6-bac2-28c58a123a51\" alt=\"screenshot\" width=\"800\" height=\"600\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sqlite,database,c#,wpf,",
+  "LastEdited": "2014-10-13T09:01:19.56-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnnradtagcloud",
+  "Title": "DNN Rad Tag Cloud",
+  "Description": "A module that uses Telerik's Tag Cloud control to display tags applied in a DotNetNuke install. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/dnnradtagcloud/d8d21bd2-230c-47d7-a37c-5166e72e64f2\" alt=\"DnnRadTagCloud.png\" title=\"DnnRadTagCloud.png\" /><br /><br /><b>Project Description</b><br />A module that uses Telerik&#39;s Tag Cloud control to display tags applied in a DotNetNuke install. <br /><br />This module allows complete control over the look and feel of your tag cloud. It requires DotNetNuke 5.6 or greater and a site that utilizes core tagging (managed under Admin -&gt; Taxonomy and requires skin object/third party module usage). <br /><br />You can view a live demo of the module here: <a href=\"http://www.chrispaterra.com/Modules/TagCloud.aspx\">http://www.chrispaterra.com/Modules/TagCloud.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotNetNuke,C#,",
+  "LastEdited": "2011-07-23T20:31:56.867-07:00"
+}

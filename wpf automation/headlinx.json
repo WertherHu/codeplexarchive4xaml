@@ -1,0 +1,9 @@
+{
+  "ProjectName": "headlinx",
+  "Title": "HeadLinx AD",
+  "Description": "HeadLinx AD lets you visually explore the relationships between people in your organization using the contact information in Active Directory.  The application was written in C# and utilizes the WPF framework available on .NET 3.0 and above.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rHeadLinx AD lets you visually explore the relationships between people in your organization using the contact information in Active Directory.  The application was written in C&#35; and utilizes the WPF framework available on .NET 3.0 and above.<br /><br />New members please read the <a href=\"http://www.codeplex.com/headlinx/Thread/View.aspx?ThreadId=42490\">introduction</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "AD,",
+  "LastEdited": "2010-09-03T23:32:32.657-07:00"
+}

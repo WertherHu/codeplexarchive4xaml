@@ -1,0 +1,9 @@
+{
+  "ProjectName": "seotools",
+  "Title": "SEO Tools",
+  "Description": "This is a website containing some commonly used SEO tools. I have only added a blog ping utility at this time but there is more to come. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a website containing some commonly used SEO tools. I have only added a blog ping utility at this time but there is more to come. <br /><br /><b>Jeremy&#39;s SEO Tools</b><br /><br />This is a collection of SEO tools for use on an ASP.Net website. Feel to free to add these to your own website or build a site from this solution.<br /><br />We currently have<br /><br />- Blog Pinger - Pings multiple blog update sites when you&#39;ve updated your blog<br />- Server Header Checker - check server headers to ensure accuracy for crawling<br /><br />Future plans:<br /><br />- Code to text ratio tool<br />- html compressor<br />- image optimizer<br />- keyword analyzer<br />- backlink checker<br /><br />This project is open to any suggestions or contributions. <br /><br />You can view the current version of this site here: <a href=\"http://seotools.ironfoundry.me\">Jeremy&#39;s SEO Tools on Iron Foundry</a>.<br /><br />These tools are created by  <a href=\"http://www.jeremymorgan.com\">Jeremy Morgan</a> as a suite of tools for my blog.<br /><br />I hope to be adding more soon<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,SEO,Tools,C# 4.0,C#,marketing,Marketing Automation,blog,blogging,",
+  "LastEdited": "2012-11-13T01:39:07.87-08:00"
+}

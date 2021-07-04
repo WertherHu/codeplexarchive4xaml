@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xllrange",
+  "Title": "Excel add-in for ranges",
+  "Description": "Slice, dice, and splice Excel ranges to your hearts content. Use RANGE.KEY to do \"named argument\" style programing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>Range functions for Excel</h2>\r\n<p>This project is similar to <a href=\"http://xllarray.codeplex.com\">xllarray.codeplex.com</a> except it provides operations on Excel ranges instead of arrays of numbers.</p>\r\n<p>If I had a nickle for every time someone asked me if I could add functionality to\r\n<a href=\"xll.codeplex.com\">xll.codeplex.com</a> that would allow &quot;named arguments&quot; I'd have enough money to go up and see Mae. Well, now you've got it.</p>\r\n<p>The function <code>RANGE.KEY</code> takes a two column range and a string key and returns the value in the second column corresponding to an exact match in the first column. If no match is found it returns an\r\n<code>OPER</code> of xltypeMissing so that everything works like it ought to. It is just a simple wrapper around\r\n<code>VLOOKUP</code></p>\r\n<p>&quot;But wait, Keith, what if I have hierarchical data?&quot; No problemo. Just use values that are returned by\r\n<code>RANGE.SET</code> and you can get at your data with <code>RANGE.KEY(&quot;subkey&quot;, RANGE.KEY(&quot;key&quot;, Range))</code> and the function will arrange a call to\r\n<code>RANGE.GET</code> for you.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-09T15:44:11.59-07:00"
+}

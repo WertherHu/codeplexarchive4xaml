@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MiniTwitter",
+  "Title": "MiniTwitter",
+  "Description": "MiniTwitter is a free Twitter client for .NET Framework 4.5 installed PC. It's developed in C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>MiniTwitter</h1>\rMiniTwitter is a free Twitter client for .NET Framework 4.5 installed PC. It&#39;s developed in C&#35;<br />\n<h2>News</h2>\rMiniTwitter <a href=\"https://minitwitter.codeplex.com/releases/view/616694\">1.10.0</a> released. required <b>.NET Framework 4.6</b><br />\n<h2>Features</h2>\r<ul><li>User Streams</li>\n<li>Lists</li>\n<li>Search Timeline</li>\n<li>OAuth</li></ul>\n\n<h2>Documentation</h2>\r<ul><li>Context Menu</li>\n<li>Customize Keyboard Shortcuts</li>\n<li>Add New Timeline</li>\n<li>Auto Complete</li></ul>\n\n<h2>Screenshot</h2>\r<img src=\"/projects/MiniTwitter/4b8311ab-f5fb-4f75-95c6-845fb955a4f2\" alt=\"screenshot.png\" title=\"screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,twitter,",
+  "LastEdited": "2015-08-08T22:02:11.34-07:00"
+}

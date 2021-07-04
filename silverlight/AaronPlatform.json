@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AaronPlatform",
+  "Title": "The aaron application platform - all you need to create business solutions",
+  "Description": "The aaron application platform offers a fundament to create individual business solutions with VisualStudio.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The aaron application platform offers a fundament to create individual business solutions with VisualStudio.<br /><br /><br /><b>Overview</b><br /><br />- contains 3 &#39;ready to use&#39; frontends (WinForms, ASP.NET and Silverlight)<br />- includes a complete User- and Permission administration<br />- supports multi-language translation<br />- allows future releases compatable source code extension (i.g. by using partial classes)<br />- is extendable by adding user controls (works like a CMS)<br />- comes with it&#39;s own O/R mapper<br /><br />Homepage :<br /><a href=\"http://www.aaron-platform.net\">http://www.aaron-platform.net</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ERP System,CMS,ASP.NET,C#,O/R Mapper,aaronERP,Silverlight,SAAS platform,",
+  "LastEdited": "2011-05-23T06:55:43.273-07:00"
+}

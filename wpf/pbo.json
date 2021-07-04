@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pbo",
+  "Title": "Pokemon Battle Online",
+  "Description": "Pokemon Battle Online is an Client/Server based Pokemon Battle Simulator. PBO supports multi-language but we currently focus on Chinese.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>欢迎来到Pokemon Battle Online</h1>\r\n<hr>\r\n<p><strong>&nbsp;<a href=\"https://pbo.codeplex.com/releases/view/616586\">Pokemon Battle Online v6.1(ORAS &#43; 4P) 测试版</a></strong></p>\r\n<ul>\r\n<li style=\"color:#ae1aff; font-weight:bold\">欢迎连接服务器 --&gt; pbo.sunoru.com </li><li>游戏版本更新到ORAS </li><li>追加合作对战模式与观战功能 </li></ul>\r\n<h3>&nbsp;<img src=\"/projects/pbo/aac6d78e-0190-44ce-83f1-2e20091a000c\" alt=\"PBO Multi Battle\" width=\"706\" height=\"509\"></h3>\r\n<p>&nbsp;</p>\r\n<hr>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,game,WPF,po替代品,",
+  "LastEdited": "2015-11-06T07:16:27.5-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "clarity",
+  "Title": "Clarity",
+  "Description": "This project allows you to quickly develop applications using a core framework that incorporates various patterns including MVVM, MessageBus, IOC/DI and more.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThis project allows you to quickly develop applications using a core framework that incorporates various patterns including MVVM, MessageBus, IOC&#47;DI and more.<br /><br />This project currently caters for applications being developing using WPF or WinForms based business applications.<br /><br />Note that full WinForms support is still WIP.<br /><br /><b>The main features include :-</b><br />\n<ul><li>Comprehensive Model implementation including change tracking, validation and property change monitoring and delegation</li>\n<li>Loose coupling via the built-in MessageBus</li>\n<li>DesignTime View display, and automatic view resolution</li>\n<li>IOC/DI implementation</li>\n<li>Base Disposable implementation used throughout</li>\n<li>Built-in Model validation</li></ul>\n\n<h2>A Quick Look</h2>\r<img src=\"/projects/clarity/c9479ab4-312e-4dd2-adac-c3b2872d9189\" alt=\"PropertyChangedMonitoring.png\" title=\"PropertyChangedMonitoring.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-18T16:48:19.923-07:00"
+}

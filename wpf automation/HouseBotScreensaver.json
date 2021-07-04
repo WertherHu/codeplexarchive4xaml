@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HouseBotScreensaver",
+  "Title": "HouseBot Screensaver",
+  "Description": "This is a Windows Screensaver that will display device property and mode status from HouseBot home automation software.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This is a Windows Screensaver that will display device property and mode status from HouseBot home automation software.<br /><br />I use this screensaver as a &#39;smart&#39; bedside remote.  I have a USB 7&quot; LCD monitor that runs a software remote, when left for 1 minute the screensaver starts that displays the property values in my system time and house events devices.<br /><br />Settings page supports the following commands:<br /><br />GetPropertyValue( DeviceName, PropertyName )<br />GetPropertyValue( DeviceName, PropertyName, LineNumber )<br />GetModeState( ModeName )<br /><br /><b>PLEASE NOTE</b> This device requires the External Control Device installed in HouseBot and the HBControlMod.dll to be registered on the screensaver pc.  More information can be found within the HouseBot help files.<br /><br />Also requires .net framework 2.0<br /><br /><img src=\"/projects/HouseBotScreensaver/62f6aaad-f1f7-4291-a8df-2ecb5c09c783\" alt=\"housebotscreensaver.png\" title=\"housebotscreensaver.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-05T15:26:18.237-08:00"
+}

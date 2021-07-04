@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azuresearchscoringprofiles",
+  "Title": "Azure Search Scoring Profiles Demo",
+  "Description": "This is a C# Windows console application that uses fictional data to demonstrate the behaviors of scoring profiles in Azure Search. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This demo is no longer maintained.  For information on how to use the Scoring capabilities of Azure Search please visit <a href=\"https://github.com/Azure-Samples/search-dotnet-asp-net-mvc-jobs\">https://github.com/Azure-Samples/search-dotnet-asp-net-mvc-jobs</a> and for specific implementation, please visit <a href=\"https://github.com/Azure-Samples/search-dotnet-asp-net-mvc-jobs/blob/master/NYCJobsWeb/JobsSearch.cs\">https://github.com/Azure-Samples/search-dotnet-asp-net-mvc-jobs/blob/master/NYCJobsWeb/JobsSearch.cs</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure Search,",
+  "LastEdited": "2015-12-01T15:09:48.657-08:00"
+}

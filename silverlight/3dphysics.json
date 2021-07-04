@@ -1,0 +1,9 @@
+{
+  "ProjectName": "3dphysics",
+  "Title": "Silverlight 5 - 3D Physics",
+  "Description": "This project demonstrates 3D Physics in Silverlight 5 using Balder and JiglibX. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project demonstrates 3D Physics in Silverlight 5 using <a href=\"http://balder.codeplex.com\">Balder 3D</a> and <a href=\"http://jiglibx.codeplex.com\">JiglibX</a>. For more information, please see <a href=\"http://www.andybeaulieu.com/Home/tabid/67/EntryID/216/Default.aspx\">this blog post</a>.<br /><br /><div class=\"video\" style=\"text-align:Left\"><span class=\"player\"><object type=\"application/x-shockwave-flash\" height=\"480px\" width=\"800px\" classid=\"CLSID:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0\"><param name=\"movie\" value=\"http://www.youtube.com/v/VGzwJ9NnHKk\"></param><embed type=\"application/x-shockwave-flash\" height=\"480px\" width=\"800px\" src=\"http://www.youtube.com/v/VGzwJ9NnHKk\" pluginspage=\"http://macromedia.com/go/getflashplayer\" autoplay=\"false\" autostart=\"false\" /></object></span><br /><span class=\"external\"><a href=\"http://www.youtube.com/v/VGzwJ9NnHKk\" target=\"_blank\">Launch in another window</a></span></div><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-16T05:48:33.643-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WhiteBoard",
+  "Title": "WhiteBoard",
+  "Description": "*NittiTre WhiteBoard*\n\nWindows application that functions as a whiteboard on top of the screen, allowing you to write and paint on top of other applications. \n\n*Features:*\n* Five colors (rec, blue, green, black and white eraser)\n* Variable opacity on board from opaque to barely visible\n* Different sizes on WhiteBoard marker\n* Context menu (right clik) for ease of access\n* Onscreen controls in top left corner\n\n*Keyboard shotcuts*\n* Escape: end application\n* Page up/down: Increase, decrease opacity\n* Backspace: clear screen\n\nFurther features possible. Feel free to contribute. \n\nFor more information and screenshots, see [url:http://www.nittitre.no/]",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>NittiTre presents</h1>\r<h2>WhiteBoard</h2>\r\n<b>NittiTre WhiteBoard</b><br /><br />Windows application that functions as a whiteboard on top of the screen, allowing you to write and paint on top of other applications. <br /><br /><b>Features:</b>\n<ul><li>Five colors (rec, blue, green, black and white eraser)</li>\n<li>Variable opacity on board from opaque to barely visible</li>\n<li>Different sizes on WhiteBoard marker</li>\n<li>Context menu (right clik) for ease of access</li>\n<li>Onscreen controls in top left corner</li></ul>\n<br /><b>Keyboard shotcuts</b>\n<ul><li>Escape: end application</li>\n<li>Page up/down: Increase, decrease opacity</li>\n<li>Backspace: clear screen</li></ul>\n<br />Further features possible. Feel free to contribute. <br /><br />For more information and screenshots, see <a href=\"http://www.nittitre.no/\">http://www.nittitre.no/</a><br /><br />Author blog: <a href=\"http://furuknap.blogspot.com/\">http://furuknap.blogspot.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-11-11T19:28:52.123-08:00"
+}

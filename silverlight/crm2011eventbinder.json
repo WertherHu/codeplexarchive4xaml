@@ -1,0 +1,9 @@
+{
+  "ProjectName": "crm2011eventbinder",
+  "Title": "Microsoft Dynamics CRM 2011 Event Binder",
+  "Description": "Bind form events for CRM 2011 entities without drilling into a CRM form entity.  An easier way to manage CRM jJavascript events.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rBind form events to CRM 2011 entities without drilling into a CRM form entity. An easier way to manage CRM Javascript events.<br /><br /><img src=\"/projects/crm2011eventbinder/e547b02b-c210-4a00-b553-77a8132e997c\" alt=\"img1.png\" title=\"img1.png\" /><br />\n<h2>Features</h2>\r<ul><li>Modify events for forms, tabs and fields.</li>\n<li>Bind javascript web resources to forms.</li>\n<li>Change the order of web resources and events</li>\n<li>View javascript functions in web resources.</li>\n<li>Load, create, save and publish solutions.</li></ul>\n\n<h2>The Why</h2>\rThis project was created because I hate having to drill into an entity to modify its events and I wanted to get over the learning curve for creating extension programs in CRM 2011.<br />\n<h2>Release to Beta</h2>\rI was given a tight schedule to crank something out with-in 3 days.  I roughly put this application together and now I&#39;m correcting things as I find them.  I am using this to help out with a CRM 4.0 to CRM 2011 migration.  I&#39;m thinking I&#39;ll declare this application beta around December 2012.<br /><br /><b>All suggestions/comments are welcome.</b><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CRM 2011,CRM 2011 Javascript,CRM Extensions,CRM Helpers,CRM Developers,CRM Silverlight,Microsoft Dynamics,Dynamics CRM 2011,",
+  "LastEdited": "2012-09-28T06:29:31.297-07:00"
+}

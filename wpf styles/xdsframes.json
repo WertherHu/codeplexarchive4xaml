@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xdsframes",
+  "Title": "Cross domain workaround sample",
+  "Description": "This is an open source sample of how to achieve safe cross doman scripting between frames in a mashup style application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an open source sample of how to achieve safe cross doman scripting between frames in a mashup style application.<br /><br />This is sample code to accompany this blog post : <a href=\"http://www.deepcode.co.uk/2009/11/overcoming-cross-domain-issues-between.html\">http://www.deepcode.co.uk/2009/11/overcoming-cross-domain-issues-between.html</a><br /><br />In order to get this sample running, you&#39;ll need two dns names for your server (or entries in your hosts file) and two sites configuring in IIS to use these names and point to the two folders in the sample. The names you should configure are xsshost and xsschild, then configure IIS with two sites - one for http://xsshost:8090 and http://xsschild:8091*<br />\n<ul><li>You can use whatever you like, so long as they are seperate names/ports to simulate cross domain, but you will need to change the code to work with different names.</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-16T08:24:44.317-08:00"
+}

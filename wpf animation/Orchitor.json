@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Orchitor",
+  "Title": "Orchid Scene Editor",
+  "Description": "This project is a generic 3D editor.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is a generic 3D editor.<br /><br />This project is currently in setup mode and only available to project coordinators and developers. Once you have finished setting up your project you can publish it to make it available to all CodePlex visitors.<br /><br />There are three requirements before you publish:<br /><br />- Edit this page to provide information about your project<br />- Upload the initial source code for your project<br />- Add your project license<br />- Add summary to your project</div><div class=\"ClearBoth\"></div>",
+  "TagList": "3D,Editor,WPF,.NET 4.5,Ribbon 2013,",
+  "LastEdited": "2012-10-03T17:53:54.473-07:00"
+}

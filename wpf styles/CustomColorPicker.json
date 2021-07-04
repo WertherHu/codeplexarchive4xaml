@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CustomColorPicker",
+  "Title": "Custom WPF Color Picker Like Office 2007",
+  "Description": "This is a small WPF user control. It is a custom color picker like Office 2007 that can be used in WPF application for Providing users of the application to pick a color from a predefined pallete and an advanced picker for more custom colors. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>A Simple and stunning WPF Color Picker similar to that of office 2007</h2>\r\nThis project is currently in beta mode with a drag feature missing for the advanced color pallete window.<br /><br /><b>Features in this release :</b><br /><br />*Choose from a predefined color list<br />*Choose custom color from a pallete <br />*Adjust color opacity in the advanced color pattele<br />*MS Office 2007 Style looks<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-17T07:39:28.717-08:00"
+}

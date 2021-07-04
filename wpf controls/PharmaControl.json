@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PharmaControl",
+  "Title": "PharmaControl",
+  "Description": "Control básico administrativo de farmacías",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Programa de administraci&#243;n b&#225;sica para farmacias.<br /><br />La idea es tener un control b&#225;sico de farmac&#237;as que permita su administraci&#243;n sencilla y que pueda ejecutarse en cualquier equipo.<br /><br />This project is currently in setup mode and only available to project coordinators and developers. Once you have finished setting up your project you can publish it to make it available to all CodePlex visitors.<br /><br />There are three requirements before you publish:<br /><br />- Edit this page to provide information about your project<br />- Upload the initial source code for your project<br />- Add your project license<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-03T12:42:36.187-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XmlSorter",
+  "Title": "Xml Sorter",
+  "Description": "Xml Sorter is a tool than can sort all xml elements and attributes based on user needs. This operation is important before comparing xml documents.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nXML Sorter is a tool than can sort all xml elements and attributes based on user needs. This operation is important before comparing xml documents. Moreover, this project is simple and rich so it is very suitable for educational purposes as it involves the\r\n following approaches:</p>\r\n<ul>\r\n<li>XML </li><li>WPF </li><li>Generics </li><li>LINQ </li><li>Extension methods</li></ul>\r\n<p>For how to use the tool, you can refer to the “Documentation” tab.<br>\r\n<br>\r\n<br>\r\n<strong>&nbsp;</strong></p>\r\n<p><strong></strong></p>\r\n<p><img src=\"/projects/XmlSorter/dc026eab-d690-443b-b198-29263499bad8\"></p>\r\n<p>&nbsp;</p>\r\n<hr>\r\nThe project was initially created by <em><a href=\"mailto:abdelhamed@gmail.com\">Abdulhamed Shalaby</a></em></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XML,C#,WPF,Generics,LINQ,Extension methods,IEnumerable<>,XElement,XNode,XmlDocument,MethodInvoker,XmlAttribute,WebBrowser,",
+  "LastEdited": "2013-05-09T21:18:06.11-07:00"
+}

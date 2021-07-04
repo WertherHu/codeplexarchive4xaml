@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wcmf",
+  "Title": "WCMF - Windows Content Management Framework",
+  "Description": "WCMF is a framework that allows one to build CMS appllications that target the Windows platform (whereas a typical CMS system is usually web based).\r\nUsed technologies are MEF, WCF, WPF (including Silverlight) and Caliburn.Micro.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WCMF is a framework that allows one to build CMS appllications that target the Windows platform &#40;whereas a typical CMS system is usually web based&#41;.<br />Used technologies are MEF, WCF, WPF &#40;including Silverlight&#41; and Caliburn.Micro.<br /><br /><b>PLEASE don&#39;t vote yet</b>, untill the first beta is released;<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-28T09:40:01.963-08:00"
+}

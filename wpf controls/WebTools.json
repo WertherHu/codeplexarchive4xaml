@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WebTools",
+  "Title": "WebTools - XML XQuery class, ASP.NET Server Controls",
+  "Description": "A solution for storing serialized objects in an XML data type column and using XQuery to query into the serialized XML and retrieve records. Also includes the WebTools.UI library which is a collection of ASP.NET server controls for rollover images and other controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A solution for storing serialized objects in an XML data type column and using XQuery to query into the serialized XML and retrieve records. Also includes the WebTools.UI library which is a collection of ASP.NET server controls for rollover images and other controls.<br /><br /><b>XQuery</b><br />Microsoft SQL Server 2005 includes support for a column of data type XML, which means you can store XML in a column that can be queried using XPath expressions. The WebTools project includes a class called XQuery that will build a SQL statement that can execute an exist() query on the XML data type column, that executes an XPath expression to compare values. <i>View the TestWeb project to see an example of using the XQuery class to store serialized objects in the XML column.</i><br /><br /><b>NullDataReader</b><br />The WebTools project also includes a NullDataReader and SqlNullDataReader classes that wrap the functionality of IDataReader and allow you use the GetInt23, GetString methods with a column name, such as GetInt32(&quot;myColumn&quot;), and will return a default value if the column is DBNull.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,C#,Server Controls,XQuery,XML Data Type,SQL 2005,",
+  "LastEdited": "2007-05-21T11:34:13.143-07:00"
+}

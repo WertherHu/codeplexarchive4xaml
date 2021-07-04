@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamlinspector",
+  "Title": "XAML Inspector",
+  "Description": "XAML inspector is a cross platform visual debugger for XAML apps. Simply add the nuget package to inspect the visual tree, properties, resources and styles.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h4>Introduction</h4>\r\n<p>XAML inspector is&nbsp;a cross platform visual debugger for XAML apps.</p>\r\n<p>You can find all details about the project at <a href=\"http://www.xamlinspector.com/\">\r\nwww.xamlinspector.com</a></p>\r\n<h4>Alpha Preview of XAML Inspector available</h4>\r\n<p><a href=\"https://www.nuget.org/packages/XamlInspector/\">https://www.nuget.org/packages/XamlInspector/</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-19T02:52:09.163-08:00"
+}

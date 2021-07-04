@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GS1",
+  "Title": "GS1",
+  "Description": "D is a 2D game demo written in C++ and using an API : HAPI for the graphic part and the audio part. All the xml files are handled with tinyXML. It is a vertical scrolling shoot'em up where the player controls a dragon flying in Central Park.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Presentation<br /><br />D is a 2D game demo written in C++ and using an API : HAPI for the graphic part and the audio part. All the xml files are handled with tinyXML. It is a shoot&#39;em up with a vertical scrolling where the player controls a dragon flying in Central Park. The goal is to go through the level until the boss.<br /><br />Game Features<br /><br />    * Three levels of difficulties : the enemies can shoot and move faster.<br />    * Sound on/off.<br />    * Five different enemies following routes.<br />    * Vertical scrolling for backgrounds and clouds. It creates a parallax as the clouds go faster than the backgrounds.<br />    * Boss in 3 parts attacking from different points.<br />    * Every component is black boxed so reusable for a different game (singleton pattern and factory pattern).<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-06T02:29:28.897-08:00"
+}

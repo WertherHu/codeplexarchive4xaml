@@ -1,0 +1,9 @@
+{
+  "ProjectName": "elementoverlay",
+  "Title": "Element Overlay ASP.NET Extender Control",
+  "Description": "The Element Overlay ASP.NET extender control extends the Dynamic Populate Extender (from the Ajax Control Toolkit) to display dynamic content superimposed over a specified HTML page element with a wash-out effect similar in the Modal Popup extender.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Element Overlay ASP.NET extender control extends the Dynamic Populate Extender &#40;from the Ajax Control Toolkit&#41; to display dynamic content superimposed over a specified HTML page element with a wash-out effect similar in the Modal Popup extender.<br /><br /><b>Features</b>\n<ul><li>Crunched JavaScript</li>\n<li>Showing, hidden and populated client events</li>\n<li>Inherits Dynamic Populate functionality</li></ul>\n<br /><b>Requirements</b>\n<ul><li>AjaxControlToolkit version 4.1.404</li>\n<li>Microsoft Ajax Minifier</li>\n<li>.NET 4.0 (can be downgraded to 3.5 or 2.0 if needed)</li></ul>\n<br /><b>Example</b><br />A sample application is provided to demonstrate the extender&#39;s capabilities.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-06-22T10:51:07.317-07:00"
+}

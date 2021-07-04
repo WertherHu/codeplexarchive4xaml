@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iPhonemenue",
+  "Title": "iPhone style silverlight 3.0 menu",
+  "Description": "The silverlight 4.0 menue control that allowes \"drill through\". It slides iPhone style right and left.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This component shell will be used as a side navigation to give your page more iPhone/iPod look and feel. Large buttons will slide horizontally or vertically as user clicks the button and each button contains next level of buttons etc. By clicking left and right you can traverse from grandparent to child. This is proof of concept in Silverlight 3.0.<br /><br />Ross Brodskiy</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Silverlight,controls,Menu,",
+  "LastEdited": "2010-01-12T23:09:34.917-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DSLisp",
+  "Title": "DSLisp",
+  "Description": "DSLisp is an interpreted language and host that integrates with .NET.\n\nLanguage features:\n\n* Lisp style Macro support\n* Lambdas\n* Tail recursion\n* Big integers\n\nHost features:\n\n* .NET integration , interact with .NET objects or external .NET resources\n* Single step debugging\n* Custom call stack \n\n\nDSLisp is intended for two different purposes:\n\n* To act as a Lisp inspired scripting language with full .NET support.\n\n* To let custom Doman Specific Languages \"compile\" into the DSLisp AST.\nAnd thus run your own DSL ontop of the DSLisp AST, with debugging and reflection support.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/DSLisp/20438b88-097b-4a2e-9f48-3e1cb01271a7\" alt=\"dslisp.gif\" title=\"dslisp.gif\" /><br /><br /><b>Project Description</b><br /><br /><b>DSLisp</b> is an interpreted language and host that integrates with .NET.<br /><br /><b>Language features:</b>\n<ul><li>Lisp style Macro support</li>\n<li>Lambdas</li>\n<li>Tail recursion</li>\n<li>Big integers</li></ul>\n<br /><b>Host features:</b>\n<ul><li>.NET integration , interact with .NET objects or external .NET resources</li>\n<li>Single step debugging</li>\n<li>Custom call stack </li></ul>\n<br /><b>DSLisp</b> is intended for two purposes:<br /><br />The first is ofcourse to act as a scripting language with .NET support.<br /><br />The other is the main purpose of this project, to act as a host for Domain Specific Languages.<br />3rd party DSL&#39;s can be compiled into the DSLisp AST, and thus leverage all the features, including debugging support for your own DSL.<br /><br />Eg. allow your end users single step through your own business rule language.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DSL,LISP,Parser,Compiler,Macro,domain specific lang,scheme,",
+  "LastEdited": "2008-02-12T02:16:48.143-08:00"
+}

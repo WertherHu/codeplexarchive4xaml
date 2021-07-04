@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CSharpIntellisense",
+  "Title": "CSharp Intellisense",
+  "Description": "VS 2010 IntelliSense plug-in\r\n\r\nProvides custom IntelliSense for the CSharp Editor\r\nthat is capable to filter out events, preoperties or methods.\r\n\r\nmy blog: http://blogs.microsoft.co.il/blogs/bnaya/\r\n\r\nthis plug-in is build upon \r\nKarl Shifflett: XAML Intellisense Presenter\r\nso credits g",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">CSharpIntellisensePresenter(Free) <br />Created by: Bnaya Eshet (Bnaya Eshet (credit to Karl Shifflett)) <br />Version: 1.9<br />Supported Versions Visual Studio 2010  <br /><br />my blog: http://blogs.microsoft.co.il/blogs/bnaya/<br /><br />this plug-in is build upon <br />Karl Shifflett: XAML Intellisense Presenter<br />so credits goes to Karl Shifflett<br />http://karlshifflett.wordpress.com/<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Visual Studio,Plugin,",
+  "LastEdited": "2010-05-08T07:08:13.08-07:00"
+}

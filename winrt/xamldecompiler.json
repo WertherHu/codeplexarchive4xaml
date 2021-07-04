@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamldecompiler",
+  "Title": "XAML Decompiler",
+  "Description": "Convert binary XAML files in plain text.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This simple utility allows you to convert .XBF files to plain text .XAML files, .XBF files are the binary rappresentation of .XAML files.<br /><br /><b>Important</b><br />This project has been built using the developer preview of .NET Native and so it may not work as expected all the time. Feel free to report bugs at: gcarlo.lelli@live.com<br /><br /><b>Screenshots</b><br /><img src=\"http://diaryofamsp.azurewebsites.net/misc/screen1.png\" /><br /><br /><b>Application Usage</b><br />Place all the .xbf files you want to convert inside a directory. Then press the &quot;Pick Directory&quot; button. Once you&#39;ve selected the directory click &quot;Convert XBF files&quot; button and wait for the application to complete the converting operation. You can read its progress through the Output log box. <b>Make sure you have write permission on that directory</b>.<br /><br /><b>Copyright &amp; Feedback</b><br />Giancarlo Lelli - Software Developer @ iCubed srl &amp; Microsoft Student Partner<br />Email: gcarlo.lelli@live.com<br />Twitter: @itsonlyGianca</div><div class=\"ClearBoth\"></div>",
+  "TagList": "xaml,winrt,xbf,",
+  "LastEdited": "2014-04-08T02:20:59.917-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpflogreader",
+  "Title": "LogReader",
+  "Description": "delete ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br /><b>LogReader</b> is a WPF application that allows you to read and filter log and text files in the same window. <br /><br /><b>Features</b><br />The results are updated as you type and get refreshed every 30 seconds.<br /><br /><img src=\"/projects/wpflogreader/dbc0b5f1-750d-43d3-af25-0f4288c9f8ee\" alt=\"logreader2.png\" title=\"logreader2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4.0,WPF,",
+  "LastEdited": "2013-08-16T13:19:05.977-07:00"
+}

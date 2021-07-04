@@ -1,0 +1,9 @@
+{
+  "ProjectName": "facebooksharp",
+  "Title": "FacebookSharp",
+  "Description": "FacebookSharp library for ASP.NET WebForms, ASP.NET MVC, Silverlight, Windows Phone 7 and desktop apps (client profile supported too.)\n\nSupports both .net 3.5 and .net 4.0. Incase you are using under .net 4.0 you get access to dynamic objects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>FacebookSharp is no longer under development. Please use <a href=\"http://facebooksdk.codeplex.com\">Facebook C# SDK</a> instead which is actively maintained.</h2>\r\n<b>Project Description</b><br />FacebookSharp library for ASP.NET WebForms, ASP.NET MVC, Silverlight, Windows Phone 7 and desktop apps &#40;client profile supported too.&#41;<br /><br />Supports both .net 3.5 and .net 4.0. Incase you are using under .net 4.0 you get access to dynamic objects.<br /><br /><br /><b>Source Code has been moved to <a href=\"http://github.com/prabirshrestha/facebooksharp\">http://github.com/prabirshrestha/facebooksharp</a> or <a href=\"http://bit.ly/facebooksharp\">http://bit.ly/facebooksharp</a></b><br />Codeplex only contains binaries. Nightly builds can be download from <a href=\"http://teamcity.codebetter.com/viewType.html?tab=buildTypeStatusDiv&amp;buildTypeId=bt262\">Continuous Integration Server</a> (provided by <a href=\"http://codebetter.com\">http://codebetter.com</a>)<br /><br />You can follow me on twitter at <a href=\"http://twitter.com/facebooksharp\">http://twitter.com/facebooksharp</a> or <a href=\"http://twitter.com/prabirshrestha\">http://twitter.com/prabirshrestha</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Facebook,Facebook API,Facebook Graph API,facebook .net,facebook connect,Facebook Toolkit,Facebook Canvas App,",
+  "LastEdited": "2011-07-21T10:47:09.04-07:00"
+}

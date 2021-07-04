@@ -1,0 +1,9 @@
+{
+  "ProjectName": "imagewall",
+  "Title": "Image Wall Control for Silverlight",
+  "Description": "A control for Silverlight that emulates the wall of images in the Zune. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A control for Silverlight that emulates the wall of images in the Zune. <br /><br />The is a very early release of the control, and there is a lot more to do. Feedback is welcome.<br /><br />An example using the flickr provider for the control.<br /><img src=\"/projects/imagewall/b4916f89-b547-41f8-8a59-29772afd1c36\" alt=\"Image&#32;Wall&#32;showing&#32;flickr&#39;s&#32;most&#32;interesting&#32;photos&#32;for&#32;the&#32;day\" title=\"Image&#32;Wall&#32;showing&#32;flickr&#39;s&#32;most&#32;interesting&#32;photos&#32;for&#32;the&#32;day\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Zune,Silverlight,Silverlight Controls,",
+  "LastEdited": "2010-03-13T08:03:25.893-08:00"
+}

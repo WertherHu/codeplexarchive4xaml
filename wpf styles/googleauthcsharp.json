@@ -1,0 +1,9 @@
+{
+  "ProjectName": "googleauthcsharp",
+  "Title": "Google Authenticator TOTP C#",
+  "Description": "An implementation of Google's Authenticator in C# and WPF. It's a Time-based One-time Password (TOTP) described in RFC 6238. You could use it to implement two-f",
+  "MovedLink": "https://github.com/LTruijens/google-auth-csharp",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An implementation of Google&#39;s Authenticator in C&#35; and WPF. It&#39;s a Time-based One-time Password &#40;TOTP&#41; described in RFC 6238. You could use it to implement two-f<br /><br />Based on <a href=\"http://code.google.com/p/google-authenticator/\">http://code.google.com/p/google-authenticator/</a><br />Converted from <a href=\"http://jsfiddle.net/russau/uRCTk/\">http://jsfiddle.net/russau/uRCTk/</a><br /><br />A big thanks to NDepend for sponsoring this project.<br /><br /><a href=\"http&#58;&#47;&#47;www.ndepend.com&#47;\"><img src=\"/projects/googleauthcsharp/7de627e6-d630-49ef-8665-f1146fabb572\" alt=\"NDepend\" title=\"NDepend\" /></a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Google,Authentication,TOTP,OTP,C#,WPF,",
+  "LastEdited": "2013-08-07T10:31:41.933-07:00"
+}

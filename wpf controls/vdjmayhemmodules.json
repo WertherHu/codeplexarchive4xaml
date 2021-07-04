@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vdjmayhemmodules",
+  "Title": "Vitual DJ Mayhem Modules",
+  "Description": "This project is an add on for Project Mayhem that allows users to control Virtual DJ through the reactions",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is an add on for Project Mayhem that allows users to control Virtual DJ through the reactions<br /><br />This project was created for the Project Mayhem Competition. In order to be able to use it, you need to have the following:<br />- Mayhem Remote Application<br />- Virtual DJ<br />- Virtual DJ must have the key mapper set that is included with all other files<br /><br />The add on allows one to control Virtual DJ through the Mayhem APIs</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-30T23:09:08.767-07:00"
+}

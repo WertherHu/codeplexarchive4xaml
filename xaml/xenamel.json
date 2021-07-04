@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xenamel",
+  "Title": "XEnamel",
+  "Description": "Allows DLR expressions to be built with XML, and for that XML to be integrated directly with a XAML layout.  Serialize and deserialize DLR expressions to XML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Allows DLR expressions to be built with XML, and for that XML to be integrated directly with a XAML layout.  Serialize and deserialize DLR expressions to XML.<br /><br />The name for this project came from my desire to represent XNA games in a purely descriptive XAML-style format.  XNA, XAML, XNAML...  get it?<br /><br />This project started with the ability to serialize and deserialize a pure XML representation of an expression tree.  Since then, I have included several higher-order language concepts.  You can now wrap your expression tree in an &quot;Object&quot; tag to give it the ability to use instance variables and methods.  You can load your XML into a DynamicMethod, then assign it to a &quot;dynamic&quot;-typed variable to use your expression like any other object, assigning/retrieving variables and calling method, then save your DynamicMethod back to XML when you are done.<br /><br />On a more sarcastic note, this project will be my response to those who say that code-behind in your WPF/Silverlight applications is evil, and that everything should be done in the XAML.  Well, now you can include code in the XAML.  So hah!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DLR,XML,serialize,deserialize,expression,AST,",
+  "LastEdited": "2010-08-18T07:26:13.29-07:00"
+}

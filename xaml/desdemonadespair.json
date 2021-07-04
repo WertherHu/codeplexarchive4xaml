@@ -1,0 +1,9 @@
+{
+  "ProjectName": "desdemonadespair",
+  "Title": "Desdemona Despair App",
+  "Description": "Desdemona Despair is a Windows Store app that implements a simple feed reader for the  Desdemona Despair blog.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Desdemona Despair is a Windows Store app that implements a simple feed reader for the  Desdemona Despair blog.<br /><br />This app shows how to use these Windows 8 technologies:<br /><br />- The SyndicationFeed class<br />- Live Tile updates by using a Background Task <br />- C#/XAML for presentation</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,XAML,Windows Store,Windows 8,rss,atom,",
+  "LastEdited": "2013-01-05T20:39:49.04-08:00"
+}

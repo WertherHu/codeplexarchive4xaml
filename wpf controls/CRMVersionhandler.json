@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CRMVersionhandler",
+  "Title": "Dynamics CRM 2011 Versionhandler",
+  "Description": "If you have a development server, do you have a backup for that?\r\nI thought not!\r\nWhat happens if you are in development and that crashes?\r\nGetting all you customizations under versioncontrol in TFS has never been more simple",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />If you have a development server, do you have a backup for that&#63;<br />I thought not&#33;<br />What happens if you are in development and that crashes&#63;<br />Getting all you customizations under versioncontrol in TFS has never been more simple<br /><br />Please Note, that this is only available to CRM 2011 On Premise as it requires Team Explorer to work.<br /><br />So Install Team Explorer 2010 on the server before you begin to install this.<br />Then get the code, compile.<br />Add the plugin with the Plugin Registration Tool and add two asynchronys steps on &quot;publish&quot; and &quot;publish all&quot;.<br />Config the steps as follows:<br />first to unsecure:<br />&lt;Configuration&gt;<br />\t&lt;CustomizationFolder&gt;C:\\SomeLocalFolder\\to\\store\\customizations&lt;/CustomizationFolder&gt;<br />\t&lt;TFSPath&gt;$/tfs/path&lt;/TFSPath&gt;<br />\t&lt;TFSServer&gt;http://yourtfshere:8080/tfs&lt;/TFSServer&gt;<br />&lt;/Configuration&gt;<br /><br />Then to secure:<br />&lt;Configuration&gt;<br />\t&lt;Username&gt;user&lt;/Username&gt;<br />\t&lt;Password&gt;pass&lt;/Password&gt;<br />\t&lt;Domain&gt;domain&lt;/Domain&gt;<br />&lt;/Configuration&gt;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Dynamics,CRM 2011,crm,Dynamics CRM 2011,Version Control,",
+  "LastEdited": "2012-02-20T11:55:43.987-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ucclight",
+  "Title": "User Create Content Media Service with Silverlight",
+  "Description": "UCCLight is a project which is for media service like YouTube. A user can select a video clip and upload to the UCCLight site. And then UCCLight will make the same video that is suitable for a service and thumbnail images for chapters of the video clip. Finally a user can see the new encoded video clip with Silverlight media player. \n\nUCCLight Project is using various technologies and products of Microsoft. ASP.NET, Silverlight2 beta2 and Expression Encoder 2 SDK are used. You can see the samples of those technologies.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">DEMO Site: http://ucclight2.dotnetngene.kr/Contents/List.aspx (server in korea)<br /><br />This program is distributed in the hope that it will be useful without even the implied warranty of MERCHANTABILITY. <br />If it would be used merchantability, you have to contact us (hoonsbara@hotmail.com)<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-08-26T18:21:33.717-07:00"
+}

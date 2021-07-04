@@ -1,0 +1,9 @@
+{
+  "ProjectName": "utfprlibrary",
+  "Title": "UTFPRLibrary",
+  "Description": "UTFPRLibrary provides a set of templates and controls that makes it easier for .NET developers to create applications (32 or 64 bits) with Windows Forms and Entity Framework 4. It's developed in C#. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />UTFPRLibrary provides a set of templates and controls that makes it easier for .NET developers to create applications &#40;32 or 64 bits&#41; with Windows Forms and Entity Framework 4. It&#39;s developed in C&#35;. <br /><br /><a href=\"http://visualstudiogallery.msdn.microsoft.com/en-us/6b79036f-83d6-4efc-bcd1-fabd9d1a758c?lc=1033\">Visual Studio Gallery</a><br /><br /><a href=\"https://utfprlibrary.codeplex.com/wikipage?title=Further%20Reading&referringTitle=Home\">Further Reading</a><br /><br /><b>Contact</b> <br /><a href=\"http://twitter.com/fabiopand\">Twitter</a> <br /><a href=\"mailto:fabiopand@gmail.com\">Email</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Forms,Entity Framework,CRUD,Templates,Controls,",
+  "LastEdited": "2012-01-05T07:41:28.33-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winformstyles",
+  "Title": "Custom Winform Styles",
+  "Description": "Winform theme,winform styles,custom styles,\ncustom themes",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Winform theme,winform styles,custom styles,<br />custom themes<br /><img src=\"http://download.codeplex.com/download?ProjectName=winformstyles&amp;DownloadId=66252&amp;Build=14954\" /><br />HeroBeast.WindowsForm realize custom window&#39;s non-client area, include title area 、ico area 、 control box  and toolstrips styles.  <br /><br />provide editor of the styles,can custom styles save as to *.xml. now only provide three thems.default.xml(office 2007 blue),office 2007 black,vista black themes.<br /><br />use GDI+ with c# 2.0 realized.<br />Home - <a href=\"http://www.cnblogs.com/herobeast\">http://www.cnblogs.com/herobeast</a><br /><br />People - This project team member:<br /> herobeast<br /><img src=\"http://www.cnblogs.com/images/cnblogs_com/HeroBeast/185429/o_wyq.GIF\" /><br />country: China Beijing<br />msn/mail: herobeast@163.com<br />reference:<br />1.CustomBorderForm  (opensource)<br />2.ComponentFactory.Krypton.Toolkit<br />3.Win32 API reference<br />4.msdn GDI+<br /><br />License - GNU Library General Public License (LGPL) .<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ui,",
+  "LastEdited": "2009-04-24T01:48:14.75-07:00"
+}

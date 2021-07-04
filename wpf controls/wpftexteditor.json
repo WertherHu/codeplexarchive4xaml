@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpftexteditor",
+  "Title": "TextEditor for WPF",
+  "Description": "An enhanced TextBox that can show line numbers and have different colored texts as well as highlights. It can also show horizontal lines between texts.\r\n\r\nIt is developed in C# for WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An enhanced TextBox that can show line numbers and have different colored texts as well as highlights. It can also show horizontal lines between texts.<br /><br />It is developed in C&#35; for WPF.<br /><br /><img src=\"http://download.codeplex.com/Download?ProjectName=wpftexteditor&amp;DownloadId=277400\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-04T02:23:11.903-07:00"
+}

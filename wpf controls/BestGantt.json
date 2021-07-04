@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BestGantt",
+  "Title": "Silverlight Gantt Chart and Its Sample For SharePoint 2010",
+  "Description": "This solution makes it easier for shedule management. We will provide a wsp including a list definition and a custom gantt control. \r\nThe list definition will define some neccessary columns such as startdate, dudate, then give a gantt view represent  hierachical tasks. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Description (EN)<br /><br />I am so sorry to publish this version so late. Now we will publish our Best Gantt. It has been used for many projects. I think it should be OK.<br /><br />Of course,  If you have any suggestions, Please do not hesitate to tell us. thanks <br /><br />我们将在博客<a href=\"http://www.cnblogs.com/hanaimin\">http://www.cnblogs.com/hanaimin</a>发布中文的说明：接口的使用，架构，以及最佳的做法。<br /><br />for Silverlihgt 3 4 5<br /><br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:600px;width:880px;\"><param name=\"source\" value=\"http://files.cnblogs.com/hanaimin/GanttView.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Gantt,Silverlight,SharePoint,SharePoint 2010,",
+  "LastEdited": "2012-01-31T23:10:04.307-08:00"
+}

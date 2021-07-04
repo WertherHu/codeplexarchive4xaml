@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kktools",
+  "Title": "KenKenTools",
+  "Description": "A collection of tools for the Sudoku-like puzzle game KenKen, which is published on the New York Times website.  The suite of tools currently includes a solving engine and a silverlight user interface to the solver.  Future plans include a generator.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rA collection of tools for the Sudoku-like puzzle game KenKen, which is published on the New York Times website.  The suite of tools currently includes a solving engine and a silverlight user interface to the solver.  Future plans include a generator.<br />\n<h2>Try it out</h2>\r<a href=\"http://johninthecloud.blogspot.com/2009/03/kenken-solver.html\">http://johninthecloud.blogspot.com/2009/03/kenken-solver.html</a><br />\n<h2>Screenshot</h2>\r<img src=\"/projects/kktools/e228c758-9df9-4e1c-bd06-d0b8b25c961d\" alt=\"screenKenKenSL0.1.png\" title=\"screenKenKenSL0.1.png\" /><br />\n<h2>New York Times KenKen Site</h2>\r6 new puzzles are published daily here: <a href=\"http://www.nytimes.com/ref/crosswords/kenken.html\">http://www.nytimes.com/ref/crosswords/kenken.html</a>.  I have seen other varieties of KenKen puzzles, but this is the one I am developing for.  The NYTimes does not have a very good specification for the puzzles though.  Can group totals be negative or fractional?  Can a division group be greater than two?  I will keep an eye on it.<br />\n<h2>Version KenKenSL 0.2 Beta is released!</h2>\r8x8 support and keyboard shortcut goodies.<br /><br />\n<h2>Version KenKenSL 0.1 Alpha is released!</h2>\rHead on over to the releases page and download it.  The release includes a solving engine and a Silverlight UI.  Why Silverlight?  It was easier than Flash and javascript/DOM.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-10T18:46:31.76-07:00"
+}

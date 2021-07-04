@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NetFixSimulator",
+  "Title": "NetFixSimulator",
+  "Description": "WPF Fix Simulator built against QuickFix engine.nd\r\n\r\nThis is in Alpha stage. Right now it will logon, display messages and fully execute any Equity orders it gets.\r\n\r\nIt uses following\r\n\r\nNinject for IoC\r\nCalibrun.micro for MVVM framework\r\nQuickFixEngine for Fix Protocol",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />WPF FIX protocol Simulator built against QuickFix engine.<br /><br />This is in Alpha stage:<br /><br />It is tested with equity orders.  You can configure it to send executions for orders it receives.  <br /><br />Next release will support Cancel/Replace order messages and some more GUI improvements.<br /><br /><br /><br />It uses following<br /><br />Ninject for IoC<br />Calibrun.micro for MVVM framework<br />QuickFixEngine for Fix Protocol<br />Log4net for Logging<br />RibbonControls<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "FIX protocol,FIX simulator,",
+  "LastEdited": "2012-05-21T17:16:44.337-07:00"
+}

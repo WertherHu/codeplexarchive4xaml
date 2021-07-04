@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nobrainer",
+  "Title": "No Brainer: An MVC + CMS Framework",
+  "Description": "NoBrainer is an MVC + CMS Framework, as its name suggests for low-fi developers and savvy business stakeholders. It provides developers the flexibility of MVC as well as the control of WebForm, resulting in a testable and content manageable WebForm infrastructure for you application. NoBrainer currently supports only Web at the launch, however it can easily be extended to work with Desktop as well as Mobile. That way your logic and test code remain the same across different UI layers. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />NoBrainer is an MVC &#43; CMS Framework, as its name suggests for low-fi developers and savvy business stakeholders. It provides developers the flexibility of MVC as well as the control of WebForm, resulting in a testable and content manageable WebForm infrastructure for you application. NoBrainer currently supports only Web at the launch, however it can easily be extended to work with Desktop as well as Mobile. That way your logic and test code remain the same across different UI layers. <br /><br />Presentation: <a href=\"http://www.slideshare.net/TanzimSaqib/no-brainer-9410161?from=ss_embed\">http://www.slideshare.net/TanzimSaqib/no-brainer-9410161?from=ss_embed</a><br />Step-by-step walkthrough: <a href=\"http://tanzimsaqib.com/blog/294/nobrainer-my-new-open-source-project\">http://tanzimsaqib.com/blog/294/nobrainer-my-new-open-source-project</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-24T22:04:03.247-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "windowplace",
+  "Title": "WindowPlace",
+  "Description": "WindowPlace makes it possible to save Window positions and sizes to a profile. Switch between profiles to effortlessly move and resize your windows.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b> <br>\r\nWindowPlace makes it possible to save Window positions and sizes to a profile. Switching between profiles will effortlessly move and resize your windows. Help improve productivity - especially for multi-monitor systems.\r\n<br>\r\n<br>\r\nDeveloped in C# using WPF and a few Windows API calls in the background. <br>\r\n<br>\r\n<a href=\"http://download.codeplex.com/Download?ProjectName=windowplace&DownloadId=354111\"><img title=\"screenshot 1\" border=\"0\" alt=\"screenshot 1\" src=\"http://download.codeplex.com/Download?ProjectName=windowplace&DownloadId=354112\" width=\"678\" height=\"549\" style=\"border-right-width:0px; display:inline; border-top-width:0px; border-bottom-width:0px; border-left-width:0px\"></a>\r\n<br>\r\n<br>\r\nThe project is already in an Alpha development stage and works well (in my opinion)\r\n<br>\r\n<br>\r\n<b>If you have downloaded WindowPlace, I would really like to hear from you and see what you think</b>\r\n<br>\r\n<br>\r\nHelpful documentation still till come. Will be accelerated if I get some interest in the project.\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "API,C#,WPF,productivity,",
+  "LastEdited": "2012-03-14T15:00:54.633-07:00"
+}

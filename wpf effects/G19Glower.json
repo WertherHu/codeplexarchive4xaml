@@ -1,0 +1,9 @@
+{
+  "ProjectName": "G19Glower",
+  "Title": "G19 Glower",
+  "Description": "Application for the Logitech G19 keyboard to change the colour of the keyboard as you type. Basic effect is to glow the keyboard more as you type, but there are other modes available. It is also fully customizable and plugin based, so feel free to change it all you wish!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nApplication for the Logitech G19 keyboard to change the colour of the keyboard as you type. Basic effect is to glow the keyboard more as you type, but there are other modes available. It is also fully customizable and plugin based, so feel free to change it\r\n all you wish!</p>\r\n<p>See a video of this in action <a title=\"here\" href=\"http://www.youtube.com/watch?v=f3Z1ZnfX0e0\">\r\nhere</a>.</p>\r\n<p>I have made this for the love of coding and because it's cool. If you would like to totally make my day though, feel free to\r\n<a title=\"donate\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=M4QZRXVG2FF68&lc=GB&item_name=Colin%20Bradley&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted\">\r\ndonate</a>!</p>\r\n<p>Credits to Tsuyo of <a href=\"http://tsuyo.de\">http://tsuyo.de</a>, for GLight:\r\n<a href=\"http://www.logitechusers.com/showthread.php?t=8049\">http://www.logitechusers.com/showthread.php?t=8049</a> For allowing me to actually change the keyboard colour in the first place ;)</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-07T10:29:01.22-08:00"
+}

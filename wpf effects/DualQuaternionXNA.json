@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DualQuaternionXNA",
+  "Title": "XNA Dual Quaternion Skinning",
+  "Description": "A dual quaternion version of the XNA Skinning Sample. Dual Quaternion skinning is slower than standard skinning but produces more mathematically accurate results and reduces undesirable candy wrapper effects that are often seen at shoulder joints of meshes.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A dual quaternion version of the XNA Skinning Sample. Dual Quaternion skinning is slower than standard skinning but produces more mathematically accurate results and reduces undesirable candy wrapper effects that are often seen at shoulder joints of meshes.<br /><br /><br />Dual Quaternion Skinning: <a href=\"http://isg.cs.tcd.ie/projects/DualQuaternions/\">http://isg.cs.tcd.ie/projects/DualQuaternions/</a><br />Original Skinning Sample: <a href=\"http://creators.xna.com/Headlines/developmentaspx/archive/2007/02/13/Skinned-Model-Sample.aspx\">http://creators.xna.com/Headlines/developmentaspx/archive/2007/02/13/Skinned-Model-Sample.aspx</a><br />XNA Game Studio Express: <a href=\"http://msdn2.microsoft.com/en-us/xna/aa937795.aspx\">http://msdn2.microsoft.com/en-us/xna/aa937795.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,skinning,dual quaternion,3D Graphics,",
+  "LastEdited": "2007-05-14T15:51:09.893-07:00"
+}

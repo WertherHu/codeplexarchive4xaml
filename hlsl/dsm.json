@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dsm",
+  "Title": "DSM - multiplayer shooter game in XNA 4.0",
+  "Description": "DSM - starship simulator is a three-dimensional multiplayer network \"shooter\" made with XNA 4.0 Framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DSM - starship simulator is a three-dimensional multiplayer network &#34;shooter&#34; made with XNA 4.0 Framework.<br />\n<ul><li>XNA 4.0 engine (DirectX 9) Windows XNA Game.</li>\n<li>HLSL effects.</li>\n<li>Particles effects (smoke, explosions), moving skybox and water.</li>\n<li>Sound effects.</li>\n<li>Starship models stored in .X files.</li>\n<li>Map of terrain loaded from .bmp file.</li>\n<li>Windows Forms starting interface and server application.</li>\n<li>TCP-IP network multi-thread server with network-ordered bytes in packages.</li>\n<li>Tested in 7 players game on local network.</li></ul>\n<br /><b>Gameplay video</b><br /><a href=\"https://www.youtube.com/watch?v=TeQeBs_WLB0\">https://www.youtube.com/watch?v=TeQeBs_WLB0</a><br /><br /><b>Screenshots</b><br /><img src=\"/projects/dsm/aa6b8f58-2b62-474e-ba8a-20a471f2fca8\" alt=\"screen1.jpg\" title=\"screen1.jpg\" /><img src=\"/projects/dsm/36929b3e-4a01-4d07-a587-61329115869e\" alt=\"screen2.jpg.png\" title=\"screen2.jpg.png\" /><img src=\"/projects/dsm/c50e910d-4bb0-4c98-ab79-4d3cca174689\" alt=\"screen3.jpg.png\" title=\"screen3.jpg.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA 4.0,Multiplayer,Game,Shooter,HLSL,Particles effect,Starship,Network,C#,XNA,explosion,",
+  "LastEdited": "2013-01-18T17:08:56.753-08:00"
+}

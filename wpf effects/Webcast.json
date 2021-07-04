@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Webcast",
+  "Title": "MSDN Webcast 中文网络广播",
+  "Description": "MSDN Webcast 中文网络广播",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><p>MSDN Webcast中文网络广播提供了MSDN Webcast中文网络广播的下载和播放功能，便于广大技术爱好者学习微软相关开发技术。</p>\n<p><strong><span style=\"color:#800080\">界面预览：</span></strong></p>\n<p><img src=\"http://images.cnblogs.com/cnblogs_com/yuyo/265935/r_courses.png\" alt=\"msdn webcast\" width=640 height=399></p>\n<p><img src=\"http://images.cnblogs.com/cnblogs_com/yuyo/265935/r_videoplayer.png\" alt=\"msdn webcast player\" width=640 height=399></p>\n<p>该版本目前还存在不足，欢迎大家多交流，您有任何意见都可以发表在这里：<a href=\"http://webcast.codeplex.com/discussions\">http://webcast.codeplex.com/discussions</a></p></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF Webcast,",
+  "LastEdited": "2010-10-18T10:24:59.933-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bildschirmpause",
+  "Title": "Bildschirmpause",
+  "Description": "A small WPF / .net 4.0 app that reminds you to give your eyes some rest.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Bildschirmpause</h1>\r<hr />\n<h3>A small WPF / .net 4.0 app that reminds you to give your eyes some rest. </h3>\r<a href=\"#screenshot\">Scroll to Screenshot</a><br /><br /><br />&quot;Bildschirmpause&quot; is German and literally translates to &#39;<i>screen break</i>&#39;. <br /><br />Icons courtesy of <b><a href=\"http://findicons.com\">http://findicons.com</a></b><br />\n<h3>Adding Sounds</h3>\rIf a .WAV file named &#39;alert.wav&#39; is placed in the directory of the executable it will be played when the timer elapses. <br /><br />Currently there&#39;s no .MP3 support to keep the footprint low (playing .WAVs requires no aux libraries and has no dependencies to the Windows Media Player API like the WPF MediaElement)<br /><br />To get the application&#39;s directory, open the application, then launch the Windows Task Manager, switch to the &#39;Processes&#39; tab, right-click &#39;Bildschirmpause.exe&#39; and left-click &#39;Open File Location&#39;. Place your .WAV there.<br /><br /><img src=\"/projects/bildschirmpause/70dc0438-501c-4c87-a2bb-6c9962641988\" alt=\"taskmanager.png\" title=\"taskmanager.png\" /><br />\n<h4>Screenshot:</h4>\r<a name=\"screenshot\"></a><br /><img src=\"/projects/bildschirmpause/f403d3b6-1922-4197-82df-0ae2c4bafbc1\" alt=\"ScreenShot.png\" title=\"ScreenShot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-29T12:12:31.553-07:00"
+}

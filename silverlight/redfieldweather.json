@@ -1,0 +1,9 @@
+{
+  "ProjectName": "redfieldweather",
+  "Title": "Redfield Weather",
+  "Description": "Website for weather using weather undergound and silverlight controls.  Used on www.redfieldweather.com",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Redfield Weather</strong><br>\r\nWebsite for weather using weather undergound and silverlight controls.<br>\r\n<br>\r\n<br>\r\nThis is the code I have used for my personal weather website.&nbsp; This code will currently support any Personal Weather Station data from Weather Underground\r\n<a href=\"http://www.weatherunderground.com\">www.weatherunderground.com</a></p>\r\n<p>I am open to any comments and suggestion people have.&nbsp; The Silverlight code is rough as this was my first attempt at Silverlight.&nbsp; If you want to view this code in action you can visit my website\r\n<a href=\"http://www.redfieldweather.com\">www.redfieldweather.com</a> also please feel free to comment abou this on my blog at\r\n<a href=\"http://www.kd8fwv.com\">www.kd8fwv.com</a></p>\r\n<p>I hope you enjoy.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-09T19:31:24.937-07:00"
+}

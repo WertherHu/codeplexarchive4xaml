@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DataGridViewUC",
+  "Title": "DataGridView UserControl with Paging",
+  "Description": "this is user control of Windows form in C#. this user control is DatagridView with extended functionality of paging. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project is simple DataGridView User Control. This user control is with paging. In windows Forms paging is not inbuild. we have to create with our own logic. so i have created this user control for those who frequently using paging in DataGridView. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-23T18:59:03.473-07:00"
+}

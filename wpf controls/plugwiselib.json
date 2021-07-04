@@ -1,0 +1,9 @@
+{
+  "ProjectName": "plugwiselib",
+  "Title": "Plugwise Library",
+  "Description": "This is a library that enables users of the Plugwise energy saving system to communicate directly with the plugwise devices without using the Source Software. It is written in C# and provides an easy and simple way to control your devices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a library that enables users of the Plugwise energy saving system to communicate directly with the plugwise devices without using the Source Software. It is written in C&#35; and provides an easy and simple way to control your devices.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Plugwise,C#,home automation,",
+  "LastEdited": "2009-12-27T10:00:06.14-08:00"
+}

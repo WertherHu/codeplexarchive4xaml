@@ -1,0 +1,9 @@
+{
+  "ProjectName": "daxTeamCityAutomation",
+  "Title": "Dynamics AX TeamCity Build Automation",
+  "Description": "Continuous Integration, Building, and Deployment hooks for Dynamics AX 2012 and JetBrain's TeamCity platform.  Works with on-prem TFS or VisualStudio Online!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Dynamics AX TeamCity Build Automation</b><br /><br />This project is a freely-to-distribute set of scripts and accompanying AX Model to facilitate the automated building and deployment of modelstores in Microsoft Dynamics AX 2012.<br /><br />The installer is located under the <i>Downloads</i> section as is the ReadMe file.  <br /><br />Any questions or concerns, please contact @LaneSwenka on Twitter, or admin <a href=\"https://daxteamcityautomation.codeplex.com/wikipage?title=at&referringTitle=Home\">at</a> immglobal <a href=\"https://daxteamcityautomation.codeplex.com/wikipage?title=dot&referringTitle=Home\">dot</a> com.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-09-01T13:18:07.56-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RoundCorners",
+  "Title": "Rounded Corners / DIV Container",
+  "Description": "The RoundedDiv round corners container is a skin-able, CSS compliant UI control.  Select which corners should be rounded, collapse and expand the contents or use \"Ctrl+Click\" to collapse or expand ALL round containers on a page.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The RoundedDiv round corners container is a skin-able, CSS compliant UI control.  Select which corners should be rounded, collapse and expand the contents or use &#34;Ctrl&#43;Click&#34; to collapse or expand ALL round containers on a page.<br /><br /><img src=\"http://www.technullogy.net/wp-content/uploads/2009/08/MjcRoundedDiv.png\" /><br /><br /><pre>\n&lt;Technullogy:RoundedDiv \n                runat=&quot;server&quot; \n                ID=&quot;RoundedDiv1&quot;\n                CustomSkin=&quot;&quot;\n                EmbeddedSkin=&quot;Slate&quot;\n                EnableCollapsibleContent=&quot;true&quot;\n                EnableEmbeddedSkins=&quot;true&quot;\n                RoundBottomLeft=&quot;true&quot;\n                RoundBottomRight=&quot;true&quot;\n                RoundTopLeft=&quot;true&quot;    \n                RoundTopRight=&quot;true&quot;\n                Title=&quot;Technullogy Round Corners&quot;\n                TitleImageUrl=&quot;~/Images/shinyOrb.png&quot; /&gt;\n</pre><br /><br />Please consider making a PayPal donation to mjhufford@gmail.com.<br /><br /><img src=\"https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "round,UI Controls,Collapsible,rounded,Server Controls,",
+  "LastEdited": "2010-12-11T06:27:51.657-08:00"
+}

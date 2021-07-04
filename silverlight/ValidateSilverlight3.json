@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ValidateSilverlight3",
+  "Title": "Silverlight 3.0 data validator - validating data in TextBox",
+  "Description": "To validate data using Silverlight 3.0 validation feature see this project for a working example. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">You will be able to validate data in Silverlight using the Silverlight 3.0 validation feature. This project explains how to create a Extension class that would display a custom validation error on TextBox controls.<br /><br />The live version on this project can be viewed here: <a href=\"http://silverlighttips.com/?tag=/validation\">http://silverlighttips.com/?tag=/validation</a>.<br /><br />Related topics:<br /><a href=\"http://silverlighttips.com/post/2009/10/07/SilverlightQueryString.aspx\">Silverlight QueryString Validating ID, GUID and Timestamp (Date)</a><br /><a href=\"http://silverlighttips.com/post/2009/10/06/SilverlightExtension.aspx\">Extension methods in Silverlight and C#</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-08T12:39:00.74-07:00"
+}

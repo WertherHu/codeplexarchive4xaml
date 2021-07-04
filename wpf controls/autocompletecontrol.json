@@ -1,0 +1,9 @@
+{
+  "ProjectName": "autocompletecontrol",
+  "Title": "Auto Complete Control for ASP.NET",
+  "Description": "Autocomplete Control is a fully functional ASP.NET control for word suggestions and autocomplete. We had been using Ajax Control Toolkit AutoComplete Extender in our projects before, but we have needed some extra features and functionalities.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Autocomplete Control is a fully functional ASP.NET control for word suggestions and autocomplete. We had been using Ajax Control Toolkit AutoComplete Extender in our projects before, but we have needed some extra features and functionalities. (You can see it in action at <a href=\"http://www.inploid.com\">http://www.inploid.com</a>)<br /><br /><img src=\"/projects/autocompletecontrol/0e2760b4-3d62-4d77-8e77-e1632fd7fee0\" alt=\"Untitled.jpg\" title=\"Untitled.jpg\" /><br /><br /><b>Usage is simple</b> (You can see it in action at <a href=\"http://www.inploid.com\">http://www.inploid.com</a>)<br />\n<ul><li><b>Register control in page directive</b>  </li></ul>\n   &lt;%@ Register Assembly=&quot;AutoCompleteControl&quot; Namespace=&quot;AutoCompleteControl&quot; TagPrefix=&quot;acc&quot; %&gt;<br />\n<ul><li><b>Configure and use</b></li></ul>\n    <img src=\"/projects/autocompletecontrol/b74b28bb-abdd-45be-885f-94a1866e2d04\" alt=\"step3.jpg\" title=\"step3.jpg\" /> <img src=\"/projects/autocompletecontrol/dc8a95e4-c33b-463a-8665-2ae42e9f18c6\" alt=\"step3.1.jpg\" title=\"step3.1.jpg\" /><br /><br /><br />Thats all. <br /><br />For detailed description and properties of the control see documentation: <a href=\"http://autocompletecontrol.codeplex.com/documentation\">http://autocompletecontrol.codeplex.com/documentation</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-24T09:13:44.253-07:00"
+}

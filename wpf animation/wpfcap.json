@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfcap",
+  "Title": "WebCam control for WPF",
+  "Description": "Reusable WPF control to display high frame rate video such as WebCam or framegrabber DirectShow output. This control uses InteropBitmap introduced in .NET framework 3.5 and managed DirectShow P/Invoke. This control does not uses DirectShow.net library, so it's completely imdependent",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Reusable WPF control to display high frame rate video such as WebCam or framegrabber DirectShow output. This control uses InteropBitmap introduced in .NET framework 3.5 and managed DirectShow P&#47;Invoke. This control does not uses DirectShow.net library, so it&#39;s completely imdependent<br />\n<h1>General</h1>\rFor more information about the way this control is implemented, visit my blog at <a href=\"http://khason.net/blog/webcam-control-with-wpf-or-how-to-create-high-framerate-player-with-directshow-by-using-interopbitmap-in-wpf-application/\">http://khason.net</a><br />\n<h1>Screenshot</h1>\r<img src=\"http://blogs.microsoft.co.il/blogs/tamir/WindowsLiveWriter/WebcamcontrolwithWPForhowtocreatehighfra_12F13/image_6bcb2dac-e598-4e0f-83f3-29f231cb703b.png\" /><br />\n<h1>Usage</h1>\rThe usage of the control is similar to the usage of regular WPF Image control<br /><span class=\"codeInline\">&lt;cap:CapPlayer xmlns:cap=&quot;http://schemas.sharpsoft.net/xaml&quot;/&gt;</span></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,C# 3.5,WPF controls,Webcam,directshow,bitmaps,OpenUp,video,C# 3.0,",
+  "LastEdited": "2009-01-02T01:49:27.13-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfcurrencytextbox",
+  "Title": "WPF Currency TextBox",
+  "Description": "A WPF TextBox for entering a currency value, similar to how a cash register works.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>This project is now hosted on GitHub: <a href=\"https://github.com/mtusk/wpf-currency-textbox\">https://github.com/mtusk/wpf-currency-textbox</a></h3>\r\n<br /><br /><br /><br /><br /><br /><br /><br /><br />\n<h2>Description</h2>\rA WPF TextBox for entering a currency value, similar to how a cash register works.\n<ul><li>Numbers typed are pushed in from the right.  If we start with the default value 0.00, and start typing the numbers 123, the value updates as such: 0.00 =&gt; 0.01 =&gt; 0.12 =&gt; 1.23</li>\n<li>If we press the backspace key, the numbers are shifted right: 1.23 =&gt; 0.12 =&gt; 0.01 =&gt; 0.00</li>\n<li>If we press the delete key, the value is reset to 0.00.</li>\n<li>If we press the minus key, the value becomes negative.</li>\n<li>Copy and paste are disabled (both via context menu and keyboard shortcuts)</li>\n<li>This control&#39;s template can be customized to change the appearance.</li>\n<li>Supports data validation.</li></ul>\n<h2>Screenshots</h2>\r<img src=\"/projects/wpfcurrencytextbox/9317f4d9-806d-4329-9034-4bdf27024fe9\" alt=\"CurrencyTextBox&#32;Example\" title=\"CurrencyTextBox&#32;Example\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-02-10T17:44:13.053-08:00"
+}

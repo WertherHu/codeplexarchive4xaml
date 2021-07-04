@@ -1,0 +1,9 @@
+{
+  "ProjectName": "parvis",
+  "Title": "ParVis - Vigsel i Stockholms stadshus",
+  "Description": "Stockholms stads applikation Parvis\n \nInput Consulting har för Stockholms stad, i nära samarbete med KF/KS kansli, utvecklat en e-tjänst för hantering av vigslar.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Stockholms stads applikation Parvis<br /> <br />Input Consulting har f&#246;r Stockholms stad, i n&#228;ra samarbete med KF&#47;KS kansli, utvecklat en e-tj&#228;nst f&#246;r hantering av vigslar.<br /><br /><br />Stockholms stads sida f&#246;r bokning av vigslar<br /><a href=\"http://www.parvis.stockholm.se/\">http://www.parvis.stockholm.se/</a><br /><br />Input Consulting<br /><a href=\"http://www.input-consulting.se/\">http://www.input-consulting.se/</a><br /><br />Robert Folkesson, teknisk evangelist p&#229; Microsoft, har p&#229; sin blogg presenterat detta projekt som ett snyggt exempel p&#229; anv&#228;ndning av teknologierna WPF, Prism och WCF.<br /><a href=\"http://blogs.msdn.com/robf/archive/2009/08/11/snyggt-exempel-p-anv-ndning-av-wpf-prism-och-wcf-stockholms-stad-vigpar.aspx\">http://blogs.msdn.com/robf/archive/2009/08/11/snyggt-exempel-p-anv-ndning-av-wpf-prism-och-wcf-stockholms-stad-vigpar.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WCF,",
+  "LastEdited": "2009-09-21T00:43:53.853-07:00"
+}

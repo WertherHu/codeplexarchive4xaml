@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spotifytalker",
+  "Title": "SpotifyTalker",
+  "Description": "Provides a bidirectional communication \"interface\" with Spotify. The user gets notified when Spotify changes track and it provides basic control e.g. change track, control volume, etc.\nWritten in C# and requires Microsoft .NET Framework 2.0",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides a bidirectional communication &#34;interface&#34; with Spotify. The user gets notified when Spotify changes track and it provides basic control e.g. change track, control volume, etc.<br />Written in C&#35; and requires Microsoft .NET Framework 2.0</div><div class=\"ClearBoth\"></div>",
+  "TagList": "spotify,spotifyapi,",
+  "LastEdited": "2009-03-14T13:29:40.37-07:00"
+}

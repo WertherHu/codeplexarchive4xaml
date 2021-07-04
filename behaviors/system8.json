@@ -1,0 +1,9 @@
+{
+  "ProjectName": "system8",
+  "Title": "System8",
+  "Description": "Experimental Silverlight project to help understand system 8's behavior (mehod of calibration bottom-quark tagging).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Experimental Silverlight project to help understand system 8&#39;s behavior &#40;mehod of calibration bottom-quark tagging&#41;.<br /><br /><b>Introduction</b><br />This is my attempt to use Sliverlight for something &quot;sciency&quot;. We have calibration method that has 8 unkowns and 8 equations - and a bunch of assumptions that go into those equations. The code here is an attempt to build a tool that allows one to interactively explore System 8&#39;s behavior using Silverlight.<br /><br />I&#39;ll put up a link when I get it served from somewhere.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-02T23:45:24.32-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sbattle",
+  "Title": "Sea Battle",
+  "Description": "Simple implementation of Sea Battle game over network.\r\nCreated with educational purposes.\r\nUI written in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Simple implementation of Sea Battle game over network.<br />Created with educational purposes.<br />UI written in WPF.<br /><br /><img src=\"https://www.codeplex.com/Download?ProjectName=sbattle&amp;DownloadId=768292\" /><br /><br />Solution consists of two applications: server and client.<br /><br />Supports local network server discovery, also you can enter server address manually.<br /><br /><img src=\"https://www.codeplex.com/Download?ProjectName=sbattle&amp;DownloadId=768286\" /><br /><br />Server has lobby with chat, which is isolated from competition-local chats.<br /><br /><img src=\"https://www.codeplex.com/Download?ProjectName=sbattle&amp;DownloadId=768287\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-14T15:24:25.987-08:00"
+}

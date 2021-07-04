@@ -1,0 +1,9 @@
+{
+  "ProjectName": "irisen",
+  "Title": "Irisen",
+  "Description": "Irisen is a game engine, designer and executer system. This system is designed for building RPG or SLG games, but it's also useful for others in some aspects.\n\nThis project is developed in C# language using Sliverlight, WPF and XNA techniques.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\r\nIrisen is a game engine, designer and executer system. This system is designed for building RPG or SLG games, but it&#39;s also useful for others in some aspects.<br /><br />This project is developed in C&#35; language using Sliverlight, WPF and XNA techniques.<br />\n<h1>Target Platform</h1>\rThis project is subjected to 2 user groups, These 2 groups may have different software requiements.\n<h2>For Developer</h2>\rDevelopers should have Silverlight 4 (for web data designer), .NET Framework 4.0 (for client data designer, packager and debugger) and XNA 4.0 (for visual designer) installed in their computers.\n<h2>For Runner</h2>\rRunners should have .NET Framework 4.0 and XNA 4.0 installed in their computers.<br />\n<h1>Architecture</h1>\r\nTo see the architecture of this project, please visit the <a href=\"https://irisen.codeplex.com/wikipage?title=Project%20Architecture&referringTitle=Home\">Project Architecture</a> Page.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-03T04:59:45.83-07:00"
+}

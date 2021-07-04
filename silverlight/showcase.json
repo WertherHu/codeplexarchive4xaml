@@ -1,0 +1,9 @@
+{
+  "ProjectName": "showcase",
+  "Title": "Raona Showcase",
+  "Description": "Raona Showcase is a new visualization concept that applies new Silverlight 3 features to traditional commercial displays. It's useful to mix images and messages in a configurable scenario via XML files and put focus on valuable products, services and samples. Created by RaonaLab.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Raona Showcase is a new visualization concept that applies new Silverlight 3 features to traditional commercial displays. It&#39;s useful to mix images and messages in a configurable scenario via XML files and put focus on valuable products, services and samples. Created by RaonaLab.<br /><br />These are some Raona Showcase working samples:<br /><br /><a href=\"http://lab.raona.com/showcasetest\">Basic Sample</a><br /><a href=\"http://www.raonalab.com/en/projects.htm\">RaonaLab Projects</a><br /><br /><img src=\"http://lab.raona.com/showcasetest/ClientBin/Images/Screen/RaonaShowcase.jpg\" /><br /><br />More information about <a href=\"http://www.raona.com\">Raona</a> and <a href=\"http://www.raonalab.com\">RaonaLab</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 3,Silverlight,marketing,.NET,gallery,raona,raonalab,xaml,Image,",
+  "LastEdited": "2009-11-10T05:31:54.843-08:00"
+}

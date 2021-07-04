@@ -1,0 +1,9 @@
+{
+  "ProjectName": "drawinglibrary",
+  "Title": "E Drawing Library for WinRT",
+  "Description": "E Drawing Library for WinRT lets you create graphic rich Windows Store Apps easily, giving you all the power of Direct2D with simple classes and methods.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />E Drawing Library for WinRT lets you create graphic rich Windows Store Apps easily, giving you all the power of Direct2D with simple classes and methods.<br /><br />Its main feature is that it acts as a compatibility library for .NET Framework&#39;s System.Drawing, so it will let you port some of your existing .NET console applications easily. <br /><br />It also lets you export the resulting drawings easily to an image file that can be saved to your computer.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-02T17:27:01.69-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "udf",
+  "Title": "UDF Factory",
+  "Description": "A pure C#, Metro-friendly library for creating UDF 1.02 (ECMA-167) filesystem images.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A pure C&#35;, Metro-friendly library for creating UDF 1.02 &#40;ECMA-167&#41; filesystem images.<br /><br />Was going to be a UDF 1.02 library for WinRT. Due to Microsoft dropping support for MPEG-2 in C#, this project was never completed and is suspended indefinitely :-[<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-21T13:30:22.193-07:00"
+}

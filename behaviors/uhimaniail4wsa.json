@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uhimaniail4wsa",
+  "Title": "Interactivity Libraries for Windows Store App",
+  "Description": "System.Windows.Interactivity の Windows ストアアプリ向け実装です。\r\nWindows ストアアプリで Trigger や Behavior を利用できます。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">System.Windows.Interactivity の Windows ストアアプリ向け実装です。<br />Windows ストアアプリで Trigger や Behavior を利用できます。<br /><br /><pre>\n&lt;Page\n    x:Class=&quot;App1.MainPage&quot;\n    xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;\n    xmlns:x=&quot;http://schemas.microsoft.com/winfx/2006/xaml&quot;\n    xmlns:local=&quot;using:App1&quot;\n    xmlns:d=&quot;http://schemas.microsoft.com/expression/blend/2008&quot;\n    xmlns:mc=&quot;http://schemas.openxmlformats.org/markup-compatibility/2006&quot;\n    xmlns:i=&quot;using:Uhimania.Libraries.Windows.Interactivity&quot;\n    mc:Ignorable=&quot;d&quot;&gt;\n\n    &lt;Page.DataContext&gt;\n        &lt;local:ViewModel /&gt;\n    &lt;/Page.DataContext&gt;\n    \n    &lt;Grid Background=&quot;{StaticResource ApplicationPageBackgroundThemeBrush}&quot;&gt;\n        &lt;Button Content=&quot;click&quot;&gt;\n            &lt;i:Interaction.Triggers&gt;\n                &lt;i:EventTrigger EventName=&quot;Click&quot;&gt;\n                    &lt;i:InvokeCommandAction Command=&quot;{Binding Path=ShowMessageCommand}&quot;\n                                           CommandParameter=&quot;foo&quot; /&gt;\n                &lt;/i:EventTrigger&gt;\n            &lt;/i:Interaction.Triggers&gt;\n        &lt;/Button&gt;\n    &lt;/Grid&gt;\n&lt;/Page&gt;\n</pre><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Interaction,Trigger,Behavior,",
+  "LastEdited": "2012-10-13T18:33:18.277-07:00"
+}

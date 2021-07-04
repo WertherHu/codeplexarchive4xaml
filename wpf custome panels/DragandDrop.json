@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DragandDrop",
+  "Title": "Drag and Drop Controls",
+  "Description": "Here you can drag and drop any controls in run time.\r\n\r\nControls can be of type:\r\n1:Winforms.\r\n2:WPF.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><a title=\"Buy me a cup of cofee\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=bhushanpoojary%40gmail%2ecom&lc=US&item_name=Column%20To%20Chooser&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest\" target=\"_blank\"><img src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=wpfextendeddatagrid&DownloadId=528935\" alt=\"\" width=\"300\" height=\"90\" style=\"float:right\"></a></p>\r\n<p>&nbsp;Here you can drag and drop any controls in run time.</p>\r\n<p><br>\r\nControls can be of type:<br>\r\n1:<strong>Winforms.</strong><br>\r\n2:<strong>WPF.</strong><br>\r\n<br>\r\n<strong>Demo</strong><br>\r\n<br>\r\n<a href=\"http://www.youtube.com/watch?v=OAz4A6ujvPk&context=C3d38053ADOEgsToPDskKAF2ajaQyDPywbj1NYwZyt\">Click here</a> to view the video.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Drag and drop,Winform Drag and Dro,WPF Drag and Drop,",
+  "LastEdited": "2012-11-14T02:21:50.21-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "powerevents",
+  "Title": "PowerEvents for Windows PowerShell",
+  "Description": "A Microsoft Windows PowerShell module to assist with managing permanent WMI event consumer registrations. You can use this module to register for, and respond to, system-level events available to WMI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3><b></b>IMPORTANT<b></b>: This project has <a href=\"https://www.github.com/pcgeek86/PowerEvents\">moved to GitHub</a>.</h3></div><div class=\"ClearBoth\"></div>",
+  "TagList": "powershell,module,posh,windows management,instrumentation,events,Event Management,scripting,automation,automate,microsoft,Active Directory,SCCM,configmgr,WMI,",
+  "LastEdited": "2016-02-17T07:39:29.213-08:00"
+}

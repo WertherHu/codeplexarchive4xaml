@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PrintQueueWatch",
+  "Title": "PrintQueueWatch printer monitoring component",
+  "Description": "PrintQueueWatch is a .NET component (as class library) that facilitates monitoring one or more printers from a WinForms application and gathering information from the print system above and beyond that provided by the .NET Framework\n\nIt is developed in VB.Net ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PrintQueueWatch is a .NET component &#40;as class library&#41; that facilitates monitoring one or more printers from a WinForms application and gathering information from the print system above and beyond that provided by the .NET Framework<br /><br />It is developed in VB.Net <br /><br /><br />This component forms part of the (<a href=\"http://www.codeplex.com/PUMA\">http://www.codeplex.com/PUMA</a>) Printer usage monitoring application but has been hived off into its own CodePlex project in order to facilitate faster release cycles and out-of-scope changes got the component alone.<br /><br /><b>Documentation</b>\n<ul><li><a href=\"https://printqueuewatch.codeplex.com/wikipage?title=Getting%20started&referringTitle=Home\">Getting started</a> - A quick demonstration of how you can use the PrintQueueWatch component</li>\n<li><a href=\"https://printqueuewatch.codeplex.com/wikipage?title=Frequently%20asked%20questions&referringTitle=Home\">Frequently asked questions</a> - A list of known issues and frequently asked questions pertaining to the PrintQueueWatch component</li>\n<li><a href=\"https://printqueuewatch.codeplex.com/wikipage?title=Class%20library&referringTitle=Home\">Class library</a> - Describes the classes in the PrintQueueWatch component and how they are used (with sample code in VB.Net and C# where provided)</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "VB.NET,VB.NET Controls,Printer,PrintQueueWatch,",
+  "LastEdited": "2008-02-21T05:07:21.873-08:00"
+}

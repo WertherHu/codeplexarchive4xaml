@@ -1,0 +1,9 @@
+{
+  "ProjectName": "alwaysonavailabilitygroupswaic",
+  "Title": "Where am I connected?",
+  "Description": "The purpose of this project is provide an easier way to test the behavior of the AlwaysOn Availability Groups connection response, using the listener.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>SQL Server AlwaysOn Availability Groups - Where am I connected?</b><br />The purpose of this project is provide an easier way to test the behavior of the AlwaysOn Availability Groups connection response, using the listener.<br /><br />The purpose of this project is provide an easier way to test the behavior of the AlwaysOn Availability Groups connection response, using the listener.<br /><br />There are three kinds of possible tests:\n<ul><li>Is the AG listener working as expected?</li>\n<li>Is the read-only routing working?</li>\n<li>The the end-user using the correct connection string?</li></ul>\n<br />From SQL Server 2016, connections using the Application Intent &quot;ReadOnly&quot; are distributed between the readable replicas based on Round-robin algorithm, this can be also tested using this application.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-02-17T14:17:26.753-08:00"
+}

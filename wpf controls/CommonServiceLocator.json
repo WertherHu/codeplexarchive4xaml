@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CommonServiceLocator",
+  "Title": "CommonServiceLocator",
+  "Description": " Common Service Locator library is now located here: https://github.com/unitycontainer/commonservicelocator",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>This project has been <a href=\"https://github.com/unitycontainer/commonservicelocator\">\r\nrelocated to GitHub</a>.</h1>\r\n<p>It is no longer owned by the <a href=\"http://aka.ms/mspnp\">patterns &amp; practices</a>&nbsp;team.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "dependency injection,IOC,Service locator,Inversion of Control,CommonServiceLocator,MyLlist.Infrastructu,patterns & practices,Enterprise Library,Basic,architecture,unity,IoC/DI,StructureMap,MEF,Common Service Locat,",
+  "LastEdited": "2016-10-11T10:24:21.647-07:00"
+}

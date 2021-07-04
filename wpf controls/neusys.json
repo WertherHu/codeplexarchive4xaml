@@ -1,0 +1,9 @@
+{
+  "ProjectName": "neusys",
+  "Title": "Neural Interface System",
+  "Description": "NeuSys is a neuroscience research system that integrate neural signal acquisition, on-line and off-line analysis and control of hardware and software. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2><b>Welcome to NeuSys</b></h2>\rNeuSys is a neuroscience research system that integrate neural signal acquisition, on-line and off-line analysis and control of hardware and software. <br /><br /><br /><b>Overview</b><br />NeuSys is designed to make Brain-Computer Interface(BCI) or closed-loop experiment more easily, it has three main subsystems, one is for control and query data from various data acquisition hardware, one is for signal analysis and visualization and one is for control of other software or hadware.<br /><br />The Signal subsystem is a hardware abstraction layer that use vendor specific library to control hardware and query signal data through <i><u>neuroshare</u></i> <a href=\"http://neuroshare.sourceforge.net\">http://neuroshare.sourceforge.net</a> standard APIs.<br />The Analysis subsystem is a scripting mudule that can be customized by user analysis algorithm in IronPython.<br />The Control subsystem connect other hardware or software(such as <i><u>StiLib</u></i> <a href=\"http://stilib.codeplex.com\">http://stilib.codeplex.com</a>) to get real-time control of experiment.<br /><br /><br /><b>SourceCode Control have been adopted to Git, check the latest development progress of NeuSys on GitHub:</b><br /><a href=\"http://github.com/babaq/NeuSys\">http://github.com/babaq/NeuSys</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,scientific,Neuroscience,BCI,F#,",
+  "LastEdited": "2010-01-16T22:55:37.96-08:00"
+}

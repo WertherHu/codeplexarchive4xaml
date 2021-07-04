@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iconizedbutton",
+  "Title": "IconizedButton Control Set",
+  "Description": "ASP.NET WebForms IconizedButton Custom Control Set.  Replaces the dull Button/LinkButton/HyperLink controls with styling and left and right aligned icons (via FamFamFam icon set).  Contains built-in control styles/skins.  Available customized user-configured styles/skins via CSS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET WebForms IconizedButton Custom Control Set.  Replaces the dull Button&#47;LinkButton&#47;HyperLink controls with styling and left and right aligned icons &#40;via FamFamFam icon set&#41;.  Contains built-in control styles&#47;skins.  Available customized user-configured styles&#47;skins via CSS.<br /><br /><br /><b>IconizedButton Control Set Documentation</b>: <br />I wanted to put all the documentation here or on the Documentation tab; however, I&#39;m not a fan of the Wiki markup.  If you&#39;re interested, take a look at my blog entry covering the documentation here: <a href=\"http://tdryan.blogspot.com/2010/06/iconizedbutton-aspnet-control-set_15.html\">IconizedButton Control Set Documentation</a>.<br /><br /><b>Online Demo</b>: <a href=\"http://tdanryan.com/demo/iconizedbutton/\">IconizedButton Control Set Online Demo</a><br /><br /><b>IconizedButton Screenshot:</b><br /><img src=\"http://lh4.ggpht.com/_fCDAga0oaOc/TBUu12r_N6I/AAAAAAAABEo/5Y9f_QKn6tU/ib_functional0.PNG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-17T12:30:00.657-07:00"
+}

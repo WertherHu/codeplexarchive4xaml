@@ -1,0 +1,9 @@
+{
+  "ProjectName": "docktab",
+  "Title": "DockTab Framework for WPF",
+  "Description": "A WPF docking framework (like Visual Studio or Expression Blend) with a strong focus on ease of use and performance. It provides DockTabControl that arranges it child DockTabItem and a windowing system that allows you to drag, drop and dock items between windows.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF docking framework &#40;like Visual Studio or Expression Blend&#41; with a strong focus on ease of use and performance. It provides DockTabControl that arranges it child DockTabItem and a windowing system that allows you to drag, drop and dock items between windows.<br /><br /><b><i>We are still in very early development state. Absolutely nothing is working yet.</i></b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF docking,",
+  "LastEdited": "2010-05-19T14:35:55.57-07:00"
+}

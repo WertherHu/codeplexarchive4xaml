@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Captcha",
+  "Title": "ASP.NET Captcha",
+  "Description": "A C# port of Jeff Atwood's ASP.NET Captcha Control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A C&#35; port of Jeff Atwood&#39;s ASP.NET Captcha Control.<br /><br />Jeff&#39;s CodeProject page is here: http://www.codeproject.com/KB/custom-controls/CaptchaControl.aspx<br />He wrote a CAPTCHA control in VB.NET. <br /><br />This project ports it to C#.<br /><br />To use, here&#39;s the items you need to add the the <span class=\"codeInline\">web.config</span>.<br /><pre>&lt;httpHandlers&gt;\n\t&lt;add verb=&quot;GET&quot; path=&quot;CaptchaImage.aspx&quot; type=&quot;WebControlCaptcha.CaptchaImageHandler, WebControlCaptcha&quot; /&gt;\n&lt;/httpHandlers&gt;\n</pre><br /><br /><pre>\n&lt;pages&gt;\n\t&lt;controls&gt;\n\t\t&lt;add tagPrefix=&quot;captcha&quot; namespace=&quot;WebControlCaptcha&quot; assembly=&quot;WebControlCaptcha&quot;/&gt;\n\t&lt;/controls&gt;\n&lt;/pages&gt;\n</pre></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Imaging,ASP.NET,",
+  "LastEdited": "2008-03-28T08:14:09.623-07:00"
+}

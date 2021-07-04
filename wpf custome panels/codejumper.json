@@ -1,0 +1,9 @@
+{
+  "ProjectName": "codejumper",
+  "Title": "Code Jumper",
+  "Description": "Code-Jumper allows you to navigate your code by displaying a map of your declarations on the side panel of your editor. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Code Jumper is a project I hacked together in a week to provide a free alternative to code navigation inside Visual Studio.</p>\r\n<p>Current features are:</p>\r\n<ul>\r\n<li>Parsing of C#, VB, C/C&#43;&#43;, C/C&#43;&#43; CLI </li><li>Basic refactoring: Rename </li><li>Themable via XAML configuration </li></ul>\r\n<p><br>\r\n<br>\r\n<img title=\"elementmap.png\" src=\"http://www.codeplex.com/Download?ProjectName=codejumper&DownloadId=514004\" alt=\"elementmap.png\" style=\"float:left\"><br>\r\n<img title=\"elementmap2.png\" src=\"http://www.codeplex.com/Download?ProjectName=codejumper&DownloadId=514005\" alt=\"elementmap2.png\" style=\"float:left\"><br>\r\n<img title=\"elementmap3.png\" src=\"http://www.codeplex.com/Download?ProjectName=codejumper&DownloadId=514006\" alt=\"elementmap3.png\" style=\"float:left\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-18T10:40:46.86-07:00"
+}

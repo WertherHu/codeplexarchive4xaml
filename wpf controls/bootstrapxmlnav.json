@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bootstrapxmlnav",
+  "Title": "Bootstrap XML Navigation",
+  "Description": "Bootstrap XML Navigation is an ASP.NET Server Control which provide the ability to off-load your Bootstrap navigation structure to external XML files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Bootstrap XML Navigation is an ASP.NET Server Control which provide the ability to off-load your Bootstrap navigation structure to external XML files.<br /><br />First off, I want to say I love Twitter Bootstrap.  Bootstrap provides an amazing responsive framework to build web sites on.  Web applications/sites can be rapidly stood-up with a great responsive look-and-feel.<br /><br />The navigation component of Twitter Bootstrap is beast.  Like many, I like to define my navigation in an external file.  In my case and XML file.<br /><br />Bootstrap XML Navigation is an ASP.NET Server Control which provide the ability to off-load your navigation structure to external XML files. I have used the server control with great success in multiple projects which use Twitter Bootstrap.<br /><br />Ultimately, I wanted to clean up the HTML markup associated with navigation, which the control does, considerably.  The XML associated with a Bootstrap XML Navigation menu is intuitive and easy to modify.<br /><br />I welcome all recommendations to approve upon this code.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-11T22:25:39.27-07:00"
+}

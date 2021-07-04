@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp7designtemplates",
+  "Title": "Windows Phone 7 Design Templates",
+  "Description": "A project for sharing XAML based resources for creating consistent Windows Phone 7 user experiences",
+  "MovedLink": "",
+  "HomeWiki": "\r\n<div class=\"wikidoc\"><span style=\"color:#7f7f7f; font-size:24pt\">Project description<br>\r\n</span>A project for sharing XAML based resources for creating consistent Windows Phone 7 user experiences. The templates are based on the\r\n<a href=\"http://msdn.microsoft.com/en-us/library/hh202915(v=VS.92).aspx\" target=\"_blank\">\r\nUI Design and Interaction Guide for Windows Phone 7</a>. With these templates you can easily create common Windows Phone UI layouts by simply copying and pasting the desired page. We&rsquo;ve taken care of the margins, styling, and custom controls that may\r\n not be available in the platform.</div>\r\n<div class=\"wikidoc\">\r\n<p><strong>**Please make sure to install the latest Windows Phone Toolkit</strong></p>\r\n</div>\r\n<div class=\"wikidoc\">\r\n<p><span style=\"color:#7f7f7f; font-size:24pt\"><img src=\"/projects/wp7designtemplates/cb2dfc08-8e2a-4dcb-a7b1-4bc0ff5a6f24\" alt=\"\"></span></p>\r\n</div>\r\n",
+  "TagList": "wp7dev,Windows Phone 7,WP7,Template,Silverlight,windows phone,UI,windows phone design,design template,phone,UI design,",
+  "LastEdited": "2013-02-20T13:06:59.6-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "splitter",
+  "Title": "The Splitter",
+  "Description": "\nSince there is a lack of string processing libraries in naitive C and the other available libraries cannot be trusted to have memory leaks or buffer overrun. This is a project to create a library which can deal with both ASCII and Unicode Characters  \nand can split strings. I have no intention to replace the whole of the string.h or wchar.h or ctype.h library. But I am fed up of strtok's implementation and working style which makes it unusable in scenarios like threaded environments.\n\n\nHence the Objective is to \nCreate a library which can be ported to multiple operating Systems (typically X and windows) and can deal with multiple character sets to split a given string szStr in to a list of strings according to a given pattern szDelim.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1> String Splitter</h1>\r\nSince there is a lack of string processing libraries in naitive C and the other available libraries cannot be trusted to have memory leaks or buffer overrun. This is a project to create a library which can deal with both ASCII and Unicode Characters  <br />and can split strings. I have no intention to replace the whole of the string.h or wchar.h or ctype.h library. But I am fed up of strtok&#39;s implementation and working style which makes it unusable in scenarios like threaded environments.<br /><br /><br />Hence the Objective is to <br />Create a library which can be ported to multiple operating Systems (typically X and windows) and can deal with multiple character sets to split a given string szStr in to a list of strings according to a given pattern szDelim.<br /><br /> <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-10-21T01:39:40.053-07:00"
+}

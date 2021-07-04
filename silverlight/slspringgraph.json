@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slspringgraph",
+  "Title": "Silverlight Spring Graph",
+  "Description": "Silverlight Spring Graph is an open source port of http://mark-shepherd.com/blog/springgraph-flex-component/ Flex Spring Graph.\r\n\r\nIt displays a set of items that are linked to each other using an organic display and allowing to drag them.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Silverlight Spring Graph is an open source port of <a href=\"http://mark-shepherd.com/blog/springgraph-flex-component/\">Flex Spring Graph</a>.<br /><br />It displays a set of items that are linked to each other using an organic display and allowing to drag them.<br /><br />Check out some demos:<br />\n<ul><li><a href=\"http://christiandotnet.com/demos/slspringgraph/\">Simple examples:</a>.</li></ul>\n<a href=\"http://christiandotnet.com/demos/slspringgraph/\"><img style=\"border:none;\" src=\"http://christiandotnet.com/img/slspringgraph/simple.png\" alt=\"Simple examples\" title=\"Simple examples\" /></a><br />\n<ul><li><a href=\"http://christiandotnet.com/demos/molecule/\">Molecule Viewer:</a>.</li></ul>\n<a href=\"http://christiandotnet.com/demos/molecule/\"><img style=\"border:none;\" src=\"http://christiandotnet.com/img/slspringgraph/molecule.png\" alt=\"Molecule Viewer\" title=\"Molecule Viewer\" /></a><br />\n<ul><li><a href=\"http://christiandotnet.com/demos/twitter/\">Twitter Followers Graph:</a>.</li></ul>\n<a href=\"http://christiandotnet.com/demos/twitter/\"><img style=\"border:none;\" src=\"http://christiandotnet.com/img/slspringgraph/twitter.png\" alt=\"Twitter Followers Graph\" title=\"Twitter Followers Graph\" /></a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Library,graph,",
+  "LastEdited": "2011-09-08T00:36:26.977-07:00"
+}

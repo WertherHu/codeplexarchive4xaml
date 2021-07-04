@@ -1,0 +1,9 @@
+{
+  "ProjectName": "knowledgeexchange",
+  "Title": "ASP.NET MVC 2 Knowledge Exchange inspired by StackOverflow",
+  "Description": "This code base will follow along with a DotNetSlackers.com article series where I build a StackOverflow style knowledge exchange from A to Z using asp.net mvc 2, LINQ to SQL, DDD, TDD, SOLID, CruiseControl.net, and various other patterns, principles, and technologies.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This code base will follow along with a DotNetSlackers.com article series where I build a StackOverflow style knowledge exchange from A to Z using asp.net mvc 2, LINQ to SQL, DDD, TDD, SOLID, CruiseControl.net, and various other patterns, principles, and technologies.<br /><br /><br />You can find the index for the article series on <a href=\"http://DotNetSlackers.com\">http://DotNetSlackers.com</a> located at this url: <a href=\"http://dotnetslackers.com/projects/StackOverflowInspiredKnowledgeExchange/\">http://dotnetslackers.com/projects/StackOverflowInspiredKnowledgeExchange/</a>.<br /><br />The goal of this article series is not just to outline the coding aspects of a project of this nature but instead will detail all aspects of creating an enterprise style application of this nature.  We will discucss topics such as testing, build automation, continuous integration, source control, design patterns, best practices, and many many other tools and topics.<br /><br />Follow along with me at DotNetSlackers.com to see how I would build a site like <a href=\"http://StackOverflow.com\">http://StackOverflow.com</a>!<br /><br /><b>Our partners:</b><br /><img src=\"http://dotnetslackers.com/dnsimages/100x30.gif\" /> <a href=\"http://DotNetSlackers.com\">http://DotNetSlackers.com</a><br /><a href=\"http://NDepend.com\">http://NDepend.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "architecture,",
+  "LastEdited": "2009-10-12T10:26:59.257-07:00"
+}

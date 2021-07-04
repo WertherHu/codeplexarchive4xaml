@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ArchX",
+  "Title": "Arch-X",
+  "Description": "Arch-X is a drawing and architectural software. It demonstrate WPF, MVVM pattern and graphical ruler components among other things",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Arch-X is a drawing and architectural software. It demonstrate WPF, MVVM pattern and graphical ruler components among other things<br /><br /><b>Due to codeplex shutdown, moved to github ==&gt; <a href=\"https://github.com/TheCamel/ArchX\">https://github.com/TheCamel/ArchX</a></b><br /><br />Currently in a very beta stage, it will contains :<br />- Documents, simple drawings<br />- Ruler control (horizontal, vertical and diagonal bars)<br />- Guidelines<br />- Mouse position<br />- Designed to support MVVM pattern and accept several type of drawing documents<br /><br />Will perhaps have more complex drawing documents, layers, snap functions.<br /><br />A technical article will be published on codeproject as soon as possible.<br />\n<h2>Search for a designer</h2>\rwith expression designer to complete the icon gallery and submit to https://materialdesignicons.com/ for contribution<br /><br /><img src=\"/projects/ArchX/08998552-7e30-46c0-aef4-eb00cec51b36\" alt=\"archX1.png\" title=\"archX1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Ruler,guideline,snapping,",
+  "LastEdited": "2017-04-24T01:02:39.043-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kineticlistview",
+  "Title": "Wpf Touch Enabled List View",
+  "Description": "A simple control that inherits from WPF standard listview to handle some mouse event for support on touch screen.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a simple WPF control that inherits from ListView and add some movement effects with drag and drop. It is meant to be used in touch screen environment.<br /><br />Some details can be found Here: <a href=\"http://www.codewrecks.com/blog/index.php/2010/12/20/wpf-listview-with-better-touch-support/\">http://www.codewrecks.com/blog/index.php/2010/12/20/wpf-listview-with-better-touch-support/</a><br /><br />Currently there is no fixed release, just grab the code for the control and make whathever u want with it. :)<br /><br />The code is based and inspired by these two articles.<br /><a href=\"http://www.codeproject.com/KB/WPF/DraggableListView.aspx/\">http://www.codeproject.com/KB/WPF/DraggableListView.aspx/</a><br /><a href=\"http://www.codeproject.com/KB/WPF/DraggableListView.aspx/\">http://www.codeproject.com/KB/WPF/DraggableListView.aspx/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-14T04:01:18.983-08:00"
+}

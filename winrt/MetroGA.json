@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MetroGA",
+  "Title": "MetroGA",
+  "Description": "This component allows you to implement Google Analytics on your WinRT apps.\r\nIt is based on Google Analytics Mobile Apps to enable better reports.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This component allows you to implement Google Analytics on your WinRT apps.<br />It is based on Google Analytics Mobile Apps to enable better reports.<br /><br />The binaries are already available on NuGet: <a href=\"http://nuget.org/packages/MetroGA\">http://nuget.org/packages/MetroGA</a><br />Source code will follow soon...</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-01-20T12:51:52.443-08:00"
+}

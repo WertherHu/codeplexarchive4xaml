@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ShumaDaf",
+  "Title": "ShumaDaf",
+  "Description": "small project for display movies info directly from file structure using mymovies.xml. program create one simple xml file and display it!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\r\nShumaDaf is a movies collection management program. ShumaDaf allows you to analyze the content of your collection, enter and edit additional user data, and watch movies by using external players. The program works on the basis of data created by &quot;My Movies&quot; <a href=\"http://www.mymovies.dk\">http://www.mymovies.dk</a><br />MyMovies is a good tool for adding information about movies to your collection. But it is not very good decision for future collection management. If you are using MyMovies to manage your collection but not satisfied with its usability - then try ShumaDaf.<br /><br /> <a href=\"https://shumadaf.codeplex.com/releases/view/69290\">ShumaDaf 1.0.3.0 RELEASE</a>  first stable available now!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF Datarid,DataGrid,XML,XMLDataProvider,Sorting,Filtering,Binding,converter,Collection Managemen,",
+  "LastEdited": "2011-06-30T00:35:41.843-07:00"
+}

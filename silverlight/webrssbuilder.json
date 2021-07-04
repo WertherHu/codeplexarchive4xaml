@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webrssbuilder",
+  "Title": "Web RSS Builder",
+  "Description": "Web RSS Builder is a program to manage RSS files using web interface and Silverlight. With a standard ASP.NET authentication and authorization. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWeb RSS Builder is an application for managing&nbsp;RSS files using web interface and Silverlight, with a standard ASP.NET authentication and role based authorization. This application to be used on Internet Information Server (IIS) to manage manually local\r\n RSS files.</p>\r\n<p>If you want to an insight about how this application architecture, design, and implementation. You can check the articles I wrote on Code Project:</p>\r\n<ul>\r\n<li><a href=\"http://www.codeproject.com/KB/silverlight/WebRSSBuilder-Part1.aspx\">Web RSS Builder Part-1: Generic XML data source for ASP.Net and Silverlight&nbsp;\r\n</a></li><li><a href=\"http://www.codeproject.com/KB/silverlight/WebRSSBuilder-Part2.aspx\">Web RSS Builder Part-2:&nbsp;The ASP.Net application.</a>\r\n</li><li><a href=\"http://www.codeproject.com/KB/silverlight/WebRSSBuilder-Part3.aspx\">Web RSS Builder Part-3: The Silverlight Application.&nbsp;</a>\r\n</li></ul>\r\n<p>This application is written by: Sofian Alsalman Hnaide&nbsp;</p>\r\n<p>sofean86 [at] hotmail [dot] com</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-29T10:43:55.337-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "adconfiguration",
+  "Title": "Ad Configuration + Rotator for Windows Phone",
+  "Description": "Ad Configuration and Rotator for Windows Phone is a set of classes and controls which allow you to remotely manage advertising providers used inside your Windows Phone application. Advertising providers can be plugged in on an 'as needed' so application only ship with the providers being used.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Ad Configuration and Rotator for Windows Phone is a set of classes and controls which allow you to remotely manage advertising providers used inside your Windows Phone application. Advertising providers can be plugged in on an &#39;as needed&#39; so application only ship with the providers being used.<br /><br /><b>AdvertisingConfiguration</b><br />An ad configuration class which contains ad provider and placement.  The configuration classes can be serialized to JSON for dynamic and remote configuration.<br /><br /><b>AdvertisingControl</b><br />An ad rotator control which uses an instance of AdvertisingConfiguration to automatically configure itself.<br /><br /><b>Supported Providers</b>\n<ul><li>Google AdMob</li>\n<li>Microsoft PubCenter</li>\n<li>AdDuplex</li>\n<li>Inneractive</li>\n<li>Smaato (coming soon)</li></ul>\n<br /><b>IMPORTANT:</b> The Google AdMob control has been recompiled to remove the inclusion of any code from the Microsoft.Phone.Info namespace.  The AdMob control will no longer cause your Windows Phone application to be flagged as requiring &#39;Owner Identity&#39; and &#39;Phone Identity&#39;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-14T17:35:41.657-07:00"
+}

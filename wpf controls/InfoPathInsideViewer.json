@@ -1,0 +1,9 @@
+{
+  "ProjectName": "InfoPathInsideViewer",
+  "Title": "InfoPath Inside Viewer",
+  "Description": "InfoPath Inside Viewer makes it easier for InfoPath developers to search data fields, find the binding controls of a data field, list all data sources used or non-used by InfoPath with internal name and display name. It provides a preview mode to show binding controls of a field.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">InfoPath Inside Viewer has been incorperated into <a href=\"https://github.com/mazong1123/infopathanalyzer\">InfoPath Analyzer</a> and free &amp; open source.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "InfoPath,Search,Data Field,Data Source,Preview,view,internal name,Lookup field,",
+  "LastEdited": "2016-11-12T02:44:07.787-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightUIKit",
+  "Title": "Silverlight UIKit",
+  "Description": "The iPhone's UIKit ported to Silverlight and WPF. Using as much of the patterns and conventions in the iPhone SDK to eventually help developers port code from the iPhone to WPF or Silverlight and vice-versa. \nDeveloped in C# for switchers between iPhone and Windows development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The iPhone&#39;s UIKit ported to Silverlight and WPF. Using as much of the patterns and conventions in the iPhone SDK to eventually help developers port code from the iPhone to WPF or Silverlight and vice-versa. <br />Developed in C&#35; for switchers between iPhone and Windows development.<br />\n<h2>Looking for interested Developers</h2>\rIf you are interested in contributing to this project, to help get a demo project together or create XAML assets, please contact me directly.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,WPF,iphone,UIKit,C#,C# 3.5,iPod,C# 3.0,",
+  "LastEdited": "2009-11-12T06:35:30.297-08:00"
+}

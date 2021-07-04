@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slpb",
+  "Title": "Silverlight Photo Browser",
+  "Description": "This is the server side implementation of Panaglobe Silverlight Photo browser. You can reuse, modify, redistribute it as you want.\n\nThe client browser is a demo browser with some limitations, it must be licensed or you have create a new implementation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is the server side implementation of Panaglobe Silverlight Photo browser. You can reuse, modify, redistribute it as you want.<br /><br />The client browser is a demo browser with some limitations, it must be licensed or you have create a new implementation.<br /><br /><b>before run</b><br /><br /><img src=\"http://www.panaglobe.com/SilverlightPhotoBrowser/Images/SilverlightPhotoBrowser01.jpg\" /><br /><br />Do not forget to remove read-only flag from database in app_data folder before run, otherwise you cannot edit photos, albums, because the database will be read-only.<br /><br />If you haven&#39;t .\\SQLEXPRESS named instance of SQL Server, change the following code before run (in app_code\\WebCommon.cs):<br /><br />public static SqlConnection CreateConnection()<br />    {<br />        string connectionString = string.Format(@&quot;Data Source=.\\SQLEXPRESS;AttachDbFilename={0};Integrated Security=True;User Instance=True&quot;,<br />            HttpContext.Current.Server.MapPath(&quot;~/App_Data/Database.mdf&quot;));<br /><br />        SqlConnection connection = new SqlConnection();<br />        connection.ConnectionString = connectionString;<br />        connection.Open();<br /><br />        return connection;<br />    }</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight 2.0,C#,.net,.NET 3.5,ASP.NET 3.5,SQL Server 2005,Photo Gallery,photo,photo album,photo upload,Photo Viewer,",
+  "LastEdited": "2009-06-03T04:21:04.607-07:00"
+}

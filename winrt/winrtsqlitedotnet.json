@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winrtsqlitedotnet",
+  "Title": "SQLite Wrapper for WinRT",
+  "Description": "Provides a lightweight .NET wrapper around the the native sqlite library. There are several out there already, but I wanted to make one that has MSPL licensing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides a lightweight .NET wrapper around the the native sqlite library. There are several out there already, but I wanted to make one that has MSPL licensing.<br /><br /><b>NOTE</b> This project is currently published, but not yet ready for public consumption. I published it simply to keep it from being deleted from CodePlex. I will tidy up the remaining loose ends in the coming month, hopefully, given that my day job lightens up. Feel free to use what is here, if it provides any value to you. The most that is not ready is the proper saving/loading of DateTime values as Julian dates.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-24T09:53:24.267-07:00"
+}

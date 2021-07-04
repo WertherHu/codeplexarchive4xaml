@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BigEggCore",
+  "Title": "BigEgg's Core",
+  "Description": "Contains all the BigEgg's WPF Framework, MEF Log Assemblies and WPF Skins.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Contains BigEgg&#39;s libarys </div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Framework,MVVM,",
+  "LastEdited": "2012-12-15T00:57:20.277-08:00"
+}

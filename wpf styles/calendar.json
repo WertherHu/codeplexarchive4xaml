@@ -1,0 +1,9 @@
+{
+  "ProjectName": "calendar",
+  "Title": "DayView Calendar",
+  "Description": "DayView style calendar",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DayView style calendar<br /><br /><b>Project Home Page</b><br /><br />This project is targetting to create a control that provides MS Outlook like Calendar functionality.<br /><br /><img src=\"/projects/calendar/88022026-fe00-422f-b45d-dc967e0a0c1f\" alt=\"shot1.jpg\" title=\"shot1.jpg\" /><br /><br /><a href=\"https://calendar.codeplex.com/wikipage?title=Features&referringTitle=Home\">Features</a><br /><a href=\"https://calendar.codeplex.com/documentation?referringTitle=Home\">Documentation</a><br /><a href=\"https://calendar.codeplex.com/wikipage?title=Frequently%20Asked%20Questions&referringTitle=Home\">Frequently Asked Questions</a> (FAQ)<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "winforms,calendar,Star,Scheduling,Dayview Control,Monitoring,",
+  "LastEdited": "2007-03-06T13:26:10.307-08:00"
+}

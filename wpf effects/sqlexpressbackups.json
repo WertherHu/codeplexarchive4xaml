@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sqlexpressbackups",
+  "Title": "Sql Express automated incremental backup/restore and shipping logs",
+  "Description": "It is sometimes difficult to manage incremental backups and restore for Sql Server Express Edition 2005 as the log shipping feature is available starting from the standard edition.\n\nThis command line program, when runs via windows scheduler creates periodic full backups, transactional logs and a html-based log file. In restore mode the same program will restore the database in the correct order.\n\nIf all the backups are put in a shared folder, it can allow you to restore the database to get effect similar to log shipping! (although it does not have features for monitoring etc.)\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />It is sometimes difficult to manage incremental backups and restore for Sql Server Express Edition 2005 as the log shipping feature is available starting from the standard edition.<br /><br />This command line program, when runs via windows scheduler creates periodic full backups, transactional logs and a html-based log file. In restore mode the same program will restore the database in the correct order.<br /><br />If all the backups are put in a shared folder, it can allow you to restore the database to get effect similar to log shipping&#33; &#40;although it does not have features for monitoring etc.&#41;<br /><br /><br />Command line parameters and detail usage notes can be found at:<br /><br /><a href=\"http://blog.officeclip.com/index.php/2008/07/sql-server-express-incremental-backup-and-log-shipping/\">http://blog.officeclip.com/index.php/2008/07/sql-server-express-incremental-backup-and-log-shipping/</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-07-09T15:37:12.723-07:00"
+}

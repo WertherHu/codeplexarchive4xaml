@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EagleGo",
+  "Title": "EagleGo",
+  "Description": "This is a Go game project,  will implement common functions ie play / play online / read Kifu etc.\r\nThe first platform is Windows8 metro, and next will be WP8.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a Go game project,  will implement common functions ie play &#47; play online &#47; read Kifu etc.<br />The first platform is Windows8 metro, and next will be WP8.<br /><br /><br />这是一个围棋游戏程序，将会实现打谱、对弈、在线对弈(IGS)等常用功能，第一个运行平台是Windows8 Metro，下一个会是wp8。如果时间允许将会移植到Android及ios上。<br />虽然是围棋程序，但程序结构上已经为将来扩展成其他棋类游戏做了准备，时间允许的话会继续开发其他棋类游戏如五子棋、黑白棋等。<br /><br />2012/2/14 上传最初版本，能实现简单的自己或双人对弈，有自动提子，无自动数子功能。</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows8,Metro,WPF,SGF,Go,Igs,围棋 五子棋,",
+  "LastEdited": "2013-02-13T08:35:19.757-08:00"
+}

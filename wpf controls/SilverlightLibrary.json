@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightLibrary",
+  "Title": "Silverlight Library 1.0",
+  "Description": "Silverlight Library ia a collection of useful classes to help Silverlight 2.0 developers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Silverlight Library</b><br />Silverlight Library ia a collection of useful classes to help Silverlight 2.0 developers.<br />\n<h2>NOTE: SUPPORT SILVERLIGHT 2.0 RTW</h2>\r\nCurrent features: <br />\n<ul><li>CollectionViewSource control (<a href=\"http://blog.boschin.it/articles/Improving-Silverlight-2.0-databinding-with-a-CollectionViewSource-control.aspx\">http://blog.boschin.it/articles/Improving-Silverlight-2.0-databinding-with-a-CollectionViewSource-control.aspx</a>)</li>\n<li>RadialPanel control (<a href=\"http://blog.boschin.it/articles/silverlight-radialpanel.aspx\">http://blog.boschin.it/articles/silverlight-radialpanel.aspx</a>)</li>\n<li>DockPanel. The behavior of this control is the same of the WPF DockPanel</li></ul>\n<br />download the latest release <a href=\"https://silverlightlibrary.codeplex.com/releases/view/17812\">Silverlight Library 1.0.3093.1</a><br /><br /><u>Old project</u><br /><br />The previous project <b>Silverlight Playground 1.0</b> has been discontinued. You can still download source code from the &quot;Source Code&quot; tab in codeplex.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "watch,Library,MyList,Silverlight,boschin,Silverlight Controls,databinding,Silverlight 2.0,beta 2,CollectionViewSource,RadialPanel,MouseClickManager,DockPanel,MyList.SilverLight,",
+  "LastEdited": "2008-10-22T02:57:04.633-07:00"
+}

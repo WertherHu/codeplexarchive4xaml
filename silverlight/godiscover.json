@@ -1,0 +1,9 @@
+{
+  "ProjectName": "godiscover",
+  "Title": "GoDiscover",
+  "Description": "GoDiscover provides a framework for creating self-organizing object model hierarchies through the unique combination of the Managed Extensibility Framework introduced in .NET 4.0 and Silverlight 4.0 and the .NET language's support for interfaces and generices.\r\n\r\nGoDiscover.Web is an extension of GoDiscover for modeling self-organizing web domain hierarchies starting with a \"WebApplication\" containing instances of \"WebPage\" containing instances of \"WebView\".",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />GoDiscover provides a framework for creating self-organizing object model hierarchies through the unique combination of the Managed Extensibility Framework introduced in .NET 4.0 and Silverlight 4.0 and the .NET language&#39;s support for interfaces and generices.<br /><br />GoDiscover.Web is an extension of GoDiscover for modeling self-organizing web domain hierarchies starting with a &#34;WebApplication&#34; containing instances of &#34;WebPage&#34; containing instances of &#34;WebView&#34;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MEF,",
+  "LastEdited": "2012-02-27T16:21:53.837-08:00"
+}

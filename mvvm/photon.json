@@ -1,0 +1,9 @@
+{
+  "ProjectName": "photon",
+  "Title": "Photon",
+  "Description": "Silverlight MVVM Framework ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Introduction</h1>\r\n<p>Photon is a lightweight and extremely fast framework for Silverlight (WP7 and WPF compatibility coming soon) that has evolved out of several years of experience writing real world Silverlight applications.&#160; What makes Photon different is its focus on\r\n leveraging existing Microsoft frameworks and strategies such as the data annotation framework and its drive to abstract even its most core elements into reusable and extensible components (in other words no internal magic).</p>\r\n<h2>To get started, get the latest <a href=\"http://photon.codeplex.com/SourceControl/list/changesets#\">\r\nCode</a>, read the <a href=\"http://photon.codeplex.com/documentation\">Documentation</a> and Enjoy!!.</h2>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-30T22:58:21.543-08:00"
+}

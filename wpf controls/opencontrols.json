@@ -1,0 +1,9 @@
+{
+  "ProjectName": "opencontrols",
+  "Title": "OpenControls",
+  "Description": "OpenControls is a framework designed to make your life easier when developing WindowsForms Applications.\nIt has a toolset of custom controls ready-to-use that implements CSS specs and help you customize the UI properties of the control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />OpenControls is a framework designed to make your life easier when developing WindowsForms Applications.<br />It has a toolset of custom controls ready-to-use that implements CSS specs and help you customize the UI properties of the control.<br />\n<h1>OpenControls</h1>\r\nIn this project we will try to make the <b>.NET WindowsForms</b> developers easier by taking care of the <i><b>control&#39;s customizations</b></i> using <b>CSS</b> to customize the control&#39;s UI.<br />Instead of using a lot of XML files or something like that, you can use the good and old CSS file that contains all the definitions to apply to controls.<br />It&#39;s very easy to use and I can guarantee that you&#39;ll be a lot more happier than you were before it.<br /><br />Just give a try. :)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-03T04:54:36.11-08:00"
+}

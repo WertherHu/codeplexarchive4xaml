@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SqlServerCompanion",
+  "Title": "SQL Server Companion WPF",
+  "Description": "This is a little WPF application designed to help developers script database objects easily and quickly during the early development stages.\r\n\r\nFor example, it allows you to quickly generate a script that drops and recreates all foreign keys on a db so that you can populate tables with data without getting referential integrity errors.\r\n\r\nThis application is also a sample C# WPF MVVM application for new developers to use as part of the learning process.\r\n\r\nThis project uses the Cinch v2 framework created by Sacha Barber. Thanks for a rich and easy to implement framework.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a little WPF application designed to help developers script database objects easily and quickly during the early development stages.<br /><br />For example, it allows you to quickly generate a script that drops and recreates all foreign keys on a db so that you can populate tables with data without getting referential integrity errors.<br /><br />This application is also a sample C&#35; WPF MVVM application for new developers to use as part of the learning process.<br /><br />This project uses the Cinch v2 framework created by Sacha Barber. Thanks for a rich and easy to implement framework.<br /><br /><br /><img src=\"/projects/SqlServerCompanion/69f3d3ea-68c7-46ec-9ca2-23ce385e3cfa\" alt=\"SQLCompanion2.png\" title=\"SQLCompanion2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF MVVM,cinch,SQL Server,db scripting,DB Management,MVVM,SQL Server Tools,",
+  "LastEdited": "2011-08-24T15:34:40.743-07:00"
+}

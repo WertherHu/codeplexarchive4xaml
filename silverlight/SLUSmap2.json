@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLUSmap2",
+  "Title": "Silverlight US Map 2.0 (US Map)",
+  "Description": "Silverlight US Map 2.0 \r\n\r\nI needed to use a US Map for a Silverlight prototype applicaiton that I was working on.  The original project was here.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2><u><b>Project Description</b></u></h2>\r\nThis project is a <b>Silverlight 4</b> User Control for data visualization of simple State-Value data using <b>Visual Studio 2010.</b><br /><br />The original project used <b>Visual Studio 2008 and Silverlight 3.</b><br /><br />Please use this project if you want to see how to highlight states and when mousing over them.  When you mouse over the state a pop-up will appear with the states ordinal value and some additional details.  It is my hope that there will be 3 or 4 examples using the same data to slice up the states by additional groupings.<br /><br /><img src=\"/projects/SLUSmap2/ebe451a1-5f43-4457-ae34-a8f5b73be2d1\" alt=\"USMap2_640.jpg\" title=\"USMap2_640.jpg\" /><br />\n<hr />\nPlease checkout a link to the next version of the application in which I broke up the map into individual states.  <a href=\"http://slebusstates.codeplex.com\">http://slebusstates.codeplex.com</a><br />\n<hr />\nAdditional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-24T15:29:44.84-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mdanet",
+  "Title": "MDA.Net",
+  "Description": "MDA.Net is the .Net/Silverlight port of mda-vst instruments and effects.\nCurrently it includes just the MDA piano and an overdrive with basic interfaces to build on. Just PM me if you have some time to help - we are in no rush, aim to migrate everything one-by-one.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MDA.Net is the .Net&#47;Silverlight port of mda-vst instruments and effects.<br />Currently it includes just the MDA piano and an overdrive with basic interfaces to build on. Just PM me if you have some time to help - we are in no rush, aim to migrate everything one-by-one.  <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Synth,audio,effects,synthesis,silverlight 4,",
+  "LastEdited": "2011-03-15T03:20:09.557-07:00"
+}

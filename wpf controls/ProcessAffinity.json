@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ProcessAffinity",
+  "Title": "Process Affinity Control",
+  "Description": "Process Affinity Control allows to set the affinity masks of processes based on rules.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Realtime sound rendering e.g. using the VST technology requires a lot of CPU power. The smaller the ASIO buffer, the more critical is the dedicated availability to the processor cores to prevent gaps.<br /><br />This tool allows to assign the processors to individual cores, based on rules. A group of rules represent a scenario. Only one scenario can be active.<br /><br />Example:<br />Let&#39;s assume, you are running Cubase on a i7 processor (4 cores, 4 threading cores)<br />For optimal performance, you could run cubase on all the 4 primary cores. All the remaining processes are running on the 4 threading cores.<br /><br />To implement this scenario in the tool, perform the following steps:<br />\n<ul><li>Create a new scenario and give it a name. E.g. Cubase</li>\n<li>Add 2 new rules to the scenario\n<ul><li>In the first rule, set the Process Name to Cubase and set the Affinity Type to &quot;Real Cores&quot;</li>\n<li>In the second rule, set the Process Name to * (all other processes) and set the Affinity Type to &quot;Threading Cores&quot;</li></ul></li>\n<li>Create a new scenario and give it the name &quot;Default&quot;</li>\n<li>Add a new rule to the scenario with Process Name &quot;*&quot; and Affinity Type &quot;All Cores&quot;</li></ul>\n<br />Now you have two scenarios. When you are working with Cubase, set the active scenario to &quot;Cubase&quot;. When done working with Cubase, set the active scenario to default.<br />There is no limitations on the number of scenarios. You can create as many as you need.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-02T12:22:55.213-07:00"
+}

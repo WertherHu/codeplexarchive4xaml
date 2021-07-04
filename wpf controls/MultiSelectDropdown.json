@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MultiSelectDropdown",
+  "Title": "MultiSelectDropdownExtender",
+  "Description": "An extender control that extends a Textbox and a Listbox to produce a multi-select dropdown. It is reliant on the AjaxControlToolkit.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An extender control that extends a Textbox and a Listbox to produce a multi-select dropdown. It is reliant on the AjaxControlToolkit.<br /><br />It is a solution to this workitem:<br /><br /><a href=\"http://www.codeplex.com/AtlasControlToolkit/WorkItem/View.aspx?WorkItemId=11907\">http://www.codeplex.com/AtlasControlToolkit/WorkItem/View.aspx?WorkItemId=11907</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Ajax,",
+  "LastEdited": "2008-04-20T15:32:07.383-07:00"
+}

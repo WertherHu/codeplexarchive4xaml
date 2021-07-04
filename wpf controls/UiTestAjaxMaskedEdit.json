@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UiTestAjaxMaskedEdit",
+  "Title": "Sample CodedUITest Extension for AJAXToolkit MaskedEditExtender",
+  "Description": "Very simple UITestPropertyProvider who handles the playback(Coded-UI Tests) of an dutch date for input-controls who are extended with MaskedEditExtender.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Very simple UITestPropertyProvider who handles the playback&#40;Coded-UI Tests&#41; of an dutch date for input-controls who are extended with MaskedEditExtender.<br /><br />This is an simple implementation who checks an input control name ends with an predefined string.<br />When true the propertyprovider will do an alternative action.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CodedUI,VS2010,C# 4.0,Coded UI Test,extensions,Testing,",
+  "LastEdited": "2011-03-24T03:14:20.187-07:00"
+}

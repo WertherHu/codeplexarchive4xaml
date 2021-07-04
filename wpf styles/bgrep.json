@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bgrep",
+  "Title": "bgrep",
+  "Description": "This is a small console program similar to grep. It is written in C# with the .Net Framework and supports .Net-style regular expressions. It can determine the line number, but does not read data from stdin like the traditional grep.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a small console program similar to grep. It is written in C&#35; with the .Net Framework and supports .Net-style regular expressions. It can determine the line number, but does not read data from stdin like the traditional grep.<br /><br />Download the executable and run it without parameters to see the list of parameters. In general, here they are:<br />-r : recursively search directories<br />-i : case insensitivity<br />-1 : only return one match from a file<br />-n : do not show the match in context -- only the filename<br />-s : determine and show the line number</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-20T12:35:13.14-08:00"
+}

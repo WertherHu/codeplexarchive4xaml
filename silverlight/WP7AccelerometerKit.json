@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WP7AccelerometerKit",
+  "Title": "Windows Phone 7 Accelerometer Simulator Kit",
+  "Description": "The Windows Phone 7 Accelerometer Simulator Kit helps developers test their Windows Phone 7 applications that use the accelerometer in the emulator. So if you don't have a Windows Phone or don't wan't to be constantly deploying your app to one, this is perfect for you!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Windows Phone 7 Accelerometer Simulator Kit helps developers test their Windows Phone 7 applications that use the accelerometer in the emulator. So if you don&#39;t have a Windows Phone or don&#39;t wan&#39;t to be constantly deploying your app to one, this is perfect for you&#33;<br /><br /><b>See Documentation</b><br />Select the <i>Documentation</i> tab to see more information about how to use this kit.<br /><br /><b>Accelerometer Simulator Kit Preview</b><br /><br /><img src=\"/projects/WP7AccelerometerKit/50b4a26a-8f05-4ce1-9903-a6440d0b0df8\" alt=\"AccelerometerKit.png\" title=\"AccelerometerKit.png\" /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows,Silverlight,kit,Simulator,accelerometer,Phone,7,Out of Browser,XNA,",
+  "LastEdited": "2010-11-04T11:45:32.14-07:00"
+}

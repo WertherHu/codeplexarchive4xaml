@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metaproperties",
+  "Title": "MetaProperties",
+  "Description": "MetaProperties helps you to create event driven architectures in .NET. It saves you time and it helps you avoid mistakes. It's compatible with WPF and Silverlight data binding. It's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MetaProperties helps you to create event driven architectures in .NET. It saves you time and it helps you avoid mistakes. It&#39;s compatible with WPF and Silverlight data binding. It&#39;s developed in C&#35;.<br /><br />We&#39;ve been using MetaProperties for over a year within our software team at the company where I work, and it&#39;s helped us write more reliable, event driven code faster than we would otherwise have been able to. The source code has been available on my website since May 2009, but I finally decided to put it on CodePlex in March 2010. CodePlex is now its permanent home.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-18T07:19:14.42-07:00"
+}

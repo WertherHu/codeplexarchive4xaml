@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Silverstats",
+  "Title": "SilveR - Online Statistics Application",
+  "Description": "SilveR is a Silverlight based online statistical analysis application written in c# with a WCF backend exposing an R service",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nƩilveR is a powerful, free to use, statistical software package which uses a <a href=\"http://www.silverlight.net/\">\r\nMicrosoft Silverlight</a> GUI and <a href=\"http://www.r-project.org/\">R</a> as its statistics engine. The package combines complex and powerful statistical tools (within R) with a user interface that is both easy to use and intuitive to the non-statistician.\r\n While no package can comment on the suitability of a statistical analysis, ƩilveR has many dataset checks so errors within the data, that may invalidate the results of the analysis, are identified prior to analysis.</p>\r\n<p><strong>Working Online Version</strong></p>\r\n<p>Please see the website <a href=\"http://silverstats.co.uk\">http://silverstats.co.uk</a> for a working version of this project</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-04T07:20:52.817-08:00"
+}

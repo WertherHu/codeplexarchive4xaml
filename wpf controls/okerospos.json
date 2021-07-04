@@ -1,0 +1,9 @@
+{
+  "ProjectName": "okerospos",
+  "Title": "Okeros POS",
+  "Description": "Okeros POS is point of sale system targetted at Small and Medium Businesses. It is primarily for doing sales, stock control, and expense management. It is developed in .NET Framework with C# 3.0 and SQL 2005 as database.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Okeros POS is point of sale system targetted at Small and Medium Businesses. It is primarily for doing sales, stock control, and expense management. It is developed in .NET Framework with C&#35; 3.0 and SQL 2005 as database.<br /><br /><br />Okeros is a web development company with an application development speciality. we have seen the lack of a proper point of sale<br />system written in a .net language, hence the existence of this project.<br /><br />Please enjoy.<br /><br />Okyere</div><div class=\"ClearBoth\"></div>",
+  "TagList": "POS,Point of Sale,Database,.NET 4.0,.NET,SubSonic,",
+  "LastEdited": "2010-09-09T12:06:17.463-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SharedAddin",
+  "Title": "Complete Shared Add-in C# Template",
+  "Description": "This is a complete C# COM Automation Shared Add-in that supports Excel, Word, PowerPoint, and Outlook. See http://davecra.com for more information.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a complete C&#35; COM Automation Shared Add-in that supports Excel, Word, PowerPoint, and Outlook. See http&#58;&#47;&#47;davecra.com for more information.<br /><br /><br />This project is a Microsoft Office C# Shared Add-in with built in support for Excel, PowerPoint, Word and Outlook. It also supports Ribbons and TaskPanes. This is an end-to-end Shared Add-in solution the outlines all the provided solutions from my blog: http://davecra.com.<br /><br />Please see this posting for more information and to leave comments:<br />  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-10-28T12:25:52.487-07:00"
+}

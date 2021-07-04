@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pairs",
+  "Title": "PAiRS - A WPF Memory Card Game",
+  "Description": "PAiRS is an implementation of a card matching game in which you are given an even number of cards face down in a grid, and you try to flip over 2 cards at a time to create a match until all cards are matched.\n\nPAiRS is built using C#, .Net 3.5+ and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PAiRS is an implementation of a card matching game in which you are given an even number of cards face down in a grid, and you try to flip over 2 cards at a time to create a match until all cards are matched.<br /><br />PAiRS is built using C&#35;, .Net 3.5&#43; and WPF.<br /><br /> <img src=\"/projects/pairs/697c7cbb-70c6-410e-9946-ac197fa3ff99\" alt=\"Screenshot.png\" title=\"Screenshot.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-10T08:09:31.64-08:00"
+}

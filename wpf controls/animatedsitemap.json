@@ -1,0 +1,9 @@
+{
+  "ProjectName": "animatedsitemap",
+  "Title": "Animated SiteMap Menu Control",
+  "Description": "An AJAX Control based on the ASP,NET AJAX framework that provides an exploding type animation for ASP.NET SiteMap site navigation. Allows drill down and reverse traversal using smooth bounded animation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An AJAX Control based on the ASP,NET AJAX framework that provides an exploding type animation for ASP.NET SiteMap site navigation. Allows drill down and reverse traversal using smooth bounded animation.<br /><br /><br /><b>General Information</b><br />This project was originally part of the AJAX Control toolkit, but only in prototype form. For over a year minor modifications were made but it was never made a part of the AJAX Control toolkit as I never fully completed all the pre-requisites and unit tests required. Since it would be a waste if this project was left un-used and and unattended, I felt it was best to make it a Codeplex project for others to at least use, and potentially contribute to.<br /><br />And here we are ....<br /><br />This control will simply hook into whatever structure is defined in the Web.Sitemap file and present an animated menu display to navigate the site.<br /><br />You can view a very small sample of what this does here: <a href=\"http://www.theglavs.com/ControlTestPage.aspx\">http://www.theglavs.com/ControlTestPage.aspx</a><br />Since its hosted on my personal site, the site hierarchy is not very deep so its not a good example (as well as the styling is crap) but once the page loads, if you click on the Photos/Albums link, you will get an idea of how this control works from the sites web.sitemap configuration.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-12T03:12:21.787-08:00"
+}

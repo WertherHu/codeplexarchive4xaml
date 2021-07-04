@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfdiagramming",
+  "Title": "WPF Diagramming",
+  "Description": "Tool for draw diagrams",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>WPF Diagramming</strong><br>\r\n<br>\r\nO projeto tem como objetivo estudar maneiras de desenvolver uma ferramenta de desenvolvimento de diagramas em WPF.<br>\r\n<br>\r\nO&nbsp;controle Canvas foi extendido na classe DragCanvas para permitir que&nbsp;outros controles&nbsp;sejam arrastados e redimensionados.</p>\r\n<p>Para serem arrastados dentro do DragCanvas, controles precisam implementar a interface IDraggable.</p>\r\n<p>Para serem redimensionados dentro do DragCanvas, controles precisam implementar a interface IResizable.</p>\r\n<p>Outros dois controles foram criados</p>\r\n<p>&gt; Entity - Representa um item de diagrama.<br>\r\n&gt; Connector - S&atilde;o as linhas que conectam diagramas.</p>\r\n<p>Tamb&eacute;m foram criados Adorners, para permitir mudan&ccedil;as&nbsp;de comportamento e&nbsp;estilo desses controles em tempo de execu&ccedil;&atilde;o.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,diagram,diagramming,c#,.net 4.0,",
+  "LastEdited": "2010-12-30T09:14:26.237-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ScatterView",
+  "Title": "ScatterView",
+  "Description": "ScatterView是一个布局控件，允许对其内部的子控件进行鼠标拖拽、扔出等操作。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ScatterView是一个布局控件&#65292;允许对其内部的子控件进行鼠标拖拽&#12289;扔出等操作&#12290;<br /><br />nasa.wang<a href=\"http://www.cnblogs.com/nasa/\">http://www.cnblogs.com/nasa/</a><br />2009.03.03<br /><br /><br /><b>简介：</b><br />ScatterView是一个布局控件，允许对其内部的子控件进行鼠标拖拽、扔出等操作。<br /><br /><br /><b>使用：</b><br />在这里下载DlLL文件，其中包含两个文件：agTweener.dll <a href=\"http://www.codeplex.com/agTweener\">http://www.codeplex.com/agTweener</a>、ScatterView.dll。ScatterView.dll是主文件agTweener.dll 是用来做动画效果的，之前<a href=\"http://www.cnblogs.com/nasa/archive/2008/07/22/1248976.html\">http://www.cnblogs.com/nasa/archive/2008/07/22/1248976.html</a>有对他的介绍。下载了文件后在Silverlight项目中添加引用。<br /><br />在page.xaml的头部添加代码<br /> xmlns:ScatterView=&quot;clr-namespace:ScatterView;assembly=ScatterView&quot;         <br /><br />把ScatterView控件放入page中<br />&lt;ScatterView:ScatterView Margin=&quot;5,5,5,5&quot; HorizontalAlignment=&quot;Stretch&quot; x:Name=&quot;xScatterView&quot;/&gt;<br /><br />在后台添加字控件<br />xScatterView.AddChild(UIElement1, UIElement2);<br />这里说明一下，第一个参数是真正要添加的子控件，第二个参数是子控件的阴影，如果没有用null代替。<br /><br /><b>Demo：</b><br />这里我做了一个使用的小demo，可根据google ID从<a href=\"http://picasaweb.google.com\">http://picasaweb.google.com</a>获取相册数据并将获取到的照片缩略图放入ScatterView容器控件中。右下角的GetTarot按钮是内置的一套塔罗牌。<br /><a href=\"http://www.grmcac.com/silverlight/lab/ScatterView/\">http://www.grmcac.com/silverlight/lab/ScatterView/</a><br /><br /><b>其他：</b><br /><br />我的Blog：<a href=\"http://www.cnblogs.com/nasa/\">http://www.cnblogs.com/nasa/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight control,Silverlight,",
+  "LastEdited": "2009-03-03T07:51:07.267-08:00"
+}

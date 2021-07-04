@@ -1,0 +1,9 @@
+{
+  "ProjectName": "scnetworkmanager",
+  "Title": "Scarecrow Network Manager",
+  "Description": "This is a simple to use, fast and secure network manager! Create and manage your profiles, configuring the behavior of multiple network adapters for each profile!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Italiano</h1>\r\nScarecrow Network Manager &#232; un gestore di profili che permette di impostare, con pochi semplici passaggi, il comportamento di ogni scheda di rete. L&#39;applicazione fa uso delle ultime tecnologie Microsoft ed &#232; pensata per gli schermi dei piccoli portatili (Netbook) e dei futuri Tablet!<br /><br /><a href=\"http://scnetworkmanager.codeplex.com/releases/view/80235\">Provalo ora!</a><br />\n<h2>Imposta pi&#249; schede alla volta, con un singolo profilo:</h2>\r\n<img src=\"/projects/scnetworkmanager/eb53a04c-3154-4d45-b3dc-9b1c3ebfb02b\" alt=\"MainWindow.png\" title=\"MainWindow.png\" /><br />\n<h2>Utilizza i tasti rapidi per impostare fino a 4 preferiti:</h2>\r\n<img src=\"/projects/scnetworkmanager/7ff59cf7-e4b1-4e77-8fca-142bbed10e1b\" alt=\"preferiti.png\" title=\"preferiti.png\" /><br /><br />Lascia un feedback nella sezione <a href=\"http://scnetworkmanager.codeplex.com/workitem/list/basic\">Issue Tracker</a> per aiutarci nello sviluppo.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Network Manager,network,Manager,",
+  "LastEdited": "2012-01-09T12:15:38.117-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "eclient",
+  "Title": "EClient",
+  "Description": "This was a project started during the third year of college in a networking class. The pop3 client was a project which completed for class, but lacks some of the finer coding styles or implementation. This email client should be compliant with newer technology and adaptable.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This was a project started during the third year of college in a networking class. The pop3 client was a project which completed for class, but lacks some of the finer coding styles or implementation. This email client should be compliant with newer technology and adaptable.<br /><br />Things to look into <br />- <a href=\"http://www.itsecurity.com/features/feature-email-security-non-technical-101606/\">http://www.itsecurity.com/features/feature-email-security-non-technical-101606/</a><br /><br />Documents <br />- <a href=\"http://docs.google.com/Presentation?docid=dcd6378c_1c9gvxzf4&amp;hl=en\">http://docs.google.com/Presentation?docid=dcd6378c_1c9gvxzf4&amp;hl=en</a><br />- <a href=\"http://docs.google.com/Doc?id=dcd6378c_0c897g3dt&amp;hl=en\">http://docs.google.com/Doc?id=dcd6378c_0c897g3dt&amp;hl=en</a><br /><br />There are three requirements before you publish:<br /><br />- Edit this page to provide information about your project<br />- Upload the initial source code for your project<br />- Add your project license<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-04-13T09:14:56.153-07:00"
+}

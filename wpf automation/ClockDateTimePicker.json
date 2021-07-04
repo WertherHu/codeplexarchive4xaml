@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ClockDateTimePicker",
+  "Title": "Clock Based Date Time Picker",
+  "Description": "Clock based Date Time Picker for WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Clock based Date Time Picker for WPF.<br /><br />A WPF Date Time Picker supporting quick setting of date and time via keyboard or mouse.<br /><br />The main features are:<br />\n<ul><li>Simple clock based time selection via click and/or drag on a clock.</li>\n<li>Simple mouse based date selection.</li>\n<li>Text based date and time entry with auto completion suggestions.</li>\n<li>Extensible auto completion of dates and times (including absolute and relative time/date entry).</li></ul>\n<br />The code also includes other useful  primitive controls such as:<br />\n<ul><li>Extensible Auto Completion Combo Box</li>\n<li>Simple Radial Panel</li></ul>\n<br />A screenshot from the demo application:<br /><br /><img src=\"/projects/ClockDateTimePicker/4201fc2d-0d87-466a-a70b-9c774024911f\" alt=\"DateTimePickerScreenshot.png\" title=\"DateTimePickerScreenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-01-02T09:26:07.963-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fileuploader",
+  "Title": "File Uploader++",
+  "Description": "File uploader plus plus intentend to provide extended functionalities. The features are Ajax Uploding, Puse and Resume, Resumable even after an intentional or unintentional restart. It is developed using C#, Javascript and Silverlight technology..",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>What is it all about</b><br />File uploader plus plus intentend to provide extended functionalities. The features are \n<ul><li>Ajax Uploding</li>\n<li>Puse and Resume</li>\n<li>Resumable even after an intentional or unintentional restart. </li>\n<li>Resumable in case of disconnection</li>\n<li>Secure file upload using random password protected encryption</li></ul>\nIt is developed using C#, Javascript and Silverlight technology<br /><br /><b>Project Status</b><br />The Alpha version is available to download now. You can download it by clicking on the link below\n<ul><li><a href=\"https://fileuploader.codeplex.com/releases/view/61274\">File Uploader (Alpha)</a></li></ul>\nPlease feel free to share your opinion on our <a href=\"https://fileuploader.codeplex.com/discussions/246743\">Invitation for Discussion</a> page.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,C# ASP.NET,silverlight 4,",
+  "LastEdited": "2011-02-21T13:32:22.603-08:00"
+}

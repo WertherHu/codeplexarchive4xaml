@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mates",
+  "Title": "Mates: A location-based social networking system",
+  "Description": "mates is a location-based social networking system in the form of a robust web service, or Relationship Engine, and an optional rich media client application, or Relationship Space Navigator.\n\nMates was developed between January and May 2005.  The mates team released the source code in October 2007.\n\nThe server is based on PHP/MySql and the client is based on WPF.  With the release of Silverlight, the WPF interface could be ported to the web quite easily.  We would love volunteers to help make this happen.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />mates is a location-based social networking system in the form of a robust web service, or Relationship Engine, and an optional rich media client application, or Relationship Space Navigator.<br /><br />Mates was developed between January and May 2005.  The mates team released the source code in October 2007.<br /><br />The server is based on PHP&#47;MySql and the client is based on WPF.  With the release of Silverlight, the WPF interface could be ported to the web quite easily.  We would love volunteers to help make this happen.<br /><br /><b>Authors</b><br />Ayush Agarwal, Adam Herscher, and Jeff Powers<br /><br /><b>More Information</b><br />See http://grocs.dmc.dc.umich.edu/~mates/</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-10-14T15:50:44.383-07:00"
+}

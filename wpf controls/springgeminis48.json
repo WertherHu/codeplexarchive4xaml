@@ -1,0 +1,9 @@
+{
+  "ProjectName": "springgeminis48",
+  "Title": "Sistema Control Epidemiologico",
+  "Description": "Proyecto Ganador del Concurso patrocinado por MS - Misión Géminis 48 Horas.\nModel View Presenter, AOP y Dependency Injection \nC#.Net  + Spring.Net + Nhibernate + MySQL  or MS SQL 2K8 + Ajax + Log4Net + NUnit\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">“Sistema de Control Epidemiol&#243;gico”, migrado de una aplicaci&#243;n PHP + MySQL a la plataforma Net; para tal efecto se llev&#243; a cabo lo siguiente:<br /><br />a.  Dise&#241;ar la aplicaci&#243;n bajo el esquema de  Domain Driven Design y en base al patr&#243;n de dise&#241;o Model View Presenter.<br />b.  Dise&#241;ar el uso de Dependency Injection usando el framework empresarial Spring.Net., lo cual implicaba la implementaci&#243;n de interfaces, servicios y controladores.<br />c.  Dise&#241;ar las reglas de validaci&#243;n que son prove&#237;das por el framework  Spring.Net<br />d.  Dise&#241;ar e implementar Nhibernate Mapping Files.<br />e.  Configurar la aplicaci&#243;n Net con el uso de Ajax, Spring.Net y Nhibernate  con soporte a MySQL.<br /><br />Ahora se incluye una version con soporte para MS SQL Server compilado con Spring.Net 1.3.1 y NHibernate 3.0</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-07T09:44:49.347-08:00"
+}

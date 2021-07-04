@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mtscrumtool",
+  "Title": "Multi-Touch Scrum tool",
+  "Description": "This is a application use to support Scrum software development, based on Microsoft Surface SDK 2.0.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n<br>\r\nThis is a project develop based on Microsoft Surface SDK 2.0, use to support Scrum software development team to manage their work process.<br>\r\n<br>\r\nScrum is a methodology of Agile, in this project it including various of artefacts such as product backlog, sprint backlog, story card and task card, scrum board and burn down chart. Some more features will be added continually.<br>\r\n<br>\r\nIf you are interesting with surface developing or Agile, your advices and suggestion will always be welcome.</p>\r\n<p>email: <a href=\"mailto:icyfantasy1987@gmail.com\">icyfantasy1987@gmail.com</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Surface,WPF,Multitouch,Scrum,Agile,",
+  "LastEdited": "2012-07-16T17:40:17.79-07:00"
+}

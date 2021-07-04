@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sgraphicer",
+  "Title": "SGraphicer",
+  "Description": "SGraphicer is a library, which allows the programmer to take control of the rendering process of each of the different stereo-frames, when using the NVIDIA 3D Vision kit. This library is implemented with C\\# and DirectX, but it can be easily ported to other platforms.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SGraphicer is a library, which allows the programmer to take control of the rendering process of each of the different stereo-frames, when using the NVIDIA 3D Vision kit. This library is implemented with C&#92;&#35; and DirectX, but it can be easily ported to other platforms.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-14T04:02:59.437-07:00"
+}

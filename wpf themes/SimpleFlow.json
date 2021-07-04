@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SimpleFlow",
+  "Title": "Softix.Orchestration",
+  "Description": "A simple workflow engine written in .NET that will allow non-coders to create and run workflows (like automatic parsing of emails, call center scripts etc)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rA simple workflow engine written in .NET that will allow non-coders to create and run workflows (like automatic parsing of emails, call center scripts etc).<br />\n<h2>Resources</h2>\r<ul><li><a href=\"https://simpleflow.codeplex.com/wikipage?title=New%20Screenshots&referringTitle=Home\">New Screenshots</a></li>\n<li>latest build: <a href=\"https://simpleflow.codeplex.com/releases/view/1964\">1.0.0</a></li>\n<li>old screenshots: <a href=\"https://simpleflow.codeplex.com/wikipage?title=Screenshots&referringTitle=Home\">Screenshots</a></li></ul>\n\n<h2>System Requirements</h2>\r<ul><li>.NET Framework 2.0</li>\n<li>.NET Framework 3.0 RTM</li>\n<li>For compiling the source code:\n<ul><li>Visual Studio 2005</li>\n<li>or you could try to compile it directly with msbuild.</li></ul></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "winforms,C#,workflow,orchestration,remoting,.NET 2.0,WPF,wcf,.net 3.0,WF,wokflow,Softix Orchestation,",
+  "LastEdited": "2007-02-22T22:22:57.07-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "doubangowinrt",
+  "Title": "Doubango for WinRT",
+  "Description": "Doubango for WinRT is an implementation of Doubango that relies on the Windows Runtime rather than on WInsock for communications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Doubango for WinRT is an implementation of Doubango that relies on the Windows Runtime rather than on WInsock for communications.<br />Doubango for WinRT can be used to build Windows Store applications that that require a SIP stack, and is a fork of the Doubango v2.x library.  Doubango is an experimental, open source, 3GPP IMS/LTE framework for both embedded and desktop systems. The original Doubango project may be found at <a href=\"http://code.google.com/p/doubango/\">http://code.google.com/p/doubango/</a>.<br /><br />The primary enhancement in this project is an adaptation that enables Doubango to use the socket functionality in Windows 8.1. WinRTSock wraps the streaming sockets API in Windows 8.1 and exposes a winsock-like interface to Doubango.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Doubango VoIP Phone,",
+  "LastEdited": "2014-02-26T16:39:50.393-08:00"
+}

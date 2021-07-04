@@ -1,0 +1,9 @@
+{
+  "ProjectName": "happyba",
+  "Title": "Happy BA",
+  "Description": "Beautiful tool to optimize and control boring dev lead activities, related with BA. Validation, reporting, divide tasks and etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Happy BA</b><br /><br />Beautiful tool to optimize and control dev lead activities, related with BA.<br />For example you can:\n<ul><li>do very fast search via systems like target process for the tasks and stories.</li>\n<li>validate current state of the tasks and repository and add your own custom validations. This is very good point to use on your own SCRUM meetings! I hate to do it manually.</li>\n<li>see statistics for the tasks and developers</li>\n<li>see what tasks have each developer from the your team.</li>\n<li>see what tasks you can assign for developers.</li>\n<li>create reports for TP, SVN and any other custom data sources. (In development)</li>\n<li>simple automation to divide tasks by developers (based on neuron networks) (In development)</li></ul>\n<br />For now, this tool is created to use with TargetProcess and Svn, but you can add your own data provider and work with other systems</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-11T00:25:37.37-07:00"
+}

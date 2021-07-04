@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmlight",
+  "Title": "MVVM Light Toolkit",
+  "Description": "The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store, Windows Phone and Xamarin",
+  "MovedLink": "https://github.com/lbugnion/mvvmlight",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThe main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store, Windows Phone and Xamarin<br />\n<h1>Get started</h1>\rMore information about the MVVM Light Toolkit can be found on <a href=\"http://www.mvvmlight.net\">http://www.mvvmlight.net</a>.<br />\n<h1>Documentation</h1>\rSee <a href=\"http://www.mvvmlight.net/doc\">http://www.mvvmlight.net/doc</a><br />\n<h1>Donate</h1>\rIf you are so enclined, you can <a href=\"http://www.mvvmlight.net/donate\">donate to MVVM Light Toolkit</a>.<br />Or, if you prefer, you can pay me a beer next time we&#39;re in the same vicinity. Really, it is OK too :)<br />\n<h1>Latest news:</h1>\rThe latest news about MVVM Light are available from the MVVM feed on my blog at <a href=\"http://blog.galasoft.ch/posts/category/mvvm/\">http://blog.galasoft.ch/posts/category/mvvm/</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "relaycommand,Messenger,MVVM,WPF,Silverlight,WPF MVVM,Silverlight MVVM,ViewModelBase,ViewModel,WPF frameworks,Siliverlight,patterns,mvvmlight,interesting,medlink,MVVM Light Toolkit,WPF toolkit,WP7,windows phone,xaml,C#,Windows 8,Development,",
+  "LastEdited": "2014-11-17T05:19:54.587-08:00"
+}

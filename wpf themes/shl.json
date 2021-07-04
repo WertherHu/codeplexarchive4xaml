@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shl",
+  "Title": "SharePoint Holiday Loader: A tool to load holidays easily into SharePoint",
+  "Description": "SharePoint Holiday Loader allows you to quickly import public holidays into a SharePoint calendar from the standard .HOL format.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><font color=\"#ff0000\"><strong>&nbsp;</strong></font></p>\r\n<p><span style=\"color:#000000\">Welcome to SharePoint Holiday Loader Project...!</span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color:#000000\">This site will be updated with latest downloads, but if you want to leave issues, have a discussion, get help or get the source that is where you should go.</span></p>\r\n<p><strong>Project Description</strong><br>\r\nSharePoint Holiday Loader allows you to quickly import public holidays into a SharePoint calendar from the standard .HOL format.</p>\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=shl&DownloadId=355834\" alt=\"\"><br>\r\n<br>\r\n<strong>Developed By</strong><br>\r\n<a href=\"http://www.sadev.co.za\">Robert MacLean</a> <br>\r\nIf you would like to say thanks or donate to this project, please click on the adverts on this site.<br>\r\n<br>\r\n<br>\r\n<strong>Usage</strong></p>\r\n<p>See:&nbsp;<a href=\"https://bitbucket.org/rmaclean/sharepoint-holiday-loader/wiki/Home\">https://bitbucket.org/rmaclean/sharepoint-holiday-loader/wiki/Home</a></p>\r\n<p>&nbsp;</p>\r\n<p><span><strong>Important</strong></span></p>\r\n<p><span>This projects home has been moved to: &nbsp;<a href=\"https://bitbucket.org/rmaclean/sharepoint-holiday-loader\">https://bitbucket.org/rmaclean/sharepoint-holiday-loader&nbsp;</a></span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SADeveloper.NET,Sharepoint,SharePoint 2007,Sharepoint Tools,SharePoint 2010,Sharepoint Apps,calendar,C#,WPF,.NET 4.0,",
+  "LastEdited": "2013-11-26T14:29:05.907-08:00"
+}

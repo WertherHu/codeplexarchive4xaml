@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DPGA",
+  "Title": "Dice & Paper Game Assistant",
+  "Description": "This application will integrate live voice, webcam and chat feeds with character sheet management and dice rolling/combat management screens.  The app will be built using WPF, WCF, SQL Server Compact Edition (with Sync Services) and possibly with DirectX or Live Services.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This application will integrate live voice, webcam and chat feeds with character sheet management and dice rolling&#47;combat management screens.  The app will be built using WPF, WCF, SQL Server Compact Edition &#40;with Sync Services&#41; and possibly with DirectX or Live Services.<br /><br /><a href=\"http://ozziemedes.blogspot.com\">Ozziemedes Blog</a> outlines most of what&#39;s going on with this project.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-06T21:49:38.933-08:00"
+}

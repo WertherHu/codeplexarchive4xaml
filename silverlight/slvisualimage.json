@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slvisualimage",
+  "Title": "Silverlight VisualBrush alternative",
+  "Description": "Silverlight 3 doesn't include support for WPF's VisualBrush.  This project demonstrates an alternative technique.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight 3 doesn&#39;t include support for WPF&#39;s VisualBrush.  This project demonstrates an alternative technique.<br /><br />For further details see the related blog post: <a href=\"http://chriscavanagh.wordpress.com/2009/09/24/silverlight-visualbrush-and-rounded-corners/\">http://chriscavanagh.wordpress.com/2009/09/24/silverlight-visualbrush-and-rounded-corners/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-25T09:05:26.783-07:00"
+}

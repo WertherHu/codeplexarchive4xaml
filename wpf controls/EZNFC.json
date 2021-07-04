@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EZNFC",
+  "Title": "EZ-NFC",
+  "Description": "EZ-NFC is a .NET library, written in C#, aimed at simplifying the use of NFC in applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nEZ-NFC is a .NET library, written in C#, aimed at simplifying the use of NFC in applications.<br>\r\n<br>\r\nFor the moment, the only device implemented is the ACR122, and the only tag is the MiFare1K, but others will follow :</p>\r\n<p>Tags planned :</p>\r\n<p>MiFare 4K<br>\r\nMiFare Mini<br>\r\nMifare Ultralight<br>\r\nMiFare Ultralight C<br>\r\nMifare PLUS 2K-S<br>\r\nMifare PLUS 2K-X<br>\r\nMifare PLUS 4K-S <br>\r\nMifare PLUS 4K-X<br>\r\nMifare DESFire EV1 2K<br>\r\nMifare DESFire EV1 4K<br>\r\nMiFare DESFire EV1 8K</p>\r\n<p>Devices planned :</p>\r\n<p>ACR 122U<br>\r\nACR 128</p>\r\n<p>Plan is to implement most of tags for end of Q2.</p>\r\n<div dir=\"ltr\"><span style=\"font-family:Tahoma; color:#000000; font-size:x-small\"><span dir=\"ltr\" style=\"font-size:10pt\"><em></em>\r\n<div style=\"margin-top:0px; margin-bottom:0px\"><em><br>\r\n</em></div>\r\n</span></span></div>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "NFC,WPF,silverlight 5,MiFare,",
+  "LastEdited": "2012-02-12T11:47:58.907-08:00"
+}

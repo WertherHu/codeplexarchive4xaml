@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tibcotfsadapter",
+  "Title": "Tibco Team Foundation Server (TFS) plugin",
+  "Description": "This project creates a Team Foundation Server plugin for Tibco BW Designer. It can be used from Tibco Designer as RCS adapter and manipulates the project files that are stored-version controlled- in TFS.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project creates a Team Foundation Server plugin for Tibco BW Designer. It can be used from Tibco Designer as RCS adapter and manipulates the project files that are stored-version controlled- in TFS.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-01T23:31:13.693-08:00"
+}

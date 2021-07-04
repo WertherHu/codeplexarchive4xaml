@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharepointsilverligh",
+  "Title": "SharePoint Silverlight Map Control",
+  "Description": "A Silverlight control that can be hosted in SharePoint (either on-premise or online) which shows a virtual earth map populated by data from a sharepoint list (using the Lists web service from the same SharePoint site the control is downloaded from).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Silverlight control that can be hosted in SharePoint &#40;either on-premise or online&#41; which shows a virtual earth map populated by data from a sharepoint list &#40;using the Lists web service from the same SharePoint site the control is downloaded from&#41;.<br /><br /><br />The idea behind this control is to provide and easy way to integrate Virual Earth into a SharePoint site.  Silverlight is being used as the application platform for calling SharePoint web services for data, and then coordinating with JavaScript in the browser to manipulate data with the Virtual Earth map control.<br /><br /><img src=\"http://www.masteringbiztalk.com/silverlight.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2008-11-17T14:01:48.497-08:00"
+}

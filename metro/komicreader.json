@@ -1,0 +1,9 @@
+{
+  "ProjectName": "komicreader",
+  "Title": "Komic Reader Windows 8",
+  "Description": "Komic Reader is an application for reading comic archive files in Windows 8 Metro UI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Komic Reader</strong><br>\r\n<br>\r\nKomic reader is an application to read comic archive files, like .CBR, .CBZ, .CB7 and .CBT. It uses the SharpCompress (<a href=\"https://sharpcompress.codeplex.com/\">https://sharpcompress.codeplex.com/</a>) library to handle the archive files and it uses the&nbsp;<a href=\"https://writeablebitmapex.codeplex.com/\">https://writeablebitmapex.codeplex.com/</a>&nbsp;and\r\n https://github.com/CH3COOH/WriteableBitmapEffector/&nbsp; libraries for other image effects.</p>\r\n<p>Komic Reader is a comic file reader for comics archived in the CBR, CBZ, CB7 and CBT formats. The aim of the application is to provide a clean interface which will allow you to concentrate in what is important, reading your comics.<br>\r\nFeaturesOpen and read any comic (*.CBR, *.CBZ, *.CB7 and *.CBT)Designed for Touch, light weight and speed for large size comic files.Scroll Page View mode offers pdf viewing style page scrolling.ZoomIn / Out offer various page size.Touch Mode: Pinch and Zoom\r\n and panning of pagesTouch Mode:Double tap on either right or left of the screen to move a page forward or backwards.<br>\r\nsupports following styles of page viewing, Page View Mode,Scroll View Mode,Book View Mode.<br>\r\nPage Rotation Support.<br>\r\nApply Image Effects to Page [Reading Color comics in BW]<br>\r\nUse Flip View Setting Option to turn on /off the flip view feature [Turn pages using gestures].<br>\r\nDefault Flip View is Disabled please use setting panel to enable it.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-07T09:32:21.683-07:00"
+}

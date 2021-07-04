@@ -1,0 +1,9 @@
+{
+  "ProjectName": "w8BouncyCastle",
+  "Title": "WinRT Bouncy Castle",
+  "Description": "The Bouncy Castle API provides many cryptoghraphic APIs to every developpers. It is a port targetting WinRT (Windows Store apps & WP8) of the original C# branch",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Attention : I stronly recommend that you use the Bouncy Catle PCL <a href=\"https://github.com/onovotny/BouncyCastle-PCL\">https://github.com/onovotny/BouncyCastle-PCL</a> which supports much more .net frameworks (such as CoreCLR or Universal Apps).</b> This project won&#39;t be maintained anymore, and I&#39;ll focus on contributing to the PCL if required instead.<br /><br /><br /><b>Project Description</b><br />The Bouncy Castle API provides many cryptoghraphic APIs to every developpers. It is a port targetting WinRT &#40;Windows Store apps &#38; WP8&#41; of the original C&#35; branch<br /><br />This library was targeting .net and developed by : <br /><a href=\"http://www.bouncycastle.org/\">The Legion of Bouncy castle</a>.<br />Everything that comes from their implementation is covered by <a href=\"http://www.bouncycastle.org/csharp/licence.html\">the following license</a>. Additional Code is covered by MIT License.<br /> <br /><a href=\"https://nuget.org/packages/WinRTBouncyCastle/0.1.0\">There is a nugget Package available</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "cryptography,winrt,windows store,windows 8,windows phone 8,rsa,aes,X509,pkcs12,bouncycastle,",
+  "LastEdited": "2015-09-03T14:10:38.02-07:00"
+}

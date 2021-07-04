@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpforms",
+  "Title": "WPForms",
+  "Description": "WPForms is simple framework for Form-driven Silverlight Windows Phone applications. Using the framework allows developers to easily create and display forms.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Welcome to WPForms</h1>\r\n<h2>Overview</h2>\rWPForms is simple framework for Form-driven Silverlight Windows Phone applications. Using the framework allows developers to easily create and display forms.<br />\n<h2>Intented audience</h2>\rWPForms is intented for software developers building form-driven windows phone applications.<br />\n<h2>Getting started</h2>\r<ul><li><a href=\"https://wpforms.codeplex.com/releases/view/97159\">Download the framework</a></li>\n<li><a href=\"https://wpforms.codeplex.com/documentation?referringTitle=Home\">Read documentation</a></li>\n<li><a href=\"https://wpforms.codeplex.com/wikipage?title=Getting%20Started&referringTitle=Home\">Read getting started</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-03T09:50:57.997-07:00"
+}

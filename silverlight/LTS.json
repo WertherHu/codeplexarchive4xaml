@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LTS",
+  "Title": "Leave Tracking System",
+  "Description": "A light weight leave tracking system using Silverlight, SQL 2005, WCF, WF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This project is about creating a leave tracking system making use of<br /><br />- Silverlight<br />- WCF<br />- nHibernate or Lightspeed<br /><br />based on an SQL Server Database.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-07-17T02:54:14.66-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "greekwp7",
+  "Title": "Greek on Windows Phone 7",
+  "Description": "A small Silverlight application that allows you to type Greek characters for an SMS, an e-mail, or search at Bing or Google.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A small Silverlight application that allows you to type Greek characters for an SMS, an e-mail, or search at Bing or Google.<br /><br /><br />The application is still under development. Things considering to develop<br /><br />- Currently it supports only portrait mode. Landscape would nice to have<br />- Windows Phone 7 currently supports Unicode, so one cannot send SMS with 160 characters. Looking for a fix.<br />- It would be nice to display a preview of the key currently being pressed, such as in the regular Windows Phone 7 keyboard.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-13T07:53:14.12-07:00"
+}

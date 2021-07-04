@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dotnetdownloader",
+  "Title": "The Dot Net Download Manager",
+  "Description": " A fast and user friendly download manager that aims to keep it simple.\r\n\r\nThe aim is to provide all the important  features of commercial download managers while keeping it simple, functional and user friendly.\r\n\r\nThe application is written in C# WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /> A fast and user friendly download manager that aims to keep it simple.<br /><br />The aim is to provide all the important  features of commercial download managers while keeping it simple, functional and user friendly.<br /><br />The application is written in C&#35; WPF<br /><br /><img src=\"/projects/dotnetdownloader/319be0c7-8aff-42e4-b8e8-137cc8ecfa73\" alt=\"DotNetDlManager.jpg\" title=\"DotNetDlManager.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "download,downloader,download manager,wpf ribbon,",
+  "LastEdited": "2011-06-12T01:03:42.86-07:00"
+}

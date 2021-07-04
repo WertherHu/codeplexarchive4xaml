@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SIFscenarist",
+  "Title": "SIFscenarist",
+  "Description": "SIFscenarist makes it easier for Synfig animation to create Synfig movies.\r\nYou can write scenaries and create your movie with it.\r\nIt's developed in VC++.net. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SIFscenarist makes it easier for Synfig animation to create Synfig movies.<br />You can write scenaries and create your movie with it.<br />It&#39;s developed in VC&#43;&#43;.net. <br /><br /><br /><i>Howto:</i><br />You write script and open it in SIFscenarist. It creates files and directories to work.<br /><br /><b>V. 0.0.1</b><br />Only initial version<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-17T23:54:45.3-07:00"
+}

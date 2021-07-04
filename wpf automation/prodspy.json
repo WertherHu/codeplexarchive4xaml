@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prodspy",
+  "Title": "ProdSpy",
+  "Description": "ProdSpy is an investigation tool provided to assist in the use of ProdUI. It provides for gathering information about a control and its containing window. It is designed to be familiar to those who have used Spy++ or similar tools.\r\nPart of the ProdUI package.\r\nPlease go to the ProdUI project site for discussion and more complete information\r\nhttp://produi.codeplex.com",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><span>ProdSpy</span></h1>\r\n<h4>Summary</h4>\r\n<p>ProdSpy is an investigation tool provided to assist in the use of ProdUI. It provides for gathering information about a control and its containing window. It is designed to be familiar to those who have used Spy&#43;&#43; or similar tools.</p>\r\n<p>It is part of a larger suite called ProdUI, which handles automating windows controls. The ProdUI project can be found\r\n<a href=\"http://produi.codeplex.com/\">Here</a>.</p>\r\n<p>Source code is maintained on a <a href=\"https://produi-repository.googlecode.com/svn/trunk\">\r\nGoogle Code</a><span style=\"font-size:9.5pt\">&nbsp;</span> project, though releases will be handled through CodePlex.</p>\r\n<p><a href=\"http://prodspy.codeplex.com/releases/view/74698\"><strong>New Release!</strong></a></p>\r\n<p><strong>.0.8.4 has been released. Head to the download page to grab it.</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Window Investigation,Accessibility,C#,UI Automation,UIA,ProdUI,",
+  "LastEdited": "2011-10-09T06:59:05.763-07:00"
+}

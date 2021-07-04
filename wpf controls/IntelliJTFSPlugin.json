@@ -1,0 +1,9 @@
+{
+  "ProjectName": "IntelliJTFSPlugin",
+  "Title": "IntelliJ Team Foundation Server Plugin",
+  "Description": "This is an IntelliJ plugin integrates Team Foundation Server as a version control system, with room to expand to additional functionality",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an IntelliJ plugin integrates Team Foundation Server as a version control system, with room to expand to additional functionality<br /><br /><br /><br />Team Foundation Version Control System plugin for IntelliJ 14.  This still needs a lot of work but project was able to check itself into TFS under it&#39;s own control.  <br />\n<h2><b>NOTE</b></h2>\r<ul><li>Disconnected server Workspaces have issues, as they don&#39;t always come back online correctly..</li>\n<li>Synchronize to Team Foundation server doesn&#39;t correctly refresh all files&#39;s status.</li>\n<li>Many of the context menu items still need code behind them.</li></ul>\n<br />\n<h2>Contributors <b>WANTED</b></h2>\rDo you have a working knowledge of the IntelliJ IDE architecture?  Love working with Team Foundation Server? Or just want to help this project move forward?  We are looking for developers to help improve this plugin.  Just contact me via CodePlex and I&#39;ll grant you access to the project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Productive,TFS,IntelliJ,Idea,Version Control,VCS,",
+  "LastEdited": "2016-01-05T14:26:35.177-08:00"
+}

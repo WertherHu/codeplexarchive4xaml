@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLAdorner",
+  "Title": "Silverlight Adorner Control",
+  "Description": "An Adorner is a custom FrameworkElement that is bound to a FrameworkElement and displays information about that element 'above' the element without disturbing layout.\r\n\r\nCommon applications for adorners include:\r\n * Adding handles\r\n * Providing visual feedback\r\n * Adding decorations",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An Adorner is a custom FrameworkElement that is bound to a FrameworkElement and displays information about that element &#39;above&#39; the element without disturbing layout.<br /><br />Common applications for adorners include&#58;<br /> &#42; Adding handles<br /> &#42; Providing visual feedback<br /> &#42; Adding decorations</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-28T13:13:59.573-07:00"
+}

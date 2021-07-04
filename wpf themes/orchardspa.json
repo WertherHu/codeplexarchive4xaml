@@ -1,0 +1,9 @@
+{
+  "ProjectName": "orchardspa",
+  "Title": "Orchard SPA Theme (Single Page Application)",
+  "Description": "Orchard Single Page Application ( SPA ) Theme",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Orchard SPA Theme (single page application)&nbsp;</h1>\r\n<p>&nbsp;</p>\r\n<p>Soon I found&nbsp;<a title=\"Orchard&nbsp;project\" href=\"http://orchardproject.net/\" target=\"_blank\">Orchard&nbsp;project</a>&nbsp;and&nbsp;like its capabilities and how you are able to make new modules and themes and use it as a solid structure&nbsp;for a CMS.</p>\r\n<p>Unfortunately the lack of a large community made ​​it difficult finding enough information framework itself.&nbsp;А&nbsp;lot of time looking for а theme that can be used for&nbsp;fashionable single page application.</p>\r\n<p><a href=\"http://blog.apterainc.com/bid/313071/Turn-your-ASP-NET-MVC-app-into-a-Single-Page-Application-with-one-classy-Sammy-js-route\" target=\"_blank\">This was my starting point</a>&nbsp;- then use this great&nbsp;<a href=\"https://bitbucket.org/psenechal/pjs.bootstrap/overview\">pjs.bootstrap\r\n theme</a>&nbsp;as a base and here is result -&nbsp;Orchard single page application</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<h1>&nbsp;</h1>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "orchard,mvc,spa,",
+  "LastEdited": "2014-08-04T06:23:19.537-07:00"
+}

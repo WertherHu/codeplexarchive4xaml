@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamlcombine",
+  "Title": "XamlCombine",
+  "Description": "Combines multiple XAML resource dictionaries in one. Replaces DynamicResources to StaticResources. And sort them in order of usage.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rCombines multiple XAML resource dictionaries in one. Replaces DynamicResources to StaticResources. And sort them in order of usage.<br />\n<h2>Command line syntaxis</h2>\r<span class=\"codeInline\"> XamlCombine.exe list-of-xamls.txt result-xaml.xaml </span><br /><br />Where:\n<ul><li><i>list-of-xamls.txt</i> - text file which contains list of XAML filenames,</li>\n<li><i>result-xaml.xaml</i> - filename of result XAML file.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,xaml,Tools,",
+  "LastEdited": "2012-05-02T08:42:02.607-07:00"
+}

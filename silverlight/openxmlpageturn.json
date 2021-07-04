@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openxmlpageturn",
+  "Title": "Silverlight +OpenXML Page Turn",
+  "Description": "This is a Silverlight proof of concept application that takes a simple Word document and displays it in the form of a book. I used Silverlight PageTurn demo as a foundation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a Silverlight proof of concept application that takes a simple Word document and displays it in the form of a book. I used Silverlight PageTurn demo as a foundation.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Open XML,Office Open XML,Silverlight,",
+  "LastEdited": "2007-10-26T06:46:57.897-07:00"
+}

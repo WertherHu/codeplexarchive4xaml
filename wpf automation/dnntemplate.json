@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnntemplate",
+  "Title": "DNN CodeSmith Module Template",
+  "Description": "A set of Code smith templates to generate a c-sharp project as a DotNetNuke module. Your module first version is ready as early as you run the script successfully.\n\nDNN Version: 4.9.5 compatible \nLanguage of output files: C Sharp",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rA set of Code smith templates to generate a c-sharp project as a DotNetNuke module. Your module first version is ready as early as you run the script successfully.<br /><br />DNN Version&#58; 4.9.5 compatible <br />Language of output files&#58; C Sharp<br />\n<h2>How It Works</h2>\rDesign your table in database and let this code smith script generate the complete c-sharp project for the module. <br />\n<h2>Contents Generated</h2>\rA VS2005 compatible project file that contains following items:<br />\n<ul><li>Module definition file (.dnn) </li>\n<li>Manage, add/edit and view user controls </li>\n<li>Resource files for every control generated</li>\n<li>Install and Uninstall SQL Scripts</li>\n<li>NAnt-build file. </li></ul>\n<br />After sucessful generation of code files, just build the project file and obtain the ready-to-use zip file for deployement.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotNetNuke,DNN,DotNetNuke Module,DNN Automation,",
+  "LastEdited": "2010-09-10T18:40:12.443-07:00"
+}

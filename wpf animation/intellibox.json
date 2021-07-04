@@ -1,0 +1,9 @@
+{
+  "ProjectName": "intellibox",
+  "Title": "Intellibox - A WPF AutoComplete textbox search control",
+  "Description": "The most advanced, fully-featured, autocomplete control for WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Welcome to the Intellibox project</h2>\rThe most advanced, fully-featured, autocomplete control for WPF<br /><br /><b>Tip:</b> See the <a href=\"http://intellibox.codeplex.com/documentation\">Installation Instructions</a> and be surprised by how easy the Intellibox is to set up.<br /><b>Tip:</b> See the <a href=\"http://intellibox.codeplex.com/documentation\">Getting Started</a> section for a step-by-step guide to configuring the Intellibox in your project.<br />\n<h2>Benefits and Features</h2>\r\nUsing the Intellibox control provides the following advantages:<br />\n<ul><li>Basic Features\n<ul><li>Supports MVVM for results.</li>\n<li>Supports Watermark.</li>\n<li>Asynchronously load results.</li></ul></li></ul>\n\n<ul><li>Advanced Features\n<ul><li>Text shown in the search field can be different from the value selected by the user.</li>\n<li>Displayed columns can be fully customized.</li>\n<li>Supports search cancelation (useful for long-running or expensive searches).</li></ul></li></ul>\n\n<h2>Sample</h2>\r\nMulti column result search using Linq to Entities against the Northwind database running on Sql Server Compact Edition.<br /><br /><img src=\"/projects/intellibox/9954bb52-bf57-4b7a-850c-6b6ea7c10b32\" alt=\"linqtoentitiesexample.jpg\" title=\"linqtoentitiesexample.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,TextBox,intellisense,MS access,autocomplete,Microsoft Access,auto-complete,auto complete,intellibox,kjhnjhbb,",
+  "LastEdited": "2013-08-24T19:53:58.65-07:00"
+}

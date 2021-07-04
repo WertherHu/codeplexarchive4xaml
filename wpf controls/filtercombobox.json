@@ -1,0 +1,9 @@
+{
+  "ProjectName": "filtercombobox",
+  "Title": "Filter Combo Box",
+  "Description": "ComboBox derived control that allow the user to filter the items according to partial match string typed into the combo box.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ComboBox derived control that allow the user to filter the items according to partial match string typed into the combo box.<br /><br />This project contain one class which is AutoFilterComboBox.<br />I&#39;ve been looking for good combo box control for WPF application that allow the user to filter the list of items based of partial text match.<br />The problem is that ComboBox control was not built with filter in mind and thus makes it hard to filter the items and keep the normal behavior of the control intact.<br /><br />The code is mostly copy of Omer van Kloeten&#39;s .NET Zen post and some changes I&#39;ve made myself.<br /><br />Notes and suggestions will be accepted happily.<br /><br /><a href=\"http://dotdotnet.blogspot.com/2011/04/filter-combo-box.html\">You can read more in my blog.</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-25T13:03:18.967-07:00"
+}

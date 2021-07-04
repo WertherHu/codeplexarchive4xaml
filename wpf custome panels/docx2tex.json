@@ -1,0 +1,9 @@
+{
+  "ProjectName": "docx2tex",
+  "Title": "docx2tex: Word 2007 to TeX",
+  "Description": "Docx2tex is a small command line tool that uses standard technologies to help users of Word 2007 to publish publications where typography is relevant or only papers produced by TeX are accepted. Behind the scenes, docx2tex uses common technologies to interpret Word 2007 OOXML format without utilizing the API of Word 2007.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Docx2tex is a small command line tool that uses standard technologies to help users of Word 2007 to publish publications where typography is relevant or only papers produced by TeX are accepted. Behind the scenes, docx2tex uses common technologies to interpret Word 2007 OOXML format without utilizing the API of Word 2007.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".net 3.0,Word 2007,TeX,WPF,",
+  "LastEdited": "2008-07-12T10:46:12.353-07:00"
+}

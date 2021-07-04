@@ -1,0 +1,9 @@
+{
+  "ProjectName": "quickconverter",
+  "Title": "QuickConverter",
+  "Description": "QuickConverter provides you with WPF markup that allows you to write inline converters and multi-bindings using a C# like language directly in your xaml.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nQuickConverter provides you with WPF markup that allows you to write inline converters and multi-bindings using a C# like language directly in your xaml.</p>\r\n<p>Even though QuickConverter compiles converter expressions at runtime,&nbsp;its use introduces very little overhead. QuickConverter takes advantage of expression trees and caching to make compilation of dynamically parsed expressions very efficient. &nbsp;</p>\r\n<p>QuickConverter is also available on <a href=\"http://www.nuget.org/packages/QuickConverter/\">\r\nNuGet</a>.</p>\r\n<p>As of version 0.7.6, QuickConverter's source is also hosted on SymbolSource.org. Follow the instructions\r\n<a href=\"http://www.symbolsource.org/Public/Home/VisualStudio\">here</a>&nbsp;to enable source debugging in Visual Studio.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Wpf,Xaml,converter,binding,",
+  "LastEdited": "2013-10-28T10:01:57.863-07:00"
+}

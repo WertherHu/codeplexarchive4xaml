@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iCloudPortal",
+  "Title": "iCloud Portal",
+  "Description": "Windy's iCloud Portal  is a Windows desktop portal for iCloud Cloud OS, which is written with WPF on .net framework 3.5.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>What is Windy&#39;s iCloud Portal?</b><br />Windy&#39;s iCloud Portal is a Windows Desktop Portal Application for iCloud OS.  Applicaiton is built with WPF on .net 3.5 Framework.<br /><br /><b>Why do I need iCloud Portal?</b><br />iCloud OS is a Cloud Operating System, which provided a powerful desktop user interface. So it is better to set IE to Full Screen Mode (Disable the status bar and make the menu and toolbars auto hide) while working with iCloud. But IE full screen mode is not so friendly with other websites. So I create this application.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-08T23:17:22.377-07:00"
+}

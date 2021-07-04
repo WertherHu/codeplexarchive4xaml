@@ -1,0 +1,9 @@
+{
+  "ProjectName": "splistforms",
+  "Title": "SharePoint 2013 List Forms",
+  "Description": "This small framework allows you to manage custom list forms using rendering templates and controls stored in a SharePoint library.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This small framework allows you to manage custom list forms using rendering templates and controls stored in a SharePoint library.<br /><br />Details on my blog: <br /><a href=\"http://blog.karstein-consulting.com/2013/06/09/sharepoint-2013-list-forms-new-small-framework-project-to-store-list-forms-in-sharepoint-library-part-1\">http://blog.karstein-consulting.com/2013/06/09/sharepoint-2013-list-forms-new-small-framework-project-to-store-list-forms-in-sharepoint-library-part-1</a><br /><br />This small framework allows you to manage custom list forms using rendering templates .<br /><br />List forms are stored in a SharePoint library and managed by a list called &quot;List Forms&quot;. There you can register custom form controls (stored in library &quot;List Form Controls&quot;) on List Content Types.<br /><br />This controls can be edited with SharePoint Designer or any other Editor using mapped network drives in Windows. <br /><br />It supports a simple template mechanism: Templates are used to create new forms on the fly. <br /><br />Some templates enable you to use jQuery in such forms.<br /><br /><i>This project is <b>alpha</b>. It&#39;s a private development project for demonstration purpose only.</i><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-09T14:20:13.383-07:00"
+}

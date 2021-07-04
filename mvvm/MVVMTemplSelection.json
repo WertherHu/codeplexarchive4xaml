@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MVVMTemplSelection",
+  "Title": "MVVMTemplateSelection",
+  "Description": "this assembly helps to correspond View and ViewModel in MVVM pattern without writing a resource dictionary or other service code\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />this assembly helps to correspond View and ViewModel in MVVM pattern without writing a resource dictionary or other service code<br /><br /><br /><b>For now project in initial state</b> breaking changes possible<br />nuget command:  Install-Package MVVMTemplateSelection<br />nuget page: <a href=\"http://nuget.org/packages/MVVMTemplateSelection\">http://nuget.org/packages/MVVMTemplateSelection</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "mvvmlight,",
+  "LastEdited": "2013-05-27T01:36:56.683-07:00"
+}

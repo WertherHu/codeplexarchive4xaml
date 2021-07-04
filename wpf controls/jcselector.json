@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jcselector",
+  "Title": "JC Touch Selector Control",
+  "Description": "JC Touch Selector Control (aka JCSelector) makes it easier for touch screen users to select from a list of items. You'll no longer have to use a ComboBox in your touch screen app.\r\n\r\nIs very easy to use and also supports two-way data binding via it's Text property. Written in C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />JC Touch Selector Control &#40;aka JCSelector&#41; makes it easier for touch screen users to select from a list of items. You&#39;ll no longer have to use a ComboBox in your touch screen app.<br /><br />Is very easy to use and also supports two-way data binding via it&#39;s Text property. Written in C&#35;<br /><br /><i>Selector Image</i><img src=\"/projects/jcselector/28023ae8-93e3-46d3-b587-7aeddcf4b8a6\" alt=\"JCSelector1.png\" title=\"JCSelector1.png\" /><br /><br /><b>Overview</b><br /><br />JC Touch Selector Control is a .NET custom control intended to:<br /><br />1. Replace the ComboBox control in touch screen applications.<br />2. Make it easy to navigate a list of items and select an item using your finger.<br />3. Support two-way data binding.<br /><br />What JC Touch Selector Control is NOT:<br /><br />- It&#39;s not a ComboBox control and does not work exactly like one.<br /><br /><b>Contents</b><br /><br />Source code includes a Visual Studio 2008 project. Releases will be in the form of a downloadable zip file.<br /><br /><b>Purpose</b><br /><br />This control has been useful in Point Of Sale (POS) apps but could also be used in kiosks or any other application that will be used via a touch screen.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "POS,Point of Sale,kiosk,Controls,control,Touchscreen,touch screen,",
+  "LastEdited": "2010-02-07T12:57:19.67-08:00"
+}

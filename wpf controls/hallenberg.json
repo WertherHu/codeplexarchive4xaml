@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hallenberg",
+  "Title": "Hallenberg Framework",
+  "Description": "A framework for making it easier to use modules and dependency injection in ASP.NET MVC (and WPF in the future).\n\nYou can use attributes directly on you controllers' methods to construct menu hirarchies with complete support for localization.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>About</h1>\r\nThis framework will give you the ability to easily implement dependency injection and inversion of control in ASP.NET MVC applications.<br />Additionally, the framework make it easy to construct complex menu structures using attributes on controller actions.<br />\n<h1>Main Features</h1>\r\n<ul><li>Inversion of Control pattern</li>\n<li>Dependency Injection</li>\n<li>Easy menu construction</li>\n<li>Localization support</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET MVC,Framework,C#,Localization,dependency injection,Inversion of Control,",
+  "LastEdited": "2009-10-01T07:24:26.203-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cake",
+  "Title": "Cake",
+  "Description": "Cake - Character Animation Kickass Editor.\r\n\r\nA new fantastic editor and animation library for creating animations for use in games. \r\n\r\nCurrently supports XNA and Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Cake - Character Animation Kickass Editor.<br /><br />A new fantastic editor and animation library for creating animations for use in games. <br /><br />Currently supports XNA and Silverlight.<br /><br />Latest video showing off some usage and features:<br /><a href=\"http://www.youtube.com/watch?v=8sYkeu5k7XE\">http://www.youtube.com/watch?v=8sYkeu5k7XE</a><br />\n<h2>How to get it up and running</h2>\r<ol><li>Sync it! For example, to a folder named cake.</li>\n<li>Open this solution: cake\\CharacterAnimationEditor\\CakeWPF\\CakeWPF.sln</li>\n<li>Build!</li>\n<li>Run!</li></ol>\n<br />It should find the sample project automatically. The above video will probably get you started poking around. :)<br />\n<h2>Requirements</h2>\rYou need Visual Studio 2010 and XNA Game Studio 4.0:\n<ul><li>http://www.microsoft.com/downloads/en/details.aspx?FamilyID=9AC86ECA-206F-4274-97F2-EF6C8B1F478F</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,Editor,Animation,",
+  "LastEdited": "2011-06-22T14:31:22.38-07:00"
+}

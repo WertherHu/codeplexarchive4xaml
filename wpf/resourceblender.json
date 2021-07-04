@@ -1,0 +1,9 @@
+{
+  "ProjectName": "resourceblender",
+  "Title": "ResourceBlender",
+  "Description": "Developers can build a translations database to enable quick localization of an application. Translations can be re-used in different applications for export as .resx files, Java .properties and XUL/JavaScript bundles. WPF interface, auto-translation and more!\n\nDeveloped in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Developers can build a translations database to enable quick localization of an application. Translations can be re-used in different applications for export as .resx files, Java .properties and XUL&#47;JavaScript bundles. WPF interface, auto-translation and more&#33;<br /><br />Developed in C&#35;.<br /><br />ResourceBlender is a translation and internationalization application which offers an easy way to manage localized resources for inclusion with different applications. Available as an <b>ASP.NET web application</b> and a <b>WPF desktop application</b>, it makes localizing applications a breeze. ResourceBlender generates localized resources in different formats from a central database for inclusion with different applications.<br /><br />The source tree contains both ResourceBlender Express (the <b>WPF version</b>) and ResourceBlender.NET (for <b>ASP.NET</b>). ResourceBlender.NET is listed on the Microsoft <a href=\"http://www.microsoft.com/web/gallery/ResourceBlender.NET.aspx\">Web Application Gallery</a>.<br />\n<h2><a href=\"http://www.resourceblender.com/\">ResourceBlender Home Page</a></h2>\r<ul><li><a href=\"http://forums.lime49.com/\">Forums</a></li>\n<li><a href=\"http://www.resourceblender.com/features/\">Features</a></li>\n<li><a href=\"http://wiki.lime49.com/\">Wiki and Manual</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Translation,",
+  "LastEdited": "2009-09-23T04:07:53.807-07:00"
+}

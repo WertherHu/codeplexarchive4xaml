@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RaikageVX",
+  "Title": "RaikageVX",
+  "Description": "Use Aspects to make your code better, and more more maintainable, our goal is to make apps development like a puzzle game.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><strong>Mvx Waving</strong></h1>\r\n<p><br>\r\nuse Postsharp Aspects to make your MVVM Cross code smaller, more understandable and maintainable, Mvx Waving is a set of Aspects designed for meanly for MVVM Cross Apps which will make your life easier.</p>\r\n<p><strong>1-</strong>&nbsp;NotifyPropertyChanged</p>\r\n<p><strong>2</strong>-&nbsp;MvxNavigationCommand</p>\r\n<p><strong>3</strong>- Validate Attribute (integrated with Fluent Validation)</p>\r\n<p>4- Automatic Commands</p>\r\n<p>&nbsp;5-<a href=\"http://blog.thefo2sh.com/using-raikage-vx-messagelistener-aspect/\" target=\"_blank\">MessageListener\r\n</a></p>\r\n<h1><strong>&nbsp;NuGet</strong></h1>\r\n<p>PM&gt; Install-Package RaikageFramework</p>\r\n<p>&nbsp;</p>\r\n<h1>In Progress</h1>\r\n<p>1- Authentication And Security&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<h1>Contact Info</h1>\r\n<p>If you want to join, do not wait to contact me</p>\r\n<p>Email : ahmed.fouad.net@hotmail.com</p>\r\n<p>Twitter : @Mcc_Ahmed</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "aol,MVVM,xamarin,Aspect Oriented,Android,IOS,PCL,Windows Store,Windows Phone,",
+  "LastEdited": "2014-09-25T14:55:51.893-07:00"
+}

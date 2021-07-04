@@ -1,0 +1,9 @@
+{
+  "ProjectName": "instantmessenger",
+  "Title": "Instant Messenger Using WPF and WCF",
+  "Description": "instant messenger using wcf and wpf",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Instant Messenger</b><br />O Instant Messenger &#233; um programa que permite a troca de mensagens instant&#226;neas entre as pessoas que se conectam com ele. Para seu desenvolvimento foi utilizado a tecnologia WCF para gerar o servi&#231;o e WPF para o design do client.<br /><br />Na primeira release ser&#225; entregue apenas as fun&#231;&#245;es necess&#225;rias para funcionar o WCF, ap&#243;s isso, vir&#225; uma release com o client e toda sua implementa&#231;&#227;o visando mostrar al&#233;m do WPF, como funcionou a integra&#231;&#227;o.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-25T04:36:28.463-08:00"
+}

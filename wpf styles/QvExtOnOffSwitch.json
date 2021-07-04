@@ -1,0 +1,9 @@
+{
+  "ProjectName": "QvExtOnOffSwitch",
+  "Title": "QlikView Extension - OnOffSwitch",
+  "Description": "A QlikView object extension to enable the user to toggle the value of a variable in iPad style.",
+  "MovedLink": "https://github.com/stefanwalther/qvOnOffSwitch",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>QlikView Extension - OnOffSwitch</h1>\rA QlikView object extension to enable the user to toggle the value of a variable in iPad style.<br />\n<hr />\n<h2>Project has been moved</h2>\r\nProject has been moved to <a href=\"https://github.com/stefanwalther/qvOnOffSwitch\">GitHub</a><br /><br />\n<hr />\n<br /><img src=\"/projects/QvExtOnOffSwitch/c5d16390-4c82-448e-be6d-5077b74fb34d\" alt=\"OnOffSwitch_Demo_R.png\" title=\"OnOffSwitch_Demo_R.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "QlikView,QlikView-Extension,JavaScript,",
+  "LastEdited": "2015-02-10T17:36:37.93-08:00"
+}

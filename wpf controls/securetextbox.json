@@ -1,0 +1,9 @@
+{
+  "ProjectName": "securetextbox",
+  "Title": "Secure Text Box for Windows Forms",
+  "Description": "A secure text box control that is implemented using SecureString for secure entering of passwords written in C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rA secure text box control that is implemented using SecureString for secure entering of passwords written in C&#35;<br /><br />This control inherits from System.Windows.Forms.TextBox which makes it a snap to drop in-place to your current applications. <br />This control originates from <a href=\"http://weblogs.asp.net/pglavich/archive/2006/03/14/440191.aspx\">http://weblogs.asp.net/pglavich/archive/2006/03/14/440191.aspx</a>. I found it to be ridiculously buggy, so here is a new implementation which appears to work well!<br />\n<h1>Original License</h1>\r&quot;Do what you will with the control. I take responsibility for nothing :-) The source code is free for everyone to copy if they want. I dont care too much. Would be nice to know where its used though, thats about it.&quot;<br />- <i>Glav</i>, <a href=\"http://weblogs.asp.net/pglavich/archive/2006/03/14/440191.aspx#6806755\">http://weblogs.asp.net/pglavich/archive/2006/03/14/440191.aspx#6806755</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-20T07:15:58.35-08:00"
+}

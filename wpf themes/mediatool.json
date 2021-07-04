@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mediatool",
+  "Title": "Media Tool",
+  "Description": "A collection of tool to manage media files (Pictures and videos)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a small Project that I start to organize all my media files (pictures and videos). The tool will grow by time and new features will be added in the future.<br /><br /><u>Features:</u><br /><b>Rearrange Images</b><br />Sorts images by the date taken timestamp and rename them to a provided name.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".net4.5,WPF,MVVM,MVVMLightToolkit,Picture,Image,",
+  "LastEdited": "2013-07-24T13:15:53.623-07:00"
+}

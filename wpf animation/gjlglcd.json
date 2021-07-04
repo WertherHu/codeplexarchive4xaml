@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gjlglcd",
+  "Title": "GammaJul LgLcd",
+  "Description": "A .NET wrapper around the Logitech SDK for G15/G19 keyboard screens. Supports raw byte sending, GDI+ drawing and rendering WPF elements onto the screen.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A .NET wrapper around the Logitech SDK for G15&#47;G19 keyboard screens. Supports raw byte sending, GDI&#43; drawing and rendering WPF elements onto the screen.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Logitech,LgLcd,wrapper,",
+  "LastEdited": "2010-12-03T10:19:04.207-08:00"
+}

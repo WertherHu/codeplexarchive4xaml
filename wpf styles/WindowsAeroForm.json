@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WindowsAeroForm",
+  "Title": "Windows Aero Form Application for C#",
+  "Description": "This is a pre-made template that you can make your app on just like making it in Windows Forms Application but this template was made with WPF Application.\nplus all the aero API are taken care of so you dont need to set then aero affects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a pre-made template that you can make your app on just like making it in Windows Forms Application but this template was made with WPF Application.<br />plus all the aero API are taken care of so you dont need to set then aero affects.<br /><br /><img src=\"/projects/WindowsAeroForm/97832aa4-8809-49b6-b3ff-577249b97d79\" alt=\"Aerowin.jpg\" title=\"Aerowin.jpg\" /><br /><br /><b>**How to install**</b><br /><br />1. Download the zip file<br />2. move the .zip file to &quot;C:\\Users\\&quot;YourNameHere&quot;\\Documents\\Visual Studio 2010\\Templates\\ProjectTemplates&quot;<br /><br />if it does not work move the .zip file to <br /><br />&quot;C:\\Users\\&quot;YourNameHere&quot;\\Documents\\Visual Studio 2010\\Templates\\ProjectTemplates\\Visual C#&quot;<br /><br />where it says &quot;YourNameHere&quot; i mean your name that you have as your user name for the computer<br /><br />plus the template only work for Vista or higher<br /><br />because windows xp does not have aero</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Aero Form Ap,Aero,Form,C#,Windows,Vista,Vista Controls,",
+  "LastEdited": "2010-07-14T07:44:47.763-07:00"
+}

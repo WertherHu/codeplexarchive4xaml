@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfstotfsmigration",
+  "Title": "TFS to TFS Migration Tool",
+  "Description": "The TFS to TFS Migration tool is based on the [TFS Migration and Synchronization Toolkit].  The toolkit is designed to make it faster and easier to build migration tools from TFS to other repositories.  This tool provides migration of TFS work items and version control items, both with history.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This tool has been obsoleted</h1>\rThe TFS to TFS Migration Tool hosted on this project has been obsoleted.  The underlying Migration Toolkit has been replaced by a new project: the <a href=\"http://tfsintegration.codeplex.com\">TFS Integration Platform</a>.  If you are interested in learning more about the new platform and its capabilities, please visit the project page.<br />\n<h2>Migration Guidance</h2>\rIf you’re thinking about migrating to TFS, but don’t know where to start, then check out the <a href=\"https://tfstotfsmigration.codeplex.com/releases/view/37382\">Migration Guidance Document</a> which was initially released on the <a href=\"http://tfsintegration.codeplex.com\">TFS Integration Platform</a> CodePlex project page.  This document outlines many of the common scenarios for migrating data into TFS, and it provides recommended options for each scenario.<br /><br />If you’re looking for other migration tools or partner services, please also see the TFS Migration and Integration Solutions page on MSDN <a href=\"http://msdn.microsoft.com/en-us/teamsystem/bb840033.aspx\">http://msdn.microsoft.com/en-us/teamsystem/bb840033.aspx</a>.<br /><br />Wiki <a href=\"https://tfstotfsmigration.codeplex.com/wikipage?title=Archive&referringTitle=Home\">Archive</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,vsts,TFS Migration,Team Foundation Serv,",
+  "LastEdited": "2009-12-17T08:24:00.267-08:00"
+}

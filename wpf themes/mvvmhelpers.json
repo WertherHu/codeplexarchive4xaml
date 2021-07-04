@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmhelpers",
+  "Title": "JulMar MVVM Helpers + Behaviors",
+  "Description": "MvvmHelpers is a cross-platform library for creating applications using the Model-View-ViewModel pattern which was popularized by the XAML frameworks. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>THIS PROJECT HAS MOVED</h1>\r\nThe new location is <a href=\"https://github.com/markjulmar/mvvmhelpers\">https://github.com/markjulmar/mvvmhelpers</a><br /><br /><b>Project Description</b><br />MvvmHelpers is a cross-platform library for creating applications using the Model-View-ViewModel pattern which was popularized by the XAML frameworks. <br /><br />The library supports:\n<ul><li>.NET 4.5</li>\n<li>Mono 4.5</li>\n<li>Windows Store Apps (WinRT)</li>\n<li>Windows Phone Apps (WinPRT)</li>\n<li>Xamarin.iOS</li>\n<li>Xamarin.Android</li></ul>\n<br />There are several examples available at <a href=\"http://www.julmar.com/blog/mark?cat=8\">http://www.julmar.com/blog/mark?cat=8</a> where I&#39;ve been blogging on how to use this library.  I&#39;ll push some of that information up here as well.<br /><br />You can install MvvmHelpers through NuGet <a href=\"http://www.nuget.org\">http://www.nuget.org</a> - just search for MVVMHelpers.PCL, it will add the latest version into your project automatically from within Visual Studio if you install the NuGet plug-in.<br /><br />Alternatively, you can type the following into the Package Manager console to add it to your project:<br /><br /><b>PM&gt; Install-Package MVVMHelpers.PCL</b><br /><br /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,Blend,Behaviors,JulMar,Windows 8,Metro,Windows Store,Attached Behaviors,XAML,",
+  "LastEdited": "2017-09-08T08:17:09.693-07:00"
+}

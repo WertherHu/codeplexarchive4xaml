@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slsharpziplib",
+  "Title": "Silverlight SharpZipLib",
+  "Description": "The SharpZipLib ported to Silverlight. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is a complete (less AES cryptography) port version of the C# library SharpZiplib. The library has been converted to be used in Silverlight 3/4 and Windows Phone 7<br /><br />The original version of the library (for .NET) can be found here: <a href=\"http://sharpdevelop.net/OpenSource/SharpZipLib/\">http://sharpdevelop.net/OpenSource/SharpZipLib/</a><br /><br />NOTE: Alpha implementations of IsolatedStorage aware ZipFile and FastZip types are available in the latest source.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2010-08-16T03:16:59.503-07:00"
+}

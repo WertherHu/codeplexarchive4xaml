@@ -1,0 +1,9 @@
+{
+  "ProjectName": "alerts",
+  "Title": "ASP.NET Alerts",
+  "Description": "Alerts, messageboxes, confirm buttons that can be used in ASP.NET and used from client-side code as well as server-side code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rAlerts, messageboxes, confirm buttons that can be used in ASP.NET and used from client-side code as well as server-side code.<br />\n<h2>Another alert-like control</h2>\rThere is another implementation of that same concept in the Ajax Control Toolkit:<br /><a href=\"http://www.asp.net/AJAX/AjaxControlToolkit/Samples/ConfirmButton/ConfirmButton.aspx\">Ajax Control Toolkit ConfirmButton</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,alert,ASP.NET 2.0,UI,asp.net controls,Orange World Extra,",
+  "LastEdited": "2008-08-25T12:07:26.873-07:00"
+}

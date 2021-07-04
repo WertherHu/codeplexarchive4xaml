@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spsclock",
+  "Title": "SharePoint Silverlight Clock",
+  "Description": "SharePoint Silverlight Clock",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SharePoint Silverlight Clock<br />Size: 250x250 (px.)<br /><br /><img src=\"/projects/spsclock/0bb8e71a-6b51-4b3d-b1bc-d5cd7f8f5dd7\" alt=\"Scr_Clock.PNG\" title=\"Scr_Clock.PNG\" /><br /><br /><b>Features</b>\n<ul><li>Transparent background</li>\n<li>Time Zone list</li>\n<li>Change clock title</li>\n<li>Show/Hide seconds hand</li>\n<li>Show/Hide milliseconds dial</li>\n<li>Show/Hide tenth seconds dial</li></ul>\n<br /><b>Instructions</b>\n<ul><li>Install using setup (run setup.exe as Administrator).</li>\n<li>Insert SharePoint Silverlight Clock WebPart (category &quot;BGZ&quot;)</li>\n<li>Enjoy!</li></ul>\n<br /><b>Requirements:</b><br />Silverlight 4.0 <br />SharePoint Server 2010 (or SharePoint Foundation 2010)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint 2010,Silverlight,Clock WebPart,SharePoint Clock,",
+  "LastEdited": "2010-12-07T03:25:38.88-08:00"
+}

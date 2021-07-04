@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slhtmltextblock",
+  "Title": "HtmlTextBlock control for Silverlight",
+  "Description": "HtmlTextBlock is control for Silverlight that oriented to display rich text in a application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />HtmlTextBlock is control for Silverlight that oriented to display rich text in a application.<br /><br />\n<h1>Get Started</h1>\r<ul><li><a href=\"http://slhtmltextblock.codeplex.com/Release/ProjectReleases.aspx\">Download the latest release</a></li></ul>\n\n<h1>Suggestions? Features? Questions?</h1>\r<ul><li><a href=\"http://slhtmltextblock.codeplex.com/WorkItem/List.aspx\">Add bugs or feature requests to the Issue Tracker. Help us shape the HtmlTextBlock Control with your feedback!</a></li></ul>\n\n<h1>About the control</h1>\rThis will be published images!<br />\n<h2>About visitors</h2>\r<a href=\"http://s06.flagcounter.com/more/3D77\"><img style=\"border:none;\" src=\"http://s06.flagcounter.com/count/3D77/bg=FFFFFF/txt=000000/border=CCCCCC/columns=2/maxflags=20/viewers=0/labels=0/\" alt=\"visitors\" title=\"visitors\" /></a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "html,control,Silverlight,Silverlight control,",
+  "LastEdited": "2010-09-21T03:26:31.803-07:00"
+}

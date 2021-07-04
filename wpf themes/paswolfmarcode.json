@@ -1,0 +1,9 @@
+{
+  "ProjectName": "paswolfmarcode",
+  "Title": "Personal Assistance Suite (PAS)",
+  "Description": "This C# project aims to set up a modular Rich Client Platform (RCP). Microsoft Prism Library 5.0 for WPF is used to implement this modularity.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<div><strong>This project is currently only a playground to help me become familiar with Prism.</strong></div>\r\n<div>&nbsp;</div>\r\n<div>The Personal Assistance Suite (PAS) project aims to set up a modular Rich Client Plattform (RCP) for private use.</div>\r\n<div>&nbsp;</div>\r\n<div>\r\n<ul>\r\n<li><a href=\"http://msdn.microsoft.com/en-us/library/gg406140.aspx\">Microsoft Prism Library 5.0 for Windows Presentation Foundation (WPF)</a> is used to implement this modularity.\r\n</li><li>It is written in C# and uses the .NET Framework 4.5.1 </li><li>The graphical user interface (GUI) is based on the .NET 4.5 integrated Microsoft Ribbon for WPF\r\n</li></ul>\r\n</div>\r\n<div>&nbsp;</div>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-08-13T10:38:18.207-07:00"
+}

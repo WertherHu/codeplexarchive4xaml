@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ALToolkit",
+  "Title": "ALToolkit",
+  "Description": "Contains a set of handy .NET components/classes. Currently it contains:\n\n* A Numeric Text Box (an Extended NumericUpDown)\n* A Splash Screen base form\n\nI hope to be distributing all source code in both VB.NET and C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Contains a set of handy .NET components&#47;classes. Currently it contains&#58;<br /><br />&#42; A Numeric Text Box &#40;an Extended NumericUpDown&#41;<br />&#42; A Splash Screen base form<br /><br />I hope to be distributing all source code in both VB.NET and C&#35;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "NumericUpDown,Numeric Up Down,Numeric Textbox,Control Library,Controls,Splash Screen,Windows Forms,.NET,C#,VB.NET,PropertyGrid,UOM,UnitOfMeasure,Units,units of measure,",
+  "LastEdited": "2010-03-06T15:32:52.277-08:00"
+}

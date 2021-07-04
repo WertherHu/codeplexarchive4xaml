@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MetroRPG",
+  "Title": "Metro RPG Character Sheet",
+  "Description": "A character sheet application for Win 8 (geared towards Pathfinder)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Character sheet for pathfinder for WIN 8.<br /><br />I did a lot of the initial typing for making the DIVs and have made maybe half of the input boxes. Needs a bunch more of the input boxes, it will need the logic to update the calculated fields etc. The work should all be really easy but there is just a lot of it for one person.<br /><br />I included some GPL fantasy images pulled from Wesnoth (by it is basically impossible to find anything of good quality anywhere else on the net without violating rights; I spent a lot of time looking). I thought it would be nice to put a picture of the character somewhere to give it more personality. Would also come in handy when/if we support multiple character sheets in the app.<br /><br />Happy hacking.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-01-05T13:26:15.85-08:00"
+}

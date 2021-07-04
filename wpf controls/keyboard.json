@@ -1,0 +1,9 @@
+{
+  "ProjectName": "keyboard",
+  "Title": "Soft Keyboard for Windows 8 also known as a Virtual Keyboard for Windows 8",
+  "Description": "This is a soft keyboard for Windows 8 (also known as a virtual keyboard). It looks just like the default Windows 8 Soft Keyboard, but you can control it!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis is a soft keyboard for Windows 8 (also known as a virtual keyboard for Windows 8).&nbsp; It is taken from an existing sample from Microsoft and was modified to look like the Windows 8 Soft Keyboard.</p>\r\n<p>It is also only 3 rows high or 4 rows high. Give it a whirl and let me know what you think.</p>\r\n<p>3 rows high, wide format:<img src=\"/projects/keyboard/dd5d5bfb-0461-499a-9b8f-afebe8771d44\" alt=\"\" style=\"font-size:10pt\"></p>\r\n<p>4 rows high:<img src=\"/projects/keyboard/efe6008f-b008-47cf-92bd-1ff3d437d4d8\" alt=\"\" style=\"font-size:10pt\"></p>\r\n<p>In use:<img src=\"/projects/keyboard/c253dace-deb4-4ef5-8fd7-de3451861fa4\" alt=\"\" style=\"font-size:10pt\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Soft Keyboard,Windows 8,Virtual Keyboard,",
+  "LastEdited": "2013-01-22T11:30:05.537-08:00"
+}

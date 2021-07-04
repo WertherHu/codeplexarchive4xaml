@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winampimageeffect",
+  "Title": "Winamp Image Effect Plugin",
+  "Description": "Winamp Image effect input plugin.\r\n\r\nIt uses the direct show to open the video file and while playing the video file it can apply different image effects to video on real time.\r\n\r\nThis pice of code i was developed in way back to 2003. so i used VC6 along with DirectX SDK.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Winamp Video Image Effect Plugin<br /><br /><br />This plugin is i have developed in 2003 summer, and it opens the video using the direct show and i have created the one filter which give the various image effects to video on real time.<br /><br />At that time i have used VC6 along with DirectX SDK.<br /><br />But right now whoever want to compile this they need Windows SDK along with samples.<br /><br />please compile the direct show base classes.<br /><br />the needs to fix all comparabilities. sorry i didn&#39;t manage my time to fix this.<br /><br />Just uploading because this code was there in my harddisk for long time. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "winamp,Plugin,winamp plugin,input plugin,",
+  "LastEdited": "2010-07-17T08:59:23.143-07:00"
+}

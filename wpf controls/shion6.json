@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shion6",
+  "Title": "Shion 6",
+  "Description": "Shion 6 is an IRC Client built from the ground up. With Shion your in control of your IRC Experience.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Shion 6 is an IRC Client built from the ground up. With Shion your in control of your IRC Experience.<br /><br /><b>Features</b>\n<ul><li>A streamline, simple UI with easy to operate functions yet powerful</li>\n<li>Themeable using the Shion EDK (Not yet created)</li>\n<li>HTML Renderer powered off Gecko HTML Renderer</li></ul>\n<br /><b>Compiling</b><br />For help on compiling Shion see <a href=\"https://shion6.codeplex.com/wikipage?title=Compiling%20Shion&referringTitle=Home\">Compiling Shion</a><br /><br /><b>Requrement to versions RC1 and later</b><br />Registration is now mandatory for RC1 and later.  You may download the License Manager at <a href=\"http://nasutek.com/activation/?o=getclient\">http://nasutek.com/activation/?o=getclient</a>. Instructions about activation are available @ <a href=\"http://nasutek.com/activation/?o=help\">http://nasutek.com/activation/?o=help</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-16T15:49:18.227-07:00"
+}

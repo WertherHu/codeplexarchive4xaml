@@ -1,0 +1,9 @@
+{
+  "ProjectName": "photoalbum",
+  "Title": "Silverlight Photo Album",
+  "Description": "A control for a Photo/Picture Album in Silverlight. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Silverlight Photo Album</b><br />A control for a Photo&#47;Picture Album in Silverlight. <br /><br />Follow me on Twitter: <a href=\"http://www.twitter.com/mario_mh\">http://www.twitter.com/mario_mh</a><br /><br /><b>For other Projects please refer to <a href=\"http://sharepointtrench.com/\">http://sharepointtrench.com/</a></b><br /><br /><b>What is the Silverlight Photo Album?</b><br /><br />The Silverlight Photo Album is a Library used to display Photos in Silverlight. It currently contains 2 different Layouts: Horizontal and Vertical. It is designed to be flexible, so there will come much more layouts in the future!<br /><br />done with silverlight 2 <br /><br />There are currently 3 Types of Albums included:<br />\n<ul><li>Horizontal Album</li>\n<li>Vertical Album</li>\n<li>Grid Album</li></ul>\n<br /><img src=\"/projects/photoalbum/314fc323-0455-43a9-9ec0-6da96115a7fd\" alt=\"img01.jpg\" title=\"img01.jpg\" /><br /><br />Get involved! Write me an E-Mail (mario@meirhuber.de) or contact me on Codeplex!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight Controls,Silverlight 2.0,Silverlight control,Picture,Album,album viewer,Photo Gallery,Photo Viewer,photo,SL Photo Album,",
+  "LastEdited": "2011-08-05T05:27:51.033-07:00"
+}

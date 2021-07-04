@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ajaxset",
+  "Title": "ASP.NET AJAX Control Set (AjaxSet)",
+  "Description": "AjaxSet is a library that is intended to contain a number of AJAX controls and extenders.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><a href=\"https://ajaxset.codeplex.com/wikipage?title=News%20Feeds&referringTitle=Home\">News Feeds</a><br /><b>About</b><br />AjaxSet is a project to build AJAX control and extender library. Currently only the first one control is in package Validator Extender. More controls to come. If you want to contibute feel free to contact me.<br /><br /><b>Content</b>\n<ul><li>ValidatorExtender\n<ul><li>background, asynchronous server-side validation,</li>\n<li>dynamic display style change depend on validation results,</li></ul></li>\n<li>TextEditList\n<ul><li>editing list of values (add, modify, delete)</li></ul></li></ul>\n<br /><b>News</b>\n<ul><li>08/02/2006 - Version 1.1 Beta has been released.</li>\n<li>01/02/2007 - Version 1.0 has been released. Version is compatible with ASP.NET AJAX 1.0. Project name has been changed as well.</li>\n<li>22/11/2006 - Version 1.0 Beta has been released.</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,ASP.NET,Controls,ASP.NET 2.0,AJAX Control Toolkit,validation,AJAX validator,MS Ajax,webcontrols,",
+  "LastEdited": "2007-02-08T05:04:38.057-08:00"
+}

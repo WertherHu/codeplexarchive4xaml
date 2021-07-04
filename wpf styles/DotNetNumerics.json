@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DotNetNumerics",
+  "Title": "NumericalDataApplication",
+  "Description": "This Application includes realization of some numerical methods(linear algebra, function interpolation, ODE solvating methods) using F# and C#.\r\nInterface implemented with WPF.\r\nIf you like it find me at dmit2525@gmail.com\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><img src=\"http://img-fotki.yandex.ru/get/4526/123116463.0/0_75edd_73a1bdf1_M\" alt=\"\" width=\"256\" height=\"256\" style=\"vertical-align:middle\"></p>\r\n<p><strong>Project Description</strong><br>\r\nThis Application includes implementation of some numerical methods(linear algebra, function interpolation, HDE ) using F# and C#.<br>\r\nGUI implemented with WPF.<br>\r\nIf you like it find me at dmit2525@gmail.com</p>\r\n<p>&nbsp;</p>\r\n<p>GUI Examples:</p>\r\n<p><img src=\"http://img-fotki.yandex.ru/get/4423/123116463.0/0_75ee0_74a9eb00_L\" alt=\"\" width=\"500\" height=\"388\"></p>\r\n<p><img src=\"http://img-fotki.yandex.ru/get/4526/123116463.0/0_75ede_6c1e80c0_L\" alt=\"\" width=\"500\" height=\"438\"></p>\r\n<p><img src=\"http://img-fotki.yandex.ru/get/5413/123116463.0/0_75edf_88743350_L\" alt=\"\" width=\"500\" height=\"371\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-18T13:20:51.097-08:00"
+}

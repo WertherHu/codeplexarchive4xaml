@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sambapos",
+  "Title": "Samba POS",
+  "Description": "Dokunmatik ekranlı cihazlar için satış ve Restoran programı + Terminal Server üzerinden kullanılabilen el terminali modülü. \nC# dili ile yazıldı. .Net Framework 4.0 üzerinde çalışıyor.\nWPF, Entity Framework, Prism, MEF teknolojilerinden faydalanılmıştır.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Dokunmatik ekranlı cihazlar i&#231;in satış ve Restoran programı &#43; Terminal Server &#252;zerinden kullanılabilen el terminali mod&#252;l&#252;. <br />C&#35; dili ile yazıldı. .Net Framework 4.0 &#252;zerinde &#231;alışıyor.<br />WPF, Entity Framework, Prism, MEF teknolojilerinden faydalanılmıştır.<br /><br /><a href=\"http://www.sambapos.com\">http://www.sambapos.com</a> adresindeyiz.<br /><br />English Mirror: <a href=\"http://sambapos.googlecode.com\">http://sambapos.googlecode.com</a><br /><br /><b>Sipariş Alma Ekranı</b><br /><img src=\"http://i793.photobucket.com/albums/yy213/masterofweb/siparis.jpg\" /><br /><br /><b>&#214;deme Alma Ekranı</b><br /><img src=\"http://i793.photobucket.com/albums/yy213/masterofweb/odeme.jpg\" /><br /><br /><b>&#214;zel Masa G&#246;r&#252;n&#252;m&#252;</b><br /><img src=\"http://i793.photobucket.com/albums/yy213/masterofweb/masa.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "POS,sambapos,accuretta-pos,",
+  "LastEdited": "2011-07-25T13:32:04.283-07:00"
+}

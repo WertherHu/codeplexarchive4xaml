@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NETUAV",
+  "Title": "MicroNET Framework UAV",
+  "Description": "El proyecto UAV se realiza para controlar una avion de radio control a traves de .NET MicroFramework y permitir un vuelo autonomo.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">El proyecto pretende construir sobre la plataforma NETDuino un software de navegaci&#243;n aerea que permita crear un UAV con base en un avion teledirigido.<br /><br />Para mas informaci&#243;n visitar <a href=\"http://uavnet.blogspot.com/\">http://uavnet.blogspot.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-04T14:33:42.187-08:00"
+}

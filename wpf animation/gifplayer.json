@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gifplayer",
+  "Title": "GIFPlayer",
+  "Description": "GIFPlayer provide a XAML control for Windows 8.1 and Windows phone store apps, which will enable you to display GIF animations.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Description</h1>\rGIFPlayer provide a XAML control for Windows 8.1 and Windows phone store apps, which will enable you to display GIF animations.<br />\n<h1>NuGet</h1>\r\nPackage available on NuGet : <a href=\"https://www.nuget.org/packages/GIFPlayer\">https://www.nuget.org/packages/GIFPlayer</a><br />\n<h1>How to use</h1>\r\nAfter installing the NuGet package just add the namespace to your page : <br /><br /><pre>\nxmlns:gif=&quot;using:GIFPlayer&quot; \n</pre><br /><br />Now you can add the GIF control to your page as follow : <br /><br /><div style=\"color:Black;background-color:White;\"><pre>\r\n<span style=\"color:Blue;\">&lt;</span><span style=\"color:#A31515;\">gif</span><span style=\"color:Blue;\">:</span><span style=\"color:#A31515;\">GIF</span> <span style=\"color:Red;\">IsAnimating</span><span style=\"color:Blue;\">=</span><span style=\"color:Black;\">&quot;</span><span style=\"color:Blue;\">True</span><span style=\"color:Black;\">&quot;</span> \n         <span style=\"color:Red;\">Source</span><span style=\"color:Blue;\">=</span><span style=\"color:Black;\">&quot;</span><span style=\"color:Blue;\">http://media.giphy.com/media/yv8iBjSfZs9IA/giphy.gif</span><span style=\"color:Black;\">&quot;</span> <span style=\"color:Blue;\">/&gt;</span>\r\n</pre></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "GIF,WinRT,Windows Phone,Universal Apps,WP,WP8.1,Windows 8.1,",
+  "LastEdited": "2014-06-25T01:59:54.543-07:00"
+}

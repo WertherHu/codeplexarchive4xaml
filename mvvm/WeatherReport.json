@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WeatherReport",
+  "Title": "Weather Report Widget",
+  "Description": "WPF-based application for displaying temperature, wind direction and speed for the selected city.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a rather simple WPF project I used to explore various aspects of WPF, MVVM, multi-threading and unit-testing. It shows graphically the weather information retrieved from <a href=\"http://www.webservicex.net/globalweather.asmx\">http://www.webservicex.net/globalweather.asmx</a><br /><br /><img src=\"/projects/WeatherReport/33a88c59-d320-48db-a43c-66b47c62f1cb\" alt=\"WeatherReportWindow.png\" title=\"WeatherReportWindow.png\" /><br /><br />I used very handy classes ObservableObject and RelayCommand from Josh Smith&#39;s <a href=\"http://mvvmfoundation.codeplex.com/\">MVVM Foundation</a><br /><br />The list of countries can be adjusted in the config file, see the setting Countries in the applicationSettings element. The setting contains country codes according to <a href=\"http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2\">ISO 3166-1 alpha-2</a>. The config file shipped with the application contains Austria, Czech Republic, Germany and Ukraine.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,multi-threading,",
+  "LastEdited": "2012-11-09T03:43:17.31-08:00"
+}

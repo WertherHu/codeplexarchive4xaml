@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tyburnconsultancy",
+  "Title": "The Knight's Tour: a c#/wpf implementation (2010)",
+  "Description": "This project contains a C# implementation of the classic Knight's Tour problem.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project contains a C&#35; implementation of the classic Knight&#39;s Tour problem.  <br /><br /><br /><img src=\"http://www.londonelegance.com/tyburn-consultancy/wpf/images/knightstour.jpg\" /><br /><br />Author:  Garry Vass (WPF/Silverlight Specialist)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,graph theory,knight's tour,Algorithms,Chess,",
+  "LastEdited": "2011-11-23T04:08:26.733-08:00"
+}

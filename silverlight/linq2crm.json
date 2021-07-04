@@ -1,0 +1,9 @@
+{
+  "ProjectName": "linq2crm",
+  "Title": "Linq to CRM for Silverlight",
+  "Description": "Linq to CRM framework allows Silverlight application communicate with MS Dynamics CRM 2011 through the \"LINQ to CRM\" ORM layer.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Linq to CRM</h1>\r<h5>Linq to CRM framework allows Silverlight application communicate with MS Dynamics CRM 2011 through the &#34;LINQ to CRM&#34; ORM layer.</h5>\r<h5>For detailed instructions regarding how to use it go to <a href=\"https://linq2crm.codeplex.com/documentation?referringTitle=Home\">documentation</a></h5>\r\n\n<h4>If you experienced any issues write to us:</h4>\r<h4>1) Discussions tab</h4>\r<h4>2) Email discussion group: <a href=\"https://groups.google.com/d/forum/linq-to-crm-sl\">https://groups.google.com/d/forum/linq-to-crm-sl</a></h4></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CRM 2011,Silverlight,Linq2CRM,Linq to CRM,MS Dynamics,ORM,",
+  "LastEdited": "2016-08-02T05:12:58.33-07:00"
+}

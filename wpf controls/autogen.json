@@ -1,0 +1,9 @@
+{
+  "ProjectName": "autogen",
+  "Title": "edu.yale.som.sitefinity.autogen",
+  "Description": "The edu.yale.som.sitefinity.autogen .NET solution:\n* Provides a user control interface to auto generate and configure a hierarchy of pages, their controls, resources (libraries, categories, tags, etc.) within Sitefinity based on an XML config file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Contact</b><br />Brendan Turnbull brendan.turnbull@yale.edu<br /><br /><b>Project Description</b><br />The edu.yale.som.sitefinity.autogen .NET solution&#58;<br />&#42; Provides a user control interface to auto generate and configure a hierarchy of pages, their controls, resources &#40;libraries, categories, tags, etc.&#41; within Sitefinity based on an XML config file.<br /><br /><br /><b>Project Dependancies</b><br /><br />- <a href=\"http://emaillistsdao.codeplex.com/\">edu.yale.som.email.lists.dao</a><br /><br />- <a href=\"http://sitefinityshared.codeplex.com\">edu.yale.som.sitefinity.shared</a><br /><br />- <a href=\"http://www.bearcanyon.com/dotnet/#threadpool\">Custom Threadpool by Mike Woodring</a> <br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sitefinity,Brendan Turnbull,Yale,School of Management,",
+  "LastEdited": "2009-06-19T09:06:36.487-07:00"
+}

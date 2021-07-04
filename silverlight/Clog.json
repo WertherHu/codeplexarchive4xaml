@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Clog",
+  "Title": "Clog: Client Logging for .NET",
+  "Description": "Clog is a customizable log provider system that allows you to harness your existing logging system to log client side messages to your server using WCF. Includes Silverlight and WPF sample applications.\n ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Clog is a customizable log provider system that allows you to harness your existing logging system to log client side messages to your server using WCF. Includes Silverlight and WPF sample applications.<br /> <br />Clog supports the Desktop CLR and <b>Silverlight 3</b>\n<h2>The latest Clog source code is located with the <a href=\"http://calcium.codeplex.com/SourceControl/ListDownloadableCommits.aspx\">Calcium</a> source code. </h2>\rPlease note that Clog is independent of Calcium. In other words <b>you don&#39;t need Calcium to use Clog</b>. The reason for the single source control repository is that it is easier to maintain.<br /><br />For further information about this project please see  \n<ul><li><a href=\"http://www.codeproject.com/KB/WPF/WpfLogging.aspx\">http://www.codeproject.com/KB/WPF/WpfLogging.aspx</a>  </li>\n<li><a href=\"http://www.codeproject.com/KB/silverlight/SilverlightLogging.aspx\">http://www.codeproject.com/KB/silverlight/SilverlightLogging.aspx</a>.</li></ul>\n<br />Clog is a project by <a href=\"http://danielvaughan.orpius.com\">Daniel Vaughan</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Clog,WCF,WPF,Silverlight ,Logging,cool,Silverlight NPE,",
+  "LastEdited": "2009-12-28T06:09:44.587-08:00"
+}

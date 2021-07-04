@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SimpleCaptcha",
+  "Title": "Simple Captcha Control in Silverlight 4.0 (2011)",
+  "Description": "This is a Silverlight 4 implementation of a simple Captcha control that can be used as an authentication or authorization challenge.   ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a Silverlight 4 implementation of a simple Captcha control that can be used as an authentication or authorization challenge.   <br /><br />To see a working demo, visit <a href=\"http://www.londonelegance.com/tyburn-consultancy/Capcha\">http://www.londonelegance.com/tyburn-consultancy/Capcha</a><br /><br />As an added twist, the desired text is animated by a &#39;StoryBoard&#39;, making its analysis by a non-human inordinately difficult.  In the &#39;locked&#39; state, there is a padlock and a red adorner around the text block.  The user is challenged to enter the desired text.<br /><br /><img src=\"http://www.londonelegance.com/tyburn-consultancy/Capcha/CapchaWarning.jpg\" /><br /><br />The desired text is generated randomly and will be different for each challenge.<br /><br />When the desired text is entered, the control enters the &#39;unlocked&#39; state.  The visual cues for this are the unlocked padlock image and the absence of the red error adorner.  The application can poll this state and proceed on the assumption that the challenge has been successfully answered.<br /><br /><img src=\"http://www.londonelegance.com/tyburn-consultancy/Capcha/CapchaOk.jpg\" /><br /><br /><br /><br />Author:  Garry Vass (WPF/Silverlight Specialist)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-18T15:08:41.463-08:00"
+}

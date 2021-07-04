@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nacl",
+  "Title": "nAcl - .NET Access Control List",
+  "Description": "nAcl helps you handle scenarios for a matrix of rights easily. It can also be easily extended through a provider (as many of ASP.NET functionalities)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rnAcl helps you handle scenarios for a matrix of rights easily. It can also be easily extended through a provider &#40;as many of ASP.NET functionalities&#41;<br />\n<h1>Features</h1>\r\n<ul><li>Handles the <b>rights of an application</b> for you</li>\n<li>Handles a <b>hierarchy of rights</b></li>\n<li>Rights are <b>calculated in one place</b> but can be potentially retrieved from anywhere thanks to the <b>provider mechanism</b></li>\n<li><b>In memory</b> provider for static rights</li>\n<li><b>Router</b> provider to handle routes and associating providers to a route</li>\n<li><b>Sql</b> provider to handle rights in Db</li></ul>\n\n<h1>People behind nAcl</h1>\r\n<img src=\"/projects/nacl/b015596d-1a94-4c7d-b44e-1d909a0216ed\" alt=\"S_logo-Evaluant-innov.jpg\" title=\"S_logo-Evaluant-innov.jpg\" /><br /><br />nAcl is a project managed by <a href=\"http://www.evaluant.comt\">Evaluant</a> and is part of its <a href=\"http://www.codeplex.com/Project/ProjectDirectory.aspx?TagName=Evaluant\">R&amp;D developments</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Evaluant,",
+  "LastEdited": "2011-04-16T00:20:54.097-07:00"
+}

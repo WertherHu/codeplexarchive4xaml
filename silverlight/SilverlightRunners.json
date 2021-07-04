@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightRunners",
+  "Title": "Silverlight Unit Test Runners",
+  "Description": "Runners for running Silverlight Unit Tests in different tools.\n\nThe goal of the project is to be able to run Silverlight Unit Tests written with the framework by Jeff Wilcox in different tools, such as inside visual studio using MSTest, through Resharpers unit test runner, within MSBuild, NUnit and so forth. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>THIS PROJECT WILL BE DISCONTINUED. MOVED TO A DIFFERENT PROJECT: ODIN</b><br /><a href=\"http://odin.codeplex.com\">http://odin.codeplex.com</a><br /><br />More details on why can be found here:<br /><a href=\"http://www.ingebrigtsen.info/post/2009/05/01/Silverlight-Unit-Test-runners-new-project-3e-Odin.aspx\">http://www.ingebrigtsen.info/post/2009/05/01/Silverlight-Unit-Test-runners-new-project-3e-Odin.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-05-02T10:11:32.017-07:00"
+}

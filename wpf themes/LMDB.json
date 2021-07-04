@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LMDB",
+  "Title": "Local Movie DB in C#",
+  "Description": "C# WPF project. Will create local movie database where users can create their own DB of the movies they own/seen/liked ...  etc",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nC# WPF project. Will create local movie database where users can create their own DB of the movies they own/seen/liked ... etc</p>\r\n<p>&nbsp;</p>\r\n<p><strong>NB! Currently this project is in Estonian. </strong></p>\r\n<p>If there is an interest of using this app in another language, then contact me and I will translate the app to english.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-18T01:01:49.89-08:00"
+}

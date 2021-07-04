@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp7romo",
+  "Title": "WP7 Romo SDK",
+  "Description": "This library makes it easier for Windows Phone 7 developers to control a Romo smartphone robot tracked base (made by Romotive.com). You'll no longer have to play short sound files or do you own sound synthesis to get your Romo to move the way you want.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This library makes it easier for Windows Phone 7 developers to control a Romo smartphone robot tracked base &#40;made by Romotive.com&#41;. You&#39;ll no longer have to play short sound files or do you own sound synthesis to get your Romo to move the way you want.<br />\n<ul><li>Project weblog: <a href=\"http://peshir.blogspot.com/search/label/romo\">http://peshir.blogspot.com/search/label/romo</a></li>\n<li>Meet Romo: <a href=\"http://romotive.com\">http://romotive.com</a></li>\n<li>First demo image: <a href=\"https://www.facebook.com/photo.php?fbid=10150487085064318&amp;set=a.10150462100499318.386724.817819317\">https://www.facebook.com/photo.php?fbid=10150487085064318&amp;set=a.10150462100499318.386724.817819317</a></li></ul>\n<br />(Romotive has publicly released the Second Generation protocol to talk to Romo robots at <a href=\"http://romotive.com/blog/2012/04/hackers-welcomed-second-gen-protocol/\">http://romotive.com/blog/2012/04/hackers-welcomed-second-gen-protocol/</a>, if you would like to take a crack at this yourself.)<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-19T02:40:40.187-07:00"
+}

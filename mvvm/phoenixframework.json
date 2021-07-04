@@ -1,0 +1,9 @@
+{
+  "ProjectName": "phoenixframework",
+  "Title": "Phoenix MVVM+C Framework",
+  "Description": "Phoenix MVVM+C Framework ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Phoenix MVVM&#43;C Framework <br />\n<h1>Phoenix MVVM + C Framework</h1>\rPhoenix is a MVVM and MVC Hybrid framework, the goal is to address the shortcomings of MVVM frameworks and make WPF and WP7 development much nicer. The shortcomings we address are:<br />\n<ul><li>Overly complex viewmodels, which deal with data manipulation, view concerns, and often are a mix of business logic and model transformation so it can be bound using MVVM.</li>\n<li>A mix of background threads and UI threads with runtime exceptions when you get it wrong</li>\n<li>Often very low cohesion and high coupling to multiple model sources (WCF services, or Rest)</li></ul>\n<br />The way Phoenix does this is by introducing a controller. This means:\n<ul><li>ViewModels are UI thread only, anything that requires running off the UI thread belongs in a Controller Action.</li>\n<li>By introducing a controller, logical operations can be grouped together in a controller, meaning controllers have very high cohesion</li></ul>\n\n<h1>Documentation is now available at:</h1>\r<h2><a href=\"http://phoenixdocs.ginnivan.net\">http://phoenixdocs.ginnivan.net</a></h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-02T07:52:31.277-07:00"
+}

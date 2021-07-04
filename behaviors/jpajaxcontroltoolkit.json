@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jpajaxcontroltoolkit",
+  "Title": "JPAjaxControlToolkit",
+  "Description": "This project has been created in order to hold and share some AJAX controls created by me based in Ajax Control Toolkit template.\n\nFor now, we have three controls created:\n\n- HierarchicalGridExtender: An extender to add hierarchical behavior in GridView;\n\n- WizardSideBarExtender: An extender to add a behavior that let you set the position of Side Bar in a Wizard;\n\n- RSAEncryptExtender: An extender to add RSA cryptography in TextBox. Encrypt is done at client side and decrypt at server side without using a SSL channel;\n\nI hope all users enjoy this library and someone helps me to improve it.\n\nRegards, JP Barbosa.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project has been created in order to hold and share some AJAX controls created by me based in Ajax Control Toolkit template.<br /><br />For now, we have three controls created&#58;<br /><br />- HierarchicalGridExtender&#58; An extender to add hierarchical behavior in GridView&#59;<br /><br />- WizardSideBarExtender&#58; An extender to add a behavior that let you set the position of Side Bar in a Wizard&#59;<br /><br />- RSAEncryptExtender&#58; An extender to add RSA cryptography in TextBox. Encrypt is done at client side and decrypt at server side without using a SSL channel&#59;<br /><br />I hope all users enjoy this library and someone helps me to improve it.<br /><br />Regards, JP Barbosa.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,ASP.NET,",
+  "LastEdited": "2008-07-04T05:39:02.233-07:00"
+}

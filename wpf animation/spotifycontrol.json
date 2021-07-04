@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spotifycontrol",
+  "Title": "SpotifyControl",
+  "Description": "SpotifyControl is a WPF application to control Spotify client",
+  "MovedLink": "https://github.com/gpailler/SpotifyControl",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SpotifyControl is a WPF application to control Spotify client<br /><br /><b>Currently, the project is under developement.</b><br />This project is in alpha developement and binaries are not available.<br /><br /><br /><img src=\"/projects/spotifycontrol/b0f892e0-426f-441c-8436-fb18dda1e38b\" alt=\"bar.jpg\" title=\"bar.jpg\" /><br /><i>Control bar</i><br /><br /><br /><img src=\"/projects/spotifycontrol/f24400ba-8901-47d6-8bba-184814e6593d\" alt=\"balloon.jpg\" title=\"balloon.jpg\" /><br /><i>Balloon window displaying full track infos</i><br /><br /><br /><img src=\"/projects/spotifycontrol/1d1a63c0-93e0-435c-9907-f41462291f0b\" alt=\"settings.jpg\" title=\"settings.jpg\" /><br /><i>Settings window to configure track infos resolver and proxy settings</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-29T15:07:57.357-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "blobber",
+  "Title": "Blobber",
+  "Description": "Blobber is a simple command line tool to exchange data with Windows Azure Storage. It built in C# .NET and has variety of uses. \n\nUsage Example:\nUpload - C:\\Blobber -u test.txt\nDownload - C:\\Blobber -d D:\\test.txt ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Blobber is a simple command line tool to exchange data with Windows Azure Storage. It built in C&#35; .NET and has variety of uses. <br /><br />Usage Example&#58;<br />Upload - C&#58;&#92;Blobber -u test.txt<br />Download - C&#58;&#92;Blobber -d D&#58;&#92;test.txt <br /><br />The idea of a simple command line tool to exchange data with Azure Storage is amazing. Benefit we can have with a command line tool is we can write a simple batch file, or a Windows 7 PowerShell script, which would invoke this tool to periodically take the backup of important files to Windows Azure Cloud Storage. It can also be used in background by various other tools/scripts/applications which need to access blob storage in Azure. Blobber is also a nice and simple way to learn the storage fundamentals of Windows Azure. <br /><br />More details about Windows Azure Storage and Blobber at available at<br /><a href=\"http://www.codeproject.com/KB/winsdk/MyBlobber.aspx\">http://www.codeproject.com/KB/winsdk/MyBlobber.aspx</a> where <i>Blobber</i> was first published.<br /><br />Sample Output:<br /><img src=\"http://www.codeproject.com/KB/winsdk/MyBlobber/blobber01.jpg\" alt=\"Sample Blobber Output\" title=\"Sample Blobber Output\" /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure,Azure Storage,Windows Azure,azure platform,Blob Storage,blob,C#,.NET,Command Line,utility,c# tools,BACKUP AUTOMATION,powershell,power toys,console,",
+  "LastEdited": "2009-11-21T13:01:27.87-08:00"
+}

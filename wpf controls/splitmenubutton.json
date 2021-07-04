@@ -1,0 +1,9 @@
+{
+  "ProjectName": "splitmenubutton",
+  "Title": "WPF SplitButton & MenuButton",
+  "Description": "This WPF SplitButton and MenuButton implementation aims to be more robust and visual attractive than the other WPF split buttons available on CodePlex and elsewhere. The code is based on David Anson's implementation made available on his blog.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This WPF SplitButton and MenuButton implementation aims to be more robust and visual attractive than the other WPF split buttons available on CodePlex and elsewhere. The code is based on David Anson&#39;s implementation made available on his blog.<br /><br />This project contains both WPF and Silverlight MenuButton and SplitButton implementations along with sample applications that demonstrate how the controls work. Both versions target .NET 4.0 but the WPF controls do currently compile and function under the .NET 3.5 without any other known issues. The Silverlight controls and the sample application require the <a href=\"http://silverlight.codeplex.com/releases/view/43528\">Silverlight 4 Toolkit</a> to be installed in the GAC in order to build using Visual Studio.<br /><br />If you see any room for improvement feel free to submit a patch or post an issue in the Issue Tracker.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-10T05:40:57.267-08:00"
+}

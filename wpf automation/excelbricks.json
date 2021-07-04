@@ -1,0 +1,9 @@
+{
+  "ProjectName": "excelbricks",
+  "Title": "ExcelBricks",
+  "Description": "ExcelBricks provides an easy way to automate common Excel tasks. Instead of writing VBA or recording macros you use high level commands entered in a worksheet.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>Introduction</h2>\r\n<p>ExcelBricks provides an easy way to automate common Excel tasks. Instead of writing VBA or recording macros you use high level commands entered in a Configuration sheet.</p>\r\n<p>For instance, there is a single command to</p>\r\n<ul>\r\n<li>get data from SQL Server and other Excel workbooks </li><li>add a formula to each row that is not blank </li><li>apply filters </li><li>refresh pivots </li><li>convert formulas to values, etc. </li></ul>\r\n<p>You can also use (and even write your own) external modules for more customized functionality. For example</p>\r\n<ul>\r\n<li>split content from a column across multiple rows </li><li>merge rows by collating data from a column </li><li>extract words that match a pattern from a cell </li><li>extract data from text based files </li><li>generate a presentation from a workbook </li></ul>\r\n<p>ExcelBricks has undergone very many iterations. While this doesn't mean 0 bugs :-), it does ensure a pretty high standard for reliability, error-handling and performance to start off.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ExcelBricks,Excel,Macro,Framework,Automation,",
+  "LastEdited": "2014-02-18T07:26:10.86-08:00"
+}

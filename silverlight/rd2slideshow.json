@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rd2slideshow",
+  "Title": "Silverlight Flickr Slideshow",
+  "Description": "A Silverlight 3 project that displays a user's flickr photostream in a 3D animated slideshow.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>3D Flickr Slideshow</h2>\r\nUtitlizing some of the new 3D effects in Silverlight 3 we put together this slideshow for flickr photos.<br /><br /><img src=\"/projects/rd2slideshow/b68f69b7-e7c6-490b-a973-e91dcadd8f66\" alt=\"preview.png\" title=\"preview.png\" /><br />\n<h3>Configuration</h3>\r\nYou can add this to a web page and configure it with the following parameters in the Silverlight object tag:<br />\n<ul><li>&lt;param name=&quot;background&quot; value=&quot;ColorHexValue&quot; /&gt;</li>\n<li>&lt;param name=&quot;initparams&quot; value=&quot;flickr<i>username=ID,flickr</i>api<i>key=key,flickr</i>api_secret=secret&quot; /&gt;</li></ul>\n\n<h3>Links</h3>\r<ul><li><a href=\"http://blog.rd2inc.com/archives/2009/03/20/new-3d-feature…-silverlight-3/\">RD2 Blog Post</a></li>\n<li><a href=\"http://vimeo.com/3771634\">Video Demo</a></li></ul>\n<br />This project was developed by <a href=\"http://rd2inc.com\">RD2, Inc.</a> in partnership with <a href=\"http://microsoft.com\">Microsoft</a> and <a href=\"http://dell.com\">Dell</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-20T09:20:00.977-07:00"
+}

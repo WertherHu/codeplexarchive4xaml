@@ -1,0 +1,9 @@
+{
+  "ProjectName": "getafisk",
+  "Title": "getafisk",
+  "Description": "Getafisk is Silverlight/ASP.net wrapper for Asterisk IP PBX",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Wrapper around Asterisk IP PBX and FreePBX (including its derivatives like Elastix and TrixBox)<br /><br /><b>Features</b>\n<ul><li>tabular data presentation enabling batch/bulk </li>\n<li>moving some of the busines logic and presentation to client thus reducing load on the PBX\n<ul><li>enabling to move Asterisk onto embedded devices with less load on the server during configuration</li>\n<li>Presentation layer\n<ul><li>tabular data</li>\n<li>burst mode for batch/bulk scan inputs (barcode scanning)</li></ul></li></ul></li></ul>\n<br /><br /><b>Technology</b>\n<ul><li>OS: Linux CentOS</li>\n<li>ASP.net 3.5</li>\n<li>Silverlight 3.0\n<ul><li>Silverlight Toolkit</li></ul></li>\n<li>Database access: Linq (DbLinq and MySqlConnector.NET)</li></ul>\n<br />Support\n<ul><li>HolisticWare <a href=\"http://holisticware.net\">http://holisticware.net</a></li>\n<li>Ubique <a href=\"http://www.ubique.hr\">http://www.ubique.hr</a></li></ul>\n<br /><br />Contributors\n<ul><li>Miljenko Cvjetko aka Chika Zulko</li>\n<li>Ivan Kaselj aka Lega</li>\n<li>Ivan Dikic aka ScriptKiddy</li>\n<li>Emilije Strahinja aka ISOLayer1</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-15T13:29:58.34-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cardiffwpug",
+  "Title": "Cardiff WPUG",
+  "Description": "This is a Windows Phone 7 app, written using C# and using the MVVMLight framework. This app is intended as a training app for anyone interested in programming for Windows Phone and looking for a place to start. \r\n\r\nThe app is used to show upcoming user group meetings, showcase members apps and show the latest news from the Windows Phone User Group in the UK.\r\n\r\nI'll be keeping this app up to date with the latest framework and will also be submitting versions to the marketplace (the current version is already submitted and can be downloaded from here :http://www.windowsphone.com/en-GB/apps/2f51ada2-a495-e011-986b-78e7d1fa76f8)\r\n\r\nPlease feel free to contribute",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a Windows Phone 7 app, written using C&#35; and using the MVVMLight framework. This app is intended as a training app for anyone interested in programming for Windows Phone and looking for a place to start. <br /><br />The app is used to show upcoming user group meetings, showcase members apps and show the latest news from the Windows Phone User Group in the UK.<br /><br />I&#39;ll be keeping this app up to date with the latest framework and will also be submitting versions to the marketplace &#40;the current version is already submitted and can be downloaded from here &#58;http&#58;&#47;&#47;www.windowsphone.com&#47;en-GB&#47;apps&#47;2f51ada2-a495-e011-986b-78e7d1fa76f8&#41;<br /><br />Please feel free to contribute<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WP7,wp7dev,MVVM,mvvmlight,MVVM Light Toolkit,C#,",
+  "LastEdited": "2011-11-08T13:17:31.257-08:00"
+}

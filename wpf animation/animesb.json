@@ -1,0 +1,9 @@
+{
+  "ProjectName": "animesb",
+  "Title": "Anime in Small Basic",
+  "Description": "Anime is a tool to create animation program written in Microsoft Small Basic.  Anime outputs also SVG animation code.",
+  "MovedLink": "https://github.com/nonkit/AnimeSB",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Anime in Small Basic</h1>\rAnime is a tool to create animation program written in Microsoft Small Basic.  Anime outputs also SVG animation code.<br /><br />This project is in very early stage.  You can see the current status of this project in a thread of Small Basic forum <a href=\"https://social.msdn.microsoft.com/Forums/en-US/047dbf49-39cd-4055-9c5a-62387d02d823/how-to-create-animation-with-small-basic\">How to Create Animation with Small Basic</a>.<br /><br /><img src=\"/projects/animesb/11cf0541-de9f-48ad-ad1e-56603e767bb7\" alt=\"Anime03a.png\" title=\"Anime03a.png\" />\n<hr /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-04-17T04:26:01.46-07:00"
+}

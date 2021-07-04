@@ -1,0 +1,9 @@
+{
+  "ProjectName": "videowriter",
+  "Title": "OpenCV  Video Writer",
+  "Description": "For OpenCV2.2\r\n\r\nMain Function:\r\nUse mouse to draw on  window, edited video will be made in realtime.\r\nSupport fading out effect and translucence drawing.\r\n\r\nThis program use a read-edit-write model to achieve Realtime editing of video.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nFor OpenCV2.2<br>\r\n<br>\r\nMain Function:<br>\r\nUse mouse to draw on window, edited video will be made in realtime.<br>\r\nSupport fading out effect and translucence drawing.<br>\r\n<br>\r\nThis program use a read-edit-write model to achieve Realtime editing of video.</p>\r\n<p><img src=\"http://i.minus.com/i0wq5iPwJUNx6.png\" alt=\"effrct\" width=\"325\" height=\"273\"></p>\r\n<p>Play Control:</p>\r\n<p><img src=\"http://i.minus.com/ibeLqx03y6JJzz.png\" alt=\"Play Control\" width=\"304\" height=\"81\"></p>\r\n<p>Drawing Control:</p>\r\n<p><img src=\"http://i.minus.com/ibmX6nhSb6jqQ6.png\" alt=\"Drawing Control\" width=\"310\" height=\"403\"></p>\r\n<p>Alpha Blend:</p>\r\n<p><img src=\"http://i.minus.com/ibww4yw9nCdyEm.jpg\" alt=\"Alpha Blend\" width=\"720\" height=\"433\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-14T00:45:48.307-07:00"
+}

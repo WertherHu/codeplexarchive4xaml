@@ -1,0 +1,9 @@
+{
+  "ProjectName": "acutype",
+  "Title": "Acutype",
+  "Description": "Simple program that enables you to practice typing by copying out passages from books.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Acutype is a program to help you to practice your typing.<br>\r\n<br>\r\nSimply import some books and type them out!<br>\r\n<br>\r\nThe executable download contains some free eBooks from&nbsp;<a href=\"http://www.gutenberg.org/\">Project Gutenberg</a> which can be imported.<br>\r\n<br>\r\n<img title=\"-\" src=\"/projects/acutype/4378b415-ee03-40a8-bf71-2837aa0b2a28\" alt=\"-\"><img title=\"-\" src=\"/projects/acutype/d95ee32f-47b7-4543-9ba2-423d7ac1630f\" alt=\"-\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,WPF,colemak,touchtyping,typing,books,",
+  "LastEdited": "2014-05-14T17:30:02.747-07:00"
+}

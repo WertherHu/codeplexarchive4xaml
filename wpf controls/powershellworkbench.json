@@ -1,0 +1,9 @@
+{
+  "ProjectName": "powershellworkbench",
+  "Title": "PowerShellWorkBench",
+  "Description": "An open-source GUI custom graphical host for PowerShell, using WPF (AvalonDock/AvalonEdit), written in VB.Net",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An open-source GUI custom graphical host for PowerShell, using WPF &#40;AvalonDock&#47;AvalonEdit&#41;, written in VB.Net<br /><br />Tutorial on building custom powershell host (using WinForms) can be found at <a href=\"http://powershellstation.com\">http://powershellstation.com</a><br /><br />Added treeviews and type-specific context menus (uses TypeNames in the PSObject to build a new menu for each object in the tree).  <br /><br />Example Script:<br /><br /><pre>\n#create a new tree\nnew-tree Example\n\n#add a node to the tree, with a file object attached to it\nnew-treenode &quot;A File Node&quot; -nodeobject  (dir c:\\boot.ini -force)  -tree Example\n\n#add a context menu item for all objects to show all properties\nnew-typemenuitem &#39;System.Object&#39; &#39;ShowDetails&#39; &#39;*OBJECT* | fl *&#39;\n\n#add a context menu for FileInfo objects to echo the object to the host\nnew-typemenuitem &quot;System.IO.FileInfo&quot; &quot;Show Object&quot; &quot;*OBJECT*&quot;\n\n#add a nested context menu for FileInfo objects to output the contents of the file to the host\nnew-typemenuitem &quot;System.IO.FileInfo&quot; &quot;File_Operations&quot; @{Get_Contents=&#39;gc $(*OBJECT*)&#39;}\n</pre><br /><img src=\"http://files.powershellstation.com/pwb_contextmenu.png\" alt=\"Screenshot of sample script\" title=\"Screenshot of sample script\" /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "PowerShell,GUI,Console,WPF,AvalonDock,AvalonEdit,",
+  "LastEdited": "2010-02-05T21:18:54.567-08:00"
+}

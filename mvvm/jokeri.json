@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jokeri",
+  "Title": "Jokeri",
+  "Description": "MVVM Silverlight Multiplayer Card Game hosted in Facebook. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Multiplayer Card game (C#, WCF, Prism)<br /><br />Not stable currenty, and card game rules are not yet implemented...<br />Lobby is in setup mode </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-13T04:33:26.09-07:00"
+}

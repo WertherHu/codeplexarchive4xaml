@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HtmlPageUtil",
+  "Title": "Silverlight HtmlPage Utilities",
+  "Description": "Within Silverlight, managed code can access the HTML page that hosts the Silverlight application.  The HtmlPage objects do not implement any interfaces, so they cannot be mocked out when writing unit tests.\n\nThis project wraps all of the HtmlPage objects in mockable way.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Within Silverlight, managed code can access the HTML page that hosts the Silverlight application.  The HtmlPage objects do not implement any interfaces, so they cannot be mocked out when writing unit tests.<br /><br />This project wraps all of the HtmlPage objects in mockable way.<br /><br />For more information about how to use this library, see <a href=\"http://houseofbilz.com/archive/2009/04/26/introducing-html-utilities-for-silverlight.aspx\">http://houseofbilz.com/archive/2009/04/26/introducing-html-utilities-for-silverlight.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight NPE,",
+  "LastEdited": "2009-04-26T18:19:05.633-07:00"
+}

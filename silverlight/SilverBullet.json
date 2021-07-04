@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverBullet",
+  "Title": "SilverBullet",
+  "Description": "SilverBullet is an open-source implementation of Microsoft's XNA Framework, written on top of SilverLight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>SilverBullet is an open-source implementation of Microsoft's XNA Framework, built on top of Microsoft SilverLight to enable simple XNA games to be run within a webbrowser. SilverBullet is designed as a drop-in replacement, meaning that adding a reference\r\n to SilverBullet is all that is needed to 'port' an XNA game to SilverLight. See the\r\n<strong>Documentation</strong> page for more information.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-24T10:06:58.453-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WFConverter",
+  "Title": "SharePoint 2013 Workflow Converter for Visual Studio 2012",
+  "Description": "This tool is a Visual Studio extension that converts SharePoint 2013 workflow and custom activity project items from solution to app style.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This tool is a Visual Studio extension that converts SharePoint 2013 workflow and custom activity project items from solution to app style.<br /><br />With the official release of Office Developer Tools for Visual Studio 2012 and the March 2013 SharePoint Update, SharePoint 2013 workflow and custom activity are different between app projects and solution projects.  The major differences are in their folder structures, metadata schemas, and packaging format.  In order to copy a workflow/custom activity created from a solution project into an app project (either for reuse or if you decided to change the project type), they must be converted to the app workflow format.  To make this process easier for you, we have created this workflow conversion tool.<br />&#160;<br />Additionally, if you previously used the Preview 2 version of Office Developer Tools to create SharePoint 2013 workflow projects, you will have to convert them to be compatible with the official version of Office Developer Tools and the March 2013 Office Cumulative Update.  In this case, the conversion is required for both solution and app projects.  This tool can be used for this purpose as well.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-27T17:48:27.283-07:00"
+}

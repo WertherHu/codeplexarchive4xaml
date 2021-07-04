@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DocX",
+  "Title": "DocX",
+  "Description": "DocX is a .NET library written in C# which allows a developer to manipulate Word files in an easy and intuitive way.",
+  "MovedLink": "https://github.com/xceedsoftware/DocX",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>October 2, 2017</h1>\r\n<h2>The project&#39;s new home is now on Github at <a href=\"https://github.com/xceedsoftware/docx\">https://github.com/xceedsoftware/docx</a></h2>\r\nDocX a .NET library that allows developers to manipulate Word files with the .DOCX format that was introduced as of Word 2007. DocX is fast, lightweight, easy to use, and best of all it does not require Microsoft Word or Office to be installed.<br /><br /><span class=\"unresolved\">Cannot resolve image macro, invalid image name or id.</span></div><div class=\"ClearBoth\"></div>",
+  "TagList": "word api,.NET,C#,docx,Word 2007,WordProcessingML,.NET 3.5,automation,Office 2007,Office Open XML,Office,.NET 4.0,Microsoft Office,Microsoft Word,Microsoft,OOXML,docx word,reporting service,Word,thanks,Christian Knight,",
+  "LastEdited": "2017-10-02T09:20:09.59-07:00"
+}

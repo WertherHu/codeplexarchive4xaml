@@ -1,0 +1,9 @@
+{
+  "ProjectName": "zanimation",
+  "Title": "zAnimation",
+  "Description": "zAnimation is a simple XNA library for animating skinned models exported from Maya. It supports pre-clip interpolation and per-bone animations. It's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />zAnimation is a simple XNA library for animating skinned models exported from Maya. It supports pre-clip interpolation and per-bone animations. It&#39;s developed in C&#35;.<br /><br />Current testing done on <b>Windows XP SP3</b> only.<br /><br /><b>Current version:</b> 1.0<br /><b>Wanted:</b> Windows testers, XBOX360 programmers<br /><br />No documentation or samples yet. Stay tuned.<br /><br />More on zAnimation and other cool stuff on my blog <a href=\"http://onedevarmy.wordpress.com/\">http://onedevarmy.wordpress.com/</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-22T02:51:24.403-08:00"
+}

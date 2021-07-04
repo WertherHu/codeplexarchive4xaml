@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DBScriptRunner",
+  "Title": "DB Script Runner",
+  "Description": "Utility to run multiple scripts in a specified order against a database.  It's developed in VB.net.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Utility to run multiple scripts in a specified order against a database.  It&#39;s developed in VB.net.<br /><br />This project was born out of the necessity to run a set of scripts in a particular order.  Given all of the foriegn key constraints in our database, data had to be deleted in the right order, tables had to be dropped in the right order, then the scripts had to be run in the correct order.   Remembering the correct order was impossible, and following a written script proved unwieldly.  It ended up being much easier to write this utility to run the scripts in order.  <br /><br />This utility supports both running scripts from files as well as user provided scripts that are saved in the script project.<br /><br />The data for a script project is stored in an xml file.<br /><br /><b>Technologies Used</b>\n<ul><li>WPF for the user interface</li>\n<li>The WCF Data Contract serializer is used to create / read the xml files</li>\n<li>The code is written using VB.net</li></ul>\n<br /><b>Goals</b>\n<ul><li>Add support for Oracle (the database provider is implemented as an interface, but only SQL Server is supported at this time).</li>\n<li>Implement the console interface</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,VB.NET,SQL Server,WPF,.NET 3.5,Database Tools,Database,Scripting,DB Script Runner,",
+  "LastEdited": "2008-12-01T15:19:08.353-08:00"
+}

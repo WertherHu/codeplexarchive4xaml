@@ -1,0 +1,9 @@
+{
+  "ProjectName": "productkeymanager",
+  "Title": "Product Key Manager",
+  "Description": "Manager for Product Keys",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Product Key Manager 3.5</h1>\rToday marks the release of Product Key Manager 3.5 Beta.<br /><br /><a href=\"https://productkeymanager.codeplex.com/wikipage?title=Installation%2fUpdate&referringTitle=Home\">Installation&#47;Update</a><br /><a href=\"https://productkeymanager.codeplex.com/wikipage?title=Walkthrough&referringTitle=Home\">Walkthrough</a><br />\n<h2>Changes</h2>\rThis release is almost a complete rewrite of the previous version. I had encountered several issues with Sql Server Compact after deployment that I couldn&#39;t recreate in debug mode. The code had also become complex more difficult to maintain. I decided to rewrite the data layer and make it more simple and WPF friendly. I stripped things down and did alot of refactoring and got it to a point where everything is stored in the app.config. This has reduced the dependancies significantly and has improved startup performance.\n<h2>Technologies Used</h2>\r<ul><li>.NET 3.5 SP1</li>\n<li>Windows Presentation Foundation</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "LINQ,WPF,.NET 3.5,licensing,Product Key,Key manager,",
+  "LastEdited": "2009-02-06T11:41:36.303-08:00"
+}

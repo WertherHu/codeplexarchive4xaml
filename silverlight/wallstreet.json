@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wallstreet",
+  "Title": "wallstreet",
+  "Description": "This is a stock app that displays the current price of a list of stocks that you provide. You can drill down to get more information, graphs and company news. The application also gives you an overview over the development on the worlds largest stock indexes and stock market news",
+  "MovedLink": "",
+  "HomeWiki": "\r\n<div class=\"wikidoc\"><strong>Project Description</strong><br>\r\nThis is a stock app that displays the current price of a list of stocks that you provide. You can drill down to get more information, graphs and company news. The application also gives you an overview over the development on the worlds largest stock indexes\r\n and stock market news</div>\r\n<div class=\"wikidoc\"><a href=\"http://sigurdsnorteland.wordpress.com/2010/08/24/wallstreet-a-wp7-stock-app/\"><br>\r\nMore info</a></div>\r\n<div class=\"wikidoc\"><img src=\"http://sigurdsnorteland.files.wordpress.com/2010/08/wallstreet-2.png?w=312&h=559\" alt=\"\" width=\"312\" height=\"559\"><img src=\"http://sigurdsnorteland.files.wordpress.com/2010/08/wallstreet-32.png?w=312&h=559\" alt=\"\" width=\"312\" height=\"559\"><img src=\"http://sigurdsnorteland.files.wordpress.com/2010/08/wallstreet-4.png?w=312&h=559\" alt=\"\" width=\"312\" height=\"559\"><img src=\"http://sigurdsnorteland.files.wordpress.com/2010/08/wallstreet-6.png?w=312&h=559\" alt=\"\" width=\"312\" height=\"559\"><img src=\"http://sigurdsnorteland.files.wordpress.com/2010/08/wallstreet-9.png?w=312&h=559\" alt=\"\" width=\"312\" height=\"559\"><img src=\"http://sigurdsnorteland.files.wordpress.com/2010/08/wallstreet-11.png?w=312&h=559\" alt=\"\" width=\"312\" height=\"559\"></div>\r\n",
+  "TagList": "App,Applications,Silverlight,WP 7,WP7,Demo,Example,finance,",
+  "LastEdited": "2011-01-14T11:58:20.113-08:00"
+}

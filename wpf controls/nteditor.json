@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nteditor",
+  "Title": "nteditor",
+  "Description": "A custom user control to read and edit word documents like doc, rtf, etc. Attempts are being made to read and write or maybe simple convert DOCX and other documents. But current focus is upon word documents specially RTF which has a different version for different softwares.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A custom user control to read and edit word documents like doc, rtf, etc. Attempts are being made to read and write or maybe simple convert DOCX and other documents. But current focus is upon word documents specially RTF which has a different version for different softwares.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-04T22:02:31.193-07:00"
+}

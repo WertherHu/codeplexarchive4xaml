@@ -1,0 +1,9 @@
+{
+  "ProjectName": "octopus",
+  "Title": "Octopus",
+  "Description": "Octopus is a Virtual Machine scheduler designed to manage a large number of VMs running on Microsoft Hyper-V. The system features a policy manager to control the policies for managing the resources used, including power efficiency. The system is entirely implemented in F#.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><div style=\"clear:both;height:0;\">&nbsp;</div><img style=\"float:right;padding-left:.5em;\" src=\"/projects/octopus/2074169b-f205-47ab-90e5-78e840b7f060\" alt=\"logo.png\" title=\"logo.png\" /><br /><br /><b>Project Description</b><br />Octopus is a Virtual Machine scheduler designed to manage a large number of VMs running on Microsoft Hyper-V. The system features a policy manager to control the policies for managing the resources used, including power efficiency. The system is entirely implemented in F&#35;.<br /><br /><br /><br /><b>NOTE</b> Octopus is under development and we have to publish more information about it. Stay tuned and if you are interested please contact us using the discussions. We try to keep SVN up-to-date, though it&#39;s not easy given the speed of development.<br /><br />Check out <a href=\"http://research.microsoft.com/apps/video/default.aspx?id=122454\">Octopus presentation</a> at Cloud Futures 2010, Workshop organized by Microsoft Research 8-9 April 2010 in Redmond.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-31T14:16:59.743-07:00"
+}

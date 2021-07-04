@@ -1,0 +1,9 @@
+{
+  "ProjectName": "officerss",
+  "Title": "RSS Reader for Office",
+  "Description": "This PlugIn Enables you to add RSS Feeds to Office (Excel, Word, Powerpoint) so that you can view RSS Feeds while \"working\" on some Projects. It integrates into the Office Ribbon and is currently available for Office 2007. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This PlugIn Enables you to add RSS Feeds to Office &#40;Excel, Word, Powerpoint&#41; so that you can view RSS Feeds while &#34;working&#34; on some Projects. It integrates into the Office Ribbon and is currently available for Office 2007. <br /><br />You can get more information on the Project Page: <a href=\"http://www.meirhuber.de/Projects/vsto/rssreader/Default.aspx\">http://www.meirhuber.de/Projects/vsto/rssreader/Default.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Office 2007,Office,vsto,WPF,addin,RSS,",
+  "LastEdited": "2009-03-07T13:09:15.65-08:00"
+}

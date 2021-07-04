@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfPoker",
+  "Title": "Wpf Poker",
+  "Description": "A simple open source poker game for local area networks. The project is developed under Visual Studio 2008 and uses .NET 3.5\nThe graphical user interface is pure WPF. Recently the project communications were converted from simple binary sockets to use WCF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple open source poker game for local area networks. The project is developed under Visual Studio 2008 and uses .NET 3.5<br />The graphical user interface is pure WPF. Recently the project communications were converted from simple binary sockets to use WCF<br />\n<h2>RC3.5 Is now released</h2>\r<a href=\"https://wpfpoker.codeplex.com/releases/view/14541\">Check it out!</a><br /><br />RC3.5 Screenshot:<br /><img src=\"/projects/wpfPoker/75b3acdb-90b7-4b4b-a28b-c20c017c3940\" alt=\"RC3.5&#32;screen&#32;shot\" title=\"RC3.5&#32;screen&#32;shot\" /><br />\n<h2>System Requirements</h2>\r<ul><li>Windows XP (sp 2), Windows Vista, Windows 7</li>\n<li>.NET 3.5 (when you use the setup, it will prompt you to download the framework if it isn&#39;t present) or higher</li>\n<li>High Resolution Video Card (Recommended for best view, use 1600x1200 desktop resolution)</li></ul>\n<br />The project uses a sample project which provides WCF extensions to provide WS-Discovery support. (Written by <a href=\"http://blogs.msdn.com/vipulmodi/archive/2006/12/21/ws-discovery-sample-implementation.aspx\">Vipul Modi</a>, download <a href=\"http://wcf.netfx3.com/files/folders/protocol_channels/entry7909.aspx\">here</a>)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,poker,games,WPF,wcf,.NET 3.5,OpenUp,MyList.Poker,.NET 4.0,",
+  "LastEdited": "2010-05-16T06:37:13.787-07:00"
+}

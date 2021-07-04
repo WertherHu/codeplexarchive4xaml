@@ -1,0 +1,9 @@
+{
+  "ProjectName": "watermarktextbox",
+  "Title": "Windows Phone 7 Silverlight Watermark TextBox Control",
+  "Description": "A Windows Phone 7 TextBox control, providing Watermark text to add a visual clue to the user for what he has to enter in the field, like the built-in Calendar app when you want to create a new appointment.\r\nThe control inherits TextBox.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA Windows Phone 7 TextBox control, providing Watermark text to add a visual clue to the user for what he has to enter in the field, like the built-in Calendar app when you want to create a new appointment.<br>\r\nThe control inherits TextBox.<br>\r\n<br>\r\n<br>\r\n<strong>Screenshots</strong><br>\r\n<img title=\"CaptureWatermarkTextBoxNotFocused\" src=\"http://www.codeplex.com/download?ProjectName=watermarktextbox&DownloadId=221171\" alt=\"CaptureWatermarkTextBoxNotFocused.JPG\" width=\"150\"><br>\r\n<em>Not focused</em><br>\r\n<br>\r\n<img title=\"CaptureWatermarkTextBoxFocused.JPG\" src=\"http://www.codeplex.com/download?ProjectName=watermarktextbox&DownloadId=221170\" alt=\"CaptureWatermarkTextBoxFocused.JPG\" width=\"150\"><br>\r\n<em>Focused</em></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TextBox,Silverlight 3,Silverlight Controls,Windows Phone 7,",
+  "LastEdited": "2011-03-26T08:56:06.617-07:00"
+}

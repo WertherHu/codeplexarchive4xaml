@@ -1,0 +1,9 @@
+{
+  "ProjectName": "follower",
+  "Title": "Follower",
+  "Description": "BuddyTracker for Windows Runtime (Windows Phone) using Twitter with CoreTweet.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />BuddyTracker for Windows Runtime &#40;Windows Phone&#41; using Twitter with CoreTweet.<br /><a href=\"http://www.windowsphone.com/en-us/store/app/follower/30b1de66-b888-4442-991c-35e1ff124ef8\">http://www.windowsphone.com/en-us/store/app/follower/30b1de66-b888-4442-991c-35e1ff124ef8</a><br /><br /><img src=\"/projects/follower/aa76dc0e-56bf-4ab8-9125-c7e4335c86ef\" alt=\"SplashScreen.scale-240.png\" title=\"SplashScreen.scale-240.png\" /><br /><br />This application is built for Faculty of Science in Novi Sad Serbia as a small individual project to demo usage of MVVM pattern and asynchronous programming, with CoreTweet for posting and reading tweets.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,windows runtime,twitter,winrt,coretweet,mvvm,gps,",
+  "LastEdited": "2015-02-01T13:22:26.87-08:00"
+}

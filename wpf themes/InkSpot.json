@@ -1,0 +1,9 @@
+{
+  "ProjectName": "InkSpot",
+  "Title": "InkSpot",
+  "Description": "Adds SVG runtime support to WPF applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nAdds SVG runtime support to WPF applications.</p>\r\n<p>The Goal of this project is make a transparent transition between an SVG illustration and your WPF app, so you can use it as easy as you use a JPG image.<br>\r\n<br>\r\nExample: Make an SVG Icon with InkScape and use it in a WPF Button</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-25T21:25:40.753-08:00"
+}

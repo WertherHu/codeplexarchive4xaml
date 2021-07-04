@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dradis",
+  "Title": "Dradis",
+  "Description": "A demo app, created by Nokia, for Spaceship 2013 developer event. This app combines HERE Maps, compass sensor and Twitter feed.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />A demo app, created by Nokia, for Spaceship 2013 developer event. This app combines HERE Maps, compass sensor and Twitter feed.<br /><br />When the tweets (in the channel defined in the settings) contain location data, the user is displayed on the map. Note that you need to authorise the app to use your Twitter account in order to see the Twitter feed and the locations of other users.<br /><br /><img src=\"/projects/dradis/f308a771-c4a9-4472-92c0-e0c9fc34ec5e\" alt=\"dradis-screenshot-scaled.png\" title=\"dradis-screenshot-scaled.png\" /><br /><br /><b>Compatibility</b>\n<ul><li>Windows Phone 8</li>\n<li>Tested on:\n<ul><li>Nokia Lumia 520</li>\n<li>Nokia Lumia 620</li>\n<li>Nokia Lumia 920</li></ul></li>\n<li>Developed with Visual Studio 2012 Express for Windows Phone 8</li></ul>\n<br />For more information about the Spaceship 2013 developer event, see the <a href=\"http://spaceship.fi\">official website of the event</a>.<br /><img src=\"/projects/dradis/5268f4d2-a0d6-40e3-8db8-b09d0d7a805b\" alt=\"spaceship-with-background-medium-inverted.png\" title=\"spaceship-with-background-medium-inverted.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "networking,xaml,twitter,location,NOKIA,Compass,windows phone,Windows Phone 8,Sensors,HERE Maps,HERE,",
+  "LastEdited": "2013-04-19T08:47:14.737-07:00"
+}

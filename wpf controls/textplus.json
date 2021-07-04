@@ -1,0 +1,9 @@
+{
+  "ProjectName": "textplus",
+  "Title": "TextPlus for Silverlight",
+  "Description": "A TextBlock-like control for Silverlight which adds automatic (or explicit) hyperlinking by recognizing URLs in the text and turning them into clickable links.  It also does indents and hanging indents.\n\nIt is written in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A TextBlock-like control for Silverlight which adds automatic &#40;or explicit&#41; hyperlinking by recognizing URLs in the text and turning them into clickable links.  It also does indents and hanging indents.<br /><br />It is written in C&#35;.<br /><br />TextPlus differs from the LinkLabel for Silverlight project in the syntax used for defining the links in XAML - utilizing a &lt;Link /&gt; element rather than markup (or markdown) syntax in the middle of the text, utilizing the same inline structure as the normal TextBlock.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-05-03T21:07:16.03-07:00"
+}

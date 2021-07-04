@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LearningClassifier",
+  "Title": "Learning Classifier System Trainer",
+  "Description": "NOT in a publishable state, but published otherwise it will be removed! Please wait until March 2010. Thanks.\nThis project demonstrates an implementation of a learning classifier system, which allows students to modify the classifier behaviour. It is developed in C# and WP",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />NOT in a publishable state, but published otherwise it will be removed&#33; Please wait until March 2010. Thanks.<br />This project demonstrates an implementation of a learning classifier system, which allows students to modify the classifier behaviour. It is developed in C&#35; and WP<br /><br />Currently the project contains a modified version of WPFPropertyGrid <a href=\"http://wpg.codeplex.com\">http://wpg.codeplex.com</a>. This is due to being unable to contact the original project author regarding submitting fixes. Hopefully this will be rectified soon.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-12-06T07:40:49.683-08:00"
+}

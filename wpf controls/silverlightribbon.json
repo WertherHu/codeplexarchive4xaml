@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightribbon",
+  "Title": "Silverlight Ribbon",
+  "Description": "A silverlight implementation of the Office 2007 Ribbon control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A silverlight implementation of the Office 2007 Ribbon control.<br /><br />I will update this site with a more detailed description of the control in the near future, but in the mean time there are some posts on my blog (<a href=\"http://home.infusionblogs.com/smatthews/default.aspx\">http://home.infusionblogs.com/smatthews/default.aspx</a>) regarding the Ribbon.<br /><br />A live demo is hosted at Silverlight Streaming: <a href=\"http://silverlight.services.live.com/invoke/60108/SilverlightRibbon/iframe.html\">http://silverlight.services.live.com/invoke/60108/SilverlightRibbon/iframe.html</a><br /><br /><b>License</b><br />Additional license restrictions as follows:<br /><br /><b>Microsoft Office User Interface.</b>  These license terms grant you no rights to make, copy, use or distribute any elements of the Microsoft Office user interface such as the ribbon and quick access toolbar (the Office user interface is formally known as the Microsoft Office Fluent user interface), the license terms for which are available separately.  To learn more about the Office user interface licensing program, please visit <a href=\"http://msdn.microsoft.com/officeui\">http://msdn.microsoft.com/officeui</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Ribbon,Office,Silverlight Ribbon ,Silverlight Controls,",
+  "LastEdited": "2008-12-02T20:31:40.897-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "biztalk",
+  "Title": "Biztalk assembly version updater",
+  "Description": "*Biztalk buid helper *\nBiztalk buid helper is a command line tool .\nIt increments the version numbers of all btproj's in the visual studio solution(2005).\neg usage : c:>BiztalkBuildHelper.exe <solutionname.sln> <newversion>\n\nhttp://blogs.msdn.com/biztalk \n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Biztalk buid helper</b><br />As we are aware biztalk doesnt use the assemblyinfo.cs to track version. the .btproj file needs to be modified manually for every project in a solution. this will be difficult if we have many projects in a solution. And also in case of daily build automation scenarios.<br /><br />Biztalk buid helper is a command line tool .<br />It increments the version numbers of all btproj&#39;s in the vs2005 solution.<br />eg usage : c:&gt;BiztalkBuildHelper.exe &lt;solutionname.sln&gt; &lt;newversion&gt;<br /><br />The Code is avail in TFS as well now ..<br /><br />My blog : <a href=\"http://blogs.msdn.com/biztalk\">http://blogs.msdn.com/biztalk</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "BizTalk,build,automation,btproj,assembly,Version Control,",
+  "LastEdited": "2008-10-04T11:32:00.693-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfsharp",
+  "Title": "WPFSharp - A C# fluent API for WPF layout",
+  "Description": "\r\nWPFSharp - WPF fluent API for layout in C#. It replaces the need for XAML in small projects\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>WPFSharp</h1>\r\n<p><span>WPFSharp - WPF fluent API for layout in C#. It replaces the need for XAML in small projects.</span></p>\r\n<h2>Introduction</h2>\r\n<p><span>WPFSharp is a Fluent API for WPF layout. It is designed to be a DSL in C# that helps code WPF layouts. It is intended for two use cases:</span><br>\r\n<br>\r\n<span>1) Small projects where a XAML file is inconvenient&nbsp;</span><br>\r\n<br>\r\n<span>2) Complex run-time generated WPF layouts where the code-behind gets messy</span></p>\r\n<h2>Add/Removing WPF Controls</h2>\r\n<p><span>The source for WPFSharp is automatically generated using System.Reflection. The Project WPFSharpBuilderBuilder contains console application that builds the C# file Builder.cs.</span><br>\r\n<br>\r\n<span>If you want to add or remove WPF controls, simply add the controls to the Controls array in Program.cs. If they are not part of the .NET package, you will also need to update the references. Then run WPFSharpBuilderBuilder and rebuild the WPFSharp project.</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-08-12T11:46:22.05-07:00"
+}

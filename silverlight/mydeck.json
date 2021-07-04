@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mydeck",
+  "Title": "myDeck",
+  "Description": "Main goal of this project is to show best practices and patterns for unit testing in Silverlight Technology. It is developed as part of BAThesis",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Main goal of this project is to show best practices and patterns for unit testing in Silverlight Technology. It is developed as part of BAThesis<br /><br />myDeck is intended to be a set of practices, based on Microsoft&#39;s PRIMS framework, for Silverlight 5.0 development. The main goal of the project is to test out all possiblities regarding Test Driven Development (TDD) in silverlight. The secondary goal of our project is to build a nice set of functions that will make Silverlight development easier.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-15T15:29:54.367-08:00"
+}

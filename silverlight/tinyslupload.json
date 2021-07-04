@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tinyslupload",
+  "Title": "TinySLUpload",
+  "Description": "a TinyMCE image upload plugin for ASP.NET that utilizes Silverlight 3 to upload the image.  This project has a seperate Silverlight 3 project and modifies the current advimage plugin that comes with TinyMCE.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />a TinyMCE image upload plugin for ASP.NET that utilizes Silverlight 3 to upload the image.  This project has a seperate Silverlight 3 project and modifies the current advimage plugin that comes with TinyMCE.<br /><br /><b>Screenshots</b><br /><br /><img src=\"/projects/tinyslupload/45e5181e-dedf-4ba7-82a1-993e48eff557\" alt=\"image1.jpg\" title=\"image1.jpg\" /><br /><br /><img src=\"/projects/tinyslupload/9abc83d9-b995-48d8-a0cf-3a236e2f282d\" alt=\"image2.jpeg\" title=\"image2.jpeg\" /><br /><br /><img src=\"/projects/tinyslupload/7a03f91b-f905-4e42-b461-861580ab66a3\" alt=\"image3.jpeg\" title=\"image3.jpeg\" /><br /><br /><img src=\"/projects/tinyslupload/1225761f-7393-471e-a2e3-fa733a6c82f0\" alt=\"image4.jpeg\" title=\"image4.jpeg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TinyMCE,",
+  "LastEdited": "2010-02-11T07:07:03.613-08:00"
+}

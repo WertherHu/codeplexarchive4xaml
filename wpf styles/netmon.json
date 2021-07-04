@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netmon",
+  "Title": "Network Monitor",
+  "Description": "Simple application with a vu-meter style display of recent incoming network traffic.\n\n- Requires .NET 4,\n- Requires WinPCap (http://www.winpcap.org/)\n- Only tested to run under Windows 7",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple application with a vu-meter style display of recent incoming network traffic.<br /><br />- Requires .NET 4,<br />- Requires WinPCap &#40;http&#58;&#47;&#47;www.winpcap.org&#47;&#41;<br />- Only tested to run under Windows 7<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-23T18:58:15.577-08:00"
+}

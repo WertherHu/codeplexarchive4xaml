@@ -1,0 +1,9 @@
+{
+  "ProjectName": "resizer",
+  "Title": "Resizer",
+  "Description": "The Resizer application allows you to create thumbnails based on fixed constraints (for now only max pixels width or height) with an optional margin.\r\nThis application is a sample project build with Vidyano.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Resizer application allows you to create thumbnails based on fixed constraints &#40;for now only max pixels width or height&#41; with an optional margin.<br />This application is a sample project build with Vidyano.<br /><br /><img src=\"/projects/resizer/20e18cc7-5bfd-48de-af22-09e50744aeff\" alt=\"PreviewResizer.png\" title=\"PreviewResizer.png\" /><br /><i>Resized image to 600px max</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "resize photos,WPF,.NET 4.0,resize,",
+  "LastEdited": "2010-07-15T04:45:46.287-07:00"
+}

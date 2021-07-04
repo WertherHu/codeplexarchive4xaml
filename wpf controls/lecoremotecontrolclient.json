@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lecoremotecontrolclient",
+  "Title": "LECO Remote Control Client Application",
+  "Description": "Sample code and binaries are provided to demonstrate the remote control capability of a LECO Cornerstone instrument.",
+  "MovedLink": "https://github.com/LECOSoftware/Remote-Control-Client-Application",
+  "HomeWiki": "<div class=\"wikidoc\"><b>LECO&#169; Cornerstone&#169; remote control sample application</b><br /><br />Sample code and binaries are provided to demonstrate the remote control capability of a LECO Cornerstone instrument.<br /><br />Protocol Documentation: <a href=\"/projects/lecoremotecontrolclient/0ab01538-9714-401e-ac8f-edd9642de021\">Remote Control.docx</a><br /><br /><img src=\"/projects/lecoremotecontrolclient/9a1ca38d-e519-4e4b-8536-ab65e535333b\" alt=\"1.png\" title=\"1.png\" /><br /><br /><img src=\"/projects/lecoremotecontrolclient/a52a764c-0049-410f-9190-7205920b0114\" alt=\"2.png\" title=\"2.png\" /><br /><br /><img src=\"/projects/lecoremotecontrolclient/a650fd96-6c70-41d0-b717-341e2a61d751\" alt=\"3.png\" title=\"3.png\" /><br /><br /><img src=\"/projects/lecoremotecontrolclient/0c619789-fb4a-429d-99d1-54e7c1df6c88\" alt=\"4.png\" title=\"4.png\" /><br /><br /><img src=\"/projects/lecoremotecontrolclient/5ff9ad1b-ad26-440a-86b8-bd00e1b205f3\" alt=\"5.png\" title=\"5.png\" /><br /><br /><img src=\"/projects/lecoremotecontrolclient/20c643e7-ab12-4809-b966-c1e5370210df\" alt=\"6.png\" title=\"6.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-11T12:35:57.943-07:00"
+}

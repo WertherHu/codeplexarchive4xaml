@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FocusOnListBox",
+  "Title": "Setting Focus on ListBox in Silverlight",
+  "Description": "How to focus on the selected item in your ListBox when focusing on the ListBox, by default it will focus on the first item in your list and not the selected one.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project shows how to focus on the selected item in your ListBox when focusing on the ListBox, by default it will focus on the first item in your list and not the selected one.<br /><br />Please note that this project is an updated project but with a different purpose and functionality added. I created a separate project for this as I wanted to concentrate on the new functionality.<br /><br />If you want to know more about the rest of this project please visit my post here at <a href=\"http://silverlighttips.com/post/2009/08/30/How-to-find-individual-items-in-list-based-controls.aspx\">SilverlightTips.com</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-15T05:25:46.24-07:00"
+}

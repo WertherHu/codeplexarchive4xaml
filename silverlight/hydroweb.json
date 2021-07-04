@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hydroweb",
+  "Title": "A web interface for data search and download to CUAHSI HIS",
+  "Description": "Hydroweb is an innovative user interface (GUI) created for web driven hydrology data search and download from CUAHSI Hydrologic Information System (HIS). The project has been developed in c#/Silverlight programming environment by leveraging the Bing map Silverlight tools.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Hydroweb is an innovative user interface &#40;GUI&#41; created for web driven hydrology data search and download from CUAHSI Hydrologic Information System &#40;HIS&#41;. The project has been developed in c&#35;&#47;Silverlight programming environment by leveraging the Bing map Silverlight tools.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-28T15:34:39.247-07:00"
+}

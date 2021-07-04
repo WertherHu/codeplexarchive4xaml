@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aeditor",
+  "Title": "AEditor",
+  "Description": "AEditor is Assembler editor that makes it easier to write, edit, compile and debug Turbo Assembler code. Based on ScintillaNET control. It's developed in C# ",
+  "MovedLink": "https://github.com/ivanbilokon/aeditor",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rAEditor is Assembler editor that makes it easier to write, edit, compile and debug Turbo Assembler code. Based on ScintillaNET control. It&#39;s developed in C&#35; <br /><br /><b>Features</b>\n<ol><li>Code highlighting (based on  <a href=\"http://scintillanet.codeplex.com\">ScintillaNET</a> control)</li>\n<li>Compile and link assembler code in Turbo assembler in one click. Running compiled program in Turbo debugger is an option.</li>\n<li>Quick navigation to errors detected by compiler</li>\n<li>Easy to use</li>\n<li>Russian or English interface depending on OS interface language settings</li></ol>\n<br /><br /><b>Screenshot:</b><br /><br /><img src=\"/projects/aeditor/54e067a6-a667-49b3-bf55-8236a7421d0b\" alt=\"Screenshot\" title=\"Screenshot\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Assembler Editor,Assembler,Editor,programming,Syntax highlighting,Turbo assembler,",
+  "LastEdited": "2010-05-29T09:49:04.44-07:00"
+}

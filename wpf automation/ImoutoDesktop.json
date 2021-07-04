@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ImoutoDesktop",
+  "Title": "いもうとデスクトップ",
+  "Description": "ImoutoDesktop is Remote Desktop client. It's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>ImoutoDesktop</b><br /><br />「いもうとデスクトップ」はデスクトップ右下に常駐した妹キャラに文字入力で<br />さまざまなお願いをして、他 PC を操作してもらえる対話型のリモート操作ソフトです。</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Remote Desktop,",
+  "LastEdited": "2009-01-06T00:51:59.067-08:00"
+}

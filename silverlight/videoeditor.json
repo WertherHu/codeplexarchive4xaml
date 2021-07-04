@@ -1,0 +1,9 @@
+{
+  "ProjectName": "videoeditor",
+  "Title": "Microsoft Media Platform Video Editor",
+  "Description": "The MMP Video Editor is a browser based video editor that consumes all Silverlight supported codecs and produces a project file that can be transformed into an EDL or to a Smooth Streaming Composite Stream Manifest (CSM).  \r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b> (MMP Video Editor)<br />The MMP Video Editor is a browser based video editor that consumes all Silverlight supported codecs and produces a project file that can be transformed into an EDL or to a Smooth Streaming Composite Stream Manifest &#40;CSM&#41;.  <br /><br /><b>We are publishing the latest MMP Video Editor source code in the <a href=\"http://code.msdn.microsoft.com/\">MSDN code samples gallery</a> at <a href=\"http://code.msdn.microsoft.com/MMP-Video-Editor-472a92fe\">http://code.msdn.microsoft.com/MMP-Video-Editor-472a92fe</a></b><br /><br />If you want to download legacy releases of the MMP Video Editor, they are still available on the MSDN Archive site at <a href=\"http://archive.msdn.microsoft.com/VideoEditor\">http://archive.msdn.microsoft.com/VideoEditor</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-02T06:22:54.413-08:00"
+}

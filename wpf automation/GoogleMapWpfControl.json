@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GoogleMapWpfControl",
+  "Title": "Google Map Wpf Control",
+  "Description": "A google map control for WPF and WinForm.\r\n谷歌地图的Wpf及WinForm控件。\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A google map control for WPF and WinForm.<br />谷歌地图的Wpf及WinForm控件。<br /><br />大多数地图服务商如谷歌地图/mapabc/百度地图等只提供b/s架构及移动设备上使用的地图控件，并不提供为WinForm及WPF设计的地图控件，而Bing map虽然提供c/s架构的地图控件，但不支持中文。所以本项目就是为解决这个问题而建立的，可以支持通过配置文件来选择使用谷歌地图还是mapabc或者其他地图供应商，理论上能够支持所有采用墨卡托投影的地图系统。<br /><br />由于时间关系，目前上传了wpf控件，winform控件等有时间再上传。<br />另外wpf控件还有很多事件没有实现，等有时间可以补充。<br />如果哪位朋友有兴趣加入到这个项目，替我做一些完善工作，请联系我bigeagleqd@gmail.com。<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-22T20:46:35.097-07:00"
+}

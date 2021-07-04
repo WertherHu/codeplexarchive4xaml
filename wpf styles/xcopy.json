@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xcopy",
+  "Title": "XCopy",
+  "Description": "Very basic extension to enable Unix-style copy and paste (select to copy, paste with the middle mouse button).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Very basic extension to enable Unix-style copy and paste &#40;select to copy, paste with the middle mouse button&#41;.<br /><br />Very basic extension (50 lignes of code) to allow Unix-style copy and paste: select text to copy to an auxilliary clipboard and press the middle mouse button to paste (at the mouse cursor location). Very simple, but I personally could not live without this!<br /><br />Note: this is an <b>additional</b> copy and paste mechanism, the windows clipboard is never touched. And <br />in my experience, this is what makes this infinitely better than autohotkey scripts which use the windows clipboard (of course, the drawback is that it&#39;s not system-wide).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-05-15T09:13:45.147-07:00"
+}

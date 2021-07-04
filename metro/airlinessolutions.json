@@ -1,0 +1,9 @@
+{
+  "ProjectName": "airlinessolutions",
+  "Title": "Airline Management Solutions",
+  "Description": "Three layers architecture\r\nPHP\r\nMaria DB\r\nMetro-Style",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Three layers architecture<br />PHP<br />Maria DB<br />Metro-Style<br /><br />The objective of the project is to implement a web application, 100% free, to manage an airline company.<br />The front-end layer will be implemented using a framework based on the METRO-style. The business layer using php technology. Finally, the data layer will be implemented using the DBMS MariaDB. <br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-01T20:44:16.137-07:00"
+}

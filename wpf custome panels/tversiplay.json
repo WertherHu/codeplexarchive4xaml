@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tversiplay",
+  "Title": "TVersiPlay - Media Rendering Application powered by UPnP & TVersity",
+  "Description": "Open source application written in C# and WPF. Utilizes Prism application library using unity as dependency injection container.Use Fluid Kit controls & UPnP tools for developers by Intel. Aim to create a touch screen based rich client user experience for Tversity media server.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Open source application written in C&#35; and WPF. Utilizes Prism application library using unity as dependency injection container.Use Fluid Kit controls &#38; UPnP tools for developers by Intel. Aim to create a touch screen based rich client user experience for Tversity media server.<br /><br />\n<h1>More documentation coming soon!</h1>\r\nThe vision behind TVersiPlay is writing a user friendly, touch-screen based rich client application using C# and WPF.<br /><br /><b>Needed to run the application :</b>\n<ul><li>Download current source</li>\n<li>All third party binaries are mapped from the Shared Binaries folder at the root of the Source Code directory.</li>\n<li>Compile solution</li></ul>\n<br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-05T20:19:21.84-07:00"
+}

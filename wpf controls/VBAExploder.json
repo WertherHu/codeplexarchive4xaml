@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VBAExploder",
+  "Title": "VBAExploder",
+  "Description": "A small utility that will take take the code from a VBA project housed within a VBA host such as Microsoft Word document or Microsoft Excel Workbook and save the source code files to disk. Its primary purpose is to aid in the usage of source control systems with VBA projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A small utility that will take take the code from a VBA project housed within a VBA host such as Microsoft Word document or Microsoft Excel Workbook and save the source code files to disk. Its primary purpose is to aid in the usage of source control systems with VBA projects.<br /><br />There isn&#39;t much to see here yet... I&#39;ll update this as we go along. Hopefully this will turn in to a useful tool.<br /><br /><b>Update Aug 3rd, 2007</b><br />Sorry there hasn&#39;t been any progress on this yet... times have been busy. It hasn&#39;t totally fallen off the radar though.<br /><br /><b>Update Oct 31st, 2007</b><br />I have decided to discontinue this project due to the availability of a similar utility at <a href=\"http://www.appspro.com/Utilities/CodeCleaner.htm\">http://www.appspro.com/Utilities/CodeCleaner.htm</a>. Please see <a href=\"http://home.infusionblogs.com/thunter/Lists/Posts/Post.aspx?ID=21\">http://home.infusionblogs.com/thunter/Lists/Posts/Post.aspx?ID=21</a> for more info.<br /><br />Does anybody know how to remove a discontinued project from CodePlex?</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Command Line,Excel,utility,Office,Word,VBA,myOwnTagVBA,",
+  "LastEdited": "2007-10-31T14:46:04.39-07:00"
+}

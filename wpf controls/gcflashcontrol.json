@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gcflashcontrol",
+  "Title": "ASP.Net Flash Control",
+  "Description": "The ASP.Net Flash Control is a custom control that wraps an Adobe FlashPlayer in a web form and exposes the FlashPlayer properties in a property grid. It allows you to handle version detection and express updates if desired. This web control works with ASP.Net 2.0, 3.0, and 3.5.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The ASP.Net Flash Control is a custom control that wraps an Adobe FlashPlayer in a web form and exposes the FlashPlayer properties in a property grid. It allows you to handle version detection and express updates if desired. This web control works with ASP.Net 2.0, 3.0, and 3.5.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "asp.net,flash,WebControl,control,webcontrols,",
+  "LastEdited": "2009-01-23T08:01:07.517-08:00"
+}

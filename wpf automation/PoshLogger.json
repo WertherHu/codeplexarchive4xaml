@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PoshLogger",
+  "Title": "PoshLogger",
+  "Description": "\nThe PoshLogger Module contains everything needed to start using a unified Logging Infrastucture in your powershell Scripts. The Commands exported will hide your default:\nWrite-Host aliased to Write-Info, \nWrite-Debug, \nWrite-Error, \nWrite-Warning,\nWrite-Verbose,\nWrite-Log.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>A Good Logger For The PowerShell Environment.</h1>\r\n<b>Project Description</b><br /><br />The PoshLogger Module contains everything needed to start using a unified Logging Infrastucture in your powershell Scripts. The Commands exported will hide your default&#58;<br />Write-Host aliased to Write-Info, <br />Write-Debug, <br />Write-Error, <br />Write-Warning,<br />Write-Verbose,<br />Write-Log.<br /><br />PoshLogger got started from a script by Joel Bennet he posted on poshcode.org that I downloaded. You can view his work here <a href=\"http://poshcode.org/1858\">http://poshcode.org/1858</a>. Thanks Joel!! After a few weeks of use and tweaking PoshLogger was born. PoshLogger is not trying to expose the log4net api through PowerShell Cmdlets but instead create an easy to use logging system but if you are interested in log4net for PowerShell look here <a href=\"http://log4posh.codeplex.com\">http://log4posh.codeplex.com</a>. PoshLogger is aimed at being simple and familiar with commands that are able to send log data to various targets, the use multiple Logger Objects to handle log data differently and allow the liberal use of debug calls through out scripts and modules with debug calls with the ability to set the logging level to hide the output from production but allow it to be there for debugging when it is needed.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "powershell,scripting,automation,logging,.NET,",
+  "LastEdited": "2011-03-23T08:07:42.27-07:00"
+}

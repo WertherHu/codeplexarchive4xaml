@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cs3420project",
+  "Title": "Traffic Light Simulation Application",
+  "Description": "Traffic Light Simulation application simulates traffic on a 2D plane under different traffic light control schemes. The interface will display a 10x10 grid where each street allows one-way traffic and there is one traffic light at each intersection.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Traffic Light Simulation application simulates traffic on a 2D plane under different traffic light control schemes. The interface will display a 10x10 grid where each street allows one-way traffic and there is one traffic light at each intersection.<br /><br />This project is not finished, all files and the finished product will be uploaded on here by May 2, 2012.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-22T12:20:39.803-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UniversalTilt",
+  "Title": "Universal Tilt Behavior",
+  "Description": "Tilt effect behavior for Universal Apps",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />UniversalTilt is a Universal App behavior that add the &quot;tilt&quot; effect in any framework element.<br /><br />The nuget package is : https://www.nuget.org/packages/UniversalTilt<br /><br /><b>Usage</b><br /><br />Install Nuget package, then add the behavior this way :<br /><br /><pre>\n &lt;TextBlock Text=&quot;Hello World&quot;\n                   FontSize=&quot;50&quot;\n                   HorizontalAlignment=&quot;Center&quot;\n                   VerticalAlignment=&quot;Center&quot;\n                   Name=&quot;AName&quot;&gt;\n      &lt;interactivity:Interaction.Behaviors&gt;\n            &lt;arcanaStudio:UniversalTilt /&gt;\n      &lt;/interactivity:Interaction.Behaviors&gt;\n &lt;/TextBlock&gt;\n</pre></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-12T05:55:10.08-07:00"
+}

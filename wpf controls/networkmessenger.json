@@ -1,0 +1,9 @@
+{
+  "ProjectName": "networkmessenger",
+  "Title": "Network Messenger",
+  "Description": "Network Messenger is a LAN messaging and chat program which allows messages to be sent between users on a network peer-to-peer with no need for a server.\nIt is developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Network Messenger is a LAN messaging and chat program which allows messages to be sent between users on a network peer-to-peer with no need for a server.<br />It is developed in C&#35;.<br /><br /><br /><b>Features</b>\n<ul><li>Addressing to User@Computer and user@ip-address (e.g. user: john on computer: johnsdesktop, address: john@johnsdesktop)\n<ul><li>Planned Feature of User Discovery see <a href=\"https://networkmessenger.codeplex.com/releases/view/20299\">Release 3.0</a></li></ul></li>\n<li>Support for individual messages\n<ul><li>Direct Reply to Messages</li></ul></li>\n<li>Support for 2 user chats</li>\n<li>Aero Glass Background on Windows Vista with Aero Enabled</li>\n<li>Spellchecking</li></ul>\n<br /><b>Requirements</b>\n<ul><li>.NET Framework 3.0</li></ul>\n<br /><b>For Help using this program see <a href=\"https://networkmessenger.codeplex.com/wikipage?title=Help&referringTitle=Home\">Help</a></b><br /><br /><b>Version 3.0 preview coming soon (see <a href=\"https://networkmessenger.codeplex.com/releases/view/20299\">Release 3.0</a>)</b><br />     <i>Screenshots added at <a href=\"https://networkmessenger.codeplex.com/wikipage?title=Encryption&referringTitle=Home\">Encryption</a></i><br /><br /><b>Initial Source Code now uploaded</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,network,Messenger,messaging,LAN,Chat,peer-to-peer,WPF,.net 3.0,",
+  "LastEdited": "2009-02-01T09:01:01.49-08:00"
+}

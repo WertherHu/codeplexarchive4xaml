@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFHolePatterns",
+  "Title": "WPF Hole Patterns",
+  "Description": "A simple WPF / C# project to create geometric hole patterns on a Canvas.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple WPF &#47; C&#35; project to create geometric hole patterns on a Canvas.<br /><br />My first WPF/C# code ever....The UI is written WPF XAML, and the support classes and logic is in C#<br /><br />Thanks to John Fenton and Viv Phillips over on UniversalThread for helping me learn so much about how to work in C# and WPF.<br /><br />(This project has been moved to GitHub: <a href=\"https://github.com/mattslay/WPF-Hole-Patterns\">https://github.com/mattslay/WPF-Hole-Patterns</a> )<br /><br /><img src=\"/projects/WPFHolePatterns/b5634d93-2755-40a6-9698-85d7cfaf9c4b\" alt=\"WPF&#32;Hole&#32;Patterns.png\" title=\"WPF&#32;Hole&#32;Patterns.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-04-07T16:28:21.927-07:00"
+}

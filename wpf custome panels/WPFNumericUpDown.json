@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFNumericUpDown",
+  "Title": "NumericUpDown Control for WPF",
+  "Description": "A basic NumericUpDown Control for WPF that mirrors all the most used functions of the WinForms NumericUpDown Control and looks similar to it",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA basic NumericUpDown Control for WPF that mirrors all the most used functions of the WinForms NumericUpDown Control and looks similar to it<br>\r\n<br>\r\nThe control is built with Visual Stuido 2010, the Binaries require .NET 4.0</p>\r\n<p>If you like this library, please think about making a donation:</p>\r\n<p><a title=\"Donate\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J2RTBGYZ7UPQ6\" target=\"_blank\"><img src=\"http://download.codeplex.com/download?ProjectName=wpfnumericupdown&DownloadId=203994\" alt=\"donate button\" width=\"126\" height=\"41\"></a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "NumericUpDown,WPF,Control,.NET 4.0,Binary,Source,",
+  "LastEdited": "2011-04-20T09:01:43.303-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TfsVisualHistory",
+  "Title": "TFS Source Control History Visualization",
+  "Description": "TFS source control history visualization (Visual Studio 2012 extension), dynamic & interactive.\r\nLooks like a fascinating creation of a new galaxies in space.",
+  "MovedLink": "https://github.com/aabiryukov/TfsVisualHistory",
+  "HomeWiki": "<div class=\"wikidoc\">The project was moved!<br /><br />This project is now available on Github at <a href=\"https://github.com/aabiryukov/TfsVisualHistory/\">https://github.com/aabiryukov/TfsVisualHistory/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Source Control,Visual Studio,History,visualization,Extension,Gource,",
+  "LastEdited": "2017-03-12T07:45:38.317-07:00"
+}

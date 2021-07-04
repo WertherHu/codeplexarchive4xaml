@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TouchInkPaintTools",
+  "Title": "Touch Ink Paint Tools",
+  "Description": "Simple touch ink tools panel with painter, marker, brush sizer, color picker and eraser.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Here is simple panel for VB.NET with Ink Tools.<br>\r\nIt's perfect for use with touch screen, with mouse - not so.</p>\r\n<p><img src=\"http://issimple.co/img/inktools.jpg\" alt=\"\" width=\"931\" height=\"528\"></p>\r\n<p><br>\r\nHere are:<br>\r\n1. Brush size adjust: bigger, smaller and trun bruch 90 degree<br>\r\n2. Ink brush<br>\r\n3. Marker tool<br>\r\n4. Color picker<br>\r\n5. Eraser<br>\r\n6. Block eraser<br>\r\n7. Clear button<br>\r\n<br>\r\nIf anyone will use - please remind me to add SAVE IMAGE feature.<br>\r\n<br>\r\nFor use:<br>\r\n1. Add InkTools.vb file to your project<br>\r\n2. Add &quot;inktools\\&quot; folder to executable (it's tools icons)<br>\r\n3. Then in main code:<br>\r\n<br>\r\n'INIT PANEL OBJECT<br>\r\nDim InkToolsPanel As New InkTools With {.Visibility = Visibility.Hidden}<br>\r\n<br>\r\n'ADD PANEL OBJECT TO YOUR GRID<br>\r\nYourGrid.Children.Add(InkToolsPanel)<br>\r\n<br>\r\n'SHOW PANEL AND ASSIGN TO CANVAS WHEN YOU NEED<br>\r\nInkToolsPanel.Visibility = Visibility.Visible<br>\r\nInkToolsPanel.ICanvas = InkCanvasSlide<br>\r\n<br>\r\n'AND HIDE WHEN NO NEED<br>\r\nInkToolsPanel.Visibility = Visibility.Hidden<br>\r\nInkToolsPanel.ICanvas = Nothing</p>\r\n<p></p>\r\n<hr>\r\n<p></p>\r\n<p>If you looking for DLL build - send me comment</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-04T21:40:04.723-07:00"
+}

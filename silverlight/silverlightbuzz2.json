@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightbuzz2",
+  "Title": "Create a 3d image cube in Silverlight 3 using Projection",
+  "Description": "Create a rotatable 3d cube that reacts to the mouse position on screen, place images on each face of the cube.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Create a rotatable 3d cube that reacts to the mouse position on screen, place images on each face of the cube.<br /><br />In this example I create a rotatable 3d image cube. The cube is free to move on any axis (x, y or z) and is setup to move based on the users mouse position on screen, moving faster as the mouse moves further away from the cube.<br /><br /><img src=\"http://www.silverlightbuzz.com/images/codeplex/cubeSpin1.jpg\" /><br /><br /><img src=\"http://www.silverlightbuzz.com/images/codeplex/cubeSpin2.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-10T02:38:27.053-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CheckboxMenu",
+  "Title": "C# Checkbox Menu",
+  "Description": "A simple user control written in c# to display a context menu",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple user control written in c&#35; to display a context menu<br /><br />User Control to put a collection of check boxes and text boxes on a context menu that drops down when a checkbox is engaged (checked) and disappears when checkbox is unchecked.<br /><br />Menu stays visible while checkbox is checked allowing changes to multiple menu items.<br />This is an easy way to hide items that are not commonly used.<br />\n<h2>TODO:</h2>\r<ul><li>Get Design time serializer to work</li>\n<li>Get Visual Studio design time editor to work</li>\n<li>Get submenus to work.</li>\n<li>Test as a COM object</li></ul>\n<br /><br /><br /><img src=\"/projects/CheckboxMenu/5b476e7e-fa2b-4b13-a830-94d9923b2bec\" alt=\"CheckboxMenu1.jpg\" title=\"CheckboxMenu1.jpg\" /><br /><br /><br /><img src=\"/projects/CheckboxMenu/35cda2dc-5d33-4380-8f60-5537df4b1289\" alt=\"CheckboxMenu.jpg\" title=\"CheckboxMenu.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-31T02:25:48.217-08:00"
+}

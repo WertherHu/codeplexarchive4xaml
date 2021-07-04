@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cppcodestyler",
+  "Title": "C++ CodeStyler",
+  "Description": "CodeStyler is a tool that helps you to enforce standard C++ code style.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>C&#43;&#43; CodeStyler</strong><br>\r\n<br>\r\nThis project is currently in start-up mode looking for contributors. If you love the&nbsp;awesome StyleCop for C#&nbsp;and wish we had a similar tool for C&#43;&#43;, this place can be a good place for you.<br>\r\n<br>\r\n<strong>Core Principles</strong></p>\r\n<ul>\r\n<li>CodeStyler provides value by enforcing a common set of style rules for C&#43;&#43; code. It will continue to ship with a single, consistent set of rules, with minimal rule configuration allowed. Developers can implement their own rules if they so choose.\r\n</li><li>CodeStyler ships with the ability to seamlessly integrate with Visual Studio, MSBuild, TFS, etc. Developers are free to implement custom code to integrate StyleCop into other development and tooling environments.\r\n</li><li>CodeStyler is free and will always be. The development is done in spare time and weekends.\r\n</li></ul>\r\n<p>&nbsp;</p>\r\n<p>tags: C&#43;&#43;, Style, Code guidelines, Code standards, Best practices, Code Checker, Code Style</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-12-16T20:05:07.347-08:00"
+}

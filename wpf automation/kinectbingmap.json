@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinectbingmap",
+  "Title": "Kinect Bing Map",
+  "Description": "Kinect controller for Bing Map using WPF with MVVM design pattern. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Prototype app to test Kinect Interaction with v1.7 SDK with WPF using MVVM pattern.<br /><br />Functions:<br />- Using two hands grip to zoom-in or zoom-out the map<br />- Using one hand to grab and drag the map<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-04-25T22:25:27.76-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "weatherplugin",
+  "Title": "Weather.com plug-in for HouseBot",
+  "Description": "This plug-in will parse the weather.com xml feed and display in HouseBot automation software.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>PLEASE NOTE</b> Weather.com have started charging for use of the xml feed, so this project has been abandoned and I am now using <a href=\"http://worldweatheronlinehb.codeplex.com\">http://worldweatheronlinehb.codeplex.com</a><br /><br /><b>Project Description</b><br />This plug-in will parse the weather.com xml feed and display in HouseBot automation software.<br /><br />Please note that it requires the c# wrapper to work found here:<br /><br />http://www.housebot.com/forums/viewtopic.php?f=4&amp;t=856395<br /><br />More information on this will be found on the Housebot forums here: <br /><br />http://www.housebot.com/forums/viewtopic.php?f=4&amp;t=856444  <br /><br /><img src=\"/projects/weatherplugin/505805a9-594b-4147-98ae-0a7424d6a52e\" alt=\"weatherbot.PNG\" title=\"weatherbot.PNG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-21T12:59:14.427-08:00"
+}

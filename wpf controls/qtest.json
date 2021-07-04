@@ -1,0 +1,9 @@
+{
+  "ProjectName": "qtest",
+  "Title": "QTest - C# port of fitnesse server",
+  "Description": "C# port of Fitnesse Server (visit for more info: fitnesse.org)\r\n\r\nGoals:   \r\n  Offline running of fitnesse cases \r\n  Smooth integration with continuous builds\r\n  MsBuild targets, and MsTest integration for code coverage\r\n  Server based implemenation for team operation(possibly with iisexpress)\r\n  Integration with version control\r\n  Support for classic and slim version of fitnesse\r\n\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />C&#35; port of Fitnesse Server &#40;visit for more info&#58; fitnesse.org&#41;<br /><br />Goals&#58;   <br />  Offline running of fitnesse cases <br />  Smooth integration with continuous builds<br />  MsBuild targets, and MsTest integration for code coverage<br />  Server based implemenation for team operation&#40;possibly with iisexpress&#41;<br />  Integration with version control<br />  Support for classic and slim version of fitnesse<br /><br /><br /><br /><br />(this is  taken from forked project: testcommander.codeplex.com)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-28T11:46:16.69-07:00"
+}

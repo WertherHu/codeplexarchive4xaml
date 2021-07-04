@@ -1,0 +1,9 @@
+{
+  "ProjectName": "thetanks",
+  "Title": "The Tanks Game",
+  "Description": "This is a classical tanks game, coded on C# using WPF. Tanks are controlled by user-written scripts, so users can't control tanks directly.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>The Tanks</h1>\r<sup>English translation is below</sup>\n<hr />\n<b>The Tanks</b> это очередная реализация классической игры &quot;Танчики&quot;. Написана она на C# с использованием WPF для построения интерфейса<br /><br />Вообще, это моя курсовая работа по ООП на втором курсе ВУЗа, однако, возможно, кому-нибудь оно понадобится еще.<br /><br />Код не претендует на идеальность, тем не менее там соблюдено некоторое однообразие в форматировании и именовании, так что понять его будет относительно несложно.<br /><br />Разумеется, никаких гарантий я не даю. Так же я крайне не рекомендую пытаться сдать мою работу под видом своей, но это уже из области морали.\n<hr />\n<h2>The Tanks, English</h2>\r<b>The Tanks</b> is a variation on classical &quot;Tanks&quot; game. It is coded on C#, using WPF.<br /><br />Actually, it was my coursework at university. But it can be useful for someone else.<br /><br />The source code doesn&#39;t seem to be ideal, but I&#39;ve followed some naming standard, so, I hope, it may be easy to understand.<br /><br />Of course, I don&#39;t provide any guarantees. Also, I don&#39;t recommend you to try to say that it is you own work.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Games,tank wars,",
+  "LastEdited": "2012-01-02T06:06:20.717-08:00"
+}

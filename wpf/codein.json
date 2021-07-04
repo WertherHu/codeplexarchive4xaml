@@ -1,0 +1,9 @@
+{
+  "ProjectName": "codein",
+  "Title": "CodeIn",
+  "Description": "CodeIn is an experimental source-to-source High-Level Synthesis (HLS) environment. It aims at supporting a part of the SystemC specification, and outputs VHDL code from it. It is developped in C#/WPF (.NET 4.0).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>CodeIn Project</h1>\r\n<h2>Short description</h2>\r\nCodeIn is an experimental source-to-source High-Level Synthesis (HLS) environment.<br />It aims at supporting a part of the SystemC specification, and outputs VHDL code from it.<br />This project is starting from scratch and as such cannot be considered usable for now.<br />It is developped in C#/WPF (.NET 4.0).<br /><b>More to come in the future...</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-25T06:04:40.66-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPImageSlider",
+  "Title": "SharePoint Metro Sliders",
+  "Description": "SharePoint 2010 Feature that includes two Metro style image sliders web parts:\r\n- Image slider with just one image\r\n- Image slider with four smaller images in it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>Metro Sliders Example</h2>\r\n<p><img src=\"/projects/SPImageSlider/551b1c1b-f518-4a1a-9559-1f03de3005cd\" alt=\"\"></p>\r\n<h2>Features</h2>\r\n<ul>\r\n<li>Metro stlyle look </li><li>Clickable images </li><li>Adjustable image sizes. </li><li>Two web parts. One or four sliders inside each. </li><li>Asynchronous load using REST (ListData.svc) does not slow down the page. </li><li>It's a farm solution, not sand-boxed. </li></ul>\r\n<h2>New Features</h2>\r\n<p>I've recently added these new features:</p>\r\n<ul>\r\n<li>Creating image library on feature activation </li><li>Adding default images to the image library on feature activation </li><li>English version </li></ul>\r\n<h2>Warning. Supported Languages</h2>\r\n<p>At the moment, these two web parts work only with&nbsp;sites on en-us locale. This is due to the SharePoint REST peculiarities. REST accepts and returns data differently depending on the current language.</p>\r\n<h3>Acknowledgements</h3>\r\n<p>I express my gratidue to&nbsp;Alen Grakalic from <a title=\"web standards magazine and css news\" href=\"http://cssglobe.com\">\r\nCss Globe</a>&nbsp;for&nbsp;the &quot;Easy Slider 17 Numeric Navigation jQuery Slider&quot;. I have taken advantage of your jQuery library in the current project.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,Image Slider,REST,Metro,Banner,",
+  "LastEdited": "2013-03-13T00:33:09.76-07:00"
+}

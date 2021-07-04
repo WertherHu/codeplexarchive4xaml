@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fsprojectextender",
+  "Title": "F# Project Extender",
+  "Description": "Installing F# Project Extender provides tools to better organize files in F# projects by allowing project subdirectories and separating file management in Solution Explorer from controlling compilation order.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Installing F&#35; Project Extender provides tools to better organize files in F&#35; projects by allowing project subdirectories and separating file management in Solution Explorer from controlling compilation order.<br /><br />Look <a href=\"http://www.hill30.com/MikeFeingoldBlog/index.php/2010/04/26/f-project-system-meet-project-extender/\">here</a> for more details on how to use it and <a href=\"http://www.hill30.com/MikeFeingoldBlog/index.php/2010/04/01/in-regards-to-the-virtue-of-cheating-the-f-project-system/\">here</a> for the explanation of how it works.<br /><br />Also <a href=\"http://www.hill30.com/MikeFeingoldBlog/index.php/2010/02/08/a-better-f-project-system/\">this post</a> explains what prompted me to start this project<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-22T10:27:20.53-07:00"
+}

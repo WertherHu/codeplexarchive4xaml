@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ColorPickerControl",
+  "Title": "ColorPickerControl",
+  "Description": "Yet another Color Picker Control to demonstrate a simple way to implement a color picker.\r\nThis project contains two controls:\r\n1. ColorPickerControl - a UserControl that show all available color buttons for user to choose\r\n2. ColorPickerComboBox - a ComboBox that is restyled to show a ColorPickerControl in the dropdown",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Yet another Color Picker Control to demonstrate a simple way to implement a color picker.<br />This project contains two controls&#58;<br />1. ColorPickerControl - a UserControl that show all available color buttons for user to choose<br />2. ColorPickerComboBox - a ComboBox that is restyled to show a ColorPickerControl in the dropdown<br /><br /><img src=\"/projects/ColorPickerControl/4b3f8e43-86c5-4676-bb2f-8eef034765d7\" alt=\"ColorPicker.png\" title=\"ColorPicker.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-13T04:55:49.537-07:00"
+}

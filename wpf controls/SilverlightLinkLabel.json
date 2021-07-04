@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightLinkLabel",
+  "Title": "Silverlight LinkLabel Control",
+  "Description": "The LinkLabel control allows you to put hyperlinks in any given text in Silverlight. It recognizes URLs in the text (like http://...) as well as can use regular expressions to define custom links. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The LinkLabel control allows you to put hyperlinks in any given text in Silverlight. It recognizes URLs in the text &#40;like http&#58;&#47;&#47;...&#41; as well as can use regular expressions to define custom links. <br /><br /><b>Example</b><br />&quot;LinkLabel control represents a Silverlight TextBlock control that can contain [link=&quot;http://www.silverlightshow.net&quot; target=&quot;_blank&quot;]links[/link] defined either by a user defined pattern or with their URI like http://www.silverlightshow.net&quot;<br /><br />This will make &quot;links&quot; and &quot;http://www.silverlightshow.net&quot; hyperlinks.<br />The regular expressions can be defined by the user directly from the XAML. Thanks to Harlequin, a target attribute can also be added to the custom defined links. <br /><br />Check out the original article <a href=\"http://www.silverlightshow.net/items/Silverlight-LinkLabel-control.aspx\">http://www.silverlightshow.net/items/Silverlight-LinkLabel-control.aspx</a> how to build this control published on <b>SilverlightShow.net</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MyList.SilverLight,Silverlight,Silverlight NPE,",
+  "LastEdited": "2008-09-24T02:10:37.91-07:00"
+}

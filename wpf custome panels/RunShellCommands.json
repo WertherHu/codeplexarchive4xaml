@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RunShellCommands",
+  "Title": "Run Windows Shell Commands",
+  "Description": "This is a simple WPF Application that run Windows Shell commands like the well knonw \"shell:sendto\".\n\nCurrently supported operating systems are Windows 2000, Windows XP, Windows Vista and Windows 7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a simple WPF Application that run Windows Shell commands like the well knonw &#34;shell&#58;sendto&#34;.<br /><br />Currently supported operating systems are Windows 2000, Windows XP, Windows Vista and Windows 7.<br /><br />Each command is read from the registry, in Vista and Windows 7 they are located at <b>&quot;HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\FolderDescriptions&quot;</b>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Windows 7,Vista,Windows,shell,",
+  "LastEdited": "2009-08-27T14:25:16.73-07:00"
+}

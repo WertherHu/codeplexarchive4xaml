@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Mimic",
+  "Title": "Mimic - A DWM Project",
+  "Description": "This is my very first project using WPF and the DWM API (Desktop Windows Manager, on Vista).\nIt allows to duplicate any windows.\nIt can be useful :\n  - for people working with several screens,\n  - to zoom on windows,\n  - in some presentations\n(Well... and it is an example of how to use the DWM API)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is my very first project using WPF and the DWM API &#40;Desktop Windows Manager, on Vista&#41;.<br />It allows to duplicate any windows.<br />It can be useful &#58;<br />  - for people working with several screens,<br />  - to zoom on windows,<br />  - in some presentations<br />&#40;Well... and it is an example of how to use the DWM API&#41;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Vista,C#,WPF,dwm,",
+  "LastEdited": "2007-10-07T15:36:52.49-07:00"
+}

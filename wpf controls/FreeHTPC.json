@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FreeHTPC",
+  "Title": "FreeHTPC",
+  "Description": "Unfortunally I can't find good HTPC frontend wich provide requed functionality ;(\n\nI decide to write my own HTPC frontend.\nI want to use MPC as videoplayer engine (fine subtitles and Pan&Scan support, great stability and compatibility, awesome player)\nI want to use ffdshow as primary decoder and image processor (upscaling,postprocessing etc)\nI want to use foobar2000 as audioplayer engine ( i really like it )\nI doesn't plan to support DVB/TV right now (since I doen't have HW and I don't need it atm)\n\nMain goal is provide complete control over most features via 5-8 remote buttons only (via sexy OSD menu)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Unfortunally I can&#39;t find good HTPC frontend wich provide requed functionality &#59;&#40;<br /><br />I decide to write my own HTPC frontend.<br />I want to use MPC as videoplayer engine &#40;fine subtitles and Pan&#38;Scan support, great stability and compatibility, awesome player&#41;<br />I want to use ffdshow as primary decoder and image processor &#40;upscaling,postprocessing etc&#41;<br />I want to use foobar2000 as audioplayer engine &#40; i really like it &#41;<br />I doesn&#39;t plan to support DVB&#47;TV right now &#40;since I doen&#39;t have HW and I don&#39;t need it atm&#41;<br /><br />Main goal is provide complete control over most features via 5-8 remote buttons only &#40;via sexy OSD menu&#41;<br /><br /><br />Main project discussion is <a href=\"http://forum.doom9.org/showthread.php?t=134530\">here</a>.<br />Media Player Classic API discussion is <a href=\"http://forum.doom9.org/showthread.php?t=134336\">here</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-02-11T05:38:29.25-08:00"
+}

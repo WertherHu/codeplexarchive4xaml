@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hitcentsblog",
+  "Title": "Hitcents Blog - Example Code",
+  "Description": "Contains various source code examples from articles at http://www.hitcents.com/blog.  Brought to you by Hitcents.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Hitcents Blog - Example Code</strong></p>\r\n<ul>\r\n<li>Contains various example source code referred by articles on blog entries by Hitcents.\r\n</li><li>Goal is to provide svn access to our source code for readers of our blog. </li></ul>\r\n<p><br>\r\n<strong>Examples include:</strong></p>\r\n<ul>\r\n</ul>\r\n<ul>\r\n<li><a title=\"Developing for iPhone\" href=\"http://www.hitcents.com/blog/post/developing-iphone-%E2%80%93-part-4-controlling-hubble-space-telescope-mvc\">Developing for iPhone &ndash; Part 4: Controlling the Hubble Space Telescope with MVC</a>\r\n</li><li><a title=\"The Hubble Space Telescope\" href=\"http://www.hitcents.com/blog/post/hubble-space-telescope-%E2%80%93-porting-windows-phone-7\" target=\"_blank\">The Hubble Space Telescope - Porting to Windows Phone 7</a>\r\n</li></ul>\r\n<p><em>See more about Hitcents at <a href=\"http://www.hitcents.com\">http://www.hitcents.com</a></em><br>\r\n<em>See our blog at <a href=\"http://www.hitcents.com/blog\">http://www.hitcents.com/blog</a></em><em><a href=\"http://www.hitcents.com/blog\"></a></em><br>\r\n<em>See us on facebook at&nbsp;<a href=\"https://www.facebook.com/hitcentscom\">http://www.facebook.com/hitcentscom</a></em><br>\r\n<em>See us on twitter at&nbsp;<a href=\"http://twitter.com/hitcents\">http://twitter.com/hitcents</a></em></p>\r\n<p><a href=\"http://www.hitcents.com/\"></a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Hitcents,MonoTouch,MVC,WPF,Blog,C#,.Net,",
+  "LastEdited": "2011-04-07T12:19:45.2-07:00"
+}

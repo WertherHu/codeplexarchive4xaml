@@ -1,0 +1,9 @@
+{
+  "ProjectName": "glucometer",
+  "Title": "Glucometer Prototype",
+  "Description": "the course project of Software Project Management",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>- Project Description</b><br />This is a course project of Software Project Management.<br />The Glucometer is a device which help people test their blood sugar. But here this software project is only a prototype of the Glucometer. This project try to implement / imitate the functions which defined in the SRS(Software Requirement Specification) document. For example: auto-shutdown, display device status, show the test result, etc.<br /><br /><br /><b>- Who are we</b><br />We are Group6 at this class. ^_^<br />(Can, Han, Miao, Holly)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Glucometer,Prototype,SRS,Project Management,WPF,VS2010,C# 3.5,C# 3.0,",
+  "LastEdited": "2010-01-15T00:56:47.817-08:00"
+}

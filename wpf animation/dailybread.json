@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dailybread",
+  "Title": "Daily Bread Screensaver",
+  "Description": "A screensaver which gives you a bible verse for each day together with a picture slide show. Currently developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project description</h1>\rA screensaver which gives you a bible verse for each day together with a picture slide show. Currently developed in C&#35;.<br />\n<h1>Features</h1>\r<ul><li>A new bible verse each day (pre-selected, not just random)</li>\n<li>A slideshow of selected photos</li>\n<li>Auto-update:\n<ul><li>Download new bible verses from the web</li>\n<li>Download new selected photos from the web</li>\n<li>The software itself (perhaps)</li></ul></li></ul>\nNote that the auto-update features does not exist in the current release, but hopefully will in the new version I want to create.<br />\n<h2>Language</h2>\rCurrently we have a version in these languages:\n<ul><li>English</li>\n<li>Norwegian</li></ul>\nAlthough localizing the current screen saver is a bit of a hassle, I hope to make it easier in the new version =)<br />\n<h2>Release date</h2>\rAn updated version of the old screen saver I made for 2007 and 2008 is released with new images and bible verses for 2009. Use that until I manage to finish the new and improved version. If you have an internet connection, it should give you a message when I have the new one ready. You can find it here under Releases.<br /><br />I really have no clue when the new one will be ready. I currently have a struggle with making various ends meet (timewise that is) and yeah... hopefully one day I will find the time to plow into this and finish it =)<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Screensaver,Bible,Slideshow,deprecated,",
+  "LastEdited": "2009-03-21T07:08:18.297-07:00"
+}

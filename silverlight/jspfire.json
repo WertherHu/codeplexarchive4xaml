@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jspfire",
+  "Title": "JspFire",
+  "Description": "jspfire 是为了方便在 jsp 中使用基于 Silverlight 的统计图表 Visifire 制作的，通过 jspfire 可以方便的在 jsp 中使用 Visifire。\n\njspfire 使用 XStream 直接将 java 类生成 xaml 格式的字符串。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />jspfire 是为了方便在 jsp 中使用基于 Silverlight 的统计图表 Visifire 制作的&#65292;通过 jspfire 可以方便的在 jsp 中使用 Visifire&#12290;<br /><br />jspfire 使用 XStream 直接将 java 类生成 xaml 格式的字符串&#12290;<br /><br /><br /><a href=\"http://nullreference.cn\">http://nullreference.cn</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "visifire,jsp,",
+  "LastEdited": "2016-10-21T08:08:04.11-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vcb",
+  "Title": "Versioning Controlled Build",
+  "Description": "A Visual Studio add-in and command-line utility that makes versioning of .NET and VC++ projects easier.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Visual Studio add-in and command-line utility that makes versioning of .NET and VC&#43;&#43; projects easier.<br /><br />Description of the tool and versions up to v3.1 have been published at: <a href=\"http://www.codeproject.com/KB/macros/versioningcontrolledbuild.aspx\">CodeProject</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-01-17T14:26:43.653-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MoDrive",
+  "Title": "MoDrive : Model Driven Editor",
+  "Description": "A ready-to-use model-driven editor implementation in C# with WPF.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rA ready-to-use model-driven editor implementation in C&#35; with WPF.<br />\n<h2>Expectations</h2>\r<table><tr><th>Aspect</th><th>Audience</th><th>Requirements</th><th>Responses</th></tr>\n<tr><td>Domain logic</td><td>Conceptor</td><td>Simplicity, high exhaustibility</td><td>Symbol, Definition, Status, Fields, Rules</td></tr>\n<tr><td>User Interface</td><td>User</td><td>Interactivity</td><td>Icon, Label, Description</td></tr>\n<tr><td>Domain specfic Interface</td><td>Developer</td><td>Extensibility</td><td>Compiled class</td></tr>\n<tr><td>Storage</td><td>Database administrator</td><td>Scability, Performance</td><td>GUID, Compiled table</td></tr>\n<tr><td>Transverse</td><td> </td><td>Maintenability</td><td> </td></tr></table>\n<h2>Functionalities</h2>\r<ul><li>Generic editor for complex data documents.</li>\n<li>Persistency and GUI are dynamically generated from model descriptions.</li>\n<li>Support for concurrent sharing between multipe users.</li></ul>\n<h2>Involved technics</h2>\r<ul><li>A lot of DataBinding.</li>\n<li>No XAML.</li></ul>\n<h2>Current state</h2>\r<ul><li>Still an Alpha for several weeks.</li>\n<li>All fits in a standalone application.</li>\n<li>Persistency can be a XML File or Database table.</li></ul>\n<h2>User notes</h2>\r * Model description files are in folder EmbeddedModels.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Model-Driven Arch,ontology,WPF,Data Binding,rad,",
+  "LastEdited": "2008-07-02T05:36:36.733-07:00"
+}

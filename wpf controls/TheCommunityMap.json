@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TheCommunityMap",
+  "Title": "The.Community.Map",
+  "Description": "The.Community,Map is a participative online GIS system build on Microsoft Silverlight, WPF and the Virtual Earth control. It uses WCF for server communication and SQL Server 2008 as the spatial information storage database.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The.Community,Map is a participative online GIS system build on Microsoft Silverlight, WPF and the Virtual Earth control. It uses WCF for server communication and SQL Server 2008 as the spatial information storage database.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "GIS,C#,SQL Server 2008,Silverlight 3.0,mapping,",
+  "LastEdited": "2009-06-04T08:57:29.093-07:00"
+}

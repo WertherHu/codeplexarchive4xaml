@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MetroTile",
+  "Title": "MetroTile",
+  "Description": "Metro Tile is a small jquery extension that can be used to add Windows 8 - like metro tiles to a website.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Metro Tile is a small jquery extension that can be used to add Windows 8 - like metro tiles to a website.<br /><br /><br />Very simply, you can create a &quot;tile&quot; as an html element with 2 nested child elements, and call $.metroTile() on the outer element, and voila you have a fun and exciting metro tile!<br /><br />Additionally, you can add a bunch of tiles inside a container element, and call $metroTileGroup() on the container, and it will create a group and create metroTiles from all the internal tiles.  It also adds a cool (IMHO) fly-in transition to the group.  I couldn&#39;t get this to work in jsfiddle, and I haven&#39;t had enough time to figure out why, so to see the group functionality, please download the source, and open the metro.tilegroup.html file.<br /><br />I created this for a specific site I am working on and thought it might be useful to others, I have more to do to turn it into a true jquery plugin, but the initial stab at it seems to work well.<br /><br />If anybody has any ideas to improve it, let me know. <br /><br /><a href=\"http://jsfiddle.net/CHmfd/1/\">http://jsfiddle.net/CHmfd/1/</a><br /><br />Thanks for visiting!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro,Tile,HTML,JQuery,css,windows 8,metro ui,ui,MetroTile,Metro Tile,Tiles,",
+  "LastEdited": "2013-04-26T12:40:28.113-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "startupnet",
+  "Title": "Startup.NET",
+  "Description": "It's utility for simple code generation. You describe classes of domain layer and construct an interface - program generate xaml and cs code.\r\n\r\nThere is an alpha",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Startup.NET<br /><br />It&#39;s utility for simple code generation. You describe classes of domain layer and construct an interface - program generate xaml and cs code.<br /><br />There is an alpha version.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-07-24T13:38:21.62-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "breadcrumbbar",
+  "Title": "BreadcrumbBar",
+  "Description": "A control that mimics the look and actions of the Windows Vista Explorer address bar.",
+  "MovedLink": "https://github.com/camalot/breadcrumbbar",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A control that mimics the look and actions of the Windows Vista Explorer address bar.<br /><br /><br /><img src=\"/projects/breadcrumbbar/e7e3f169-42b6-4536-93ed-52f700fa2cb4\" alt=\"breadcrumbbar.png\" title=\"breadcrumbbar.png\" /><br /><br />Explorer Navigation + Breadcrumb Bar. One added to Areo Glass Section of window, the other just on the form.<br /><img src=\"/projects/breadcrumbbar/f2c841b5-f543-4fbf-9f21-429c9fa400d7\" alt=\"areo-navigation.png\" title=\"areo-navigation.png\" /><br /><br />Another example showing different Glass Color and a gradient background for one set of controls.<br /><img src=\"/projects/breadcrumbbar/a091e67b-368c-4b17-8666-5efaeea67c91\" alt=\"areo-navigation2.png\" title=\"areo-navigation2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "controls,winforms,Vista Controls,WinForms Controls,win7 controls,",
+  "LastEdited": "2011-05-16T08:03:45.49-07:00"
+}

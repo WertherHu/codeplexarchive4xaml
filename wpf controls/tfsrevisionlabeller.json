@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfsrevisionlabeller",
+  "Title": "Team Foundation Server Revision Labeller for CruiseControl.NET",
+  "Description": "TFS Revision Labeller for CC.NET makes possible to label your builds with the latest version of the code in your TFS.\nFinally, you can use CC.NET with the full power of the TFS Version Control System. No Excuse!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TFS Revision Labeller for CC.NET makes possible to label your builds with the latest version of the code in your TFS.<br />Finally, you can use CC.NET with the full power of the TFS Version Control System. No Excuse&#33;<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-20T10:08:20.223-08:00"
+}

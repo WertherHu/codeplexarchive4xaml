@@ -1,0 +1,9 @@
+{
+  "ProjectName": "InputDialog",
+  "Title": "InputDialog ASP.NET WebControl",
+  "Description": "The InputDialog is a customizable webform dialog that collects data from a user via a popup window or DHTML layer programmatically on the client.\n\nThe dialog is invoked by a standard HTML button or custom image button and it returns the collected data back to a hidden or visible ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The InputDialog is a customizable webform dialog that collects data from a user via a popup window or DHTML layer programmatically on the client.<br /><br />The dialog is invoked by a standard HTML button or custom image button and it returns the collected data back to a hidden or visible </div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,C#,DHTML,.NET 2.0,webcontrol,Input,Popup,dialog,dialogs,InputDialog,Pop-up,Prompt,Server Control,Source Code,ewn,",
+  "LastEdited": "2007-11-07T13:28:02.663-08:00"
+}

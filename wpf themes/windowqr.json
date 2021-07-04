@@ -1,0 +1,9 @@
+{
+  "ProjectName": "windowqr",
+  "Title": "WindowsQR",
+  "Description": "Windows QR is a proof of concept written in c# about capturing a qr code using a webcam in a WPF application runinng in a desktop computer with Windows 7 or similars.\r\n\r\nIt uses AForge.Vision to wrap the DirectShow complexity and zxing library to decode the qr code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWindows QR is a proof of concept about capturing a qr code using a webcam in a WPF application.<br>\r\n<br>\r\nIt uses AForge.Vision to wrap the DirectShow complexity and zxing library to decode the qr code.</p>\r\n<p>&nbsp;</p>\r\n<p>Tests performed with a simple Macally VGA (640x480) Webcam. It can&nbsp;recognize&nbsp;the\r\n<a href=\"http://en.wikipedia.org/wiki/QR_code\" target=\"_blank\">wikipedia qr code</a>&nbsp;as well as other qr codes PRINTED in a paper. To scan a qr directly from a screen or display, you should have a better camera (Logitec h HD Pro Webcam 910 for example)<br>\r\n<br>\r\nExternal libs used<br>\r\n<br>\r\n<a title=\"zxing\" href=\"http://code.google.com/p/zxing/\" target=\"_blank\">ZXING</a><br>\r\n<a title=\"AForge\" href=\"http://code.google.com/p/aforge/\" target=\"_blank\">AForge</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-30T01:26:15.087-07:00"
+}

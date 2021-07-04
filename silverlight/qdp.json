@@ -1,0 +1,9 @@
+{
+  "ProjectName": "qdp",
+  "Title": "Quick Developer Platform",
+  "Description": "Quick Developer Platform是一款基于Microsoft Silverlight 开发的插件式开发平台，其中包括动态加载资源、样式、组件等必备功能，也容纳了WCF解析、插件间数据共享的基本功能。平台自身主界面基于Metro磁贴化布局，可自定义磁贴大小，可自定义磁贴模版，包含了一套完整的运维管理界面。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>项目简介</strong><br>\r\nQuick Developer Platform（以下简称QDP） 是一款基于Microsoft Silverlight 开发的插件式开发平台，其中包括动态加载资源、样式、组件等必备功能，也容纳了WCF解析、插件间数据共享的基本功能。</p>\r\n<p>&nbsp;</p>\r\n<p>平台自身主界面基于Metro磁贴化布局，可自定义磁贴大小（<em>目前没有限制列，但是最多占两行，工具栏只有这么两行内容！！</em>），可自定义磁贴模版。</p>\r\n<p>&nbsp;<img src=\"https://www.codeplex.com/Download?ProjectName=qdp&DownloadId=919757\" alt=\"\" width=\"837\" height=\"544\"></p>\r\n<p>平台包含了一套完整的运维管理界面，依赖于MS SQL 数据库，可实现对专题应用的搭建及插件的参数设置等等。其中还包括了权限相关设置。</p>\r\n<p>&nbsp;</p>\r\n<p>admin_small@163.com</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Plugin,Silverlight,platform,developer,qdp,",
+  "LastEdited": "2014-10-10T01:41:22.453-07:00"
+}

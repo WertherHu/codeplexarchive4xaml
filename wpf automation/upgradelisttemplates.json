@@ -1,0 +1,9 @@
+{
+  "ProjectName": "upgradelisttemplates",
+  "Title": "Upgrade List Templates from SharePoint 2007 to 2010 [using PowerShell]",
+  "Description": "Try to find and download all the List Templates within all site collections on the disk, upgrades them to SP2010 version and finally uploads them back to sites.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nUpgrading the list templates from MOSS 2007 to SharePoint 2010 is not simply a straight forward task especially if you have thousands of Site collections within a web application. Either you have to&nbsp;<span lang=\"EN-US\"><a href=\"http://tom-dw.blogspot.se/2010/06/importing-sharepoint-2007-list.html\">manually</a>&nbsp;</span><span lang=\"EN-US\">upgrade\r\n them by hand or using some PowerShell to upgrade them. Even if you upgrade them using PowerShell, there is no way to automatically upload (the upgraded template) them back to the site collections where they belong to:</span></p>\r\n<p>&nbsp;</p>\r\n<p>My PowerShell code perform all <strong>4 </strong>tasks</p>\r\n<ol>\r\n<li>Get a URL to a&nbsp;certain&nbsp;Web application in SharePoint&nbsp;environment (Specify the URL in Config.xml)\r\n</li><li>Try to find all List Templates within all site collections and download them all on the disk (in their&nbsp;separate&nbsp;folders i.e. for each site collection a&nbsp;separate&nbsp;folder is created)\r\n</li><li>Upgrade the List templates using the&nbsp;PowerShell </li><li>Upload them back to their original site collections </li></ol>\r\n<p>Additional information and documentation <a href=\"http://falakmahmood.blogspot.se/2013/02/upgrade-list-templates-from-sharepoint.html\">\r\ncan be found on my blog</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "list templates,moss2007,2007,2010,sp2010,sharepoint migration,PowerShell,automation,",
+  "LastEdited": "2013-10-20T16:57:03.443-07:00"
+}

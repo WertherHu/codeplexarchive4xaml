@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wcssystem",
+  "Title": "Webcam Surveillance System",
+  "Description": "A video surveillance system using webcams. Allow people to view multiple webcam simultaneously, support video recording, sound alarming... It also makes use of new technologies: WPF, LINQ... and is designed with extensibility in mind. It's not perfect and may contain bug, though.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Webcam Surveillance System is basically a video surveillance system that makes use of webcams as recording devices. The system can support multiple users with multiple webcams simultaneously. It aslso has features such as motion detection with video recording and sound alarming, and an extensible architecture. The program is written completely in C# and takes advantage of new technologies such as WPF and LINQ.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "directshow,Webcam,C#,C# 4.0,",
+  "LastEdited": "2010-10-26T09:00:44.913-07:00"
+}

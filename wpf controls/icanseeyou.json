@@ -1,0 +1,9 @@
+{
+  "ProjectName": "icanseeyou",
+  "Title": "I Can See You",
+  "Description": "I Can See You is a remote control system. Have fun!\n\n欢迎使用《ICanSeeYou v1.0中文版》(INCU,英文谐音简称)! \n  ICanSeeYou是一款远程控制软件， 采用微软.Net2.0平台,基于C/S模式开发,十分简便了实现了远程控制的基本功能----对话消息，远程桌面，文件浏览,关机等。    \n  目前INCU作为编程爱好者自发开发，可免费传播使用，但不可用于作非法的用途。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />I Can See You is a remote control system. Have fun&#33;<br /><br />欢迎使用&#12298;ICanSeeYou v1.0中文版&#12299;&#40;INCU,英文谐音简称&#41;&#33; <br />  ICanSeeYou是一款远程控制软件&#65292; 采用微软.Net2.0平台,基于C&#47;S模式开发,十分简便了实现了远程控制的基本功能----对话消息&#65292;远程桌面&#65292;文件浏览,关机等&#12290;    <br />  目前INCU作为编程爱好者自发开发&#65292;可免费传播使用&#65292;但不可用于作非法的用途&#12290;<br /><br />INCU V1.0有以下几大功能： <br /><br />远程桌面鼠标控制 <br />远程驱动器文件浏览与上传下载 <br />C2S文本消息传递 <br />远程关机 <br />多线程一网段同时控制 <br />C控制S端升级更新 <br /><br />INCU V1.0的特点： <br /><br />一、界面操作简单实用  <br />二、适应复杂网络，实现跨网络控制  <br />三、图像压缩率高，可适应各种带宽网络 <br />四、安全性高  <br />五、控制能力强 <br /> <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-19T08:47:16.52-07:00"
+}

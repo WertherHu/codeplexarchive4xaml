@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfdataform",
+  "Title": "WPF.DataForm",
+  "Description": "Just a simple port of the silverlight DataForm to wpf.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Just a simple port of the silverlight DataForm to wpf.<br /><br />To use the source you need .NET 3.5 SP1 and the WPF ToolKit Dll : <a href=\"http://wpf.codeplex.com/\">http://wpf.codeplex.com/</a><br /><br />You can download the first alpha of the DataForm including the WPF ToolKit Dll : <a href=\"https://wpfdataform.codeplex.com/releases/view/33223\">WPF.DataForm 0.1</a><br />\n<hr />--------------------<br />A screenshot of the sample provided in the sources :<br />[image:dataform1.png]</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF dataform,WPF,",
+  "LastEdited": "2009-09-19T11:02:51.29-07:00"
+}

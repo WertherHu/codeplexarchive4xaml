@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HomeTrax",
+  "Title": "HomeTrax - Manage Your Home By Barcode",
+  "Description": "HomeTrax allows you to track your personal items by UPC/Barcode. Making it easy to print grocery lists and manage your movie collection.\n\nBuilt using .net 3.5 WPF (client), leverages UPCDatabase.com, and manages your personal inventory in SQL Server 2008 Express (backend).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />HomeTrax allows you to track your personal items by UPC&#47;Barcode. Making it easy to print grocery lists and manage your movie collection.<br /><br />Built using .net 3.5 WPF &#40;client&#41;, leverages UPCDatabase.com, and manages your personal inventory in SQL Server 2008 Express &#40;backend&#41;.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-11-12T18:58:01.417-08:00"
+}

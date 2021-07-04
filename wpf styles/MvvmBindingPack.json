@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MvvmBindingPack",
+  "Title": "MVVM-WPF-WinRt Markup Binding Extensions",
+  "Description": "MvvmBindingPack is the robust platform for UX high-quality design solutions. It provides the elegant binding for Win Store Apps (Window 8.1) and WPF. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong><span style=\"font-size:24.0pt; color:black\">Model - View - ViewModel binding package.<br>\r\n</span></strong></p>\r\n<p>New location:</p>\r\n<p><a href=\"https://github.com/Wallsmedia/MvvmBindingPack\">https://github.com/Wallsmedia/MvvmBindingPack</a></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Binding,MVVM,XAML,WinRT,Windows 8.1,Windows Rt,IOC,",
+  "LastEdited": "2017-04-16T11:26:45.407-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ContractorTimesheet",
+  "Title": "ContractorTimesheet",
+  "Description": "Beginner's guide for building simple Web Application using ASP.NET MVC technology.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">ContractorTimesheet is a very simple Web Application demonstrating usage of following technologies and concepts <br />\n<ul><li>ASP.NET MVC 5 </li>\n<li>Single Page Application (SPA)</li>\n<li>MVVM</li>\n<li>Entity Framework (Code First From Database)</li>\n<li>Data Model </li>\n<li>Password Persistence</li>\n<li>Knockout.js</li>\n<li>KnockoutMVC (Kmvc)</li>\n<li>Unobtrusive JavaScript</li>\n<li>jQuery\n<ul><li>jQuery Validation Plugin with custom Rules, Messages</li>\n<li>jQuery Form Plugin</li></ul></li></ul>\n<br /><br /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET MVC 5,Single Page Applicat,MVVM,Entity Framework (Co,Data Model,Knockout.js,KnockoutMVC (KMVC),jQuery,jQuery Validation,jQuery Form,Password Encryption,Unobtrusive JavaScri,",
+  "LastEdited": "2015-07-07T05:53:40.63-07:00"
+}

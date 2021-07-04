@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpio",
+  "Title": "WP.IO",
+  "Description": "Windows Phone 8 library implementing Windows 8/WinRT classes FileIO and PathIO for simple file manipulation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windows Phone 8 library implementing Windows 8&#47;WinRT classes FileIO and PathIO for simple file manipulation.<br /><br /><b>About WP.IO</b><br />Windows 8 Runtime contains two really useful classes for file manipulation: <a href=\"http://msdn.microsoft.com/en-us/library/windows/apps/windows.storage.fileio\">FileIO</a> and <a href=\"http://msdn.microsoft.com/en-us/library/windows/apps/windows.storage.pathio\">PathIO</a>.<br />Even though Windows Phone 8 API contains lot of WIndows Runtime parts, some useful API is still not there, including FileIO and PathIO.<br /><b>This library is filling this gap.</b> It implements fully both classes when keeping the same class signature of original Windows 8 classes. Thanks to <b>WP.IO</b> you can now share most of your file manipulation code between Windows Phone and Windows 8 projects, in case you are developing app for both platforms.<br /><br /><b>Available on NuGet</b><br />This library is <a href=\"https://www.nuget.org/packages/WP.IO/1.0.0-beta\">available for download on NuGet</a> as a package named <b>WP.IO</b>. Note it&#39;s currently published as &quot;prerelease&quot; package until all unit tests are completed and unlikely initial bugs are found.<br /><br /><b>Feedback wanted</b><br />I&#39;d be grateful, if you take a look on the source code and let me know of any potential issues or possible performance improvements, thanks :)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-16T09:06:57.583-08:00"
+}

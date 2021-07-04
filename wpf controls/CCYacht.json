@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CCYacht",
+  "Title": "CC.Yacht",
+  "Description": "CC.Yacht is a client/server yacht dice game written in C# .NET. It utilizes a net.tcp WCF duplex service for client/server communication.\n\nCurrently only a Windows Forms client exists but WPF and Silverlight versions are in the works.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CC.Yacht is a client&#47;server yacht dice game written in C&#35; .NET. It utilizes a net.tcp WCF duplex service for client&#47;server communication.<br /><br />Currently only a Windows Forms client exists but WPF and Silverlight versions are in the works.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-25T14:13:15.443-07:00"
+}

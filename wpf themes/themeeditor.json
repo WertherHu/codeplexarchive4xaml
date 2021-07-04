@@ -1,0 +1,9 @@
+{
+  "ProjectName": "themeeditor",
+  "Title": "CrmXpress Theme Editor for Dynamics CRM 2016",
+  "Description": "A GUI based theme editor for Dynamics CRM 2016.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA theme editor for Microsoft Dynamics CRM 2016. This solution allows you to edit theme colors by providing a GUI to select&nbsp;color rather than entering HEX values.<br>\r\n<br>\r\nThe idea is not to replace or provide any existing functionality(Create/Delete/Preview) but to provide an easier way to pickup colors for your themes.</p>\r\n<p>Your feedback/feature requests are welcome.</p>\r\n<p><strong>This version of&nbsp;CrmXpress&nbsp;Theme Editor&nbsp;for Dynamics CRM 2016 has been tested against Microsoft Dynamics CRM 2016 On Premise and with Internet Explorer 11.</strong><br>\r\n<br>\r\nThis solution uses the following open source plugins/libraries</p>\r\n<p>Bootstrap - <a title=\"http://www.getbootstrap.com/\" href=\"http://www.getbootstrap.com/\" target=\"_blank\">\r\nhttp://www.getbootstrap.com/</a><br>\r\nJQuery - <a title=\"http://www.query.com/\" href=\"http://www.query.com/\" target=\"_blank\">\r\nhttp://www.query.com/</a><br>\r\nTiny Color Picker - <a title=\"http://www.dematte.at/tinyColorPicker/\" href=\"http://www.dematte.at/tinyColorPicker/\" target=\"_blank\">\r\nhttp://www.dematte.at/tinyColorPicker/</a><br>\r\n&nbsp;</p>\r\n<p><strong>Visit : </strong><a href=\"http://blog.crmxpress.net/\"><strong>http://blog.crmxpress.net</strong></a><strong> for more tools, tips and tricks.</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Theme,Dynamics CRM 2016,",
+  "LastEdited": "2016-01-12T04:53:48.463-08:00"
+}

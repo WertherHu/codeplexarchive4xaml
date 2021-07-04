@@ -1,0 +1,9 @@
+{
+  "ProjectName": "luminous",
+  "Title": "Luminous",
+  "Description": "Luminous library consists of various .NET components, controls, classes, and extension methods which make programming easier.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Introduction to the Luminous library</h1>\rLuminous library contains all my code released on my <a href=\"http://blog.lukesw.net\">blog</a> and <a href=\"http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=1146852\">the Code Project</a>, and more:\n<ul><li>WPF and Windows Forms TaskDialog (formerly <a href=\"http://lukesw.net/articles/VDialog.aspx\">VDialog</a>),</li>\n<li><a href=\"http://lukesw.net/articles/SimplePopup.aspx\">Popup control</a>,</li>\n<li><a href=\"http://lukesw.net/articles/GlassButton.aspx\">GlassButton</a>, (not yet)</li>\n<li><a href=\"http://lukesw.net/articles/FileIsInUse.aspx\">notifying Windows Explorer about files in use</a>,</li>\n<li><a href=\"http://blog.lukesw.net/2009/08/consolecolor-extension-methods.html\">ConsoleColor extension methods</a>,</li>\n<li><a href=\"http://blog.lukesw.net/2009/07/wait-until-file-is-closed.html\">waiting until file is closed/unlocked</a>,</li>\n<li>Linq to CSS (simple),</li>\n<li>various extension methods.</li></ul>\nOnly <a href=\"http://lukesw.net/articles/CplNet.aspx\">Managed Control Panel Items</a> project will not be included here.<br />\n<h2>Donations</h2>\rIf you would like to support this project, you can donate by PayPal.<br /><br /><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=1286557\"><img style=\"border:none;\" src=\"https://www.paypal.com/en_US/i/btn/btn_donateCC_LG_global.gif\" alt=\"PayPal — The safer, easier way to pay online.\" title=\"PayPal — The safer, easier way to pay online.\" /></a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-27T05:28:24.48-07:00"
+}

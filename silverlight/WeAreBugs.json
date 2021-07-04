@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WeAreBugs",
+  "Title": "We Are Bugs (A Silverlight Game)",
+  "Description": "We Are Bugs is a simple Silverlight game.  The code is meant to be a learning tool for others interested in making Silverilght games.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2><u>Project Description</u></h2>\rWe Are Bugs is a simple Silverlight game.  The code is meant to be a learning tool for others interested in making Silverilght games.<br /><br />We Are Bugs was developed by Jeff Weber (That&#39;s me). You can find a playable version of the game along with a number of other Silverlight games and samples on my website here: <a href=\"http://www.farseergames.com\">http://www.farseergames.com</a><br /><br />You can find some details about the source code and game architecture in a blog post about it here: <a href=\"http://www.farseergames.com/blog/2009/4/30/we-are-bugs-refactored-and-source-released.html\">We Are Bugs Blog Post</a><br /><br />Feel free to do pretty much whatever you want with the source.  Learn from it, extend the game, make derivative games, etc…  I don’t require anything specific, but a shout-out to Farseer Games is always nice. :-) <br /><br />Also, if you do something interesting with the code please shoot me an email and let me know. I’d love to see it.<br /><br /><br /><b><i>You can get the latest code from the Releases tab above.</i></b><br /><br />Enjoy!<br /><br /><br />Here are some screenshots:<br /><br /><img src=\"/projects/WeAreBugs/c983e9dc-5462-4b75-9c04-40794c3f6385\" alt=\"WeAreBugsScreen1.Png\" title=\"WeAreBugsScreen1.Png\" /><br /><br /><img src=\"/projects/WeAreBugs/af0ba579-8482-41fa-8b99-abd469754864\" alt=\"WeAreBugsScreen2.Png\" title=\"WeAreBugsScreen2.Png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight NPE,",
+  "LastEdited": "2009-09-16T02:53:35.267-07:00"
+}

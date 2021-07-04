@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfshapedemo",
+  "Title": "WPF Shape Demo",
+  "Description": "This WPF application demos shape objects in WPF,such as Point,Rectangle,Polygon,Polyline and so on.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This WPF application demos shape objects in WPF,such as Point,Rectangle,Polygon,Polyline and so on.<br /><br />In this demo application,what you draw is a basic shape of wpf,you can see what a polygon or polyline is made of.<br />I made this project mainly for the WPF for GIS,and do some research on how to use WPF objects to immplent a GIS app.<br />In future version I will add a feature that add SQLServer2008 Spitial support,and I will test more performance for that,of course,which is the most of important.<br />The purpose I made this demo app mainly for the idea of WPF+SQL2008 for a mini GIS system.<br /><br /><img src=\"http://images.cnblogs.com/cnblogs_com/aspnetx/65269/r_index.jpg\" /><br /><br />More information about this project please check author&#39;s blog from China:<br /><br /><a href=\"http://aspnetx.cnblogs.com\">http://aspnetx.cnblogs.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,",
+  "LastEdited": "2008-10-07T17:13:17.667-07:00"
+}

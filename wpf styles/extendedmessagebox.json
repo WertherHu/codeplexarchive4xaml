@@ -1,0 +1,9 @@
+{
+  "ProjectName": "extendedmessagebox",
+  "Title": "Extended MessageBox",
+  "Description": "ExtendedMessageBox makes it easier to display messages from your Windows applications. Based on the built-in .NET MessageBox class functionality, it enables you display your messages with style and enable users to save or copy errors into files or the clipboard.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />\n<ul><li>ExtendedMessageBox makes it easier to display messages from your Windows applications. Based on the built-in .NET MessageBox class functionality, it enables you display your messages with style and enable users to save or copy errors into files or the clipboard.</li></ul>\n<br /><b>Prerequisites</b><br />\n<ul><li>Visual Studio 2008</li>\n<li>Microsoft .NET Framework 3.5 SP1</li></ul>\n<br /><b>Details</b><br />\n<ul><li>Written in C#</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-25T07:38:30.47-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dui",
+  "Title": "DirectUI Library for Win32",
+  "Description": "DirectUI sets up all the Direct2D boilerplate for you and wraps it up into a Win32 control for ease of use.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>DirectUI is a library for easing the use of Direct2D and friends</b><br /><br />DirectUI exports a custom Win32 control that aims to handle all the boilerplate and headache involved in using Direct2D in your software. All your code needs to do is respond to a few notifications; it&#39;s as simple as that.<br /><br />The easiest method to include DirectUI in your own project is to use NuGet:<br /><br /><img src=\"/projects/dui/f84b633e-ed80-4b19-9ab0-c616088ac59f\" alt=\"DirectUI&#32;in&#32;NuGet\" title=\"DirectUI&#32;in&#32;NuGet\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-29T12:13:26.62-08:00"
+}

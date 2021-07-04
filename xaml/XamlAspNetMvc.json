@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlAspNetMvc",
+  "Title": "XamlAspNetMvc - Xaml + ASP.NET MVC Experiments",
+  "Description": "XamlAspNetMvc is aimed at exploring how to use Xaml with ASP.NET MVC\n\nIn this current check in,\n\n1 - There is an XamlAsyncController that'll help you render Xaml usercontrol as an image\n\n2 - You can also bind your usercontrol with a viewmodel/viewdata",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />XamlAspNetMvc is aimed at exploring how to use Xaml with ASP.NET MVC<br /><br />In this current check in,<br /><br />1 - There is an XamlAsyncController that&#39;ll help you render Xaml usercontrol as an image<br /><br />2 - You can also bind your usercontrol with a viewmodel&#47;viewdata<br /><br />To download the source code, goto Source Code tab and click Download<br /><br />As of now, there is an experimental implementation of XamlAsyncController - That&#39;ll help you to render Xaml that is bound to the view data or view model as an image. So that, your images will be generated based on the view data/model. <br /><br />Example 1:<br />The gauge and button you see below are basically xaml controls<br /><img src=\"http://lh3.ggpht.com/__Mw4iY-4nuY/TFWA9_DSURI/AAAAAAAAA5o/r1bFS6CHfSQ/s1600/image%5B3%5D.png\" /><br /><br />Example 2:<br />So are these images.<br /><img src=\"http://lh4.ggpht.com/__Mw4iY-4nuY/TD4A9z8O6zI/AAAAAAAAA5Q/TF-5-BDrCMo/s1600/image7.png\" /><br />\n<ul><li>Read more in my blog\n<ul><li><a href=\"http://amazedsaint.blogspot.com/2010/07/xaml-meets-aspnet-mvc-create-databound.html\">http://amazedsaint.blogspot.com/2010/07/xaml-meets-aspnet-mvc-create-databound.html</a></li></ul></li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-01T08:00:18.613-07:00"
+}

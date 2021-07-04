@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CodeForWindows",
+  "Title": "Code for Windows",
+  "Description": "Collection of shared source libraries, components, scripts and other useful files to help with common Microsoft Windows and Visual Studio development tasks.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n&quot;Code for Windows&quot; is a collection of shared source libraries, components, scripts and other useful files to help with common Microsoft Windows and Visual Studio development tasks.</p>\r\n<p><strong>This project has moved to GitHub:&nbsp;<a href=\"https://github.com/WallLabs/CodeForWindows\" target=\"_blank\">https://github.com/WallLabs/CodeForWindows</a></strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "powershell,Windows,Visual Studio,Build Automation,Versioning,Shared Source,",
+  "LastEdited": "2017-10-01T05:58:35.533-07:00"
+}

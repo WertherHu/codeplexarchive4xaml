@@ -1,0 +1,9 @@
+{
+  "ProjectName": "learninggames",
+  "Title": "Learning Games",
+  "Description": "WPF application containing simple games for teaching reading and arithmetic to children.",
+  "MovedLink": "https://github.com/markheath/learninggames",
+  "HomeWiki": "<div class=\"wikidoc\">Learning Games is a Windows application for teaching reading and arithmetic to children. It currently consists of two basic games:<br />\n<ul><li>KeyWords game - presents randomly selected words for a child to read out, while the parent indicates whether they got it right or not</li>\n<li>Numbers game - presents randomly generated sums to be solved</li></ul>\n<br />Learning Games has not yet been released. I intend to make the games more configurable, and to present and persist results before the first version is made public.<br /><br />Learning Games has also been an opportunity for me to learn and make use of the following technologies and development methodologies. I welcome feedback on how things could be done better, as well as any volunteers wanting to help with this project.<br />\n<ul><li>WPF - the game currently runs using the .NET 3.5 framework on Windows. </li>\n<li>Silverlight - A Silverlight 4 version has now been created, although some compromises had to be made to get this working</li>\n<li>MVVM - using data binding for all communications between View and Model. This is enabled by a selection of helper attached dependency properties.</li>\n<li>MEF - new games can be added easily by creating a new DLL and implementing an interface. Am looking in to using it instead of an IoC container as well.</li>\n<li>NUnit and Moq - I am trying to write as much new code as possible with TDD</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MEF,Learning,game,Education,MVVM,Silverlight,",
+  "LastEdited": "2010-09-17T06:09:37.097-07:00"
+}

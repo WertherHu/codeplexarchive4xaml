@@ -1,0 +1,9 @@
+{
+  "ProjectName": "itemselector",
+  "Title": "Ajax Enabled Advanced Item Selector",
+  "Description": "Item selector makes it easier for users to find and select their items. This component gives you advanced flexibility and easier to use.\r\n\r\nThis control is an Ajax enabled control, therefore it can be used within update panel.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Item selector makes it easier for users to find and select their items. This component gives you advanced flexibility and easier to use.<br /><br />This control is an Ajax enabled control, therefore it can be used within update panel.<br /><br /><table><tr><td> Version 1.0.2.0 </td><td> <a href=\"http://itemselector.codeplex.com/releases/view/82987\">http://itemselector.codeplex.com/releases/view/82987</a> </td></tr>\n<tr><td> Samples </td><td> <a href=\"http://itemselector.codeplex.com/releases/view/82988\">http://itemselector.codeplex.com/releases/view/82988</a> </td></tr></table><br /><br /><img src=\"/projects/itemselector/9830dd74-16ad-4b47-b881-ea8e60cacaea\" alt=\"ItemSelector1.png\" title=\"ItemSelector1.png\" /><br /><img src=\"/projects/itemselector/a82d2390-d51b-4729-afa8-c10b9ec10bb4\" alt=\"ItemSelector2.png\" title=\"ItemSelector2.png\" /><br /><img src=\"/projects/itemselector/6210a291-4277-482e-9061-68bfa45a8592\" alt=\"ItemSelector3.png\" title=\"ItemSelector3.png\" /><br /><br />Murat Teknik <a href=\"http://www.muratteknik.com\">http://www.muratteknik.com</a> <a href=\"http://www.mieleyetkiliservisistanbul.com\">www.mieleyetkiliservisistanbul.com</a><br />Murat Teknik Depo <a href=\"http://www.depoplus.com/\">http://www.depoplus.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "item selection,item selector,scriptcontrol,Ajax Extenders,ajax enabled control,AutoComplete Textbox,autocomplete,",
+  "LastEdited": "2013-10-23T15:11:56.32-07:00"
+}

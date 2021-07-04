@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PhotoAlbumWorkflow",
+  "Title": "PhotoAlbumWorkflow",
+  "Description": "A WPF application which reads and writes EXIF metadata on pictures. Written in C# using WPF. Renames files, sets title, and changes date properties.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF application which reads and writes EXIF metadata on pictures. Written in C&#35; using WPF. Renames files, sets title, and changes date properties.<br /><br />I started this project as a way to practice WPF data binding. Now I use it every time I import pictures from my camera. \n<ol><li>I import the pictures</li>\n<li>I delete bad pictures and post process good ones in WLPG</li>\n<li>I copy the pictures to PhotoAlbumWorkflow</li>\n<li>I bulk rename the pictures without more specific filenames in PAW</li>\n<li>I set the title to the file name in PAW</li>\n<li>If a timestamp is out of whack I set the time stamp (for instance on a collage).</li></ol>\n<br />The setting of the timestamps came about because someone that I help manage their pictures library had a camera whose year settings was set to five years in the future. While I can&#39;t get the exact timestamp that the picture should be, I can use the existing timestamps on the picture to set the out of whack ones to something reasonable.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "EXIF,Picture,WPF,databinding,metadata,Blend,",
+  "LastEdited": "2013-01-07T10:40:08.02-08:00"
+}

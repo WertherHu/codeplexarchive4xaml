@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jenkins",
+  "Title": "Jenkins CI",
+  "Description": "Views, Jobs, Build status and color. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong><span style=\"font-size:small\">Jenkins CI</span></strong></p>\r\n<p>Jenkins is a continuous integration system.&nbsp;</p>\r\n<p>This Windows 8 Store App makes it possible to connect to your favorite Jenkins instance. You can see all your jobs organized in views, just as they are organized in Jenkins. Build status and job description is also available.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ci,automation,jenkins,hudson,build,agile,scrum,integration,tools,",
+  "LastEdited": "2012-11-24T01:58:21.657-08:00"
+}

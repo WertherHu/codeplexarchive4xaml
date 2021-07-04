@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netwinsock",
+  "Title": "NetWinsock",
+  "Description": "Provides a simple, event-driven Windows Forms Component capable of serving as a TCP client or server. Utilizes an asynchronous/multithreaded pattern and raises data reception and error events on the UI thread for easy processing. Reminiscent of the VB6 Winsock control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides a simple, event-driven Windows Forms Component capable of serving as a TCP client or server. Utilizes an asynchronous&#47;multithreaded pattern and raises data reception and error events on the UI thread for easy processing. Reminiscent of the VB6 Winsock control.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-13T11:36:32.95-07:00"
+}

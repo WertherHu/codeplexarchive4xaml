@@ -1,0 +1,9 @@
+{
+  "ProjectName": "crossxamltools",
+  "Title": "Cross Xaml Tools",
+  "Description": "A toolkit that enables you to share the code and XAML files (unchanged!) between WPF and Silverlight and Windows Store Apps",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Relocated to the <a href=\"https://crossxamltools.codeplex.com/wikipage?title=url%3ahttp%3a%2f%2ffreshmeat.codeplex.com&referringTitle=Home\">FreshMeat Project</a></h2>\r\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-08T23:42:01.93-08:00"
+}

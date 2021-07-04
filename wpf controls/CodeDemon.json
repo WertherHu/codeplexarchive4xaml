@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CodeDemon",
+  "Title": "CodeDemon Collaborative Code Review",
+  "Description": "CodeDemon is a collaborative, web-based code review system that enables online reviews of changes made in Subversion or other revision control systems.  Integration with other SCM and Issue Trackers planned.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CodeDemon is a collaborative, web-based code review system that enables online reviews of changes made in Subversion or other revision control systems.  Integration with other SCM and Issue Trackers planned.<br /><br />Using CodeDemon for your reviews eliminates paper work, ensures that defects, comments and decisions are recorded in an audit-friendly database, and provides a high performance (AJAX) workspace for actually performing code inspections.<br />\n<h2>Main Page of CodeDemon</h2>\r<img src=\"/projects/CodeDemon/5e2129d4-c450-4e16-8d3d-9ab4e5fffbed\" alt=\"codedemon1.jpg\" title=\"codedemon1.jpg\" /><br />\n<h2>Code Review Page in CodeDemon</h2>\r<img src=\"/projects/CodeDemon/a0fe7e26-5166-44a0-9b72-b7e6ad4c4793\" alt=\"codedemon2.jpg\" title=\"codedemon2.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-08T17:43:58.583-08:00"
+}

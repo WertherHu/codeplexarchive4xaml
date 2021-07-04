@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bddxaf",
+  "Title": "Liekhus Behavior Driven DevExpress XAF",
+  "Description": "Using the BDD (Behavior Driven Development) techniques of SpecFlow and the EasyTest scriptability of DevExpress XAF (eXpress Application Framework), you can leverage test first style of application development in a speed never though imaginable.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Using the BDD &#40;Behavior Driven Development&#41; techniques of SpecFlow and the EasyTest scriptability of DevExpress XAF &#40;eXpress Application Framework&#41;, you can leverage test first style of application development in a speed never though imaginable.<br /><br />You can follow the progress and sample code using this project at <a href=\"http://www.liekhus.com\">http://www.liekhus.com</a>.  <br /><br />To get started with this application you will need to download and install the following components:\n<ol><li>SpecFlow found at <a href=\"http://www.specflow.org\">http://www.specflow.org</a></li>\n<li>DevExpress eXpress Application Framework (XAF) found at <a href=\"http://http://www.devexpress.com/Products/Index/Frameworks.xml\">http://http://www.devexpress.com/Products/Index/Frameworks.xml</a></li></ol>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-11T19:09:56.693-08:00"
+}

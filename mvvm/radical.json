@@ -1,0 +1,9 @@
+{
+  "ProjectName": "radical",
+  "Title": "Radical",
+  "Description": "Radical is an infrastructure framework",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>Note:</h2>\r\n<p>This project moved to GitHub (<a href=\"https://github.com/RadicalFx/radical\">https://github.com/RadicalFx/radical</a>) because we are in the need of a better collaboration story. We'd like to thank the CodePlex team for hosting us for all these years.</p>\r\n<p>This project won't be deleted to preserve history, all the open issues we'll be moved to GitHub issues and the documentation to the GitHub WiKi.</p>\r\n<p>.m</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,mvvm,",
+  "LastEdited": "2014-03-25T13:38:23.993-07:00"
+}

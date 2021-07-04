@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SampleCMS",
+  "Title": "SampleCMS is a simple CMS that uses .NET 4.0 API. ASP.NET CMS",
+  "Description": "SampleCMS is a simple CMS that implements Membership API, Navigation API, themes, master pages that show a very simple way to manage virtual pages, contents and select layout for each page or use a default. The project can grow, but not much because the keyword is \"simple\".",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">SampleCMS is a simple CMS that implements Membership API, Navigation API, themes, master pages that show a very simple way to manage virtual pages, contents and select layout for each page or use a default. The project can grow, but not much because the keyword is &#34;simple&#34;.<br /><br /><img src=\"/projects/SampleCMS/5f258cda-27af-4b80-91ce-e805558e6c47\" alt=\"samplecmsscreenshot.png\" title=\"samplecmsscreenshot.png\" /><br />\n<h1><div style=\"clear:both;height:0;\">&nbsp;</div><a style=\"float:left;padding-right:.5em;\" href=\"http&#58;&#47;&#47;goo.gl&#47;YacFp\"><img src=\"/projects/SampleCMS/88a6bba6-fe5a-4b6b-8bb2-50149c74f5ba\" alt=\"Matteo&#32;Migliore&#32;-&#32;Il&#32;Demiurgo\" title=\"Matteo&#32;Migliore&#32;-&#32;Il&#32;Demiurgo\" /></a></h1>\rCoordinator: <a href=\"http://goo.gl/5Yowp\">Matteo Migliore</a> - Il Demiurgo<br /><a href=\"http://goo.gl/YacFp\">Italian blog - http://blogs.ugidotnet.org/matteomigliore</a><br /><a href=\"http://goo.gl/0XHAV\">Twitter - Matteo Migliore - http://twitter.com/matteomigliore</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,CMS,MembershipProvider,Membership,",
+  "LastEdited": "2011-04-08T08:37:10.43-07:00"
+}

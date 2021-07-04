@@ -1,0 +1,9 @@
+{
+  "ProjectName": "smartpart",
+  "Title": "SmartPart for SharePoint",
+  "Description": "A SharePoint web part that can host any ASP.NET web user control. Create your web parts by using the VS.NET designer instead of coding everything by hand!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The SharePoint web part which can host any ASP.NET web user control. Create your web parts without writing code!<br /><br /><b>Resources</b>\n<ul><li><a href=\"http://weblogs.asp.net/jan/archive/2007/02/22/smartpart-for-sharepoint-asp-net-ajax-support.aspx\">Introducing the SmartPart with ASP.NET AJAX Support</a></li>\n<li><a href=\"http://blogs.leadit.be/files/SmartPartWithAJAX.wmv\">Small screencast of ASP.NET AJAX in action</a></li>\n<li><a href=\"http://weblogs.asp.net/jan/archive/2007/02/26/new-version-of-smartpart-now-with-ajax-connections.aspx\">AJAX-style Web Part Connections</a></li>\n<li><a href=\"http://blogs.leadit.be/files/SmartPartAJAXConnections.wmv\">Small screencast of connectable web parts in action</a></li>\n<li><a href=\"http://weblogs.asp.net/jan/archive/2007/02/26/using-the-ajax-control-toolkit-in-sharepoint.aspx\">Using the Control Toolkit in SharePoint</a></li></ul>\n<br /><img src=\"/projects/smartpart/84f90974-9ea4-4095-a176-9dce30ef4943\" alt=\"SmartPartWithAJAX.gif\" title=\"SmartPartWithAJAX.gif\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,MOSS,WSS,web p,SmartPart,SharePoint Dev,SmartPart for ShareP,Problem wth SmartPar,MOSS webparts,SP-Developer,SP-Download,",
+  "LastEdited": "2007-02-26T12:13:23-08:00"
+}

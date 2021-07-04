@@ -1,0 +1,9 @@
+{
+  "ProjectName": "reportingondashboard",
+  "Title": "ReportingOnDashboard for Microsoft Dynamics CRM 2011",
+  "Description": "Add CRM Reports on Dashboard or Form in CRM 2011.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This solution lets you add Reports on Dashboard or Forms of CRM 2011. Out of box, Dashboards provides capability to add Charts, Lists, Web Resources and IFrames.<br />With the use of Web Resource, this solution lets you add Report control on dashboard.<br />Note that it does some client side <b>Un-Supported dom manipulation</b> to render the report in clean and nicer way. Here&#39;s the screenshot on how it looks:<br /><br /><img src=\"/projects/reportingondashboard/c5db748e-72a8-4daf-8376-35c180951428\" alt=\"ReportControlImg1.png\" title=\"ReportControlImg1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "crm,crm2011,crm 2011,report,dashboard,reports,report control,dynamics crm,",
+  "LastEdited": "2013-01-03T23:39:05.457-08:00"
+}

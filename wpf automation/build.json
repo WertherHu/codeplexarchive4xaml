@@ -1,0 +1,9 @@
+{
+  "ProjectName": "build",
+  "Title": "ProjectBuildCounter",
+  "Description": "ProjectBuildCounter is a free stand alone tool autoincrementing NET project version (a counter) on each build.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Project moved to <a href=\"https://github.com/ivostoykov/ProjectBuildCounter\">GitHub</a> </b></h1>\r<h2><b>New URL is <a href=\"https://github.com/ivostoykov/ProjectBuildCounter\">https://github.com/ivostoykov/ProjectBuildCounter</a></b></h2>\r<b>Project Description</b><br />ProjectBuildCounter is a free stand alone tool autoincrementing NET project version &#40;a counter&#41; on each build.<br /><div style=\"clear:both;height:0;\">&nbsp;</div><img style=\"float:right;padding-left:.5em;\" src=\"/projects/build/07dbe57b-7ae9-46bc-96fb-649fc44248ea\" alt=\"buid_qrcode.png\" title=\"buid_qrcode.png\" /><br />ProjectBuildCounter manipulates <b><i>Properties\\AssemblyInfo.cs</i></b> file of a project. As the file name asume it contains somewhere in the contents the product version. It has following form:<br /><pre>\n[assembly: AssemblyVersion(&quot;1.0.13&quot;)] </pre>ProjectBuildCounter reads AssemblyInfo.cs file and increments versions using following logic:<br />\n<ul><li>Revision number (4th position) is incremented from 1 to 9999. When exceed the upper bound Build number is incremented and Release is reset to one.</li>\n<li>Build number (3rd position) is incremented from 1 to 999. When it goes beyond previous number (Minor) is incremented and build counter is reset to one.</li>\n<li>Minor is incremented from 1 to 99. When current number goes above 99 Major is incremented and Minor is reset to one.</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "logging,monitoring,Tools,project,visual studio,version,number,build,count,automation,tool,vs,VS2012,VS2010,VS2008,VS2005,software,helper,counter,buildcounter,",
+  "LastEdited": "2017-05-13T08:50:20.923-07:00"
+}

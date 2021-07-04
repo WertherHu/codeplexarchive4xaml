@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sumo",
+  "Title": "Silverlight for Umbraco Media Objects (SUMO)",
+  "Description": "SUMO is a Silverlight 4 and WCF media manager for Umbraco, which currently allows bulk image uploading and basic image editing capabilities (cropping and rotating).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">SUMO is a Silverlight 4 and WCF media manager for Umbraco, which currently allows bulk image uploading and basic image editing capabilities &#40;cropping and rotating&#41;.<br />\n<h1>Community Tech Preview launched!</h1>\r<b>10th June 2010</b><br />We are extremely pleased to announce the Community Tech Preview (CTP) of Project SUMO, launched in conjunction with Microsoft and The CogWorks, Umbraco Certified Solutions Provider.<br />Current featureset of the CTP:\n<ul><li>Bulk image uploading;</li>\n<li>Basic image manipulation capabilities (rotate, flip &amp; crop).</li></ul>\n<br />Current limitations of the CTP:\n<ul><li>No drag/drop support;</li>\n<li>Cannot delete images.</li></ul>\n<br />Other features considered for future releases are as follows:\n<ul><li>Multiple Umbraco instance management;</li>\n<li>Out-of-browser support and &quot;offline&quot; mode;</li>\n<li>Support for Windows Phone 7.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-10T09:41:53.13-07:00"
+}

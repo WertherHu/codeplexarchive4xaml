@@ -1,0 +1,9 @@
+{
+  "ProjectName": "estimatetracker",
+  "Title": "EstimateTracker",
+  "Description": "Program to track estimate time using XAML, MVVM, WPF, ninject Ioc, nhibernate and Microsoft Prism",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Program to track estimate time using XAML, MVVM, WPF, ninject Ioc, nhibernate and Microsoft Prism<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Estimate wpf npa,",
+  "LastEdited": "2012-11-18T00:10:15.91-08:00"
+}

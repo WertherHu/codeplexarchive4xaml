@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VideoRendererElement",
+  "Title": "VideoRendererElement",
+  "Description": "The VideoRendererElement allows for high-performance, custom video in WPF. \nWith the VideoRendererElement, a developer can update a pixel buffer or video media sample and have it render in WPF space at MediaElement speed.  It is compatible with GDI, DirectShow and direct pixel updates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The VideoRendererElement allows for high-performance, custom video in WPF. <br />With the VideoRendererElement, a developer can update a pixel buffer or video media sample and have it render in WPF space at MediaElement speed.  It is compatible with GDI, DirectShow and direct pixel updates.<br /><br /><br /><br /><b>Information</b><br /><a href=\"https://videorendererelement.codeplex.com/wikipage?title=Feature%20List&referringTitle=Home\">Feature List</a><br /><a href=\"https://videorendererelement.codeplex.com/wikipage?title=Frequently%20Asked%20Questions&referringTitle=Home\">Frequently Asked Questions</a><br /><a href=\"https://videorendererelement.codeplex.com/wikipage?title=API%20Usage%20Examples&referringTitle=Home\">API Usage Examples</a><br /><a href=\"https://videorendererelement.codeplex.com/wikipage?title=Screen%20Shots&referringTitle=Home\">Screen Shots</a><br /><br />Information and a diagram of how it works here: <a href=\"http://jmorrill.hjtcentral.com/Home/tabid/428/EntryID/197/Default.aspx\">http://jmorrill.hjtcentral.com/Home/tabid/428/EntryID/197/Default.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,DirectShow,GDI,video,wpf renderer,",
+  "LastEdited": "2008-09-24T10:18:09.533-07:00"
+}

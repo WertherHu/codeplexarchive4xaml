@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Boggle",
+  "Title": "Boggle.Net",
+  "Description": "A basic implementation of Boggle for WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>Project Description</h2>\r\n<p>A basic implementation of <a href=\"http://en.wikipedia.org/wiki/Boggle\" target=\"_blank\">\r\nBoggle</a> for WPF.</p>\r\n<h3><a href=\"http://download.codeplex.com/Download?ProjectName=boggle&DownloadId=390522\"><img title=\"image\" border=\"0\" alt=\"image\" src=\"http://download.codeplex.com/Download?ProjectName=boggle&DownloadId=390523\" width=\"504\" height=\"364\" style=\"border-bottom:0px; border-left:0px; padding-left:0px; padding-right:0px; display:inline; border-top:0px; border-right:0px; padding-top:0px\"></a></h3>\r\n<p><a href=\"http://download.codeplex.com/Download?ProjectName=boggle&DownloadId=390524\"><img title=\"image\" border=\"0\" alt=\"image\" src=\"http://download.codeplex.com/Download?ProjectName=boggle&DownloadId=390525\" width=\"504\" height=\"364\" style=\"border-bottom:0px; border-left:0px; padding-left:0px; padding-right:0px; display:inline; border-top:0px; border-right:0px; padding-top:0px\"></a></p>\r\n<h3>Build Dependencies</h3>\r\n<ul>\r\n<li><a href=\"http://msdn.microsoft.com/en-us/devlabs/dd491992.aspx\" target=\"_blank\">Code Contracts</a>\r\n</li><li><a href=\"http://msdn.microsoft.com/en-us/data/gg577609.aspx\" target=\"_blank\">Reactive Extensions (Rx)</a>\r\n</li><li><a href=\"http://caliburnmicro.codeplex.com/\" target=\"_blank\">Caliburn.Micro</a>\r\n</li><li><a href=\"http://www.nunit.org/\" target=\"_blank\">NUnit</a> </li><li><a href=\"http://www.specflow.org/\" target=\"_blank\">SpecFlow</a> </li><li><a href=\"http://wix.sourceforge.net/\" target=\"_blank\">WiX Toolset</a></li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,.NET 4.0,CaliburnMicro,Specflow,Code Contracts,Reactive Extensions,MVVM,MEF,",
+  "LastEdited": "2012-06-15T23:31:11.853-07:00"
+}

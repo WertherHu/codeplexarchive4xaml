@@ -1,0 +1,9 @@
+{
+  "ProjectName": "qrcodereader",
+  "Title": "QR Code Reader (By Screen Capture)",
+  "Description": "Reads the QR Codes displayed in webpages. (You need to capture the code area)\r\nDisplays the code information.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Introduction</h1>\r\n<p>This is a project created in WPF. We have already seen QR Code reader by various devices, but ever imagined you could read it when you see the code on your screen.</p>\r\n<p>The application reads the QR Code displayed in various web sites or on the software.&nbsp;<br>\r\n<br>\r\n</p>\r\n<h1>Description</h1>\r\n<p>The application opens up in screen capture mode and you need to capture the area where the QR Code is displayed.</p>\r\n<p>If it is a valid QR Code, the information is displayed as a Message.</p>\r\n<p>The project is using ZXing (a.k.a Zebra Crossing) C# libraries to read the QR Code.</p>\r\n<p>&nbsp;</p>\r\n<p>Read Blog:&nbsp;<a href=\"http://diptimayapatra.wordpress.com/\">http://diptimayapatra.wordpress.com</a></p>\r\n<p>Follow me in twitter:&nbsp;<a href=\"http://twitter.com/dpatra\">http://twitter.com/dpatra</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ZXing,WPF,QRCode,Tools,Windows,Windows 7,Reader,QRCode Reader,",
+  "LastEdited": "2012-09-23T22:19:38.267-07:00"
+}

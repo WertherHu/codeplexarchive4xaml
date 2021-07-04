@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spinningwheel",
+  "Title": "SpinningWheel for WPF",
+  "Description": "A very simple and easy-configurable busy indicator for WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A very simple and easy-configurable busy indicator for WPF.<br /><br />SpinningWheel is part of the <b><a href=\"http://andrassebo.blogspot.com/p/hammer.html\">Hammer UI Kit</a></b> set. It lets you to put it over any control during long running processes, configure color, size, design and speed even in runtime.<br /><br />To test all features a demo application is also attached.<br /><br /><b>Screenshot</b><br /><br /><img src=\"/projects/spinningwheel/979733a3-d302-4d48-95f8-6ceb5fd71f46\" alt=\"spinning.png\" title=\"spinning.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,.net,busy indicator,spinning wheel,hammer,",
+  "LastEdited": "2013-12-12T06:02:59.067-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VectorVisualizer",
+  "Title": "Vector Visualizer - Silverlight tool for visualizing lines in 3D",
+  "Description": "Vector Visualizer - Silverlight tool for visualizing lines in 3D",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Vector Visualizer - Silverlight tool for visualizing lines in 3D<br /><br />Includes a simple 3D engine for drawing lines in three dimensions.<br /><br />Demo: <a href=\"http://www.bodurov.com/VectorVisualizer/\">http://www.bodurov.com/VectorVisualizer/</a><br /><br />Tools developed on the base of Vector Visualizer:<br /><br />Nearest Stars in 3D: <a href=\"http://www.bodurov.com/NearestStars/\">http://www.bodurov.com/NearestStars/</a><br /><br />Colors Map in 3D: <a href=\"http://www.bodurov.com/ColorMapVisualizer/\">http://www.bodurov.com/ColorMapVisualizer/</a><br /><br />Offline Executable: <a href=\"http://www.bodurov.com/files/VectorVisualizer_Offline.zip\">http://www.bodurov.com/files/VectorVisualizer_Offline.zip</a><br /><br />Article: <a href=\"http://www.simple-talk.com/dotnet/.net-framework/building-a-simple-3d-engine-with-silverlight/\">http://www.simple-talk.com/dotnet/.net-framework/building-a-simple-3d-engine-with-silverlight/</a><br /><br />Blog Entry: <a href=\"http://blog.bodurov.com/Vector-Visualizer-3D-tool-for-viewing-vectors-in-three-dimensions\">http://blog.bodurov.com/Vector-Visualizer-3D-tool-for-viewing-vectors-in-three-dimensions</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Vector Visualizer,Silverlight,3D,Vectors,visualizer,",
+  "LastEdited": "2010-02-23T20:35:32.973-08:00"
+}

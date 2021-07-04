@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netconfigurator",
+  "Title": "NetConfigurator",
+  "Description": "One simple and intuitive application for automatic reconfiguration of the configuration file for your .NET applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3><b>NetConfigurator</b></h3>\r<i>The .NET applications configurator</i><br /><br /><br />A .NET application, from the smallest desktop application to the most complex enterprise-class web portal, is always accompanied by one or more configuration files and, sooner or later, once the consolidation phase is concluded, it must be installed in an environment different from that of development.<br /><br />In most cases, to install .NET software simply means copying a few compiled files (EXE, DLL) and content files (JPEG or PNG or GIF, JS, CSS, XML etc.) in a folder, together with one or more configuration files (CONFIG). The last ones, however, must be parametrized specifically for each customer and publishing environment.<br /><br />Therefore nobody likes the manual parametrization, boring and likely to errors, of configuration files, especially if repetitive (see stage and production environment of customers that need to be updated with predetermined time intervals). Right?<br /><br />Here <b>NetConfigurator</b> enters the scene with its philosophy: <i>“parametrize one and configure N times”!</i><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,WPF,",
+  "LastEdited": "2014-09-06T06:45:40.45-07:00"
+}

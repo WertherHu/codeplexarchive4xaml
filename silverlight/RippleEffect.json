@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RippleEffect",
+  "Title": "Ripple Effect In Silverlight 2",
+  "Description": "This is a library to generate a circular ripple effect in a Silverlight 2 application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a library to generate a circular ripple effect in a Silverlight 2 application.<br /><br /><br />To use the library:<br /><br />Create an instance of RippleEffect.RippleEffect <br /><br />RippleEffect( Panel )<br /><br /><br />Call function CircularRipple<br />CircularRipple (Radius, Ripple Thickness, Center, Animation Duration, Ripple Count, Image Source)<br /><br />thats it enjoy :).<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-12-12T08:53:01.463-08:00"
+}

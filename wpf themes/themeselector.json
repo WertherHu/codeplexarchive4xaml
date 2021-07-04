@@ -1,0 +1,9 @@
+{
+  "ProjectName": "themeselector",
+  "Title": "SharePoint Theme Selector",
+  "Description": "A simple feature to enable browsing themes based on multiple SPThemes.xml files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple feature to enable browsing themes based on multiple SPThemes.xml files.<br /><br />When you add site templates, you define them in webtemp*.xml files, so you don&#39;t have to modify the existing webtemp.xml file, but when adding a new theme you must edit the SPTheme.xml file. This simple feature hides the menu original Site Theme link in Site Settings and adds a new Site Theme link which point to another .aspx-file. The code for the aspx is almost identical to the code for the original page (how could we survive without Reflector?), but with the difference that it merges all files starting with SPThemes when browsing the existing themes. So with this feature you can have a spthemestest.xml file, in the same location as the spthemes.xml file, and the files are merged, and you can leave the SPThemes.xml file untouched.<br /><br />The solution can be deployed at Web, Site, WebApplication and Farm scope. In the source code, I&#39;ve chosen Farm-level so the new link is used everywhere without activating it at any other level. Note that since it is a set at Farm scope the feature will be activated automatically when deployed.<br /><br />Only unique themes are allowed so the code strips all duplicates.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,WSS 3.0,SharePoint 2007,WSS,themes,Branding,Feature,",
+  "LastEdited": "2009-09-08T01:55:48.043-07:00"
+}

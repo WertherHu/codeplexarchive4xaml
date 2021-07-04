@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mcLauncher",
+  "Title": "MinecraftLauncher",
+  "Description": "A WPF project to launch various versions of the minecraft client.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF project to launch various versions of the minecraft client.<br /><br />Note: This application will overwrite your current minecraft.jar file in your AppData folder. Backup your previous version before proceeding.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-19T20:58:18.457-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SharePointRSSRotator",
+  "Title": "Webcoda SharePoint RSS Rotator Web Part",
+  "Description": "RSS Rotator Webpart using JQuery to display items from RSS Feeds with scrolling and rotating effects. Works with external and internal SharePoint RSS feeds thus allowing you to publish any list in SharePoint.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Add some interest to your SharePoint pages by adding scrolling news, announcements, obituaries or anything else that may be of interest. <br />More info here - <a href=\"http://www.sharepointsydney.com.au/resources/webparts/sharepoint-rss-rotator.aspx\">http://www.sharepointsydney.com.au/resources/webparts/sharepoint-rss-rotator.aspx</a><br /><br /><img src=\"/projects/SharePointRSSRotator/b00e2fa3-9a50-4105-9fd9-7059daa11976\" alt=\"RssRotator.jpg\" title=\"RssRotator.jpg\" /><br /><br />Webcoda&#39;s website <a href=\"http://www.webcoda.com.au/\">http://www.webcoda.com.au/</a><br />Webcoda&#39;s Blog <a href=\"http://blog.webcoda.com.au/\">http://blog.webcoda.com.au/</a><br />Webcoda&#39;s Blog RSS Feed <a href=\"http://blog.webcoda.com.au/syndication.axd\">http://blog.webcoda.com.au/syndication.axd</a><br /><br />Webcoda&#39;s SharePoint Site <a href=\"http://www.sharepointsydney.com.au/\">http://www.sharepointsydney.com.au/</a><br />Webcoda SharePoint Blog <a href=\"http://blog.sharepointsydney.com.au/\">http://blog.sharepointsydney.com.au/</a><br />Webcoda SharePoint Blog RSS Feed <a href=\"http://blog.sharepointsydney.com.au/syndication.axd\">http://blog.sharepointsydney.com.au/syndication.axd</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,webparts,rss,moss,WSS,",
+  "LastEdited": "2009-08-09T20:12:55.233-07:00"
+}

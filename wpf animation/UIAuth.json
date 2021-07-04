@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UIAuth",
+  "Title": "WPF UI Authorization infrastructure (MVVM controlled)",
+  "Description": "This infrastructure provide Attribute base authorization for UI elements within WPF applications",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This infrastructure provide Attribute base authorization for UI elements within WPF applications<br /><br /><b>Features</b>\n<ul><li>3 Levels of authorization - All, ReadOnly, Invisible. </li>\n<li>Control on invisible behavior (Hidden, Collapse, Remove from visual tree) </li>\n<li>Level control from self implementing interface (one method)</li>\n<li>Level base on View model properties (or entire View model class)</li>\n<li>Field level authorization. </li>\n<li>Attach authorization to UI elements with behavior (useful for bound label to correlated TextBox etc...) </li>\n<li>Control on ReadOnly template (ItemsTemplate in ListBox etc) with embedded Data Template or Resource base Template. </li></ul>\n<br /><b>How to use</b>\n<ol><li>reference the UIAuth.Common project (or dll). </li>\n<li>Implement IAuthLevelProvider class in your code. </li>\n<li>Assign to AuthBehavior.AuthProvider. </li>\n<li>Mark the View model class / properties with  AuthSecurityName attribute with security name for this class/properties. </li>\n<li>In XAML add AuthBehavior to UI elements. </li>\n<li>Optional - for special ReadOnly template add template to Resources or embedded in behavior. </li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-21T02:03:57.1-08:00"
+}

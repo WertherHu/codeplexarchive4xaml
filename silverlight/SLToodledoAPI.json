@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLToodledoAPI",
+  "Title": "Silverlight Toodledo API",
+  "Description": "The Toodledo API for Silverlight makes it easy for developers to write task management applications in Silvelright which synchronize with Toodledo.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThe Toodledo API for Silverlight makes it easy for developers to write task management applications in Silvelright which synchronize with Toodledo.<br />\n<h1>Usage</h1>\r<ol><li>Add a reference to the library</li>\n<li>Implement ToodledoAPI.IRestWebServiceProxy to provide a proxy for calling a generic REST based service.</li>\n<li>Call ToodledoAPI.ApplicationConfiguration.SetConfiguration Once, passing in your AppID, AppToken and ProxyService (as implimented above).  This must be done before making any API calls.</li>\n<li>The classes are arranged in a very similar way to the original toodledo api so refer to the online documentation <a href=\"http://api.toodledo.com/2/index.php\">http://api.toodledo.com/2/index.php</a></li></ol>\n<h2>Notes</h2>\rThe account.GetKey method will cache the key for 3.5 hours if isolated storage is enabled.  So it is safe to call this multiple times without worrying about the limit of 10 calls per hour.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Silverlight,silverlight 4,toodledo,REST,",
+  "LastEdited": "2011-04-03T12:47:21.03-07:00"
+}

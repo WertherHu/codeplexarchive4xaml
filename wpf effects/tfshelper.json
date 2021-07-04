@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfshelper",
+  "Title": "TFS Helper",
+  "Description": "TFS Helper is a module based utility to accomplish tasks and create reports which are not provided by TFS out of the box.\r\nIt is coded in vb.net\r\n\r\nIt currently has a few reports.\r\n1-Work Item File History\r\nThe purpose of this module is to find to total effect a work item had on source files\r\n2-Work Item Field History\r\nThe purpose of this module is to give work item history at field resolution\r\n3-File work item history\r\nThe purpose of this module is to find the list of work items that participated in the construction of a source file\r\n\r\nFurther help text can be found on program forms.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />TFS Helper is a module based utility to accomplish tasks and create reports which are not provided by TFS out of the box.<br />It is coded on .NET FW 3.5 with VB.NET</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-27T05:10:49.903-08:00"
+}

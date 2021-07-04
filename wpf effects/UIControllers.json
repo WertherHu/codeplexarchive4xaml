@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UIControllers",
+  "Title": "UI Controllers",
+  "Description": "UI Controllers is a library of WPF enables controls to making it easier to add more forms of user input to an application.\r\n\r\nFor starters these are multi key gestures, mouse gestures and speech.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">UI Controllers<br /><br /><br />This project contains a library of different UI Controllers for WPF projects.<br /><br />Currently it contains classes for Multi-Key stroke gestures, Mouse Gestures, Speech and Gaze.<br /><br />The Gaze recognition is in alpha. It does eye recognition, face recognition, eye tracking, face tracking, gaze click, and eye blink clicking.<br /><br />- Future development wishes are:<br />  - Pupil Recognition and tracking<br />  - WPF controls<br />  - gaze mouse control<br />  - Gaze gesture recognition<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-26T12:46:30.553-07:00"
+}

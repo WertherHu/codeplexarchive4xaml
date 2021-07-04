@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SharpGoogleChart",
+  "Title": "SharpGoogleChart",
+  "Description": "A library written in C# for using the Google Chart API.\n\nI am currently working on making ASP.NET web controls for each type of chart.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A library written in C&#35; for using the Google Chart API.<br /><br />I am currently working on making ASP.NET web controls for each type of chart.\n<h2>Work Completed</h2>\r<u>Wrapper Classes</u>\n<ol><li>Bar Chart</li>\n<li>Pie Chart</li></ol>\n<h2>Work In Progress</h2>\r<u>Wrapper Classes</u>\n<ol><li>Line Chart</li>\n<li>Scatter Chart</li>\n<li>Venn Chart</li></ol>\n<br /><u>ASP.NET Web Controls</u>\n<ol><li>Bar Chart </li>\n<li>Line Chart</li>\n<li>Pie Chart</li>\n<li>Scatter Chart</li>\n<li>Venn Chart</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,asp.net 2.0,Google,Chart,c#,.NET,.NET 2.0,Google chart,Webcontrols,",
+  "LastEdited": "2008-02-07T21:05:14.52-08:00"
+}

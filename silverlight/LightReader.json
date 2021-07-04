@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LightReader",
+  "Title": "LightReader",
+  "Description": "LightReader will be a Silverlight-based feed reader. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Silverlight 2.0-based RSS feed reader.<br /><br />As for 3/21/2009, LightReader has been upgraded to SL 2.0.<br /><br />Plans for the application include:<br />- Internal display of blog posts (no more opening another browser window to read the posts)<br />- Improved user interface<br />- Improved workflow<br />- Improved architecture (refactor / re-write to MVVM)<br />- Possible port to 3.0 beta</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,RSS,Silverlight 2.0,C#,",
+  "LastEdited": "2009-03-21T18:56:42.647-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RIAQuerySerializer",
+  "Title": "RIA Services - Query Serializer",
+  "Description": "The ExpressionSerializationForRiaServices is a library which contains  Expression serializer and deserializer. \nI use the library in case, when I have a query as a parameter in my RIA Services.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>The ExpressionSerializationForRiaServices</h1>\ris a library which contains  Expression serializer and deserializer. There are versions of the library for Silverlight 3.0, Silverlight 4.0, Net.Framework 3.5 and Net.Framework 4.0. <br />I use the library in case, when I have a query as a parameter in my RIA Services.<br /><br />Live demo is <a href=\"http://alutam.cz/samples/DemoExpressionSerialization.aspx\">here</a>  <br /><br /><b>Example - Silverlight :</b><br /><br /><img src=\"/projects/RIAQuerySerializer/6feff5ae-76d6-421d-ad24-97de4b202c39\" alt=\"SL_Design.png\" title=\"SL_Design.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,RIA Services,LINQ,Serialization,",
+  "LastEdited": "2010-12-15T07:39:56.75-08:00"
+}

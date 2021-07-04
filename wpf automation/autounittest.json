@@ -1,0 +1,9 @@
+{
+  "ProjectName": "autounittest",
+  "Title": "automatic unit testing",
+  "Description": "trying create extension for vs 2010 for auto generate unit tests by code graph method.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\ntrying create extention for vs 2010 for auto generate unit tests by code graph method.</p>\r\n<p>This project uses CSParcer&nbsp;<a href=\"http://csparser.codeplex.com/\">http://csparser.codeplex.com/</a></p>\r\n<p>&nbsp;</p>\r\n<p>This was just a graduation work, which i want to be finished.</p>\r\n<p>Central idea its a automatic generate unit test for a code. With high coverage and objects replaced by stubs.</p>\r\n<p>It uses a object graph to&nbsp;analyse&nbsp;code structure and find conditions, parameters in conditions and etc.</p>\r\n<p>&nbsp;</p>\r\n<p><br>\r\n<strong>everyone welcome!</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "unittest,automation,extention,",
+  "LastEdited": "2011-06-25T02:49:09.65-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "digadgeteer",
+  "Title": ".NET Gadgeteer Projects from Digital Interaction",
+  "Description": "Digital Interaction Group develops Microsoft .NET Gadgeteer modules, code and example projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />At Digital Interaction Group we develop Microsoft .NET Gadgeteer modules, code and example projects.<br /><br />We put up the source code for new modules and projects here, so that everyone can have fun with Gadgeteer.<br /><br /><b>Current Modules</b>\n<ul><li>Open Sound Control (OSC)</li>\n<li><i>DMX (Planned)</i></li>\n<li><i>VISCA Camera Control (Planned)</i></li>\n<li><i>Websockets (Planned)</i></li>\n<li><i>STOMP (Planned)</i></li></ul>\n<br /><b>Current Examples</b><br />\n<hr /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "open sound control,.NET Gadgeteer,prototyping,music,osc,module,",
+  "LastEdited": "2013-01-06T08:51:16.297-08:00"
+}

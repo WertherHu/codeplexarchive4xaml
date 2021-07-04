@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metrobackup",
+  "Title": "MetroBackUp",
+  "Description": "MetroBackUp is an application for synchronization of directories.",
+  "MovedLink": "https://github.com/danielpalme/MetroBackup",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>MetroBackup</h1>\r\n<table style=\"border:solid .5em #ff7e00!important; width:100%!important\">\r\n<tbody>\r\n<tr>\r\n<td style=\"border:none!important\">\r\n<p><br>\r\n<img title=\"Github\" src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=reportgenerator&DownloadId=1427048\" alt=\"Github\"></p>\r\n</td>\r\n<td style=\"border:none!important\">\r\n<h2 style=\"color:red; margin:0px!important; width:auto!important; height:auto!important\">\r\nAttention</h2>\r\n<h3>The project is now hosted on&nbsp;<a href=\"https://github.com/danielpalme/MetroBackup\">Github</a>.<br>\r\nPlease submit issues and discussions there.</h3>\r\n<ul>\r\n<li><a href=\"https://github.com/danielpalme/MetroBackup/releases\">Releases</a> </li><li><a href=\"https://github.com/danielpalme/MetroBackup/issues\">Issues<br>\r\n</a></li></ul>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Backup,Synchronization,Metro,",
+  "LastEdited": "2017-04-03T11:41:04.76-07:00"
+}

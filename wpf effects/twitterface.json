@@ -1,0 +1,9 @@
+{
+  "ProjectName": "twitterface",
+  "Title": "Twitter Face",
+  "Description": "Twitter Face is a sample application that demonstrates how easy it is to programatically use WPF. It also demonstrates HTTP POX streaming, twitter API, and XML deserialization",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Twitter Face is a sample application that demonstrates how easy it is to programatically use WPF. It also demonstrates HTTP POX streaming, twitter API, and XML deserialization<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "twitter,Serialization,WPF,sample,Samples,xaml,Twitter API,",
+  "LastEdited": "2009-07-02T16:48:13.867-07:00"
+}

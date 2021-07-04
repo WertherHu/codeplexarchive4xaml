@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WeatherControl",
+  "Title": "WeatherControl",
+  "Description": "Wpf weather display control.  The control uses WebServiceX's weather web service.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Wpf weather display control.  The control uses WebServiceX&#39;s weather web service.<br /><br /><br />WeatherControl is a wpf, asynchronous webservice control.  The control utilizes the WebServceX weather service to display the weather for the selected country/town pair. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "wcf,asynchronous,WPF controls,WPF,C#,",
+  "LastEdited": "2008-05-30T09:25:29.367-07:00"
+}

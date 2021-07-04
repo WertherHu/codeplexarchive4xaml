@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ExML",
+  "Title": "ExML",
+  "Description": "Fork of ExcelPackage which continues development where the original developer left off. Main goals are to replicate the ease of use of the COM API for older Excel versions. Easy to use styles!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Fork of ExcelPackage which continues development where the original developer left off. Main goals are to replicate the ease of use of the COM API for older Excel versions. Easy to use styles&#33;<br /><br />ExcelPackage was an excellent start at a library for generating Excel spreadsheets on the fly, sadly no new development has been done in some time and many people are desiring new features and capabilities. ExML aims to pick up where ExcelPackage left off and implement easy to use styles and incorporate some of the features that have been requested on the discussions.<br /><br /><b>This project is not dead, I am currently working on some optimizations for dealing with LARGE spreadsheets.</b> <br /><br />Stay tuned!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-07-30T09:52:39.26-07:00"
+}

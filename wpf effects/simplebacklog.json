@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simplebacklog",
+  "Title": "Simple Backlog for Visual Studio",
+  "Description": "An enhanced task list for VS 2010, designed to make it easier to manage a backlog of features.\r\n\r\nWritten in C# and WPF. Released under the Apache 2.0 licence.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><div style=\"clear:both;height:0;\">&nbsp;</div><a style=\"float:right;padding-left:.5em;\" href=\"http&#58;&#47;&#47;download.codeplex.com&#47;download&#63;ProjectName&#61;simplebacklog&#38;DownloadId&#61;217272\"><img src=\"/projects/simplebacklog/408d9893-aff8-41fe-a48c-fb96037bf49d\" alt=\"Simple&#32;Backlog&#32;in&#32;action\" title=\"Simple&#32;Backlog&#32;in&#32;action\" /></a>An enhanced task list for VS 2010, designed to make it easier to manage a backlog of features.<br /><br />Written in C&#35; and WPF. Released under the Apache 2.0 licence.<br /><br />Each item has a simple priority and a status (unstarted, working, testing, completed or deferred). Right-click an item&#39;s icon to change priority or status, or double-click the icon to advance to the next status.<br /><br />The backlog items are stored in a text file with your solution, allowing them to be easily shared through version control and without interfering with systems that don&#39;t have the Simple Backlog extension installed.<br /><br />Visible items can be filtered to allow you to concentrate on the work that needs to be done.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-14T00:25:48.803-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Big2",
+  "Title": "Big2 Card Game",
+  "Description": "Big2, or better known as ChorTaiTi, is a simple open source Chinese poker card game for play over internet. The project is developed under Visual Studio 2008 and uses .NET 3.5.  The graphical user interface is  WPF.   \n\nThe project is being done for learning the new .Net 3.5 frameworks features....\n\n\n\n\nSystem Requirements\n\n    * Windows XP (sp 2) or Windows Vista\n    * .NET 3.5",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Big2, or better known as ChorTaiTi, is a simple open source Chinese poker card game for play over internet. The project is developed under Visual Studio 2008 and uses .NET 3.5.  The graphical user interface is  WPF.   <br /><br />The project is being done for learning the new .Net 3.5 frameworks features....<br /><br /><br /><br /><br />System Requirements<br /><br />    &#42; Windows XP &#40;sp 2&#41; or Windows Vista<br />    &#42; .NET 3.5<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "card game,Big2,game,.NET 3.5,wcf,wpf,chinese poker,c#,poker,clientserver,card,chinese card,",
+  "LastEdited": "2008-07-07T14:00:37.99-07:00"
+}

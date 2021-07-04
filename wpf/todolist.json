@@ -1,0 +1,9 @@
+{
+  "ProjectName": "todolist",
+  "Title": "ToDo List",
+  "Description": "ToDo List is a simple WPF based application. It just puts a little note paper on your desktop to take notes. It's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ToDo List is a simple WPF based application. It just puts a little note paper on your desktop to take notes. It&#39;s developed in C&#35;.<br />\n<h1>V2.0 has been released!</h1>\r\n<ul><li><b>Can run on Windows startup</b></li>\n<li><b>Can be placed at anywhere</b></li>\n<li><b>Always on top option</b></li>\n<li><b>User defined directory</b></li></ul>\n<br /><img src=\"/projects/todolist/70994466-f86a-4ce6-b44b-277a2524d30a\" alt=\"01.jpg\" title=\"01.jpg\" /><br /><br /><img src=\"/projects/todolist/e4802a50-4a21-4203-96b1-e2ea59b928c4\" alt=\"02.jpg\" title=\"02.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,C# 3.5,WPF,todo,C# 3.0,",
+  "LastEdited": "2011-04-04T16:16:43.04-07:00"
+}

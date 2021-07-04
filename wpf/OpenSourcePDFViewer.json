@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OpenSourcePDFViewer",
+  "Title": "Open source WPF PDF Viewer",
+  "Description": "Open source PDF Viewer based on Apitron PDF Rasterizer for .NET component that performs high-quality conversion from PDF file to an image.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>We support rendering of the PDF content including:</b>\n<ul><li>text (with embedded, externally linked, standard, simple and composite fonts)</li>\n<li>images, including masked ones</li>\n<li>annotation objects of various types</li>\n<li>complex paths and fills</li>\n<li>PDF Forms</li>\n<li>all blending modes</li>\n<li>tiling patterns</li>\n<li>shading patterns of type 1,2,3 (function-based, axial, radial)</li>\n<li>transparency groups (especially useful when you process files created with Adobe Illustrator)</li>\n<li>masked content (stencil masks, colorkey masks, softmasks)</li>\n<li>all colorspaces specified by PDF (in case of DeviceN we revert to alternative as specified by standard)</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-10-16T05:41:51.697-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PanoCube",
+  "Title": "Silverlight Panorama Viewer",
+  "Description": "Panorama viewer using cubic projection pictures.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Cubic Panorama viewer in Silverlight 2beta2<br />Click and drag the mouse to rotate the camera.<br />Press T to switch between Textured and polygon render mode.<br />Press + / -  to zoom in and out.<br /><br />Rotation and zoom can be controlled from c#<br /><br />Online example : <a href=\"http://www.amercom.nl/showcase/silverlight/panoramacube2/PanoramaCubeTestPage.html\">http://www.amercom.nl/showcase/silverlight/panoramacube2/PanoramaCubeTestPage.html</a><br /><br />The texture mapping routine uses 1 single Matrix calculation for its texture mapping, no need for Matrix inversion and concatenation as seen in other texture mapping solutions.<br /><br />Main Panoviewer code and Texture mapping routines by Martijn Croezen <a href=\"http://whizzkid74.blogspot.com\">http://whizzkid74.blogspot.com</a><br />Cleanup and conversion to Webcontrol by Rob Houweling <a href=\"http://web-snippets.blogspot.com\">http://web-snippets.blogspot.com</a><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MyList,MyList.SilverLight,",
+  "LastEdited": "2008-06-19T08:14:08.627-07:00"
+}

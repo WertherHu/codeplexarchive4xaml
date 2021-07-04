@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stripconverter",
+  "Title": "Strip Converter",
+  "Description": "A Very Handy Converter for 2D Games Developers\r\nDeveloper Website: http://www.bluebulk.info",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Developing 2D games ?</p>\r\n<p>Then you'll <strong>Surely</strong> need this !</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=stripconverter&DownloadId=524777\" alt=\"\" style=\"vertical-align:middle\"></p>\r\n<p><img src=\"/projects/stripconverter/408aed9b-3141-462b-b2f7-a5111a91bf83\" alt=\"\"></p>\r\n<ul>\r\n<li>Easily convert Strip Animation to its Frames in row and column </li><li>Easily convert Frames into one single Strip Animation </li></ul>\r\n<p>Strip Converter allows you to make a strip animation (<em>spritesheet</em>) out of many frames, but not just for animations. for anything, even random sprites. or you can put 2D/3D softwares output in Strip Converter as frames and have a working animation\r\n without messing with a bunch of frames, just a single sprite. Some game engines have this ability built-in but seriously, will you buy a game engine just for a tool like that ? of course not ! We made it for you for free. download and enjoy making games.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "strip,converter,game development,2D game,Animation,spritesheet,sprite,Developer Tools,game,",
+  "LastEdited": "2012-11-01T07:53:17.253-07:00"
+}

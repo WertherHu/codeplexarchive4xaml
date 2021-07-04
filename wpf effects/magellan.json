@@ -1,0 +1,9 @@
+{
+  "ProjectName": "magellan",
+  "Title": "Magellan",
+  "Description": "Magellan is a lightweight MVC framework that makes it easy to build WPF navigation applications. The design is drawn deeply from the ASP.NET MVC framework, and it should feel familiar to anyone who has worked with ASP.NET MVC.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><a href=\"http://code.google.com/p/magellan-framework\">Magellan has moved to Google Code. Go there now.</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVC,",
+  "LastEdited": "2011-02-01T06:17:20.333-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PNPUCinWP",
+  "Title": "Complete Project for How to: Wrap a User Control Inside of a Web Part",
+  "Description": "This is a C# project that contains all the code from the Microsoft Patterns and Practices article \"How to: Wrap a User Control Inside of a Web Part for SharePoint\".",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a C&#35; project that contains all the code from the Microsoft Patterns and Practices article &#34;How to&#58; Wrap a User Control Inside of a Web Part for SharePoint&#34;.<br /><br /><br />This project is the code for the article at at <a href=\"http://msdn.microsoft.com/en-us/library/dd206945.aspx\">http://msdn.microsoft.com/en-us/library/dd206945.aspx</a>.<br />I created this Visual Studio Solution because the article did not provide a code download.<br />This solution should be a good basis for creating your own custom web parts.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,MOSS,WSS,patterns & practices,code samples,",
+  "LastEdited": "2008-12-01T15:33:11.767-08:00"
+}

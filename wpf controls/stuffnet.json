@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stuffnet",
+  "Title": "Stuff.NET",
+  "Description": "This library provides several useful classes and methods to deal with frequently appearing challenges.\r\ne.g.: pathfinding, forms/controls, dynamic compiling, ...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This library provides several useful classes and methods to deal with frequently appearing challenges.<br />e.g.&#58; pathfinding, forms&#47;controls, dynamic compiling, ...<br /><br />In this library, written in the .net framework (c&#39;#), you can find useful things one can need from time to time, like path finding, a double buffered panel and a lot more stuff. I will update the library as soon as I can think of any new useful idea. I&#39;m also open for suggestions <br /><br />Latest release includes:<br />- path finding<br />- collision detection<br />- geometry functions (angles between two points, distance between two points)<br />- progressbar-form for easy displaying progress<br />- double buffered panel to avoid flickering when redrawing<br />- dynamic compiler to execute code on the fly<br />- get all currently pressed keys, no need for focus on form/control or application itself<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "collision detection,Pathfinding,compile on the fly,math,Geometry,forms,form,Controls,Library,double buffering,keylogger,pressed keys,useful,path finding,a*,a star,collection,algorithm,c#,C# 4.0,.NET,.NET Framework,",
+  "LastEdited": "2012-08-04T11:59:47.26-07:00"
+}

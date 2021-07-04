@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BuildProcessCommands",
+  "Title": "Build Process Commands for Visual Studio (Team Explorer) 2010",
+  "Description": "Extends the context menu of a Build Definition in Visual Studio 2010 (Team Explorer View) with commands to export and import the Build Process Parameters xaml.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Extends the context menu of a Build Definition in Visual Studio 2010 &#40;Team Explorer View&#41; with commands to export and import the Build Process Parameters xaml.<br /><br />While setting up and managing a build template is perfectly described in the Team Foundation Build Customization Guide  <a href=\"http://vsarbuildguide.codeplex.com\">http://vsarbuildguide.codeplex.com</a>, managing the resulting Build Definitions lacks some tools and documentation.<br />Each Build Definition contains a ProcessParameters section which describes via xaml the build process. The ProcessParameters could not be versioned in Source Control, which makes it somehow difficult to manage large and growing builds. <br />Therefore the Build Process Commands have been written: you could simply export and import the <b>build process parameters</b> of a Build Definition and version it under Source Control.<br />In conjunction with the Clone Build Definition command of the TFS Powertools setting up a new build for a new branch gets incredible easy.<br /><br /><img src=\"/projects/BuildProcessCommands/bfad5f9c-0170-4175-bdd2-39a41921c857\" alt=\"BuildDefinitionCommands.png\" title=\"BuildDefinitionCommands.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Visual Studio 2010,Team Foundation,",
+  "LastEdited": "2012-12-11T06:50:51.35-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tbwpfrmrara",
+  "Title": "TabControl WebPart",
+  "Description": "TabControlWebPart for MOSS 2007",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/tbwpfrmrara/9fe5da90-70db-4e20-9fd5-7cb03fb92090\" alt=\"RaRa_LogoV1.jpg\" title=\"RaRa_LogoV1.jpg\" /><br /><br /><br /> <b>Project Description</b><br /><br />TabControl WebPart for MOSS 2007. <br /><br />     *  This WebPart is developed using C#.NET  <br />     *  Developed using Visual Studio 2005 Team Suite  <br /><br />We are working on three different ways of developing TabView WebParts for MOSS 2007. Soon all the three different TabView WebParts will be published. Which will help everyone.<br /><br />Alfa Release of First type of Tab View Web Part released<br /><a href=\"https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=tbwpfrmrara&amp;ReleaseId=13473\">https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=tbwpfrmrara&amp;ReleaseId=13473</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WebPart,MOSS 2007,Tab Control,SharePoint WebPart,SharePoint,Sharepoint General,",
+  "LastEdited": "2008-05-16T05:40:11.133-07:00"
+}

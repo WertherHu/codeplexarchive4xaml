@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EffiProzSL",
+  "Title": "EffiProz Database for Silverlight",
+  "Description": "EffiProzSL is an embedded database for Silverlight applications, based on EffiProz (http://effiproz.codeplex.com/) database engine",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Visit <a href=\"http://www.effiproz.com\">www.effiproz.com</a> for latest releases</h1>\r\n<br /><b>Project Description</b><br />EffiProzSL is an embedded database for Silverlight applications, based on EffiProz &#40;http&#58;&#47;&#47;effiproz.codeplex.com&#47;&#41; database engine<br /><br />Connect to a In-Memory EffiProz Silverlight  database with EffiProz native interface,<br /><img src=\"/projects/EffiProzSL/de12321d-c7bb-4638-9afd-b94b1e1426b1\" alt=\"SLNative.png\" title=\"SLNative.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight 3,Database,SQL,embedded database,Silverlight 3.0,",
+  "LastEdited": "2010-08-18T07:19:09.093-07:00"
+}

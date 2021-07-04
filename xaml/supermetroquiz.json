@@ -1,0 +1,9 @@
+{
+  "ProjectName": "supermetroquiz",
+  "Title": "SuperMetroQuiz",
+  "Description": "O SuperQuiz é um jogo de Quiz para Windows 8, desenvolvido em C#, que utilizou como base o template grid, disponível no Visual Studio 2012.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>SuperMetroQuiz</strong></p>\r\n<p>O SuperQuiz &eacute; um jogo de Quiz para Windows 8, desenvolvido em C#, que utilizou como base o template grid, dispon&iacute;vel no Visual Studio 2012.</p>\r\n<p>O prop&oacute;sito deste jogo &eacute; servir como um primeiro contato para programadores e designers com o novo modelo de programa&ccedil;&atilde;o, introduzido com o Metro Style no Windows 8. E nada mais legal do que ter o primeiro contato com uma aplica&ccedil;&atilde;o\r\n funcional.</p>\r\n<p>Desenvolvemos o SuperQuiz em XAML e C# pela facilidade que temos de desenvolver em C#, mas o mesmo jogo poderia ser desenvolvido em HTML5 e JavaScript.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows 8,Template,XAML,",
+  "LastEdited": "2012-09-24T05:23:05.553-07:00"
+}

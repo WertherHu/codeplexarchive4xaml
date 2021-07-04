@@ -1,0 +1,9 @@
+{
+  "ProjectName": "zoomcontrol",
+  "Title": "Silverlight 3 generic zoom control",
+  "Description": "This silverlight 3 content control zooms and pans its content using mouse dragging and mousewheel. Look and feel similar to Google Maps (but no inertia built in yet like in DZ), but supports anything as content.\n\nTags: Silverlight 3, Zoom, Pan, Control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>ZoomControl for Silverlight 3</b><br /><br />This themed control allows to zoom-in/out and pan the content contained within.<br />However, inertial behavior is not yet supported, but you may add it, if you need it. <br />Also, in light of things like multi touch, i&#39;m thinking of adding gesture support (pinch for zoom control). <br /><br />Make sure to comment in the discussions if you&#39;re missing a feature.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-15T07:18:22.553-08:00"
+}

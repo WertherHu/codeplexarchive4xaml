@@ -1,0 +1,9 @@
+{
+  "ProjectName": "powershell4adfs2",
+  "Title": "AD FS 2.x PowerShell Tools",
+  "Description": "This project is a place to put several AD FS 2.x related PowerShell scripts. \r\n\r\nMostly used for automation & troubleshooting.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is a place to put several AD FS 2.x related PowerShell scripts. <br /><br />Mostly used for automation &#38; troubleshooting.<br /><br />PowerShell Utilities for AD FS 2.0<br /><br />\n<ul><li>Lacking a good source of AD FS 2.x scripts/utilities, I decided to dive in and write my own.</li></ul>\nMany of these scripts are specific to my needs, but most can easily be adapted to anyone&#39;s needs.<br /><br />I am not an experienced PowerShell programmer. I am novice at best.<br /><br />If you have suggestions to improve these scripts, PLEASE feel free to post/ask questions/make suggestions.<br /><br />Thanks!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-27T09:48:52.133-07:00"
+}

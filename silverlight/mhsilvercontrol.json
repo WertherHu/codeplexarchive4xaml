@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mhsilvercontrol",
+  "Title": "MH Silverlight Controls",
+  "Description": "A small library for SILVERLIGHT. Included controls: table, math label, numeric box. Also an extension method to make updating UI in threads easy.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA small library for SILVERLIGHT. Included controls: table, math label, numeric box. Also an extension method to make updating UI in threads easy.</p>\r\n<p><strong>Features:</strong></p>\r\n<ol>\r\n<li>Easily update any UI control from any thread by using RunOnUI helper. </li><li>Display formulas with MathLabel control. </li><li>Generate tables with Table control. </li><li>Display numeric values with NumberLabel control. </li><li>Accept numeric values with NumberBox input control. </li></ol>\r\n<p><strong>Demo</strong></p>\r\n<p><a href=\"http://opensource.thnsolutions.com/silvercontrol/DemoTestPage.html\" target=\"_blank\">Click here for an instant demo</a>.</p>\r\n<p><br>\r\n<br>\r\n<strong>Screenshot</strong></p>\r\n<p><img src=\"http://opensource.thnsolutions.com/silvercontrol/SilverControl.png\" alt=\"Silver Control screenshot\" width=\"424\" height=\"300\"></p>\r\n<p><strong>Author</strong></p>\r\n<p><a href=\"http://www.minh-hai.com/\" target=\"_blank\" style=\"color:#2e8bcc; font-size:13px; font-family:'Segoe UI',Tahoma,Arial,Helvetica,sans-serif; background-color:transparent\">Nguyễn, M. Hải</a>&nbsp;wrote this stuff in several SILVERLIGHT projects.</p>\r\n<p>I hope you find this library useful.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,C#,.Net,NumericBox,Table,Math,Threading,Expression,",
+  "LastEdited": "2014-05-19T02:35:03.633-07:00"
+}

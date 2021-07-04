@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openglviewcontroller",
+  "Title": "OpenGLViewController for Visual Basic .NET 2008",
+  "Description": "A single class in pure VB.NET code to create and control an OpenGL window by calling opengl32.dll directly without use of additional wrapper libraries.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A single class in pure VB.NET code to create and control an OpenGL window by calling opengl32.dll directly without use of additional wrapper libraries.<br /><br /><br />Ever wanted to harness the power of OpenGL from VB.NET without having to include 3rd party libraries?<br /><br />Wouldn&#39;t it be great if you could just instantiate a single class to do all the heavy lifting for you so you can focus on the model driving<br />your visualisation?<br /><br />Well here it is!<br /><br />The aim of this project is to create a view controller class in the MVC sense to drive an opengl &quot;View&quot; window from a model of your own design.<br /><br /><b>Note this is not a library but template code which can be adapted to your own needs</b><br /><br />MIT licence</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-18T02:18:54.54-08:00"
+}

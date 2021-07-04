@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LocWOComp",
+  "Title": "Wpf localization without compile",
+  "Description": "Localization without recompiling, use it to localize your app. (Including xaml support).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This was requirment in one of my projects and I&#39;m uploading the source for you all.<br />This is localization system (very simple) to read strings from resx file without needing to recompile at any resources change. It&#39;s allow you to add any resx file (with culture specified name like fr-FR) and localize your app by anyone who can translate. (You don&#39;t need programmer to translate your app).<br /><br />This project includes the Langauge container itself, and markup extension to use it in xaml apps.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,localization,WPF Localization,markup extension,resource translation,",
+  "LastEdited": "2012-06-07T02:33:50.787-07:00"
+}

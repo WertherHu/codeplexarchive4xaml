@@ -1,0 +1,9 @@
+{
+  "ProjectName": "invinitraining",
+  "Title": "Invini.Training",
+  "Description": "Toolkit for writing training scripts for beginning users of your application. Write training and demo scenarios in easy way!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>SUMMARY</h1>\r\nWith this toolkit you may write training scripts that guide your beggining users through your WPF application.<br /><br />Scenarios in which the library is helpful:\n<ul><li>you want to teach clients how your application works,</li>\n<li>you want to demonstrate your application to potential clients,</li>\n<li>you want to prepare constant set of test scenarios for your testers.</li></ul>\nEspecialy, the library is really helpful when these tasks are performed remotely with Remote Desktop Services or other remoting technologies.<br /><br />You should start by <a href=\"https://invinitraining.codeplex.com/releases/view/585218\">downloading Samples</a> with some demo projects which may be used to learn how to use the library. Refer <a href=\"https://invinitraining.codeplex.com/documentation\">Documentation</a> for details.<br /><br /><img src=\"/projects/invinitraining/59bd0946-eddf-43a4-a466-a6842157f931\" alt=\"screen.jpg\" title=\"screen.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Training,Demo,Demonstrating,Teaching,WPF,",
+  "LastEdited": "2015-01-12T11:24:57.917-08:00"
+}

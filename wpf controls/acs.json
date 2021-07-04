@@ -1,0 +1,9 @@
+{
+  "ProjectName": "acs",
+  "Title": "[Moved] Access Control Service Samples and Documentation",
+  "Description": "Windows Azure Access Control Service allows you to integrate Single Sign On and centralized authorization into your web application. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>ACS 2.0 Samples and Documentation</h2>\r\n<p><span style=\"color:#ff0000\"><strong>Notice: All sample code and documentation for Windows Azure Access Control Service 2.0 has been moved to MSDN.</strong></span><br>\r\n<br>\r\n<strong>Please use the following links to access:</strong></p>\r\n<ul>\r\n<li><strong><a href=\"http://go.microsoft.com/fwlink/?LinkId=213167\">ACS Code Samples on MSDN</a></strong>\r\n</li><li><strong><a href=\"http://msdn.microsoft.com/en-us/library/hh147631.aspx\">ACS Documentation on MSDN</a></strong>\r\n</li><li><strong><a href=\"http://social.msdn.microsoft.com/Forums/en-US/windowsazuresecurity/threads\">Windows Azure Security Forum (for questions about ACS)</a></strong>\r\n</li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure,Access Control,Azure Services,Identity,Identity REST,OAuth,WS-Federation,WS-Trust,Facebook,OpenID,Account,Authentication,acs,ADFS,",
+  "LastEdited": "2014-09-18T11:44:20.37-07:00"
+}

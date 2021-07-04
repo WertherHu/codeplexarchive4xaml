@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fmisilverlight",
+  "Title": "FMI Silverlight Course",
+  "Description": "This is the site for the final project of the Silverlight course taught at the Sofia University in the summer semester of 2010.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Разработване на Богати Интернет приложения с Microsoft Silverlight </h1>\r<i>Факултет по математика и информатика, Софийски университет &quot;Климент Охридски&quot;</i><br /><br />Това е страницата с информация за курсовите проекти за <a href=\"http://fmi.silverlight.bg/\">практикума по Silverlight</a> воден във <a href=\"http://fmi.uni-sofia.bg/\">ФМИ</a> през летния семестър на 2010.<br />\n<h2>Тук може да намерите </h2>\r<ul><li><a href=\"https://fmisilverlight.codeplex.com/wikipage?title=Projects&referringTitle=Home\">Изисквания за проектите към курса</a></li>\n<li><a href=\"http://fmisilverlight.codeplex.com/SourceControl/list/changesets\">Кода и базата данни, необходими за проектите</a></li>\n<li><a href=\"http://fmisilverlight.codeplex.com/documentation\">Документация към кода и начални указания</a></li></ul>\n<br />Кода и базата данни към проекта се разпространяват под <a href=\"http://fmisilverlight.codeplex.com/license\">MIT Licese</a>, което ще рече, че може да ги позлвате за каквото си искате, стига да спомете, че сте ползвали нещо от тук.<br /><br />Екипа<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,University,Course,Sample Databases,Samples,",
+  "LastEdited": "2010-05-18T14:53:55.347-07:00"
+}

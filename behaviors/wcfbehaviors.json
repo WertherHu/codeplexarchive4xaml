@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wcfbehaviors",
+  "Title": "Universe.WCF.Behaviors",
+  "Description": "Universe.WCF.Behaviors provides behaviors:\n- Easy migration from Remoting\n- Transparent delivery\n- Traffic Statistics\n- WCF Streaming Adaptor for BinaryWriter and TextWriter\n- etc ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Universe.WCF.Behaviors provides behaviors&#58;<br />- Easy migration from Remoting<br />- Transparent delivery<br />- Traffic Statistics<br />- WCF Streaming Adaptor for BinaryWriter and TextWriter<br />- etc <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-26T15:32:06.597-08:00"
+}

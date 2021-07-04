@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mchat",
+  "Title": "MChat IRC",
+  "Description": "MChat is a full \"written-entirely-by-rstat1\" .NET IRC client that requires .NET 3.5. Its user interface is made using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MChat is a full &#34;written-entirely-by-rstat1&#34; .NET IRC client that requires .NET 3.5. Its user interface is made using WPF.<br /><br /><i>Note: This app is built on .NET 3.5 SP1. If you have issues running it please update your installation of .NET 3.5 to SP1.</i><br /><br />Have any questions, comments, concerns, visit #mchat on irc.coldfront.net, and let me know.<br /><br /><a href=\"https://mchat.codeplex.com/wikipage?title=Backend%20Documentation&referringTitle=Home\">Backend Documentation</a><br /><a href=\"https://mchat.codeplex.com/wikipage?title=Change%20Log&referringTitle=Home\">Change Log</a><br /><a href=\"https://mchat.codeplex.com/wikipage?title=Command%20Reference&referringTitle=Home\">Command Reference</a><br /><br /><b>Screenshots of the latest build of MChat</b><br /><img src=\"http://i178.photobucket.com/albums/w265/rstat1/server-window-alpha-2.png\" /><br /><br /><img src=\"http://i178.photobucket.com/albums/w265/rstat1/main-agent.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "irc,WPF,.NET 3.5,Messenger,",
+  "LastEdited": "2008-08-01T23:45:44.683-07:00"
+}

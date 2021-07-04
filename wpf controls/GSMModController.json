@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GSMModController",
+  "Title": "GSM Module Controller",
+  "Description": "This application controls a GSM module (connected to the local PC via a serial port) by passing AT commands.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This application controls a GSM module (connected to the local PC via a serial port) by passing AT commands. <br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-05-29T21:31:06.917-07:00"
+}

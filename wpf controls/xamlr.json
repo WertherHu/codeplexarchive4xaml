@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamlr",
+  "Title": "Xamlr",
+  "Description": "A XAML formatteR for Visual Studio 2010, 2012 and 2013",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>What is Xamlr?</h1>\rXamlr is a XAML formatteR extension for Visual Studio versions 2010, 2012 and 2013 that enables WPF and Silverlight developers to work with their XAML files more effectively; both on an individual basis and as part of a team. It does this by overriding the inbuilt formatting logic for XAML files to produce beautiful, easy to read and easy to merge XAML at lightning speed.<br />\n<h1>How do I use Xamlr?</h1>\r<ol><li><a href=\"https://xamlr.codeplex.com/releases\">Download</a> the version that matches your version of Visual Studio.</li>\n<li>Run the installer and restart Visual Studio if prompted.</li>\n<li>In Visual Studio open any XAML document (ensure it is not read-only).</li>\n<li>Save the document.</li></ol>\n<b>Tip</b> you can disable format on save in Tools --&gt; Options --&gt; Xamlr and format using the Visual Studio document formatting command: you will probably find that <b>CTRL E, D</b> is a good shortcut combination.<br /><br />See the <a href=\"https://xamlr.codeplex.com/documentation?referringTitle=Home\">documentation</a> for more details or jump to the <a href=\"https://xamlr.codeplex.com/wikipage?title=XAML%20style%20guide&referringTitle=Home\">XAML style guide</a> for an in depth explanation of how Xamlr will format your document.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Visual Studio,xaml,Silverlight,Code Cleanup,",
+  "LastEdited": "2015-02-17T16:15:20.097-08:00"
+}

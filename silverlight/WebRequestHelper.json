@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WebRequestHelper",
+  "Title": "Silverlight WebRequestHelper",
+  "Description": "WebRequestHelper is a very simple helper project, created for using HttWebRequest in Silverlight in a very simple and easiest way.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WebRequestHelper is a very simple helper project, created for using HttWebRequest in Silverlight in a very simple and easiest way.<br />\n<h2>How to use WebRequestHelper:</h2>\r<ul><li>Add reference of WebRequestHelper in your Silverlight project.</li>\n<li>now you can easily use WebRequestHelper with the help of following code.</li></ul>\n<div style=\"color:Black;background-color:White;\"><pre>\r\n<span style=\"color:Green;\">// create the web request.</span>\nWebRequestHelper.WebRequest webRequest = WebRequestHelper.WebRequest.Create(<span style=\"color:#A31515;\">&quot;http://api.twitter.com/1/help/test.xml&quot;</span>);\n\n<span style=\"color:Green;\">// register the completed event</span>\nwebRequest.GetResponseCompleted += (e) =&gt;\n{\n    <span style=\"color:Blue;\">if</span> (e.Error == <span style=\"color:Blue;\">null</span> &amp;&amp; !<span style=\"color:Blue;\">string</span>.IsNullOrEmpty(e.Result))\n    {\n        <span style=\"color:Green;\">// do something with result.</span>\n        <span style=\"color:Blue;\">string</span> myResult = e.Result;\n    }\n};\n\n<span style=\"color:Green;\">// call the request</span>\nwebRequest.GetResponseAsync();\r\n</pre></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-21T14:21:57.293-07:00"
+}

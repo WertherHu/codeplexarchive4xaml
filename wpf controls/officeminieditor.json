@@ -1,0 +1,9 @@
+{
+  "ProjectName": "officeminieditor",
+  "Title": "Office.Mini.Editor",
+  "Description": "Office Mini Editor\r\n want to be a set of WinForm controls small and fast with a minimal editing functions.\r\n The first step is development of the Word control. \r\n ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Office Mini Editor<br />want to be  a set of WinForm controls small and fast with a minimal editing functions.<br />The first step is development of the Word control.  <br />Microsoft Office installation isn&#39;t required.<br />Based on <a href=\"https://msdn.microsoft.com/en-us/library/office/cc313153(v=office.12).aspx\">MS-DOC specification</a> and <a href=\"https://msdn.microsoft.com/en-us/library/dd942138.aspx\">MS-CFB specification</a><br />OME control collaborate with class collection from <a href=\"https://sourceforge.net/projects/openmcdf/?source=typ_redirect\">OpenMCFD.</a> to realize access at Compound File Storage.<br /><br /><b>Release from 04.2015 features:</b>\n<ul><li>open and display without formating any .doc file.</li></ul>\n<br /><b>Need a Custom Solution?</b><br /><br />I’m currently accepting inquiries regarding consulting / development freelance.  <a href=\"http://codeplex.codeplex.com/site/users/view/dxn\">Let’s talk about your project today.</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Office Word 2010,Winform Control,",
+  "LastEdited": "2015-04-26T03:51:32.953-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "syntorrent",
+  "Title": "SynTorrent",
+  "Description": "Provides a simple UI client using WPF to control the Download Station on a remote Synology NAS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides a simple UI client using WPF to control the Download Station on a remote Synology NAS.<br /><br /><br /><b>What is it?</b><br /><br />What started as an exercise to learn C#/WPF ended up being a tool to control the download tasks on a remote Synology NAS. It uses the official Web API provided by Synology.<br /><br /><b>Features</b><br /><br />- Clean Metro like UI.<br />- Download tasks including some basic information are showed as a data-grid list.<br />- Tasks can be filtered according to their state and/or file name.<br />- Tasks can be paused/resumed/deleted.<br />- Supports uploading of torrent files from the local machine.<br />- Download URLs can be directly added.<br /><br /><b>Supported Devices</b><br /><br />SynTorrent has been tested and developed with a Synology Device running DSM 4.3.<br /><br /><img src=\"/projects/syntorrent/609da31c-dacf-46c6-b053-368dddf4c23b\" alt=\"syntorrent1.png\" title=\"syntorrent1.png\" /><br /><img src=\"/projects/syntorrent/dda99804-e965-4079-9501-446ed4cbd0f1\" alt=\"syntorrent2.png\" title=\"syntorrent2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Synology,NAS,WPF,Download Station,Torrent,C#,.NET,Download Redirector,Windows,Torrent Client,",
+  "LastEdited": "2014-02-09T09:06:27.567-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silvermouse",
+  "Title": "SilverMouse - Silverlight Mouse Extensions Library",
+  "Description": "SilverMouse add many features to Silverlight input system:\n\n- right mouse button events support\n- left mouse button events extensions\n- attach and dettached events with extended methods",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverMouse add many features to Silverlight input system&#58;<br /><br />- right mouse button events support<br />- left mouse button events extensions<br />- attach and dettached events with extended methods<br /><br /><br />Add mouse extensions to your application:<br /><br />1. Set &quot;windowless&quot; parameter of Silverlight plug-in object to &quot;true&quot;<br /><br />2. Add reference to SilverMouse library<br /><br />3. Add &quot;using MoonRainbow.Input.Mouse&quot;<br /><br />4. Using extended method to add event handlers</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Right Mouse Click,Extended Events,",
+  "LastEdited": "2009-08-28T14:43:15.22-07:00"
+}

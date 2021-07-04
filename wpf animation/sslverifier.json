@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sslverifier",
+  "Title": "SSL Certificate Verifier",
+  "Description": "This is a WPF tool that allows to connect to remote web servers and examine SSL certificates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis is a WPF tool that allows to connect to remote web servers and examine SSL certificates.</p>\r\n<p>The tool provides the following functionality:</p>\r\n<ul>\r\n<li>Validates the SSL certificate and validates all certificates in the chain for possible errors;\r\n</li><li>Implements certificate expiration checking. Certificate expiration&nbsp;is checked for all certificates in the chain;\r\n</li><li>The tool also checks certificates for all possible redirection URLs; </li><li>Writes trace/debug log for each processed entry; </li><li>Provides an ability to save server list to a file and read the list from a file.\r\n</li></ul>\r\n<p>The tool requires .NET Framework 4.0 Client Profile. More details about the tool in my weblog:\r\n<a href=\"http://en-us.sysadmins.lv/Lists/Posts/Post.aspx?ID=115\">Verifying The SSL Certificates with a tool</a></p>\r\n<p>Here is a screenshot of the tool:</p>\r\n<p><a href=\"/projects/sslverifier/1906767f-6cb6-4d81-8789-2e6733b45f92\"><img src=\"/projects/sslverifier/948e4a6f-2c71-4d2b-b029-071f2eef69ed\" alt=\"SSL Certificate Verifier\"></a></p>\r\n<p>For any questions, please ask them in <strong><a href=\"https://sslverifier.codeplex.com/discussions\"><font color=\"#2e8bcc\">Discussions</font></a></strong> tab. To submit a bug, or suggestion, use\r\n<strong><a href=\"https://sslverifier.codeplex.com/workitem/list/basic\"><font color=\"#2e8bcc\">Issue Tracker</font></a></strong> tab.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SSL,Certificate,WPF,",
+  "LastEdited": "2014-04-06T08:04:30.51-07:00"
+}

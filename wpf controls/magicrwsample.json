@@ -1,0 +1,9 @@
+{
+  "ProjectName": "magicrwsample",
+  "Title": "RW Sample Project",
+  "Description": "Sample project using the magic-rw game development framework. It is meant to display a rendering window with basic controls for the viewport to display a mesh.",
+  "MovedLink": "http://eirsamples.osdn.jp/magicrwsample.html",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Sample project using the magic-rw game development framework. It is meant to display a rendering window with basic controls for the viewport to display a mesh.<br /><br /><b>Recommended Compiler:</b> Visual Studio 2017</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-03-11T04:42:06.18-08:00"
+}

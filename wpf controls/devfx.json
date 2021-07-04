@@ -1,0 +1,9 @@
+{
+  "ProjectName": "devfx",
+  "Title": "DevFx",
+  "Description": "A helpful development framework (DevFx), which includes the module functions: configurations, ioc, data access, logging, cache, security access control. It’s effectual and quick to develop a new business system.\r\n\r\n具有配置、基于配置文件的IoC、基于配置SQL的数据访问、日志、异常、缓存、权限控制等各业务通用的多层统一开发框架，为业务管理系统的开发提高了速度和效率。\r\n\r\nDevFx是一个开源的开发框架，主要特性包括IoC、数据操作（类iBatis）。\r\nDevFx是Development Framework的缩写，意思是统一开发框架。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A helpful development framework &#40;DevFx&#41;, which includes the module functions&#58; configurations, ioc, data access, logging, cache, security access control. It&#8217;s effectual and quick to develop a new business system.<br /><br />具有配置&#12289;基于配置文件的IoC&#12289;基于配置SQL的数据访问&#12289;日志&#12289;异常&#12289;缓存&#12289;权限控制等各业务通用的多层统一开发框架&#65292;为业务管理系统的开发提高了速度和效率&#12290;<br /><br />DevFx是一个开源的开发框架&#65292;主要特性包括IoC&#12289;数据操作&#65288;类iBatis&#65289;&#12290;<br />DevFx是Development Framework的缩写&#65292;意思是统一开发框架&#12290;<br /><br /><b>请使用NuGet集成，或在Source Code里下载源代码</b><br />\n<h3>版本历史</h3>\r<table><tr><th>版本</th><th>日期</th><th>说明</th></tr>\n<tr><td>85374</td><td>2011/11/07</td><td>完成对WCF支持，服务发布严格遵守WCF的规范。客户端调用依然适用IoC风格</td></tr>\n<tr><td>85367</td><td>2011/11/07</td><td>完成对IoC获取可使用Remoting技术，同时包含了服务使用Remoting发布</td></tr></table></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Framework,Web Framework,cache,development,Developer Tools,log,configurations,access control,devfx,IOC,",
+  "LastEdited": "2011-11-07T02:09:25.647-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "thesharpfontviewer",
+  "Title": "The Sharp Font Viewer",
+  "Description": "The Sharp Font Viewer makes it easier for people who have a lot of fonts, to find the font they where looking for. Works with .otf, .ttf and .ttc\nYou'll no longer have to search and open every font you have saved on your computer.\nIt's developed in C# and XAML. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThe Sharp Font Viewer makes it easier for people who have a lot of fonts, to find the font they where looking for. Works with .otf, .ttf and .ttc<br />You&#39;ll no longer have to search and open every font you have saved on your computer.<br />It&#39;s developed in C&#35; and XAML. <br /><img src=\"/projects/thesharpfontviewer/c33101f0-b66e-4758-83a2-156b67d466a0\" alt=\"29Mo-08.47.27-0.png\" title=\"29Mo-08.47.27-0.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "font,viewer,c#,wpf,",
+  "LastEdited": "2008-12-28T23:49:31.637-08:00"
+}

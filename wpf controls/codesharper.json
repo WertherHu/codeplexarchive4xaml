@@ -1,0 +1,9 @@
+{
+  "ProjectName": "codesharper",
+  "Title": "CodeSHARPer",
+  "Description": "CodeSHARPer.net is a C# code editor written in C# and WPF, it uses AvalonEdit as code editor, AvalonDock as layout system and NRefactory for code completion.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>CodeSHARPer is a C# code editor written in C# and WPF.</p>\r\n<p><img src=\"https://3f5zxq.bay.livefilestore.com/y2p9iAGz0yavtSgXsNTukc8JNFTLgKZMo8JooQ5k5NENmN6HGR9-7MR5BQIq0fNfzhaSSb1hAFGOEfEm1HmYPpEh3h3Vr4wzdU7tH1siom8MwIMRYjlDMuwr3ZNlRSrgXHH/CodeSHARPer.png?psid=1\" alt=\"\" width=\"682\" height=\"555\"></p>\r\n<p>It uses <a title=\"AvalonEdit\" href=\"http://wiki.sharpdevelop.net/AvalonEdit.ashx\">\r\nAvalonEdit</a> as code editor and <a title=\"AvalonDock\" href=\"http://avalondock.codeplex.com/\" target=\"_blank\">\r\nAvalonDock</a> as layout system. The code completion is provided by <a href=\"https://github.com/icsharpcode/NRefactory\">\r\nNRefactory 5</a>.</p>\r\n<p>To try this project you can download the first beta binaries <a href=\"https://codesharper.codeplex.com/releases/view/108293\">\r\nhere</a>.</p>\r\n<p>This project aim to be a code editor for several languages, like C#, VB, SQL and others.</p>\r\n<p>&nbsp;</p>\r\n<p>This project is currently in Beta stage.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-19T14:54:11.48-07:00"
+}

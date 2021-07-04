@@ -1,0 +1,9 @@
+{
+  "ProjectName": "yaam",
+  "Title": "Yaam",
+  "Description": "(Yet Another Ambient Munny)\n\nYaam uses an Arduino or Netduino to light a LED in a Munny to glow the same color as your Microsoft Lync status.  The project uses C for the Arduino, .NET Micro Framework for the Netduino, and WPF (C#/XAML) for the Lync status daemon.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />&#40;Yet Another Ambient Munny&#41;<br /><br />Yaam uses an Arduino or Netduino to light a LED in a Munny to glow the same color as your Microsoft Lync status.  The project uses C for the Arduino, .NET Micro Framework for the Netduino, and WPF &#40;C&#35;&#47;XAML&#41; for the Lync status daemon.<br /><br /><br /><br /><b>Update 2011-03-16:</b> Netduino code has been added!<br />The Arduino code has been ported to C# for use with the Netduino.  The major difference is that the Netduino project will utilize 2 LEDs (whereas the Arduino code utilizes 1).  This means the expected payload from the serial port has changed. Neither the Arduino nor the WPF daemon code has been updated yet to reflect this breaking change (it will be in a future checkin real soon).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Netduino,.NET Micro Framework,arduino,Lync,WPF,",
+  "LastEdited": "2011-03-15T21:21:41.447-07:00"
+}

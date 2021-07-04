@@ -1,0 +1,9 @@
+{
+  "ProjectName": "whitepad",
+  "Title": "Whitepad",
+  "Description": "Whitepad is a digital whiteboard with an infinite canvas. It is designed to be used on a tablet, with a stylus, or on a PC, using a mouse.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Whitepad</h1>\r\n<b>Description</b><br />Whitepad is a digital whiteboard with an infinite canvas. It is designed to be used on a tablet, with a stylus, or on a PC, using a mouse.<br /><br /><b>Features</b><br />Infinite space to create diagrams and drawings.<br />Allows you to save your work for later.<br />Supports several marker colors.<br /><br /><b>Screenshot</b><br /><img src=\"/projects/whitepad/a2cd5121-ab8a-4c59-aaf2-9c43202440ef\" alt=\"whitepad.png\" title=\"whitepad.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,miihszriimz,",
+  "LastEdited": "2013-02-18T16:09:05.097-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winrtpmidi",
+  "Title": "WinRTP-MIDI",
+  "Description": "A portable implementation of the RTP-MIDI network protocol.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A portable implementation of the RTP-MIDI network protocol.<br /><br /><br /><b>Overview</b><br /><br />WinRTP-MIDI is an implementation of the <a href=\"http://www.cs.berkeley.edu/~lazzaro/rtpmidi/\">RTP-MIDI</a> network protocol that helps build <a href=\"http://www.windowsstore.com/\">Windows Store Apps</a> designed to act as controllers for various musical instruments.<br /><br />The majority of software, devices and instruments supporting RTP-MIDI implement <i>AppleMIDI</i> (also known as <i>CoreMIDI</i>), Apple&#39;s own propriatery protocol layer used to negociate and manage sessions between participants in an RTP-MIDI conversation.<br /><br />Likewise, WinRTP-MIDI strives to be fully compatible with  AppleMIDI.<br />The library is currently being tested with success against Tobias Erichsen&#39; rtpMIDI driver for Windows.<br /><br /><b>Status</b><br /><br />I originally planned to make WinRTP-MIDI a <a href=\"http://msdn.microsoft.com/en-us/library/gg597391.aspx\">portable</a> library. However, the WinRT API is vastly different from any other .Net subset, so my priority is now to make it work efficiently on Windows RT.<br /><br />I have create a very basic virtual piano keyboard App (available in the source code). At this stage, I&#39;m experiencing dropped notes but I think this is not a problem in the library but just in the way I handle events from the virtual keyboard.<br /><br />During this phase, I&#39;m assessing interest and feedback from the community and evaluating the feature set of the library. <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MIDI,RTP-MIDI,AppleMIDI,CoreMIDI,WinRT,",
+  "LastEdited": "2013-09-30T06:25:44.93-07:00"
+}

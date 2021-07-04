@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TimePicker",
+  "Title": "ASP.NET TimePicker Control",
+  "Description": "An AJAX enabled ASP.NET time picker control that resembles the windows time that is displayed in the taskbar of XP. Behaves much the same way.\nWorks well in conjunction with a datepicker control for appointment settings.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An AJAX enabled ASP.NET time picker control that resembles the windows time that is displayed in the taskbar of XP. Behaves much the same way.<br />Works well in conjunction with a datepicker control for appointment settings.<br /><br />See Demo&#39;s and Documentation here: <a href=\"http://www.MichaelKBell.com/TimePicker\">http://www.MichaelKBell.com/TimePicker</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TimePicker,Time Picker,ASP.NET Time Picker,Time Picker Control,",
+  "LastEdited": "2009-05-14T13:41:45.37-07:00"
+}

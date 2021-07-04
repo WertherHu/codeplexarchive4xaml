@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ClaGraMan",
+  "Title": "Class Grades Manager",
+  "Description": "A simple class records management app for teachers/professors inspired by Metro UI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple class records management app for teachers&#47;professors inspired by Metro UI.<br /><br />I will be moving this project to GitHub: <a href=\"https://github.com/anjelo/class-grades-manager\">https://github.com/anjelo/class-grades-manager</a><br /><br />Originally a small project back in my school days. I&#39;ve decided to release the source to public so that lots of improvements could me made.<br /><br />Actually, a professor of mine asked me to make a software (<i>which became this one</i>) for him so that he can handle the grades of a bit huge amount of classes he handle every semester.<br /><br />This project has still got some (or a lot) bugs so you may contribute by posting an issue.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-08-16T09:24:15.34-07:00"
+}

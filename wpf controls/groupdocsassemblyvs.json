@@ -1,0 +1,9 @@
+{
+  "ProjectName": "groupdocsassemblyvs",
+  "Title": "GroupDocs.Assembly Visual Studio Plugin",
+  "Description": "This plugin will download all the GroupDocs.Assembly examples from the source control for you.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This plugin will download all the GroupDocs.Assembly examples from the source control for you.<br />This plugin is providing an ease to compile GroupDocs.Assembly for .NET 3.0.0 examples. It has reduced the efforts to download examples and DLL file from different resources. <br /><br /><b>Features</b><br /><br />Plugin accommodates the user with following features/steps<br /><br />- Automatically download GroupDocs.Assembly DLL file<br />- Add GroupDocs.Assembly reference automatically <br />- Clone/download example from GitHub for you<br />- Gives you option to open a project (CSharp or Visual Basic)<br />- Supports Visual Studio 2010, 2012 and 2013<br />You may need to add Newtonsoft.Json.DLL as reference in order to build any of the project (C# or VB).<br /><br />See how to install the plugin via <a href=\"https://www.youtube.com/watch?v=2s_J_S7KT3A&amp;index=8&amp;list=PLoVseBOSg-uSEP60J5VA0gfm8I93KsQBF\">video demonstration</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Plugin,Visual Studio Plugin,GroupDocs,GroupDocs.Assembly,",
+  "LastEdited": "2016-04-13T00:09:08.177-07:00"
+}

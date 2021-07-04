@@ -1,0 +1,9 @@
+{
+  "ProjectName": "biztalkhl7toolkit",
+  "Title": "BizTalk HL7 Toolkit",
+  "Description": "The BizTalk HL7 Toolkit allows for easier development and monitoring of HL7 interfaces. The toolkit contains updated additional HL7 pipeline components, Audit Trail Pipeline Components, a MLLP monitoring web user control, and an Exception monitoring service. Developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />The BizTalk HL7 Toolkit allows for easier development and monitoring of HL7 interfaces. The toolkit contains updated additional HL7 pipeline components, Audit Trail Pipeline Components, a MLLP monitoring web user control, and an Exception monitoring service. Developed in C&#35;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Monitor,",
+  "LastEdited": "2009-09-02T07:23:45.93-07:00"
+}

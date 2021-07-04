@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfsbugger",
+  "Title": "TfsBugger",
+  "Description": "WPF app that automatically monitors Team Foundation Server for updates to work items, source control, and continuous integration builds.  Allows the creation of custom components for automatic monitoring using user-specified WIQL queries, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Tfs Bugger <br /><br />Designed especially for those of us who deal with TFS on a daily basis, but don&#39;t have system administrators nice enough to set up luxuries like event publishing/subscription services and notifications.  This app will (eventually) get rid of the irritating need to always manually refresh your work item list, and will notify you when any relevant check-ins have been performed (as well as the results of the CI builds those check-ins launch).  <br /><br />This project is still in the extremely early incubator phase, and is obviously not close to being ready for primetime.  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-02-17T01:09:08.48-08:00"
+}

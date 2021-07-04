@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightExtension",
+  "Title": "Silverlight Extension (C#)",
+  "Description": "This is part of a series on implementing Extension methods in Silverlight using C#. This project covers different examples on using Extension methods in Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project includes simple Extension class that validates email and returns a Boolean value.<br /><br />See <a href=\"http://silverlighttips.com/?tag=/silverlight+extension\">http://silverlighttips.com/?tag=/silverlight+extension</a> for details and tutorial on this project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-06T04:49:29.773-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TheOliverControls",
+  "Title": "TheOliver.Controls",
+  "Description": "A collection of easy to use controls in blend for Designer: Coverflow, FishEye and ImageGrids.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The Project &quot;TheOliver.Controls&quot; is a library of controls for Silverlight 3 and 4 build on Visual Studio 2010. <br />All controls are visible a design-time in Blend and Visual Studio.<br /><br />It currently contains the following controls: <br />- An easy to use Analog Clock<br />- A nice Clip Clap Control (see Image)<br />- A memory control, to check the the memory usage at runtime<br /><br />Planned controls<br />- Coverflow<br />- tbd.<br /><br /><img src=\"/projects/TheOliverControls/db15ba9a-82d9-4a48-b6ec-4f4e1d52ff20\" alt=\"AnalogClock.png\" title=\"AnalogClock.png\" /><br /><br /><img src=\"/projects/TheOliverControls/4165334d-db72-4d15-98b9-e33cd38236af\" alt=\"ClipClapControls.png\" title=\"ClipClapControls.png\" /><br /><br />You can see the controls in action here: <a href=\"http://os75.com/controls/samples.html\">http://os75.com/controls/samples.html</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Clock,Controls,Silverlight,Control,",
+  "LastEdited": "2010-02-12T02:30:40.943-08:00"
+}

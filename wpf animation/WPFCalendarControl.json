@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFCalendarControl",
+  "Title": "Calendar Control in WPF",
+  "Description": "WPF Calendar Control is a calendar control to be used inside your WPF Applications. Since the code provided by the toolkit and the other controls are tooo techy, I have created a very simplified version. Please enjoy.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Calendar Control is a calendar control to be used inside your WPF Applications. Since the code provided by the toolkit and the other controls are tooo techy, I have created a very simplified version. Please enjoy.<br /><br />The WPF Calendar Control is ready to use Calendar Control to be used in WPF Applications. I have used a very very simple version of Xaml and binding so that people can understand the logic as well. I have not put various changes like routed events etc, which you normally find in a WPF control developed by the pundits. But I am not an expert. Just want to share the project so that novice people like me don&#39;t have to search the web and spend number of hours just to find a calendar control and understand the code behind it. <br /><br />Thanks,<br />Vikas<br /><a href=\"http://excelnoob.blogspot.com\">Please visit my Blog</a><br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Calendar Control,VB.Net,Date Picker,WPF,",
+  "LastEdited": "2009-05-22T04:24:22.493-07:00"
+}

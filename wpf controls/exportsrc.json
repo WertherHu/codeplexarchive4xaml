@@ -1,0 +1,9 @@
+{
+  "ProjectName": "exportsrc",
+  "Title": "Export Src",
+  "Description": "Exports source tree and removes all crappy files such as binary files and source control (bin, obj, dll, exe, tfs binding, svn, git, mercurial, etc.)",
+  "MovedLink": "https://github.com/meziantou/exportsrc",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Exports source tree and removes all crappy files such as binary files and source control &#40;bin, obj, dll, exe, tfs binding, svn, git, mercurial, etc.&#41;<br /><br />Notables points of interest are:\n<ul><li>Possibility to filter files and folders that will be copied</li>\n<li>Can remove Tfs (Team Foundation Server) binding</li>\n<li>Can exclude generated files</li>\n<li>Can validate copied files with Md5 sum</li>\n<li>Can keep symbolic links</li>\n<li>Can replace files added as link in Visual Studio by &quot;local&quot; copy of files.</li>\n<li>Save your configuration in a simple XML file in order to reuse it later</li>\n<li>Search &amp; Replace text (file name, folder name, file content)</li>\n<li>Remove some project from sln files</li></ul>\n<br />2 Ways of using it\n<ul><li>Graphical interface</li>\n<li>Console Application</li></ul>\n<br /><img src=\"/projects/exportsrc/13c036ed-2ff9-4d43-a5e5-a9f141ebe70b\" alt=\"capture&#32;1.png\" title=\"capture&#32;1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-03T08:21:43.36-07:00"
+}

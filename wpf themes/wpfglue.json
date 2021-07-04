@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfglue",
+  "Title": "WPFGlue Code Base",
+  "Description": "Access the reference code and examples for WPFGlue. WPFGlue is a programming strategy for WPF based on the idea of adding little bits and pieces that glue existing models and out-of-the-box WPF controls together in order to create complete applications.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Access the reference code and examples for WPFGlue. WPFGlue is a programming strategy for WPF based on the idea of adding little bits and pieces that glue existing models and out-of-the-box WPF controls together in order to create complete applications.<br /><br /><br /><br />WPFGlue has been developed on <a href=\"http://wpfglue.wordpress.com\">http://wpfglue.wordpress.com</a> and will continue to live there. This project will contain the code base of WPFGlue and all example code.<br /><br />WPFGlue is not intended to be a ready to use library, but rather a collection of running examples for techniques you might want to implement in your own projects. However, if you want to use it as it is, feel free to do so...</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-04-26T00:24:50.843-07:00"
+}

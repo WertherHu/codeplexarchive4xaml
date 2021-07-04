@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfprismstarterkit",
+  "Title": "WPF Prism Starter Kit",
+  "Description": "The goal of this project is to deliver a partitioned project skeleton to use prism with WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nThe goal of this project is to deliver a partitioned project skeleton to use prism with WPF.</p>\r\n<p>The first release is simple and&nbsp;implement a &quot;Splash Screen&quot; in a separated module.</p>\r\n<p>The next steps will offer sample, but well defined&nbsp;implementations for classical application layers&nbsp;and features as service, data access, security, cache...&uml;<br>\r\n<br>\r\n<img src=\"http://buginbox.files.wordpress.com/2012/08/splash1.png\" alt=\"\" width=\"300\" height=\"180\"><br>\r\n<br>\r\n<img src=\"http://buginbox.files.wordpress.com/2012/08/main1.png\" alt=\"\" width=\"400\" height=\"300\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Prism,Starter Kit,",
+  "LastEdited": "2012-08-23T07:45:50.5-07:00"
+}

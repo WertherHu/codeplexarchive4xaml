@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hisaab",
+  "Title": "Hisaab",
+  "Description": "Hisaab is a personal finance manager. It is aimed to provide management for home budget. Using advanced UI feature like Office ribbons and Outlook.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h3>Project Description</h3>\r\n<p><strong>&nbsp;</strong><br>\r\nHisaab is a personal finance manager. It is aimed to provide management for home budget. Using advanced UI feature like Office ribbons and Outlook style navigation.</p>\r\n<p>&nbsp;</p>\r\n<p>Current releases support basic transaction editing features. Please see the future plans for the produt.</p>\r\n<h3>Screenshots</h3>\r\n<h4>Main Screen</h4>\r\n<h4><a href=\"http://download.codeplex.com/Download?ProjectName=hisaab&DownloadId=318283\"><img title=\"1\" src=\"http://download.codeplex.com/Download?ProjectName=hisaab&DownloadId=318284\" border=\"0\" alt=\"1\" width=\"644\" height=\"400\" style=\"padding-left:0px; padding-right:0px; display:inline; padding-top:0px; border:0px\"></a></h4>\r\n<p><strong>Transaction View</strong>&nbsp;</p>\r\n<p><a href=\"http://download.codeplex.com/Download?ProjectName=hisaab&DownloadId=318285\"><img title=\"2\" src=\"http://download.codeplex.com/Download?ProjectName=hisaab&DownloadId=318286\" border=\"0\" alt=\"2\" width=\"644\" height=\"283\" style=\"padding-left:0px; padding-right:0px; display:inline; padding-top:0px; border:0px\"></a></p>\r\n<p><strong>Features Planned</strong></p>\r\n<ol>\r\n<li>Import bank data </li><li>Bills </li><li>Targets </li><li>Budget Planning and forecast </li><li>&#65279;&#65279;&#65279;Multiple currency support </li></ol>\r\n<p>Please feel free to suggest any feature you want as part of this product</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "finance,C# 4.0,Prism,MVVM,Ribbon,Fluent,",
+  "LastEdited": "2012-02-11T13:02:28.303-08:00"
+}

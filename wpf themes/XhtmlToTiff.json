@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XhtmlToTiff",
+  "Title": "Xhtml To Tiff",
+  "Description": "Convert XHTML input to XAML, XPS and TIFF output.\n\nDeveloped in C# with a WPF user interface following the MVVM pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Convert XHTML input to XAML, XPS and TIFF output.<br /><br />Developed in C&#35; with a WPF user interface following the MVVM pattern.<br /><br />Sample UI and output: <a href=\"http://cricketsoft.com/SampleConversion.aspx\">http://cricketsoft.com/SampleConversion.aspx</a><br /><br />This project was created in response to a question on the StackOverflow site.<br /><a href=\"http://stackoverflow.com/questions/493164/what-page-image-generating-technology-should-i-use/558743#558743\">http://stackoverflow.com/questions/493164/what-page-image-generating-technology-should-i-use/558743#558743</a><br /><br />Author: <a href=\"mailto:tom.allen@cricketsoft.com\">Tom Allen</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-29T11:01:25.93-07:00"
+}

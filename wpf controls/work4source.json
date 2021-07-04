@@ -1,0 +1,9 @@
+{
+  "ProjectName": "work4source",
+  "Title": "Find Work Items For Source Items (Visual Studio Extension)",
+  "Description": "work4source is a Visual Studio 2010 tool window which finds and lists all TFS work items associated with a specific source control file or folder, avoiding the need to view the details for every changeset. \r\n\r\nIt also includes \"versioned item\" links which otherwise cannot be found from the source side of the link using Visual Studio.\r\n\r\nTo install run the VSIX package, restart Visual Studio, then select View --> Other Windows --> \"Find Work Items for Source Items\" and either leave the window floating or dock it (horizontally at the bottom works well).\r\n\r\nDeveloped in C# using the Microsoft Visual Studio 2010 SDK SP1 c.f. http://www.microsoft.com/download/en/details.aspx?id=21835",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />work4source is a Visual Studio 2010 tool window which finds and lists all TFS work items associated with a specific source control file or folder, avoiding the need to view the details for every changeset. <br /><br />It also includes &#34;versioned item&#34; links which otherwise cannot be found from the source side of the link using Visual Studio.<br /><br />To install run the VSIX package, restart Visual Studio, then select View --&#62; Other Windows --&#62; &#34;Find Work Items for Source Items&#34; and either leave the window floating or dock it &#40;horizontally at the bottom works well&#41;.<br /><br />Developed in C&#35; using the Microsoft Visual Studio 2010 SDK SP1 c.f. http&#58;&#47;&#47;www.microsoft.com&#47;download&#47;en&#47;details.aspx&#63;id&#61;21835<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-15T05:25:00.51-07:00"
+}

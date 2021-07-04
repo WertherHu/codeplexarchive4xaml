@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pegasys",
+  "Title": "Pegasys Automation Systems",
+  "Description": "Pegasys Automator simplifies small to medium deployments where the scale does not justify programming labour, IT Support or investment in software licenses.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Pegasys Automation Systems: The Concept Of Simple</strong></p>\r\n<p>Batch scripts are among one of the simplest languages for getting jobs done in modern computers. You&nbsp;might think that with modern languages such as Visual Basic or PowerShell that the simple batch script might be extinct, but batch has one unique advantage:\r\n It's universal.<br>\r\n<br>\r\nEvery machine from Windows XP to Windows&nbsp;10 can use batch scripts, no additional clients or libraries required. That's why we use batch scripts as the basis for our applications.\r\n<br>\r\n<br>\r\nBatch scripts can be quite useful in a production environment as the simplicity of editing a batch script with Notepad can save the day, compared to having to rebuild, compile or debug a more complicated language.</p>\r\n<p>Update: Windows 10 support is here, very little has changed. Progress has been slow due to a recent drive failure. We have reconstructed as much as we could and continued development. A new NSI facelift is in the works.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-08-11T21:32:05.61-07:00"
+}

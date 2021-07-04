@@ -1,0 +1,9 @@
+{
+  "ProjectName": "seleniumRecorder",
+  "Title": "Selenium Recorder",
+  "Description": "This application is to help building Page object model while doing automation of web application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Selenium Recorder</h1>\r\nIf you are using selenium webdriver for automation of Web Application. It is always tedious task to create page object model or page factory. You have to inspect and search properties for controls.<br /><br />and in some cases, if automation ID is not present, which generally happens, it is difficult to decide what is the best ways to identify controls.<br /><br />To tackle these issue, I have create a WPF application which will help you generate POM or Page factory. <br /><br />You just need to load your application, select controls you want to include and cilck on generate button, like we do in CODED UI Test Builder.<br /><br />Getting started video is available now. Please click below for tutorial: <br /><br /><a href=\"https://youtu.be/vFw8bjzdfU8\">https://youtu.be/vFw8bjzdfU8</a><br /><br />We have moved to GIT HUB now. Please find below link.<br /><br /><a href=\"https://github.com/bathindavarinder/seleniumrecorder\">https://github.com/bathindavarinder/seleniumrecorder</a><br /><br />Blog Post :<br /><br /><a href=\"http://seleniumrecorder.blogspot.com/\">http://seleniumrecorder.blogspot.com/</a><br /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-05-05T09:43:48.757-07:00"
+}

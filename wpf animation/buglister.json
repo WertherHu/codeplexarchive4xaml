@@ -1,0 +1,9 @@
+{
+  "ProjectName": "buglister",
+  "Title": "BugLister",
+  "Description": "BugLister is a simple program that helps listing and sorting bugs by type or levels of importance.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b><u>I Would be happy to recieve suggestions for features or improvments :)</u></b><br /><br /><b>Project Description</b><br /><br />BugLister is a simple program that helps listing and sorting bugs by type or levels of importance.<br /><br /><b>Current Features</b>\n<ul><li>Save &amp; Load bugs</li>\n<li>Enumerate bugs</li></ul>\n<br /><b>TODO List</b>\n<ul><li>Add a user-key system to indicate who found a bug or fixed it</li>\n<li>Save &amp; Load list on remote server</li></ul>\n(Not necessarily in that order)<br /><br /><img src=\"/projects/buglister/043fe582-c77d-480f-9700-f1363f11f6a2\" alt=\"Untitled.png\" title=\"Untitled.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,",
+  "LastEdited": "2012-05-23T06:43:39.94-07:00"
+}

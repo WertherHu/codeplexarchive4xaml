@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wcfdblogger",
+  "Title": "WCF Database Message logger suite",
+  "Description": "The WCF Database message logger is a service and client behavior. Which'll log incoming and outgoing message to a database. The database format is inspired by Enterprise Logging but more tailermade just for message logging. The centralized feature is correlation between messages.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The WCF Database message logger is a service and client behavior. Which&#39;ll log incoming and outgoing message to a database. The database format is inspired by Enterprise Logging but more tailermade just for message logging. The centralized feature is correlation between messages.<br /><br /><b>Features</b><br />It&#39;s first goal is to provide sourcecode in environments where there are multiple (WCF)services. It&#39;s possible to log the messages directly to the database or to log the messages via a service. (This is usefull if you also want to have your messagelogtraffic via the ESB.) The suite is also going to be provided with a messagelogviewer based on WCF Dataservices.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WCF,Logging,",
+  "LastEdited": "2012-01-30T05:31:12.553-08:00"
+}

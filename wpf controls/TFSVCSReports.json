@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TFSVCSReports",
+  "Title": "TFS.VCS.Reports",
+  "Description": "TFS.VCS.Reports is a command-line tool which is used to generate version control reports from TFS 2010. The generated report contains a list of changesets for a specified server path, range and related merges.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />TFS.VCS.Reports is a command-line tool which is used to generate version control reports from Team Foundation Server 2010. The generated report contains a list of changesets for a specified server path and range.<br /><br />The tool can also traverse the merge relationships for all changesets in the specified scope across all branches and include the related changesets in the output report.<br /><br />Upon execution the TFS.VCS.Reports tool generates an XML data file and can optionally generate an HTML report using either the built-in or custom XSLT template.<br /><br />The following is a sample branch hierarchy:<br /><br /><img src=\"/projects/TFSVCSReports/31b4db97-f288-495f-8a76-390f6e1a0127\" alt=\"Sample&#32;Branch&#32;Hierarchy.png\" title=\"Sample&#32;Branch&#32;Hierarchy.png\" /><br /><br />In the example above, the tool can be used to generate a list of all changes (changesets) in “Main” for a particular release using labels to limit the scope. The report can also include all related changesets from other branches, which have been merged into the specified release.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-08T16:58:57.96-08:00"
+}

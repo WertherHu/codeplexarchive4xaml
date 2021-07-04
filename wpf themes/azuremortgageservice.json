@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azuremortgageservice",
+  "Title": "Azure Mortgage Service",
+  "Description": "Azure Mortgage Service is a WCF-based service that calculate mortgage schedules that is cloud-hostable in Azure. It includes a WPF-based client to test the service and view the mortgage schedules the service produces.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Azure Mortgage Service is a WCF-based service that calculate mortgage schedules that is cloud-hostable in Azure. It includes a WPF-based client to test the service and view the mortgage schedules the service produces.<br /><br /><img src=\"/projects/azuremortgageservice/54d3d619-60e5-4927-95aa-11a884949596\" alt=\"MortgageService.jpg\" title=\"MortgageService.jpg\" /><br /><br />A community donation of Neudesic.<br />http://www.neudesic.com<br /><br />For support, contact David Pallmann<br />http://davidpallmann.blogspot.com<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure,Neudesic,",
+  "LastEdited": "2009-05-04T21:36:44.267-07:00"
+}

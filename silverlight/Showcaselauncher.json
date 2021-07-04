@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Showcaselauncher",
+  "Title": "Silverlight Showcase Launcher",
+  "Description": "A nice way to provide a showcase system with Silverlight technology. It will show the diferent options in a coverflow 3D fashion & launch an URL when clicked.\nIt also supports automatic mode for the lazy people & unnatended operation. \n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Silverlight Showcase Launcher is a simple &amp; efficient way to display a showcase.<br /><br />It was made for the TechEd Europe 2010 Silverlight Booth &amp; you can try it out here: http://www.brainsiders.com//TEE2010/SLShowcase/default.html<br /><br />Credits!<br />It uses some code from the Bouncing Plane Demo (from Henry Han see: http://blogs.msdn.com/b/henryh/archive/2009/03/20/mix09-the-gratuitous-graphics-demo.aspx ) <br />For the Horizontal Carousel I’ve used the Flow Layouts Library, see http://slflow.codeplex.com/,  from Simon Ferquel.<br />Also, for the circular animation I have used the smart technique conceived by John Bruin - http://www.johnbruin.net/index.php/category/silverlight/ - Thanks John!<br /><br />Happy coding</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-09T21:42:46.27-08:00"
+}

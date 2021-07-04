@@ -1,0 +1,9 @@
+{
+  "ProjectName": "7segledcontrol",
+  "Title": "7-Segment LED Numeric Displayer",
+  "Description": "A cool segmented LED displayer that is similar to the LEDs used in alarm clocks and industry monitors. This control can be used to display time, numerical values and even some English characters.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A cool segmented LED displayer that is similar to the LEDs used in alarm clocks and industry monitors. This control can be used to display time, numerical values and even some English characters.<br /><br />For related informations, please see http://www.codeproject.com/KB/miscctrl/SegmentedLEDControl.aspx. The code on the codeproject will not be updated. The latest version will be available on codePlex.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 2.0,winforms,Controls,LED,7-segment,",
+  "LastEdited": "2008-05-11T00:51:44.583-07:00"
+}

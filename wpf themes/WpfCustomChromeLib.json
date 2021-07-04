@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfCustomChromeLib",
+  "Title": "WpfCustomChromeLibrary",
+  "Description": "WpfCustomChromeLibrary makes it easier to create WPF applications with custom chrome and caption buttons (min/max/close).  You'll no longer have to do all the dirty work yourself in each application where you want a custom chrome.  It's developed in XAML and C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WpfCustomChromeLibrary makes it easier to create WPF applications with custom chrome and caption buttons &#40;min&#47;max&#47;close&#41;.  You&#39;ll no longer have to do all the dirty work yourself in each application where you want a custom chrome.  It&#39;s developed in XAML and C&#35;.<br /><br />This project uses the WPF Shell Integration Library (<a href=\"http://code.msdn.microsoft.com/WPFShell\">http://code.msdn.microsoft.com/WPFShell</a>) as a basis for creating windows with custom chrome (WindowStyle=&quot;None&quot;), but maintaining  standard window title bar functionality, such as double-click to maximize, right-click for system menu, resize by dragging any edge or corner, etc.<br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-23T16:48:41.367-08:00"
+}

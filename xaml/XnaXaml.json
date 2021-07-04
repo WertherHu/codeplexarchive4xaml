@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XnaXaml",
+  "Title": "XnaXaml",
+  "Description": "XnaXaml allows you to add a XAML file to your Content Pipeline in XNA and edit straight from Visual Studio.  It then takes the XAML file and parses through it to create mock objects that can be used to render controls to the screen in XNA.  These mock objects can also be used to pass data to any GUI system you choose.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XnaXaml allows you to add a XAML file to your Content Pipeline in XNA and edit straight from Visual Studio.  It then takes the XAML file and parses through it to create mock objects that can be used to render controls to the screen in XNA.  These mock objects can also be used to pass data to any GUI system you choose.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-01T06:33:12.667-07:00"
+}

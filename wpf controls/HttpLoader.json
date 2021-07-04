@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HttpLoader",
+  "Title": "HttpLoader",
+  "Description": "This is a Wpf based tool to stress test a number of urls via WebRequest WebResponse calls measuring the response times and inspecting the behaviour of the calle",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a Wpf based tool to stress test a number of urls via WebRequest WebResponse calls measuring the response times and inspecting the behaviour of the called application(s). Aimed for any web application development saying response times must never exceed x seconds.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "LoadBalancing,WebRequest,WebResponse,",
+  "LastEdited": "2016-02-11T05:58:02.49-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mocontrols",
+  "Title": "MoControls - XNA 4 GUI Controls Library",
+  "Description": "XNA 4 GUI Controls Library aimed to simplify porting of a XNA 4.0 GUI interface to various platforms.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">MoControls is an XNA 4.0 GUI Library for graphic software and games. Although not directly a fork from Tom Shane&#39;s Neoforce Controls for XNA 3/4, it&#39;s havily inspired from and contains parts of its sourcecode. <br /><br /><b>The goal of the library is:</b><br />\n<ul><li>Make easy to develop a game or a software that uses DirectX graphics for the small developer</li>\n<li>Allow the use of skins to redesign controls</li>\n<li>Allow the extention of the code</li>\n<li>Allow the portability of the code over Windows, Windows Phone 7 and XBOX</li></ul>\n<br /><b>Requirements</b><br />\n<ul><li>DirectX 9</li>\n<li>XNA 4</li>\n<li>Windows Phone 7.1 SDK</li>\n<li>Visual Studio 2010</li></ul>\n<br />Visual Studio Express will probably suits well for compiling the projects. Also, a Visual Studio edition designed to develop Windows Phone 7 apps will be installed with the Windows Phone 7 SDK.<br /><br /><br /><br /><i>The library is developed using spare time from my work and life, so the avalaibility of updates will change from time to time</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-11T10:40:35.227-07:00"
+}

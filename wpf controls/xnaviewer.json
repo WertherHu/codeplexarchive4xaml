@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xnaviewer",
+  "Title": "XNAViewer",
+  "Description": "XNAViewer is an easy to use Control for running XNA games in Windows Forms without issues. Perfect for game content editors / map makers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>How To Use</h3>\rIt works just like any other Control. Simply add it to your Toolbox and place it on your form.<br /><br />The 4.0 .Net Framework also requires a runtime specification &quot;App.config&quot; file which can be copied from the example.<br /><br />When your program is ready to start your game use the function &quot;.RunGame(&lt;your game here&gt;);&quot;<br />XNAViewer will do all the hard work for you!<br /><br />Other self-explanatory functions are:<br />.PauseGame();<br />.ResumeGame();<br />.StopGame();<br />\n<h3>Download</h3>\rXNA 4.0: <a href=\"http://xnaviewer.codeplex.com/releases/view/61964#DownloadId=213358\">http://xnaviewer.codeplex.com/releases/view/61964#DownloadId=213358</a><br />XNA 3.1: <a href=\"http://xnaviewer.codeplex.com/releases/view/31475#DownloadId=78969\">http://xnaviewer.codeplex.com/releases/view/31475#DownloadId=78969</a><br />\n<h3>About</h3>\rXNAViewer is an easy to use Control for running XNA games in Windows Forms without issues. Perfect for game content editors &#47; map makers.<br />Written using C# .Net 3.5 by Mark Bamford.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,Windows Forms,Controls,C#,XNA Libraries,.NET,XNA Game Component,",
+  "LastEdited": "2011-03-03T15:48:43.21-08:00"
+}

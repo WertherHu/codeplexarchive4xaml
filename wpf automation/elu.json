@@ -1,0 +1,9 @@
+{
+  "ProjectName": "elu",
+  "Title": "ELU - Embedded Link Updater",
+  "Description": "Embedded Link Updater (ELU) is a simple tool for updating embedded links in Microsoft Office and other document types.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The purpose of this project is to create a simple application that updates embedded link references in Office documents such as Word, Excel and PowerPoint to name a few.<br /><br />Another goal of the project is to be extensible to easily support other file types such as Adobe PDF.<br /><br />This tool could be useful when documents are migrated to new server infrastructure and require the embedded links to be updated to reflect the new server details. Another use could be for documents that are migrated into SharePoint and require the embedded links to be updated.<br /><br />Visual Studio 2010 is currently used for the development.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Microsoft Office,Embedded Link Update,WinForm UI,Visual Studio 2010,interop,Office Automation,",
+  "LastEdited": "2012-08-15T20:34:18.197-07:00"
+}

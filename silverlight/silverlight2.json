@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlight2",
+  "Title": "Silverlight Globalization & Localization",
+  "Description": "The purpose  is to outline a Globalization strategy that can be used by Silverlight 2.0 applications. Globalization is the design and development of applications that support localized user interfaces and regional data for users in multiple cultures.\nVS2008 C# ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The purpose  is to outline a Globalization strategy that can be used by Silverlight 2.0 applications. Globalization is the design and development of applications that support localized user interfaces and regional data for users in multiple cultures.<br />VS2008 C&#35; <br /><br /><br />The purpose of this document is to outline a Globalization strategy that can be used by Silverlight 2.0 applications. Globalization is the design and development of applications that support localized user interfaces and regional data for users in multiple cultures<br />\tGlobalization is the design and development of applications that support localized user interfaces and regional data for users in multiple cultures. A user can be located anywhere in the world, especially for applications that can be accessed publicly on the Internet. <br />\tLocalization is the customization of applications for a given culture or locale. Localization consists primarily of translating the user interface into the language of a particular culture or locale. Localizing an application involves creating a separate set of resources (such as strings and images) that are appropriate for the users of each targeted culture or locale and that can be retrieved dynamically depending on the culture and locale. <br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,globalization,localization,Silverlight 2.0,Silverlight NPE,",
+  "LastEdited": "2009-02-12T22:02:54.85-08:00"
+}

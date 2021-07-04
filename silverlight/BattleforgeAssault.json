@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BattleforgeAssault",
+  "Title": "Battleforge: Assault",
+  "Description": "A card battle game.\n\nThis project is being built using Silverlight 4 in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A card battle game.<br /><br />This project is being built using Silverlight 4 in C&#35;.<br /><br />Currently the project is really just an exercise in learning Silverlight and C# using a fun but complex game as the base. Once the framework is in place, most of the work will be writing the individual cards. If you are not a member of the development team and happened to stumble your way here looking for something useful, I would suggest moving on for now. That is unless you have a very strong desire to work with a couple lax devs who may never have anything really working and spend more time talking architecture than getting things done. If that&#39;s you, feel free to contact Bejumi for more info on the project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-27T07:58:12.773-08:00"
+}

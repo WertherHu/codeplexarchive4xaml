@@ -1,0 +1,9 @@
+{
+  "ProjectName": "picfx",
+  "Title": "PicFx – Windows Phone Picture Effects Application",
+  "Description": "PicFx is a Windows Phone application for photo effects. The user can choose an image from the picture library or take a picture with the camera. Then an effect can be applied and the result can be saved to the media library.\nThe effects include B& W, Sepia, Tilt Shift and Vintage",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rPicFx is a Windows Phone application for photo effects. The user can choose an image from the picture library or take a picture with the camera. Then an effect can be applied and the result can be saved to the media library.<br />The UI uses the Pivot template.<br />The effects include Black &amp; White, Sepia, Tilt Shift (miniature faking) and Vintage.<br /><br />This project has its root in a <a href=\"http://channel9.msdn.com/coding4fun/articles/PicFx--Windows-Phone-Picture-Effects-Application--Part-1\">Coding4Fun article</a> that explains how to write this application.<br />\n<h1>Video</h1>\rThis <a href=\"http://vimeo.com/13587494\">video</a> demonstrates the features and shows how the application can be used.<br />\n<h1>Credits</h1>\r<a href=\"http://rene-schulte.info\">Ren&#233; Schule</a> coder and coordinator of this project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wp7,",
+  "LastEdited": "2011-02-01T01:15:26.427-08:00"
+}

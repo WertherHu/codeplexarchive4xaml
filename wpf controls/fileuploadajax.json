@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fileuploadajax",
+  "Title": "Fileupload AJAX",
+  "Description": "As it sounds: a FileUpload control with AJAX behavior... and much more new functionalities",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>FileUploadAJAX</b> is an ASP.NET custom control that is similar to the predefined FileUpload control but with a key difference: AJAX behavior.<br /><br />And what does this means? This means that with the FileUploadAJAX we can upload files in an asynchronous way and without reloading the page... that&#39;s all!<br /><br />Furthemore there are a lot of configuration options.<br /><br />Please, visit the <a href=\"http://en.fileuploadajax.subgurim.net\">official site</a> to learn how to use the control.<br /><br /><b>Message for developers</b><br />All contributions are welcome, specially fixing bugs, documenting, applying patches and suggesting new features. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,ASP.NET,Controls,upload,webcontrols,fileupload,File Upload,Fileupload AJAX,AJAX.net,pkgod,FileUploader Ajax,",
+  "LastEdited": "2007-10-31T17:23:48.777-07:00"
+}

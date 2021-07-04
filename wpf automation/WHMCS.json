@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WHMCS",
+  "Title": "WHMCS Library",
+  "Description": "WHMCS is an all-in-one client management, billing & support solution for online businesses. Handling everything from signup to termination, WHMCS is a powerful business automation tool that puts you firmly in control.\r\n\r\nThe WHMCS Library is a .NET wrapper for the WHMCS API. Written entirely in C# but really easy to port over to VB.NET. \r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WHMCS is an all-in-one client management, billing &#38; support solution for online businesses. Handling everything from signup to termination, WHMCS is a powerful business automation tool that puts you firmly in control.<br /><br />The WHMCS Library is a .NET wrapper for the WHMCS API. Written entirely in C&#35; but really easy to port over to VB.NET. <br /><br /><br /><br /><br />The WHMCS API is quite extensive so we plan to initially cover just the Customer, Invoices and Order API calls. If anyone feels like contributing other parts of the API then please let me know. The more help the better :)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-15T05:44:51.41-07:00"
+}

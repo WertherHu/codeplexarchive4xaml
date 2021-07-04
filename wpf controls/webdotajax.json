@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webdotajax",
+  "Title": "Web.Ajax",
+  "Description": "Web.Ajax is an AJAX library for the .NET framework.\r\nIt is designed to make it easy to add ajax functionality to an application. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Web.Ajax</h1>\rAn easy to use AJAX library for .Net. \n<ul><li><a href=\"https://webdotajax.codeplex.com/wikipage?title=Ajax%20Functionality&referringTitle=Home\">Ajax Functionality</a> (using static Ajax methods)</li>\n<li><a href=\"https://webdotajax.codeplex.com/wikipage?title=Ajax%20Functionality%20%28using%20interfaces%20and%20Inversion%20of%20Control%29&referringTitle=Home\">Ajax Functionality &#40;using interfaces and Inversion of Control&#41;</a></li>\n<li><a href=\"https://webdotajax.codeplex.com/wikipage?title=Json&referringTitle=Home\">Json</a></li></ul>\nFeatures a set of AJAX enabled controls including the following\n<ul><li><a href=\"https://webdotajax.codeplex.com/wikipage?title=Ajax%20Grid&referringTitle=Home\">Ajax Grid</a> </li>\n<li><a href=\"https://webdotajax.codeplex.com/wikipage?title=Ajax%20Tree&referringTitle=Home\">Ajax Tree</a></li>\n<li><a href=\"https://webdotajax.codeplex.com/wikipage?title=Popup%20Window&referringTitle=Home\">Popup Window</a></li>\n<li><a href=\"https://webdotajax.codeplex.com/wikipage?title=Popup%20Menu&referringTitle=Home\">Popup Menu</a></li>\n<li><a href=\"https://webdotajax.codeplex.com/wikipage?title=Tab%20Strip&referringTitle=Home\">Tab Strip</a></li></ul>\n <br /><br />Works with Asp.Net 4.0 Web Form Applications.<br /><br />Not suitable for MVC framework applications.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,Framework,Library,Web,Inversion of Control,Json,",
+  "LastEdited": "2013-01-12T08:15:19.473-08:00"
+}

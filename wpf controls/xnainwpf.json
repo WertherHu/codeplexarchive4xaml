@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xnainwpf",
+  "Title": "XNA in WPF",
+  "Description": "WPF Canvas component that allows hosting and presentation of an XNA window from within WPF applications.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XNA in WPF<br /><br />This is a public posting of the CodeProject <a href=\"http://www.codeproject.com/Articles/38301/XNA-integration-inside-WPF\">XNA integration inside WPF</a>, and <a href=\"http://jacobsgriffith.com/CodeProject/XnaInWpf.zip\">further extended</a> by Jacob Griffith to work in XNA 4.0.<br /><br />I&#39;ve added some additional code to handle HiDef resources.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-30T09:29:42.173-08:00"
+}

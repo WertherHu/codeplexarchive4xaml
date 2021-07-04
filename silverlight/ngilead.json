@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ngilead",
+  "Title": "NGilead",
+  "Description": "NGilead permits you to use your NHibernate POCO (and especially the partially loaded ones) outside the .NET Virtual Machine (to Silverlight for example...) without pain. \r\nNo lazy initialisation or serialization exception. Just POCO and Domain Driven Design :) !",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Overview</h2>\rNGilead permits you to use your NHibernate POCO &#40;and especially the partially loaded ones&#41; outside the .NET Virtual Machine &#40;to Silverlight for example...&#41; without pain. <br />No lazy initialisation or serialization exception. Just POCO and Domain Driven Design &#58;&#41; &#33;<br /><br />NGilead is the port of the <a href=\"http://gilead.sourceforge.net\">Gilead</a> library, used in Java world to send Hibernate entities from server to client side (Flex, GWT, ...).<br />\n<h2>Development team</h2>\rNGilead has been developed by Bruno Marchesson, author of the Java library, the <a href=\"https://ngilead.codeplex.com/wikipage?title=Berger-Levrault&referringTitle=Home\">Berger-Levrault</a> engineers  (Philippe Lanco, Didier Lienard, Philippe Luciani, Andr&#233; Morassut and Laurent Smadja) and the assistance of Benjamin Laffont from Valtech.<br />\n<h2>License</h2>\rThis software is under <a href=\"http://ngilead.codeplex.com/license\">Apache License Version 2.0</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "NHibernate,Silverlight,Gilead,",
+  "LastEdited": "2010-04-09T00:30:01.73-07:00"
+}

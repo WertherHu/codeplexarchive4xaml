@@ -1,0 +1,9 @@
+{
+  "ProjectName": "IEtablet",
+  "Title": "IE Tablet Enhancer",
+  "Description": "This tool is designed to help people who are using tablet PC (such as Exo PC and so on...) to navigate more easely with IE 9.\r\n\r\nIt's developed using WPF & C#. \r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This tool is designed to help people who are using tablet PC &#40;such as Exo PC and so on...&#41; to navigate more easely with IE 9.<br /><br />It&#39;s developed using WPF &#38; C&#35;. <br /><br /><br />Edit 21/05/11 : This project has been modified; it is now a IE BHO (an extension to IE)<br />It should work (but not tested) on almost all IE version above IE4.<br />To play with, download the binaries and lauch &quot;register.bat&quot;. Then open IE and Activate the Add-on. After that, when you click on a dropdownlist, a black fullscreen window should appear.<br /><br />More to come soon.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-21T05:26:32.347-07:00"
+}

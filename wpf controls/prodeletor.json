@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prodeletor",
+  "Title": "ProDeletor",
+  "Description": "ProDeletor is a software for storage administrators, it keeps shared directories clean. This software is Windows service based and task controlled. ProDeletor deletes old files and empty folders, compares to last modified, accessed or created stamp. Basic archiving is supported also. Typical use is media company's ftp-server and shared common directories.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ProDeletor is a software for storage administrators, it keeps shared directories clean. This software is Windows service based and task controlled. ProDeletor deletes old files and empty folders, compares to last modified, accessed or created stamp. Basic archiving is supported also. Typical use is media company&#39;s ftp-server and shared common directories.<br /><br />With ProDeletor Task Manager, administrator can plan cleaning tasks and set them to production. Supports UNC- and local folder paths. ProDeletor uses threads and run one thread per task. One task can delete all old files and empty folders from target directory. Task settings includes weekdays, archiving, trigger time, deleting behavior, logging and many more options. Updated version 1.1 includes file masking and repeat scheduling. Testmode is reserved for testing tasks before production use. In this mode, ProDeletor write all actions to logfile but not delete anything.<br /><br /><img src=\"/projects/prodeletor/3be4792c-f2c9-481f-9f23-a3f3a2997519\" alt=\"ProDeletorGUIv11.jpg\" title=\"ProDeletorGUIv11.jpg\" /><br /><br />Keywords: storage admin, delete files, clean folders, directory cleaner, old files, file share, automatically.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4.0,Windows,File System,C#,",
+  "LastEdited": "2012-03-31T08:16:47.717-07:00"
+}

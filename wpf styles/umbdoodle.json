@@ -1,0 +1,9 @@
+{
+  "ProjectName": "umbdoodle",
+  "Title": "Doodle for Umbraco",
+  "Description": "This is an Umbraco extension based on the www.doodle.ch application. \n\nOne of the main goals with this application is to create an Umbraco extension that you can modify and style into your organizations design model without editing any code.\n\nSpecial thanks to:\nTobias Svane & Morten Bock",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an Umbraco extension based on the www.doodle.ch application. <br /><br />One of the main goals with this application is to create an Umbraco extension that you can modify and style into your organizations design model without editing any code.<br /><br />Special thanks to&#58;<br />Tobias Svane &#38; Morten Bock</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-02-18T06:19:25.623-08:00"
+}

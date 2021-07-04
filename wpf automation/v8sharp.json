@@ -1,0 +1,9 @@
+{
+  "ProjectName": "v8sharp",
+  "Title": "v8sharp",
+  "Description": "v8sharp started as a research project to see if it was possible to host Google's new V8 javascript engine from within Microsoft .NET. It could be used to create an extensibility model or application automation model that could be accessed via scripting technologies.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>What is v8sharp?</h1>\rv8sharp was started as a research project to see if it was possible to host <a href=\"http://code.google.com/p/v8/\">Google&#39;s new V8 javascript engine</a> from within <a href=\"http://www.microsoft.com/netframework\">Microsoft .NET</a>. It could be used to create an extensibility model or application automation model that could be accessed via scripting technologies.<br /><br /><b>Usage</b><br /><pre>\n//types to register with v8sharp\nnamespace App\n{\n    class Point\n    {\n        public Point() { }\n\n        public Point(double x, double y) {\n            this.X = x;\n            this.Y = y;\n        }\n\n        public double X { get; set; }\n        public double Y { get; set; }\n    }\n}\n\nstatic class Program\n{\n    static void Main() {\n        //registering with v8sharp\n        V8Engine engine = V8Engine.Create();        \n        engine.Register&lt;App.Point&gt;();\n        \n        //execute javascript\n        object rtn = engine.Execute(&quot;new App.Point(10, 10);&quot;);\n    }\n}\n</pre><br />\n<h2>Getting Started</h2>\r<ul><li><a href=\"http://v8sharp.codeplex.com/SourceControl/ListDownloadableCommits.aspx\">Download the latest source</a></li>\n<li>Check out the samples in /trunk/samples</li>\n<li>Post feedback on the <a href=\"http://v8sharp.codeplex.com/Thread/List.aspx\">discussion board</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,javascript,V8,c++/cli,",
+  "LastEdited": "2009-04-15T17:48:28.05-07:00"
+}

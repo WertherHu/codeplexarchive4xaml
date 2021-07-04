@@ -1,0 +1,9 @@
+{
+  "ProjectName": "owlpal",
+  "Title": "Owlpal",
+  "Description": "Owlpal is a complete personal web blog or publishing tool with the following features: \n\n- Posts, Videos, Audios, Photos, Articles, Books\n- Archives and permanent links\n- Archives page Urls\n- Comments\n- Categories\n- Calendar\n- Templates\n- Syndication\n- Pings\n- Trackback\n- Email notification\n- Plug-in architecture\n- API support\n- Administrative or editioral system and many more\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Owlpal is a complete personal web blog or publishing tool with the following features: <br /><br />- Posts, Videos, Audios, Photos, Articles, Books<br />- Archives and permanent links<br />- Archives page Urls<br />- Comments<br />- Categories<br />- Calendar<br />- Templates<br />- Syndication<br />- Pings<br />- Trackback<br />- Email notification<br />- Plug-in architecture<br />- API support<br />- Administrative or editioral system and many more<br /><br /><b>Technology Used</b><br />- .NET Framework 3.5<br />- ASP.NET, ASP.NET MVC<br />- Silverlight<br />- C#<br />- LINQ<br />- MS SQL Server<br /><br /><b>Website</b><br />http://www.owlpal.com</div><div class=\"ClearBoth\"></div>",
+  "TagList": "LINQ,ASP.NET,blogging,CMS,blog,blogs,blog engine,Silverlight,",
+  "LastEdited": "2008-01-23T10:40:38.53-08:00"
+}

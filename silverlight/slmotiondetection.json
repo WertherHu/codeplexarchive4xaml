@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slmotiondetection",
+  "Title": "Silverlight motion detection",
+  "Description": "Motion detection using Silverlight 4 camera support and a simple motion detection algorithm.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Silverlight motion detection</h1>\r\nMotion detection using Silverlight 4 camera support and a simple motion detection algorithm.<br />\n<ul><li><a href=\"http://vangos.eu/projects/silverlight-motion-detection/\">View a demo of the application</a></li>\n<li><a href=\"http://www.studentguru.gr/blogs/vangos/archive/2011/01/08/motion-detection-in-silverlight.aspx\">Read an article about how this application works</a></li></ul>\n<br /><img src=\"/projects/slmotiondetection/bc5dfb08-1193-488c-97d8-f075a46ebd5a\" alt=\"Silverlight&#32;motion&#32;detection&#32;demo\" title=\"Silverlight&#32;motion&#32;detection&#32;demo\" /><br /><br />The project contains:\n<ul><li>A simple motion detection library.</li>\n<li>A Silverlight 4 application using the above library.</li>\n<li>A web page for testing the Silverlight application.</li></ul>\n<br />Contact me if you want to contribute in this project by providing algorithms or any other staff.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-09T15:57:55.737-08:00"
+}

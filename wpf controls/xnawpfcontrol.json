@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xnawpfcontrol",
+  "Title": "XNA WPF Control",
+  "Description": "WPF custom control for the integration of XNA game class with full 3D performance.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF custom control for the integration of XNA game class with full 3D performance.<br /><br />There are several ways to implement XNA into WPF out on the web, but most of them suffer from poor performance. A lot of the implementations I&#39;ve seen are coping the rendered output image into a texture, which is then displayed onto a WPF control. This concept is pretty basic, but actually kills all 3D acceleration und ends up in a game with just a couple of frames per second. <br />Because I couldn&#39;t find an implementation with good performance, I started to do a litte &quot;research&quot; on this topic on my own and created this implementation with maximum 3D performance. The details on the background can be found in the documentation section.<br /><br />This implementation is actually an excerpt of the SuperNOVA IDE, which is documented here: <a href=\"http://supernovaengine.blogspot.com/\">http://supernovaengine.blogspot.com/</a><br /><br /><img src=\"/projects/xnawpfcontrol/23313651-4a88-4eda-9b1b-f0309857ad22\" alt=\"Preview.png\" title=\"Preview.png\" /><br /><br />\n<h2>Other projects I&#39;m working on:</h2>\r<b>NOVA Framework</b> (<a href=\"http://novaframework.codeplex.com/\">http://novaframework.codeplex.com/</a>)<br /><b>SuperNOVA</b> (<a href=\"http://supernovaengine.blogspot.com/\">http://supernovaengine.blogspot.com/</a>)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,WPF,Custom Controls,",
+  "LastEdited": "2012-11-10T03:37:46.93-08:00"
+}

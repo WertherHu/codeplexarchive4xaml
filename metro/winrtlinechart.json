@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winrtlinechart",
+  "Title": "WinRT LineChart",
+  "Description": "Customizable line chart component for everyone to use in his/her own Windows 8 App",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Customizable line chart component for everyone to use in his&#47;her own Windows 8 App<br />\n<h2>Features:</h2>\r<ul><li>Multiple Series</li>\n<li>Add Serie</li>\n<li>Guidelines</li>\n<li>X and Y values</li>\n<li>Serie data &#39;shifting&#39;</li>\n<li>Add point to serie (dynamic chart)</li></ul>\n<br /><img src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=winrtlinechart&amp;DownloadId=517850\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "winrt,graph,linegraph,plot,metro,graphing,linechart,charting,chart,component,",
+  "LastEdited": "2012-10-21T17:15:19.263-07:00"
+}

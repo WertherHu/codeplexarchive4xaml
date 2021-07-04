@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slpuzzlediamonds",
+  "Title": "Silverlight Puzzle Diamonds",
+  "Description": "Silverlight game",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This is the Silverlight version of my first XNA game, Puzzle Diamonds, it is a basic puzzle game  inspired by Boubble Breaker, the goal of the game is to cleanup the diamonds grid by selecting a group of two or more diamonds of the same color.<br /><br />Here are some screens from the game:<br /><br /><img src=\"/projects/slpuzzlediamonds/50a9e6ef-da31-4013-9cd5-b2502742e22c\" alt=\"PuzzleDiamondsSL_main_med.png\" title=\"PuzzleDiamondsSL_main_med.png\" /> <img src=\"/projects/slpuzzlediamonds/0b18cae9-86f2-4728-8922-a0e1a2da2e01\" alt=\"PuzzleDiamondsSL_med.png\" title=\"PuzzleDiamondsSL_med.png\" /><br /><br />Puzzle Diamonds need the Silverlight 1.1 alpha run time installed, to play the game please follow this <a href=\"http://www.newtonsrl.it/newton/PuzzleDiamonds/PuzzleDiamonds.html\">link</a><br /><br />For any comments/suggestion/bugs fell free to contact me on my <a href=\"http://moriarty72.spaces.live.com\">blog</a><br /><br />hope you enjoy,<br />riccardo ceccato</div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,puzzle,Silverlight,",
+  "LastEdited": "2007-09-24T03:34:29.55-07:00"
+}

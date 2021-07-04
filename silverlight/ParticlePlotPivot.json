@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ParticlePlotPivot",
+  "Title": "Particle Plot Pivot",
+  "Description": "Scans for pre-publication plots from the ATLAS (CERN LHC), CMS (CERN LHC), DZERO (Fermilab Tevatron), and CDF (Fermilab Tevatron) particle physics experiments, and creates a Pivot collection of about 18,000 plots. A custom Silverlight Viewer displays them.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Scans for pre-publication plots from the ATLAS &#40;CERN LHC&#41;, CMS &#40;CERN LHC&#41;, DZERO &#40;Fermilab Tevatron&#41;, and CDF &#40;Fermilab Tevatron&#41; particle physics experiments, and creates a Pivot collection of about 18,000 plots. A custom Silverlight Viewer displays them.<br /><br />The Pivot collection can be found at http://deeptalk.phys.washington.edu/ColliderPlots/. A custom (simple) SilverLight viewer will show the complete collection. The collection is regenerated every evening.<br /><br /><b>Note:</b> These are only pre-publication plots. Publications are not scanned at this time!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-04T20:08:02.15-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "projectstarlight",
+  "Title": "Project Starlight",
+  "Description": "Project Starlight provides native controls, Silverlight libraries, and a sample player to allow the viewing of multicast (MSB) streams in a Silverlight application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Project Starlight provides native controls, Silverlight libraries, and a sample player to allow the viewing of multicast &#40;MSB&#41; streams in a Silverlight application.<br /><br /><b>Version 2.0 is released</b><br /><b>Version 2.0 beta 1 is released</b><br /><b>Version 1.0 is released</b><br /><br /><b>Player Integeration Guide has been uploaded to the Developers page. </b><br />If you&#39;re interested in integrating Project Starlight into your project, this document will get you started.<br /><br /><u>To learn more about Project Starlight click the links below.</u><br /><b><a href=\"https://projectstarlight.codeplex.com/wikipage?title=Users&referringTitle=Home\">Users</a></b><br /><b><a href=\"https://projectstarlight.codeplex.com/wikipage?title=Developers&referringTitle=Home\">Developers</a></b><br /><b><a href=\"https://projectstarlight.codeplex.com/wikipage?title=Installation%20Instructions&referringTitle=Home\">Installation Instructions</a></b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Multicast,Silverlight,",
+  "LastEdited": "2010-02-22T15:22:43.82-08:00"
+}

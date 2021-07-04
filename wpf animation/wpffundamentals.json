@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpffundamentals",
+  "Title": "WPF Fundamentals",
+  "Description": "WPF Fundamentals is a toolset with basic classes to use in any common WPF project. \r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br /><b>Project description</b><br /><br />WPF Fundamentals is a toolset with basic classes to use in any common WPF project. <br /><br /><br /><b>Features</b> \n<ul><li>support of the Model - ViewModel - Presenter pattern</li>\n<li>DelegateCommand - extension for the Command Interface</li>\n<li>SyncedList, a list the enables the synchronizations of generic lists between the Model and the ViewModel</li>\n<li>common converter types (e.g. a BooleanConverter, NullableConverters, ListToStringConverter, DebugConverter)</li>\n<li>handy extension classes (DispatcherExtensions, EnumerableExtensions, ExceptionHelper)</li>\n<li>DeferredAction, defers the execution of any code</li>\n<li>PopupButton, a simple user control to open a Popup by clicking on a button</li>\n<li>SelectionCombo, a ComboBox which enables the user to multi select (even hierachical selections are possible)</li>\n<li>SpinningControl, a spinning animated circle (replacement e.g. for the   hourglass)</li></ul>\n<br /><b>More information</b><br /><br />See also the project homepage: <b><a href=\"http://wpf.andreaslennartz.de\">wpf.andreaslennartz.de</a></b><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-30T04:46:35.92-07:00"
+}

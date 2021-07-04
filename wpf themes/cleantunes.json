@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cleantunes",
+  "Title": "CleanTunes",
+  "Description": "Scan your iTunes library for missing and duplicate entries.\r\nDuplicate entries can optionally be verified on track length, name and CRC or MD5 checksum of the file.\r\nFor missing entries, CleanTunes tries to locate the file in the iTunes music folder.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Scan your iTunes library for missing and duplicate entries.<br />Duplicate entries can optionally be verified on track length, name and CRC or MD5 checksum of the file.<br />For missing entries, CleanTunes tries to locate the file in the iTunes music folder.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "iTunes,C#,WPF,",
+  "LastEdited": "2010-01-04T09:58:11.007-08:00"
+}

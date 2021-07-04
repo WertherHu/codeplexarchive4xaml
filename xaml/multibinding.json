@@ -1,0 +1,9 @@
+{
+  "ProjectName": "multibinding",
+  "Title": "XAML multibinding",
+  "Description": "Multi-binding for Universal apps and Windows Phone Silverlight",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>XAML Multi-binding for Windows Phone and Universal apps</b><br /><br /><br />Allow you to make multi-bindings on Windows Phone and Windows 8 applications (Silverlight as well as WinRT apps) similar to WPF multi-bindings.<br /><br /><pre>\n&lt;TextBlock FontSize=&quot;20&quot; TextWrapping=&quot;Wrap&quot; Foreground=&quot;Cyan&quot;&gt;\n  &lt;mb:MultiBindingLinker.Attach&gt;\n    &lt;mb:MultiBindings&gt;\n       &lt;mb:MultiBinding TargetProperty=&quot;Text&quot; Converter=&quot;{StaticResource ConcatMultiConverter}&quot;&gt;\n          &lt;mb:Binding Path=&quot;StringValue&quot; /&gt;\n          &lt;mb:Binding Path=&quot;Text&quot; ElementName=&quot;ConcatTextBox1&quot;/&gt;\n          &lt;mb:Binding Path=&quot;Text&quot; ElementName=&quot;ConcatTextBox2&quot; Converter=&quot;{StaticResource ToUpperCaseConverter}&quot;/&gt;\n          &lt;mb:Binding Path=&quot;ActualWidth&quot; RelativeSource=&quot;{RelativeSource Self}&quot; /&gt;\n     &lt;/mb:MultiBinding&gt;\n   &lt;/mb:MultiBindings&gt;\n  &lt;/mb:MultiBindingLinker.Attach&gt;\n&lt;/TextBlock&gt;\n</pre><br /><br /><br />Current support :\n<ul><li>simple binding (using explicit or implicit DataContext)</li>\n<li>binding to another element in your page (ElementName)</li>\n<li>bindings relative to the current control (RelativeSource=Self)</li>\n<li>converters</li>\n<li>converter parameters</li>\n<li>converter culture</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-12-29T13:31:58.647-08:00"
+}

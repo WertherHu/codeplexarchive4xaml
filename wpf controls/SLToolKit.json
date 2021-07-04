@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLToolKit",
+  "Title": "Silverlight Behaviors Toolkit",
+  "Description": "Silverlight Behaviors toolkit provides a way to attach standard rich UI behaviors(layout managers, buttons, radio, checkboxes...) on Silverlight UIElements. This is inspired from the Ajax Control Toolkit, and is made to work with ASP.Net Ajax.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Behaviors toolkit provides a way to attach standard rich UI behaviors&#40;layout managers, buttons, radio, checkboxes...&#41; on Silverlight UIElements. This is inspired from the Ajax Control Toolkit, and is made to work with ASP.Net Ajax.<br /><br /><br />Please understand that this project is still beta, and that code that runs today is suceptible to be broken in next releases.<br /><br />To see demos of Silverlight Behaviors toolkit running, click here: <a href=\"https://sltoolkit.codeplex.com/wikipage?title=Demos&referringTitle=Home\">Demos</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,Silverlight,Script#,RIA,",
+  "LastEdited": "2007-11-24T17:55:44.57-08:00"
+}

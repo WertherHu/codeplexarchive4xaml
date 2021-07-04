@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AutomatorDotNET",
+  "Title": "Automator .NET",
+  "Description": "Automator .NET implements point-and-click (or drag and drop) creation of workflows for automating repetitive tasks into batches.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Automator .NET implements point-and-click &#40;or drag and drop&#41; creation of workflows for automating repetitive tasks into batches.<br /><br /><br />Automator .NET implements point-and-click (or drag and drop) creation of workflows for automating repetitive tasks into batches.<br /><br />The power of Automator .NET is anybody can create plugins for extend Automator .NET functionalities.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,Automator,Workflow,WPF,Automating,",
+  "LastEdited": "2013-08-19T08:04:47.65-07:00"
+}

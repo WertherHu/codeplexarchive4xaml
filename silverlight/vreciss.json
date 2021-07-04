@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vreciss",
+  "Title": "VRE for Cancer Imaging Sharepoint Solution",
+  "Description": "The Virtual Research Environment for Cancer Imaging Sandbox Solutions makes it easier for users to see and annotate medical images within Sharepoint. It's developed in C# and Silverlight. It runs in the SharePoint Sandbox, and therefore can be installed by any user.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Virtual Research Environment for Cancer Imaging Sandbox Solutions makes it easier for users to see and annotate medical images within Sharepoint. It&#39;s developed in C&#35; and Silverlight. It runs in the SharePoint Sandbox, and therefore can be installed by any user.<br /><br />This work was part of the &quot;Virtual Research Environment Framework for Cancer Imaging&quot; (VRE-CI) project, part of phase three of the VRE programme funded by the Joint Information Systems Committee (JISC) to provide a framework to allow researchers and clinicians involved in Cancer Imaging to share information, images and algorithms. <br /> \n<ul><li><a href=\"https://vreciss.codeplex.com/wikipage?title=Why%20create%20a%20SharePoint%20Sandbox%20Solution&referringTitle=Home\">Why create a SharePoint Sandbox Solution</a>?</li>\n<li><a href=\"https://vreciss.codeplex.com/wikipage?title=Installing%20the%20VRECI%20SharePoint%20Sandbox%20Solution&referringTitle=Home\">Installing the VRECI SharePoint Sandbox Solution</a></li>\n<li><a href=\"https://vreciss.codeplex.com/wikipage?title=Adding%2c%20viewing%20and%20annotating%20a%20DICOM%20image&referringTitle=Home\">Adding, viewing and annotating a DICOM image</a></li>\n<li><a href=\"https://vreciss.codeplex.com/wikipage?title=File%20Structures%20and%20Schemas&referringTitle=Home\">File Structures and Schemas</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-24T14:25:55.523-08:00"
+}

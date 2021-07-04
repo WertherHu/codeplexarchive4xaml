@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UWEECD12",
+  "Title": "UWE Bristol - Robotic Pick and Place System 2012",
+  "Description": "A robot arm pick and place will be trained to repeatedly move an item from one location to another. The training and control input will be from a 4x4 keypad.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><u><b>Overview</b></u><br />To design and implement a ’pick and place’ system. A robot arm will be trained to repeatedly move an item from one location to another. The training and control input will be from a 4x4 keypad. The arm has four independent servomotors. The work will be done in teams of 4. You will be required to partition the problem into suitable hardware and software units, verify the components, integrate these components into a complete system, verify and test. The documentation should show justification for any design decisions that you make as well as development logs for both hardware and software.<br /><br /><i><b>At a minimum your documentation should include the following:</b></i><br />• An overview of your complete system including justification for design decisions including hardware/software partitioning .<br />• Alist of the team members along with their roles and responsibilities, (to include authorship details for hardware &amp; software components).<br />• An appendix containing your Standards Reference Manuals.<br />• Verification and testing strategies with results for all stages.<br />• Schematics or code designs (VHDL, Ver ilog or C) for your components.<br /><br /><i><b>Possible extras could include:</b></i><br />• Data sheets for all your custom hardware components.<br />• ’README’s and/or man pages for any device drivers, custom libraries, system software or HALs1 that you have developed.<br />• User Manual for your system or a ’White Paper’ extolling the virtues of your design.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-05T06:44:21.587-08:00"
+}

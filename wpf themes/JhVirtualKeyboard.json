@@ -1,0 +1,9 @@
+{
+  "ProjectName": "JhVirtualKeyboard",
+  "Title": "Hurst.VirtualKeyboard for WPF",
+  "Description": "VirtualKeyboard is for use with WPF projects; it gives you a way to enable your users to enter characters in different languages and alphabets. Developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Description</h1>\r\nVirtualKeyboard is a virtual-keyboard for software developers to use with either desktop or onliine applications.  This targets implementations that use WPF, and soon - Windows 8. With it - you now have a way to provide your users with the ability to enter characters in different languages and alphabets, or any Unicode character. Developed in C#, currently using Visual Studio 2013 and .NET 4.5.1, the downloads include earlier versions. If it is requested, I will maintain a separate versions for Visual Studio 2010 and Visual Studio 2008.<br /><br />More information can be found on <a href=\"http://designforge.wordpress.com/2011/01/06/jhvirtualkeyboard/\">my blog article</a> at: http://designforge.wordpress.com/2011/01/06/jhvirtualkeyboard/<br /><br />See also the LogNut logging library at <a href=\"https://lognut.codeplex.com\">https://lognut.codeplex.com</a><br /><br />by James W. Hurst<br /><br /><a href=\"https://jhvirtualkeyboard.codeplex.com/wikipage?title=References&referringTitle=Home\">References</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "James Witt Hurst,C#,keyboard,virtual keyboard,Unicode,",
+  "LastEdited": "2014-02-18T13:52:30.963-08:00"
+}

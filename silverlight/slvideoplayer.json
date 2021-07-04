@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slvideoplayer",
+  "Title": "Silverlight Video Player",
+  "Description": "A Silverlight Video player (for Silverlight 2 or higher)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rA Silverlight 2 video player built by <a href=\"http://joel.neubeck.net\">Joel Neubeck</a> using the standard MediaElement and a few of the new system controls (ToggleButon, Slider and Button). The goal was to build a re-sizable video player using no custom user controls, but instead leveraging controls styles and templates.<br />\n<h1>Installation Instructions</h1>\r<h2>PLEASE READ THIS LINK</h2>\rTo use the video player, read the the <a href=\"https://slvideoplayer.codeplex.com/wikipage?title=installation%20instructions&referringTitle=Home\">installation instructions</a>.<br /><br /><img src=\"/projects/slvideoplayer/476532c1-693c-42d0-b5a9-f81a8aba2fad\" alt=\"v1beta.png\" title=\"v1beta.png\" /><br /><br />You can find a working demo at: <a href=\"http://joel.neubeck.net/2008/06/sl2b2-media-player-markers/\">http://joel.neubeck.net/2008/06/sl2b2-media-player-markers/</a><br />\n<h1>Features</h1>\r<ul><li>Support for streaming video</li>\n<li>Startup Parameters \n<ul><li>MediaElement Source</li>\n<li>Autostart</li>\n<li>Thumbnail</li></ul></li>\n<li>Re-sizable / Scalable</li>\n<li>Full screen Playback</li>\n<li>TimeLine Marker Support</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 2.0,Video Playback,MediaElement,silverlight,MyList,Silverlight Controls,Silverlight 2,Media,video,Silverlight video,MyList.SilverLight,Silverlight 2 Video,Media Player,",
+  "LastEdited": "2008-10-14T11:25:58.913-07:00"
+}

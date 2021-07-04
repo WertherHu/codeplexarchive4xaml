@@ -1,0 +1,9 @@
+{
+  "ProjectName": "animatedpanel",
+  "Title": "Animated panel",
+  "Description": "Animated Panel is a WPF control that supports animation of its content on resize. Can be used in item controls (ListBox for example) as ItemsPanelTemplate.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Animated Panel is a WPF control that supports animation of its content on resize. Can be used in item controls &#40;ListBox for example&#41; as ItemsPanelTemplate.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,WPF panels,",
+  "LastEdited": "2010-06-06T23:53:24.433-07:00"
+}

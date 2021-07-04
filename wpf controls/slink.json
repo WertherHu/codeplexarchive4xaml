@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slink",
+  "Title": "Slink Framework - Strongly Typed URLs for ASP.NET",
+  "Description": "Slink is a code generating framework that generates type safe URLs for ASP.NET.  With Slink URLs, you increase code quality, increase maintainability, and get compile time checking of your URLs in all your ASPX pages (code-behind and non-codebehind).  Slink can generate strongly typed links to objects other than ASPX pages such as JavaScript, CSS, flash, and images.  Slink is easy to integrate into your current web projects having use-as-you-go integration.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rSlink is a code generating framework that generates type safe URLs for ASP.NET.  With Slink URLs, you increase code quality, increase maintainability, and get compile time checking of your URLs in all your ASPX pages &#40;code-behind and non-codebehind&#41;.  Slink can generate strongly typed links to objects other than ASPX pages such as JavaScript, CSS, flash, and images.  Slink is easy to integrate into your current web projects having use-as-you-go integration.<br /><br /><img src=\"/projects/slink/2e6c290e-b705-4bc3-a640-4aa6f51b3279\" alt=\"namespaceview.gif\" title=\"namespaceview.gif\" /><br /><img src=\"/projects/slink/c8b479bd-4465-433f-a3be-70ba23debe5a\" alt=\"rootnamespace.gif\" title=\"rootnamespace.gif\" /><br />\n<h1>Tutorials</h1>\rPlease see Brian Chavez&#39;s blog for more information on how to install, configure, and use Slink here:<br /><a href=\"http://bchavez.bitarmory.com/archive/2007/09/03/slink-framework---strongly-typed-urls-for-asp.net.aspx\">http://bchavez.bitarmory.com/archive/2007/09/03/slink-framework---strongly-typed-urls-for-asp.net.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,ASP.NET 2.0,ASP.NET Control,Slink Framework,Strongly Typed URLs,urls,facebook,www.facebook.com,",
+  "LastEdited": "2007-09-03T16:23:51.863-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamlhelpmeet2013",
+  "Title": "Xaml Helpmeet 2013",
+  "Description": "Xaml Helpmeet 2013 is a Visual Studio 2013 extension with powerful tools to help developers write Xaml code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br /><i>Xaml Helpmeet 2013</i> (XHM) is an update to <i><a href=\"http://xamlhelpmeet.codeplex.com/\">Xaml Helpmeet</a></i> to make it available to users of Visual Studio 2013. At this time the main code of both is the same, so you should look there for support and documentation. We will eventually try to duplicate the support here, but that may take some time.<br /><br />Thank you for your patience.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Extension,Visual Studio 2013,Xaml,SilverLight,",
+  "LastEdited": "2013-08-04T14:57:55.99-07:00"
+}

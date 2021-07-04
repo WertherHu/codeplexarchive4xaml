@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gomusicnowdownloader",
+  "Title": "GoMusicNow Downloader",
+  "Description": "This is a simple application created to make things a little easier when downloading a whole album worth of mp3s from the gomusicnow.com web site.\r\n\r\nTo use, simply add your gomusicnow username and password, choose a local folder to download the mp3s to, then paste the url of the gomusicnow 'links' page, for the album you have purchased. Once you hit start, the files will be downloaded sequentially.\r\n\r\nThis application is my first windows application, and first time using WPF. Therefore, I cannot vouch for it adhering to good coding practices. Suggestions for improvement are welcome.\r\n\r\nI am in no way associated with the GoMusicNow.com web site. This utility was created for my personal use, and released in the hope someone may find either the application or the source code useful.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a simple application created to make things a little easier when downloading a whole album worth of mp3s from the gomusicnow.com web site.<br /><br />To use, simply add your gomusicnow username and password, choose a local folder to download the mp3s to, then paste the url of the gomusicnow &#39;links&#39; page, for the album you have purchased. Once you hit start, the files will be downloaded sequentially.<br /><br />This application is my first windows application, and first time using WPF. Therefore, I cannot vouch for it adhering to good coding practices. Suggestions for improvement are welcome.<br /><br />I am in no way associated with the GoMusicNow.com web site. This utility was created for my personal use, and released in the hope someone may find either the application or the source code useful.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Music,downloader,",
+  "LastEdited": "2012-06-07T03:28:54.933-07:00"
+}

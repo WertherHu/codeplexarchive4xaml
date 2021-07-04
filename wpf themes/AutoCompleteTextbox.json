@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AutoCompleteTextbox",
+  "Title": "Auto Complete Textbox for VB.Net",
+  "Description": "Auto Complete Textbox is a simple project to give developers a small idea on how to create a textbox which creates a popup menu with the options just below the textbox. Used Technology : VB.net and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">If you want to know the approach of developing how to create an Auto Complete Textbox, then this is the project you should be looking at. Example: If you type something and you want to show the results in a small pop up beneath your textbox, the find the code here.<br /><br />Thanks,<br />Vikas\n<hr />-----------------------------<br /><br />Uploading the project first time. Pardon if it is not uploaded properly :P</div><div class=\"ClearBoth\"></div>",
+  "TagList": "VB.NET,WPF,AutoComplete Textbox,Auto,autocomplete,",
+  "LastEdited": "2009-05-19T07:17:01.657-07:00"
+}

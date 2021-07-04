@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharpdxwpf",
+  "Title": "SharpDX.WPF",
+  "Description": "This projects provides a DirectX 9, DirectX 10 and DirectX 11 support for WPF. The assembly contains DXElement - an easy to use WPF-FrameworkElement.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>SharpDX.WPF</b><br />This projects provides a DirectX 9, DirectX 10 and DirectX 11 support for WPF. The assembly contains DXElement - an easy to use WPF-FrameworkElement.<br /><br />This projects provides a DirectX 9, DirectX 10 and DirectX 11 support for WPF. The assembly contains DXElement - an easy to use WPF- FrameworkElement which provides DirectX rendering on a D3DImage  based on SharpDX 2.3.x (see <a href=\"http://sharpdx.org/\">http://sharpdx.org/</a>).<br /><br />This project is a newer version of the project <a href=\"http://directx4wpf.codeplex.com/\">http://directx4wpf.codeplex.com/</a> which is discontinued. The main update in this version is the support of SharpDX 2.3.x<br /><br />3 Samples of the original project are also included. Please read the original README.txt by Lloyd.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,DirectX,SharpDX,WPF 3D,",
+  "LastEdited": "2012-10-02T13:57:48.7-07:00"
+}

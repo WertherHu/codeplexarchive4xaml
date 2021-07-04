@@ -1,0 +1,9 @@
+{
+  "ProjectName": "crm2011metrocontacts",
+  "Title": "CRM 2011 Metro Contacts",
+  "Description": "This project contains a sample of how to retrieve Contacts from CRM 2011 using HTML 5 and JavaScript in a Windows 8 Metro style app.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Disclaimer:  This is just a sample application and is not intended as a full working app.  This sample will NOT work with CRM Online and requires the device to have access to the on-premise CRM.  When the app loads it will prompt for credentials to the CRM organization.  To get around these limitations, a proxy service would need to be built to interface with CRM.</b><br /><br /><b>Project Description</b><br />This project contains a sample of how to retrieve Contacts from CRM 2011 using HTML 5 and JavaScript in a Windows 8 Metro style app.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CRM 2011,Windows 8,",
+  "LastEdited": "2011-09-19T21:04:58.687-07:00"
+}

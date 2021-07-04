@@ -1,0 +1,9 @@
+{
+  "ProjectName": "QCMS",
+  "Title": "Quality Control Management System",
+  "Description": "QCMS is a web-based Test Management system",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />QCMS is a web-based Test Management system, providing support for the requirement analysis, test case design, test execution, defect tracking and monitoring of test activities.<br />This project is built to target .NET 4.0 at the moment, using Visual Studio 2012.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "QA,",
+  "LastEdited": "2013-10-31T03:57:50.26-07:00"
+}

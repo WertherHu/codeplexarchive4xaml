@@ -1,0 +1,9 @@
+{
+  "ProjectName": "markupprogramming",
+  "Title": "Markup Programming",
+  "Description": "Markup Programming is a standalone extension to XAML that provides operation-binding power comparable to the data-binding built in to XAML.  It is is built on the foundation of a complete imperative programming language with dynamic objects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\r<ul><li><i>Markup Programming is a standalone extension to XAML that provides operation-binding power comparable to the data-binding built in to XAML.  It is is built on the foundation of a complete imperative programming language with dynamic objects.</i></li></ul>\n<h3>Want to <a href=\"https://markupprogramming.codeplex.com/wikipage?title=Getting%20Started&referringTitle=Home\">try it out</a>?   Want to <a href=\"http://markupprogramming.codeplex.com/SourceControl/list/changesets\">get the code</a>?  Want to <a href=\"https://markupprogramming.codeplex.com/documentation?referringTitle=Home\">read the docs</a>?</h3>\r<h3>Features</h3>\r<ul><li><b>Tiny:</b> no dependencies and roughly a 150k</li>\n<li><b>Free</b>: open source and Apache license</li>\n<li><b>Fast</b>: just-in-time compiled to code-trees</li>\n<li><b>Modern</b>: perfect for loose XAML and no code-behind</li>\n<li><b>Necessary</b>: a swiss army knife; a programming language</li>\n<li><b>Sufficient</b>: call any method in any assembly</li>\n<li><b>Portable</b>: supports WPF4 and Silverlight4</li>\n<li><b>Concise</b>: three lines of XAML to bind to your view-model operation</li>\n<li><b>Flexible</b>: handle any event on any element</li>\n<li><b>Designable</b>: dynamic data shows in the designer</li>\n<li><b>Powerful</b>: even write complete applications entirely in markup</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "markup,WPF,xaml,Silverlight,programming,MVVM,",
+  "LastEdited": "2011-03-29T18:43:22.97-07:00"
+}

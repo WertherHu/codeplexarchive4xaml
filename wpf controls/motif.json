@@ -1,0 +1,9 @@
+{
+  "ProjectName": "motif",
+  "Title": "Motif",
+  "Description": "Motif is an open source, plug-in based, GUI design tool that allows you to drag and drop controls for your application.\r\n\r\nDeveloped for use with the .NET Micro F",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Motif</h1>\r\nMotif is an open source, plug-in based, GUI design tool that allows you to drag and drop controls for your application.<br /><br />Developed for use with the .NET Micro Framework, Motif currently has drop in support for GHI&#39;s Glide with support for Skewworks&#39; Clix &amp; Tinkr in the works.<br /><br />You can implement your own system as well by following the example in the MotifGlide project.<br /><br /><img src=\"http://www.skewworks.com/img/logo.png\" /><br /><a href=\"http://www.skewworks.com\">http://www.skewworks.com</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-11T10:14:48.373-08:00"
+}

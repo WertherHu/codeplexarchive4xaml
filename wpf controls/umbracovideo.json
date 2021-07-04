@@ -1,0 +1,9 @@
+{
+  "ProjectName": "umbracovideo",
+  "Title": "Umbraco Video Module",
+  "Description": "Umbraco User Control Video",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Umbraco User Control Video<br /><br />Howto install? Like a user control. Copy .ascx file to /UserControls and .dll to /Bin next go Umbraco Backoffice and click in Developer -&gt; Macros. <br /><br /><img src=\"http://img136.imageshack.us/img136/9864/umbracovideomod.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-02T11:21:46.687-07:00"
+}

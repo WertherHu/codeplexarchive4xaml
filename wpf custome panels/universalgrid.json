@@ -1,0 +1,9 @@
+{
+  "ProjectName": "universalgrid",
+  "Title": "Universal Grid",
+  "Description": "WPF Overlay Grid for static and dynamic grid layouts.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Overlay Grid for static and dynamic grid layouts.  <br /><br />This project provides help for designers in terms of an <b>Overlay Grid</b> with transparent background. <br /><br />Some features at a glance:\n<ul><li>static grids (fixed width and height)</li>\n<li>dynamic grids (fixed column and row count) </li>\n<li>conditional visibility of grids</li>\n<li>vertical and horizontal alignment</li>\n<li>gutter margins</li>\n<li>baseline grid with font chooser</li>\n<li>visibility and color settings</li>\n<li>templates for saving and sharing of grid definitions</li></ul>\n<br />The project is still in beta state, so please report bugs and feel free to contribute patches.<br /><br />Thanks to Philipp Sumi for his WPF NotifyICon <a href=\"http://www.codeproject.com/Articles/36468/WPF-NotifyIcon\">http://www.codeproject.com/Articles/36468/WPF-NotifyIcon</a><br />Thanks to Niklas Borson for his SampleFontChooser <a href=\"http://blogs.msdn.com/b/text/archive/2006/11/01/sample-font-chooser.aspx\">http://blogs.msdn.com/b/text/archive/2006/11/01/sample-font-chooser.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-19T04:52:32.103-08:00"
+}

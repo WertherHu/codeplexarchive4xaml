@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MosquitoWPF",
+  "Title": "Mosquito.WPF",
+  "Description": "A declarative WPF extension library.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A declarative WPF extension library.<br /><br />WPF and XAML can give you a really powerful way to create user interfaces in a declarative way.<br />Sometimes.<br /><br />At other times, the base controls are silly or just painful to use.<br />This extension library tries to address these issues not by replacing the base controls, but by either augmenting or fixing them - whatever seems most natural.<br /><br /><i>Note: Currently this is more of a mission statement. Have a look at the documentation to see what is implemented, head over to the Issues to see what will be implemented.</i><br />\n<h2>Contents</h2>\r<ul><li>GridColumn - A pseudo-control which works like a WPF version of HTML&#39;s &lt;TD&gt; (inside a Grid)</li>\n<li>GridRow - same as GridColumn, except it works like HTML&#39;s &lt;TR&gt;</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Grid,MVVM,pain,WPF Extension,",
+  "LastEdited": "2014-08-04T09:50:29.913-07:00"
+}

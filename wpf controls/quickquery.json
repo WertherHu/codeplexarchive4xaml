@@ -1,0 +1,9 @@
+{
+  "ProjectName": "quickquery",
+  "Title": "QuickQuery",
+  "Description": "QuickQuery is a tool that allow the user to choose SQL type (microsoft sql, mysql, sqlite and more) and inject a query to his the database.\nYou can configure default details of your SQL (like server, username, password etc).\n\nQuickQuery allow you to control your SQL database easily and fast without any installation required. Just put it in your server folder and it works!\n\nQuickQuery is avilable for PHP and ASP servers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />QuickQuery is a tool that allow the user to choose SQL type &#40;microsoft sql, mysql, sqlite and more&#41; and inject a query to his the database.<br />You can configure default details of your SQL &#40;like server, username, password etc&#41;.<br /><br />QuickQuery allow you to control your SQL database easily and fast without any installation required. Just put it in your server folder and it works&#33;<br /><br />QuickQuery is avilable for PHP and ASP servers.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "OpenUp,",
+  "LastEdited": "2008-07-23T13:16:38.717-07:00"
+}

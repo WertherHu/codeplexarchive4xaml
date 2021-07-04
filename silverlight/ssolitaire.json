@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssolitaire",
+  "Title": "Silverlight Solitaire",
+  "Description": "An implementation of Klondike Solitaire in Silverlight 3.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An implementation of Klondike Solitaire in Silverlight 3.<br /><br />Would you like to contribute to this project?  Solitaire could use a better interface and possibly implementations of different types of solitaire games (spider, etc).  I wrote this a while back when I was first learning Silverlight, so I would like to refactor it to more of an MVVM model.<br /><br /><b>Other myOSity open-source projects:</b>\n<ul><li><a href=\"http://xamla.codeplex.com\">http://xamla.codeplex.com</a> Xamla, a Silverlight Design Tool, in Silverlight!</li></ul>\n<br /><img src=\"/projects/ssolitaire/afd76c6d-c0c8-4c15-a131-d5e97593d626\" alt=\"solitaire.png\" title=\"solitaire.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-18T04:39:20.38-07:00"
+}

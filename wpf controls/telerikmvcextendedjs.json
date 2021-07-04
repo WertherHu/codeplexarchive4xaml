@@ -1,0 +1,9 @@
+{
+  "ProjectName": "telerikmvcextendedjs",
+  "Title": "Telerik Extensions For ASP.NET MVC : Extended Client API",
+  "Description": "The \"Telerik MVC Controls : Extended Client API\" extends the Telerik client-side API to provide a rich client API for the Telerik MVC controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The &#34;Telerik MVC Controls &#58; Extended Client API&#34; extends the Telerik client-side API to provide a rich client API for the Telerik MVC controls.<br /><br />This project is <b>NOT</b> affiliated with the telerik and is therefore <b>NOT</b> supported by telerik. Please direct all questions/concerns/requests about the Telerik Extensions For ASP.NET MVC : Extended Client API on the <a href=\"http://telerikmvcextendedjs.codeplex.com/discussions\">Discussions</a> tab.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "asp.net mvc,telerik,jquery plugin,tabstrip,window,grid,TreeView,",
+  "LastEdited": "2011-12-23T08:17:25.21-08:00"
+}

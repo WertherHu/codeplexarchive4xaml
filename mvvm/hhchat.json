@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hhchat",
+  "Title": "HHChat",
+  "Description": "A client-server chat program allowing users to have a list of contacts with whom they can chat either individually or in groups.  Will support sending files and emoticons.  Developed in C# using WPF, MVVM and WCF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>HHChat</b><br /><br />A client-server chat program that will give users the ability to create a list of contacts with whom they can can, either individually or in a group.  Users will be able to send files to each other and send emoticons.<br /><br />The program will be written in C# and use WPF with MVVM and WCF for the server architecture.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-15T07:29:06.433-08:00"
+}

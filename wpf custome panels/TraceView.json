@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TraceView",
+  "Title": "TraceView Log Visualizer",
+  "Description": "TraceView s a log message viewer that uses a WPF client.\nYou can search and filter through your log messages with ease. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Description</h1>\r\nThis tool allows you to view log messages from different applications. The viewer provides for <b>search</b> and <b>filtering</b> abilities along with color coding of log messages based on categories like Error, Warning,  Information etc... The main emphasis is on the ability to filter and categorize log messages. The tool also provides for <b>pinning, copy, email and printing</b> log messages.<br /><br /><img src=\"/projects/TraceView/e4610057-59db-4e33-a3a5-c42416999174\" alt=\"ListView.png\" title=\"ListView.png\" /><br /><br />Another key feature is the <b>multi-user support</b>, where you can view log messages from multiple users. <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Log Viewer,trace,log messages,WPF,custom tracelistener,WCF,",
+  "LastEdited": "2011-01-30T04:43:21.237-08:00"
+}

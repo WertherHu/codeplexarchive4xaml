@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VS2P4",
+  "Title": "VS2P4 -- Visual Studio To Perforce Source Control",
+  "Description": "VS2P4 is a Perforce source control package. Commands include Checkout, Add, Revert, Diff, some reports. Change lists and Submits are not supported. Delete, rename, and add are reflected in P4. No info in project files. Custom icons: Needs Resolve and Not Latest Revision. C#. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><div class=wikidoc><strong>Project Description</strong><br>VS2P4 is a Perforce source control package. Commands include Checkout, Add, Revert, Diff, some reports. Change lists and Submits are not supported. Delete, rename, and add are reflected in P4. No info in project files. Custom icons: Needs Resolve and Not Latest Revision. C#.</div>\n<div class=wikidoc></div>\n<div class=wikidoc></div>\n<div class=wikidoc>See documentation on the Documentation tab above.</div>\n<div class=wikidoc></div>\n<div class=wikidoc></div>\n<div class=wikidoc></div>\n<div class=wikidoc><strong>This extension has been uploaded to the Online Gallery and can be downloaded in Visual Studio 2010 at Tools + Extension Manager.</strong></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-22T13:16:28.58-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "supermodel",
+  "Title": "SuperModel - A Dynamic View-Model Generator",
+  "Description": "SuperModel is a dynamic, interface-based View-Model generator.\n\nInstead of implementing INotifyPropertyChanged by hand, which can be both tedious and dangerous, SuperModel will dynamically generate an implementation of a view-model based on an interface specification.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SuperModel is a dynamic, interface-based View-Model generator.<br /><br />Instead of implementing INotifyPropertyChanged by hand, which can be both tedious and dangerous, SuperModel will dynamically generate an implementation of a view-model based on an interface specification.<br /><br /><a href=\"http://themicrosoftreject.blogspot.com/2010/02/introducing-supermodel.html\">http://themicrosoftreject.blogspot.com/2010/02/introducing-supermodel.html</a><br /><br />Thanks to the following:\n<ul><li>EasyProp <a href=\"http://code.google.com/p/easyprop/\">http://code.google.com/p/easyprop/</a></li>\n<li>Einar Ingebrigtsen <a href=\"http://www.ingebrigtsen.info/post/2008/12/11/INotifyPropertyChanged-revisited.aspx\">http://www.ingebrigtsen.info/post/2008/12/11/INotifyPropertyChanged-revisited.aspx</a></li>\n<li>NUnit <a href=\"http://www.nunit.org/index.php\">http://www.nunit.org/index.php</a></li>\n<li>StyleCop <a href=\"http://code.msdn.microsoft.com/sourceanalysis\">http://code.msdn.microsoft.com/sourceanalysis</a></li>\n<li>The Castle Project <a href=\"http://www.castleproject.org/dynamicproxy/index.html\">http://www.castleproject.org/dynamicproxy/index.html</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "INotifyPropertyChang,MVC,MVVM,WPF,UI,Data Binding,Sweet,",
+  "LastEdited": "2010-03-18T10:17:37.683-07:00"
+}

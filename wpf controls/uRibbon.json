@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uRibbon",
+  "Title": "uRibbon - Office 2007 Ribbon control for VB.NET",
+  "Description": "Office 2007 ribbon control, with Orb and graphic transitions.\r\nAfter searching for many days looking for an Office 2007-like ribbon bar, I finally gave up and decided to write my own.  It's in decent shape as-is.  But anyone interested in helping me to continue the devlopment??",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/uRibbon/ed38afbe-696a-4678-8234-6f62f57bfd30\" alt=\"9-5-2011&#32;8-49-45&#32;AM.png\" title=\"9-5-2011&#32;8-49-45&#32;AM.png\" /><br /><br />This is my 1st project on CodePlex.  <br />I could not find a true Office 2007 ribbon control freely published anywhere, so I decided to create my own.  If others like the Ribbon look as much as I do, them I&#39;m sure others will be use of this as well. <br /><br />I&#39;ve created this as a drop-in UserControl in VB.Net, simply add this single usercontrol file to your project and you are ready to go.<br /><br />It still needs a bit of work to go...so if you add or improve on it, please share those changes with everyone.<br /><br />Some of the features so far:<br />-Add Tabs, Groups, Buttons, Button Menus<br />-Graphics on the buttons and menu items<br />-Fade effect on Groups and Buttons<br />-Now have the ability to clear the entire ribbon.  Useful when updating your ribbon.<br /><br />The Groups fade in/out just like Office 2007 (using alpha blending of two picture.images)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-05T08:56:31.32-07:00"
+}

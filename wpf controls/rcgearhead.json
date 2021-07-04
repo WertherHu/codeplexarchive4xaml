@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rcgearhead",
+  "Title": "RC Gear Head",
+  "Description": "Website/backend for storing and sharing gearing information, vehicle setups, and other misc radio control car information. \n\nUsers can store, share, and search gearing recommendations and setup information. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><p>Welcome!</p>\n<p>This purpose of this project is&nbsp;to create a website/backend for storing and sharing gearing information, vehicle setups, and other misc radio control car information. <br><br>Users can store, share, and search gearing recommendations and setup information.</p>\n<p>It will include services and APIs to allow others to build applications based on the database and logic that created here.<br><br>To view the current proposed feature list, go to Downloads then select &quot;Planned&quot; releases on the right-side.<br><br>Craig</p></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-08T12:22:24.503-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TurtleDrawing",
+  "Title": "Windy.TurtleDrawing",
+  "Description": "Windy.TurtleDrawing is a WPF library to generate Stream Geometry with old turtle drawing system introduced in old LOGO Languages.\r\nIt is very easily to visualize the geometry by assigning it to a path.\r\nWindy.TurtleDrawing is written in C# 4.0.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windy.TurtleDrawing is a WPF library to generate Stream Geometry with old turtle drawing system introduced in old LOGO Languages.<br />It is very easily to visualize the geometry by assigning it to a path.<br />Windy.TurtleDrawing is written in C&#35; 4.0.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-19T21:17:21.633-07:00"
+}

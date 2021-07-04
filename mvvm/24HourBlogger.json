@@ -1,0 +1,9 @@
+{
+  "ProjectName": "24HourBlogger",
+  "Title": "24 Hour Blogger",
+  "Description": "Asp.Net Mvc Blog application using Mvvm-C (mvvmc) pattern on server side and mvvm pattern on client using jquery and KnockoutJs.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Asp.Net Mvc Blog application using Mvvm-C &#40;mvvmc&#41; pattern on server side and mvvm pattern on client using jquery and KnockoutJs.<br /><br /><br />24 Hour Blogger is a project challenge to build a blog tool in 24 dev hours using the Rally Mvvm-C Framework. Blog detailing project coming soon.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-22T21:14:33.913-07:00"
+}

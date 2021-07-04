@@ -1,0 +1,9 @@
+{
+  "ProjectName": "juialert",
+  "Title": "jui_alert",
+  "Description": "jQuery plugin, provides simple notification (with timeout and close button). jQuery UI themes compatible. Localization support.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>jui_alert</h1>\r\njQuery plugin, provides simple notification (with timeout and close button). jQuery UI themes compatible. Localization support.<br /><br />Copyright Christos Pontikis <a href=\"http://pontikis.net\">http://pontikis.net</a><br /><br />Requires jquery, jquery-ui<br /><br />Release: 2.0.0 (26 Jan 2013)<br /><br />License MIT<br />\n<h2>Project page</h2>\r<a href=\"http://pontikis.net/labs/jui_alert\">http://pontikis.net/labs/jui_alert</a><br />\n<h2>NuGet gallery</h2>\r<a href=\"https://nuget.org/packages/jui_alert/\">https://nuget.org/packages/jui_alert/</a><br />\n<h2>Demo</h2>\r<a href=\"http://pontikis.net/labs/jui_alert/demo\">http://pontikis.net/labs/jui_alert/demo</a><br />\n<h2>Documentation</h2>\r<a href=\"http://pontikis.net/labs/jui_alert/docs\">http://pontikis.net/labs/jui_alert/docs</a><br />\n<h2>Support Forum</h2>\r<a href=\"http://pontikis.net/bbs\">http://pontikis.net/bbs</a><br />\n<h2>Screenshot</h2>\r<img src=\"/projects/juialert/561c7ed1-38c1-4975-932e-e0e6696e2fff\" alt=\"jui_alert.png\" title=\"jui_alert.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "jquery,jquery-ui,notification,plugin,notify,message,alert,",
+  "LastEdited": "2013-02-05T11:19:00.72-08:00"
+}

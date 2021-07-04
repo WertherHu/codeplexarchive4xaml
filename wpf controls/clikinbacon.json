@@ -1,0 +1,9 @@
+{
+  "ProjectName": "clikinbacon",
+  "Title": "ClikinBacon (Automated cursor control testing utility)",
+  "Description": "Automated testing utility that controls the mouse cursor and simulates clicks via a macro language.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Automated testing utility that controls the mouse cursor and simulates clicks via a macro language. The testing utility also contains a recorder that will generate the macro language for later replay or editing.<br /><br />Note: For all math operation; I am referencing the NCalc project library (<a href=\"https://ncalc.codeplex.com/\">https://ncalc.codeplex.com/</a>) under the MIT license.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-16T21:46:12.533-08:00"
+}

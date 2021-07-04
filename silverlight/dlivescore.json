@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dlivescore",
+  "Title": "Tennis doubles livescore (Silverlight)",
+  "Description": "This project plans to create a Silverlight application for Desktop and later for Windows Phone, to provide a Livescore capabilities for amateur tennis-doubles.\n\nThe application will be developed, with MEF and MVVMLight technologies in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>DLiveScore</b><br />Tennis livescore application for doubles<br /><br />This application planning to support amateur tennis players to provide LiveScore for doubles.<br /><br />The application will be available as Silverlight application for desktop and for Windows Phone also.<br /><br />The application do not use any database, the data will be stored in xml files.<br /><br />The application actually in <b>design phase</b>, the first version planned before and of this year.<br /><br />Development tools and methods:<br /><br /> * Visual Studio 2010<br /> * C#<br /> * Silverlight 4<br /> * MEF<br /> * MVVMLight<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "tennis,Silverlight,",
+  "LastEdited": "2010-09-06T05:01:47.25-07:00"
+}

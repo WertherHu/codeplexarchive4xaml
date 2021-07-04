@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ARTEK",
+  "Title": "ARTEK",
+  "Description": "WPF Controls, Themes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Controls, Themes.<br /><br /><br />ARTEK is a collection of WPF Controls, components and utilities for creating next generation Windows applications.<br />\n<h2>Please write for what control you want and i&#39;ll make it!</h2>\r\n<h1>Controls:</h1>\r<table><tr><td> CircleProgressBar </td><td> SomeControl </td><td> SomeControl </td></tr>\n<tr><td> SomeControl </td><td> SomeControl </td><td> SomeControl </td></tr></table><br /><br />Circle progress bar:<br /><img src=\"/projects/ARTEK/2257a245-1a0e-4352-82bc-fb806f29aaf9\" alt=\"Circle.png\" title=\"Circle.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,CONTROL,MVVM,",
+  "LastEdited": "2016-05-15T21:34:34.56-07:00"
+}

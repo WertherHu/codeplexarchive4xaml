@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WindowLib",
+  "Title": "WindowLib",
+  "Description": "WindowLib is a C++ library  used to simplify the process to create native C++ GUI's. It works similar to Windows MFC but it uses an subscription based event system similar to how forms work in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WindowLib is a C&#43;&#43; library  used to simplify the process to create native C&#43;&#43; GUI&#39;s. It works similar to Windows MFC but it uses an subscription based event system similar to how forms work in C&#35;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Controls,Windows Forms,GUI,Window,Form,",
+  "LastEdited": "2008-11-24T13:43:10.347-08:00"
+}

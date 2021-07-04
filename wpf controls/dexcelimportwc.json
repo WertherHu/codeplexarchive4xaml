@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dexcelimportwc",
+  "Title": "Dynamic Excel Import Web Control",
+  "Description": "A web control for importing simple excel spreadsheets via copy and paste.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A web control for importing simple excel spreadsheets via copy and paste.<br /><br />The goal of this project is to eliminate the upload and server-side processing code required to import <u>simple</u> Excel spreadsheets.<br /><br />To accomplish this, I wrote a simple client-side javascript function that exploits the fact that when you copy cells from an Excel worksheet, they exist on the clipboard as a tab-delimited list, with rows delimited by new-line characters. <br /><br /><b>Project Status</b><br />The logic is fully contained in a web control, with a server-side event corresponding to the submission. When the user pastes from Excel, a in-browser modal popup displays the data and allows for editing before submitting to the server. I am currently targeting .Net 3.5, but I would be able to port it to 2.0 if anyone shows interest. <br /><br /><br /><b>Live Example</b><br /><del>I have put up a <a href=\"http://www.lobberecht.com/projects/excelimport/\">live example</a> for anyone to test out.</del><br />I&#39;ve had to take down the live example due to hosting issues.<br /><br />I will be adding more information when I have more free time.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-14T21:25:51.537-07:00"
+}

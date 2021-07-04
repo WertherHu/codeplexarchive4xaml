@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tubestar",
+  "Title": "TubeStar",
+  "Description": "TubeStar is a casual YouTube simulator game where you manage channels on a YouTube-type site - try create a viral hit! \r\nThe game is made in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TubeStar is a casual YouTube simulator game where you manage channels on a YouTube-type site - try create a viral hit&#33; <br />The game is made in WPF.<br /><br />Try become a viral sensation, earn enough from ad income to quit your job, or pollute the internet with videos so bad they have to be shared!<br /><br />Playable in <b>English</b>, <b>Portuguese</b>, <b>Spanish</b>, <b>French</b>, <b>Dutch</b>, <b>German</b>, <b>Italian</b>, <b>Czech</b>, <b>Swedish</b>, <b>Polish</b>, <b>Hungarian</b>, <b>Albanian</b>, <b>Romanian</b>, <b>Turkish</b>, <b>Russian</b>, <b>Georgian</b>, <b>Chinese</b>, <b>Indonesian</b> and <b>Thai</b>. <br />Visit <a href=\"http://tubestar.azurewebsites.net/Translation\">http://tubestar.azurewebsites.net/Translation</a> to add more languages.<br /><br /><img src=\"/projects/tubestar/31d37587-9c6e-4c5f-9d87-7c69fc0596c6\" alt=\"screen1.png\" title=\"screen1.png\" /><br /><i><sub>Main screen where daily planning occurs</sub></i><br /><br /><img src=\"/projects/tubestar/f6169f4c-d4a2-42c8-a633-1b518953d43e\" alt=\"screen2.png\" title=\"screen2.png\" /><br /><i><sub>Video management screen</sub></i><br /><br />On a development note, this game started out as a project of interest in trying to simulate the conditions for a video to go viral. It changed quite a bit to cater for the &quot;gameplay&quot; aspect, but the core concepts might be of interest to others.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "silverlight,game,.net,YouTube,C#,simulation,wpf,tag 1,",
+  "LastEdited": "2014-06-21T13:04:12.887-07:00"
+}

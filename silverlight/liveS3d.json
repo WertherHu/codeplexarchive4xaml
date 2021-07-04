@@ -1,0 +1,9 @@
+{
+  "ProjectName": "liveS3d",
+  "Title": "Live Stereoscopic 3D",
+  "Description": "Watch live stereoscopic 3D in Silverlight using 2 webcams and the MMP Player Framework (formerly known as the Silverlight Media Framework). This project includes a new plugin that can be easily combined with the new S3D feature relesed in version 2.5 of the MMP Player Framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Watch live stereoscopic 3D in Silverlight using 2 webcams and the MMP Player Framework &#40;formerly known as the Silverlight Media Framework&#41;. This project includes a new plugin that can be easily combined with the new S3D feature relesed in version 2.5 of the MMP Player Framework.<br /><br /><a href=\"http://timgreenfield.blob.core.windows.net/programmerpayback/LiveS3D.html\">Run the Live S3D web app</a><br /><br /><b>Note:</b> there are no binary downloads for this project, either open the web app above or <a href=\"http://lives3d.codeplex.com/SourceControl/list/changesets\">download the source</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-16T17:24:44.537-07:00"
+}

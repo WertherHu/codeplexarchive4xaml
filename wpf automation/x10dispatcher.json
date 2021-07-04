@@ -1,0 +1,9 @@
+{
+  "ProjectName": "x10dispatcher",
+  "Title": "X10Dispatcher",
+  "Description": "Interface for automating x10 cm15a home automation unit.   Extends remote monitoring and automation of computer activities based on sensors and events.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Interface for automating x10 cm15a home automation unit.   Extends remote monitoring and automation of computer activities based on sensors and events.<br /><br />This application is being released to allow the cm15a users/developers to maintain or create their own solutions based on it.<br /><br /><img src=\"http://obeliskos.com/dispatch/dispatch-ss-75.png\" /><br /><br />(1/18/2014)<br />I have made several changes to x10dipatcher to allow me to continue using for the next few years.<br /><br />I now compile against the (final?) version of the ActiveHome sdk (included with binaries download). This allows use on modern versions of windows (7/8/8.1)<br /><br />I removed broken msn and replaced it with a Twitter alert system.  You have to have a twitter account, and go to dev.twitter.com to register a new app (set permissions to read/write) and generate user key (read/write).  It will ask for a website url when creating &#39;App&#39;, you can use your own or try x10dispatcher.codeplex.com (not sure if they need to be unique).<br /><br />I also made changes to webserver&#39;s &#39;Custom Web&#39; support where you can copy files into the CustomWeb subfolder.  This can be an entire site with subfolders, javascript libraries, etc.  I also created some json webservices which you can call from it.  I will upload a sample web page/site as proof of how to use these services.<br /><br />If you run into any issues you can post comments in discussions.   </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-01-20T15:48:57.89-08:00"
+}

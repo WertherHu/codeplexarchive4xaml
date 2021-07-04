@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sortinganimation",
+  "Title": "Sorting Animation",
+  "Description": ".NET Component to show Sorting Animation of 3 sorting algorithm such as Bubble Sort, Insertion Sort, and Selection Sort",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This component is our first .NET desktop component. It was created as the final project of Component Oriented Programming in Informatics Faculty of <a href=\"http://www.ukdw.ac.id\">Duta Wacana Christian University</a> . This component is to show the animation of some sorting algorithm such as Bubble Sort, Insertion Sort, and Selection Sort. <br /><br />Please mention us if you want to use this component<br /><br />Author:<br />1. Tiffany Widya Lukartono<br />2. Vivi Citra Febriany<br />3. Klaudius Jemly Naban<br /><br />Regards,<br />Sorting Animation Team, PBK 2015</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,component,visual basic,informatics,duta wacana,pbk,ukdw,dwcu,IT UKDW,",
+  "LastEdited": "2015-05-18T08:40:50.38-07:00"
+}

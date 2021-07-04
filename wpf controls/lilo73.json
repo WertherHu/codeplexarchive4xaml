@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lilo73",
+  "Title": "Compact Framework Wizard Control",
+  "Description": "WizardControl can hold several WizardUserControls - which are the steps into the wizard. Target framework: 3.5CF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WizardControl can hold several WizardUserControls - which are the steps into the wizard. Target framework&#58; 3.5CF<br /><br />Please note that the WizardUserControls must be added during runtime as I do not know how to do custom properties editors.<br /><br />I&#39;ll try to put up an example project in a couple of days. Busy with my project!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-29T00:38:50.937-07:00"
+}

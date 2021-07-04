@@ -1,0 +1,9 @@
+{
+  "ProjectName": "guid",
+  "Title": "GUID Generator",
+  "Description": "GUID Generator is a small utility for generating GUIDs (Globally Unique Identifiers).  It's developed using C# and .NET 4 Client Profile.  There is also a Silverlight 4 version as well.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />GUID Generator is a small utility for generating GUIDs &#40;Globally Unique Identifiers&#41;.  It&#39;s developed using C&#35; and .NET 4 Client Profile.  There is also a Silverlight 4 version as well.<br /><br /><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=WD9NKW2CDM7XW\"><img style=\"border:none;\" src=\"https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif\" alt=\"Donate via PayPal\" title=\"Donate via PayPal\" /></a><br /><br />The WPF version runs in the system tray, can start automatically with Windows, and responds to system-wide hotkeys:\n<ul><li><img src=\"/projects/guid/03abd6f8-51ab-4162-8d9d-a24b301bf110\" alt=\"Windows&#32;Key\" title=\"Windows&#32;Key\" />+G generates a new GUID and copies it to the clipboard.</li>\n<li><img src=\"/projects/guid/03abd6f8-51ab-4162-8d9d-a24b301bf110\" alt=\"Windows&#32;Key\" title=\"Windows&#32;Key\" />+H generates multiple GUIDs (after prompting for a count) and copies them to the clipboard.</li></ul>\n<br />Both versions provide five different formats, provided by the <a href=\"http://msdn.microsoft.com/en-us/library/97af8hh4.aspx\">Guid.ToString</a> method, and both upper and lower case.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-20T13:40:51.093-07:00"
+}

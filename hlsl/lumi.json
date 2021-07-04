@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lumi",
+  "Title": "Lumi",
+  "Description": "Lumi is a light based platformer engine based on Neat Game Engine for XNA. Features: Dynamic  lighting and shadow system, level builder, console and scripting.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Lumi is the engine behind an abandoned light-based platformer game. It contains a full-featured visual level editor which is part of the game, and since it is based on Neat Game Engine for XNA 4.0, it has all the Neat features including scripting and console,\r\n animations, sprite sheet support and more.</p>\r\n<p>The editor makes it easy to draw polygons, insert items, enemies, lights and textures, and adjust light and texture settings.</p>\r\n<p>The lighting engine makes it possible to have dynamic real-time 2D lighting and shadows in the game. Each light has a variety of properties that can be tweaked to create nice visuals.</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"/projects/lumi/b85c9478-b51d-4f87-ad02-530099ec5f0b\"><img title=\"lumi\" border=\"0\" alt=\"lumi\" src=\"/projects/lumi/263468a2-75cc-4f46-9bf1-7c55ae25432b\" width=\"556\" height=\"308\" style=\"border-top:0px; border-right:0px; border-bottom:0px; padding-top:0px; padding-left:0px; border-left:0px; display:inline; padding-right:0px\"></a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,C#,game,game engine,hlsl,lighting,shadow,stencil lighting,platformer,",
+  "LastEdited": "2013-07-17T08:24:05.28-07:00"
+}

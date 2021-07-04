@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GetNAV",
+  "Title": "Get-NAV",
+  "Description": "\r\nA library to control Navision from External Code very easy. In an unknown future with additional functions",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Get-Navision<br>\r\n<br>\r\nGet-Navision is a Library to Control Navision from external Code.<br>\r\n<br>\r\nIt's very simple because its based on PowerShell.<br>\r\n<br>\r\nIn the future I will incorporate additional features.<br>\r\n<br>\r\nfeel free to Join the Project, feel free to use Get-Navision in your own Project.</p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" rel=\"license\"><img src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" alt=\"Creative Commons Lizenzvertrag\" style=\"border-width:0\"></a><br>\r\nGet-NAV von <a href=\"https://getnav.codeplex.com/wikipage?action=Edit&title=Home&referringTitle=Home\" rel=\"cc:attributionURL\">\r\nMarcus Aurelius</a> ist lizenziert unter einer <a href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" rel=\"license\">\r\nCreative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-02-18T08:23:13.48-08:00"
+}

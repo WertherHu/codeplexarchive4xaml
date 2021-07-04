@@ -1,0 +1,9 @@
+{
+  "ProjectName": "chart",
+  "Title": "WPF Chart Demo",
+  "Description": "WPF Line Graph implemented in XAML mostly with minimum code behind.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>WPF Chart Demo</b><br /><br />Demonstrate how to implement charts in XAML techologies with minimum aditional code behind.<br /><br /><br /><b>Using tecnologies:</b>\n<ul><li>XAML</li>\n<li>Paths &amp; Geometry</li>\n<li>Items panels</li>\n<li>Bindings &amp; Multibindings</li>\n<li>Converters <i>(all functional code here)</i></li>\n<li>Dependency objects &amp; properties <i>(all code behind here)</i></li>\n<li>Styles &amp; Templates</li>\n<li>Recources</li></ul>\n<br />Code behid contains only dependency properties description. All logic such as data set visualisation implemented in styles, templates and converters.<br /><br />Only Line Graph released<br /><br /><b>Screenshot:</b><br /><br /><img src=\"/projects/chart/61cc2b02-8bf1-4e7a-a5ec-b384726d9c4b\" alt=\"linegraph1.png\" title=\"linegraph1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Line,graph,WPF,chart,charts,linegraph,linechart,xaml,",
+  "LastEdited": "2014-08-28T10:08:31.943-07:00"
+}

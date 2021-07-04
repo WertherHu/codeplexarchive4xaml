@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fezminirobot",
+  "Title": "MRDS FezMini Robot Brick",
+  "Description": "This is an attemp to write services for MRDS to control a FezMini Robot with a wireless connection attached to COM2 on the FezMini Board.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an attemp to write services for MRDS to control a FezMini Robot with a wireless connection attached to COM2 on the FezMini Board.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "FEZ,Robotics Studio,robotics,MRDS,GHI Electronics,GHI,.NET,.NET Micro Framework,C#,",
+  "LastEdited": "2011-11-19T04:21:21.51-08:00"
+}

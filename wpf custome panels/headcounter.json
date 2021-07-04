@@ -1,0 +1,9 @@
+{
+  "ProjectName": "headcounter",
+  "Title": "HeadCounter",
+  "Description": "HeadCounter is a raid attendance and loot tracking application for World of Warcraft.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />HeadCounter is a raid attendance and loot tracking application for World of Warcraft.<br />\n<h1>HeadCounter</h1>\rHeadCounter is a program for monitoring attendance and loot in World of Warcraft raids.<br /> Data about each raid is gathered in-game using the popular raid tracking addon <a href=\"http://wow.curse.com/downloads/wow-addons/details/head-count.aspx\">HeadCount</a>.  <br /><br />This data is then imported into HeadCounter which:\n<ol><li>Records each raid, who attended, what loot dropped and who won it.</li>\n<li>Calculates useful information about attendance percentages and how much loot each player has received.</li>\n<li>Produces simple reports about attendance and looting for posting in your guild forums.</li></ol>\n<br />You can think of HeadCounter as a lightweight alternative to DKP.  It is ideally suited to a Loot Council approach to looting.\n<h2>Screenshots</h2>\r\n<img src=\"http://www.mathematicallysafe.com/headcounter/headcounter-1.png\" /><br /><img src=\"http://www.mathematicallysafe.com/headcounter/headcounter-2.png\" /><br /><img src=\"http://www.mathematicallysafe.com/headcounter/headcounter-3.png\" /><br /><img src=\"http://www.mathematicallysafe.com/headcounter/headcounter-4.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,wow,DKP,Warcraft,",
+  "LastEdited": "2010-02-28T07:02:54.7-08:00"
+}

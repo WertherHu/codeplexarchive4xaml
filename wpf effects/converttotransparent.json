@@ -1,0 +1,9 @@
+{
+  "ProjectName": "converttotransparent",
+  "Title": "Convert to Transparent Paint.NET effect",
+  "Description": "The Convert to Transparent Paint.NET effect alters images by converting lightness into transparency, making it possible to reuse line art in other canvases.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Convert to Transparent Paint.NET effect</h1>\r\nThe Convert To Transparent project is a Paint .NET effect that converts images into transparent images, using each pixel&#39;s lightness as the key to transparency.<br /><br /><b>Uses</b><br />Scanned images (e.g. line art) are very difficult to combine onto a canvas because selecting them using imaging tools (magic wands etc) results in ugly white/grey edges because of the natural &#39;fuzziness&#39; of strokes.<br /><br />What you want is a representation of the fuzzy stroke edges as transparency, not shades of grey.<br /><br />The Convert To Transparent effect converts pixels to transparent pixels, with the opacity based on the visibility of each pixel. That is, the lighter the colour, the more transparent it will be. The colour itself is adjusted to compensate for its reduced opacity.<br /><br />It works best with greyscale or black/white line art images but can be used on full-colour images too.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-01-06T04:22:38.7-08:00"
+}

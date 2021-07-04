@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sensenetclock",
+  "Title": "Sense/Net Clock Portlet",
+  "Description": "An animated clock portlet for Sense/Net ECMS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Sense/Net Clock Portlet</h1>\rAn animated clock portlet for Sense&#47;Net ECMS.\n<h2><a href=\"http://szelpe.kitores.org/Portlets/Clock/Demo\">View the Demo!</a></h2>\r<h2>The Portlet</h2>\r\nThis potlet shows a widely configurable and asynchronous animated clock.<br />Supported clock types:<br />\n<ol><li>Plain Text</li>\n<li>Digital</li>\n<li>Binary</li>\n<li>Hand Clock</li></ol>\n<br />You can select any <b>Time Zone</b> available on your server. From now on you can add a <b>CustomCss Class</b> to your portlet, and with the power of CSS you can design the look and feel of your clock as you wish.<br /><br />Go to the Download section, then please visit the <a href=\"https://sensenetclock.codeplex.com/documentation?referringTitle=Home\">Documentation</a> for <b>installation and configuration</b> instructions.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sensenet,ASP.NET 3.5,Silverlight 3,",
+  "LastEdited": "2009-10-31T04:36:20.357-07:00"
+}

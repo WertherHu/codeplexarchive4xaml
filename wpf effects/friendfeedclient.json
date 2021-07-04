@@ -1,0 +1,9 @@
+{
+  "ProjectName": "friendfeedclient",
+  "Title": "FriendFeed Client",
+  "Description": "*FriendFeed Client*\n\nThe goal of this project is to write a full-fledged +extensible+ FriendFeed-Client based on .NET 3.5, WPF, etc.\n\nThis project is in it's initial stages, although the core library that abstracts the Friendfeed API [url:http://friendfeed.com/api/] is almost complete.\n\nUI-Designers needed",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>FriendFeed Client</b><br /><br />The goal of this project is to write a full-fledged <u>extensible</u> FriendFeed-Client based on .NET 3.5, WPF, etc.<br /><br />This project is in its very initial stages, although the core library that abstracts the Friendfeed API <a href=\"http://friendfeed.com/api/\">http://friendfeed.com/api/</a> is almost complete.<br /><br />UI-Designers needed!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-06-03T23:35:32.893-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "splitterpanel",
+  "Title": "Splitter Panel Ajaxian ASP.NET WebControl",
+  "Description": "The SplitterPanel WebControl looks and works like the splitter panel seen on the MSDN website.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The SplitterPanel WebControl looks and works like the splitter panel seen on the MSDN website. The SplitterPanel WebControl splits page content between two seperate and scrollable areas with a moveable divider in between. The control provides several client side events and supports recent versions of IE, FireFox, and Chrome. <b>SplitterPanel now available through NuGet</b><br /><br /><br /><b>Control Features</b>\n<ul><li>Written in C# with .NET 4.0 (downgradable if you are still on 3.5 or 2.0)</li>\n<li>Does not require any 3rd party libraries </li>\n<li>CSS driven and fully styleable</li>\n<li>Press &quot;t&quot; to toggle left pane on-and-off just like on MSDN website</li>\n<li>Works with Internet Explorer, FireFox, and Chrome</li>\n<li>Crunched JavaScript with the Microsoft Ajax Minifier</li>\n<li>Robust client side library with the following events:\n<ul><li>Dragging</li>\n<li>Resizing</li>\n<li>Resized</li>\n<li>Toggling</li>\n<li>Toggled</li></ul></li></ul>\n<b>Requirements</b>\n<ul><li>System.Web.Extensions</li>\n<li>Microsoft Ajax Minifier</li>\n<li>Does not require the Ajax Toolkit</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SplitterPanel,Splitter,Panel,.NET 3.5,Ajax,Ajaxian,WebControl,ASP.NET,.net,Server Controls,AJAX.net,webcontrols,frames,msdn,",
+  "LastEdited": "2015-06-22T10:52:41.837-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metrotask",
+  "Title": "MetroTask",
+  "Description": "MetroTask, An example Metro based application using C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MetroTask, An example Metro based application using C&#35;<br /><br />The main goal is to provide a set of examples in C# for taking advantage of the new Metro platform for Windows 8. For now it has a basic functionality.<br /><br />From the user point of view, is a metro app. that contains different tasks are grouped into projects, and it the goal is to provide the following functions:\n<ul><li>Create, edit and delete tasks</li>\n<li>Create, edit and delete projects</li>\n<li>Create tasks using the share charm.</li>\n<li>Show next to due date tasks on the tiles.</li>\n<li>Show an alert when a task is next to due date.</li></ul>\n<br />From the developer point of view there are two projects:\n<ul><li>Metro C# Application: Implements the frontend of the application.</li>\n<li>WCF Web Service: Implements the backend service that will hold the data.</li>\n<li>Console Application: Used for service testing and debugging.</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-26T15:06:53.903-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netflixmvp",
+  "Title": "Netflix MVP Example",
+  "Description": "Example .NET movie application using the MVP pattern with windows forms and WPF.  Uses the Netflix Odata service to get movie information.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Example .NET movie application using the MVP pattern with windows forms and WPF.  Uses the Netflix Odata service to get movie information.<br /><br /><br />This is a sample project that I started so I could learn more about the Model View Presenter design pattern as well as play around with the Netflix movie database.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-01T09:27:57.673-07:00"
+}

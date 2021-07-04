@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightDebate",
+  "Title": "Silverlight Debate Forum",
+  "Description": "A Silverlight project that creates a Debate Forum. Uses MEF and View Model / MVVM, and allows the site to be skinned and changed dynamically at run-time.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Silverlight project that creates a Debate Forum. Uses MEF and View Model &#47; MVVM, and allows the site to be skinned and changed dynamically at run-time.<br /><br /><img src=\"/projects/SilverlightDebate/f734fe36-de39-4727-b089-597d8101e8f1\" alt=\"ver2tabs.png\" title=\"ver2tabs.png\" /><br /><br /><img src=\"/projects/SilverlightDebate/3d38de42-9294-49f3-ba88-17a8e5a52959\" alt=\"ver2windows.png\" title=\"ver2windows.png\" /><br /><br /><img src=\"/projects/SilverlightDebate/9f562683-7bab-49ee-b118-f3e517c8258a\" alt=\"db.png\" title=\"db.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-17T06:12:33.887-07:00"
+}

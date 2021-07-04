@@ -1,0 +1,9 @@
+{
+  "ProjectName": "resourceenumerator",
+  "Title": "Resource Enumerator",
+  "Description": "Resource Enumerator is a Visual Studio editor viewport adornment, which helps better navigation to resources in a Resource Dictionary.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n<br>\r\nResource Enumerator is a Visual Studio editor viewport adornment, which displays a dropdown with the list of all available resources in the currently open XAML Resource Dictionary. You can select a resource from the dropdown and easily navigate to that particular\r\n resource in the Resource Dictionary. The extension also responds and updates the Resources collection as you add new resources to the Resource Dictionary.</p>\r\n<p><br>\r\nRevision History:</p>\r\n<p>0.8: Fixed a crash that happens when you have empty values in x:Key&nbsp;</p>\r\n<p>0.7: Adornment now displays sorted list of resources.</p>\r\n<p>0.6: Fixed a crash on Windows 7 due to reference to PresentationFramework.Aero2 assembly.</p>\r\n<p>0.5 Adornment now responds for Visual Studio Theme changes</p>\r\n<p>0.4: Updated code to make the extension work even when the Resource Dictionary is opened in &quot;Source Code (Text) Editor&quot; instead of XAML Editor.</p>\r\n<p>0.3: Fixed a bug in scrolling into view and also dropped support for VS2012 for now, but will be added soon.</p>\r\n<p>0.2: Enabled support for VS2012 as well.</p>\r\n<p>0.1: Initial Release.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Resource Dictionary,2013,Visual Studio,XAML,",
+  "LastEdited": "2015-10-04T06:27:29.123-07:00"
+}

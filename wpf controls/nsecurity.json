@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nsecurity",
+  "Title": "NSecurity",
+  "Description": "This library implements Access Control Security by maintaining Access Control Entries (ACE) for each secured object.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nSecuring large number of hierarchically organized objects is not a trivial task. This library contains a C# implementation of Access Control Entry (ACE) based security.\r\n<br>\r\n<br>\r\nThe idea of Access Control Entries is <span id=\"result_box\" lang=\"en\"><span>as</span>\r\n<span>old</span> <span>as it is</span> <span>simple</span></span>: an operation (verb) maybe executed by a subject on a resource (securable) only if a tern S-V-S (Securable-Verb-Subject) exists and it evaluated to true (allow). In every other case the access\r\n is denied.</p>\r\n<p>Resources to be guarded may have a container-containable relationship. NSecurity supports security inheritance, that is, if no security is defined on resource's level, it inherits security definition on a parental level. If no ACEs are defined on a parental\r\n level then grand-parental level is examined, and so on.</p>\r\n<p>A subject (which is usually a user) may belong to a group (role). Roles themselves are subjects. If all, the subject and its roles allow access to the object, the operation is allowed. In every other case NSecurity denies access.</p>\r\n<p>This security works much like <a href=\"http://www.microsoft.com/resources/documentation/windowsnt/4/workstation/reskit/en-us/security.mspx?mfr=true\">\r\nWindows NT Resource Security Model</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-13T05:34:04.52-07:00"
+}

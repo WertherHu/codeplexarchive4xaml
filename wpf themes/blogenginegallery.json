@@ -1,0 +1,9 @@
+{
+  "ProjectName": "blogenginegallery",
+  "Title": "BlogEngine.Gallery",
+  "Description": "BlogEngine.Gallery is a supporting project for BlogEngine.NET. It provides gallery functionality to serve themes, extensions and widgets as NuGet packages.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />BlogEngine.Gallery is a light-weight gallery front-end NuGet package feed for BlogEngine.NET blogs.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-13T21:20:29.153-07:00"
+}

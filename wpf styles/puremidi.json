@@ -1,0 +1,9 @@
+{
+  "ProjectName": "puremidi",
+  "Title": "Pure Midi",
+  "Description": "Pure Midi - Handling midi communication in .NET with full sequencing support and arranger like musical styles playing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nPure Midi - Handling midi communication in .NET with full sequencing support and arranger like musical styles playing.<br>\r\n<br>\r\nThis project is created for utilize some functions not available in widely known midi applications.<br>\r\nThere are some goals which I would like to achieve:</p>\r\n<ul>\r\n<li>Write midi monitor </li><li>Write split playing application </li><li>Write sequencing helper modules (incl. arpeggiator, step sequencer, rhythm sequencer and arranger module)\r\n</li><li>Write some GUI modules for handling presets of synthesizers with special careful for handling with touch screen monitors\r\n</li><li>Create module for transfer midi streams over TCP/IP </li><li>Combine all together into one (or more) very useful application(s). </li></ul>\r\n<p><br>\r\nAnd now some notes about my implementation of some midi standards: <a href=\"/wikipage?title=Midi%20standard%20implementation&referringTitle=Home\">\r\nMidi standard implementation</a><br>\r\n<br>\r\nI would add some special thanks for Leslie Sanford for <a href=\"http://www.codeproject.com/KB/audio-video/MIDIToolkit.aspx\">\r\nC# MIDI Toolkit</a><br>\r\nand <a href=\"http://blog.scooletz.com/\">SCOOLETZ</a> for very useful architecture advices.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MIDI,SYSEX,MONITOR,SEQUENCER,",
+  "LastEdited": "2011-03-18T00:28:25.987-07:00"
+}

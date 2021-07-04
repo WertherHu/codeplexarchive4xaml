@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AlloysVisualisation",
+  "Title": "Visualisation of diffusion and ordering processes in intermetallic alloys",
+  "Description": "Visualisation of diffusion and ordering processes in intermetallic alloys using WPF 3D and C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Visualisation of diffusion and ordering processes in intermetallic alloys using WPF 3D and C&#35;.<br /><br />The structure of complex metallic alloy (CMA) beta-Mg2Al3 has very interesting and still unclear properties. <br />The current project focus on the visualisation of the most stable structure of atomic positions in 3D space.<br /><br /><img src=\"/projects/AlloysVisualisation/a5a296a1-c488-4dbd-8d45-1e122d759d9d\" alt=\"screen.png\" title=\"screen.png\" /><br /><br /><b>How to use?</b><br /><br />A .chmc file in mandatory (folder with 31 .chmc files is included in release). Open File button opens the file and generates models. <br /><br />To process a group of file the user needs to click Process Files button and open a folder with group of .chmc files e.g. one included in release.<br /><br /><b>Video</b><br /><br /><a href=\"http://www.youtube.com/watch?v=CsOJeIbpqro\">http://www.youtube.com/watch?v=CsOJeIbpqro</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,3D,CMA,alloy,Visualisation,",
+  "LastEdited": "2012-08-29T15:36:26.823-07:00"
+}

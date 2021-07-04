@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wsstudioexpress",
+  "Title": "Web Service Studio Express",
+  "Description": "Web Service Studio Express is a tool to help testing and debugging Web services. Using this program you can select a Web service on the net (e.g. Intranet or Internet), view a list of supported operations and dinamically invoke its methods, making easier the task of testing the correct behavior of the service.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Web Service Studio Express</b><br /><br />Web Service Studio Express is a tool to help testing and debugging Web services. Using this program you can select a Web service on the net &#40;e.g. Intranet or Internet&#41;, view a list of supported operations and dinamically invoke its methods, making easier the task of testing the correct behavior of the service.<br /><br /><img src=\"/projects/wsstudioexpress/35f889b7-f945-4120-ab21-1f34e96c98b2\" alt=\"MainWindow.jpg\" title=\"MainWindow.jpg\" /><br /><br />System requirements:\n<ul><li><b>Visual Studio 2005</b> (the project is written in <b>C#</b> and <b>Visual Basic .NET</b>)</li>\n<li>Internet connection</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "vs2005,.NET,C#,debugging,.NET 2.0,VB,Tools,visual basic,web service,Web Services,webservices,WS,Studio,tool,",
+  "LastEdited": "2007-03-16T03:24:57.93-07:00"
+}

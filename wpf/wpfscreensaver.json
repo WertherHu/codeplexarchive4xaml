@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfscreensaver",
+  "Title": "WPF Screensaver",
+  "Description": "This application is built in WPF and provides a nice and easy way to run a desktop screensaver. It will let you set the duration of inactivity before it runs. \n\nIt also lets you set the transition and crossfade time between images. The transitions are smooth and high quality",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This application is built in WPF and provides a nice and easy way to run a desktop screensaver. It will let you set the duration of inactivity before it runs. <br /><br />It also lets you set the transition and crossfade time between images. The transitions are smooth and high quality<br /><br /><br /><br />- A great replacement to the use of flash for nice screensavers.<br />- Source is uploaded and works great for us. It is well tested on xp, vista, windows 7<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-14T03:31:45.637-08:00"
+}

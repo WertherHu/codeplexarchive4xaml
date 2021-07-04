@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpforcedotcompivot",
+  "Title": "Windows Phone Force.com Toolkit Test with Pivot Control",
+  "Description": "Microsoft's Windows Phone template for pivot control + basic integration of Force.com .NET Toolkit from http://bit.ly/1iyeWR3",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Windows Phone 8 Pivot Control with Force.com Toolkit for .NET</b><br />Microsoft&#39;s Windows Phone template for pivot control &#43; basic integration of Force.com .NET Toolkit from http&#58;&#47;&#47;bit.ly&#47;1iyeWR3<br /><br />Just a simple test using the standard Microsoft template for a Windows Phone Pivot project, with the following incorporated from the Force.com Toolkit for .Net:<br />- Force.com authentication<br />- Force.com query<br /><br />Please see the following link for more on the Force.com Toolkit for .NET: <a href=\"http://blogs.developerforce.com/developer-relations/2014/01/announcing-the-salesforce-toolkits-for-net.html\">http://blogs.developerforce.com/developer-relations/2014/01/announcing-the-salesforce-toolkits-for-net.html</a><br /><br />There are infinite ways to improve this project, especially around auto-refresh of the data. On the positive side, I have taken pains to adhere to Microsoft&#39;s stock template for the pivot control as much as possible, as well as to clearly differentiate the Force.com classes. The code is extensively documented. It includes TODO references for how to get up and running with a free Force.com developer environment, connect the Windows Phone app, and add test data.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-01-25T13:24:28.823-08:00"
+}

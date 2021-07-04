@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dacuapp",
+  "Title": "DACU",
+  "Description": "It's small app to use vkontakte. It's developed in C# (Visual Studio 2010) and use .Net 4.0 WPF technology, and Bass.dll to play audio files/inet radio/vkontakte audio.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />It&#39;s small app to use vkontakte. It&#39;s developed in C&#35; &#40;Visual Studio 2010&#41; and use .Net 4.0 WPF technology, and Bass.dll to play audio files&#47;inet radio&#47;vkontakte audio.<br /><br />To run application you need to install .Net Framework 4.0</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-15T06:54:29.24-08:00"
+}

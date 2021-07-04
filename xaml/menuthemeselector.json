@@ -1,0 +1,9 @@
+{
+  "ProjectName": "menuthemeselector",
+  "Title": "Horizontal Menu with Theme Selector",
+  "Description": "Horizontal Menu with Theme Selector for Designer audience. Gives you the option to switch between themes. Developed in XAML and C#. Theme Selector has 11 themes and a default state. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Horizontal Menu with Theme Selector for Designer audience. Gives you the option to switch between themes. Developed in XAML and C#.  <br /><br />This application showcases the various themes available in Silverlight. This horizontal menu is designed to give you a feel of which theme suits best for your needs. The Theme selector is available with 11 themes and a default state to enable the designer switch between themes. <br /><br />This is targeted mainly for the designer audience in Silverlight community. This has been developed in XAML and C# using Visual Studio 2010. The theme dlls have been taken from Microsoft Silverlight Toolkit April &#39;10 release. This is based on Silverlight 4 (the latest version of Silverlight). <br /><br />The 11 themes in this project are: <br />BubbleCreme, <br />BureauBlack, <br />BureauBlue, <br />ExpressionDark, <br />ExpressionLight, <br />RainierOrange, <br />RainierPurple, <br />ShinyBlue, <br />ShinyRed, <br />TwilightBlue and <br />WhistlerBlue</div><div class=\"ClearBoth\"></div>",
+  "TagList": "menu,themes,horizontal,silverlight 4,",
+  "LastEdited": "2010-11-16T22:59:52.63-08:00"
+}

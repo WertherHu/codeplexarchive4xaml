@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SigmaASC105lib",
+  "Title": "Sigma ASC 105 Control Library",
+  "Description": "Control library for Sigma ASC 105 LED display panel.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Sigma ASC 105 is a three-color LED display panel available in the European Makro/Metro stores. The panel can be programmed via IR remote control or from computer, using proprietary software communicating over serial port. The panel is pretty cheap, compared to other similar products, but does not come with any documentation regarding used communication protocol, nor API useable from other programs. So I hacked the communication protocol and wrote one by myself.<br /><br /><img src=\"/projects/SigmaASC105lib/38db9785-5d9b-4f46-ba08-95882cbe13bb\" alt=\"LCD-CodePlex.png\" title=\"LCD-CodePlex.png\" /><br /><br />The <b>Sigma ASC 105 Control Library</b> is a .NET library written in C#, which allows developers to write software programming the LED display.<br /><br />Please note, that this library is not targeted to normal users, but to developers. It does not replace the included software and is not functional on itself. See the demo program in the <a href=\"http://www.codeplex.com/SigmaASC105lib/SourceControl/ListDownloadableCommits.aspx\">source code repository</a> for example.<br /><br /><b>Please provide bug reports etc. using the &#39;Issue Tracker&#39;, not via comments for this page etc.</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WANT ONE,",
+  "LastEdited": "2008-09-16T17:03:57.15-07:00"
+}

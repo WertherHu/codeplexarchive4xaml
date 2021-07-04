@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverStackOverFlow",
+  "Title": "Mimic StackOverFlow Q&A Site using Silverlight",
+  "Description": "Purpose of this project is to study and learn Silverlight by developing Silverlight application mimic StackOverFlow site.\n\nIn this project, following skill set will be used :\n - Silverlight 4.0\n - Entity Framework 4.0 (Code First CTP)\n - WCF Service",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThe purpose of this project is to study and learn Silverlight by developing web application mimic StackOverFlow site.<br>\r\n<br>\r\nIn this project, we use following skills :<br>\r\n- Silverlight 4.0<br>\r\n- Entity Framework 4.0 (Code First CTP)<br>\r\n- WCF<br>\r\n<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-08T17:38:40.28-08:00"
+}

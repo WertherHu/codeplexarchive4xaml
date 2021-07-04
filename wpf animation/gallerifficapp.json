@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gallerifficapp",
+  "Title": "Galleriffic App for SharePoint 2013",
+  "Description": "Galleriffic App is an app part for SharePoint 2013 to display a picture gallery with cool JQuery animations and effects. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>Galleriffic App is an app part for SharePoint 2013 to display a pictures gallery with cool JQuery animations and effects. This App is an open source tool distributed under MIT license by\r\n<a href=\"http://blogs.msdn.com/b/ocarpen/\" target=\"_blank\">Olivier Carpentier</a>&nbsp;and based on the excellent\r\n<a href=\"http://www.twospy.com/galleriffic/\" target=\"_blank\">Galleriffic</a> jquery extension by Trent Foley.</p>\r\n<p><strong>App Screenshots</strong></p>\r\n<p><strong>&nbsp;</strong>Galleriffic App part sample :</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=gallerifficapp&DownloadId=502429\" alt=\"\" width=\"600\" height=\"402\"><br>\r\nAdministration page :</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=gallerifficapp&DownloadId=502430\" alt=\"\"></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sharepoint 2013,Sharepoint Apps,images,pictures gallery,jquery,gallery,",
+  "LastEdited": "2012-10-08T22:36:28.383-07:00"
+}

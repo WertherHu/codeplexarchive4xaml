@@ -1,0 +1,9 @@
+{
+  "ProjectName": "emotivengineclient",
+  "Title": "Emotiv Engine Client",
+  "Description": "Provides an event-driven .NET framework wrapper around the managed Emotiv EPOC neuroheadset API.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nProvides an event-driven .NET framework wrapper around the managed Emotiv EPOC neuroheadset API.<br>\r\n<br>\r\n<strong>Requirements</strong></p>\r\n<ul>\r\n<li>Emotiv EPOC neuroheadset Research Edition SDK: Available from <a href=\"http://www.emotiv.com/\">\r\nEmotiv</a>, list price $750.00. </li><li>Visual Studio 2012: Available from <a href=\"http://www.microsoft.com/visualstudio/eng/downloads\">\r\nMicrosoft</a>. </li><li>Windows 7 or higher: Widely available, <em>e.g.</em>, <a href=\"http://www.microsoftstore.com/store/msstore/list/categoryID.50726100\">\r\nMicrosoft Store</a>. </li></ul>\r\n<p><br>\r\n<strong>Documentation</strong><br>\r\nReasonably complete documentation (<a href=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=emotivengineclient&DownloadId=640463\">EmoEngineClientLibrary Documentation</a>) is built in the project by using\r\n<a href=\"http://sandcastle.codeplex.com/\">Sandcastle</a>. A brief overview is provided in the\r\n<a href=\"http://emotivengineclient.codeplex.com/documentation\">Documentation</a> tab.<br>\r\n<br>\r\n<strong>Screenshot of the test application</strong><br>\r\nHere's a screenshot of the realtime neurodata stream.<br>\r\n<br>\r\n<img title=\"Emotiv Engine Client\" src=\"http://blogs.msdn.com/blogfiles/jgalasyn/WindowsLiveWriter/Funwithbrainwavespart3Heressomecode_EE56/emoClient4_3.jpg\" alt=\"Emotiv Engine Client\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "emotiv,brainwave,eeg,C#,xaml,Neuroscience,.NET,WPF,Visual Studio 2010,Windows,Sandcastle,",
+  "LastEdited": "2013-11-13T17:48:29.007-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "visto",
+  "Title": "Visto JavaScript Framework (VistoJS)",
+  "Description": "The VistoJS framework integrates KnockoutJS, JQuery, RequireJS and TypeScript to provide XAML-like GUI development in single-page JavaScript applications. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>The project has been <a href=\"https://github.com/VistoJS/Core\">moved to GitHub</a>. </h1>\r\nThe files hosted here are from the version 1.x of the Visto JavaScript Framework. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "javascript,xaml,view,Binding,MVVM,knockoutjs,TypeScript,single-page app,Knockout,",
+  "LastEdited": "2015-05-29T12:36:03.607-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "digital",
+  "Title": "digital view widget",
+  "Description": "    本项目提供了一下可以设置字符数据、字体大小、字间距百分比以及设置字体的皮肤等参数的数字显示控件，其显示效果类似于数字时钟或电气仪表的数字字符。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>数字显示控件</strong><br>\r\n<br>\r\n&nbsp;&nbsp;&nbsp; 数字显示控件可以用来显示类&#20284;于数字时钟或电气仪表的数字字符。</p>\r\n<p>&nbsp;&nbsp;&nbsp; 本控件提供了设置字符数据、字体大小、字间距百分比以及设置字体的皮肤功能的参数。</p>\r\n<p>&nbsp;<strong>参数</strong></p>\r\n<p>－字符数据</p>\r\n<p>－字体大小</p>\r\n<p>－字间距百分比</p>\r\n<p>－字体的皮肤</p>\r\n<p>使用该控件需要引入<a title=\"jQuery框架\" href=\"http://jquery.com/\" target=\"_blank\">jQuery.js</a>框架。</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "digital,widget,control,",
+  "LastEdited": "2014-07-17T02:29:39.22-07:00"
+}

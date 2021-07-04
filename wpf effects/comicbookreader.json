@@ -1,0 +1,9 @@
+{
+  "ProjectName": "comicbookreader",
+  "Title": "Comic Book Reader",
+  "Description": "Comic Book Reader makes it easier for lovers of eComic to read CBZ files. It features a zoom and panning control and lists the CBZ file contents to make it easy to find the page you are after. It's developed in C# and WPF. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Comic Book Reader makes it easier for lovers of eComic to read CBZ files. It features a zoom and panning control and lists the CBZ file contents to make it easy to find the page you are after. It&#39;s developed in C&#35; and WPF. <br /><br />At the moment it only does cbz but i will work on cbr next then other compression types.<br /><br />I also want to convert comics to 16 colour greyscale pdfs so they can be veiwed on my iliad ebookreader</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,SharpZipLib,C#,Comic,",
+  "LastEdited": "2009-05-28T04:34:42.78-07:00"
+}

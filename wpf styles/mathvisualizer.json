@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mathvisualizer",
+  "Title": "F# Math Visualizer",
+  "Description": "MathVisualizer is a project, wrote in F#, made for an university exam. It allow to write math expressions following, one or more, specifics syntaxes (included latex-like) and display these in mathematical style. An expression can be wrote following some type of syntax: extended, contract, mixed. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MathVisualizer is a project, wrote in F&#35;, made for an university exam. It allow to write math expressions following, one or more, specifics syntaxes &#40;included latex-like&#41; and display these in mathematical style. An expression can be wrote following some type of syntax&#58; extended, contract, mixed. <br /><br />Requisiti: .Net Framework 4.0</div><div class=\"ClearBoth\"></div>",
+  "TagList": "f#,Math,math f#,Latex,math visualizer,panel,",
+  "LastEdited": "2011-06-28T07:53:00.167-07:00"
+}

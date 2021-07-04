@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bicubic",
+  "Title": "BicubicResizeSilverlight",
+  "Description": "A client-side Silverlight library for performing a bicubic resize. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A client-side Silverlight library for performing a bicubic resize. <br /><br />This is a 7KB Silverlight DLL that can perform client-side bicubic resizes of WriteableBitmaps. It is used as an extension method:<br /><br /><pre>\n    using System.Windows.Media.Imaging;\n\n    //Initialize and load your image.\n    var myImage = new WriteableBitmap();\n    int newWidth, newHeight;\n    var resizedImage = myImage.ResizeBicubic(newWidth, newHeight);\n</pre><br /><br />This code is borrowed from <a href=\"http://www.aforgenet.com/framework/license.html\">AForge</a> and as such is bound to the terms of the LGPL. In order to minimize licensing impact, this single method has been abstracted out into its own DLL and re-released under the LGPL. Thanks to <a href=\"http://www.marauderzstuff.com/PermaLink,guid,be14adce-e5e3-41b5-abac-5fb40380e914.aspx\">Marauderz</a> for the initial port of the AForge code. Alpha channel is supported in this release. <br /><br />For more WriteableBitmap image manipulation, please see the <a href=\"http://writeablebitmapex.codeplex.com/\">WriteableBitmapEx</a> or <a href=\"http://imagetools.codeplex.com/\">Image Tools</a> projects. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-18T12:49:26.94-07:00"
+}

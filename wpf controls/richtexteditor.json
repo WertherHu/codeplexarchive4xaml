@@ -1,0 +1,9 @@
+{
+  "ProjectName": "richtexteditor",
+  "Title": "Rich Text Editor Control for Silverlight",
+  "Description": "This control inherits from RichTextBox. It adds properties to get or set the formatting at the carat in the text. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>RichTextEditor</strong><br>\r\n<br>\r\nThis control inherits from RichTextBox. It adds properties to get or set the formatting at the carat in the text.\r\n<br>\r\n<br>\r\nAn example project is included using the control. This is based on the official Microsoft sample for the RichTextBox. Unlike the official sample this version shows the formatting at the carat in the formatting controls, and allows you to apply formatting on\r\n the fly - instead of only applying it onto selected text after it has been typed.<br>\r\n<br>\r\nHere is a blog post about the project containing a live sample:<br>\r\n<br>\r\n<a href=\"http://chaosorganised.com/wordpress/?p=87\">Silverlight RichTextEditor</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight 5,Rich text editor,richtextbox,",
+  "LastEdited": "2014-03-22T12:22:48.943-07:00"
+}

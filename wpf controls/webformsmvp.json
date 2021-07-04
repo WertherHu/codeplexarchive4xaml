@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webformsmvp",
+  "Title": "Web Forms MVP",
+  "Description": "A simple Model-View-Presenter framework for ASP.NET Web Forms to aid in building testable and maintainable ASP.NET projects. Features support for normal server controls, data-binding and async pages.\n\nRequires ASP.NET 3.5 SP1",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Migrated to GitHub: <a href=\"https://github.com/webformsmvp/webformsmvp\">https://github.com/webformsmvp/webformsmvp</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,ASP.NET 3.5 SP1,MVP,Model View Presenter,Model-View-Presenter,Test Driven Design,Testing,R&D,CMS,ASP.NET 4.0,",
+  "LastEdited": "2013-11-19T13:42:29.907-08:00"
+}

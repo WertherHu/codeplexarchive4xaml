@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SQLToolbox",
+  "Title": "SQLToolbox.NET",
+  "Description": "SQLToolbox is a Schema Comparator for SQLServer 2005.\n\nSupported features:\n* Compares schema's of 2 databases on a SQL2005 server\n* SQL 2000 is supposed to work too (untested).\n* Shows the different and equal objects in both databases, and scripts to create them (in windiff style).\n\nPre-requirements\nYou'll need the .NET framework 3.5 to run this application.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SQLToolbox is a Schema Comparator for SQLServer 2005.<br /><br />Supported features&#58;<br />&#42; Compares schema&#39;s of 2 databases on a SQL2005 server<br />&#42; SQL 2000 is supposed to work too &#40;untested&#41;.<br />&#42; Shows the different and equal objects in both databases, and scripts to create them &#40;in windiff style&#41;.<br /><br />Pre-requirements<br />You&#39;ll need the .NET framework 3.5 to run this application.<br /><br /><br /><br /><a href=\"https://sqltoolbox.codeplex.com/wikipage?title=news&referringTitle=Home\">news</a> - last updated at 2009-06-17</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SQL Server 2005,SQL Tools,SQLServer,schema,database schema,comparing,",
+  "LastEdited": "2009-06-17T05:42:10.923-07:00"
+}

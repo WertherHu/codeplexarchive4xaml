@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Adder",
+  "Title": "Adder",
+  "Description": "Adder is simply converter for WPF binding.\r\n\r\nThey add a value from parameter to target if a target int or double, concatenate parameter and value if type a strin",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Adder is simply converter for WPF binding.<br /><br />They add a value from parameter to target if a target int or double, concatenate parameter and value if type a string and inverse value if type a boolean. For example, may be used for binding width or height to another some different value.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Converter,WPF,",
+  "LastEdited": "2013-10-24T05:51:53.99-07:00"
+}

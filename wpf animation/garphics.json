@@ -1,0 +1,9 @@
+{
+  "ProjectName": "garphics",
+  "Title": "GArphics",
+  "Description": "GArphics uses a genetic algorithm to produce graphics and animation with the assitance of the user.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The program generates random set of mathematical functions and draws images based on those functions, it then uses genetic algorithm (with the help of the user) to generate more variations and new images.<br /><br />The basic principle on GArphics is that first a function z=f(x,y) is randomly generated and then the value z is calculated for every pixel on the target image. Values are then scaled to 24-bit integers and converted to colour. In an essence, a graph of the function is drawn.<br />On the program, user has the ability mutate and cross the functions and in this way search for more pleasing images with genetic algorithm. User can also save the function to XML-file and again load it back for processing again later. It is also possible to modify some of the parameters affecting genetic algorithm, save pictures to bitmaps and generate animations based on the functions.<br /><br />Program can be used for example to generate textures for games, background-pictures for computers or cool images and animations just for fun.<br />The example-files have already been converted to PNG-images which can be used as backgrounds and they can be downloaded from here: <a href=\"http://garphics.codeplex.com/releases/view/44287\">http://garphics.codeplex.com/releases/view/44287</a><br /><img src=\"/projects/garphics/6ead55dc-4c9f-408f-a73f-b9aadeedada5\" alt=\"Backgrounds.png\" title=\"Backgrounds.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-25T13:25:09.57-07:00"
+}

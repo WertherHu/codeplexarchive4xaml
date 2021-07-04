@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OpenStreetMap2Oracle",
+  "Title": "OpenStreetMap2Oracle",
+  "Description": "OpenStreetMap2Oracle is a windows application, which exports OpenStreetMap Data (*.osm - files) in an oracle database. The geometries will be stored in oracle's SDO_GEOMETRY datatype. It is developed in C Sharp with modern WPF - UI. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><strong>We moved to github, see&nbsp;<a href=\"https://github.com/ohlsen1980/openstreetmap2oracle\" target=\"_blank\">https://github.com/ohlsen1980/openstreetmap2oracle</a></strong></h1>\r\n<p>&nbsp;</p>\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nOpenStreetMap2Oracle is a windows application, which exports OpenStreetMap Data (*.osm - files) to an oracle database. The geometries will be stored in oracle's SDO_GEOMETRY datatype. It is developed in C Sharp with modern WPF - UI.\r\n<br>\r\nThe application runs with Windows XP, Windows Vista and Windows 7 both in 32Bit and 64Bit. Supported oracle versions are 10gR2 and 11gR2.<br>\r\n<br>\r\nHow to use this software see <a href=\"http://openstreetmap2oracle.codeplex.com/documentation\">\r\nDocumentation</a>. <br>\r\n<br>\r\nYou want to get involved in developing this software? See <a href=\"http://openstreetmap2oracle.codeplex.com/SourceControl/list/changesets\">\r\nSource Code</a> section. <br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "OpenStreetMap,oracle,ORACLE PROVIDER,geospatial,geoinformation,geodatabase,xml,Mapping,Map,Maps,Database,WPF,C#,ADO.NET,mapguide,OSM,Vector,geomarketing,spatial,Spatial DB,converter,Export,Geometry,Basemap,Open Source,SDO_GEOMETRY,MDSYS.SDO_GEOMETRY,spatial_index,Geocoding,Geolocation,Geotagging,GeoCaching,geocache,routing,Navigation,C Sharp,SDO,Parallel,Oliver Schöne,Christian Möller,import,Import Tools,Importer,Export Tools,exporter,",
+  "LastEdited": "2017-08-30T06:38:37.883-07:00"
+}

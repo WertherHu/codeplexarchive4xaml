@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mongodbclient",
+  "Title": "MongoDB Managment Client",
+  "Description": "Development MongoDB Web client. \r\nHTML 5\r\njQuery.\r\nOne page web application.\r\nWhen Windows 8 metro is released then Metro style application To.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><b>WPF</b> client for management mongodb server. For professionals and not. <br /><br /><b>**Delete the following note before publishing **</b><br />Start development currently on .NET Framework 4.0 and C#.<br /><br /><br />There are three requirements before you publish:<br /><br />- Edit this page to provide information about your project<br />- Upload the initial source code for your project<br />- Add your project license<br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-08T02:54:43.237-07:00"
+}

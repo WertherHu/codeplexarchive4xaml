@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlTune",
+  "Title": "XamlTune",
+  "Description": "XamlTune has two main goals:\n - convert svg file to xaml files\n - automate xaml transformations in order to improve design and code integration",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XamlTune has two main goals:\n<ul><li>A svg to xaml conversion library.</li>\n<li>A xaml formatter that cleans and refines xaml</li></ul>\n<br />The current release comes with a svg2xaml command line tool and a winforms app that integrates the xaml formatter.<br /><br />This project uses <a href=\"http://sourceforge.net/projects/svgdomcsharp/\">SharpVectors (SVG#)</a> rendering engine.<br /><br /><b>This project is no longer being actively maintained.  If you&#39;d like to take over as maintainer, just ask!</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "xaml,MyList,SVG,",
+  "LastEdited": "2010-11-30T13:35:22.07-08:00"
+}

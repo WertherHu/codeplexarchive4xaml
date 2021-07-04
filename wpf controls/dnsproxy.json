@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnsproxy",
+  "Title": "DnsProxy.Service",
+  "Description": "DnsProxy.Service is a simple DNS proxy for Windows (in form of service) for those who want to have full control on how system resolves hostnames.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DnsProxy.Service is a simple DNS proxy for Windows &#40;in form of service&#41; for those who want to have full control on how system resolves hostnames.<br /><br /><br /><b>**Under construction**</b><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-01-25T15:16:16.95-08:00"
+}

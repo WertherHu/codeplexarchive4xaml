@@ -1,0 +1,9 @@
+{
+  "ProjectName": "independence",
+  "Title": "Independence - Consulting Time Tracking and Billing ASP.NET Project",
+  "Description": "The goal of the the Independence Project is to create a very simple interface for consultants to track time on projects and bill for projects.  Although there are a lot of solutions for this out there, they tend to fairly complex...simplicity is the goal with Independence.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The goal of the the Independence Project is to create a very simple interface for consultants to track time on projects and bill for projects.  Although there are a lot of solutions for this out there, they tend to fairly complex...simplicity is the goal with Independence.<br /><br /><br /><b>This project is in Alpha status.</b><br /><br />I have released the project to get feedback, but it is in an alpha status at this point.  See the release notes for limitations of the application and deployment instructions.<br /><br />Try out a live demo at <a href=\"http://portfolio.authenticwebdev.com\">http://portfolio.authenticwebdev.com</a>.<br /><br />To learn more about me, visit my website: <a href=\"http://www.authenticwebdev.com\">http://www.authenticwebdev.com</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Consulting,Time Tracker,SQL Server 2005,SQL Server,AJAX,AJAX Control Toolkit,SharpPieces,N-Tier,Object-Oriented,MembershipProvider,billing,ASP.NET 2.0,",
+  "LastEdited": "2009-01-21T22:31:58.18-08:00"
+}

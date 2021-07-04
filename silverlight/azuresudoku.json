@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azuresudoku",
+  "Title": "Azure Sudoku",
+  "Description": "Azure Sudoku is an Azure-hosted Silverlight implementation of the popular game Sudoku. Various Hawaiian backgrounds appear with each new game.\n\nThis project is useful as a working example of how to combine Azure, Silverlight, and WCF in a single solution.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Azure Sudoku is an Azure-hosted Silverlight implementation of the popular game Sudoku. Various Hawaiian backgrounds appear with each new game.<br /><br />This project is useful as a working example of how to combine Azure, Silverlight, and WCF in a single solution.<br /><br /><br /><img src=\"/projects/azuresudoku/eb6c7b9c-7c7d-4546-a172-e481862dfbfb\" alt=\"AzureSudoku1.jpg\" title=\"AzureSudoku1.jpg\" /><br /><br /><img src=\"/projects/azuresudoku/0b6188ee-8d0d-4883-8dfd-43b6fc6571e3\" alt=\"AzureSudoku2.jpg\" title=\"AzureSudoku2.jpg\" /><br /><br />Azure Sudoku makes use of a C# port of public domain code for Sudoku puzzle generation known as the Dancing Links Engine.<br /><br />A community donation from Neudesic, a Microsoft Gold Partner and National Systems Integrator<br /><a href=\"http://www.neudesic.com\">http://www.neudesic.com</a><br /><br />For support contact David Pallmann<br /><a href=\"http://davidpallmann.blogspot.com\">http://davidpallmann.blogspot.com</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure,Neudesic,Silverlight,",
+  "LastEdited": "2009-05-07T01:27:05.163-07:00"
+}

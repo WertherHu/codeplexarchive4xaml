@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kwr",
+  "Title": "Kax.WebControls.RadioButtonList",
+  "Description": "Web Custom Control that extend RadioButtonList to allow uncheckable state.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Web Custom Control that extend RadioButtonList to allow uncheckable state.<br /><br /><br /><b>** Information **</b><br /><br />Web Custom Control project (VS2005 - C#).<br />By switch the &quot;Required&quot; property you change the behavior :\n<ul><li>1. True : it&#39;s the default RadioButtonList behavior</li>\n<li>2. False : \n<ul><li>None option preselected</li>\n<li>You can uncheck an option already checked</li></ul></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-11-10T02:56:12.753-08:00"
+}

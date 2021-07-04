@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NAVMetro",
+  "Title": "NAV Metro",
+  "Description": "Dynamics NAV 2013 Metro App framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Dynamics NAV 2013 Metro App framework.<br /><br />This is a framework to help get started writing Windows 8 Metro apps for Microsoft Dynamics NAV 2013. It&#39;s currently using the OData interface to read data, but you could extend it to use Web Services to update data as well.<br /><br />Import the Queries.txt from downloads which are the queries used by this framework.<br />Add the following web services in NAV after importing the objects to get the framework to run:<br /><br />Object Type\tObject ID\tService Name\tPublished<br />Query\t50001\tMetro_BankAccount\tYes<br />Query\t50004\tMetro_Customer\tYes<br />Query\t50007\tMetro_GLAccount\tYes<br />Query\t50002\tMetro_GLEntry\tYes<br />Query\t50005\tMetro_Item\tYes<br />Query\t50003\tMetro_Vendor\tYes<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-20T13:55:04.843-07:00"
+}

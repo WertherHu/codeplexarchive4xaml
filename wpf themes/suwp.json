@@ -1,0 +1,9 @@
+{
+  "ProjectName": "suwp",
+  "Title": "Suwp",
+  "Description": "A small Uml-ish WPF diagram design component.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A small Uml-ish WPF diagram design component.<br /><br /><b><i> -- On standby -- </i></b><br />As you may notice, there has been no update for months.<br /><b>The project is still alive</b><br />However, many thing in personal life have taken priority over a project that nobody except me care about ;)<br />(new home and MCPD certification)<br />I will work on Suwp as soon as I can, but do not expect anything before some time.<br /><br /><br /><br /><br />Note : You must install .NET 3.5 runtime<br /><a href=\"http://www.microsoft.com/downloads/details.aspx?FamilyID=333325FD-AE52-4E35-B531-508D977D32A6&amp;displaylang=en\">http://www.microsoft.com/downloads/details.aspx?FamilyID=333325FD-AE52-4E35-B531-508D977D32A6&amp;displaylang=en</a><br /><br />Any comment, advice, suggestion, correction, etc (and even encouragement) is more than welcome !<br /><br />And yes, I know, the following example is a total non-sense, keep in mind I am focused on the innards <br />of the component at the moment...<br /><br /><img src=\"/projects/suwp/be6ec8cf-3f22-42fd-9474-67e79c920986\" alt=\"diagram1.jpg\" title=\"diagram1.jpg\" /><br /><br /><img src=\"/projects/suwp/f1480d22-01e8-4cd5-91b9-a028491e4e34\" alt=\"diagram2.jpg\" title=\"diagram2.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "UML,WPF,XAML,Diagram,Suwp,",
+  "LastEdited": "2009-04-16T11:25:45.61-07:00"
+}

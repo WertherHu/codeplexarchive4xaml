@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dentist",
+  "Title": "Dentist Organizer",
+  "Description": "Software to help dentist to control appointments and patient control via database (local or MS SQL)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Software to manage Dentist patients and more<br /><br />More Features coming soon<br /><br />Still under construction</div><div class=\"ClearBoth\"></div>",
+  "TagList": "VB.NET,.NET 3.5,Database,",
+  "LastEdited": "2008-07-06T18:33:23.86-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pop3client",
+  "Title": "Post Office Protocol Version 3 Client API",
+  "Description": "A Common Language Specification (CLS) compliant Application Programming Interface (API) for retrieving mail messages from a POP3 server.\n\nThis class closely mimics the behavior of the System.Net.Mail.SmtpClient class.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Common Language Specification &#40;CLS&#41; compliant Application Programming Interface &#40;API&#41; for retrieving mail messages from a POP3 server.<br /><br />This class closely mimics the behavior of the System.Net.Mail.SmtpClient class.<br /><br />This project is suitable for .NET programmers who wish to implement a POP3 client architecture in their application.<br /><br />The full source for both the client API and a demo program can be found in the source repository.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "POP3,Mail,",
+  "LastEdited": "2010-09-01T10:09:26.7-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "diffplex",
+  "Title": "DiffPlex - a .NET Diff Generator",
+  "Description": "DiffPlex is a combination of a .NET Diffing Library with both a Silverlight and HTML diff viewer.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>We have moved!</h1>\r\nThis project is now available on Github at <a href=\"https://github.com/mmanela/diffplex\">https://github.com/mmanela/diffplex</a>.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,diff,difference,Silverlight,html,diffplex,textdiff,text,Library,NuGet,tool,utility,",
+  "LastEdited": "2014-09-16T07:37:34.91-07:00"
+}

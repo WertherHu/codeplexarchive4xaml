@@ -1,0 +1,9 @@
+{
+  "ProjectName": "igtoolkit",
+  "Title": "Infragistics Toolkit",
+  "Description": "A collection of tools and libraries that can be used to add additional capabilities to Infragistics UI controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h3>Overview</h3>\r\n<p>The IGToolkit project is a&nbsp;collection of tools and libraries that can be used to add additional capabilities to Infragistics UI controls.&nbsp; The project contains enhancements for Infragistics WPF, Silverlight, ASP.NET and WinForms controls.&nbsp;\r\n<strong>We welcome and encourage community contributions!</strong></p>\r\n<h3>Whats in the Project?</h3>\r\n<p>The project code&nbsp;is ogranized by platform.&nbsp; Below are descriptions of whats available for each platform.</p>\r\n<ul>\r\n<li>XAML\r\n<ul>\r\n<li>Silverlight\r\n<ul>\r\n<li>Region Adapters for the following controls </li><li>Custom XamGrid Column Types </li><li>Behaviors for the following </li><li>Custom XamRibbon Tools </li></ul>\r\n</li><li>WPF </li></ul>\r\n</li><li>ASP.NET </li></ul>\r\n<h3>Other Infragistics CodePlex Projects</h3>\r\n<p>Infragistics has published a number of other projects on Codeplex:</p>\r\n<ul>\r\n<li><a href=\"http://ncal.codeplex.com/\">NetAdvantage for Composite Application Library</a>\r\n</li><li><a href=\"http://netadvantagemvc.codeplex.com/\">NetAdvantage ASP.NET for ASP.NET MVC</a>\r\n</li><li><a href=\"http://igaf.codeplex.com/\">Infragistics Analytics Framework</a> </li><li><a href=\"http://igdynamicdata.codeplex.com/\">Infragistics Dynamic Data Integtration</a>\r\n</li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-01T11:41:07.1-07:00"
+}

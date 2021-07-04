@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openXmlValidator",
+  "Title": "Open XML Validator",
+  "Description": "This WPF app give you a brief resume about errors in your Open XML documents.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This WPF app give you a brief resume about errors in your Open XML documents.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Open XML,validator,",
+  "LastEdited": "2010-05-16T03:56:12.35-07:00"
+}

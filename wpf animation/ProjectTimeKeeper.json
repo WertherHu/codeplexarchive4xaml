@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ProjectTimeKeeper",
+  "Title": "Project Time Keeper",
+  "Description": "Application will track your time spent on different projects. It is something like proof of concept for WPF MVVM with embedded database.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Application will track your time spent on different projects. It is something like proof of concept for WPF MVVM with embedded database.<br /><br /><b>Used technologies</b>\n<ul><li>Caliburn Micro</li>\n<li>Castle Windsor</li>\n<li>NHibernate</li>\n<li>FluentNHibernate</li>\n<li>FluentValidation</li>\n<li>SQLite</li></ul>\n<br /><b>What I want to add</b>\n<ul><li>Create some more intuitive and user friendly GUI</li>\n<li>Unit Tests for already existing features and use TDD for future features</li></ul>\n<br />I will be more than happy if you will review code of this application and let me know if there is any minor or major mistakes.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,CaliburnMicro,NHibernate,SQLite,castle windsor,C#,.NET,",
+  "LastEdited": "2012-02-28T12:48:03.667-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "eventumreports",
+  "Title": "Eventum Reports",
+  "Description": "This project serves to allow a user to draw in depth reports from an eventum Database. All reports are then shown graphically using microsoft Chart Controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project serves to allow a user to draw in depth reports from an eventum Database. All reports are then shown graphically using microsoft Chart Controls.<br /><br />All  Code is done in C# using .net Framework 3.5,  a linq2mysql data layer is setu up.<br /><br />PLEASE NOTE:<br />MySQL Connector Net 6.1.2 : http://dev.mysql.com/downloads/connector/net/6.1.html <br />and <br />MySQL Connector/ODBC 5.1 : http://dev.mysql.com/downloads/connector/odbc/5.1.html<br />is used for connecting to the MYSQL Database<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-16T01:09:48.883-08:00"
+}

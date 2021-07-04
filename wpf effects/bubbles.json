@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bubbles",
+  "Title": "Bubbles In WPF",
+  "Description": "Bubbles game clone.\r\nWritten in WPF, MVVM pattern applied.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Bubbles is a game, written in C#, based on WPF.<br /><br />It is design with MVVM pattern, all game animation effects are driven by data binding and notification.<br /><br /><br /><b>Screenshot</b><br /><br /><b>Pic 1.</b> Start<br /><img src=\"/projects/bubbles/959dea56-89f5-4b5b-aa3b-4dc203d75642\" alt=\"Start.png\" title=\"Start.png\" /><br /><br /><b>Pic 2.</b> New Game<br /><img src=\"/projects/bubbles/7a9353e1-18af-403d-8f63-3cebd139e21e\" alt=\"NewGame.png\" title=\"NewGame.png\" /><br /><br /><b>Pic 3.</b> In Progress<br /><img src=\"/projects/bubbles/8309f317-3051-4b63-b5df-a5a2517f43ec\" alt=\"InProgress.png\" title=\"InProgress.png\" /><br /><br /><b>Pic 4.</b> Game Over<br /><img src=\"/projects/bubbles/e08a5b6c-2487-4142-b4e5-e28c2a5fb84d\" alt=\"GameOver.png\" title=\"GameOver.png\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,WPF,MVVM,Bubble,bubble game,",
+  "LastEdited": "2012-10-18T08:13:04.447-07:00"
+}

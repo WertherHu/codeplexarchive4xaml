@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlighttagcloud",
+  "Title": "Silverlight TagCloud",
+  "Description": "A Silverlight tag cloud control for your web site or blog.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Silverlight tag cloud control for your web site or blog.<br /><br />More information about the evolution of the Silverlight TagCloud control as well as author discussion of its functionality can be found in this <a href=\"http://www.itscodingtime.com/?tag=/tagcloud\">blog series</a>.<br /><br />This control is a tagcloud written in Silverlight. It looks like (minus the title and borders):<br /><br /><img src=\"/projects/silverlighttagcloud/d5bf4312-fd1b-49cd-8e9a-2b0a2eaad45a\" alt=\"thetagcloud.png\" title=\"thetagcloud.png\" /><br /><br />Some of the Silverlight TagCloud&#39;s key features include:<br />\n<ul><li>customization of background, tag item, and tag item hover color</li>\n<li>auto-sizing based on tag and container content</li>\n<li>integration with BlogEngine.NET</li>\n<li>WCF service to retrieve tag items</li>\n<li>deployment via user control</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight Controls,BlogEngine.NET,",
+  "LastEdited": "2009-08-28T16:01:04.743-07:00"
+}

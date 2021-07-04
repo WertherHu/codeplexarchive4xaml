@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dockpanel2012",
+  "Title": "DockPanel Suite VS2012 Look",
+  "Description": "Dock Panel Suite Control C# Visual Studio 2012 Design Look",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>WinForms Dock Panel Suite Control with Visual Studio 2012 outlook</b><br />Dock Panel Suite Control C&#35; Visual Studio 2012 Design Look<br /><br /><b>Update 2.05.2013: The modifications of this project are merged with the newest build of  <a href=\"http://dockpanelsuite.com/\">Dock Panel Suite</a>. For more information on Dock Panel Suite 3.0  and its current state look <a href=\"https://github.com/dockpanelsuite/dockpanelsuite/tree/development_3.0\">here</a>.</b><br /><br />This control is an editted and extended version of the original Dock Panel Suite Control <a href=\"http://sourceforge.net/projects/dockpanelsuite/\">from SourceForge</a>. Several more classes have been changed beyond the usual Skin classes in the original project to provide a more Visual Studio 2012 genuine look.<br /><br />The current version is based on version 2.5 RC1 of Dock Panel Suite. This is not the most current state of the Control which has been actively developed <a href=\"http://dockpanelsuite.com/\">here</a>.<br /><br />Here are some screenshots of the original DockSample testing program with VS2012 look on it:<br /><br /><img src=\"/projects/dockpanel2012/2d64e9b7-586f-4054-8170-e0ed6a531fb7\" alt=\"im1.jpg\" title=\"im1.jpg\" /><br /><br /><img src=\"/projects/dockpanel2012/5834f044-9dee-44bf-838f-faac3d983873\" alt=\"im2.jpg\" title=\"im2.jpg\" /><br /><br /><img src=\"/projects/dockpanel2012/7aea0414-61d0-4973-b5b8-5f81ff6613a6\" alt=\"im3.jpg\" title=\"im3.jpg\" /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-02T02:01:22.167-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "JSSLHelper",
+  "Title": "A Silverlight helper for javascript",
+  "Description": "This library exposes two feature of silverlight to javascript, a logger and a communicator.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a siverlight library which expose some silverlight functions to javascript:<br />- A logger, which save the data in the isolated storage<br />- A communicator, which allow to communicate between different instance of the same browser of different browsers.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-03T09:17:13.72-08:00"
+}

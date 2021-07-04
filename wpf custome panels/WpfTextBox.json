@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfTextBox",
+  "Title": "WPF TextBox provides only digits input",
+  "Description": "You can select what type of input you need - normal, only digits or digits with decimal point.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">WPF TextBox that provides only digits input (as masked).<br /><br />You can select what type of input you need - normal, only digits or digits with decimal point.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,TextBox,",
+  "LastEdited": "2014-02-16T22:35:33.113-08:00"
+}

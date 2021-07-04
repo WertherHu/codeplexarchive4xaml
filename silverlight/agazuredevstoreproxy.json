@@ -1,0 +1,9 @@
+{
+  "ProjectName": "agazuredevstoreproxy",
+  "Title": "Ag.AzureDevelopmentStorageProxy",
+  "Description": "The Ag.AzureDevelopmentStorageProxy is a proxy application that enables a Silverlight client to access the Azure Development storage.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Ag.AzureDevelopmentStorageProxy is a proxy application that enables a Silverlight client to access the Azure Development storage.<br /><br />The proxy does two things. First of all, it fixes the issue with Silverlight not being able to find a client access policy when working with the Development Storage. When working with the real cloud, uploading a clientaccesspolicy.xml to the $root container will solve that. But for the Development Storage service, the root folder is at http://127.0.0.1:10000/devstoreaccount1/. So Silverlight will not be able to find one.<br /><br />Secondly, it reroutes incoming requests to the Development Storage. The only thing needed is to get the Silverlight client to request the blob using a different port than the standard one. The proxy will then reroute the call to the correct port, as well as add the &quot;/devstoreaccount1/&quot; path fragment to the request. So if you need to access http://127.0.0.1:10000/devstoraccount1/myblobcontainer/myblob, you make the call to http://127.0.0.1:11000/myblocontainer/myblob. This Uri resembles the &quot;real&quot; Uri better than the dev storage one and is easy to switch to when working in debug mode. <br /><br />If you wish to test it, there is a Silverlight client project in the solution that offers this ability. All you need to do before you run it, is to create a container called &quot;mycontainer&quot; and set access to public. And then upload a text file to that container and name it &quot;myblob&quot;. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-06T15:46:31.383-07:00"
+}

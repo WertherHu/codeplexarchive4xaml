@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CaptchaDeDogs",
+  "Title": "Captcha.deDogs.com",
+  "Description": "Places a Captcha Image into an ASP.NET Web Forms application. If Captcha characters difficult to distinguish, control allows refresh of characters. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Captcha Image - deDogs.com</strong></p>\r\n<p>Draws Captcha Control Image onto a ASP.Net Web Forms page.</p>\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nInitiate an asynchronous call, the returned result, single image of alphanumeric characters, the image&rsquo;s characters are presented in various font sizes and or (&#43;/-) rotated in some degree. Characters are randomly selected from a string of characters and\r\n returned as an encrypted string. The return encrypted string is appended as a query string for an asynchronous call to a generic http handler. The handler&rsquo;s responsibility is responding with a captcha image includes randomly selected characters. Each\r\n character will have a varying font size, font color, background color, font family, and be bound within a box of a certain width and height. Each character can overlap its neighbor by a specific value.<br>\r\n<br>\r\nThis project offers the complete Visual Studio 2012 solution within a compressed zip file. Download the complete solution from CodePlex.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CAPTCHA,ASP.NET 4.0,C# 3.0,Web Forms,UserControls,",
+  "LastEdited": "2012-08-10T09:07:30.04-07:00"
+}

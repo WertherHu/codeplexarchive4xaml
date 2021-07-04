@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AppManager",
+  "Title": "AppManager",
+  "Description": "WPF tool to help you launch your programs easily.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">WPF tool to help you launch your programs easily.<br /><br />It uses .net 3.0, but is recommended to install .net 4.0(client profile) from here:<br /><a href=\"http://www.microsoft.com/downloads/en/details.aspx?displaylang=en&amp;FamilyID=5765d7a8-7722-4888-a970-ac39b33fd8ab\">http://www.microsoft.com/downloads/en/details.aspx?displaylang=en&amp;FamilyID=5765d7a8-7722-4888-a970-ac39b33fd8ab</a><br /><br />With this tool you can start your programs with two clicks or just using keyboard!<br /><img src=\"/projects/AppManager/4dda82d9-bd7f-4e62-83b2-4ba18f2f1bea\" alt=\"StartUp.png\" title=\"StartUp.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Framework 3.5,",
+  "LastEdited": "2010-11-20T05:05:55.3-08:00"
+}

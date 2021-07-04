@@ -1,0 +1,9 @@
+{
+  "ProjectName": "thirdhand",
+  "Title": "Third Hand - Use your voice to control Visual Studio",
+  "Description": "Third Hand is a Visual Studio Add-in that allows you to use to your voice to control Visual Studio.  Rather than navigate the toolbars or use the menu, say \"Solution Explorer\", or \"Properties\" and those windows will open for you.  This keeps your hands on the keyboard, hopefully increasing your efficiency.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Third Hand is a Visual Studio Add-in that allows you to use to your voice to control Visual Studio.  Rather than navigate the toolbars or use the menu, say &#34;Solution Explorer&#34;, or &#34;Properties&#34; and those windows will open for you.  This keeps your hands on the keyboard, hopefully increasing your efficiency.<br /><br />The add-in makes use of the System.Speech namespace introducted in .NET 3.0.  It should work on any system with SAPI installed and speech recognition enabled.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "addin,Visual Studio 2008,System.Speech,Speech Recognition,.NET 3.5,voice,Nectar,visual studio addin,Visual Studio 2010,VS Voice,",
+  "LastEdited": "2008-07-22T11:59:31.873-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spotifyomatic",
+  "Title": "Spotify-o-matic",
+  "Description": "a simple Spotify API wrapper for vb.net to control the Spotify client from your own apps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\ra simple Spotify API wrapper for vb.net to control the Spotify client from your own apps.<br />\n<ul><li>Works only on the windows version of spotify</li>\n<li>Tested with Spotify 0.3.18 - might break with other versions</li></ul>\n\n<h1>Usage</h1>\r\nDim Spotify As New Spotify()<br /> <br />Spotify.PlayPause()<br />Spotify.PlayPrev()<br />Spotify.PlayNext()<br />Spotify.Mute()<br />Spotify.VolumeUp()<br />Spotify.VolumeDown()<br />Spotify.Nowplaying() (Gets the name of the current playing track)<br />Spotify.Search(&quot;Artist&quot;,False) (Searches for &quot;Artist&quot;)<br />Spotify.Search(&quot;Artist&quot;,True) (Searches for &quot;Artist&quot; and starts playing the results)<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-08-03T11:41:24.263-07:00"
+}

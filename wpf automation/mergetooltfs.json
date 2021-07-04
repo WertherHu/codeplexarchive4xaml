@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mergetooltfs",
+  "Title": "Merge Tool for Team Foundation Server",
+  "Description": "Application for managing large number of branches as well as individual branches in Team Foundation Server source control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MergeTool for Team Foundation Server source control</b><br />Application for managing large number of branches as well as individual branches in Team Foundation Server source control.<br /><br />Purpose of this tool is to help manage branches in TFS using TFS api.<br /><br /><b>Application is in development state, expected month of final release is January 2015</b><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Source Control,Merge,Merge Tool,Branch,Automation,",
+  "LastEdited": "2014-12-13T13:26:01.133-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfdbbrowser",
+  "Title": "WPF Database Browser",
+  "Description": "WPFDBBrowser was developed to facilitate access to the database's schemas (Oracle etc.) and it's components(tables, view etc). WPFDBBrowser supports plug-in architecture for various DB types and user logic. Project is developed in Visual Studio 2010 B2 (C# 4.0).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPFDBBrowser was developed to facilitate access to the database&#39;s schemas &#40;Oracle etc.&#41; and it&#39;s components&#40;tables, view etc&#41;. WPFDBBrowser supports plug-in architecture for various DB types and user logic. Project is developed in Visual Studio 2010 B2 &#40;C&#35; 4.0&#41;.<br /><br />\n<h2>News</h2>\r\nWe are currently working on alfa version which includes:\n<ul><li>database tree browser - database root node with tables and views</li>\n<li>SQL query editor with syntax highlighting (hopefully with simple IntelliSense)</li>\n<li>result view</li>\n<li>MS Access support</li>\n<li>MS SQL Server support</li></ul>\n<br />We also think about these features:\n<ul><li>inteligent query editor</li>\n<li>comparing structure and data between 2 databases</li>\n<li>tabbed query editor</li>\n<li>full IntelliSense support</li></ul>\n<br />If you have some ideas which should be there, please, share them with us. Thank you. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Tools,.NET 4.0,C#,.net,C# 4.0,Database,Database Tools,Editor,Plugin Based,SQL,unity,Useful,utility,Windows,Visual Studio 2010,",
+  "LastEdited": "2009-12-07T08:44:13.923-08:00"
+}

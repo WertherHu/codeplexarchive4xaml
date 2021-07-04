@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnnquickform",
+  "Title": "DNN Quick Form",
+  "Description": "DNN Quick Form is a module that makes creating simple contact forms extremely easy.  This is designed for those that extra flexibility when creating a simple contact form.  Build your own form in the environment of your choice.  Use all the standard ASP.NET Form controls to build the perfect form.  The initial release only supports emailing the form to designated users. \r\nREQUIRES DotNetNuke 6.1",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nDNN Quick Form is a module that makes creating simple contact forms extremely easy. This is designed for those that extra flexibility when creating a simple contact form. Build your own form in the environment of your choice. Use all the standard ASP.NET Form\r\n controls to build the perfect form. The initial release only supports emailing the form to designated users.</p>\r\n<p><span style=\"color:#ff0000\"><strong>Requires DotNetNuke 6.1</strong></span></p>\r\n<p><strong>Default Form Provided As An Example</strong></p>\r\n<p><img src=\"http://dl.dropbox.com/u/20302133/Products/DNNQF/LargeImage.png\" alt=\"DNN Quick Form Example\" width=\"500\"></p>\r\n<p><strong>Available Settings</strong></p>\r\n<p><strong><img src=\"http://dl.dropbox.com/u/20302133/Products/DNNQF/dnnqf_formsettings.png\" alt=\"DNN Quick Form Settings\" width=\"500\"><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "dnn module,contact form module,",
+  "LastEdited": "2011-11-08T00:46:46.473-08:00"
+}

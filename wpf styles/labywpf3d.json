@@ -1,0 +1,9 @@
+{
+  "ProjectName": "labywpf3d",
+  "Title": "WPF 3D Labyrinth",
+  "Description": "A project for \"Design and Analysis of Computer Algorithms\" subject at Kaunas University of Technology. Building a 3D labyrinth with a figure which is trying to get out of it. Using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Short description</h1>\rA project for &#34;Design and Analysis of Computer Algorithms&#34; subject at Kaunas University of Technology. Building a 3D labyrinth with a figure which is trying to get out of it. Using WPF.<br />\n<h1>About the project</h1>\rThat&#39;s a second project we&#39;re doing at the university this semester. Most of the technologies (WPF, WPF, VS2010) we&#39;re using on this project are the same, so it&#39;s good to improve out knowlage. It&#39;s still not an easy task (to build a 3D labyrinth with 3D figure moving through it) since we had never worked with a 3D.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF 3D,Visual Studio 2010,",
+  "LastEdited": "2010-03-19T03:39:48.88-07:00"
+}

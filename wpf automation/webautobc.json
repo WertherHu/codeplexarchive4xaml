@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webautobc",
+  "Title": "Web UI Automation(BC)",
+  "Description": "This project aims to simplify web integration testing.Bringing together web ui and db testing, with a simple to use scripting language and an extensible api.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is aimed to improve web UI automation. There are lots of free and paid WEB UI Tools available., but this projects aims to bridge the gap for end users and developers. The project contains 2 parts:<br /><br />1. A Web Automation lib. This is the UI automation engine. It is made up of a variety of free web ui automation libs viz: waitin, selenuim etc.<br /><br />2. A Web UI runner, that will facilitate running of integration tests(UI+DB). A test consist of custom scripting language that the Web Automation Lib can interpret and execute. The Web UI runner also consists of a simple IE recorder and simple test debugger.<br /><br />N.B: The folder &#39;DB_Install&#39; contains the SQL scripts for the database portion. Run this script on a new database, and then update the app.config file in the &#39;WebAuto&#39; project with the relevant settings and db connection strings<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "web automation,web ui,integration testing,automation,automation framework,automation api,database testing,ui automation,bunnychow,bc,",
+  "LastEdited": "2014-03-10T08:00:45.7-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfstoys",
+  "Title": "TFS Toys",
+  "Description": "Collection of utilities for working with Team Foundation server.  For now I'm particularly aimed at specific technologies like TF version control, Powershell, and LINQ -- though this list is subject to grow.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Collection of utilities for working with Team Foundation server.  For now I&#39;m particularly aimed at specific technologies like TF version control, Powershell, and LINQ -- though this list is subject to grow.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Version Control,powershell,Visual Studio,",
+  "LastEdited": "2009-06-12T12:33:53.267-07:00"
+}

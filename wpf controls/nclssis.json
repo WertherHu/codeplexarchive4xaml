@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nclssis",
+  "Title": "SSIS Auditing and Pipeline Tools",
+  "Description": "The purpose of this project is to provide SSIS package tools for cleaner auditing and error recovery.  Planned tools are a Control Flow auditing package and a Data Flow pipeline to XML tool.  Others will be added as necessary.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The purpose of this project is to provide SSIS package tools for cleaner auditing and error recovery.  Planned tools are a Control Flow auditing package and a Data Flow pipeline to XML tool.  Others will be added as necessary.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SSIS,Integration Services,SSIS Component,",
+  "LastEdited": "2009-09-12T07:55:04.623-07:00"
+}

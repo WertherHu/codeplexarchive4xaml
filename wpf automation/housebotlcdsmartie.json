@@ -1,0 +1,9 @@
+{
+  "ProjectName": "housebotlcdsmartie",
+  "Title": "HouseBot plugin for LCDSmartie",
+  "Description": "Plugin for LCD Smartie to view device and task details from HouseBot home automation software.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Plugin for LCD Smartie to view device and task details from HouseBot home automation software.</b><br /><br />More information on LCD Smartie and HouseBot can be found here: <br />\n<ul><li><a href=\"http://www.lcdsmartie.org\">http://www.lcdsmartie.org</a></li>\n<li><a href=\"http://www.housebot.com\">http://www.housebot.com</a></li></ul>\n<br />The plugin supports the following functions in LCDSmartie:<br />\n<ul><li>$dll(housebotplugin,1,device<i>name,property</i>name) <i>- This function will display device values</i></li>\n<li>$dll(housebotplugin,2,mode<i>name,) </i>- This function will display mode state_</li>\n<li>$dll(housebotplugin,3,device<i>name.property</i>name,line number) <i>- This function will display device alpha list values</i></li></ul>\n<br />The config file will need to be updated with the HouseBot IP address, port and password (found in the External Control Device).<br /><br />This plugin does require the External Control Device installed in HouseBot and the HBControlMod.dll to be registered on the pc running LCDSmartie. More information can be found within the HouseBot help files.<br /><br />I original built this plugin back in 2010, but never got round to sharing it.  I hope it&#39;s of use to others.  It&#39;s been running in my rack mounted automation server 24-7 for over 4 years (amazing how time fly&#39;s!).  I can confidently say it has been well tested! Photo below.<br /><br /><img src=\"/projects/housebotlcdsmartie/69e5a85b-73fe-4da5-8127-0f19461ac338\" alt=\"photo23.png\" title=\"photo23.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-04-09T06:35:08.567-07:00"
+}

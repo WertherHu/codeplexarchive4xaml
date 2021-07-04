@@ -1,0 +1,9 @@
+{
+  "ProjectName": "telcosdk",
+  "Title": "Telco SDK for .NET",
+  "Description": "The Telco SDK for .NET is an open-source project that makes it easy for communications service providers to distribute their network APIs for easy integration into Visual Studio.  The SDK allows network operators to adapt their network services like SMS, MMS, Click to Call, Click to Conference, Advertising and others into .NET classes and build Windows Intallers (.msi) for that contain intuitive templates and controls that make it easier for the millions of developers who use Visual Studio to develop telecom-enabled applications. \r\n\r\nSee the documentation for customization instructions:\r\nhttp://telcosdk.codeplex.com/documentation\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The Telco SDK for .NET is an open-source project that makes it easy for communications service providers to distribute their network APIs for easy integration into Visual Studio.  The SDK allows network operators to adapt their network services like SMS, MMS, Click to Call, Click to Conference, Advertising, and other services into .NET classes and build Windows Installers (.msi) for that contain intuitive templates and controls that make it easier for the millions of developers who use Visual Studio to develop telecom-enabled applications. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-03T09:06:02.153-07:00"
+}

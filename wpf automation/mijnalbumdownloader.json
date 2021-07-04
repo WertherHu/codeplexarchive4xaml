@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mijnalbumdownloader",
+  "Title": "MijnAlbum.nl Downloader",
+  "Description": "MijnAlbum.nl Downloader is een programma waarmee je in één keer een compleet album van mijnalbum.nl op kunt slaan.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>MijnAlbum.nl Downloader is een programma waarmee je in &eacute;&eacute;n keer een compleet album van mijnalbum.nl op kunt slaan.</p>\r\n<p><strong>Werking</strong></p>\r\n<p>Voer de gewenste URL of albumcode in van het album die je wilt downloaden (vb:&nbsp;<a href=\"http://www.mijnalbum.nl/Album=ASWIMKQY\" target=\"_blank\">http://www.mijnalbum.nl/Album=ASWIMKQY</a>&nbsp;of&nbsp;ASWIMKQY)<br>\r\nSelecteer de downloadmap waar de afbeeldingen in moeten komen<br>\r\nDruk op &quot;Alles downloaden&quot;&nbsp;</p>\r\n<p><strong>Requirements</strong></p>\r\n<p>Het programma is gemaakt m.b.v. WPF en vereist NET Framework 4.0 die je hier kunt vinden:&nbsp;<a title=\"http://www.microsoft.com/downloads/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992\" href=\"http://www.microsoft.com/downloads/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992\" target=\"_blank\">http://www.microsoft.com/downloads/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "mijnalbum.nl,mijnalbum,downloader,wpf,.NET 4.0,download album,WPF 4.0,",
+  "LastEdited": "2011-01-14T06:01:58.987-08:00"
+}

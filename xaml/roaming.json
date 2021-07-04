@@ -1,0 +1,9 @@
+{
+  "ProjectName": "roaming",
+  "Title": "Roaming Settings",
+  "Description": "Framework to ease the roaming of settings in for Windows Store Apps",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nThe goal of the project is to help developers sync settings</p>\r\n<p>Provides two classes RoamingObservableCollection&lt;T&gt; and RoamingObservableDictionary</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Framework,xaml,Windows 8,Windows Store Apps,Roaming,ApplicationData,RoamingSettings,ObservableDictionary,RoamingObservableCol,RoamingObservableDic,",
+  "LastEdited": "2013-08-02T07:58:36.43-07:00"
+}

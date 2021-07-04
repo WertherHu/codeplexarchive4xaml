@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AeroGlassProvider",
+  "Title": "AeroGlassProvider",
+  "Description": "AeroGlassProvider simplifies extending Windows Vista Aero Glass onto the surface of a WinForms Form. It is developed in C#. AeroGlassProvider is a custom component which implements an IExtenderProvider interface to provide additional Form properties.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />AeroGlassProvider simplifies extending Windows Vista Aero Glass onto the surface of a WinForms Form. It is developed in C&#35;. AeroGlassProvider is a custom component which implements an IExtenderProvider interface to provide additional Form properties.<br /><br />AeroGlassProvider also simplifies drawing images and text onto the glass. Text is drawn with a &quot;glow&quot; effect which helps distinguish the text from a complex glass background.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,glass,Vista Controls,aero,",
+  "LastEdited": "2009-02-07T13:20:07.097-08:00"
+}

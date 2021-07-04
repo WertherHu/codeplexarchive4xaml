@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GTranslator",
+  "Title": "GTranslator for Windows",
+  "Description": "A quick and easy translation interface to Google Translate. Use Windows+T to access the translation window (screenshot). Use Control+Enter after typing to copy the translated result to the clipboard or Escape to exit.\n\nVery quick and handy! Feel free to post any remarks or sugges",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A quick and easy translation interface to Google Translate. Use Windows&#43;T to access the translation window &#40;screenshot&#41;. Use Control&#43;Enter after typing to copy the translated result to the clipboard or Escape to exit.<br /><br />Very quick and handy&#33; Feel free to post any remarks or sugges<br /><br />Click <a href=\"https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=GTranslator&amp;ReleaseId=11974\">here</a> to download the installer.<br /><br /><img src=\"/projects/GTranslator/6977a957-e3bf-4b87-a78c-00d9d7a1ff0b\" alt=\"gtranslator.JPG\" title=\"gtranslator.JPG\" /><br /><br />GTranslator is a quick and easy translation tool. Translate text as you type! Use the &#39;Windows + T&#39; key combination to open the semi-transparent translation dialog.<br />The easy Control + Return combination allows you to copy the translated result directly to the clipboard. Using the system tray icon you can easily access the swift translator without resorting to hotkeys.<br /><br />Google and Google Translate are registered trademarks of Google Inc.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-14T07:39:03.797-08:00"
+}

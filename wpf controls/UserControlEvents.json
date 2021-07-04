@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UserControlEvents",
+  "Title": "ASP.NET Eventos en Controles de Usuario",
+  "Description": "ASP.NET Eventos en Controles de Usuario",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET Eventos en Controles de Usuario<br /><a href=\"http://csharp-experience.blogspot.com\">http://csharp-experience.blogspot.com</a><br /><br />A la hora de crear controles de usuario solemos necesitar capturar un evento que se produce dentro del mismo, en la p&#225;gina padre. Adem&#225;s, normalmente necesitaremos acceder a alguna de sus propiedades desde la p&#225;gina padre.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Controles de usuario,eventos,Control de usuario,User Controls,User Control,",
+  "LastEdited": "2009-12-30T20:16:49.08-08:00"
+}

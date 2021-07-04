@@ -1,0 +1,9 @@
+{
+  "ProjectName": "classicjukebox",
+  "Title": "ClassicJukebox",
+  "Description": "Source code for my Coding4fun article on how to create a classic jukebox using WPF, WMP, 3D, basic electronics & some MVVM",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/classicjukebox/3bdfb6e9-2e71-4fbe-bcc2-37d822db9115\" alt=\"CJBLogo.jpg\" title=\"CJBLogo.jpg\" /><br /><br />Excerpt from article:<br /><i>&quot;A couple of weeks ago I took my son to the game arcade to play a little… while playing, I noticed in the corner a old jukebox… I started wondering how difficult it would be to recreate one of these using “real” hardware and WPF? This article explorers how to make real hardware control software applications in a practical manner&quot;</i><br /><br /><a href=\"http://blogs.msdn.com/b/coding4fun/archive/2009/05/19/9582639.aspx\">http://blogs.msdn.com/b/coding4fun/archive/2009/05/19/9582639.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-28T02:49:20.16-07:00"
+}

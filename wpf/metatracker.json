@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metatracker",
+  "Title": "tehcrash's Meta-Tracker",
+  "Description": "MetaTracker is primarily a weight loss tool.  It aggregates data from other tracking services, such as  Withings, FatSecret, and Fitbit, in order to perform statistical analysis, and aid in highlighting correlations between weight loss, calorie burning, and food consumption.\r\n\r\nMetaTracker was written in C#, using WPF with an MVVM architecture, and uses an encrypted SQLite database to store user credentials. \r\n\r\nCurrently, the only supported services are Withings, FatSecret, and Fitbit, but integration with tracking projects may be added in upcoming releases.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MetaTracker is primarily a weight loss tool.  It aggregates data from other tracking services, such as  Withings, FatSecret, and Fitbit, in order to perform statistical analysis, and aid in highlighting correlations between weight loss, calorie burning, and food consumption.<br /><br />MetaTracker was written in C&#35;, using WPF with an MVVM architecture, and uses an encrypted SQLite database to store user credentials. <br /><br />Currently, the only supported services are Withings, FatSecret, and Fitbit, but integration with tracking projects may be added in upcoming releases.<br /><br /><a href=\"http://platform.fatsecret.com\"><img style=\"border:none;\" src=\"http://platform.fatsecret.com/api/static/images/fatsecret_platform_120_17.gif\" alt=\"Powered By FatSecret\" title=\"Powered By FatSecret\" /></a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,C# 4.0,WPF,.NET 4.0,.NET,MVVM,Withings,fatsecret,Fitbit,weight loss,tracking,",
+  "LastEdited": "2011-09-17T09:07:25.907-07:00"
+}

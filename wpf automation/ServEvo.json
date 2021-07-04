@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ServEvo",
+  "Title": "ServEvo",
+  "Description": "ServEvo is an application that allows you to turn your computer into a complete development environment",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">ServEvo is an application that allows you to turn your computer into a <u>complete development environment</u><br />\n<h2>You can control your d&#233;fault applications like :</h2>\r<ul><li>WampServer2</li>\n<li>EasyPHP12</li>\n<li>FileZilla Server</li>\n<li>FreeSMTP</li></ul>\n\n<h2>ServEvo v0.0.4 is out, check it !</h2>\r<b>Changes :</b> <a href=\"http://servevo.codeplex.com/releases/view/99279\">http://servevo.codeplex.com/releases/view/99279</a><br /><b>Language :</b> <i>English (not fully) supported since v0.0.3 !</i><br /><br /><b>In future versions:</b>\n<ul><li>Multilingual support (English/French)</li>\n<li>We will be able to create and manage <b>PHP Cron Jobs</b></li>\n<li>We will be able to configure all of these services through the GUI</li>\n<li>Save activity of the application log (new window?)</li>\n<li>We are going to be able to download in the cloud components (such as apache, mysql, and others ...) and keep them up to date</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "server,wpf,http,ftp,mysql,smtp,developpement,.net 4.5,GUI,easy,servevo,evolution,C#,tools,utility,",
+  "LastEdited": "2012-12-18T09:33:44.483-08:00"
+}

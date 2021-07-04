@@ -1,0 +1,9 @@
+{
+  "ProjectName": "padsurface",
+  "Title": "Padsurface",
+  "Description": "Goal: an app to collaboratively make beats on a Windows 8 tablet",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Goal&#58; an app to collaboratively make beats on a Windows 8 tablet<br /><br /><br />Milestones:\n<ol><li>Build a basic sampler that can create songs by sequencing sounds into rhythms\n<ul><li><i>a basic sampler</i>\n<ul><li>I can record sound and save the result as a WAVE file <b>- ok</b></li>\n<li>I can play saved sounds <b>- ok</b></li></ul></li>\n<li><i>can create songs</i>\n<ul><li>I can save the song <b>- ok</b></li>\n<li>I can open a saved project and continue editing <b>- ok</b></li></ul></li>\n<li><i>by sequencing sounds into rhythms</i>\n<ul><li>I can set and change the tempo of the song <b>- ok</b></li>\n<li>I can manually or in real time sequence sounds on a timeline <b>- in progress</b></li>\n<li>I can loop the song <b>- ok</b></li></ul></li></ul></li>\n<li>Add feature to collaborate on the same song in a basic turn-based fashion\n<ul><li><i>collaborate on the same song</i>\n<ul><li>I can edit a project from another user on a different tablet</li></ul></li>\n<li><i>in a basic turn-based fashion</i>\n<ul><li>I can share a project with another user on a different tablet</li></ul></li></ul></li></ol>\n<br /><img src=\"/projects/padsurface/901fe555-f550-4dbd-aae1-3dc8cdf7275e\" alt=\"Screenshot&#32;proof&#32;of&#32;concept.PNG\" title=\"Screenshot&#32;proof&#32;of&#32;concept.PNG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "winrt,sampler,sequencer,",
+  "LastEdited": "2013-02-21T14:27:23.44-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "unprotectExcel",
+  "Title": "unprotectExcel",
+  "Description": "Command line utility that uses COM Automation to strip password protection from an Excel file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>unprotectExcel</b><br />Command line utility that uses COM Automation to strip password protection from an Excel file. You must know the correct password for the file, and you must have Excel 2003 or later installed. MIT license (i.e. &quot;AS IS,&quot; allowed in corporate use, no attribution, freedom, etc.)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-03-16T20:39:12.677-07:00"
+}

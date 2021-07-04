@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EmailTemplateEngine",
+  "Title": "EmailMasterTemplate",
+  "Description": "This user master and child user control based email template engine.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Project Description: This is email template utility project. In my scenario, I have lots of different type of email is going outside. However all email has same template.<br />To separate the template part, I have created Email-Master than rest of the email have only content part.<br /><br />Before coming to this solution, I have used html email template &amp; xslt.<br /><br />Some more details is available in my blog.<br /><br />http://anjumrizwi.blogspot.com/2010/11/3-ways-to-send-emails-with-dynamic.html<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-18T20:12:00.66-08:00"
+}

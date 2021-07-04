@@ -1,0 +1,9 @@
+{
+  "ProjectName": "seismo",
+  "Title": "C4F - Seismometer",
+  "Description": "The MSDN Coding4Fun Seismometer application uses an accelerometer sensor from Windows 7 to watch for movement.  Watch the raw data values, see it graphed, and learn about writing realtime data to the Windows performance monitor.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The MSDN Coding4Fun Seismometer application uses an accelerometer sensor from Windows 7 to watch for movement.  Watch the raw data values, see it graphed, and learn about writing realtime data to the Windows performance monitor.<br /><br /><br />This project is the downloadable code from an <a href=\"http://blogs.msdn.com/b/coding4fun/archive/2010/08/25/10053939.aspx\">MSDN Coding4Fun article</a>, published Aug 25, 2010.  This creates an addon for working with an accelerometer sensor.  The addon requires the <a href=\"http://utilrunner.codeplex.com\">MEF Utility Runner</a> application to host it.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "c4f,Coding4Fun,SensorAPI,sensor,accelerometer,MEF,addin,MSDN,WPF,",
+  "LastEdited": "2010-08-25T22:02:23.603-07:00"
+}

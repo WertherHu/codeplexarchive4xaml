@@ -1,0 +1,9 @@
+{
+  "ProjectName": "imageeditor",
+  "Title": "Image Upload and Editor Control",
+  "Description": "ASP.Net 2.0/MS AJAX 1.1 Image Editor custom server control provides client-side cropping, rotation/flip, brightness/contrast/saturation enhancement with dynamically generated image preview. Accompanying Image Editor Control is a full-featured image file selection and upload custom server control for DotNetNuke v 4.6.2 and above which handles all folder (including DNN secure and database folders) and file operations with respect for DNN permissions. A DNN module is also provided to demonstrate the control's capabilities and properties. It may also be used as a stand-alone image upload and editing module.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.Net 2.0&#47;MS AJAX 1.1 Image Editor custom server control provides client-side cropping, rotation&#47;flip, brightness&#47;contrast&#47;saturation enhancement with dynamically generated image preview. Accompanying Image Editor Control is a full-featured image file selection and upload custom server control for DotNetNuke v 4.6.2 and above which handles all folder &#40;including DNN secure and database folders&#41; and file operations with respect for DNN permissions. A DNN module is also provided to demonstrate the control&#39;s capabilities and properties. It may also be used as a stand-alone image upload and editing module.<br /><br />A live demo may be seen at <a href=\"http://www.wesnetdesigns.com/Projects/ImageEditor/tabid/114/Default.aspx\">http://www.wesnetdesigns.com/Projects/ImageEditor/tabid/114/Default.aspx</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "AJAX,webcontrols,DotNetNuke,DNN,Nice imagecontrol,cropper plugin,",
+  "LastEdited": "2008-03-05T07:36:59.827-08:00"
+}

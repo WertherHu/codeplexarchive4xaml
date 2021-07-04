@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ServiceControl",
+  "Title": "ServiceControl",
+  "Description": "With ServiceControl MP you can check your servers services. Some times windows services stopped unexpectedly. With this MP, if any service stopped –with Automat",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">With ServiceControl MP you can check your servers services. Some times windows services stopped unexpectedly. With this MP, if any service stopped –with Automatic Startup Type- a warning alert will generated.<br /><br />You can pass parameter to the monitor to exclude some services. If you don’t want to monitor a service with automatic startup type, you can exclude. You can exclude a service to a specific server or a group of servers or all of windows computers.<br /><br /> <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "automatic,service,control,with scom,scom,operations,manager,system center,operations manager,scom 2012,scom 2012 r2,",
+  "LastEdited": "2013-12-10T19:43:48.503-08:00"
+}

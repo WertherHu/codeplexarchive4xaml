@@ -1,0 +1,9 @@
+{
+  "ProjectName": "twedge",
+  "Title": "Twedge",
+  "Description": "Twedge is a customizable Silverlight-based Twitter badge, showing the latst tweets, based on your specific search term.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nTwedge is a configurable Silverlight-based Twitter badge, showing the latst tweets, based on your specific search term.</p>\r\n<p>This is how it looks, and you can see it live at <a href=\"http://tozon.info/twedge/\" target=\"_blank\">\r\nhttp://tozon.info/twedge/</a>:</p>\r\n<p><img src=\"http://www.codeplex.com/download?ProjectName=twedge&DownloadId=202912\" alt=\"\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "silverlight,twitter,silverlight 4,",
+  "LastEdited": "2011-01-25T15:49:59.543-08:00"
+}

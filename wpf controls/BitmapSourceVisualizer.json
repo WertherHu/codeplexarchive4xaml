@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BitmapSourceVisualizer",
+  "Title": "Bitmap & BitmapSource Visualizer for Visual Studio 2013",
+  "Description": "With the Bitmap & BitmapSource Visualizer you can easily view your Imagages in while debugging your C# code",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>C# Bitmap &amp; BitmapSource Debugger Visualizer</h1>\r\n<h2>Description</h2>\rA simple but useful Bitmap &amp; BitmapSource/BitmapImage Visualizer for Visual Studio. <br />It open a new window and shows the Image. <br /><br />To increase the BitmapSource performance you can reduce the quality level in the &quot;GetData&quot; method.<br />\n<h2>Install</h2>\rDownload the ImageVisualizer binaries and copy the .dll to either of the following locations:\n<ul><li>My Documents\\VisualStudioVersion\\Visualizers</li>\n<li>VisualStudioInstallPath\\Common7\\Packages\\Debugger\\Visualizers</li></ul>\n\n<h2>Requirements</h2>\r<ul><li>.NET Framework 3.5</li>\n<li>Visual Studio 2013 (perhaps on lower Versions)</li></ul>\n\n<h2>License</h2>\r<b>MIT-License</b>, feel free to modify...<br />\n<h2>Pictures</h2>\r\n<img src=\"/projects/BitmapSourceVisualizer/4a9549f8-90ee-4f8e-8baa-287715e01761\" alt=\"ViewImage1.png\" title=\"ViewImage1.png\" /><br /><img src=\"/projects/BitmapSourceVisualizer/0af7fe5f-203b-40d9-898f-cb2b7c2f844b\" alt=\"ViewImage2.png\" title=\"ViewImage2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Visualizer,Bitmap,BitmapSource,WPF,WinForms,Visual Studio,2013,Debugger,Debug,Images,view,c#,C-Sharp,BitmapImage,watch,image,source,",
+  "LastEdited": "2015-02-23T04:27:16.263-08:00"
+}

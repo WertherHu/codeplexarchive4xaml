@@ -1,0 +1,9 @@
+{
+  "ProjectName": "win7suspendresume",
+  "Title": "Windows 7 Suspend/Resume Control",
+  "Description": "Windows 7 Suspend/Resume Control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windows 7 Suspend&#47;Resume Control<br /><br /><br />The purpose of this project is get around problems i&#39;ve been having with Windows 7 Media Center. I have 2 problems that occur with my 7MC machine, these are:<br /><br />1. &quot;Viewer or Listener Conflict no tuners available to service your request&quot;. This occurs most times after a resume from sleep. Closing Media Center App and restarting it fixes this problem.<br />2. Disk space being gobbled up. This is due to multiple .tmp.sbf files in the Recorded TV\\TempRec\\TempSBE folder. These files never seem to get deleted by 7MC. I have fouind out that stopping the ehRecvr service clears up these files.<br /><br />I want to write a utility that does sorts these this automatically when I put my 7MC machine to sleep. My proposal is to have a simple utility that will (optionally) run a batch file on suspend and (optionally) run another batch on resume.<br /><br /><img src=\"/projects/win7suspendresume/8318a931-c52a-43f3-b79a-e5a651856fc5\" alt=\"Screenshot.png\" title=\"Screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MCE,Media Center,Windows Media Center,Windows 7,Suspend,Resume,Power Management,TempSBE,7mc,",
+  "LastEdited": "2009-12-22T15:11:24.81-08:00"
+}

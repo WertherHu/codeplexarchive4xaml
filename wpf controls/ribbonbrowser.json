@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ribbonbrowser",
+  "Title": "Ribbon Browser for Microsoft Dynamics CRM 2011",
+  "Description": "This tool helps developer to browse ribbons in Microsoft Dynamics CRM.\r\n\r\nIt makes easier to identify ribbon controls properties.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong> <br>\r\nThis tool helps developer to browse ribbons in Microsoft Dynamics CRM. <br>\r\n<br>\r\nIt makes easier to identify ribbon controls properties. <br>\r\n<br>\r\n<strong>Application Prerequisites</strong> <br>\r\nThis application requires the following components installed:</p>\r\n<ul>\r\n<li>Framework .Net 4 </li><li>Windows Identity Framework </li></ul>\r\n<p><strong>Application Screenshot</strong></p>\r\n<p><a href=\"http://download.codeplex.com/Download?ProjectName=ribbonbrowser&DownloadId=310559\"><img title=\"image\" border=\"0\" alt=\"image\" src=\"http://download.codeplex.com/Download?ProjectName=ribbonbrowser&DownloadId=310560\" width=\"676\" height=\"393\" style=\"border-bottom:0px; border-left:0px; padding-left:0px; padding-right:0px; display:inline; border-top:0px; border-right:0px; padding-top:0px\"></a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "crm,CRM 2011,Ribbon,Dynamics CRM 2011,",
+  "LastEdited": "2011-12-07T04:56:04.563-08:00"
+}

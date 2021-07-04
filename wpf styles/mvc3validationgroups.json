@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvc3validationgroups",
+  "Title": "MVC3 Validation Groups",
+  "Description": "Implements web forms style validation groups using MVC3 unobtrusive validation on the client and server side.\r\n\r\nThis is intended to improve the UX experience of validation messages by allowing smaller summaries to be grouped close to their related fields rather than a single large summary.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Implements web forms style validation groups using MVC3 unobtrusive validation on the client and server side.<br /><br />This is intended to improve the UX experience of validation messages by allowing smaller summaries to be grouped close to their related fields rather than a single large summary.<br /><br /><br /><br />Now available via <b>NuGet:</b><br /><a href=\"https://nuget.org/packages/Mvc3ValidationGroups\">https://nuget.org/packages/Mvc3ValidationGroups</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-22T15:21:32.763-07:00"
+}

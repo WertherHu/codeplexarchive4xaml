@@ -1,0 +1,9 @@
+{
+  "ProjectName": "geometryviz3d",
+  "Title": "Geometry Visualizer 3D",
+  "Description": "GeometryViz3D allows students to create 3D geometry models that comprise points, lines, and vectors, and examine the model by rotating it along the 3 axes. It's developed in C# based on the Petzold.Media3D library developed by Charles Petzold.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />A tool that allows users to create a 3D geometry model that contains points and lines, and to examine the model by rotating it around the 3 axes and zooming in and out. The tool is WPF application developed in C# based on the Petzold.Media3D library.<br /><br />You can find an article on CodeProject describing the design of the tool: <a href=\"http://www.codeproject.com/KB/WPF/GeometryViz3D.aspx\">http://www.codeproject.com/KB/WPF/GeometryViz3D.aspx</a>.<br /><br /><img src=\"/projects/geometryviz3d/8fed1586-b357-4597-a3ad-81a4a73dd230\" alt=\"geometryviz3d.png\" title=\"geometryviz3d.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF 3D,Petzold.Media3D,Geometry 3D,MVVM,CoreMVVM,Animation,SM RETURN,Data Binding,ListView,ComboBox,ObservableCollection,",
+  "LastEdited": "2009-10-11T20:09:48.14-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nicnet",
+  "Title": "NIC.NET is an open-source .NET reusable components library",
+  "Description": "NIC.NET is an open source version of NewtonIdeas .NET reusable components library (written in C#). It includes:\n- Spring-like IoC container (codename: Winter)\n- lightweight DB-independent data access layer (codename: DALC)\n- Virtual Filesystem layer (codename: VFS) ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">NIC.NET is an open source version of NewtonIdeas .NET reusable components library (written in C#). It includes:\n<ul><li>Spring-like XML-configurable IoC container (<a href=\"https://nicnet.codeplex.com/wikipage?title=http%3a%2f%2fwww.nrecosite.com%2fioc_container_net.aspx&referringTitle=Home\">NI.Ioc</a>)</li>\n<li>lightweight abstract DB-independent data access layer (<a href=\"https://nicnet.codeplex.com/wikipage?title=http%3a%2f%2fwww.nrecosite.com%2fdalc_net.aspx&referringTitle=Home\">NI.Data</a>)</li>\n<li>Abstract Virtual Filesystem API layer (<a href=\"https://nicnet.codeplex.com/wikipage?title=http%3a%2f%2fwww.nrecosite.com%2fvfs_net.aspx&referringTitle=Home\">NI.VFS</a>) </li></ul>\n<br /><b>supported targets</b>\n<ul><li>.NET 4.x, Mono</li></ul>\n<br /><b>links</b>\n<ul><li><a href=\"https://github.com/nreco/nicnet\">NIC.NET components source code on github</a></li>\n<li><a href=\"http://www.nrecosite.com/\">NReco Model-Driven Framework for ASP.NET</a> (relies on NIC.NET components)</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Framework,Data Access Layer,File System,Inversion of Control,IoC,",
+  "LastEdited": "2016-06-28T23:34:17.443-07:00"
+}

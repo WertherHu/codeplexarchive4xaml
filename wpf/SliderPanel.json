@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SliderPanel",
+  "Title": "SliderPanel for WPF (Metro Style)",
+  "Description": "SliderPanel for WPF (Metro Style)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SliderPanel for WPF &#40;Metro Style&#41;<br /> <br />Note: <b>the sliderpanel Background property must != x:Null</b><br />                                <b>Background == Transparent (Color Opacity==0)</b><br />         <b>for MouseDown,MouseMove and MouseUp event.</b><br /><br /><img src=\"http://download.codeplex.com/Download?ProjectName=sliderpanel&amp;DownloadId=336099\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Slider,Panel,WPF,Metro,Style,UI,WPF Controls,",
+  "LastEdited": "2012-02-03T01:54:54.667-08:00"
+}

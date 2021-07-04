@@ -1,0 +1,9 @@
+{
+  "ProjectName": "3DSharePointTagCloud",
+  "Title": "3D SharePoint Tag Cloud in Silverlight",
+  "Description": "This is a Silverlight Tag Cloud intended for use in SharePoint but can be configured for use separately as well. Based on a blog post from Peter Gerritsen (http://blog.petergerritsen.nl/2009/02/14/creating-a-3d-tagcloud-in-silverlight-part-1/).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis is a Silverlight Tag Cloud intended for use in SharePoint but can be configured for use separately as well. Based on a blog post from Peter Gerritsen (http://blog.petergerritsen.nl/2009/02/14/creating-a-3d-tagcloud-in-silverlight-part-1/).<br>\r\n<br>\r\nThis project shows how you can use Silverlight with SharePoint. It will have various interfaces to allow both access with the Client Object Model for SharePoint 2010 as well as using web services.</p>\r\n<div id=\"x_x_tagCloud_NumberOfTags\">Example:</div>\r\n<div></div>\r\n<div><img src=\"http://www.codeplex.com/download?ProjectName=3DSharePointTagCloud&DownloadId=193612\" alt=\"Sample\" width=\"1346\" height=\"534\"></div>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-03T16:08:03.827-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mosquitovm",
+  "Title": "Mosquito.ViewModel",
+  "Description": "A minimal MVVM library aimed at removing the pain of implementing ViewModels.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A minimal MVVM library aimed at removing the pain of implementing ViewModels.<br /><br />Mosquito.ViewModel is not yet another MVVM framework.<br />It is meant to compliment other frameworks and tackles areas where I fell <i>all</i> of them are lacking.<br />Like observable collections.<br /><br /><i>//TODO: add more pretext</i><br />\n<h2>Contents</h2>\r<ul><li>ObservableTree&lt;TKey, TValue&gt; - implements INotifyCollectionChanged for a recursive structure</li>\n<li>SortedObservableTree&lt;TKey, TKeyPart, TValue&gt; - like ObservableTree, except is also sorts the nodes it receives</li>\n<li>SortedObservableTree&lt;TValue&gt; - a specialized version of SortedObservableTree, in which TKey is TkeyPart is string and the key depends on the value</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-08-20T15:49:10.853-07:00"
+}

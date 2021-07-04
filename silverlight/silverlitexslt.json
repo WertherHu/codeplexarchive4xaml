@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlitexslt",
+  "Title": "SilverlitEXSLT",
+  "Description": "SilverLitEXSLT is a community-based project to first define then develop support for XSLT 1.0 as well as a subset of EXSLT for Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverLitEXSLT is a community-based project to first define then develop support for XSLT 1.0 as well as a subset of EXSLT for Silverlight.<br /><br />The initial code base has been checked in.  Now the task begins of, in essence, starting over from scratch and rebuilding the core XSLT processor on top of XmlReader and XmlWriter.  Once that is complete, we should be able to then begin integrating the EXSLT code base directly into System.Xml.Xsl.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-05-28T21:47:39.46-07:00"
+}

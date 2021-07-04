@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MoneyManager",
+  "Title": "MoneyManager",
+  "Description": "Trying to make Personal Finances management System for my needs.\n\nMicrosoft stopped to support MSMoney - it makes me so sad, so I wanna to make my own.\n\nBut it seems to hard - it too much work for so small free time.\nIn all cases it will be on WPF, LINQ and other stuff - just foo",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Trying to make Personal Finances management System for my needs.<br /><br />Microsoft stopped to support MSMoney - it makes me so sad, so I wanna to make my own.<br /><br />But it seems to hard - it too much work for so small free time.<br />In all cases it will be on WPF, LINQ and other stuff - just foo<br /><br /><br />This project is currently in setup mode and only available to project coordinators and developers. Once you have finished setting up your project you can publish it to make it available to all CodePlex visitors.<br /><br />There are three requirements before you publish:<br /><br />- Edit this page to provide information about your project<br />- Upload the initial source code for your project<br />- Add your project license<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-01T09:34:59.243-07:00"
+}

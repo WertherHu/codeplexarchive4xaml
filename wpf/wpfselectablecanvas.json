@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfselectablecanvas",
+  "Title": "SelectableCanvas for WPF",
+  "Description": "An enhanced Canvas that allow users to drag and resize controls in the canvas on runtime.\r\n\r\nThis custom control is written in C# for WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An enhanced Canvas that allow users to drag and resize controls in the canvas on runtime.<br /><br />This custom control is written in C&#35; for WPF.<br /><br /><img src=\"http://www.codeplex.com/Download?ProjectName=wpfselectablecanvas&amp;DownloadId=277836\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-05T00:34:05.55-07:00"
+}

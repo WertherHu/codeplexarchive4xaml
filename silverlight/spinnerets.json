@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spinnerets",
+  "Title": "Spinnerets",
+  "Description": "Spinnerets is a network scanning and device discovery library with a Silverlight web UI. The intent is to add a sweep scheduling subsystem as a Windows service later. It's written using C# with a future front-end utility utilizing Silverlight and WCF RIA Services.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Spinnerets is a network scanning and device discovery library with a Silverlight web UI. The intent is to add a sweep scheduling subsystem as a Windows service later. It&#39;s written using C&#35; with a future front-end utility utilizing Silverlight and WCF RIA Services.<br /><br />This project is also an effort towards the ability to handle multiple protocols (IPv4 and IPv6), as well as remain forward-compatible with future protocols. The device collection will first support WMI and allow the administrator to enter network credentials with which to scan discovered devices. Future versions will support SNMP and other device information interfaces as well.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "silverlight,RIA,WMI,network,scanning,management,wcf,wcf ria services,",
+  "LastEdited": "2009-12-17T19:04:06.147-08:00"
+}

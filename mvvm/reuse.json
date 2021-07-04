@@ -1,0 +1,9 @@
+{
+  "ProjectName": "reuse",
+  "Title": "Reuse Toolkit",
+  "Description": "The toolkit to empower your MVVM and cross-platform patterns",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The toolkit to empower your MVVM and cross-platform patterns<br />Reuse is a toolkit that makes easier for you to implement specific MVVM and cross-platform patterns that you reuse oftenly across Windows Phone and Windows Store apps. Built over the building blocks of MVVM Light and leveraging as much as possible Portable Class Libraries.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-22T07:32:17.157-07:00"
+}

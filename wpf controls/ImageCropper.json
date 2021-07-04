@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ImageCropper",
+  "Title": "ImageCropper base on AjaxControlToolkit",
+  "Description": "The image cropper provides a way to draw a crop area on an image and capture the coordinates of the drawn crop area. This control is migrated from another tool ( http://www.defusion.org.uk/code/javascript-image-cropper-ui-using-prototype-scriptaculous), which is base on the Prototype and Scriptaculous, to MS Ajax Library infrainstructure \n\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>ImageCropper base on AjaxControlToolkit</b><br />{The image cropper provides a way to draw a crop area on an image and capture the coordinates of the drawn crop area. This control is migrated from another tool ( http://www.defusion.org.uk/code/javascript-image-cropper-ui-using-prototype-scriptaculous), which is base on the Prototype and Scriptaculous, to MS Ajax Library infrainstructure }<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "cropper,Image,AjaxControlToolkit,",
+  "LastEdited": "2007-11-05T21:11:45.77-08:00"
+}

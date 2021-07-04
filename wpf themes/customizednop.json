@@ -1,0 +1,9 @@
+{
+  "ProjectName": "customizednop",
+  "Title": "customized_nop",
+  "Description": "as learning purpose, customized web ui themes based nop commerce 3.5 version.\r\n\r\nprovider mobile theme from for nop commerce 3.5, separated NOP commerce into 2 ve",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nas learning purpose, customized web ui themes based nop commerce 3.5 version.</p>\r\n<p>provider mobile theme from for nop commerce 3.5, separated NOP commerce into 2 version.</p>\r\n<p>add new project &quot;NOP.CDN&quot; for performance purpose split app into two child website.</p>\r\n<p>&nbsp;</p>\r\n<ul>\r\n<li>using .net 4.5, ASP.net MVC, EntityFramework&nbsp; </li><li>N-Tier Architecture </li><li>Security using Forms Authentication </li><li>pagination using &quot;more results&quot; button </li><li>bootstrap css </li><li>Unobtrusive Client Side Validation using jQuery.Validate </li><li>Nice validation messages using just CSS </li><li><a href=\"http://www.tinymce.com\">tinyMCE</a> as wysiwyg editor </li></ul>\r\n<p>official verison is <a title=\"nopcommerce\" href=\"http://nopcommerce.codeplex.com/\">\r\nhttp://nopcommerce.codeplex.com/</a></p>\r\n<p>address is ASP.net MVC Tutorial: <a href=\"http://www.youtube.com/watch?v=fsfOFL4bXXA\">\r\nhttp://www.youtube.com/watch?v=fsfOFL4bXXA</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-12-20T20:34:02.083-08:00"
+}

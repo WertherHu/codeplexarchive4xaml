@@ -1,0 +1,9 @@
+{
+  "ProjectName": "energysba",
+  "Title": "Energy SBA",
+  "Description": "In order to compete with large companies for Federal contracts, small business need information. This application seeks to show standard methods of using remote APIs to integrate information into a Metro interface using services provided by the Small Business Administration (SBA)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />In order to compete with large companies for Federal contracts, small business need information. This application seeks to show standard methods of using remote APIs to integrate information into a Metro interface using services provided by the Small Business Administration &#40;SBA&#41;<br /><br /><br />The SBA publishes a series of endpoints for Green companies here: <a href=\"http://green.sba.gov/apis\">Green SBA</a>. By using standard web request and binding behaviors, this application demonstrates the ease with which valuable information can be accessed and exposed on a mobile device.<br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "api,gis,sba,",
+  "LastEdited": "2011-11-21T07:23:04.217-08:00"
+}

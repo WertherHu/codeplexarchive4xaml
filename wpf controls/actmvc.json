@@ -1,0 +1,9 @@
+{
+  "ProjectName": "actmvc",
+  "Title": "AJAX Control Toolkit to ASP.NET MVC port",
+  "Description": "This is a port of AJAX Control Toolkit client components to ASP.NET MVC framework.\nIt allows to use familiar AJAX Control Toolkit components in newer ASP.NET MVC applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>DISCONTINUED</h1>\r\nI will not develop this project any more. If someone want to take it please contact me. <br /><br /><b>Project Description</b><br />This is a port of AJAX Control Toolkit client components to ASP.NET MVC framework.<br />It allows to use familiar AJAX Control Toolkit components in newer ASP.NET MVC applications.<br /><br />List of ported controls:\n<ul><li>AutoComplete</li>\n<li>Calendar</li>\n<li>CascadingDropDown</li>\n<li>CollapsiblePanel</li>\n<li>ColorPicker</li>\n<li>NumericUpDown</li>\n<li>PopupControl</li>\n<li>TextBoxWatermark</li></ul>\n<br />If you need more controls or particular functionality, please create discussion.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "AJAX Control Toolkit,ASP.NET MVC,",
+  "LastEdited": "2010-05-28T02:08:31.68-07:00"
+}

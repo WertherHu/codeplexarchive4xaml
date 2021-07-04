@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Mongoose",
+  "Title": "Mongoose",
+  "Description": "Mongoose is an attempts at merging old fashioned MDI and modern UI in a common UI library.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong style=\"font-size:10pt\">Project Description</strong></p>\r\n<p><span style=\"font-size:10pt\">Mongoose is an attempt at merging old fashioned MDI and modern UI in a common library.</span></p>\r\n<p>It currently mainly includes an MDI control called Surface. This control is a simple ItemsControl and can be used as such. A surface Pad will be created as an item container for each of the Surface items.</p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://intuitiveprogramming.files.wordpress.com/2013/04/mongoosesampleapplication.png?w=467&h=465\" alt=\"\" width=\"467\" height=\"465\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MDI,.NET,UI,",
+  "LastEdited": "2013-04-05T00:51:29.583-07:00"
+}

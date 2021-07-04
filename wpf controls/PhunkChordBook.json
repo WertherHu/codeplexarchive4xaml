@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PhunkChordBook",
+  "Title": "ChordBook",
+  "Description": "Create a library of songs, storing chord sequences and lyrics for each.  Build a set list of songs in any key, and print the charts with or without lyrics.  Print a single gig-sheet with all of the chords you'll need!\nWPF application written in C# using .NET 3.5 SP1.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Phunk.ChordBook</b><br /><br />A brief introduction (pending more time to write something thorough)...<br /><br />I&#39;m a musician, and a fairly prolific one and, like many of my kind, I have piles of scrap paper covered in chord sequences.  I take these things to gigs and fumble through them to find where each song is, and then I screw them all back up into a bag at the end of the night.<br /><br />For some gigs, if I&#39;m organised enough, I&#39;ll create something in Excel that lists all the chords for all of the songs in the gig on just one or two pages, and I&#39;ll take that.  But it&#39;s a pain to create.<br /><br />So, the aim of this project is to create a repository for chord charts.  To allow them to be written using the structure and shorthand that I use when I scribble them down - &quot;this section x3&quot; or &quot;Ch x2&quot;.  To then be able to create a gig-sheet that has a dozen songs, in whatever key you need, on as little paper as possible.  And also, eventually, to print out a full book of chords for everything.<br /><br />Other features are planned; these will be announced as time and progress allows!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "c# music chord,",
+  "LastEdited": "2006-08-06T09:43:57.147-07:00"
+}

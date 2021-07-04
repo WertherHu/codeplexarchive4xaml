@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PackageMaker2008",
+  "Title": "Package Maker For Team System",
+  "Description": "The easy way to create collection of files from changesets.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>PackageMaker 2008</b><br /><br />Package Maker 2008 version 1.0 works only for Web Projects.<br />With PackageMaker you can easily <b><u>Create file package from changesets.</u></b><br /><br /><u>So how does it work?</u><br /><br />After you are connected to the TFS, write the &#39;changesets&#39; and chose the right workspace from the list.<br />As we start the run we begin from the oldest &quot;changeset&quot; and forward, the reason is to take the newest file.<br />For every change in the &#39;changeset&#39; the APP starts to download the &#39;changeset&#39; files.<br />There are Web files and DLL/EXE files; there are several differences when dealing with those kinds of files:<br />Web files - after getting the path of the file from the source control, the APP goes backward and searches the &#39;web.config&#39;, if the &#39;web.config&#39; was found, the APP downloads the file directly from the source control.<br />Not Web files – if the APP searches for &#39;web.config&#39; and returns &#39;false&#39; we assumes the files are related to a DLL or EXE, the app searches for &quot;proj&quot; files in the path and when the files are found. The APP takes the &#39;AssemblyName&#39; of the output file.<br />After getting the &#39;AssemblyName&#39;, the APP takes the file from the local workspace. (It&#39;s important to perform &#39;get latest&#39; in order to get the most updated file).<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Team System,Version Control,Image,",
+  "LastEdited": "2008-02-20T04:15:33.88-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mpass",
+  "Title": "mPass",
+  "Description": "mPass is a WinRT and Windows Phone 8 version of KeePass, a free and easy to use password manager.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />mPass is a WinRT and Windows Phone 8 version of KeePass, a free and easy to use password manager.<br /><br /><b>Status</b>\n<ul><li>KeePassLib is mostly ported to WinRT (loading .kbdx files mostly works, still have to port saving)</li>\n<li>Starting to work on the WinRT UI.</li></ul>\n<br /><b>Related Content</b><br /><a href=\"http://keepass.info\">http://keepass.info</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-25T02:39:00.697-07:00"
+}

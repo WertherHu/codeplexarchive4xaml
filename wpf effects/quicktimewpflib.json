@@ -1,0 +1,9 @@
+{
+  "ProjectName": "quicktimewpflib",
+  "Title": "Quick Time WPF Lib",
+  "Description": "Library for use Quick Time in WPF Applications",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Library for use Quick Time in WPF Applications<br /><br />When I&#39;m created project in .NET 4.0 and tried to reference &quot;Apple QuickTime Control 2.0&quot; I&#39;v got an error. But against 3.5 SP1 Runtime it is added normal. But 3.5 SP1 doesn&#39;t support embedded interop types. I&#39;ve created this project to help people, if they want to use QuickTime in WPF Applications</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-31T18:41:51.297-07:00"
+}

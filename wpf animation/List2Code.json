@@ -1,0 +1,9 @@
+{
+  "ProjectName": "List2Code",
+  "Title": "List2Code",
+  "Description": "List2Code is very Simple Application that take a comma delimited list and runs it trough a template to create code that can be copied and pasted in your application. Its Developed in CSharp using WPF for the GUI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Note!</b><br /><br />This project has been moved to a Web version at <a href=\"http://list2code.appspot.com/\">http://list2code.appspot.com/</a>.<br /><br /><b>Project Description</b><br />List2Code is very Simple Application that take a comma delimited list and runs it trough a template to create code that can be copied and pasted in your application. Its Developed in CSharp using WPF for the GUI.<br /><br />Use List2Code to quickly generate alot of properties from a list of property names, use the same list to create a function to set the properties and keep the list in your code comments to use later if you like to change your code.<br /><br /><img src=\"/projects/List2Code/642ced91-806b-48b3-9ab7-3e6bac1d0566\" alt=\"List2Code.png\" title=\"List2Code.png\" /><br /><br />See the Documentation for some samples or visit my blog http://codesticks.wordpress.com/2009/11/08/list2code/</div><div class=\"ClearBoth\"></div>",
+  "TagList": "code generation,Code Generator,",
+  "LastEdited": "2013-03-27T11:10:43.73-07:00"
+}

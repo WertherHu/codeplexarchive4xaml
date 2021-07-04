@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pdnampeffects",
+  "Title": "PDN C++ AMP Effects",
+  "Description": "Paint.NET Gaussian blur effect written in C++ AMP",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Paint.NET Gaussian blur written in C++ AMP</b><br /><br /><br />Extract zip file into the Paint.NET effects folder. Typically c:\\Program Files\\Paint.NET\\Effects<br /><br />Run the effect from the Effects &gt; Blurs &gt; (AMP) Gaussian Blur menu. <br /><br />Requires Microsoft Visual Studio 2012 RC to be installed to run.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-16T23:22:11.45-07:00"
+}

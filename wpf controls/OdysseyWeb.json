@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OdysseyWeb",
+  "Title": "Odyssey.Web - ASP.NET Ajax Control Library",
+  "Description": "ASP.NET AJAX Controls Library\n\nCurrently contains a templated TreeView with custom commands, client script, data binding and ajax support.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET AJAX Controls Library<br /><br />Currently contains a templated TreeView with custom commands, client script, data binding and ajax support.<br /><br />\n<h2>Collection of ASP.NET Ajax Controls.</h2>\r\ncurrently there is only the OdcTreeView available:<br />A templated treeview that supports commands, context menu, client scripting and databinding and more.<br />Go to <a href=\"http://www.codeproject.com/KB/ajax/OdcTreeView.aspx\">http://www.codeproject.com/KB/ajax/OdcTreeView.aspx</a> for more information.<br /><br /><img src=\"/projects/OdysseyWeb/a3d2e518-f81f-44c1-bb47-2df52f599518\" alt=\"TreeView1.png\" title=\"TreeView1.png\" /> <img src=\"/projects/OdysseyWeb/248de0d9-1d9d-4e12-8e12-98cd574e50ff\" alt=\"TreeView2.png\" title=\"TreeView2.png\" /> <img src=\"/projects/OdysseyWeb/aba80cf6-536f-4ac6-ac07-b51c6415bed1\" alt=\"TreeView3.png\" title=\"TreeView3.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Ajax,Template,treeview,Data Binding,.NET 3.5,ScriptManager,",
+  "LastEdited": "2009-03-02T16:04:02.357-08:00"
+}

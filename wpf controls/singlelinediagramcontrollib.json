@@ -1,0 +1,9 @@
+{
+  "ProjectName": "singlelinediagramcontrollib",
+  "Title": "Single Line Diagram (Electrical) Control Library",
+  "Description": "Single Line Diagram control library helps in creating dynamic GUI for your substation/grid SLDs based on dynamic data received from electrical grid-substation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Project Description</h1>\r\n<p><strong>Single Line Diagram (Electrical) project help in&nbsp;creating SLD symbols.&nbsp;SLD (Electrical)&nbsp;are used to represent the arrangement of your electrical network. Any project which represent electrical network can utilize these component to\r\n show the dynamics of electrical network of&nbsp;power grid/substation.&nbsp;The level of network&nbsp;can be a substation or it can also be a combination of substations or maybe a small town.</strong></p>\r\n<p>Attached image show how these SLDs will look like. There are symbols that are yet to be implemented and they, for now, have code from other symbols.</p>\r\n<p>Following components are the part of the single line diagram (SLD library) -</p>\r\n<ul>\r\n<li>AcGenerator </li><li>Busbar </li><li>CapacitorBank </li><li>CircuitBreaker </li><li>Connector </li><li>ElectricalSymbol </li><li>Extender </li><li>Feeder </li><li>Fuse </li><li>Isolator </li><li>Jumper </li><li>LighteningArrestor </li><li>Meter </li><li>PotheadTerminal </li><li>Reactor </li><li>Switch </li><li>Transformer\r\n<ul>\r\n<li>TwoWindingTrasformer </li><li>ThreeWindingTrasformer </li><li>AutoTrasformer </li><li>CurrentTrasformer </li><li>PotentialTrasformer </li></ul>\r\n</li></ul>\r\n<p>View of Single Line Diagram...</p>\r\n<p><img src=\"/projects/singlelinediagramcontrollib/c20a87df-e99b-4daa-80f9-82a78260c1fc\" alt=\"Single Line Diagram\"></p>\r\n<p>Teavch</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-26T08:40:42.25-08:00"
+}

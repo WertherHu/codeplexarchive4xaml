@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CopyLogins",
+  "Title": "CopyLogins task",
+  "Description": "CopyLogins is a SSIS control flow task that can transfer logins from one SQL instance to another including the passwords for the SQL Logins",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>CopyLogins SSIS control flow task</h1>\r\nThis is a replacement for the Transfer Logins task in SSIS that is also able to copy the passwords of the SQL Logins<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SSIS,CopyLogins,Transfer Logins,Task,Control Flow Task,SQL,login,",
+  "LastEdited": "2013-05-07T03:55:04.087-07:00"
+}

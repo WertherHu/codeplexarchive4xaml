@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfmultimedia",
+  "Title": "WpfMultimedia",
+  "Description": "Light weight support for multimedia devices for WPF. Initial version supports only camera devices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Multimedia library for WPF</h1>\rLight weight support for multimedia devices for WPF. Initial version supports only camera devices.<br /><br /><b>Currently supports only webcam</b><br /><br />Simply create <span class=\"codeInline\">VideoCapture</span> class with selected video input device, optionally specify maximum frame size, subscribe to <span class=\"codeInline\">CaptureFrame</span> event and start receiving frames from camera device<br /><br /><pre>\nusing WpfMultimedia;\nusing WpfMultimedia.Webcam;\n\nvar _webCam = new VideoCapture(DeviceManager.GetVideoInputDevices().First(), null);\n_webCam.CaptureFrame += OnFrameCaptured;\n_webCam.Start();\n\n...\n\nprivate void OnFrameCaptured(object sender, CaptureFrameEventArgs e)\n{\n    //latest BitmapImage from camera is in e.Frame\n    BitmapImage _currentFrame = e.Frame\n    ....\n}\n</pre></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,directshow,webcam,c#,.net,",
+  "LastEdited": "2015-11-15T02:36:41.817-08:00"
+}

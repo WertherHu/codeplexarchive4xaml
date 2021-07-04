@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightscroller",
+  "Title": "Silverlight Drag Scroller",
+  "Description": "An iPhone-like drag scroller adaptor for ScrollViewer controls for Silverlight 3 (same code can be used in Silverlight 2).  The user can drag the content around with the mouse and then throw it by flicking and releasing the button.  Includes the abiliity to fine-tune friction.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An iPhone-like drag scroller adaptor for ScrollViewer controls for Silverlight 3 &#40;same code can be used in Silverlight 2&#41;.  The user can drag the content around with the mouse and then throw it by flicking and releasing the button.  Includes the abiliity to fine-tune friction.<br /><br /><br />This control allows content to be dragged and flung with the mouse, much like what you see on the iPhone, for example.  You can adjust the amount of momentum/friction on the content so that it either stops right after the mouse button is released (high friction) or continues until the end of the control content is reached (low/no friction).<br /><br /><img src=\"http://www.murtaya.com/Mike/CodePlex/SLDragScroller.jpg\" /><br /><br />This control extends the WPF ScrollViewer control.<br /><br />For examples of this control in action (at least the Silverlight 3 version, which should act similarly), see the following pages:\n<ul><li><a href=\"http://www.mymurtaya.com\">http://www.mymurtaya.com</a>\n<ul><li>Picture pages use the drag scrolling functionality</li>\n<li>Diary pages use the drag scrolling functionality</li></ul></li></ul>\n </div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight Controls,Silverlight control,Silverlight,Silverlight Scroller,iphone,ScrollViewer,Flick,",
+  "LastEdited": "2012-02-16T15:52:59.327-08:00"
+}

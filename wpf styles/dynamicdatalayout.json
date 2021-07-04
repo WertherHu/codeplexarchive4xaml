@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dynamicdatalayout",
+  "Title": "ASP.NET Dynamic Data Layout",
+  "Description": "Dynamic Data Layout is a library for ASP.NET WebForms that extends the ASP.NET Dynamic Data functionality. It allows you to create complex forms where you can easily define the layout, use tabs, multiple columns, advanced styling etc. And all this without entity templates!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rDynamic Data Layout is a library for ASP.NET WebForms that extends the ASP.NET Dynamic Data functionality. It allows you to create complex forms where you can easily define the layout, use tabs, multiple columns, advanced styling etc. And all this without entity templates&#33;<br /><br /><b>Can you believe that this form is generated with ASP.NET Dynamic Data without entity template?</b><br /><i>Of course it is! Using Dynamic Data Layout library!</i><br /><img src=\"http://download.codeplex.com/download?ProjectName=dynamicdatalayout&amp;DownloadId=169745\" /><br /><br />Comments and suggestions welcome. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-19T21:20:12.677-08:00"
+}

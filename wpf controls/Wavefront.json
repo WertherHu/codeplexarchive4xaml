@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Wavefront",
+  "Title": "Wavefront Object Support",
+  "Description": "Support for reading of 3D objects from the standard Wavefront Object file format.  Allows dynamic loading of OBJ files into Windows Presentation Foundation 3D view ports.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Support for reading of 3D objects from the standard Wavefront Object file format.  Allows dynamic loading of OBJ files into Windows Presentation Foundation 3D view ports.<br /><br /><br />For more information on Wavefront OBJ and MTL files please see:<br /><br /><a href=\"http://en.wikipedia.org/wiki/Obj\">OBJ - Wikipedia</a><br /><br />Details of the specification can be found here:<br /><br /><a href=\"http://local.wasp.uwa.edu.au/~pbourke/dataformats/obj/\">http://local.wasp.uwa.edu.au/~pbourke/dataformats/obj/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "3D,OBJ,MTL,WPF,.NET 3.5,3D Graphics,",
+  "LastEdited": "2008-12-22T12:32:40.563-08:00"
+}

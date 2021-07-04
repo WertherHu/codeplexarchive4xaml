@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfConsole",
+  "Title": "WpfConsole",
+  "Description": "This is a WPF version of Console2 (http://sourceforge.net/projects/console/).\nSeparate non-UI part from Console2 to ConsoleHost.dll.\nThen call via P/Invoke and create WPF version.\n\nI want to create easy to change console for programmer.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a WPF version of Console2 &#40;http&#58;&#47;&#47;sourceforge.net&#47;projects&#47;console&#47;&#41;.<br />Separate non-UI part from Console2 to ConsoleHost.dll.<br />Then call via P&#47;Invoke and create WPF version.<br /><br />I want to create easy to change console for programmer.<br /><br /><b>Current Status</b>\n<ul><li>basic command work</li>\n<li>scroll work (not so nice, though)</li>\n<li>Use powershell.exe or other command by changing WpfConsole.exe.config.</li>\n<li>Always re-draw whole character whenever console scroll (scroll is very slow)</li>\n<li>Do not support JAPANESE (even though I&#39;m Japanese :-) )</li>\n<li>Tab supported</li></ul>\n<br />Now I change status to beta.<br />After here, I&#39;ll add more strange feature for me.<br /><br /><b>Screen Shot</b><br /><img src=\"/projects/WpfConsole/d7ed1269-af1b-42ed-b9ad-c06ee2fe359f\" alt=\"WpfConsole_Tab.JPG\" title=\"WpfConsole_Tab.JPG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-12-12T05:40:18.783-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspmvchelpers",
+  "Title": "AspMvcHelpers",
+  "Description": "Quick and Dirty Helpers for ASP.NET MVC that boosts productivity by help typing less code for common HTML controls like Link, Image, Input and more.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nQuick and Dirty&nbsp;Helpers for ASP.NET MVC that boosts productivity by help&nbsp;typing less code for common HTML controls like Link, Image, Input and more.</p>\r\n<p><strong>Sample:</strong></p>\r\n<p>To link an external stylsheet to your HTML document, here is the simple and elegant way to do this.</p>\r\n<p><span style=\"color:#008000\"><strong>@Helpers.Stylesheet(&quot;/content/site.css&quot;)</strong></span></p>\r\n<p>This will be finally rendered as</p>\r\n<p><strong><span style=\"color:#008000\">&lt;link href=&quot;/content/site.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;</span></strong></p>\r\n<p><span style=\"color:#000000\">These helpers make your code more readable and helps reduce development&nbsp;time.</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "helpers,mvc,asp.net,html,c#,controls,",
+  "LastEdited": "2012-01-15T04:32:50.077-08:00"
+}

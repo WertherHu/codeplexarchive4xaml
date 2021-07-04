@@ -1,0 +1,9 @@
+{
+  "ProjectName": "inlinesitesettings",
+  "Title": "SharePoint InlineSiteSettings",
+  "Description": "A quick way to access your Site Settings in SharePoint; InlineSiteSettings allows you to pop up the Site Settings of the current site - triggered by a keyboard shortcut - without navigating away from the current page. InlineSiteSettings uses jQuery to power its AJAX functionality",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A quick way to access your Site Settings in SharePoint&#59; InlineSiteSettings allows you to pop up the Site Settings of the current site - triggered by a keyboard shortcut - without navigating away from the current page. InlineSiteSettings uses jQuery to power its AJAX functionality<br /><br /><a href=\"http://blog.vossers.com\">blog.vossers.com</a><br /><br />Watch demo video at <a href=\"http://www.youtube.com/watch?v=dZuBf2QgMxE\">http://www.youtube.com/watch?v=dZuBf2QgMxE</a><br /><br />Installation Instructions:<br />\n<ol><li>Download Muhimbi Infuser from <a href=\"http://www.muhimbi.com/blog/2009/07/massage-sharepoint-into-submission.html\">http://www.muhimbi.com/blog/2009/07/massage-sharepoint-into-submission.html</a> and install it by running Muhimbi&#39;s quick and simple installation process.</li>\n<li>Download InlineSiteSettings.js from the Downloads tab and paste its contents into Muhimbi Infuser.</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WSS 3.0,Sharepoint,MOSS 2007,Tools,jQuery,Ajax,site settings,Feature,Controls,jvossers,",
+  "LastEdited": "2012-01-19T13:50:52.473-08:00"
+}

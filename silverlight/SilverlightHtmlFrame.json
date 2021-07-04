@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightHtmlFrame",
+  "Title": "Silverlight HTML Frame",
+  "Description": "Silverlight HTML Frame is a project containing a Silverlight component to show Html Content in a Silverlight Application HOSTING IN WebBrowser. \n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\r\n<b>Silverlight HTML Frame</b> is a project containing a Silverlight component to show Html Content in a Silverlight Application <b>HOSTING IN</b> WebBrowser. <br /><br />You can use this Frame to show a web site in binding an Uri or in binding Html Code inside Content property.<br />It&#39;s possible to show a Html Frame into a ChildWindow and many instances inside only one UserControl.<br /><br /> </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-08T15:25:48.573-08:00"
+}

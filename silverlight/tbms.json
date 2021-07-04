@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tbms",
+  "Title": "Transport Broker Management System",
+  "Description": "Transport Management system will serve the small freight brokers manage the carriers and orders.\r\nIt has features like manage truck owners, carriers, source, destination, orders.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nTransport Management system will serve the small freight brokers manage the carriers and orders.<br>\r\nIt has features like manage truck owners, carriers, source, destination, orders.<br>\r\n<br>\r\nThe project is developed using Lightswitch beta and database is SQL Express.</p>\r\n<p>The application has following features.</p>\r\n<p>Manage State- Add, Edit, Delete and Search State</p>\r\n<p>&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;Manage City - &#65279;&#65279;&#65279;&#65279;&#65279;&#65279;&#65279;Add Edit Delete and Search City</p>\r\n<p>Manage Truck Owner - Add, Edit, Delete and Search Truck Owner</p>\r\n<p>Manage Carrier - Add Edit Delete and Search Carrier</p>\r\n<p>Manage Source and Destination - Add Edit Delete and Search Source and Destination</p>\r\n<p>Manage Order - Add Edit Delete and Search Order<br>\r\n<br>\r\nAdditional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">\r\nProject Startup Guide</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "lightswitch,transport management,freight broker,silverlight,",
+  "LastEdited": "2011-06-02T10:14:15.43-07:00"
+}

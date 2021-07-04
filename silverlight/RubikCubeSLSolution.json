@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RubikCubeSLSolution",
+  "Title": "Rubik Cube's 3D Silverlight 3.0 Animated Solution",
+  "Description": "Rubik Cube's Silverlight 3.0 Animated Solution is a 3D presentation of Rubik Cube in range of up to 7x7x7 size with full functionality and an animated solution for 3x3x3 size.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br />Platform: Silverlight 3.0 in .NET Framework 3.5<br />Language: C# - MS Visual Web Developer 2008 Express Edition<br />Sample Demo: http://galka-vorona.com/rubikcube.html<br /><br />This project is a realization of 3D presentation of a Rubik Cube. It presents all the Rubik Cube functionality for 1x1x1 to 7x7x7 cubes, including rotating all the slices of the cube, random shuffling and an animated solution, developed for a 3x3x3 cube.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-03T13:49:40.277-07:00"
+}

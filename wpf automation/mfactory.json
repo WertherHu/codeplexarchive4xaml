@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mfactory",
+  "Title": "Machine Factory",
+  "Description": "Machine Factory is a PowerShell script module, which allows you to automate VHD-based deployment and configuration of virtual and physical machines.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Machine Factory is a PowerShell script module, which allows you to automate VHD-based deployment and configuration of virtual and physical machines.<br /><br />Any configuration task that can be executed as CMD script can be specified to run automatically during the VM deployment, which makes the automated deployment of complex pre-configured machine topologies extremely easy. Machine Factory has also a capability of deploying physical machines using VHD boot but this is currently in beta and have not been thoroughly tested. <br /><br />Each custom set of the machines to deploy and configure is called topology and is defined in an XML file using proprietary format. The format is not documented yet but is rather straightforward and is easy to use if you take the included examples as templates for your deployments.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Hyper-V,VM,Topology,unattended,automation,VHD,powershell,Deployment,",
+  "LastEdited": "2012-09-28T10:06:09.833-07:00"
+}

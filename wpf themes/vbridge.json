@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vbridge",
+  "Title": "vBridge",
+  "Description": "vBridge extends .NET's GUI capabilities by giving developers additional system features, and increases productivity by eliminating common boilerplate code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rvBridge extends .NET&#39;s GUI capabilities by giving developers additional system features, and increases productivity by eliminating common boilerplate code.<br />\n<h2>Note</h2>\rUpdates on CodePlex are postponed as vBridge is being re-built.<br /><br />Features:\n<ul><li>Aero</li>\n<li>MVVM</li>\n<li>ValueConverters</li>\n<li>Global Hotkeys</li>\n<li>System extension methods</li>\n<li>Highly configurable</li>\n<li>Very light</li></ul>\n\n<h2><a href=\"https://vbridge.codeplex.com/documentation?referringTitle=Home\">Documentation</a></h2>\r<h3><a href=\"https://vbridge.codeplex.com/wikipage?title=Snippets&referringTitle=Home\">ViewModelLocator Snippet</a></h3>\r<h2>Forms Support</h2>\rAs it stands vBridge can be used in Windows Forms, however it has not been tested (yet?).<br /><b>Either way WPF has the highest priority!</b><br />\n<h2>Release notes:</h2>\rA binary file has been released but the project is still very immature and its alpha stage.<br />It is not recommended to use this binary for anything other than first impression to get a feel of vBridge.<br />The API may or may not change.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,Windows,WPF,Library,dwm,aero,GUI,Window,Boilerplate,Common,Visual Basic,VB.NET,Effects,desktop,composition,mvvm,command,relaycommand,relay,hotkeys,global,shortcut,valueconverter,valueconverters,value converter,value converters,cls,",
+  "LastEdited": "2014-01-22T13:55:15.923-08:00"
+}

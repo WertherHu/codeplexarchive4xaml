@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CricScoreboard",
+  "Title": "Silverlight - Cricket Scoreboard",
+  "Description": "The Cricket Score Board provides ball by ball update of match for both teams using Batting score card and Bowling score card. It also provides the four, Six, Out and Match over information through animation screens. \n•\tAn excel sheet is used for storing ball by ball score for Batsman and Bowlers.\n•\tThe system reads the updated data from this excel sheet and generates a XAML file accordingly and updated XAML gets rendered at client location using Silverlight 1.1 plug-in to display the contents.\n•\tWhen any four, Six, Out or Match over events occurred it displays the corresponding attractive animation in full screen mode. \n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Cricket Score Board provides ball by ball update of match for both teams using Batting score card and Bowling score card. It also provides the four, Six, Out and Match over information through animation screens. <br />&#8226;&#9;An excel sheet is used for storing ball by ball score for Batsman and Bowlers.<br />&#8226;&#9;The system reads the updated data from this excel sheet and generates a XAML file accordingly and updated XAML gets rendered at client location using Silverlight 1.1 plug-in to display the contents.<br />&#8226;&#9;When any four, Six, Out or Match over events occurred it displays the corresponding attractive animation in full screen mode. <br /><br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-02-29T00:06:35.197-08:00"
+}

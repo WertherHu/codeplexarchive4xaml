@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wulongqiushi",
+  "Title": "Wulong.Qiushi",
+  "Description": "Wulong.Qiushi is a windows phone 7 client for http://www.qiushibaike.com which is a popluar website in China for people to share the embrassment moments.\r\nIt is powered by Caliburn.Micro, Reflection Extensions, the purpose is to deliver user a friendly and responsive UI.\r\n\r\nI am studying the best practice on Windows Phone 7 platform recently and this project is my lab as well.\r\n\r\nIf you have any interest to join me, please feel free to contact me.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Wulong.Qiushi is a windows phone 7 client for http&#58;&#47;&#47;www.qiushibaike.com which is a popluar website in China for people to share the embrassment moments.<br />It is powered by Caliburn.Micro, Reflection Extensions, the purpose is to deliver user a friendly and responsive UI.<br /><br />I am studying the best practice on Windows Phone 7 platform recently and this project is my lab as well.<br /><br />If you have any interest to join me, please feel free to contact me.<br /><br /><br /><br /><br />some of the app&#39;s screenshots are listed below<br /><img src=\"/projects/wulongqiushi/ec7c3617-6b22-4489-b023-c41a458753e9\" alt=\"appss_1.PNG\" title=\"appss_1.PNG\" /> <br /><img src=\"/projects/wulongqiushi/2edebe46-35cc-43f6-be21-dfcb85f56269\" alt=\"appss_2.PNG\" title=\"appss_2.PNG\" /> </div><div class=\"ClearBoth\"></div>",
+  "TagList": "CaliburnMicro,Windows Phone 7,MVVM,Reactive Extensions,example,Samples,",
+  "LastEdited": "2011-08-28T08:48:00.417-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "monads",
+  "Title": "Monads for .NET",
+  "Description": "Monads for .NET is helpers for C# which makes easier your every day programmer life. Now supports .NET 3.5-4.0, Silverlight 3-5 and Windows Phone 7.\r\n\r\nIn functional programming, a monad is a programming structure that represents computations. Monads are a kind of abstract data type constructor that encapsulate program logic instead of data in the domain model. A defined monad allows the programmer to chain actions together to build a pipeline to process data in various steps, in which each action is decorated with additional processing rules provided by the monad. Programs written in functional style can make use of monads to structure procedures that include sequenced operations, or to define some arbitrary control flows (like handling concurrency, continuations, side effects such as input/output, or exceptions).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Monads for .NET is helpers for C# which makes easier every day of&nbsp;your developer life. Now supports .NET 3.5-4.0, Silverlight 3-5 and Windows Phone 7.<br>\r\n<br>\r\n</p>\r\n<div style=\"border:1px solid #fff; padding:10px; font-size:20pt\"><strong>Project moved to</strong><br>\r\n<strong><a href=\"http://github.com/sergun/monads.net\">http://github.com/sergun/monads.net</a></strong></div>\r\n<p></p>\r\n<p>&nbsp;</p>\r\n<hr>\r\n<p><strong>Author's contacts</strong></p>\r\n<p><a href=\"http://zwezdin.com/\">http://zwezdin.com/</a></p>\r\n<p>Twitter: <a href=\"http://twitter.com/sergun\">@sergun</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Framework,Library,",
+  "LastEdited": "2012-08-06T13:16:37.317-07:00"
+}

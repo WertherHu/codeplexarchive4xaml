@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iConverter",
+  "Title": "iConverter",
+  "Description": "iConverter 是一个字符编码转码转换工具。\niConverter is a character transcoding  encoding conversion tool.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />iConverter 是一个字符编码转码转换工具&#12290;<br />iConverter is a character transcoding  encoding conversion tool.<br /><br /><br />2011-09-11<br /><br />总算在用了快一年的时间开发到了Beta， 太多坎坷了<br />估计不会再有太多更新了～<br /><br />\n<h2>开发环境(Development Environment) </h2>\r\nVS2010 <br />.NET 4<br />WPF<br /><br /><br />\n<h2>截图（<a href=\"https://iconverter.codeplex.com/wikipage?title=Screenshots&referringTitle=Home\">Screenshots</a>)</h2>\r<img src=\"http://download.codeplex.com/download?ProjectName=iConverter&amp;DownloadId=190635\" /><br /><br /><br />\n<h2>捐赠（<a href=\"https://iconverter.codeplex.com/wikipage?title=Donation&referringTitle=Home\">Donation</a>）</h2>\r\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "VB.NET,WPF,",
+  "LastEdited": "2011-09-11T08:11:24.473-07:00"
+}

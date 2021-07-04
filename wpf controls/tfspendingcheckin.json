@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfspendingcheckin",
+  "Title": "TFS pending check-in alerts",
+  "Description": "This application get all pending check-in files in the Team Foundation Server Source Control send e-mail alerts to a specific account and to the check-out file owner.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Welcome to the <b>TFS pending check-in alerts</b> project site!</h2>\r\n<b>Project Description</b><br />This application get all pending check-in files in the Team Foundation Server Source Control send e-mail alerts to a specific account and to the check-out file owner.<br />\n<h5><i><a href=\"http://blog.mernul.com\">http://blog.mernul.com</a></i>, <i><a href=\"http://www.mernul.com\">http://www.mernul.com</a></i></h5></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,TFS Admin Tool,Team Foundation Serv,Team Foundation,",
+  "LastEdited": "2010-03-08T18:27:17.867-08:00"
+}

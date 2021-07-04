@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AeroTrax",
+  "Title": "AeroTrax",
+  "Description": "With the release of Microsoft's latest operating system, Vista, applications interfaces may take a completely new approach leveraging the famed DirectX platform through the use of Windows Presentation Foundation. \n\nAeroTrax is a simple MP3 player using the new Aero Glass technology over the entire form using the new interface approach mentioned. \n\n\n*.NET v3.5 & Windows Vista Required ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />With the release of Microsoft&#39;s latest operating system, Vista, applications interfaces may take a completely new approach leveraging the famed DirectX platform through the use of Windows Presentation Foundation. <br /><br />AeroTrax is a simple MP3 player using the new Aero Glass technology over the entire form using the new interface approach mentioned. <br /><br /><br />&#42;.NET v3.5 &#38; Windows Vista Required <br /><br /><img src=\"http://www.tensailabs.com/images/aerotrax.jpg\" /><br /><br /><br /><br />Gregory Kornblum - <a href=\"http://www.tensailabs.com/\">Tensai Labs</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "mp3,audio,win32,aero,glass,WPF,interop,Vista,",
+  "LastEdited": "2008-09-29T21:17:52.06-07:00"
+}

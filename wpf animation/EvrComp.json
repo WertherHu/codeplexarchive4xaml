@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EvrComp",
+  "Title": "EveruComponent",
+  "Description": "Everu Component is a Collection of useful Classes in C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Everu Component is a collection of useful Classes for .Net 4 C#/VB. It is developed in C#.<br>\r\n<br>\r\nIt includes mostly stuff for WPF an Web Application.</p>\r\n<p>&nbsp;</p>\r\n<hr>\r\n<hr>\r\n<h1>EveruComponent</h1>\r\n<h2>Parser</h2>\r\n<ul>\r\n<li><a href=\"http://evrcomp.codeplex.com/wikipage?title=EveruComponent#BBCodePrs\" target=\"_self\">BBCode Parser&nbsp;</a>\r\n</li></ul>\r\n<h2>Other</h2>\r\n<ul>\r\n<li><a href=\"http://evrcomp.codeplex.com/wikipage?title=EveruComponent#Rnd\" target=\"_self\">Random</a>\r\n</li></ul>\r\n<ul>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<hr>\r\n<hr>\r\n<h1>EveruWPF</h1>\r\n<h2>WPF 3D</h2>\r\n<ul>\r\n<li><a href=\"http://evrcomp.codeplex.com/wikipage?title=EveruWPF#V3Dmi\" target=\"_self\">Viewport3D mouse interaction</a>\r\n</li></ul>\r\n<h2>Helper</h2>\r\n<ul>\r\n<li><a href=\"http://evrcomp.codeplex.com/wikipage?title=EveruWPF#WndHlp\" target=\"_self\">Window helper</a> (disable windows buttons, disable dragging, disable icon)\r\n</li><li><a href=\"http://evrcomp.codeplex.com/wikipage?title=EveruWPF#UsrCntrHlp\" target=\"_self\">UserControl helper</a>\r\n</li><li><a href=\"http://evrcomp.codeplex.com/wikipage?title=EveruWPF#crshlp\" target=\"_self\">CursorHelper</a>\r\n</li></ul>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<hr>\r\n<hr>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "BBCode,parser,Parsing,WPF Window border,WPF Window Buttons,BBCode to Inlines,custom cursor,Better Random,WPF3D,WPF3D mouse interact,",
+  "LastEdited": "2011-08-17T03:57:13.85-07:00"
+}

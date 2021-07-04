@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RemoteScreen",
+  "Title": "Xinx Remote Screen",
+  "Description": "Remote Screen (RS) is a Client /server App.\nRemote Screen makes it possible for network/ internet users to \"View\" remote users  screen on which  \"XRS\" Server is running with the help of a Browser or \"XRS\" client, though you can not control remote computer.\nDeveloped in .NET/C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Remote Screen</b></h1>\r\n<b>Project Description</b><br />Remote Screen &#40;RS&#41; is a Client &#47;server App.<br />Remote Screen makes it possible for network&#47; internet users to &#34;View&#34; remote users  screen on which  &#34;XRS&#34; Server is running with the help of a Browser or &#34;XRS&#34; client, though you can not control remote computer.<br />Developed in .NET&#47;C&#35;<br /><br />Watch its version 1.0 video on <a href=\"http://www.youtube.com/watch?v=QLPztQs4q-I\">YouTube</a><br /><br /><div class=\"video\" style=\"text-align:Center\"><span class=\"player\"><object height=\"285px\" width=\"320px\"><param name=\"movie\" value=\"http://www.youtube.com/v/QLPztQs4q-I\"></param><param name=\"wmode\" value=\"transparent\"></param><embed height=\"285px\" width=\"320px\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" src=\"http://www.youtube.com/v/QLPztQs4q-I\" /></object></span><br /><span class=\"external\"><a href=\"http://www.youtube.com/watch?v=QLPztQs4q-I\" target=\"_blank\">Launch in another window</a></span></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Xinx Remote Screen,",
+  "LastEdited": "2009-03-07T22:52:12.73-08:00"
+}

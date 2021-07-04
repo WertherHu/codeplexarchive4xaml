@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UIAutomationTestFramework",
+  "Title": "UI Automation Test Framework",
+  "Description": "UI Automation Test Framework for wrapping Selenium and Miscrosoft Coded UI ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />UI Automation Test Framework for wrapping Selenium and Miscrosoft Coded UI <br />This project is a framework for easy using Selenium and Microsoft coded UI test  (CUIT).<br /><br />This is a wrapper class for using the selenium object or Coded UI control.<br /><br />Blog <br />https://jimautomation.wordpress.com/<br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "selenium,Test Framework,Microsoft Coded UI,Framework,Automation,",
+  "LastEdited": "2015-12-28T00:18:41.45-08:00"
+}

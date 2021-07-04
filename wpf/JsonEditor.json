@@ -1,0 +1,9 @@
+{
+  "ProjectName": "JsonEditor",
+  "Title": "Json Editor",
+  "Description": "Json Editor is a Fiddler v4 inspector that reads and writes json for the the selection session. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nJson Editor is a <a title=\"Fiddler\" href=\"http://www.fiddler2.com/fiddler2/\" target=\"_blank\">\r\nFiddler</a>&nbsp;v4&nbsp;<a title=\"Fiddler Inspector\" href=\"http://www.fiddler2.com/Fiddler/dev/Inspectors.asp\" target=\"_blank\">inspector</a> that reads and writes json for the selected session.&nbsp;<br>\r\nThe project utilizes an ElementHost control to host WPF.&nbsp; The JSON from each session is&nbsp;parsed using\r\n<a title=\"Json.NET\" href=\"http://json.codeplex.com/\" target=\"_blank\">Json.NET</a>.&nbsp; This code uses a specific version of Json.NET (v4.0) in order to work&nbsp;in WPF.</p>\r\n<p>NOTE:&nbsp; This inspector requires&nbsp;<a title=\"Fiddler v4\" href=\"http://www.getfiddler.com/dl/Fiddler4BetaSetup.exe\">Fiddler v4</a>.</p>\r\n<p><strong>Features:</strong></p>\r\n<ul>\r\n<li>TreeView navigation </li><li>Bread crumbs </li><li>Group Views on selected&nbsp;item&nbsp;(properties, objects, arrays) </li><li>Quick navigation from bread crumb or group viewers </li><li>Edit, Copy, Paste, and Remove functions </li><li>Create new items </li><li>Paste raw JSON from clipboard </li><li>Find All text search </li></ul>\r\n<p>&nbsp;</p>\r\n<p><img src=\"/projects/JsonEditor/d396ae95-4943-41c8-97e1-6cdaa8a05ff2\" alt=\"\" width=\"700\" height=\"439\"></p>\r\n<p><strong>Installation:</strong></p>\r\n<p>Download the binary files and copy them into the inspector folder of your Fiddler install.&nbsp; Typically this is C:\\Program Files (x86)\\Fiddler2\\Inspectors.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,JSON,Inspector,Fiddler,Editor,",
+  "LastEdited": "2014-02-28T08:16:24.267-08:00"
+}

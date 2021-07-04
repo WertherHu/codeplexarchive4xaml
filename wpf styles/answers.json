@@ -1,0 +1,9 @@
+{
+  "ProjectName": "answers",
+  "Title": "Answers",
+  "Description": "Answers is a web application that allows users to create sites where community member can ask/answer questions as well as vote for said questions. It is meant to be used for Q&A sites, Knowledge Base's, Social News/Communication sites, Forum-style discussion sites, etc. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><p><strong>Project Description</strong><br><br>Answers is a web application that allows users to create sites where community member can ask/answer questions as well as vote for said questions. It is meant to be used for Q&amp;A sites, Knowledge Base's, Social News/Communication sites, Forum-style discussion sites, etc.</p>\n<p>The idea for this application is heavily inspired by those of Reddit, Digg, Stack Overflow and other such sites. <br><br></p></div><div class=\"ClearBoth\"></div>",
+  "TagList": "answers,",
+  "LastEdited": "2010-10-01T23:23:41.263-07:00"
+}

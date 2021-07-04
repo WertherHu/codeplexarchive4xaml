@@ -1,0 +1,9 @@
+{
+  "ProjectName": "minddrone",
+  "Title": "MindDrone",
+  "Description": "Control the AR Drone through movements using the Kinect.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MindDrone : Control your Drone through Kinect</b><br /><br />Source code contains wrappers for Mindset ThinkGear headset and Kinect using the OpenNI SDK in the first release, we&#39;ll be releasing a different version using the official Windows SDK<br /><br />This project is developed and maintained by CampusID university students.<br /><br />The code is still not fully commented; but this will happen as we shift to the official Kinect SDK.<br /><br />Visit our lab blog: <a href=\"http://galicom.ieid.eu\">http://galicom.ieid.eu</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-07T04:14:59.767-07:00"
+}

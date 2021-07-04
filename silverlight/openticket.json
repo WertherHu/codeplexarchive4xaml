@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openticket",
+  "Title": "OpenTicket",
+  "Description": "Openticket is a way for me to learn and develop my skills in new .NET technologies. The goal is to produce a online ticket sales system using .NET 3.5, ASP MVC, Windows WCF, Windows WF, Silverlight and ADO Entity Framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>An online ticket sales system</b><br />Built with .NET 3.5 and newly released .NET technologies</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET MVC,ADO.NET,C# 3.5,Test Driven Design,Repository pattern,SQL Server 2008,Visual Studio 2008,C# 3.0,",
+  "LastEdited": "2009-03-15T08:12:32.6-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SourceCodeEditor",
+  "Title": "Wpf Source Code Editor",
+  "Description": "WPF control extension of RichTextBox control that can be used for basing source code formatting.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF control extension of RichTextBox control that can be used for basing source code formatting.<br /><br />Blog Entry: <a href=\"http://blog.bodurov.com/Wpf-Source-Code-Editor\">http://blog.bodurov.com/Wpf-Source-Code-Editor</a><br /><br />Similar project for Silverlight 4: <a href=\"http://blog.bodurov.com/Xml-Code-Editor\">http://blog.bodurov.com/Xml-Code-Editor</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF controls,.NET,",
+  "LastEdited": "2010-05-16T10:45:06.05-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "numvvm",
+  "Title": "NuMvvm",
+  "Description": "NuMvvm is a lightweight MVVM library.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>NuMvvm</b> is a lightweight MVVM library.<br /><br />The library consists of:\n<ul><li>ViewModelBase <i>(provides property change notification and validation)</i></li>\n<li>RelayCommand implementation.</li></ul>\n<br />Package feed: <a href=\"https://www.myget.org/F/robert-sundstroms-feed/\">https://www.myget.org/F/robert-sundstroms-feed/</a><br /><br /><pre>\nPM&gt; Install-Package NuMvvm\n</pre><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-25T14:18:01.85-07:00"
+}

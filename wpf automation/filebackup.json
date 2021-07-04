@@ -1,0 +1,9 @@
+{
+  "ProjectName": "filebackup",
+  "Title": "File Backup",
+  "Description": "This project is an open source windows azure cloud backup win forms application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is an open source windows azure cloud backup win forms application.<br /><br /><b>Project Details</b><br />This application will allow scheduling of folders to be backup to windows azure cloud.<br /><br /><b>Screen Print</b><br /><img src=\"/projects/filebackup/283b7373-06ad-46e4-8931-3f8f2ce42d79\" alt=\"ScreenPrint.png\" title=\"ScreenPrint.png\" /><br /><br /><b>Project Credits</b><br />http://azurebackup.codeplex.com/ - provided the knowledge to connect to azure blob storage.<br />http://azurefilebackupsvc.codeplex.com/documentation - provided design ideas<br />http://azurestorageexplorer.codeplex.com/ - provided a windows azure file browser </div><div class=\"ClearBoth\"></div>",
+  "TagList": "Cloud Storage,Windows Azure,C# 4.0,Windows Forms,Backup,BACKUP AUTOMATION,file backup,Cloud,compression,Scheduler,desktop application,",
+  "LastEdited": "2012-07-07T17:06:02.877-07:00"
+}

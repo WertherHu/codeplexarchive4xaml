@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFBreakout",
+  "Title": "WPF Breakout",
+  "Description": "Remake of the classic Breakout game using WPF. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Remake of the classic Breakout game using WPF. <br /><br /><br /><b>Project Aims</b><br />This project is intended to be a learning source for beginner developers, myself included, wanting to learn WPF and some basic game programming.<br />I would like it to be a basic template for developing well organised and documented projects.<br /><br /><br /><b>Help</b><br />I am Looking for guidance in the following areas:<br />*Code organisation and arrangement i.e setting up a basic project structure, class organisation etc.<br />*Manipulation of WPF Elements<br />*Building game loops<br />*Determining efficient collision detection algorithms<br />*Possible databinding of game sprites </div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,game,",
+  "LastEdited": "2011-06-20T03:07:42.193-07:00"
+}

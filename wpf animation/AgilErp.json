@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AgilErp",
+  "Title": "AgilErp",
+  "Description": "AgilErp is a .NET OpenSource ERP - System developed in C# using WPF, WCF ,Entity Framework, MS-SQL-Server and MVVM.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Introduce</b><br />The need for an ERP system has increased dramatically in the last years, but there was not system capable of creating such system on the Microsoft .NET platform, until now. With the Visual Studio 2010 Stack (Entity Framework 4, WCF Ria Services, Silverlight 4, XAML, MVVM) we can build a system as an alternative for enterprise management systems from giants such as SAP, Oracle and Microsoft, and from the small software developers in their own niches. (<i>Source: XERP.NET</i>)<br /><br />There are many Open Source ERP softwares , but very little of them is written by C# and Microsoft Technologies. Our team, Vietnamese developers who love Microsoft technologies, decide to create an Open Source ERP in C# that people around the world can use and customize easily.<br /><br /><b>Project Description</b><br />AgilErp is a .NET Open Source ERP developed in C# using Silverlight 4, Jetpack Thems, WCF ,Entity Framework, MS-SQL-Server and MVVM.<br /><br /><b>Scope</b><br />The target users of AgilErp are people who is running <b>small bussiness</b> and need a management tool. <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ERP,C#,Entity Framework,MVVM,wcf,WPF,",
+  "LastEdited": "2011-09-10T20:29:27.223-07:00"
+}

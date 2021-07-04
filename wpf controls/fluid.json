@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fluid",
+  "Title": "Fluid - Windows Mobile .NET Touch Controls",
+  "Description": "Windows Mobile Fluid Touch Controls Library\n\nFluid is a .NET 2.0 control library for Windows Mobile 6.0/6.1 with touch controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Fluid - Windows Mobile 6.x Touch Controls</b><br />Windows Mobile Fluid Touch Controls Library<br /><br />Fluid is a .NET 2.0 control library for Windows Mobile 6.0&#47;6.1 with touch controls.<br /><br />See the following images of a PasswordSafe application for demonstration, or go to<br /><a href=\"http://www.codeproject.com/KB/mobile/MobilePasswordSafe.aspx\">http://www.codeproject.com/KB/mobile/MobilePasswordSafe.aspx</a> for details:<br /><br /><img src=\"/projects/fluid/9404e082-af59-42e8-87ad-a313d0afed3e\" alt=\"pws1.png\" title=\"pws1.png\" /><br /><br /><img src=\"/projects/fluid/6908b8f2-3295-4ec7-b482-8e3c531b9ef4\" alt=\"pws2.png\" title=\"pws2.png\" /><br /><br /><img src=\"/projects/fluid/b8a4ad9b-60cd-4993-b98d-a836518eab67\" alt=\"pws3.png\" title=\"pws3.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 2.0,Mobile UI,Mobile,Touch,Controls,.Net Compact,Password,WM6 touch pda,.NET CF Control,NETCF Fluid,windows mobile,Compact Framework,",
+  "LastEdited": "2009-02-15T15:56:07.66-08:00"
+}

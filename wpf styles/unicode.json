@@ -1,0 +1,9 @@
+{
+  "ProjectName": "unicode",
+  "Title": "Unicode Converter",
+  "Description": "Unicode Converter is a free open source software for converting to/from unicode and also getting information about a character.\r\n\r\nUnicode Converter developed in c# 3.5 and provide 2 variant user interfaces, one for windows with WPF and one with Asp.net for Web.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nUnicode Converter is a free open source software for converting to/from unicode and also getting information about a character.<br>\r\n<br>\r\nUnicode Converter developed in c# 3.5 and provide 2 variant user interfaces, one for windows with WPF and one with Asp.net for Web.<br>\r\n<br>\r\nYou can help us improve this application faster than this. Yet another motivation is needed for us, so with your donation make us happy and give us some inspiration.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "unicode,Unicode Annex #9,WPF,ASP.NET 2.0,converter,Farsi,Persian,Persian support,Keyboard,standards,Keyboard Layout,pishgaman,",
+  "LastEdited": "2012-03-07T11:40:25.177-08:00"
+}

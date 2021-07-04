@@ -1,0 +1,9 @@
+{
+  "ProjectName": "zaxcontrols",
+  "Title": "Zax-Controls",
+  "Description": "Library of tools that combine jQuery and custom server controls to help make web applications easier.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>ZaxControls</h1>\r\n<p>A set of library tools designed to help web developers quickly create web applications that are easy to use through the use of the jQuery AJAX library.</p>\r\n<p>Current list of controls:</p>\r\n<ul>\r\n<li><a href=\"/wikipage?title=DatePicker&referringTitle=Documentation\">DatePicker</a>\r\n</li><li><a href=\"/wikipage?title=ListView&referringTitle=Documentation\">ListView</a> </li><li><a href=\"/wikipage?title=NoteBox&referringTitle=Documentation\">NoteBox</a> </li><li><a href=\"/wikipage?title=TextBox&referringTitle=Documentation\">TextBox</a> </li></ul>\r\n<p>For a complete list of planned and existing features review the <a href=\"/documentation\">\r\ndocumentation</a>.</p>\r\n<p>Each tool has their own separate features but all use the following common features:</p>\r\n<ul>\r\n<li>Label - The label describes what the input field is used for in the application eg: Last Name, First Name, etc...\r\n</li><li>Help - Popup dialog that describes the tools function in the application. &nbsp;This is an option item that when left blank don't show on the page.\r\n</li><li>HelpSrc - Path to the help image to show on the page. </li><li>CssClass - CSS style class that is put on all the tags. </li></ul>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "AJAX,jQuery,.net 4.0,ASP.NET,Controls,Web,C#,",
+  "LastEdited": "2014-04-21T08:29:44.2-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "opencli",
+  "Title": "OpenCLI",
+  "Description": "OpenCLI brings a linux style CLI written  in .NET. It acts as a portal from linux style commands, to their commands on the windows system. It is useful to Sysadmins, who wish to deny their uses to the power of Command Prompt, yet want them to be able to user a CLI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>As of May 26th 2011, OpenCLI has merged with XCLI which can be found here</b>: <a href=\"http://xcli.codeplex.com\">http://xcli.codeplex.com</a><br /><br /><br /><del><b>Project Description</b></del><br /><br /><del>Features:</del><br /><del>- Allow users to shutdown, logoff, and reboot a machine from the CLI</del><br /><del>- Brings linux style commands to the windows interface.</del><br /><del>- Control, create, copy and delete folders and files - all from OpenCLI!</del><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-26T08:09:10.887-07:00"
+}

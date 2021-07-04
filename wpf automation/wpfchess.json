@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfchess",
+  "Title": "WPF Chess example",
+  "Description": "The simple chess simulator written in C#/WPF. \r\nAllows to play with computer or with a friend by network.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Project was moved to github - <a href=\"https://github.com/nikaburu/wpf-chess\">https://github.com/nikaburu/wpf-chess</a></b></h1>\r\n<b>Project Description</b><br />The simple chess simulator written in C&#35;&#47;WPF. <br />Allows to play with computer or with a friend by network.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-06-29T09:16:03.543-07:00"
+}

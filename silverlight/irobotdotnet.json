@@ -1,0 +1,9 @@
+{
+  "ProjectName": "irobotdotnet",
+  "Title": "IRobot.NET - C# project for controlling an IRobot Create (UI & Reusable library)",
+  "Description": "This is a C# IRobot Create library w/ an accompanied Silverlight client that allows for remote interaction.    To make use of this entire project, mounting a .net capable computer on the IRobot Create is suggested.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Summary</h1>\rThis is a C&#35; IRobot Create library w&#47; an accompanied Silverlight client that allows for remote interaction.    To make use of this entire project, mounting a .net capable computer on the IRobot Create is suggested.<br />\n<h1>What is the IRobot Create?</h1>\rMore information about the &quot;IRobot Create&quot; can be found at <a href=\"http://store.irobot.com/shop/index.jsp?categoryId=3311368\">http://store.irobot.com/shop/index.jsp?categoryId=3311368</a><br />\n<h1>Other Notes</h1>\r<ul><li>This code is in it&#39;s infancy, so feel free to contribute to speed things up.</li>\n<li>This project was created by Josh Schwartzberg <a href=\"http://weblogs.asp.net/dotjosh\">http://weblogs.asp.net/dotjosh</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-28T21:59:17.613-08:00"
+}

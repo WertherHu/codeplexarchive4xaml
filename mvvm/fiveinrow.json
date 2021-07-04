@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fiveinrow",
+  "Title": "Five in a row",
+  "Description": "This project is an implementation of \"5 in a row\" game. Two players (\"X\" and \"O\") make moves one after another. The first player who builds an unbroken row of 5 cells wins.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is an implementation of &#34;5 in a row&#34; game. Two players &#40;&#34;X&#34; and &#34;O&#34;&#41; make moves one after another. The first player who builds an unbroken row of 5 cells wins.<br /><br />This is how it looks like:<br /><br />Main screen:<br /><img src=\"/projects/fiveinrow/b2a0dbd1-9137-4a31-acde-dcdfffc8b7e0\" alt=\"scr1.png\" title=\"scr1.png\" /><br /><br />Main screen with some debugging info on it:<br /><img src=\"/projects/fiveinrow/1a299ebc-a501-4ba0-ac6c-38d743dcb81a\" alt=\"scr2.png\" title=\"scr2.png\" /><br /><br /><b>The goal</b><br />My main goal was to play with F# and to test how it could cooperate with WPF/C#. <br /><br /><b>Points of interest</b>\n<ul><li>Presentation logic uses WPF/C#, &quot;business&quot; logic (in this case in is game domain objects + AI) uses F#</li>\n<li>Nice example of how you could use custom panels - take a look at BoardPanel</li>\n<li>Strict View/ViewModel separation, though I didn&#39;t use any frameworks - it would be an overkill here</li>\n<li>The project contains 100th implementation of DelegateCommand class. Hua!</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,Custom Controls,F#,Custom Panels,C#,",
+  "LastEdited": "2011-12-22T18:36:43.68-08:00"
+}

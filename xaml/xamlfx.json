@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xamlfx",
+  "Title": "XamlFx Pixel Shaders for Xaml Windows Runtime",
+  "Description": "Shader library for Xaml Windows Runtime",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Shader library for Xaml Windows Runtime<br /><br />This is beta worthy<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Runtime,WinRT,Xaml,DirectX,Direct2D,Shaders,",
+  "LastEdited": "2013-11-22T15:26:19.18-08:00"
+}

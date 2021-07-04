@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OurPennApps",
+  "Title": "MOM APP",
+  "Description": "This is the source control site for our team in PennApps 2013.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is our source control site for PennApps fall 2013.<br /><br /><b>An app that ISN&#39;T MADE BY MUMS, but IS MADE FOR MUMS</b><br /><br />Do you ever wish you could help your mom manager her computer? Is her computer not working properly because of all the programs running? Well, we&#39;re here to help! With the brand new MomApp, you can remotely monitor the applications on your mom&#39;s computer and delete those that are not necessary!<br /><br /><b>No Set-Ups, only EMAILS</b><br /><br />We use Email as communication medium so no other infrastructure is needed to run the app. It is easy to manage mum&#39;s computer even if she&#39;s in the LAN.<br /><br /><b>We are not 100% ready, but 80% ready</b><br />Our app is now downloadable (though still preliminary) and run nable through CodePlex. You can plug in your own Email address to try it on your own. The client for Windows Runtime is ready too, so you can try it on Windows 8 or Windows RT.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-08T01:11:10.31-07:00"
+}

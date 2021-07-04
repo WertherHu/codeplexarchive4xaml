@@ -1,0 +1,9 @@
+{
+  "ProjectName": "blasm",
+  "Title": "Blend Assets Manager (Blasm)",
+  "Description": "Blend Assets Manager (Blasm) is a simple application to allow users of Expression Blend adding custom and third-party controls to Blend Assets tab.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Description</h1>\rBlend Assets Manager (Blasm) is a simple application to allow users of Expression Blend manage available assets: add and remove custom and third-party controls to Blend Assets tab. You just select versions of Blend and platform, choose directoty with your assemblies (for example DevExpress or Telerik components) and make Blend see them.<br /><br /><img src=\"/projects/blasm/3b9d478d-97e6-47b7-8930-014ec77e2341\" alt=\"blasm_screen.png\" title=\"blasm_screen.png\" /><br />\n<h1>Functionality</h1>\r<ul><li>Show installed Blend versions and assets groups</li>\n<li>Add assets to multiple Blend versions, platforms (Silverlight, WPF, Windows Phone) and platform versions</li>\n<li>Remove Blend assets groups one by one</li></ul>\n\n<h1>Requirements</h1>\r<ul><li>Windows XP SP3, Vista, 7, 8, Server</li>\n<li>.NET Framework 4</li></ul>\n\n<h1>Usage</h1>\r<ol><li>Enter assets group name (can be any name allowed for Windows Registry key)</li>\n<li>Select path with assemblies</li>\n<li>Choose platforms and versions to install assets for</li>\n<li>Click Apply button</li>\n<li>Restart Blend if it&#39;s running</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,WPF,Silverlight,Blend,Expression Blend,windows phone,SketchFlow,Assets,XAML,",
+  "LastEdited": "2012-12-15T11:35:52.077-08:00"
+}

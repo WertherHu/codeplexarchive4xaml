@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfemailclient",
+  "Title": "WPF email client",
+  "Description": "Free wpf email client.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nThis is wpf email client which uses following library:</p>\r\n<ul>\r\n<li><a href=\"http://mahapps.com/\">MahApps</a> </li><li><a href=\"http://www.lumisoft.ee/lswww/eng/Products/Mail_Server/mail_index_eng.aspx?type=info\">LumiSoft</a>\r\n</li><li><a href=\"https://github.com/ServiceStack/ServiceStack.OrmLite\">SQLite</a> </li></ul>\r\n<p><strong>The client can:</strong></p>\r\n<ul>\r\n<li>Use POP3/IMAP </li><li>Send/get emails with text/html&nbsp;body </li><li>Use attachments </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-05-11T08:36:23.36-07:00"
+}

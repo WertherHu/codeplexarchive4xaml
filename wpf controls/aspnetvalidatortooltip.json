@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspnetvalidatortooltip",
+  "Title": "ASP.NET validators controls with error messages in bootstrap tooltip or popover",
+  "Description": "ASP.NET validators controls with error messages in bootstrap tooltip or popover components.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This solution allows ASP.NET validators to show yours errors messages inside a Bootstrap Tootip or Popover </h1>\r\n<h2>Download the solution 1.1 and enjoy</h2>\r\nThe solution 1.1  has all prerequisites implemented.<br />\n<ul><li>The prerequisites are: Jquery, attrchange plugin, Use hidden ValidationSumaries </li></ul>\n\n<ul><li>Ennhancements of last version </li></ul>\n\n<ol><li>Supports multiple asp.net Validator Groups.</li>\n<li>Supports all types of ASP.NET Validator Controls.</li>\n<li>You can replace the Bootstrap Tooltip by Popover component.</li></ol>\n\n<ol><li>The error message must be unique for each asp.net Validador Control  which belongs a same Validator Group.</li></ol>\n<br /><b>Rate it!</b><br /><br />Thanks,<br /><br />Rafael Willwohl Salgado<br />.NET Solutions Architect</div><div class=\"ClearBoth\"></div>",
+  "TagList": "asp.net validators,bootstrap,web control,tooltip,Jquery,validator,popover,page validator,error message,crossbrowser,",
+  "LastEdited": "2015-04-02T20:56:54.31-07:00"
+}

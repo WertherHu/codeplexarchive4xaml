@@ -1,0 +1,9 @@
+{
+  "ProjectName": "auctionsk",
+  "Title": "AuctionSite Starter Kit",
+  "Description": "A starterkit to provide community members with an understanding of the .net 3.0 / 3.5  technology, including Ajax and LINQ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A starterkit to provide community members with an understanding of the .net 3.0 &#47; 3.5  technology, including Ajax and LINQ<br /><br /><img src=\"/projects/auctionsk/2f5bf93c-582f-4ce8-8099-e85ed57e5257\" alt=\"AuctionSite.jpg\" title=\"AuctionSite.jpg\" /><br /><br /><b>Screenshots available</b><br /><a href=\"http://weblogs.asp.net/bryansampica\">http://weblogs.asp.net/bryansampica</a><br /><br /><b>Demo Site</b><br /><a href=\"http://ask.proessent.com\">http://ask.proessent.com</a><br />Username: Testing<br />Password: testing!<br />(or feel free to register an account)<br /><br />http://ask.proessent.com<br /><br /><b>Features</b><br />•\tListing items for Auction<br />•\tBidding on Auction Items<br />•\tMultiple Images per Item<br />•\tReserve Amounts<br />•\tCategory based organization<br />•\tWeb 2.0 Look N’ Feel<br />•\t.NET Profile and Roles System<br />•\tSQL Express Database Model<br />•\tComplete CSS Design<br />•\tMaster / Content Pages<br />•\t.NET UserControls<br /><br /><b>Data Access</b><br />•\tLINQ Data Access<br />•\tExtensible Data Model<br /><br /><b>Included</b><br />•\tFull Photoshop PSD’s<br />•\tAll Images<br />•\tExample Data<br />•\tReadme.txt<br />•\tSetupGuide.txt<br />•\tSetupGuide.doc<br /><br /><br />This project was developed to show the capabilities of LINQ and the ORM portion, to speed application development.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "auction,LINQ TO SQL,LINQ,.net 3.0,.NET 3.5,ASP.NET,Starter Kit,Ajax,AJAX Control Toolkit,Web 2.0,ASP.NET 3.5,C# 3.0,website,AuctionSite StartKit,",
+  "LastEdited": "2007-12-02T15:32:56.467-08:00"
+}

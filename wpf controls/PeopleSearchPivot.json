@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PeopleSearchPivot",
+  "Title": "SharePoint People Search Pivot Viewer WebPart",
+  "Description": "The Silverlight PivotViewer Сontrol is a new way to display SharePoint 2010 Enterprise Search Results. It's another way to interact with massive amounts of data on the web in ways that are powerful, informative, and valuable. Tested on FAST Search 2010.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThe Silverlight PivotViewer Сontrol is a new way to display SharePoint 2010 Enterprise Search Results. It's another way to interact with massive amounts of data on the web in ways that are powerful, informative, and valuable. Tested on FAST Search 2010. Should\r\n works for SharePoint standart and enterprise search too.<br>\r\nUse Microsoft PivotViewer control <a href=\"http://www.silverlight.net/learn/pivotviewer/\">\r\nhttp://www.silverlight.net/learn/pivotviewer/</a></p>\r\n<p>Screencast is <a title=\"here\" href=\"http://www.youtube.com/watch?v=T2yoUjMY3Gs\">\r\nhere</a><br>\r\n<img src=\"http://www.codeplex.com/download?ProjectName=peoplesearchpivot&DownloadId=218449\" alt=\"Pivot Viewer People Search control sample\" width=\"944\" height=\"496\"></p>\r\n<div id=\"x_x_x__mcePaste\" style=\"width:1px; height:1px; overflow:hidden; top:0px; left:-10000px\">\r\n&#65279;</div>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,Search,Silverlight,Silverlight Controls,Sharepoint Apps,Fast,SharePoint Search,SharePoint 2010,PivotViewer,FAST Search for Shar,",
+  "LastEdited": "2011-03-24T05:08:23.84-07:00"
+}

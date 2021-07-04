@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bootstraphelpers",
+  "Title": "Bootstrap Helpers",
+  "Description": "Html Helpers for creating Twitter Bootstrap Controls",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Introduction The guys over at Twitter have done a serious favor for developers worldwide with their Bootstrap framework. This is especially useful for us coders with limited skills in UI design. With the Bootstrap Helpers project I have made things even\r\n easier for the .NET developers.</p>\r\n<p>More info here: <a href=\"http://www.codeproject.com/Articles/507569/Bootstrap-HTML-Helpers\">\r\nhttp://www.codeproject.com/Articles/507569/Bootstrap-HTML-Helpers</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "HtmlHelper,HtmlHelpers,Bootstrap,",
+  "LastEdited": "2012-12-12T07:57:08.873-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "agsys",
+  "Title": "Aircraft Guidance Systems",
+  "Description": "Software for RC model control and navigation",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>This project is intended for RC aircraft/heli(quadro,...)copter/rocketry models with RaspberryPi (or similiar computer) onboard. This software provides complex navigation and control systems using automated control or control via WiFi or GSM module. Please\r\n note that this project is just in development and an alpha version is <strong>NOT</strong> to be released soon.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-31T09:36:54.22-07:00"
+}

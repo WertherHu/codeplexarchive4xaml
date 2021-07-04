@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WebVideoBlueprint",
+  "Title": "Web Video Blueprint",
+  "Description": "The Web Video Blueprint is an architecture blueprint (to be published as a Microsoft White Paper) and reusable code (this Codeplex project) for Web video services. This Codeplex project is a Silverlight 2 client supporting live/catch-up TV, VoD services & in-stream advertising.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Web Video Blueprint is an architecture blueprint &#40;to be published as a Microsoft White Paper&#41; and reusable code &#40;this Codeplex project&#41; for Web video services. This Codeplex project is a Silverlight 2 client supporting live&#47;catch-up TV, VoD services &#38; in-stream advertising.<br /><br />The project needs to be updated in Silverlight 2.0 RTW - We also need to refine UI pieces - this is unfortunatly delaying the project release.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-01-20T01:57:40.603-08:00"
+}

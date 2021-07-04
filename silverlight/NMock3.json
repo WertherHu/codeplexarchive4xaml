@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NMock3",
+  "Title": "NMock3",
+  "Description": "NMock3 builds on the work of NMock2.  Specifically it adds lambda expressions to the matcher syntax.  You can use lambda expressions instead of strings, making refactoring possible.  The idea of Syntactic Sugar is maintained in that all expectations read like an English sentence.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rNMock3 builds on the work of NMock2.  Specifically it adds lambda expressions to the matcher syntax.  You can use lambda expressions instead of strings, making refactoring possible.  The idea of Syntactic Sugar is maintained in that all expectations read like an English sentence.<br /><br /><a href=\"https://nmock3.codeplex.com/wikipage?title=Roadmap&referringTitle=Home\">Roadmap</a><br />\n<h1>To get started with NMock3:</h1>\r<ol><li>Download the binaries from the <b>Downloads</b> page.</li>\n<li>Review the tutorials to see how NMock3 works.</li>\n<li>Check out the <b>new</b> Cheat Sheet.</li>\n<li>Check out the <b>new</b> API Docs.</li>\n<li>Provide feedback on this site.</li></ol>\n\n<h2>We now have tutorials!  Please check them out on the download page.</h2>\r<h2>Want the source?  Click on <b>Source Code</b> and then Download on the right.</h2>\r<h2>For more information, check out the <a href=\"https://nmock3.codeplex.com/wikipage?title=FAQ&referringTitle=Home\">FAQ</a> page.</h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Testing,Test ,MVP,Model View Presenter,Model-View-Presenter,MockObjects,.NET 3.5,testing framework,mock,Mock Objects,lambda,Test First,Test Driven,TDD,.NET 4.0,silverlight 4,",
+  "LastEdited": "2010-03-13T22:44:10.017-08:00"
+}

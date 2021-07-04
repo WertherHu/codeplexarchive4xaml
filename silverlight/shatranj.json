@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shatranj",
+  "Title": "Shatranj - Yet another Chess program",
+  "Description": "A WPF / Silverlight based frontend to Huo Chess.   This project was conceived as a way to learn key WPF / Silverlight concepts.  At the release, it's envisaged to support .Net 4.0 & Silverlight 4.0.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF &#47; Silverlight based frontend to Huo Chess.   This project was conceived as a way to learn key WPF &#47; Silverlight concepts.  At the release, it&#39;s envisaged to support .Net 4.0 &#38; Silverlight 4.0.<br /><br />This project is currently under development published as a companian to notes at my blog <a href=\"https://shatranj.codeplex.com/wikipage?title=http%3a%2f%2fwww.thinkfarahead.com&referringTitle=Home\">http&#58;&#47;&#47;www.thinkfarahead.com</a>.  Currently, the project includes VS2008 solution files.  When 4.0 features make into the source, solution files will be upgarded to the current version of VS2010.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Chess,WPF,C#,Silverlight 4.0,",
+  "LastEdited": "2010-02-26T00:26:58.113-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpftbsw",
+  "Title": "WPF Turn-based Strategy Wargame",
+  "Description": "This is a project to create a turn-based strategy game using the Windows Presentation Foundation.  The technological foundations of the software allow new game maps to be easily stipulated in XAML, theoretically enabling support for multiple games.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a project to create a turn-based strategy game using the Windows Presentation Foundation.  The technological foundations of the software allow new game maps to be easily stipulated in XAML, theoretically enabling support for multiple games.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-09T11:46:58.17-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winrtxamltoolkit",
+  "Title": "WinRT XAML Toolkit",
+  "Description": "A set of controls, extensions and helper classes for Windows Runtime XAML applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>WinRT XAML Toolkit has moved to GitHub</h1>\r\nThe new location is <a href=\"http://github.com/xyzzer/WinRTXamlToolkit\">http://github.com/xyzzer/WinRTXamlToolkit</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XAML,WinRT,Silverlight,WPF,C#,async/await,async ctp,Windows 8,Metro UI,Controls,WriteableBitmap,Toolkit,Metro,Metro App,Async,MVVM,",
+  "LastEdited": "2016-07-08T12:58:30.863-07:00"
+}

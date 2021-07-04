@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lightcube",
+  "Title": "░░ Light Cube ░░",
+  "Description": "Light cube is a 3D LED array which could be controlled by .NET library to draw text, graphics and animations.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Light cube is a 3D LED array which could be controlled by .NET library to draw text, graphics and animations.<br>\r\n<br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=MWAe3xujVFs\" target=\"_blank\"><img title=\"LightCubeVideo.png\" src=\"/projects/lightcube/3b33892b-f896-4920-ba55-baa64ecaea1c\" alt=\"LightCubeVideo.png\"></a></p>\r\n<h2><br>\r\n<strong>The hardware will soon be available, <a href=\"http://eepurl.com/b5u6H9\">join the mail list</a> to get notified</strong></h2>\r\n<p><br>\r\nLet's draw a moving dot<br>\r\n</p>\r\n<div style=\"color:black; background-color:white\">\r\n<pre>Mono8 mono8 = <span style=\"color:blue\">new</span> Mono8();\nmono8.Connect(<span style=\"color:#a31515\">&quot;COM1&quot;</span>);\n\nPoint3D pixel = Point3D.Zero;\n<span style=\"color:blue\">for</span> (; pixel.Z &lt; Mono8.Size; pixel.Z&#43;&#43;)\n{\n    <span style=\"color:blue\">for</span> (; pixel.Y &lt; Mono8.Size; pixel.Y&#43;&#43;)\n    {\n        <span style=\"color:blue\">for</span> (; pixel.X &lt; Mono8.Size; pixel.X&#43;&#43;)\n        {\n            mono8.Draw(pixel, LightColor.White);\n            mono8.Flush();\n        }\n    }\n}\n\nmono8.Disconnect();\n</pre>\r\n</div>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-06-16T01:57:33.363-07:00"
+}

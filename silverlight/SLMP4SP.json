@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLMP4SP",
+  "Title": "Media Player Web Part using SharePoint 2007 and Silverlight",
+  "Description": "Media Player Web Part using SharePoint 2007 and Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Media Player Web Part using SharePoint 2007 and Silverlight.<br /><br /><br />A SharePoint v3 Web Part that can be used to host media content in a SharePoint web site. The Web Part uses Silverlight 1.0 to display the media content, and provides the typical playback controls that one would expect from a web-based video player. This CodePlex project also includes all of the packaging and deployment code needed to create an installable SharePoint Solution.<br /><br />Media content may be sourced from a Document Library or any URL. The Web Part also provides a Cell Consumer Connection Point that allows the video player to be connected directly  to a list of URLs or a Document Library of media files.<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,SharePoint 2007,Silverlight,Media Player,Media,video,WebPart,Web Part,cool,silverlight webpart,Media Player Web Par,",
+  "LastEdited": "2008-01-24T08:18:27.17-08:00"
+}

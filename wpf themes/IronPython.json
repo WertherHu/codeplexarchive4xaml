@@ -1,0 +1,9 @@
+{
+  "ProjectName": "IronPython",
+  "Title": "IronPython",
+  "Description": "IronPython is a implementation of the Python programming language on the .NET Framework. It supports an interactive interpreter with fully dynamic compilation. ",
+  "MovedLink": "https://github.com/IronLanguages/ironpython2",
+  "HomeWiki": "<div class=\"wikidoc\">Project moved to Github at <a href=\"https://github.com/IronLanguages/main\">https://github.com/IronLanguages/main</a>, releases are at <a href=\"https://github.com/IronLanguages/main/releases\">https://github.com/IronLanguages/main/releases</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "python,IronPython,.NET,scripting,favorites,Linux,script,language,mono,WPF,xaml,favorite,Microsoft,Julius,Dynamic,osx,cool,.Net CLR,languages,DSL,dynamic language,CLR,Silverlight,.NET languages,DLR,DLR Language,ironpy,robotframework,HintonBR,JS Tools,dotnetlang,ozz,bDownload,",
+  "LastEdited": "2016-07-28T11:43:39.24-07:00"
+}

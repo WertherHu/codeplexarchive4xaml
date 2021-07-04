@@ -1,0 +1,9 @@
+{
+  "ProjectName": "orhardphotoalbums",
+  "Title": "Orchard - Photo Albums module",
+  "Description": "This module allows you to create photo albums. Module provides following effects: lightbox, slideshow. Also you can set size for thumbnails and images.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong> <br>\r\nThis module allows you to create photo albums. Module provides following effects: lightbox, slideshow. Also you can set size for thumbnails and images and some other options.</p>\r\n<p>Module resizes photos on the fly.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Planned Features</strong></p>\r\n<blockquote>\r\n<p><strong>&nbsp;</strong>New Album types:</p>\r\n<ul>\r\n<li>Simple &ndash; simple album without any effects, only photo. </li><li>Zoom &ndash; zoom photo by mouse hover </li><li>Fullscreen &ndash; scale photo with kept aspect ratio to fill&nbsp; the browser window.\r\n</li></ul>\r\n<p>Caching:</p>\r\n<ul>\r\n<li>Add cache duration option </li><li>Caching images according to cache duration option. </li></ul>\r\n<p>Admin panel:</p>\r\n<ul>\r\n<li>Reorder photos. </li><li>Add bulk actions(remove, publish) to photo. </li><li>Allow to convert album from each to other. </li><li>Allow to create album from existing media folder. </li></ul>\r\n<p>Orchard parts:</p>\r\n<ul>\r\n<li>Add tag part. </li><li>Add comment part.&nbsp; </li></ul>\r\n<p>Search by photo.</p>\r\n</blockquote>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Orchard module,Photo Gallery,photo album,Lightbox,Slideshow,",
+  "LastEdited": "2011-03-29T13:56:47.287-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "luanimated",
+  "Title": "LuAnimated!",
+  "Description": "A simple Library which aims to let you manage your animations easily using LuaPlayer API (SonyPSP)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br /><b>LuAnimated!</b> is a library written in Lua, and especially designed for developers using LuaPlayer API on SonyPSP.<br />It can be easily ported to many other platforms by replacing drawing procedure in the proper library defined functions code.<br />You can easily design nice animations by loading spritesheets, tilesets, charsets ... in one command and make them loop, play once ...<br /><br /><br /><u><b>A simple usage example</b></u><br /><br /><pre>require &#39;LuAnimated&#39;\n\n-- Assuming &#39;explosion.png&#39; is a spritesheet with 96x96 sprites\nlocal animLoop = Animation (Image.load(&#39;explosion.png&#39;),96,96,0.5,&#39;loop&#39;) -- Create a looping animation\n\nwhile true do\t\n\tscreen:clear()\t\n\n\tanimLoop:draw(480/2-animLoop:getWidth()/2, 272/2-animLoop:getHeight()/2) -- draws the animations centered on the screen\n\n\tscreen.waitVblankStart()\n\tscreen.flip()\nend\n</pre><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Animation,sprite,spritesheet,lua,game,psp,luaplayer,",
+  "LastEdited": "2011-07-20T01:32:05.93-07:00"
+}

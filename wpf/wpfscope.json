@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfscope",
+  "Title": "WPF Function Scope",
+  "Description": "An experiment in using WPF custom drawing to emulate a basic oscilloscope that can plot Lissajous curves (https://en.wikipedia.org/wiki/Lissajous_curve).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An experiment in using WPF custom drawing to emulate a basic oscilloscope that can plot Lissajous curves &#40;https&#58;&#47;&#47;en.wikipedia.org&#47;wiki&#47;Lissajous_curve&#41;.<br /><br /><b>Design</b><br />The X and Y functions are sampled at 5KHz using a System.Timers.Timer with correction applied for jitter (using a high performance timebase) which allow higher software sample resolution than normal. Although fixed to use sinusoidal functions the function parameters can be adjusted using WPF / MVVM binding. Circular buffers are used to limit GC pressure.<br /><br />The scope is rendered using a custom WPF control with buffered geometries for performance. The display is painted at 50Hz independently of the sampler.<br /><br /><b>Examples</b><br /><img src=\"/projects/wpfscope/df9c951c-fbf4-4fcd-8518-46ba1a152128\" alt=\"ss1.png\" title=\"ss1.png\" /><br /><img src=\"/projects/wpfscope/77f958e0-0155-4b85-ac20-b3960ea819fa\" alt=\"ss2.png\" title=\"ss2.png\" /><br /><img src=\"/projects/wpfscope/d42323ff-a712-4271-acef-89567f84a410\" alt=\"ss3.png\" title=\"ss3.png\" /><br /><br /><b>Examples of new trace settings</b><br /><img src=\"/projects/wpfscope/041a03cb-119a-4ec2-8de7-94e526b29554\" alt=\"ss4.png\" title=\"ss4.png\" /><br /><img src=\"/projects/wpfscope/a9245d1a-d583-471b-a27e-2539a2b741cd\" alt=\"ss5.png\" title=\"ss5.png\" /><br /><br /><b>Todo</b><br />Allow different functions to be plugged into the scope<br />Label graticule<br />Try using a Direct2D panel for drawing</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-11-23T12:11:28.773-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssisassembly",
+  "Title": "SSIS Execute Assembly Task (SSIS Control Flow Custom Component)",
+  "Description": "SSIS Execute Assembly Task (SSIS Control Flow Custom Component)",
+  "MovedLink": "",
+  "HomeWiki": "\r\n<div class=\"wikidoc\">\r\n<div class=\"wikidoc\">\r\n<h1><strong>Execute Assembly Task (SSIS Control Flow Custom Component)</strong></h1>\r\n</div>\r\n<div class=\"wikidoc\">As the name says it, this &quot;Control Flow&quot; custom component can be used to execute a method from a given assembly file.</div>\r\n<div class=\"wikidoc\">\r\n<ul>\r\n<li>System requirements: <br>\r\n<ul>\r\n<li>Microsoft SQL Server 2008 </li><li>Microsoft Visual Studio 2010 </li></ul>\r\n</li></ul>\r\n</div>\r\n<p>Please take a look at the <a title=\"Documentation\" href=\"http://ssisassembly.codeplex.com/documentation\">\r\ndocumentation </a>page to see how you can use it.</p>\r\n<p>So here we are. I've done minimal cleanup, and the code isn't perfect (and there are few comments) but I could not find anything similar online, and I thought the best thing to do would be to share the code today instead of waiting to polish it before sharing\r\n it.</p>\r\n<p>This is the first CodePlex project (or open source project in general) that I have started. The initial public release is online so everyone should be able to download the code to use (and tweak) on their own.</p>\r\n<div class=\"wikidoc\">&#160;</div>\r\n<p><strong>Note:</strong> I'd really appreciate any feedback on whether you think the project isn't feasible, whether you'd like to use it if it were more mature, and that sort of thing. Leave comments or email me at\r\n<a title=\"cosmin.vlasiu@gmail.com\" href=\"mailto:cosmin.vlasiu@gmail.com\">cosmin.vlasiu@gmail.com</a></p>\r\n</div>\r\n",
+  "TagList": "ssis,SSIS Component,assembly,Reflection,custom control flow,Execute Assembly Tas,",
+  "LastEdited": "2010-12-20T07:51:47.483-08:00"
+}

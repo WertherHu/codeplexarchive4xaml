@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RegTreeView",
+  "Title": "RegTreeView",
+  "Description": "RegTreeView is a simple Registry view using WPF. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>RegTreeView Description</b><br />RegTreeView is a simple Registry view using WPF. <br /><br /><br /><b>A bit about RegTreeView</b><br /><br />I was looking on the web for a simple Windows Registry WPF viewer that made use of HierarchicalDataTemplates, but couldn&#39;t find one. So I wote my own.<br /><br /><img src=\"/projects/RegTreeView/e0a82ada-1d77-4244-814b-2149e4cb120c\" alt=\"RegTreeView.GIF\" title=\"RegTreeView.GIF\" /><br /><br />Its a bit rough around the edges, but its a work in progress. You may find it of use, so please download the source code.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Registry,Data Binding,Hierarchical Data,",
+  "LastEdited": "2010-11-15T07:09:30.227-08:00"
+}

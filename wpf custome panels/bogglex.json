@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bogglex",
+  "Title": "Bogglex",
+  "Description": "Bogglex is a single player Boggle game written using C# and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Bogglex is a single player Boggle game written using C&#35; and WPF.<br /><br /><img src=\"/projects/bogglex/7f6db2d0-81aa-4f83-b8f8-f1556c3124df\" alt=\"Bogglex.png\" title=\"Bogglex.png\" /><br /><br />It&#39;s developed using C# Express 2010, WPF, NUnit, Moq and PartCover. It uses the Aonaware DictService web service which uses WordNet 2.0 for word validation.<br /><br />See the <a href=\"https://bogglex.codeplex.com/documentation?referringTitle=Home\">Documentation</a> for how to download/install/play.<br /><br /><b>Why Bogglex?</b><br /><br />Well, it&#39;s Boggle on Codeplex. I know, I know - my creativity astounds you. It&#39;s also a combination of Boggle and Alex, but that&#39;s kind of a coincidence.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,game,WPF,",
+  "LastEdited": "2011-03-15T05:46:41.557-07:00"
+}

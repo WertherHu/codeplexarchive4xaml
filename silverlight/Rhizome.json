@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Rhizome",
+  "Title": "Rhizome",
+  "Description": "\"Rhizome\" makes it easier for various .NET developers to start with automata-based programming.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Rhizome</h1>\r&#34;Rhizome&#34; makes it easier for various .NET developers to start with automata-based programming.<br /><b>Rhizome mission is to separate behavior Logic (what to do) from Semantic (how to do).</b><br /><br /><b>Rhizome main goals are:</b>\n<ul><li>To be extendable;</li>\n<li>To be reusable;</li>\n<li>To be cross-platform;</li></ul>\n<br /><b>Rhizome main features are:</b>\n<ul><li>XAML support</li>\n<li>Native Coroutine support</li></ul>\n<br /><b>Extendable</b><br />Rhizome core Designed by Contract and can be extended with common object-oriented techniques to support various domain models.<br /><br /><b>Reusable</b><br />Automaton can be constructed with reusable items such as triggers, criteria and actions.<br /><br /><b>Cross-platform</b><br />Rhizome supports .NET, Silverlight, Windows Phone 7 and XNA.<br />The same automaton can be reused in various .net platforms<br /><br /><b>XAML-friendly</b><br />Rhizome automaton, states and rules can be instantiated in XAML.<br /><br /><b>Coroutine support</b><br />Rhizome comes with build-in support for coroutines thought Active Object pattern and C# iterator syntax.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "xaml,finite state machine,active object,.NET,Silverlight,workflow,Windows Phone 7,XNA,automata-based progr,automata-based,Yuri,Win,Rhizome,",
+  "LastEdited": "2011-06-01T03:38:24.08-07:00"
+}

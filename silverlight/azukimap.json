@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azukimap",
+  "Title": "azukiMap",
+  "Description": "azukiMap is a Open Source \"Web-Top\" GIS application. It works on Silverlight and can use vector data, raster images and several types of map tile from servers as map data sources.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"http://farm.azukimap.jp/azukiMap_logo.png\" /><br /><br />azukiMap is a Open Source &#34;Web-Top&#34; GIS application. It works on Silverlight and can use vector data, raster images and several types of map tile from servers as map data sources.<br /><br /><img src=\"http://farm.azukimap.jp/azukiMap_screen_sample.jpg\" /><br />\n<h2>Demo</h2>\r<b>Volcano Sample</b> <a href=\"http://farm.azukimap.jp/case/miyake/\">http://farm.azukimap.jp/case/miyake/</a><br />\n<h2>Suported GIS Data Format</h2>\r\n<h3>Vector</h3>\r<ol><li>PostGIS</li>\n<li>WKT</li></ol>\n \n<h3>Raster</h3>\r<ol><li>WMS</li>\n<li>Jpeg, PNG file</li>\n<li>Tile indexed image file</li></ol>\n \n<h3>Tile</h3>\r<ol><li>Bing Map</li>\n<li>KaMap tile</li>\n<li>GSI tile</li>\n<li>TMS (not yet) </li></ol>\n\n<h2>Main Page</h2>\r\n<a href=\"http://farm.azukimap.jp/wiki/doku.php\">http://farm.azukimap.jp/wiki/doku.php</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,GIS,mapping,map,",
+  "LastEdited": "2009-09-14T10:46:59.857-07:00"
+}

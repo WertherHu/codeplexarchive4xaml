@@ -1,0 +1,9 @@
+{
+  "ProjectName": "minesweep",
+  "Title": "Windows 8 Minesweeper",
+  "Description": "A minesweeper clone in the Windows 8 Metro style, developed in JavaScript and HTML5.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Windows 8 Minesweeper</strong><br>\r\nA minesweeper clone in the Windows 8 Metro style, developed in JavaScript and HTML5.<br>\r\n<br>\r\nThe Windows 8 Developer Preview is required to compile and run this application.</p>\r\n<p><a href=\"http://msdn.microsoft.com/en-us/windows/apps/br229516.aspx\">http://msdn.microsoft.com/en-us/windows/apps/br229516.aspx</a></p>\r\n<p>&nbsp;</p>\r\n<p><a href=\"http://i.imgur.com/7mRfv.png\"><img title=\"Hosted by imgur.com\" src=\"http://i.imgur.com/7mRfv.png\" alt=\"\" width=\"400\"></a></p>\r\n<p><a href=\"http://i.imgur.com/BQmUP.png\"><img title=\"Hosted by imgur.com\" src=\"http://i.imgur.com/BQmUP.png\" alt=\"\" width=\"400\"></a></p>\r\n<p><a href=\"http://i.imgur.com/IoyUI.png\"><img title=\"Hosted by imgur.com\" src=\"http://i.imgur.com/IoyUI.png\" alt=\"\" width=\"400\"></a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows 8,HTML5,minesweeper,javascript,Metro,game,",
+  "LastEdited": "2012-07-13T02:11:13.21-07:00"
+}

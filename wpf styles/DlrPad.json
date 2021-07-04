@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DlrPad",
+  "Title": "DLR Pad",
+  "Description": "DLR Pad gives you the expressiveness of dynamic languages at your finger tips, while developing WPF based application. Using DLR Pad you can define a sample UI using XAML and then script against it using IronPython or IronRuby. DLR Pad is ideal for rapid testing of some functionality or for early experimental and proof-of-concept applications. \nDLR Pad features Xaml Pad like functionalities plus Dynamic Language Runtime support (currently only IronPython and IronRuby are implemented) for writing code against the defined XAML. Simple IntelliSense is provided as well.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DLR Pad gives you the expressiveness of dynamic languages at your finger tips, while developing WPF based application. Using DLR Pad you can define a sample UI using XAML and then script against it using IronPython or IronRuby. DLR Pad is ideal for rapid testing of some functionality or for early experimental and proof-of-concept applications. <br />DLR Pad features Xaml Pad like functionalities plus Dynamic Language Runtime support &#40;currently only IronPython and IronRuby are implemented&#41; for writing code against the defined XAML. Simple IntelliSense is provided as well.<br /><br /><b>Blog Posts</b><br />Introduction to DLR Pad - <a href=\"http://ligaz.blogspot.com/2007/11/dlr-pad-interactive-programming-with.html\">http://ligaz.blogspot.com/2007/11/dlr-pad-interactive-programming-with.html</a><br />DLR Pad on CodePlex - <a href=\"http://ligaz.blogspot.com/2007/11/dlr-pad-on-codeplex.html\">http://ligaz.blogspot.com/2007/11/dlr-pad-on-codeplex.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DLR,WPF,dlrconsole,watch,IronPython,ruby,console,python,Avalon,xaml,",
+  "LastEdited": "2008-07-23T23:16:30.107-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "zunelyrics",
+  "Title": "Zune Lyrics",
+  "Description": "Zune Lyrics is a plugin for Zune Software which automatically fetches lyrics of the song currently being played in Zune Software from lyricsplugin.com. Built using WPF, it uses the registry data stored by Zune - Now Playing to detect the current song.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Zune Lyrics is a plugin for Zune Software which automatically fetches lyrics of the song currently being played in Zune Software from lyricsplugin.com. Built using WPF, it uses the registry data stored by Zune - Now Playing to detect the current song.<br />You can find Zune - Now Playing at <a href=\"http://znp.codeplex.com\">http://znp.codeplex.com</a><br /><br /><b>Quick Start:</b><br />Download the zip file and run Setup.exe. Follow the instructions to install Zune Lyrics on your system. Run Zune Lyrics from your desktop or Programs Menu\n<ul><li>To refresh the lyrics, use F5</li></ul>\n<br /><i>Note: Zune Lyrics takes proxy settings from Internet Explorer. So please make sure you have correct settings filled in there. It doesn&#39;t support proxies with authentication yet.</i><br /><br /><br /><b>Screenshot:</b><br /><br /><img src=\"/projects/zunelyrics/1c73f84a-eb19-4d2f-a242-16332669c28c\" alt=\"zunelyrics.jpg\" title=\"zunelyrics.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Zune,Zune Plugin,Zune Lyrics,Lyrics Plugin,Lyrics,Zune Lyrics Plugin,",
+  "LastEdited": "2009-04-21T05:21:31.943-07:00"
+}

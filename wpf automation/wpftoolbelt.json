@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpftoolbelt",
+  "Title": "WPF Toolbelt",
+  "Description": "The WPF Toolbelt is an open source library of WPF controls, styles, and utility classes designed to enhance the WPF framework. The primary goal of the library is to accelerate market penetration of WPF in corporate development environments.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><a href=\"https://wpftoolbelt.codeplex.com/wikipage?title=News%20Feeds&referringTitle=Home\">News Feeds</a> | <a href=\"https://wpftoolbelt.codeplex.com/wikipage?title=Developer%20Notepad&referringTitle=Home\">Developer Notepad</a> | <a href=\"https://wpftoolbelt.codeplex.com/wikipage?title=Meet%20the%20Team&referringTitle=Home\">Meet the Team</a> | <a href=\"https://wpftoolbelt.codeplex.com/wikipage?title=FAQ&referringTitle=Home\">FAQ</a><br />\n<h1>Welcome to the WPF Toolbelt Project</h1>\rThe goal of the WPF Toolbelt Project is to create an extensible library of WPF tools and utility classes to make WPF-based smart client development easier and more productive. Our hope is that the toolbelt will ease the transition to WPF for Winforms developers (and bring a somewhat gentler slope to the dreaded &quot;WPF Learning Cliff&quot;).<br /><br />For a quick Q&amp;A overview of the WPF Toolbelt, feel free to look at the <a href=\"https://wpftoolbelt.codeplex.com/wikipage?title=FAQ&referringTitle=Home\">FAQ</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "winforms,watch,Components,WPF,Windows Forms,WPF Toolbelt,",
+  "LastEdited": "2009-02-01T08:31:43.913-08:00"
+}

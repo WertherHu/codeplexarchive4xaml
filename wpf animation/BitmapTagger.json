@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BitmapTagger",
+  "Title": "BitmapTagger",
+  "Description": "A .NET library that makes it easy to read/write common Exif and XMP tags in images.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A .NET library that makes it easy to read&#47;write common Exif and XMP tags in images.<br /><br />The general idea behind this library is to allow the user to treat Images with tags as just another .NET class with properties. The library handles how to retrieve and save tag information, so it is completely transparent to the user. <br />This project also includes a WPF and console application built upon the library to allows user to view and edit image tags.<br /><br />Currently JPEG and PNG are supported.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Library,.NET 3.5 SP1,WIC,C# 3.0,images,imaging,fun,",
+  "LastEdited": "2009-04-22T19:10:42.93-07:00"
+}

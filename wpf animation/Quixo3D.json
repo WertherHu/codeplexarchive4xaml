@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Quixo3D",
+  "Title": "Quixo3D",
+  "Description": "Quixo3D is based on the board game Quixo (http://www.gigamic.com/gigamic-jeux-quixo.html). It's written in C# with the UI in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/Quixo3D/fea0b197-8a15-42fd-8411-ac3ccc2eaefc\" alt=\"example.png\" title=\"example.png\" /><br /><br /><b>Project Description</b><br />Quixo3D is based on the board game Quixo (<a href=\"http://www.gigamic.com/gigamic-jeux-quixo.html\">http://www.gigamic.com/gigamic-jeux-quixo.html</a>). It&#39;s written in C# with the UI in WPF (making liberal use of the 3D capabilities within WPF).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,3D,",
+  "LastEdited": "2008-01-17T17:16:24.237-08:00"
+}

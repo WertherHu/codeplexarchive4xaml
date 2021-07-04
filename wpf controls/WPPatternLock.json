@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPPatternLock",
+  "Title": "Pattern Lock for Windows Phone",
+  "Description": "A Windows Phone project which provides a user control to provide pattern lock for windows phone applications. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Do you have a security / privacy application? You need to lock your application's screen to provide secure access? You may find many such controls for Android platform but if you are looking at Windows Phone platform, you may hardly find some example. Well,\r\n I am writing a series of open source control which will help you do just that!</p>\r\n<p>A snapshot of what this control looks like is given below. I am hosting the full source code for this control in this CodePlex project.</p>\r\n<p>A detailed description about this control can be found at this <a href=\"http://nishantcop.blogspot.in/2014/02/pattern-lock-for-windows-phone.html\" target=\"_blank\">\r\nLink</a>.</p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://s27.postimg.org/3x82akp0j/Pattern_Lock.png\" alt=\"\" width=\"272\" height=\"453\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 7,Windows Phone 8,Windows Phone,",
+  "LastEdited": "2014-03-30T03:25:14.113-07:00"
+}

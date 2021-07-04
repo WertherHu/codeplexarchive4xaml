@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfsfilesharer",
+  "Title": "TFS File Sharer",
+  "Description": "The TFS File Sharer is a tool designed to assist development teams who have migrated from version control stores that support the concept of linked files where one file update automatically updates all the other linked files - for example VSS.\n\nThe TFS File Sharer reads a configu",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Welcome</h1>\rWelcome to the TFS File Sharer project homepgage, to see what this project is all about please refer to our project description.\n<h2>Project Description</h2>\rThe TFS File Sharer is a tool designed to assist development teams who have migrated from version control stores that support the concept of linked files where one file update automatically updates all the other linked files - for example VSS.<br /><br />The TFS File Sharer reads a configu\n<h2>Positions Vacant</h2>\rIf you would like to help out with this project, please visit our <a href=\"https://tfsfilesharer.codeplex.com/wikipage?title=Positions%20Vacant&referringTitle=Home\">Positions Vacant</a> page.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-12-18T23:36:24.177-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pomonotes",
+  "Title": "PomoNotes",
+  "Description": "PomoNotes is (yet another) tracking system for the Pomodoro Technique of time management. It doubles as a personal exploration into WPF application development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PomoNotes is &#40;yet another&#41; tracking system for the Pomodoro Technique of time management. It doubles as a personal exploration into WPF application development.<br /><br />Check out the <b><a href=\"https://pomonotes.codeplex.com/wikipage?title=Roadmap&referringTitle=Home\">project roadmap</a></b>.<br /><br />Here is a baseline image concept of the project.<br /><br /><img src=\"http://www.codeplex.com/Download?ProjectName=pomonotes&amp;DownloadId=315719\" /><br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Pomodoro,",
+  "LastEdited": "2011-12-15T16:00:18.95-08:00"
+}

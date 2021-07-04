@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tpmetrowpf",
+  "Title": "TimePunch Metro Wpf Library",
+  "Description": "This library contains WPF controls and MVVM Implementation to create touch optimized applications in the new Windows 8 UI style formerly known as \"Metro\". ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>The TimePunch Metro WPF Library has been designed to have a an easy start into developing applications with Microsoft Metro Stil using WPF.</strong><br>\r\n<br>\r\nUsing WPF as the design language has the advantage that also users with Windows XP can benefit of the modern and clean design.\r\n<br>\r\n<br>\r\nThe project is released under the MS-Public License. So you can use it for private and commercial purposes. We ourself uses the TimePunch Metro WPF Library in our time-recording software\r\n<a href=\"http://www.timepunch.de\" target=\"_blank\">TimePunch</a>. So you can be sure, that it will be supported by our development team. But we also appreciate help from the big and enthusiastic C# community.</p>\r\n<p><strong>NuGet:&nbsp;</strong></p>\r\n<p>The Library is now also available as a NuGet package. Only search for &quot;<span style=\"color:#ff0000\">TpMetroWpf</span>&quot; in Visual Studio or make use of the following url:&nbsp;<a href=\"https://nuget.org/packages/TpMetroWpf/\" target=\"_blank\">https://nuget.org/packages/TpMetroWpf/</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-10T12:59:48.68-08:00"
+}

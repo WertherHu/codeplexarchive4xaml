@@ -1,0 +1,9 @@
+{
+  "ProjectName": "genericcontrols",
+  "Title": "Generic Controls",
+  "Description": "A set of generic controls that take advantage dynamic querying and generics.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Generic-based ASP.NET Controls<br /><br />Provide a simple set of replacement controls that take advantage of advanced auto-filtering and dynamic LINQ expressions. This is a proof of concept project and is meant to be run in the VS2008 environment along with .NET 3.5. Apparently, in VS2010, some of the things related to the ControlBuilder are broken and/or fixed, depending on how you want to look at it.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "LINQ,ASP.NET,Controls,lambda,Filter Control,",
+  "LastEdited": "2011-05-15T15:36:25.11-07:00"
+}

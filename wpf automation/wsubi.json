@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wsubi",
+  "Title": "wsubi",
+  "Description": "A spiced-up way to manage scripts. This is a Windows port of the the 'sub' project from 37signals (https://github.com/37signals/sub).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A spiced-up way to manage scripts. This is a Windows port of the the &#39;sub&#39; project from 37signals &#40;https&#58;&#47;&#47;github.com&#47;37signals&#47;sub&#41;.<br /><br /><img src=\"/projects/wsubi/a3b32c99-adcb-4a14-b46c-51f1e36a50cf\" alt=\"wsubi.PNG\" title=\"wsubi.PNG\" /><br /><br /><b>Purpose / Overview</b><br /><br />Most people involved in some aspect of IT come up with a few scripts (or in some cases, more than a few) to help automate and simplify tasks that are regular parts of their day to day work. In a team setting, chances are many people on the team are doing this, which means your team may have dozens of scripts. There may be many scripts that most team members don&#39;t even know about. <br /><br />How do you keep all of these handy tools organized and documented so everyone can easily access and use them, and avoid confusion and duplication of effort? With wsubi (pronounced &#39;wasabi&#39;), you can save, manage and run all your scripts under one common project, complete with documentation.<br /><br />To get started, download the latest version and follow the simple <a href=\"https://wsubi.codeplex.com/wikipage?title=Setup%20Instructions&referringTitle=Home\">Setup Instructions</a>.\n<hr />\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,scripting,utility,management,console application,tools,.NET,automation,SQL,Database,",
+  "LastEdited": "2013-05-07T18:46:33.27-07:00"
+}

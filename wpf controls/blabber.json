@@ -1,0 +1,9 @@
+{
+  "ProjectName": "blabber",
+  "Title": "blabber",
+  "Description": "A WPF based jabber client, capable of replacing the google talk client and various other jabber based clients.  The goal of the project is to focus on a simple and well-designed UI on top of an existing Jabber based open source library.  WPF will be used to take advantage of it's ability to create a compelling user experience.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF based jabber client, capable of replacing the google talk client and various other jabber based clients.  The goal of the project is to focus on a simple and well-designed UI on top of an existing Jabber based open source library.  WPF will be used to take advantage of it&#39;s ability to create a compelling user experience.<br /><br /><a href=\"http://tapingya.com/tra361\">You can Chat or Leave a Message about the Project at TaPingYa</a><br /><br />The communication will use the agsXMPP SDK from AG Software.  The client will build upon this library and provide a unique user experience using Windows Presentation Foundation (WPF).<br /><br /><a href=\"http://www.ag-software.de/index.php?page=agsxmpp-sdk\">http://www.ag-software.de/index.php?page=agsxmpp-sdk</a><br /><br /><b>I am looking for anyone who would like to contribute to this project.  Just let me know!</b>  <a href=\"http://tapingya.com/tra361\">Click here to Chat or Leave Message</a><br />\n<h2>Connecting to GTalk</h2>\r\nIn the Settings Dialog<br /><br />Connect Server : talk.google.com<br />Server : gmail.com<br />Port : 5222<br />UserName : &lt;your gtalk login without the @gmail.com&gt;<br />Password : &lt;password to account&gt;<br /><br />Click &quot;Create New Connection&quot;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "gtalk,Jabber,WPF,Chat,xmpp,",
+  "LastEdited": "2008-07-21T10:08:04.937-07:00"
+}

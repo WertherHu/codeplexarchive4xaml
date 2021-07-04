@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmandunity",
+  "Title": "WPF: MVVM & Unity",
+  "Description": "MVVM and Unity sample hows how to implement MVVM pattern using Unity container.\nSource code: C#\nRequired: Unity Application Block 1.2 (http://msdn.microsoft.com/en-us/library/dd203101.aspx) \nor Unity 2.0 (http://unity.codeplex.com/SourceControl/ListDownloadableCommits.aspx)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MVVM and Unity Container sample</b><br />MVVM and Unity sample hows how to implement MVVM pattern using Unity container.<br />Source code&#58; C&#35;<br />Required&#58; Unity Application Block 1.2 &#40;http&#58;&#47;&#47;msdn.microsoft.com&#47;en-us&#47;library&#47;dd203101.aspx&#41; <br />or Unity 2.0 &#40;http&#58;&#47;&#47;unity.codeplex.com&#47;SourceControl&#47;ListDownloadableCommits.aspx&#41;<br /><br /><br />--<br />Author projects:<br /><a href=\"http://www.wcf.net.ru\">Windows Communication Foundation on russian</a><br /><a href=\"http://www.queue.wcf.net.ru\">Microsoft SQL Server Service Broker on russian</a><br /><a href=\"http://www.wpfclient.wcf.net.ru\">Wiindows Presentation Foundation on russian</a><br />--<br />About author:<br /><a href=\"http://rgolubin.moikrug.ru\">Roman Golubin info</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,MVVM,UnityContainer,Unity,",
+  "LastEdited": "2011-04-03T09:32:20.267-07:00"
+}

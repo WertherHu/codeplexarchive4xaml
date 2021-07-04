@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MsiCustomize",
+  "Title": "MsiCustomize",
+  "Description": "A C# WPF Application for Adding Additional Files and/or Registry Entries and/or Properties to existing MSI files via the generation of a transform or .MST file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>MsiCustomize</strong><br>\r\n<br>\r\nProject will be an Open Source&nbsp;C# WPF Application for Adding Additional Files and/or Registry Entries and/or Properties to existing MSI files via the generation of a transform or .MST file.</p>\r\n<p>It intends to allow those that need to create transforms the ability to do so without having to learn the internal structure of MSI databases and how the tables relate to one another.</p>\r\n<p>The customization will be an added &quot;Customization Feature&quot; that can be added or removed via the feature selection menu if enabled.&nbsp; All custom features will be enabled by default.</p>\r\n<p>Stage</p>\r\n<ul>\r\n<li>Developing UI and Initial release </li></ul>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C# WPF MSI MST,",
+  "LastEdited": "2016-06-02T12:39:23.98-07:00"
+}

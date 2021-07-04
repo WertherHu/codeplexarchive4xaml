@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wUniApp",
+  "Title": "wUniApp",
+  "Description": "Sample multiplatform project with bussines logic and MVVM in PCL for Windows WPF ,  Windows Phone 8 .1 & Windows Store 8.1 application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Sample multiplatform project with bussines logic and MVVM in PCL for Windows WPF ,  Windows Phone 8 .1 &#38; Windows Store 8.1 application.<br /><br />Based on Windows Universal Apps <br /><i>(<a href=\"http://msdn.microsoft.com/en-us/library/windows/apps/dn609832.aspx\">http://msdn.microsoft.com/en-us/library/windows/apps/dn609832.aspx</a>)</i><br />and Portable class library <br /><i>(<a href=\"http://msdn.microsoft.com/en-us/library/gg597391(v=vs.110).aspx\">http://msdn.microsoft.com/en-us/library/gg597391(v=vs.110).aspx</a>)</i><br /><br />This project is demo of my C# .NET source code focused now to WPF application.<br /><br /><b>Recommended:</b><br />Visual Studio 2013 with Update 2<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-28T00:48:34.23-07:00"
+}

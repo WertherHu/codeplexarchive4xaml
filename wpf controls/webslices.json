@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webslices",
+  "Title": "ASP.NET Web Slices",
+  "Description": "ASP.NET Web Slices is a framework for creating web slice enabled ASP.NET applications. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">ASP.NET Web Slices is a framework for creating web slice enabled ASP.NET applications. <br /><br /><a href=\"http://www.microsoft.com/windows/products/winfamily/ie/ie8/webslices.mspx\">Web slices</a> allow users to subscribe to specific content within a page, rather than the whole page (or site) like RSS. When clients detect a change in the content they can notify the user and display the updated slice in a small view pane in the browser.<br /><br />The <b>WebSlice</b> control is used like an &lt;asp:Panel/&gt; control to wrap the contents of the web slice. The WebSlice control rendered output contains the necessary HTML  and CSS classes to be recognised as a Web Slice.<br /><br /><a href=\"https://webslices.codeplex.com/wikipage?title=Using%20ASP.NET%20Web%20Slices&referringTitle=Home\">Using ASP.NET Web Slices</a><br /><br />When the WebSlices namespace is imported several extension methods are added to the System.Web.UI.Page class:<br />\n<ol><li><b>SetDefaultWebSlice&lt;TWebSlice&gt;(TWebSlice slice)</b> - this method allows developers to specify the default web slice if there are many on a single page.</li>\n<li><b>SetWebSliceDiscoveryMode(WebSliceDiscoveryMode mode)</b> - this method allows developers to disable (or enable) web slice discovery for a page.</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,asp.net controls,web slices,",
+  "LastEdited": "2008-10-18T23:08:35.623-07:00"
+}

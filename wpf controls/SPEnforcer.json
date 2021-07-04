@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPEnforcer",
+  "Title": "SharePoint Enforcer - Ensuring large sites comply with standards",
+  "Description": "SharePoint Enforcer is a utility that aids in governance of large SharePoint sites to ensure that the sites comply with various business rules that have been created to keep the site from growing out of control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong> <br>\r\nSharePoint Enforcer will be a utility that aids in governance of large SharePoint sites to ensure that the sites comply with various business rules that have been created to keep the site from growing out of control.\r\n<br>\r\n<br>\r\nThe goal of this process is to create a framework that can be extended as needed so that companies can easily implement their own enforcement rules without necessarily reinventing all sorts of wheels or writing a barrage of clunky powershell scripts<br>\r\n<br>\r\n<em>NOTE</em> <br>\r\n<strong>The focus for the moment is on SharePoint 2010 Enterprise as that is what most large organizations have. I will look into supporting other versions of SharePoint 2010 and 2013 at a later date.</strong>\r\n<br>\r\n<br>\r\nThere is no version available yet</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-29T12:10:41.31-07:00"
+}

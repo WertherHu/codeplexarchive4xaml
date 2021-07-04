@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFMVVMSampleApplication",
+  "Title": "WPFMVVM Sample Application",
+  "Description": "Provide a sample WPF MVVM application. covers basic MVVM implementation.\r\nShow how easy to write a unit-test methods.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Here's a simple WPF application using MVVM(Model View ViewModel) architecture.</strong></p>\r\n<p><strong>MVVM provides us with lots of benefits. One of the most known benefits is writing unit-test for the business logic/ViewModel.\r\n</strong></p>\r\n<p><strong>Separation of Xaml view/ ViewModel /Model allow&nbsp;more than one developer to work on the screen.&nbsp;</strong></p>\r\n<p>The requirements are very simple. Create a master detail application.</p>\r\n<p>The master screen displays a list of employee names.</p>\r\n<p>user can select a name from the list and click edit button to display details screen.</p>\r\n<p>Details screen allows user to update selected employee's name and age.</p>\r\n<p>Name field doesn't allow special characters.</p>\r\n<p>Age field allows numbers only.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF MVVM,",
+  "LastEdited": "2014-12-26T17:51:03.493-08:00"
+}

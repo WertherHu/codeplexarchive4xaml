@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MaxLogisitic",
+  "Title": "MaxLogistic TMS - Gestão de Transportadoras c/ emissão de CTe",
+  "Description": "Sistema de gestão de transportadoras com emissão de CTe e Integração de CTE \r\nModal: Rodoviário para as modalidades (Containers, Carga Solta, Fracionado e REDEX)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Projeto: Desenvolvimento de um TMS OpenSource (Transport Managemment System)<br />Modal Principal: Rodovi&#225;rio<br />Modalidades Atendidas na vers&#227;o Beta: Carga Solta, Containers e Redex<br /><br />Design Pattern: WPF<br />Linguagem: C#<br />Banco de dados: SQL Server ou MySQL <br />Controle de Vers&#227;o: Git<br /><br />Modulos em desenvolvimento: <br />- Teste integra&#231;&#227;o sefaz (Integra&#231;&#227;o e Inativa&#231;&#227;o CTe) - publica&#231;&#227;o vers&#227;o inicial codeplex 21/07<br />- Cadastro (Frete, Caminh&#227;o, Rota, Motorista, Conhecimento, Empresas) - publica&#231;&#227;o vers&#227;o inicial codeplex 28/07<br />- Emiss&#227;o CTE e integra&#231;&#227;o sefaz  - publica&#231;&#227;o vers&#227;o inicial codeplex 28/07<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CTe,Transporte,TMS,Transportation,Managemment System,WPF,sefaz,Transportadoras,Gestão Transportes,Conhecimento,",
+  "LastEdited": "2014-07-21T16:58:20.893-07:00"
+}

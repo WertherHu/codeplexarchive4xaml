@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SL3Menu",
+  "Title": "Silverlight Menu (SL2&3)",
+  "Description": "Silverlight Menu helps silverlight developers to create a menu control easily. It supports using HierarchicalDataTemplate for binding like TreeView from Silverlight Control toolkit. It is developed in C# with silverlight version 2&3.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Menu helps silverlight developers to create a menu control easily. It supports using HierarchicalDataTemplate for binding like TreeView from Silverlight Control toolkit. It is developed in C&#35; with silverlight version 2&#38;3.<br /><br /><br /><b>Silverlight Menu</b><br /><br />This project new has two version, one in developed for Slilverlight 2RTW, another is for Silverlight 3beta. Both of them are developed in Visual Studio 2008sp1, Windows Vista Basic Edition, and tested in IE7,<br /><br />It includes:<br /><br />- MenuBase class -- which is the base type of Menu and ContextMenu<br />- Menu class -- which can help you to create a main menu<br />- ContextMenu class -- this class is now less useful because silverlight doesn&#39;t support right click<br />- MenuItem class -- which describes the items of MenuBase<br /><br />It supports:<br /><br />- Directly xaml -- you can create a Menu instance just from xaml code<br />- DataBinding -- you can use DataTemplate (HierarchicalDataTemplate) to create items by setting ItemsSource<br />- SubMenu -- you can add sub menu for every MenuItem, both in xaml and databinding<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Menu,Silverlight Control ,",
+  "LastEdited": "2009-07-06T20:11:46.527-07:00"
+}

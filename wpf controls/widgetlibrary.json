@@ -1,0 +1,9 @@
+{
+  "ProjectName": "widgetlibrary",
+  "Title": "Widget Library for Windows Phone 7",
+  "Description": "Create Windows Phone 7 apps using HTML, CSS and Javascript over the WebBroweser control inside the phone.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Create Windows Phone 7 apps using HTML, CSS and Javascript over the WebBroweser control inside the phone.<br /><br />Widget Library for Windows Phone 7 allows you to build new applications for Windows Phone 7 in a easy way. <b>You can migrate your widgets from iPhone or Android to Windows Phone 7 with this library and your W3C and WAC widgets with support to Nokia&#39;s WRT (Web Runtime)</b><br /><br /><br />You have access to:<br />\n<ul><li>Play music on background</li>\n<li>Show notifications</li>\n<li>Navigate between pages</li>\n<li>Play video</li>\n<li>Download files</li>\n<li>Save and load files from the IsolatedStorage</li></ul>\n<br />The communication between the WebBrowser Control and the Windows Phone 7 Apps is implemented using the script capabilities on the control.<br /><br />You can learn about how to use the library on the <a href=\"https://widgetlibrary.codeplex.com/documentation?referringTitle=Home\">Documentation</a> page and see <a href=\"https://widgetlibrary.codeplex.com/wikipage?title=Examples%20of%20apps&referringTitle=Home\">Examples of apps</a> in the Marketplace that use the library.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WP7,Windows Phone 7,css,html,javascript,widgets,",
+  "LastEdited": "2011-08-23T03:02:48.387-07:00"
+}

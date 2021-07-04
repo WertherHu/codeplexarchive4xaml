@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WebFeedGenerator",
+  "Title": "Web Feed Generator",
+  "Description": "The Web Feed Generator project provides an easy way to add web feeds to your ASP.Net web site.\n\nThe Web Feed Generator takes care of all the web feed related plumbing, the only thing that needs to be done to add a web feed is to Implement the interface IWebFeedDataLoader to provide data to the feed.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><img title=\"150px-Feed-icon_svg.png\" src=\"/projects/WebFeedGenerator/24cbb2a8-4882-4d31-a23e-dcca70d0405d\" alt=\"150px-Feed-icon_svg.png\"><br>\r\n<br>\r\n<strong>Project Description</strong><br>\r\nThe Web Feed Generator project provides an easy way to add web feeds to your ASP.Net web site.<br>\r\n<br>\r\nThe Web Feed Generator takes care of all the web feed related plumbing, the only thing that needs to be done to add a web feed is to Implement the interface IWebFeedDataLoader to provide data to the feed.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<strong>Features</strong></p>\r\n<ul>\r\n<li>Support for RSS, Atom, Podcast </li><li>Easy to implement </li><li>Configurable feed url's in the web.config </li></ul>\r\n<p><br>\r\nWeb Feed Generator makes use of the open source projects log4net and Spring.Net<br>\r\n<br>\r\n<br>\r\n<img src=\"http://www.orbitone.com/img/orbit-one-logo.png\" alt=\"\" width=\"253\" height=\"73\"><br>\r\nOrbit One is a software development agency located in Ghent Belgium.<br>\r\nWe specialize in internet facing websites, intranet and extranet applications.<br>\r\nWe use technologies such as ASP.Net, SharePoint, Umbraco and Microsoft Dynamics CRM.<br>\r\n<a href=\"http://www.orbitone.com\">http://www.orbitone.com</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET Control,feeds,RSS,Atom,podcast,ASP.NET,",
+  "LastEdited": "2014-06-30T04:41:44.887-07:00"
+}

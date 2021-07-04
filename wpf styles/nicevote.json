@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nicevote",
+  "Title": "Nicevote",
+  "Description": "ニコニコ生放送(http://live.nicovideo.jp)のコメントを利用して投票を行うツールです。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Nicevote</h1>\r\nニコニコ生放送（<a href=\"http://live.nicovideo.jp\">http://live.nicovideo.jp</a>）で放送中のコメントを利用して投票を行う放送者向けツール。公式のツールではありません。<br /><br />作者(5zj)がオーナーのコミュニティ「プログラミング生放送」はこちら。<br /><a href=\"http://ch.nicovideo.jp/community/co9320\">http://ch.nicovideo.jp/community/co9320</a><br /><br />.NET Framework 3.5 SP1がインストールされている必要があります(Windows Update)からインストールできます。<br />Windows XP(SP3推奨)、Windows Vista(SP2推奨)、Windows 7(RC推奨)で動作します。<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ニコニコ生放送,WPF,VB.NET,",
+  "LastEdited": "2009-06-07T02:39:39.217-07:00"
+}

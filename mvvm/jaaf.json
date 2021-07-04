@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jaaf",
+  "Title": "JAAF",
+  "Description": "Just Another Application Framework is (as it's name suggests) another comprehensive set of libraries that augment the development of data centric / business applications.\r\n\r\nJAAF Provides services such as:\r\n- Dependency Injection builders and service locators\r\n- ORM (Object to Relational Mapping)\r\n- An extensible metadata management mechanism\r\n- Rule engine and validation\r\n- A user interface instrumentation framework that is an alternative approach to the MVC/MVP/MVVM patterns\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>JAAF?</b><br />Just Another Application Framework is &#40;as it&#39;s name suggests&#41; another comprehensive set of libraries that augment the development of data centric &#47; business applications.<br /><br />JAAF Provides services such as&#58;<br />- Dependency Injection builders and service locators<br />- ORM &#40;Object to Relational Mapping&#41;<br />- An extensible metadata management mechanism<br />- Rule engine and validation<br />- A user interface instrumentation framework that is an alternative approach to the MVC&#47;MVP&#47;MVVM patterns<br /><br /><br /><b>No official releases are available yet. Stay in tune! ...</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4.0,ORM,dependency injection,",
+  "LastEdited": "2011-06-01T03:12:28.507-07:00"
+}

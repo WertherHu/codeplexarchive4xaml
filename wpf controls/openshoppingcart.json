@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openshoppingcart",
+  "Title": "OpenShoppingCart",
+  "Description": "Asp.Net 2.0 Components for manage a Shopping Cart on any eCommerce WebSites, the particularity of this project, it use Provider Pattern, strongly typed datagrid and many Strongly typed controls, buttons, repeaters and more.\n\nthis project move to http://code.google.com/p/openshopp",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>OpenShoppingCart</b> is an open source project from team <b>serialcoder.net</b> <a href=\"http://www.serialcoder.net\">http://www.serialcoder.net</a><br /><br />This is a asp.net 2.0 component for manage shopping cart in any ecommerce website.<br />Based on provider pattern.<br /><br />Many controls as associated with this project , typed datagrid, typed buttons, linkbuttons and more..<br /><br />Discussion Forum : <a href=\"http://groups-beta.google.com/group/open-shopping-cart\">http://groups-beta.google.com/group/open-shopping-cart</a><br /><br />Mailing List : open-shopping-cart@googlegroups.com<br /><br />Demo website : <a href=\"http://open-shopping-cart.serialcoder.net\">http://open-shopping-cart.serialcoder.net</a><br /><br />This project move to <b>http://code.google.com/p/openshoppingcart/</b> <a href=\"http://code.google.com/p/openshoppingcart/\">http://code.google.com/p/openshoppingcart/</a><br /><br />you can see an example on this site of <b>quincaillerie</b> <a href=\"http://www.quincaillerie.pro\">http://www.quincaillerie.pro</a> ou sur <b>boutique en ligne erp</b> <a href=\"http://www.erpstore.net\">http://www.erpstore.net</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "OpenShoppingCart,shopping cart,shop,cart,",
+  "LastEdited": "2011-01-20T08:29:09.23-08:00"
+}

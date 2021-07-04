@@ -1,0 +1,9 @@
+{
+  "ProjectName": "colordialogex",
+  "Title": "ColorDialogEx",
+  "Description": "WPF ColorDialog control and dialog windows. You can embedd only control into you application, or use \"ready to use\" ColorDialog windows - small and big.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>WPF ColorDialog Extended control and dialog window</h1>\r<b>also possible for Silverlight, WinRT, Win8, WP8</b><br /><br />WPF ColorDialog control and dialog windows. You can embedd only control into you application, or use &#34;ready to use&#34; ColorDialog windows - small and big.<br /><br /><img src=\"/projects/colordialogex/ac64e6d7-17db-47b6-8dba-518a38f8d0e4\" alt=\"WPF&#32;ColorDialog\" title=\"WPF&#32;ColorDialog\" />  <img src=\"/projects/colordialogex/15b6ed19-96f9-4866-abe7-364e612019fc\" alt=\"Silverlight&#32;ColorDialog\" title=\"Silverlight&#32;ColorDialog\" />  <img src=\"/projects/colordialogex/6b3e2daf-8413-46cd-ba85-1e189b105b6e\" alt=\"Silverlight&#32;ColorDialog\" title=\"Silverlight&#32;ColorDialog\" /><br /><br />(a better description be later)<br />A library with advanced control and two dialog windows for .Net 4.0 and .Net 4.5. <br />Currently develop for WPF, but seems like possible to port for other platforms via recompilation... <br /><br /><br /><br /><b>29.01.2013</b> Codeplex project created and first beta release uploaded<br />Ivan Mokrov<br /><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-01-29T03:12:05.33-08:00"
+}

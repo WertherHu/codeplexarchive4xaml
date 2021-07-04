@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SpAppNgGrid",
+  "Title": "SP2013 App - Example of Using Angular / Ng-Grid",
+  "Description": "An example project using SharePoint 2013 App development style, incorporating, AngularJs Bootstrap and NG-Grid.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An example project using SharePoint 2013 App development style, incorporating, AngularJs Bootstrap and NG-Grid.<br /><br /><br /><br />Contained within is an example of calling the data via $http (Angular style) and $.ajax (jquery) style via XML webservices and the appropriate Angular code to deal with either.<br /><br />No AntiPattern Digest Checking.<br /><br />Thanks to Marc from SPServices, I blatantly nicked some of his routines (getZRows) for handling XML returned.  <br />Thanks to Jeremy Thake, for his Ubertask demo that started me off.<br /><br />This page has an Ad on it any revenue is directed at charity.  <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-07T06:54:42.827-07:00"
+}

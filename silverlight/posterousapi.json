@@ -1,0 +1,9 @@
+{
+  "ProjectName": "posterousapi",
+  "Title": "RSTEIN Posterous API C# Wrapper",
+  "Description": "Posterous C# API wrapper-for Silverlight (SL 4) & .NF 3.5 & WP7\nOnly Posterous API  1.0 is supported.\nIncluded is project \"Posterous backup\"  - Simple example that demonstrates use of API wrappper.\nMachine  translation of my article about API:\nhttp://jdem.cz/hcss2\nEnjoy",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Posterous C&#35; API wrapper-for Silverlight &#40;SL 4&#41; &#38; .NF 3.5 &#38; WP7<br />Only Posterous API  1.0 is supported.<br />Included is project &#34;Posterous backup&#34;  - Simple example that demonstrates use of API wrappper.<br />Machine  translation of my article about API&#58;<br />http&#58;&#47;&#47;jdem.cz&#47;hcss2<br />Enjoy</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Posterous,C#,Posterous API,Silverlight,.Net Framework,WP7,Windows Phone 7,wp7dev,SL4,",
+  "LastEdited": "2010-09-13T05:17:45.63-07:00"
+}

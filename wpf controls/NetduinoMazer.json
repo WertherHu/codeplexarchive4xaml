@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NetduinoMazer",
+  "Title": "Netduino Mazer",
+  "Description": "A simple set of apps. One to create basic mazes and display them in WPF, the other (for the netduino) to solve the mazes passed to it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple set of apps. One to create basic mazes and display them in WPF, the other &#40;for the netduino&#41; to solve the mazes passed to it.<br /><br />Currently in a pre-alpha state and is not considered usable.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-29T19:27:14.07-07:00"
+}

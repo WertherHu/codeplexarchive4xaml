@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLCanvas",
+  "Title": "Silverlight HTML 5 Canvas",
+  "Description": "This project successfully uses Silverlight as a rendering engine to implement HTML 5 <canvas> support in IE6~IE8. It also enables onload=\"..\" attribute support for native canvas renderers for 'this' context object activation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project successfully uses Silverlight as a rendering engine to implement HTML 5 &#60;canvas&#62; support in IE6&#126;IE8. It also enables onload&#61;&#34;..&#34; attribute support for native canvas renderers for &#39;this&#39; context object activation.<br /><br />For more information, visit <br /><a href=\"http://bit.ly/2BUyrW\">http://bit.ly/2BUyrW</a>, <a href=\"http://bit.ly/vPEjy\">http://bit.ly/vPEjy</a>, and <a href=\"http://bit.ly/apkmQz\">http://bit.ly/apkmQz</a><br /><br />In-browser online <b>demonstration</b>: <a href=\"http://silverlightcanvas.appspot.com/\">http://silverlightcanvas.appspot.com/</a><br /><br />Static file reference for &lt;script src=&quot;..&quot;&gt;: <a href=\"http://silverlightcanvas.appspot.com/static/slcanvas.js\">http://silverlightcanvas.appspot.com/static/slcanvas.js</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-05T18:47:38.333-08:00"
+}

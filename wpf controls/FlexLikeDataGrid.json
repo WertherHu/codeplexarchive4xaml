@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FlexLikeDataGrid",
+  "Title": "Flex-like DataGrid custom control for C# .Net 2.0",
+  "Description": "This project hosts a DataGrid custom control which mocks the Flex DataGrid in looks and a bit in behavior. The DataGrid also exposes new properties to customize the colors and fonts.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project hosts a DataGrid custom control which mocks the Flex DataGrid in looks and a bit in behavior. The DataGrid also exposes new properties to customize the colors and fonts.<br />Built on C# .Net 2.0 , it can be a good alternative to the regular datagrid.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-19T23:31:02.777-08:00"
+}

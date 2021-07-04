@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TextOutInBehaviorWpf",
+  "Title": "EL.TextOutInBehavior.Wpf",
+  "Description": "TextOutInBehavior.Wpf is a Behavior class for the TextBlock control in WPF.\r\nProvide fade in/out animation when the text of TextBlock changed.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />TextOutInBehavior.Wpf is a Behavior class for the TextBlock control in WPF.<br />Provide fade in&#47;out animation when the text of TextBlock changed.<br /><br /><a href=\"https://textoutinbehaviorwpf.codeplex.com/wikipage?title=How%20to%20use&referringTitle=Home\">How to use</a><br /><br /><a href=\"https://textoutinbehaviorwpf.codeplex.com/wikipage?title=Demo&referringTitle=Home\">Demo</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-02-21T23:33:01.987-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "directx",
+  "Title": "DirectX Engine",
+  "Description": "DirectX engine for support version 9, 10, 11 libraries Microsoft SDK.\r\nFeatures: camera view, lighting, load mesh, animation, skinning, hierarchy interface, animation controlller, mesh container, collision system.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nDirectX engine for support version 9, 10, 11 libraries Microsoft SDK.<br>\r\nFeatures: camera view, lighting, load mesh, animation, skinning, hierarchy interface, animation controlller, mesh container, collision system.</p>\r\n<p>Preview:</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img src=\"http://euroeducation.ro/date/PrintScreen.jpg\" alt=\"\" width=\"560\" height=\"355\" style=\"display:block; margin-left:auto; margin-right:auto\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DirectX,",
+  "LastEdited": "2015-06-11T03:18:22.26-07:00"
+}

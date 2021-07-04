@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFWF",
+  "Title": "WPF-WF ATM machine",
+  "Description": "Sample project to help you get started with WF and WPF. It shows how to solve some problems you might face, like with handling bookmarks, and changing UI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>WPF and WF sample application - ATM machine</b><br /><br />This project is a simple ATM workflow. This is to serve as a start point on how to combine Windows Presentation Foundation with Windows Workflow Foundation.<br /><br />To understand this project, you will need to be familiar with WPF, and you must have already done the getting started tutorials for WF.<br /><br />The solution contains the following projects:<br /> - <b>AppHost</b>: this is the startup project. It is a WPF application that hosts the work flows and the actual user interface.<br /> - <b>RepresentationLayer</b>: contains definition for the main class that handles the UI<br /> - <b>ScreensInterfaces</b>: important definition for the UI, and UI input and output objects.<br /> - <b>ScreensRepo</b>: the screen .xaml files. (the interface that the user sees). This is used by &quot;RepresentationLayer&quot;<br /> - <b>WorkFlows</b>: contains the main work flows for the ATM machine. Classes names that end with &quot;Workflow&quot; are the major workflows, and the ones that end with &quot;Activity&quot; are sub workflows.<br /> - <b>ServiceLocator</b>: A single ton class. Depends on the service locator famous pattern <a href=\"http://en.wikipedia.org/wiki/Service_locator_pattern\">http://en.wikipedia.org/wiki/Service_locator_pattern</a>. This is to help as a center point to access the screen or the current workflow.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WF,ATM,Sample,",
+  "LastEdited": "2014-11-02T03:15:54.21-08:00"
+}

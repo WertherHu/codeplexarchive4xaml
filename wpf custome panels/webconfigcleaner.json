@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webconfigcleaner",
+  "Title": "SharePoint 2010 Web Config Cleaner",
+  "Description": "A simple WPF application allowing you to list and delete registered SharePoint web.config changes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple WPF application allowing you to list and delete registered SharePoint web.config changes.<br /><br /><img src=\"http://www.ardella.be/codeplex/webconfigcleaner/screenshot.png\" /><br /><br />When doing SharePoint development, web.config changes may sometimes be a requirement. There is a special API available to correctly manage these changes. The problem is that sometimes these changes are also done manually causing a mixup between manual and controlled changes. This could lead to problems in the future. If controlled changes are deleted manually, SharePoint will try to put them back at a later controlled web.config change because the original entry, which was deleted manually, is still registered by SharePoint. This tool can help you to really get rid of these web.config changes.<br /><br />The application will create a connection to the web application you specify and will read the web.config changes that were registered. You will then be able to select one or more web.config changes and remove them.<br />There is a chance that the registered change will be deleted from the SharePoint configuration in the database but not in the web.config file itself. The process of deleting web.config changes is very sensitive to the way they were added.<br /><br /><b>If you have suggestions or questions you can always drop me an email.</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-17T11:19:22.397-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BraviaController",
+  "Title": "BraviaController",
+  "Description": "Control Sony Bravia 2013 edition",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Control Sony Bravia 2013 edition<br /><br /><br />MOVED TO GITHUB: <a href=\"https://github.com/mendel129/BraviaController\">https://github.com/mendel129/BraviaController</a><br /><br /><br />.net control your sony bravia!!!!!<br /><br /><br />Pretty bad code, but it works.<br />Cleanup is work in progress.<br /><br />&gt; basic control using upnp<br />&gt; register and advanced control using json<br /><br /><br />Some raw data: <a href=\"http://mendelonline.be/sony/\">http://mendelonline.be/sony/</a><br />Some readme&#39;s: <a href=\"http://mendel129.wordpress.com/tag/bravia/\">http://mendel129.wordpress.com/tag/bravia/</a><br /><br /><br /><br /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "sony,bravia,",
+  "LastEdited": "2017-04-19T06:45:13.807-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "imgresizer",
+  "Title": "Image Resizer (批量修改图片尺寸)",
+  "Description": "这是一个可以批量修改图片尺寸的小工具，并且支持多种缩放以及重命名的方式。目前只支持jpg图片。\n\n界面非常简单，大家可以直接去下载区下载。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">这是一个可以批量修改图片尺寸的小工具，并且支持多种缩放以及重命名的方式。目前只支持jpg图片。<br /><br />功能非常简单，大家可以直接去下载区下载下来试用。</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Image Resizer,WPF,批量,图片缩放,",
+  "LastEdited": "2011-03-09T05:47:30.233-08:00"
+}

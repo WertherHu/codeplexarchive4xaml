@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openquestions",
+  "Title": "OpenQuestions",
+  "Description": "OpenQuestions is the leading open source source for exam simulators.\n\nMain features:\n\n* All type of questions supported (single choice, multiple choice, open answers, matching, fill the gaps, etc)\n* Customisable appearance (look and feel) with themes.\n* Multi-lingual support.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Exams made easy</b><br />\n<ul><li>All type of questions supported (single choice, multiple choice, open answers, matching, fill the gaps, etc)</li>\n<li>Customisable appearance (look and feel) with themes.</li>\n<li>Multi-lingual support.</li>\n<li>Import/export questions from/to other systems.</li>\n<li>Configure exams, topics, questions, times, results, everything! </li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "exam,test,certification,evaluation,cba,cbe,",
+  "LastEdited": "2011-02-17T12:44:46.603-08:00"
+}

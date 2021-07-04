@@ -1,0 +1,9 @@
+{
+  "ProjectName": "solnick",
+  "Title": "3D Digital Clock for WPF",
+  "Description": "Project Description\n3D Digital clock is a modern and simple standalone desktop clock which used \nSys\nDigital clock for WPF using 3d model animation and need Framework 3.5.\nIt is developed in C# and XAML.\nAllways on top of your screen. You may drag window uzed left mouse button.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><i>Sorry for my English!</i><br />3D Digital clock is a modern and simple standalone desktop clock which used <br />System time.<br />Digital clock for WPF using 3d model animation and need Framework 3.5.<br />It is developed in C# and XAML.<br />3D Digital Clck Allways on top of your screen. You may drag window uzed left mouse button.<br /><br />*Цифровые часы - это приложение, которое использует функцию  Allways on top - Всегда наверху,<br />Часы можно таскать по экрану удерживая нажатой левую кнопку мыши в любое место.<br />Автор будет удовлетворен если Вы используете исходный код часов в своих разработках и благодарен если Вы сделаете при этом ссылку на<br />автора - solnick *<br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF 3D,Digital clock,XAML,VS2008,C#,",
+  "LastEdited": "2009-06-04T19:13:24.25-07:00"
+}

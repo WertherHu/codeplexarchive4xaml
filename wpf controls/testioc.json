@@ -1,0 +1,9 @@
+{
+  "ProjectName": "testioc",
+  "Title": "test ioc",
+  "Description": "Project showing Inversion Of control\r\nUsing -\r\nMVC\r\nDapper.Net\r\nSimple Injector",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nTest Project for showing IOC - Inversion of Control within MVC<br>\r\n<br>\r\n<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-26T09:04:52.76-08:00"
+}

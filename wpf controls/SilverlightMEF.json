@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightMEF",
+  "Title": "Silverlight load on demand with MEF",
+  "Description": "With MEF, a Silverlight control can be split in several packages(xap files). Each package can contain one or more pages and it will download on demand (when one of this page is requested). This sample uses MEF and INavigationContentLoader to load package on demand.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />With MEF, a Silverlight control can be split in several packages&#40;xap files&#41;. Each package can contain one or more pages and it will download on demand &#40;when one of this page is requested&#41;. This sample uses MEF and INavigationContentLoader to load package on demand.<br /><br /><br />See also : <br /><a href=\"http://www.michaelalbaladejo.com/post/2010/06/08/Silverlight-Chargement-a-la-demande-avec-MEF.aspx\">http://www.michaelalbaladejo.com/post/2010/06/08/Silverlight-Chargement-a-la-demande-avec-MEF.aspx</a> <br /><br />My others projects :<br /><a href=\"http://permissionmanager.codeplex.com\">http://permissionmanager.codeplex.com</a><br /><a href=\"http://asproutingconfig.codeplex.com\">http://asproutingconfig.codeplex.com</a><br /><a href=\"http://silverlightmef.codeplex.com\">http://silverlightmef.codeplex.com</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,MEF,",
+  "LastEdited": "2010-06-08T22:46:58.257-07:00"
+}

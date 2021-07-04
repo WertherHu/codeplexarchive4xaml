@@ -1,0 +1,9 @@
+{
+  "ProjectName": "phidgetsCom",
+  "Title": "A Command Line Tool For Phidgets 0/0/4 And 0/0/8",
+  "Description": "Easily control Phidgets 1014 (0/0/4 or 0/0/8) using the command line in your windows. No additional programming needed.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />phidgetsCom.exe <a href=\"https://phidgetscom.codeplex.com/wikipage?title=Serial%20Number%20-s&referringTitle=Home\">Serial Number -s</a> <a href=\"https://phidgetscom.codeplex.com/wikipage?title=Port%20Number%20-p&referringTitle=Home\">Port Number -p</a> <a href=\"https://phidgetscom.codeplex.com/wikipage?title=Output%20-o&referringTitle=Home\">Output -o</a><br /><br />-s=              Input the serial number on Phidgets 1014 or 1017 (If you have more than<br />\t one board attached to your pc, you need to input the serial number. Otherwise,just ignore it.)<br /><br />-p=              Input the output port number on Phidgets 1014(0,1,2,3) or 1017(0,1,2,3,4,5,6,7)<br /><br />-o=              -o=on (Value=true,Turn on) -o=off (Value=fale,Turn off)<br /><br />Examples:<br /><br />phidgetsCom.exe -p=0 -o=on  \t\t(It means turn on output port 0)<br />phidgetsCom.exe -p=1 -o=off  \t\t(It means turn off output port 1)<br />phidgetsCom.exe -s=1111 -p=2 -o=on  \t(It means turn on port 2 on the board which s/n is 1111)<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-02-09T16:07:03.663-08:00"
+}

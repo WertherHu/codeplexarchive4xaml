@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EmitDebugger",
+  "Title": "EmitDebugger",
+  "Description": "This is an assembly that generates a .il source file for emitted code with the correct breakpoints built-in for debugging purposes. It has the same binary interface with the Builder classes in System.Reflection.Emit to make it relatively painless to replace current code with this API.\n\nWARNING: This code is extremely alpha-based! It compiles and the tests pass, but it's woefully in need of more unit tests and code clean-up (but I wanted to publish it and get it under source control). I plan on adding more unit tests in the very near future.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project is now maintained here: https://github.com/JasonBock/EmitDebugging<br /><br /><b>Project Description</b><br />This is an assembly that generates a .il source file for emitted code with the correct breakpoints built-in for debugging purposes. It has the same binary interface with the Builder classes in System.Reflection.Emit to make it relatively painless to replace current code with this API.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Reflection,Emit,debugging,EmitDebugger,",
+  "LastEdited": "2014-05-17T08:29:08.987-07:00"
+}

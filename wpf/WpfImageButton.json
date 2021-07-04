@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfImageButton",
+  "Title": "A WPF ImageButton that uses pixel shader for dynamically change the image status",
+  "Description": "A WPF ImageButton that uses pixel shader for dynamically change the image status.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A WPF ImageButton that uses pixel shader for dynamically change the image status.<br /><br />There are two releases, one for FW 3.5 and another for FW 4.0.<br /><br />Coordinator: <a href=\"http://www.codeplex.com/site/users/view/teoarch\">Matteo Migliore</a>.<br />Italian blog: <a href=\"http://blogs.ugidotnet.org/matteomigliore\">http://blogs.ugidotnet.org/matteomigliore</a><br /><br />Contributor: <a href=\"http://www.codeplex.com/site/users/view/Duke360\">Mos&#232; Bottacini</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,PixelShader,",
+  "LastEdited": "2010-04-20T04:17:28.56-07:00"
+}

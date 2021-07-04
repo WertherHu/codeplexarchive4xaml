@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SampleTileAnimation",
+  "Title": "SampleTileAnimation",
+  "Description": "The Windows store application targets to create a Image to appear as a tile and Animate it using StoryBoard  feature using C# /Xaml code. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>While I was designing UI for &nbsp;one of my core project, I was implementing Story-boarding using C#/ xaml &nbsp;code &nbsp;just so I can have some animation with the displayed Tile. &nbsp;One of my colleague &nbsp;had an interesting question about how\r\n we can animate the Tile for ever with varied speed. We did implement that in the project, I thought of putting this sample in the codeplex so if someone is starting it up, can quickly look through this sample and implement Tile Animation using Storyboard feature.\r\n Wealth of information on this can be found in the MSDN link&nbsp;<a href=\"http://msdn.microsoft.com/en-us/library/windows/apps/br229564.aspx\">http://msdn.microsoft.com/en-us/library/windows/apps/br229564.aspx</a>&nbsp;. This sample would be a quick start for\r\n folks who are starting with Storyboard Animation.&nbsp;</p>\r\n<p><br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-10-08T23:33:58.227-07:00"
+}

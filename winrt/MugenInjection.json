@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MugenInjection",
+  "Title": "Mugen Injection",
+  "Description": "A lightweight and fast managed IoC (Inversion of Control) and DI (Dependency Injection) with support for constructor, property, field, and method call injection",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rThe MugeniInjection is a lightweight and fast managed IoC (Inversion of Control) and DI (Dependency Injection) with support for constructor, property and method call injection. For more information, see the <a href=\"https://mugeninjection.codeplex.com/documentation?referringTitle=Home\">documentation</a> and <a href=\"http://mugeninjection.codeplex.com/releases/view/103394\">examples</a>.<br /><i>If you have any ideas for future releases write them <a href=\"http://vvson.net/Projects/en-US/Documentation/mugen-injection-ideas#content\">here</a>.</i>\n<h2>Supported platforms:</h2>\r<ul><li>NET 2.0 - 4.5</li>\n<li>WinRT</li>\n<li>Silverlight 4-5</li>\n<li>Windows phone 7.1-8.0</li>\n<li><a href=\"http://vvson.net/Projects/en-US/Documentation/integration-mvc#content\">MVC 2-4</a></li>\n<li><a href=\"http://vvson.net/Projects/en-US/Documentation/integration-wcf#content\">WCF</a></li></ul>\n<h2>Extensions:</h2>\r<ul><li>NServiceBus.ObjectBuilder</li>\n<li><a href=\"http://vvson.net/Projects/en-US/Documentation/integration-interception#content\">Interceptors</a></li>\n<li>Xml configuration</li>\n<li><a href=\"http://vvson.net/Projects/en-US/Documentation/integration-logging#content\">Log4Net</a></li>\n<li><a href=\"http://vvson.net/Projects/en-US/Documentation/integration-logging#content\">NLog2</a></li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "dependency injection,Mugen Injection,C#,C# 2.0,Windows Phone 7,Silverlight,IOC,IoC/DI,Windows 8,WinRT,",
+  "LastEdited": "2013-04-03T01:33:40.857-07:00"
+}

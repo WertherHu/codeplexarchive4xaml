@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLAutoCompleteListBx",
+  "Title": "Silverlight 4 Custom AutoComplete with ListBox",
+  "Description": "A composite control that encapsulates SL4 Autocomplete and Listbox.  This composite control allows the user to type and find an item in the autocomplete control.  Upon keypress \"Enter\" or \"Return\" that list item will be trans to the list control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA composite control that encapsulates SL4 Autocomplete and Listbox controls. This composite control allows the user to type and find an item in the autocomplete control. Upon keypress &quot;Enter&quot; or &quot;Return&quot; that list item will be added to the listbox.&nbsp; The\r\n user can remove any item added to the listbox.&nbsp; The implementer or client hosting this control passed a List&lt;T&gt; to the control for the autocomplete control.&nbsp; The composite control exposes a List&lt;T&gt; that the implementer can read.</p>\r\n<p>This composite control is a direct result of a requirement.&nbsp; SEE Documentation tab for requirements listing.</p>\r\n<p>&nbsp;</p>\r\n<p>There is no releases.&nbsp; Please create an account on CodePlex and use VS 2010/TFS client to pull the source code from CodePlex's TFS system.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-22T05:38:01.52-07:00"
+}

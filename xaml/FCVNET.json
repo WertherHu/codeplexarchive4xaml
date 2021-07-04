@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FCVNET",
+  "Title": "FastCV_NET",
+  "Description": "FastCV_NET is a .NET wrapper to the FastCV Computer Vision Library originally by QualComm. FastCV_NET allows easy Windows Phone 8 CV app development through C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>FastCV_NET is a .NET wrapper to the FastCV Computer Vision Library by QualComm. FastCV_NET can be used to implement Computer Vision functionalities in Windows Phone 8 apps.</strong><br>\r\n<br>\r\nWhy use us? FastCV_NET allows Computer Vision development in Windows Phone in C#, allowing users to develop computer vision implementations easily in Windows Phone 8 Apps.<br>\r\n<br>\r\n<strong>Install Notes :</strong><br>\r\n<br>\r\n1. Be sure to get the latest update of Nuget Package Manager with Visual Studio 2013.\r\n<br>\r\n2. Go to the VIEW menu -&gt; Other Windows -&gt; Package Manager Console.<br>\r\n3. In the Package Manager Console type the following and press enter:<br>\r\n<br>\r\n<strong>Install-Package FastCV_NET.winmd</strong><br>\r\n<br>\r\n4. Go to BUILD Menu -&gt; Configuration Manager -&gt; Set <strong>Configuration</strong> to\r\n<strong>Release</strong> and <strong>Platform</strong> to <strong>ARM</strong>. These are must.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "xaml,opencv,computer vision,cv,windows phone,wp,wp cv,fastcv,augmented,reality,c#,image processing,image library,",
+  "LastEdited": "2014-07-23T12:32:05.077-07:00"
+}

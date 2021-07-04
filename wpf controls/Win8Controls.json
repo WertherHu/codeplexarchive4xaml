@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Win8Controls",
+  "Title": "Win8Controls",
+  "Description": "This project contains XAML based calendar control for WinRT / Windows Store Style application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project contains XAML based calendar control for WinRT / Windows Store Style application.<br /><br />Currently it comes with default blue template.  You can completely re-style the control, and sample project included with source code shows how to customize calendar item to add your own visuals, using declarative data binding that calendar supports.<br /><br />You can see the details and find out more about the control from this blog post<br /><a href=\"http://dotnetspeak.com/index.php/2012/11/building-a-calendar-control-for-winrt-in-xaml/\">http://dotnetspeak.com/index.php/2012/11/building-a-calendar-control-for-winrt-in-xaml/</a><br /><br />NuGet package is also available.  You can install if by typing the following into package manager console<br /><br />Install-Package Win8Controls<br /><br />Demo project is included in the download.<br />Please let me know if you would like to see features added.<br /><br /><img src=\"http://dotnetspeak.com/wp-content/uploads/2012/11/image_thumb.png\" /><br /><br /><img src=\"http://dotnetspeak.com/wp-content/uploads/2012/11/image_thumb1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WinRT,xaml,calendar,Calendar Control,Windows Store Apps,",
+  "LastEdited": "2012-11-17T12:20:54.233-08:00"
+}

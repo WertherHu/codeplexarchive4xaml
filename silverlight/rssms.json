@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rssms",
+  "Title": "Remote SQL Server Management Studio",
+  "Description": "Code name: RSSMS.\r\nRSSMS will be a simple Silverlight App, with which you will be able to manage your MS SQL server online.\r\nWhile doing some projects I found it sometimes difficult to work on locally hosted servers. So I always made some simple database manager for that.\r\n\r\nThis time it will have to be something more generic. The application will have to work for every possible database.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><span>Code name: RSSMS.</span><br>\r\n<span>RSSMS&nbsp;will be a simple Silverlight App, with which you will be able to manage your MS SQL server online.</span><br>\r\n<span>While doing some projects I found it sometimes difficult to work on locally hosted servers. So I always made some simple database manager for that.</span><br>\r\n<br>\r\n<span>This time it will have to be something more generic. The application will have to work for every possible database.</span></p>\r\n<p><span><br>\r\n</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-07T10:51:52.85-07:00"
+}

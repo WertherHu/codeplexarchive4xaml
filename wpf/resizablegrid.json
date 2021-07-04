@@ -1,0 +1,9 @@
+{
+  "ProjectName": "resizablegrid",
+  "Title": "WPF resizable grid",
+  "Description": "WPF resizable grid is a content control for WPF that lets the user resize its content at runtime.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF resizable grid is a content control for WPF that lets the user resize its content at runtime.<br /><br /><img src=\"http://i782.photobucket.com/albums/yy105/solidus5000/resizablegrid.png?t=1281691508\" /><br /><br />Take a look at the Documentation page for more info.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Grid,control,Runtime,resize,Resizable,content,",
+  "LastEdited": "2010-08-13T02:25:57.557-07:00"
+}

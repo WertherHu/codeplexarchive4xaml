@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PCWatchDog",
+  "Title": "PC WatchDog v1.0",
+  "Description": "PC Watch Dog Provides PC users security over three issues \r\n\r\nLogin Control\r\nData Packing\r\nDirectory Monitor\r\n\r\nProgrammed using C# and WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PC Watch Dog Provides PC users security over three issues <br /><br />Login Control<br />Data Packing<br />Directory Monitor<br /><br />Programmed using C&#35; and WPF<br /><br /><br />In today’s world Security matters a lot when it comes to computer data, and its application.PCWatch Dog was designed to provide such a Security on three aspects for a Windows PC. The aspects that PC Watchdog encounters are<br /><br /><b>1. Windows Login-Shutdown Activator</b><br />    A unique Windows Login for each of the User in PC. The Login for each person encounters a picture matching based login control where each user can select their own picture which acts as a key for their desktop login.<br /><br /><b>2. Data Packing-Data Capsule</b><br />    Data Capsule involves hiding your data in a picture or in a dll file format.<br />This provides secured data storage than password encrypted method.<br /><br /><b>3. Director Monitor</b><br />    If you share a directory with others but want no changes to occur in it, and want to monitor that directory, on what changes that are taking place inside it when you are not present. Then this is a solution for it! You can monitor a directory, and the changes can be reported to you by report file or even by an E-Mail sent to you every day. Switching it ‘on’ and ‘off’ is simple.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,PC Watch Dog,SkSoftin,",
+  "LastEdited": "2009-10-06T17:41:37.23-07:00"
+}

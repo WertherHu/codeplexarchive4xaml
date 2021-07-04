@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MatrixDashboard",
+  "Title": "WPF Matrix Rain Dashboard Gauge Control",
+  "Description": "This is a WPF control that looks like the Matrix Movie \"falling code\" or rain. Placed on a Modern UI page, this example tracks file transfers. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Overview</h2>\rThis is a WPF control that looks like the Matrix movie &quot;falling code&quot;.  In the example supplied in the source code, it tracks the activity of file transfers. <br /><br />Basically a short string representing an object being transferred is displayed in white vertically and scrolls downward, while random green characters trail behind and to the side. <br /><br />A short video of the control / gauge in action is at <a href=\"http://youtu.be/_2ys7-kSh14\">http://youtu.be/_2ys7-kSh14</a><br /><br /><img src=\"/projects/MatrixDashboard/c14c714d-fb5b-45aa-aafb-35da13a73c40\" alt=\"Modern_UI_Gauges.png\" title=\"Modern_UI_Gauges.png\" /><br />\n<h2>Details</h2>\rUse of a background worker is made to update the telemetry object so that the GUI does not look jerky or slow down. <br />\n<h2>Background</h2>\rInspiration for this comes from several other Matrix projects that were Console based, but this uses the WPF System.Windows.Media framework instead. <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,c#,matrix,dashboard,gauges,gauge,",
+  "LastEdited": "2013-08-15T08:26:14.87-07:00"
+}

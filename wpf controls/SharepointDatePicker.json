@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SharepointDatePicker",
+  "Title": "Sharepoint Date Picker Control for ghosted application pages.",
+  "Description": "This control can be a good alternative to [url:WSS's DateTimeControl|http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webcontrols.datetimecontrol.aspx] as this guy also gives you option to directly jump years.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Sharepoint Date Picker Control</b> </h1>\rThis control can be a good alternative to <a href=\"http://msdn.microsoft.com/en-us/library/microsoft.sharepoint.webcontrols.datetimecontrol.aspx\">WSS&#39;s DateTimeControl</a> as this guy also gives you option to directly jump years.<br /><br /><img src=\"http://lh3.ggpht.com/baig.adil/SIHyFp5PbxI/AAAAAAAAAUg/XTq_fAhwiC0/datePicker_demoPage.GIF\" /><br /><br />for related posting see:<br /><a href=\"http://baigadil.blogspot.com/2008/07/date-picker-control-for-sharepoints.html\">http://baigadil.blogspot.com/2008/07/date-picker-control-for-sharepoints.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MOSS,MOSS 2007,ASP.NET 2.0,SharePoint 2007,Custom Controls,",
+  "LastEdited": "2008-07-19T09:18:55.96-07:00"
+}

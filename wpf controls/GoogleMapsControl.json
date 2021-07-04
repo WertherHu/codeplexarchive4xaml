@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GoogleMapsControl",
+  "Title": "Google Maps Control",
+  "Description": "Google Maps Control is an ASP.NET server control that is used to encapsulate the generation of JavaScript that is needed to render a Google Map. Developers are free to interact with the control declaratively through the designer or programmatically using the code behind. Google Maps Control also supports databinding and the static map generation (images).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Google Maps Control is an ASP.NET server control that is used to encapsulate the generation of JavaScript that is needed to render a Google Map. Developers are free to interact with the control declaratively through the designer or programmatically using the code behind. Unlike other integration layers that you may have looked at Google Maps Control also supports databinding.<br /><br />Google Maps Control also supports the static map generation available from Google Maps. In the same way that a developer can interact with a JavaScript map they can also create static maps, images, using the Google Maps Control.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-08-23T17:08:04.497-07:00"
+}

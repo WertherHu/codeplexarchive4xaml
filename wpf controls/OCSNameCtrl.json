@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OCSNameCtrl",
+  "Title": "Rendering presence within IBM Lotus Connections using Microsoft OCS Name Control",
+  "Description": "This project documents and demonstrates using the Microsoft Communicator clients name control, how to provide presence awareness within a IBM Lotus Connections iWidget and Business card.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Rendering presence within IBM Lotus Connections using the Microsoft Office Communicator&#39;s Name Control</b><br />This project documents and demonstrates using the Microsoft Communicator clients name control, how to provide presence awareness within a IBM Lotus Connections iWidget and Business card.<br />This article and sample code demonstrates using the Microsoft Office Communicator&#39;s Name Control to display Microsoft OCS Presence within an IBM Lotus Connections iWidget, and the Lotus Connections business card.<br /><br />This project contains documentation and sample code.<br /><br />A video of the results can be seen here <a href=\"http://www.youtube.com/watch?v=niSkk6_aLx4\">http://www.youtube.com/watch?v=niSkk6_aLx4</a><br /><br />People who found this project useful, may also find this related project helpful <a href=\"http://iwidgetpresence.codeplex.com\">http://iwidgetpresence.codeplex.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-03T08:23:06.267-08:00"
+}

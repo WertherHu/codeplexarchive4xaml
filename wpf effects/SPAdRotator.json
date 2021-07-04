@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPAdRotator",
+  "Title": "SharePoint Ad Rotator",
+  "Description": "SPAdRotator is a SharePoint Web Part that can randomly display images from a SharePoint library. Images can be displayed either one at a time (a new random image is selected every time the page is loaded), or all images can be displayed using a transition effect.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SPAdRotator is a SharePoint Web Part that can randomly display images from a SharePoint library. Images can be displayed either one at a time &#40;a new random image is selected every time the page is loaded&#41;, or all images can be displayed using a transition effect.<br />\n<h4>Live Demo</h4>\rA live demo is available <a href=\"http://demo.sectorpoint.com/Pages/SPAdRotator.aspx\">here</a>.<br /><br />Click on the <b>Downloads</b> tab to download the SharePoint solution.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,AdRotator,WebPart,Random,Rotator,Banner,Web Part,Image,Random Picture,Cycle,Rotate,image rotator,",
+  "LastEdited": "2010-06-27T12:06:30.94-07:00"
+}

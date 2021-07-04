@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hostprofiles",
+  "Title": "Host Profiles",
+  "Description": "Host Profiles is small tool to control, switch and management the hosts file of the computer.\r\nThe hosts file is located in \"c:\\windows\\system32\\drivers\\etc\\hosts\".",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>Host Profiles is a cross platofrm host file management tool. Quickly switch host profiles and flush dns&nbsp;automatically.&nbsp;<br>\r\n<strong>&nbsp;</strong></p>\r\n<p><strong>Requirement:</strong></p>\r\n<ul>\r\n<li>Windows:&nbsp;\r\n<ul>\r\n<li>.Net framework 2.0 and upper. </li></ul>\r\n</li><li>Linux:&nbsp;\r\n<ul>\r\n<li>Mono 1.2 and upper </li><li>root access </li><li>nscd Service </li><li>ifconfig commmand </li></ul>\r\n</li></ul>\r\n<p><strong>Linux help</strong></p>\r\n<ul>\r\n<li>Ubuntu 10.0 Tested </li></ul>\r\n<p><br>\r\nCurrently, only root user can launch the program.<br>\r\nPlease launch the program like this:<br>\r\n<em>sudo mono HostProfiles.exe</em></p>\r\n<p><strong>Screen Shot</strong></p>\r\n<ul>\r\n<li>Windows 7 </li></ul>\r\n<p style=\"padding-left:30px\"><img src=\"http://download.codeplex.com/Download?ProjectName=hostprofiles&DownloadId=282282\" alt=\"\" width=\"894\" height=\"447\"></p>\r\n<ul>\r\n<li>Ubuntu 10.0 </li></ul>\r\n<p style=\"padding-left:30px\"><img src=\"http://download.codeplex.com/Download?ProjectName=hostprofiles&DownloadId=282285\" alt=\"\"></p>\r\n<p>&nbsp;</p>\r\n<p>The author's blog is available here: <a href=\"http://www.shootsoft.net\">Shoot Sun Studio</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-17T07:51:52.563-07:00"
+}

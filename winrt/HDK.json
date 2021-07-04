@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HDK",
+  "Title": "HDK - WinRT MVVM and MEF Friendly Prism Framework port",
+  "Description": "HDK - is a \"spare-time\" framework for WinRT development.\r\nSolution consists of:\r\n- MVVM\r\n- Event Aggregator\r\n- PRISM\r\n- other useful extensions\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />HDK - is a &#34;spare-time&#34; framework for WinRT development.<br />Solution consists of&#58;<br />- MVVM<br />- Event Aggregator<br />- PRISM<br />- other useful extensions<br /><br /><br /><br />I&#39;ve migrated Prism from SL to WinRT, it was a hard work.<br />I&#39;ve stripped all Unity references and updated its code to use MEF and EventAggregator instead.<br /><br />ps: Its code is far from ideal but still good enough to operate as it was designed :)<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WinRT,Windows 8,MVVM,MEF,event aggregation,Navigation,Prism,collections,Async,Metro UI,",
+  "LastEdited": "2012-10-24T02:40:12.42-07:00"
+}

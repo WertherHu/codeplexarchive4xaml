@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DragAnimatedPanel",
+  "Title": "Drag Animated Panel",
+  "Description": "DragAnimatedPanel is a WPF (Window Presentation Fundation) panel that lets you drag and rearrange elements of animation.\r\nIt's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nDragAnimatedPanel is a WPF (Window Presentation Fundation) panel that lets you drag and rearrange elements of animation.<br>\r\nIt's developed in C#.<br>\r\n<br>\r\n</p>\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=draganimatedpanel&DownloadId=358318\" alt=\"\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Usefull,WPF,Panel,Animation,Drag&Drop,",
+  "LastEdited": "2012-03-23T15:02:01.89-07:00"
+}

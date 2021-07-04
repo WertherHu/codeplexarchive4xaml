@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Tard",
+  "Title": "Simple Framework for MVVM",
+  "Description": "A MVVM related framework for Silverlight (and probably works in WPF) for slow duck tape programmers like my self.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A MVVM related framework for Silverlight &#40;and probably works in WPF&#41; for slow duck tape programmers like my self.   <br /><br />this project has been moved to  <a href=\"http://SimpleMVVM.codeplex.com/\">http://SimpleMVVM.codeplex.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,Silverlight,Silverlight Controls,WPF,Silverlight 3,design patterns,fun,best practices,WPF Toolkit,antipatterns,Framework,",
+  "LastEdited": "2010-02-01T23:58:27.79-08:00"
+}

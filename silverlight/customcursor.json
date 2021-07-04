@@ -1,0 +1,9 @@
+{
+  "ProjectName": "customcursor",
+  "Title": "Custom Cursor for Metro APP XAML Based",
+  "Description": "It's a porting program from Nielsen for win 8 Metro Style app XAML based.\r\noriginal: http://www.sharpgis.net/post/2011/05/09/Custom-Cursors-in-Silverlight.aspx",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Custom Cursor For Metro App Xaml based</strong><br>\r\nFor some reqs, some special&nbsp;apps&nbsp;need customized cursor&nbsp;to enhance the user experience.</p>\r\n<p>Some solution generates the cursor icon from C&#43;&#43; code, that seems so wired in overall C#/VB Xaml based app, so this is a version for the Windows 8 metro app and XAML based.</p>\r\n<p>Actually It is a porting project from Morten Nielsen's idea in Silverlight, so bellow is the Nielsen's link:</p>\r\n<p><a href=\"http://www.sharpgis.net/post/2011/05/09/Custom-Cursors-in-Silverlight.aspx\">http://www.sharpgis.net/post/2011/05/09/Custom-Cursors-in-Silverlight.aspx</a></p>\r\n<p>Bellows are the features:</p>\r\n<p>1, Supports the normal state cursor customization using DataTemplate.</p>\r\n<p>2, Supports the drag or holding state cursor customization using DataTemplate.</p>\r\n<p>Following are&nbsp;some screenshots:</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=customcursor&DownloadId=547576\" alt=\"code snippet\" width=\"595\" height=\"73\"></p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=customcursor&DownloadId=547579\" alt=\"demo\" width=\"589\" height=\"359\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows 8,XAML,Custom Cursor,Metro,winRT,",
+  "LastEdited": "2012-12-13T07:57:05.023-08:00"
+}

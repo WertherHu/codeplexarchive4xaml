@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DeepLinking",
+  "Title": "Silverlight Deep Linking",
+  "Description": "This project will show you how to add Deep Linking to your Siverlight application in four simple steps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project will show you how to add Deep Linking to your Siverlight application in four simple steps.<br /><br />In summary:<br /><br />1. Add Frame control in MainPage.xaml<br />2. Add URI Routing using UriMapper<br />3. Add your pages to the application<br />4. Add navigation links to your MainPage.xaml<br /><br />The step by step guide for this project can be found at <a href=\"http://www.silverlighttips.com/?tag=/deep+linking\">http://www.silverlighttips.com/?tag=/deep+linking</a>.<br /><br />For more information or to learn about similar projects go to <a href=\"http://www.silverlighttips.com/\">SilverlightTips.com</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-12-03T07:58:56.673-08:00"
+}

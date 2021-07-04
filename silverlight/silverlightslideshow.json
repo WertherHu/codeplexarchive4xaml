@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightslideshow",
+  "Title": "Silverlight Slideshow",
+  "Description": "Silverlight Slideshow is a light-weight and fully functional image slideshow built using Silverlight 1.0. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Slideshow is a light-weight and fully functional image slideshow built using Silverlight 1.0. <br /><br /><b>Features</b>\n<ul><li>Support for many slide transition types </li>\n<li>Smart image scaling and full screen mode </li>\n<li>Slides defined in external XML file with support for paging. Allows for smooth integration with 3rd party image providers (like Flickr, Picasa, etc).</li>\n<li>Fast start-up and advanced memory management based on paging, image preloading and unloading. Capable of handling extreme large slideshows containing up to 250,000(!) images. </li>\n<li>Customizable look &amp; feel </li>\n<li>Proper progress reporting and error handling </li>\n<li>Small download; uncompressed JScript sources take ~50KB. </li>\n<li>Multi-platform support. Thanks to Silverlight, the slideshow runs in Internet Explorer, Firefox and even on the Mac! IE and Firefox usage has been thorougly tested. Since I don&#39;t own a Mac, I&#39;m not sure how it behaves on that platform. If you have any issues, please let me know! </li></ul>\n<br />Visit the <a href=\"http://www.firstfloorsoftware.com/Slideshow\">Silverlight Slideshow page</a> on my personal site and watch the demos to get an idea of what this Slideshow is capable of.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MyList,Silverlight,Slideshow,*,sil,",
+  "LastEdited": "2008-01-02T11:04:17.243-08:00"
+}

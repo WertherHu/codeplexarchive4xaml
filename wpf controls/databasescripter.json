@@ -1,0 +1,9 @@
+{
+  "ProjectName": "databasescripter",
+  "Title": "DatabaseScripter",
+  "Description": "DatabaseScripter scripts objects out of Microsoft SQL Server into single files and adds them to TFS source control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DatabaseScripter scripts objects out of Microsoft SQL Server into single files and adds them to TFS source control.<br /><br />This process could be automated by using builds and/or scheduled tasks which are run on a regular basis. Please check the <a href=\"https://databasescripter.codeplex.com/documentation?referringTitle=Home\">documentation</a> for configuration guides.<br /><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-25T22:46:14.587-08:00"
+}

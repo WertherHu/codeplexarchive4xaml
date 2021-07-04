@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dataconnectionsuite",
+  "Title": "Data Connection Suite",
+  "Description": "Data Connection Suite is a set of easy to use data connection string builder dialogs & controls ready to be integrated in any .NET application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Data Connection Suite is a set of easy to use data connection string builder dialogs &#38; controls ready to be integrated in any .NET application.<br /><br />The aim of Data Connection Suite is to allows developers to provide easy database connection configuration for their user especially if they create DBMS-agnostic code (for example using nHibernate). It currently supports MySql, Oracle &amp; SQL Server.<br /> <br />Roadmap/Todo:<br /> <br />- Integrate more data connection controls including Firebird, Postgre, SQLite and more.<br />- Create documentation.<br />- Create web based version of the controls.<br />- Create DBMS selection controls.<br /> <br />This controls suite is free of charge, but is not supported by us. If you need support or custom integration, feel free to buy the support plan at www.agilecomponents.com.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-25T02:00:10.517-07:00"
+}

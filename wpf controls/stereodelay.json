@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stereodelay",
+  "Title": "Stereo Delay - VST Plugin",
+  "Description": "Stereo Delay - it's a VST plugin. Independent delay line for both channels. You can control delay time (up to 1s), low pass filter and panorama for delay signal",
+  "MovedLink": "https://github.com/sharki13/stereodelay",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />\n<h1>Due to codeplex shutdown project moved to GitHub:</h1>\r<h1><a href=\"https://github.com/sharki13/stereodelay\">https://github.com/sharki13/stereodelay</a></h1>\r\nI hope that we will see there!<br /><br />Stereo Delay - it&#39;s a VST plugin. Independent delay line for both channels. You can control delay time &#40;up to 1s&#41;, low pass filter and panorama for delay signal<br /><br />Created with JUCE Framework, VST SDK 2.4 and MSVC++.<br /><br />Screenshot:<br /><img src=\"http://dl.dropbox.com/u/9852330/images/stereodelay_screen.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-11-08T15:28:28.837-08:00"
+}

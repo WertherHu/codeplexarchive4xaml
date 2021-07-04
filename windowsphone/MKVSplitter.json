@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MKVSplitter",
+  "Title": "MKVSplitter",
+  "Description": "提供EBML文件格式的简单解析，并实现Silverlight和WIndowsPhone下Matroska的MediaStreamSource。提供一个接口，并开发各种第三方解码插件。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />提供EBML文件格式的简单解析&#65292;并实现Silverlight和WIndowsPhone下Matroska的MediaStreamSource&#12290;提供一个接口&#65292;并开发各种第三方解码插件&#12290;<br />使用C#实现的MKV文件格式的解析程序<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Matroska,MediaStreamSource,WindowsPhone,MKV,",
+  "LastEdited": "2013-11-20T19:37:23.47-08:00"
+}

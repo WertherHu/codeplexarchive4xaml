@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinectbutton",
+  "Title": "Kinect Button",
+  "Description": "This project is to help you get started writing WPF applications for the Kinect sensor.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a project to help you get started in writing WPF applications for the Kinect sensor.<br /><br />Months ago, when the beta version of the Kinect SDK was released, I had read an article(<a href=\"http://www.diaryofaninja.com/blog/2011/10/19/remaking-the-xbox-kinect-hub--an-introduction-to-new-user-intErfaces\">http://www.diaryofaninja.com/blog/2011/10/19/remaking-the-xbox-kinect-hub--an-introduction-to-new-user-intErfaces</a>). This provided a way of using your hand to invoke button click handlers just like in the Xbox Kinect Hub. But since the Kinect SDK got updated to v1.0(and subsequently to v1.5), I did not find any updated version. So, I went ahead and created this project.<br /><br />It uses the Hoverbutton control of the Coding4Fun Kinect Toolkit.<br />Read more about it on my blog:<a href=\"http://sandreddy.wordpress.com/2012/07/12/kinect-button/\">http://sandreddy.wordpress.com/2012/07/12/kinect-button/</a><br /><br />Watch a demonstration below:<br /><a href=\"http://www.youtube.com/watch?v=4-Qr9lOwGnU\">http://www.youtube.com/watch?v=4-Qr9lOwGnU</a><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "kinect,hover button,kinect hub,",
+  "LastEdited": "2012-07-12T07:35:33.37-07:00"
+}

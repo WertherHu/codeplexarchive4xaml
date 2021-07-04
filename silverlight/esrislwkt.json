@@ -1,0 +1,9 @@
+{
+  "ProjectName": "esrislwkt",
+  "Title": "Esri Silverlight Wkt Parser",
+  "Description": "Esri Silverlight Wkt Parser is a refactoring of some SharpMap code.  It supports adds WKT (well known text) geometry parsing to ESRI's Silverlight APIs",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Esri Silverlight Wkt and Wkb Parser is an Well Known Text / Well Known Binary parser for ESRI&#39;s ArcGIS API for Silverlight.  It&#39;s LGPL licensed, as it is derived from MapSUI / SharpMap.<br /><br /><b>References</b><br /> <a href=\"http://help.arcgis.com/en/webapi/silverlight/index.html\">ArcGIS API for Silverlight</a><br /> <a href=\"http://mapsui.codeplex.com\">Mapsui</a><br /> <a href=\"http://sharpmap.codeplex.com\">SharpMap</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-03T11:21:41.613-07:00"
+}

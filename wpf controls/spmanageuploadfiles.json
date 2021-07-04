@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spmanageuploadfiles",
+  "Title": "Manage upload files for SP 2010",
+  "Description": "The feature is responsible for management uploading file size using file extensions (i.e: .txt), control upload document into library and attachments for lists.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Manage upload files for SP 2010</b> is a feature is responsible for management upload file size for specific extensions. The administrator can manage  extensions (add/remove/edit). The feature will be installed on site collection only and can manage upload size files. <br /><br /><b>How does it work?</b><br /><img src=\"/projects/spmanageuploadfiles/b7f48bdd-dec3-4efb-8df9-2a9ecd89ee78\" alt=\"animated.gif\" title=\"animated.gif\" /> <br /><br /><b>Source code</b> is here: <a href=\"https://github.com/Fabiarm/spsmfiles/tree/master/2010\">https://github.com/Fabiarm/spsmfiles/tree/master/2010</a><br /><br /><b>Version 1.0.0:</b>\n<ul><li>Manage upload file size on specific application page</li>\n<li>Simple in use</li>\n<li>Simple installation</li>\n<li>Work on:\n<ul><li>SharePoint Foundation 2010</li>\n<li>Sharepoint Server 2010 (Standard, Enterprise)</li></ul></li>\n<li>Localized: \n<ul><li>English</li>\n<li>Russian</li></ul></li></ul>\n<br /><b>Requirements</b>\n<ul><li>For Use\n<ul><li>Internet Explorer 8.0 and higher</li>\n<li>FireFox 14.0 and higher</li>\n<li>Chrome 22.0 and higher</li></ul></li>\n<li>For Development\n<ul><li>IDE - Visual Studio 2010</li>\n<li>SharePoint Foundation 2010 / SharePoint Server 2010 (Standard, Enterprise)</li></ul></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "file size,sharepoint,sharepoint 2010,sharepoint file size,manage file size,",
+  "LastEdited": "2015-07-07T04:44:07.94-07:00"
+}

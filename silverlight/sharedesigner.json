@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharedesigner",
+  "Title": "workflow designer based on silverlight",
+  "Description": "a workflow designer developed in silverlight.\n基于silverlight的工作流设计器",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>基于silverlight的工作流设计器 (a workflow designer developed in silverlight) </h1>\rvisit <a href=\"http://www.shareidea.net/opensource.htm?comefrom=codeplex\">http://www.shareidea.net/opensource.htm?comefrom=codeplex</a> for more information.\n<h2>功能列表:(function list)</h2>\r<ul><li>design workflow by drag-down</li>\n<li>export to xml</li>\n<li>import from xml</li>\n<li>undo and redo</li>\n<li>copy ,paste, align,</li>\n<li>group select, group delete, group move</li>\n<li>Ctrl+A/C/V/Z , Delete,Up,Down,Left,Right keyboard supportted</li>\n<li>content menu</li>\n<li>Zoom</li></ul>\n<h2>在线演示(online demo )</h2>\r<a href=\"http://www.shareidea.net/workflow.htm\">http://www.shareidea.net/workflow.htm</a>\n<h2>视频教程(video)</h2>\r<a href=\"http://www.shareidea.net/video/sharedesigner/sharedesigner.html\">http://www.shareidea.net/video/sharedesigner/sharedesigner.html</a> \n<h2>开发环境</h2>\rvs2008+sp1,silverlight2.0,window xp(window2003以及silverlight3.0beta版本环境下有问题)<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "workflow,Silverlight,Designer,工作流,设计器,开源,SilverlghtWorkflos,",
+  "LastEdited": "2009-06-24T20:41:09.207-07:00"
+}

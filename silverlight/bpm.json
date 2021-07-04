@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bpm",
+  "Title": "BPM",
+  "Description": "1) parallel job execution using \"PULL\" mode\n2) silverlight based workflow designer, rule designer, report designer\n3) workflow activities include\n- Core tools (email, trigger)\n- text mining tools\n- ETL tools\n4) real-time monitor",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />1&#41; parallel job execution using &#34;PULL&#34; mode<br />2&#41; silverlight based workflow designer, rule designer, report designer<br />3&#41; workflow activities include<br />- Core tools &#40;email, trigger&#41;<br />- text mining tools<br />- ETL tools<br />4&#41; real-time monitor<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-08-28T20:45:19.033-07:00"
+}

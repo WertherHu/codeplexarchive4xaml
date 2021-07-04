@@ -1,0 +1,9 @@
+{
+  "ProjectName": "colorbox",
+  "Title": "ColorBox (WPF Gradient Color Picker)",
+  "Description": "This tool/control lets you create solid, linear gradient and radial gradient brushes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThis tool&#47;control lets you create solid, linear gradient and radial gradient brushes.<br />This control can be used within any WPF application targeting .Net Framework 4.0 or higher.<br /><br />\n<h1>Behavior</h1>\r<img src=\"http://s27.postimg.org/cjy5th0ib/colorbox1_1.png\" /><br /><br />\n<h1>Properties/Events</h1>\r\n<table><tr><th> Property </th><th> Description </th></tr>\n<tr><td> Color             </td><td> Gets/Sets the currently selected color. </td></tr>\n<tr><td> Brush             </td><td> Gets/Sets the currently selected brush. </td></tr></table><br /><br /><table><tr><th> Event </th><th> Description </th></tr>\n<tr><td> ColorChanged</td><td> Occurs when the Color value changes. </td></tr></table><br />\n<h1>Acknowledgements</h1>\r\nAdapted the ButtonSpinner and NumericUpDown controls from <a href=\"https://wpftoolkit.codeplex.com/\">Extended WPF Toolkit</a><br />\n<h1>Please</h1>\r\nAny reviews and suggestions would be greatly appreciated to improve this tool and make it more useful.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Gradient,Brush,Color,",
+  "LastEdited": "2014-10-04T22:03:20.383-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "okra",
+  "Title": "Okra App Framework",
+  "Description": "The Okra App Framework supports the development of Windows Store applications, in particular those implementing the MVVM pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThe Okra App Framework supports the development of Windows Store applications, in particular those implementing the MVVM pattern.<br />\n<h2>The Okra App Framework is now hosted on GitHub.</h2>\r\n<ul><li>Visit the new website at <a href=\"http://okraframework.github.io\">http://okraframework.github.io</a></li>\n<li>Browse the source code at <a href=\"http://github.com/OkraFramework\">http://github.com/OkraFramework</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows 8,MVVM,Navigation,Virtualization,Metro,WinRT,",
+  "LastEdited": "2014-08-07T13:28:32.723-07:00"
+}

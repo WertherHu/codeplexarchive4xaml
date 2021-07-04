@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CsharpQueryString",
+  "Title": "Silverlight QueryString examples",
+  "Description": "Great examples on validating different QueryString values in Silverlight and C# using Extension methods and TryParse().",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Great examples on validating different QueryString values in Silverlight and C# using Extension methods and TryParse().<br /><br />Visit <a href=\"http://silverlighttips.com/?tag=/querystring\">http://silverlighttips.com/?tag=/querystring</a> to see the the working version live and for full details and tutorial.<br /><br /><br /><b>Related Topics:</b><br /><a href=\"http://silverlighttips.com/post/2009/09/30/GettingQueryStringTryParse.aspx\">Silverlight QueryString using TryParse() method</a><br /><a href=\"http://silverlighttips.com/post/2009/10/07/SilverlightGUID.aspx\">Validate GUID in Silverlight – Parse GUID in C#</a><br /><a href=\"http://silverlighttips.com/post/2009/10/06/SilverlightExtension.aspx\">Extension methods in Silverlight and C#</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-07T11:34:20.93-07:00"
+}

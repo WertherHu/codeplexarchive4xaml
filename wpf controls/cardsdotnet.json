@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cardsdotnet",
+  "Title": "Cards.NET",
+  "Description": "A class library with 3 classes representing a Deck, a Hand and a Card.\n\nThe deck can be with or without jokers, with or without cards lower than 7.\n\nIncluded are 2 projects with visual presentations of (draggable) cards and hands using a Custom Control. A Windows Forms version an",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />A class library with 3 classes representing a Deck, a Hand and a Card.<br /><br />The deck can be with or without jokers, with or without cards lower than 7.<br /><br />Included are 2 projects with visual presentations of &#40;draggable&#41; cards and hands using a Custom Control. A Windows Forms version an<br /><br />CardsForms:<br /><br /><img src=\"/projects/cardsdotnet/20e7fb05-49a6-49d7-9ead-da923c213353\" alt=\"CardsForms.jpg\" title=\"CardsForms.jpg\" /><br /><br />CardsMobile:<br /><br /><img src=\"/projects/cardsdotnet/c6f71d36-70a9-42de-b306-e104897eba64\" alt=\"CardsMobile.jpg\" title=\"CardsMobile.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Cards,card,card game,Carte,",
+  "LastEdited": "2007-12-05T16:16:20.043-08:00"
+}

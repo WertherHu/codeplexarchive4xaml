@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ajaxcontrolextenders",
+  "Title": "AJAX Control Extenders",
+  "Description": "A group of ajax control extenders to be added to as I develop them.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A library of control extenders based around the ASP.Net AJAX Control Toolkit. The intent is to add to these as needs arise,  eventually developing a functional toolset of extenders for everyday use. <br /><br />You will need version 3.0.20229 of the ASP.Net AJAX Control Toolkit <a href=\"http://www.codeplex.com/AtlasControlToolkit/Release/ProjectReleases.aspx?ReleaseId=11121\">http://www.codeplex.com/AtlasControlToolkit/Release/ProjectReleases.aspx?ReleaseId=11121</a> as a reference in your project to utilise these extenders. See the demo project in the source for an example.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.Net,AJAX,Control Extender,",
+  "LastEdited": "2008-03-27T03:24:39.927-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharepointajax",
+  "Title": "SharePoint AJAX Toolkit for SharePoint 2010 and 2013",
+  "Description": "A toolkit for AJAX Programming within Microsoft SharePoint Server 2010",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Home Page</b><br />Welcome to Daniel Larson&#39;s XML/XSLT AJAX Toolkit for SharePoint. <br /><br />Note:  This project DOES NOT provide any support for working with the &quot;Ajax Control Toolkit&quot;. <br /><br />This is a base framework built for deploying client-side AJAX Web Parts and controls that work against web services and Xml feeds utilizing both the ASP.NET AJAX framework and JQuery. <br /><br />Note that future releases will stop using the ASP.NET AJAX library, however we have not removed the dependency entirely from this codebase. The JavaScript library is not dependent on SharePoint, you could use it anywhere. <br /><br />Project contact: me@ danlarson dot com.<br />Read dan&#39;s blog: <a href=\"http://www.danlarson.com\">http://www.danlarson.com</a><br /><br />To deploy, download the source code package, and use Visual Studio to deploy. <br /><br />NewsGator Customers: this WSP is shipped with Social Sites for SharePoint Server 2010 and 2013. Please use the version we include with the release. <br /><br />If you are opening the source code, you will need the Ajax Minifier from here: <a href=\"http://ajaxmin.codeplex.com/\">http://ajaxmin.codeplex.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Atlas,Ajax,Sharepoint,WSS,AJAX Control Toolkit,web parts,WSS 3.0,Daniel Larson,Inside WSS,myfav,SharePoint Dev,Sharepoint ajax,SP-Developer,SP-Download,",
+  "LastEdited": "2012-08-29T11:04:05.44-07:00"
+}

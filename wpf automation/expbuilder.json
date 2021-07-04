@@ -1,0 +1,9 @@
+{
+  "ProjectName": "expbuilder",
+  "Title": "Expression Builder",
+  "Description": "The purpose of this project is to provide reusable UI framework (WPF) for building expressions. For example, an expression \"Name is \"A\" and Age is 10\" could be represented by a tree consisting of a LogicalExpression \"AND\" with two children ComparisionExpressions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The purpose of this project is to provide reusable UI framework &#40;WPF&#41; for building expressions. For example, an expression &#34;Name is &#34;A&#34; and Age is 10&#34; could be represented by a tree consisting of a LogicalExpression &#34;AND&#34; with two children ComparisionExpressions.<br /><br />Main screen:<br /><img src=\"/projects/expbuilder/2171fd25-64c2-4abe-8f6f-f71f19ee8634\" alt=\"eb1.png\" title=\"eb1.png\" /><br /><br />Validation in action:<br /><img src=\"/projects/expbuilder/3af50cd4-feb3-448d-b767-9e4a1780ce7b\" alt=\"eb2.png\" title=\"eb2.png\" /><br /><br />In order to add new expressions to the tree, click on &quot;+&quot; sign:<br /><img src=\"/projects/expbuilder/05ba4182-abc4-47fd-a019-c23f2d988837\" alt=\"eb3.png\" title=\"eb3.png\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,Custom Controls,C#,Custom Panels,",
+  "LastEdited": "2011-12-31T12:49:47.42-08:00"
+}

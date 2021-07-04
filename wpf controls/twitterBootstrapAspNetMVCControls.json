@@ -1,0 +1,9 @@
+{
+  "ProjectName": "twitterBootstrapAspNetMVCControls",
+  "Title": "twitterBootstrapAspNetMVCControls",
+  "Description": "Asp.net MVC Controls based on twiiter Boostrap( a beautiful html & css framework  published by Twitter).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\ntwitter Bootstrap Asp.net MVC Controls is based on twitter Boostrap html &amp; css framework published by Twitter.</p>\r\n<p>It provides friendly html helpers for asp.net MVC projects using&nbsp;Boostrap .</p>\r\n<p>Before you add references from this project ,you should run &quot;<span>Install-Package twitter.bootstrap.mvc4&quot; (for more in click\r\n<a href=\"http://www.nuget.org/packages/twitter.bootstrap.mvc4\">http://www.nuget.org/packages/twitter.bootstrap.mvc4</a>) in vs for your own project.</span></p>\r\n<p>In razor view, we can write a sentence like this</p>\r\n<p>&quot;@Html.BootstrapModalDialog(some parameters)&quot;</p>\r\n<p>then there will be a button ,when click it , there will show a modal dialog show, just like&nbsp;<a href=\"http://getbootstrap.com/2.3.2/javascript.html#modals\">http://getbootstrap.com/2.3.2/javascript.html#modals</a>.</p>\r\n<p>so, this is why&nbsp;<span style=\"font-size:10pt\">twitterBootstrapAspNetMVCControls is here.</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-07-30T00:21:11.403-07:00"
+}

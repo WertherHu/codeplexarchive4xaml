@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AmazonGlacierGUI",
+  "Title": "AmazonGlacierGUI  - GUI Client for Amazon Glacier  | WPF",
+  "Description": "a GUI client for amazon glacier ,\r\nWritten in .NET 4, C#,WPF,MVVM & RavenDB for storage",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Amazon Glacier GUI</strong></p>\r\n<p>a GUI client for amazon glacier ,<br>\r\nWritten in .NET 4, C#,WPF,MVVM &amp; RavenDB for storage</p>\r\n<p><img src=\"https://lh3.googleusercontent.com/-F7_4KaNg0LM/UGiVlBmmI-I/AAAAAAAADZw/sh5Mi3mpkzM/s800/AmazonGlacierGUI.png\" alt=\"\"></p>\r\n<p><strong>Features</strong></p>\r\n<p>* Pause / start jobs.. jobs can be resumed .. <br>\r\n* Jobs are stored in a database , so we can close the app &amp; come back resume jobs</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-30T11:59:32.25-07:00"
+}

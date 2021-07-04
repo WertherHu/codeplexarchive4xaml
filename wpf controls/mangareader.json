@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mangareader",
+  "Title": "WPF Manga Reader",
+  "Description": "This is quite simple WPF-based manga and comics reader, written in C#. It utilizes functionality of WPF to provide good user experience, in particular, reality-like page flipping.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is quite simple WPF-based manga and comics reader, written in C&#35;. It utilizes functionality of WPF to provide good user experience, in particular, reality-like page flipping.<br /><br />All credits for Book Control go to <a href=\"http://blogs.msdn.com/mitsu/default.aspx\">Mitsu</a>.<br />.NET framework 3.0 is required to run Manga Reader.<br /><br /><b>Requirements for manga projects:</b>\n<ul><li>Folder structure must be as following:\n<ul><li>&lt;Manga title&gt;\n<ul><li>&lt;Volume number&gt;</li>\n<li>&lt;Volume number&gt;</li>\n<li>&lt;Volume number&gt; <i>etc.</i></li></ul></li></ul></li>\n<li>Each volume can have inside chapter subfolders, OR is can contain image files themselves.</li>\n<li>JPEG, PNG and GIF are only supported.</li>\n<li>When adding new manga project, adding cover image is NECESSARY.</li></ul>\n<img src=\"/projects/mangareader/349378ef-e73e-4a04-8fd7-84c57b4baf89\" alt=\"Screenshot1.png\" title=\"Screenshot1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "manga; comics,",
+  "LastEdited": "2009-11-06T02:02:13.96-08:00"
+}

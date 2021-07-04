@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SmartTravel",
+  "Title": "DEV-WOW SmartTravel",
+  "Description": "SmartTravel is an entry in the DEV-WOW competition but still a real product which is a Windows application based on WPF and Web Service. \nWith SmartTravel you can view Sights or the recommanded Journeys by tour agency, find Hotels and manage your personal tour history and much more other tour info on your desktop.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SmartTravel is an entry in the DEV-WOW competition but still a real product which is a Windows application based on WPF and Web Service. <br />With SmartTravel you can view Sights or the recommanded Journeys by tour agency, find Hotels and manage your personal tour history and much more other tour info on your desktop.<br /><br /><b>Solution Summary</b><br />  Development Applications:<br />    Expression Blend <br />    Visual Studio 2008 Beta 2<br /><br />  Technology Highlights:<br />    WPF/XAML/C# <br />    XML Data Binding <br />    Data Visualization <br /><br /><b>The Travel Info License</b><br />All travel info used by SmartTravel is licensed by <a href=\"http://www.xutour.com\">http://www.xutour.com</a> which is owned by the <b>CYTS International Department</b> of Chengdu, <br />Distribute  travel info is not allowed. Please check this link for more info:<a href=\"http://www.xutour.com/help/PrivacyPolicy.htm\">http://www.xutour.com/help/PrivacyPolicy.htm</a>.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-01-24T05:54:59.96-08:00"
+}

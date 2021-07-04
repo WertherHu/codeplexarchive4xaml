@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TwitterRt",
+  "Title": "TwitterRt - Tweet from Windows Metro Apps",
+  "Description": "Add the ability to tweet from your WinRT application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">TwitterRt - Post Tweets from WinRT / Metro Style applications.<br /><br />Binaries available at: <a href=\"http://nuget.org/packages/TwitterRt\">http://nuget.org/packages/TwitterRt</a><br /><br />How to use it: <a href=\"http://w8isms.blogspot.com/2012/05/posting-to-twitter-from-metro-in-c.html\">http://w8isms.blogspot.com/2012/05/posting-to-twitter-from-metro-in-c.html</a><br /><br />How it works: <a href=\"http://w8isms.blogspot.com/2012/07/twitterrt-design.html\">http://w8isms.blogspot.com/2012/07/twitterrt-design.html</a><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-07-27T11:41:39.387-07:00"
+}

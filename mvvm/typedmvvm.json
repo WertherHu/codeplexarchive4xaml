@@ -1,0 +1,9 @@
+{
+  "ProjectName": "typedmvvm",
+  "Title": "TypedMVVM - Simple MVVM for TypeScript, Cordova and Universal Windows apps",
+  "Description": "TypedMVVM is a collection of samples and libraries for using TypeScript and MVVM with Cordova, Windows Store and Universal apps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>TypedMVVM is a collection of samples and libraries for writing Apache Cordova multi-platform (iOS, Android, Windows, Windows Phone)&nbsp;and&nbsp;<strong>Universal Windows apps (targeting\r\n</strong>Windows Store, Windows Phone 8.1 and&nbsp;Xbox One) using WinJS, TypeScript and MVVM.</strong></p>\r\n<p><img src=\"http://www.davidezordan.net/blog/wp-content/uploads/2014/10/TypedMVVM_Cordova.png\" alt=\"TypedMVVM Cordova sample\" width=\"600\" height=\"338\" style=\"margin-left:auto; display:block; margin-right:auto\"></p>\r\n<p><strong><img src=\"http://www.davidezordan.net/blog/wp-content/uploads/2014/04/TypedMVVMWindowsPhoneSample.png\" alt=\"\" width=\"600\" height=\"338\" style=\"margin-left:auto; display:block; margin-right:auto\"></strong></p>\r\n<p><img src=\"http://www.davidezordan.net/blog/wp-content/uploads/2014/04/TypedMVVMWindows81Sample.png\" alt=\"\" width=\"600\" height=\"338\" style=\"margin-left:auto; display:block; margin-right:auto\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-11-16T06:17:28.01-08:00"
+}

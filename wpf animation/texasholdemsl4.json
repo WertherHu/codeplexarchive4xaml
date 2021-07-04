@@ -1,0 +1,9 @@
+{
+  "ProjectName": "texasholdemsl4",
+  "Title": "Texas Hold 'Em (Silverlight 4) (2011)",
+  "Description": "The objective of this project is to create a very exact approximation of a game of Texas Hold' Em as it's played in American casinos.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The objective of this project is to create a very exact approximation of a game of Texas Hold&#39; Em as it&#39;s played in American casinos.  <br /><br />Particular emphasis is given to the use of LINQ to determine the winning poker hands and to properly assess kickers when ties occur.  Poker hands use the IComparable interface.  <br /><br />In its native state, you are pitted against four other players.  Your default is an AI player, but the code has a feature to allow you to play as a human and raise a dialog when it&#39;s your turn to bet.<br /><br />In this initial release, a basic (and highly rudimentary) betting module is included in order to make the product complete from end-to-end.  Full betting remains an area for further development.<br /><br />There is a modest battery of unit tests included in order to gain confidence that the poker hand comparison logic is bug free.<br /><br />This application is not intended to ultimately become a commercial offering, but rather it&#39;s for Silverlight developers to have some FUN experimenting with different AI personalities and betting strategies.<br /><br /><img src=\"http://www.londonelegance.com/tyburn-consultancy/wpf/images/texasholdem.jpg\" /><br /><br /><br /><br />Author:  Garry Vass (WPF/Silverlight Specialist)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C# 4.0,silverlight 4,Custom Controls,Animation,LINQ,card game,Texas Hold'em,Simulation,",
+  "LastEdited": "2011-11-23T04:10:50.347-08:00"
+}

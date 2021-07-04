@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GenerateP4SpecForm",
+  "Title": "Generate Perforce Specification Form",
+  "Description": "Simple console app to generate files for use as Perforce Specification Forms. Allows scripts and automated processes to use the P4 command without any user intervention. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple console app to generate files for use as Perforce Specification Forms. Allows scripts and automated processes to use the P4 command without any user intervention. <br /><br /><b>Background</b><br />Scripting against Perforce in Windows is difficult as most commands require user input via Specification Forms. This tool allows you to generate Spec Forms on the fly, so you can create them from variables in a script.<br /><br />See: <a href=\"http://geekswithblogs.net/EltonStoneman/archive/2008/04/04/scripting-branch-creation-in-perforce.aspx\">Scripting Branch Creation in Perforce</a><br /><br /><b>Contents</b><br />Source code; sample files to demonstrate creation of different types of Spec Form; sample script to automate creation of a branch from a codeline.<br /><br /><b>Future Work</b><br />Could be extended to work as an MSBuild task, but for the prupose of creating branches, the console app is sufficient.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Perforce,Scripting,Automation,",
+  "LastEdited": "2008-04-04T09:30:32.913-07:00"
+}

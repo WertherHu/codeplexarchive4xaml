@@ -1,0 +1,9 @@
+{
+  "ProjectName": "markdownexplorer",
+  "Title": "Markdown Explorer",
+  "Description": "Simple WPF4 Markdown document preview application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple WPF4 Markdown document preview application.<br /><br />ClickOnce installer will associate <b>*.md</b> and <b>*.mkd</b> files with the application so the previewer will handle them.<br /><img src=\"/projects/markdownexplorer/83f7ad7b-5c16-48ca-a645-4b834e1e6653\" alt=\"Main&#32;window\" title=\"Main&#32;window\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MarkDown,wpf,c#,",
+  "LastEdited": "2012-02-27T02:07:46.27-08:00"
+}

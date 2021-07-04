@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TunlrSync",
+  "Title": "Tunlr.Sync",
+  "Description": "Tunlr.net Sync client",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Tunlr.Sync</strong></p>\r\n<p>Tunlr.net sync client.</p>\r\n<p><strong>&nbsp;<img src=\"/projects/TunlrSync/f302848a-d132-4411-9318-f0deddb6d862\" alt=\"Tunlr.Sync Main WIndow\" width=\"260\" height=\"350\"></strong></p>\r\n<p><strong>Tunlr.Sync</strong> is a small application that seats in your Systemtray and allows you to set one of your network adapter&rsquo;s DNS IP addresses to Tunlr&rsquo;s DNS resolvers. The application checks with\r\n<strong><a title=\"Tunlr.net\" href=\"http://www.Tunlr.net\">Tunlr.net</a></strong> the current DNS addresses and validate with those configured in your Network adapter keeping them\r\n<strong>Up To Date</strong>.</p>\r\n<p>You will never be using outdated DNS addresses anymore!</p>\r\n<p>At the moment the application is still in <em><strong>Beta phase</strong></em> so expect some small bugs. In any case if you found one of those bug's or have some suggestions, just let me know\r\n<strong>leaving a comment</strong>.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Tunlr.Sync&nbsp;</strong>requires&nbsp;<a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=30653\">.NET framework 4.5</a>&nbsp;or higher.</p>\r\n<p><img src=\"http://www.softpedia.com/base_img/softpedia_free_award_f.gif\" alt=\"\" width=\"170\" height=\"116\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "tunlr,hulu,netflix,dns,sync,modern ui,metro,",
+  "LastEdited": "2013-12-01T20:11:40.747-08:00"
+}

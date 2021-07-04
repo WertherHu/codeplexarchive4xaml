@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OOBExtension",
+  "Title": "Silverlight OOB Extension",
+  "Description": "Silverlight OOB extension for offline data caching. Silverlight 3 brings the out-of-browser (OOB) feature. Perfect for the offline use of Silverlight applications. The only problem is data access. The Silverlight OOB extension helps with this problem and caches data.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight OOB extension for offline data caching. Silverlight 3 brings the out-of-browser &#40;OOB&#41; feature. Perfect for the offline use of Silverlight applications. The only problem is data access. The Silverlight OOB extension helps with this problem and caches data.<br /><br /><b>Welcome</b><br />Silverlight OOB extension is currently under development. If you are interested in joining this project as a developer, please send me a message.<br /><br /><b>Tutorials and How-To&#180;s</b><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=oobextension&amp;title=Small%20Startup%20Guide\">Small Startup Guide</a>.<br />Video for Small Startup Guide <a href=\"http://www.youtube.com/watch?v=idBE-yXfeDA\">here</a>.<br /><br /><b>News and Blog posts</b><br />heise.de - German biggest IT-News <a href=\"http://www.heise.de/developer/Neues-Open-Source-Projekt-Silverlight-OOB-Extension--/news/meldung/139737\">Neues Open-Source-Projekt: Silverlight OOB Extension</a><br />My German blog post for Silverlight OOB extension: <a href=\"http://www.dotnet-blog.net/post/2009/06/02/Neues-Open-Source-Projekt-Silverlight-OOB-Extension.aspx\">Neues Open-Source Projekt: Silverlight OOB Extension</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2009-06-03T02:38:05.48-07:00"
+}

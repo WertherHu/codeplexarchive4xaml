@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CustomCSharpControls",
+  "Title": "Custom CSharp Controls",
+  "Description": "The aim of this project is to provide you (the user) with controls that have desired functionality built into them.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The aim of this project is to provide you &#40;the user&#41; with controls that have desired functionality built into them.<br /><br />At the moment the only control is an extended textbox that can serve as a numeric textbox or as a letter only textbox with additional properties that can be set.<br /><br />All ideas and feedback are very welcome!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Controls,Custom Controls,numeric textbox,C# 4.0,Extended Textbox,",
+  "LastEdited": "2011-08-17T07:35:44.783-07:00"
+}

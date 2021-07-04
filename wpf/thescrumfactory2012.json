@@ -1,0 +1,9 @@
+{
+  "ProjectName": "thescrumfactory2012",
+  "Title": "Scrum Factory 2012",
+  "Description": "This is the newest and improved version of The Scrum Factory.\r\nScrum Factory is a client-server application that helps teams to conduct software development projects using Scrum methodology.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><br>\r\nThis is the newest and improved version of The Scrum Factory.<br>\r\nScrum Factory is a client-server application that helps teams to conduct software development projects using Scrum methodology.<br>\r\n<br>\r\n<br>\r\nIt has a very reach client interface and currently has the following key features:</p>\r\n<ul>\r\n<li>Authentication with Google login or Windows authentication </li><li>Project portfolio </li><li>Backlog management </li><li>Team allocation </li><li>Task assignment </li><li>Risk management </li><li>Project Monitoring using burndown charts, budget, quality, deadline and velocity indicators\r\n</li><li>Project proposal management </li></ul>\r\n<p>Check <a title=\"www.scrum-factory.com\" href=\"http://www.scrum-factory.com\">www.scrum-factory.com</a> for more details.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Scrum,Project Management,WPF,backlog,task,project,mps,agile,",
+  "LastEdited": "2012-10-10T10:17:56.747-07:00"
+}

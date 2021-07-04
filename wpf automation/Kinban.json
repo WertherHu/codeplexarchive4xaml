@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Kinban",
+  "Title": "Kinban",
+  "Description": "Kinect + TFS\r\n\r\nThis is a WPF representation of a Kanban board that can be manipulated with the Kinect.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Kinect &#43; TFS<br /><br />This is a WPF representation of a Kanban board that can be manipulated with the Kinect.<br /><br /><b>Pre-Requisites</b>\n<ul><li>AutoIt V3 - <a href=\"http://www.autoitscript.com/site/autoit/downloads/\">http://www.autoitscript.com/site/autoit/downloads/</a></li>\n<li>Kinect SDK - <a href=\"http://kinectforwindows.org/download/\">http://kinectforwindows.org/download/</a></li>\n<li>Team Foundation Server client - Included as part of your Visual Studio Premium installation</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-15T13:07:17.753-08:00"
+}

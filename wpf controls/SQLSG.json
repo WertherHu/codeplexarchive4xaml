@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SQLSG",
+  "Title": "SQL Database script generation for Visual Studio 2008",
+  "Description": "This project host a Visual Studio Add-In for creating schema scripts, stored procedures and views from SQL Server.  Basically, with a couple of clicks you can generate all your tables, stored procedures, and views as individual scripts with DROP/Add statements for foreign keys, constraints, etc.  Sure makes life easy for creating build scripts, and working under source control. :)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project host a Visual Studio Add-In for creating schema scripts, stored procedures and views from SQL Server.  Basically, with a couple of clicks you can generate all your tables, stored procedures, and views as individual scripts with DROP&#47;Add statements for foreign keys, constraints, etc.  Sure makes life easy for creating build scripts, and working under source control. &#58;&#41;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MyList,SQL,SQL scri[[,SQL scripting,",
+  "LastEdited": "2008-02-25T09:14:09.453-08:00"
+}

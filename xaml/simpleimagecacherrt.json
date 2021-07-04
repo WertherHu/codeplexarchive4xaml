@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simpleimagecacherrt",
+  "Title": "SimpleImageCacherRT",
+  "Description": "WinRT用の単純な画像キャッシングライブラリです。Windows.UI.XAML.Controls.ImageクラスのSourceにバインドして使えるようなものを目指します。しかし目標は飽くまで目標である…",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WinRT用の単純な画像キャッシングライブラリです&#12290;Windows.UI.XAML.Controls.ImageクラスのSourceにバインドして使えるようなものを目指します&#12290;しかし目標は飽くまで目標である&#8230;<br /><br /><b>使い方</b><br />まずアプリケーションの開始直後に初期化します。<br /><pre>\nawait SimpleImageCacherRT.SimpleImageCacher.Instance.InitAsync();\n</pre><br /><br />使いたいリモート画像のURLを入れます。<br /><pre>\nvar image = new Windows.UI.XAML.Controls.Image();\nstring path = SimpleImageCacherRT.SimpleImageCacher.Instance.GetImageURLString(&quot;http://path/to/object/image/file&quot;);\nimage.Source = new BitmapImage(new Uri(path));\n</pre><br /><span class=\"codeInline\"> GetImageURLString() </span>メソッドは、キャッシュがない場合は入れられたURLをそのまま返してバックグラウンドで画像のダウンロードをはじめてキャッシュします。キャッシュがあった場合は、キャッシュファイルのファイルパスを返します。<br /><br />キャッシュを消したい場合は、消去フラグを立てます。<br /><pre>\nSimpleImageCacherRT.SimpleImageCacher.Instance.SetClearFlag();\n</pre><br />次回、<span class=\"codeInline\"> InitAsync() </span>を実行した時にキャッシュがすべて削除されます。<br />（キャッシュファイルが開かれているときにはファイルを削除できないため）<br /><br /><b>ライセンス</b><br />このライブラリはMS-PLライセンスの下で提供されます。</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-30T09:37:51.12-07:00"
+}

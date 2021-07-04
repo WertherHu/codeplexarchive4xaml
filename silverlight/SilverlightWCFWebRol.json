@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightWCFWebRol",
+  "Title": "Silverlight Front end calling WCF Service in Azure Web Role",
+  "Description": "I  recently written a sample which has Windows Azure Web Role with Silverlight front end, calling to WCF service which is hosted in the same Windows Azure Web Role. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nI recently written a sample which has Windows Azure Web Role with Silverlight front end, calling to WCF service which is hosted in the same Windows Azure Web Role.\r\n<br>\r\n<br>\r\n<br>\r\nPlease visit my blog to get sample walk through:<br>\r\n<a title=\"http://blogs.msdn.com/b/avkashchauhan/archive/2011/11/29/silverlight-front-end-calling-to-wcf-service-all-in-one-windows-azure-web-role-sample.aspx\" href=\"http://blogs.msdn.com/b/avkashchauhan/archive/2011/11/29/silverlight-front-end-calling-to-wcf-service-all-in-one-windows-azure-web-role-sample.aspx\">http://blogs.msdn.com/b/avkashchauhan/archive/2011/11/29/silverlight-front-end-calling-to-wcf-service-all-in-one-windows-azure-web-role-sample.aspx</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-29T11:56:23.483-08:00"
+}

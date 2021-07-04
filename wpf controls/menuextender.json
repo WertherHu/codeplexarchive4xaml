@@ -1,0 +1,9 @@
+{
+  "ProjectName": "menuextender",
+  "Title": "Menu Extender for ASP.NET",
+  "Description": "The MenuExtender is an ASP.NET extender which will turn hierarchial HTML lists (rendered with UL and LI) into a multi-level dynamic cascading menu. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rThe MenuExtender is an ASP.NET extender which will turn hierarchial HTML lists &#40;rendered with UL and LI&#41; into a multi-level dynamic cascading menu.  This extender can extend plan HTML, a BulletList control, or the HierList control at <a href=\"http://hierlist.codeplex.com\">http://hierlist.codeplex.com</a>. The MenuExtender combined with the HierList can make menus out of site maps, external XML files, XML from POX servers, and XPathDocuments from data layers. <b>MenuExtender is now available through NuGet</b>\n<h2>Vertical:</h2>\r<img src=\"https://lh4.googleusercontent.com/-byBZkrBNpiw/TlGtA8PbcpI/AAAAAAAACZ0/xfk3_nsHBjA/menuExtender.png\" /><br />\n<h2>Horizontal:</h2>\r<img src=\"https://lh4.googleusercontent.com/-s5lqGRWzp5I/TnfGGvGmy9I/AAAAAAAACZ8/SBieGXVUpi4/menuextender-horizontal.png\" /><br />\n<h2>Features</h2>\r<ul><li>Horizontal &amp; vertical menu rendering</li>\n<li>Full keyboard support (tab, arrows, and excape keys)</li>\n<li>Supported by all the latest major browsers</li>\n<li>508 compliant</li>\n<li>Utilizes jQuery for smaller client-side footprint</li>\n<li>CSS style sheet driven complete control over appearance</li>\n<li>Menu closing delay to prevent accidental menu closing</li></ul>\n<b>Requirements</b>\n<ul><li>The AjaxControlToolkit (no client scripts are used)</li>\n<li>jQuery</li></ul>\n<b>Examples</b><br />A series of samples are provided to demonstrate the key features of the menu extender.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "menu,asp.net,Extenders,ajax,AJAX Control Toolkit,jQuery,horizontal menu,cascading menu,",
+  "LastEdited": "2015-06-22T11:01:24.36-07:00"
+}

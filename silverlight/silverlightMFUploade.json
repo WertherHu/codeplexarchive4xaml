@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightMFUploade",
+  "Title": "Silverlight Multi-file Chunk based uploader",
+  "Description": "Silverlight 4.0 MFUploader is a basic multi-file uploader using chunks. This uploader has a progress bar to monitor file sends and many exposed properties/events to allow customization. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nSilverlight 4.0 MFUploader is a multi-file uploaded. This project can be used by itself to replace things like Uploadify or can be integrated into any silverlight program via simple user control.</p>\r\n<p>Using a ashx handeler to reassemble the file chunks on the server.</p>\r\n<p>Upload progress is shown via progress bar but easy to monitor from exposed events.</p>\r\n<p>Template of the control is basic and easy to change.</p>\r\n<p>Exposed events for -Before upload, File Uploaded, All Files Completed, and Error</p>\r\n<p>properties exposed allow the user to set multi-upload, GUID file naming, upload path, file filter and more.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>This is my first control, if anyone has improvement ideas or requires more information I will check the posts here often.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-02T06:33:09.383-07:00"
+}

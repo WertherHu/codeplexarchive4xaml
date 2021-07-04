@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hamsternet",
+  "Title": "Hamster.Net",
+  "Description": "Porting the \"Java Hamster Model\" to the .Net-Framework. This project is far from finished. And will slowly develop further.\r\nThe software is currently pre-alpha and not really useful at all, but this will hopefully change soon.\r\n\r\nThe Hamster Model is a learning environment for programming. A hamster is placed on a territory wich can contain walls and grains. The programmer can use simple commands to navigate the hamster and control its behaivor.\r\nThe Hamster Model is quite helpful for learning imperative programming.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Porting the &#34;Java Hamster Model&#34; to the .Net-Framework. This project is far from finished. And will slowly develop further.<br />The software is currently pre-alpha and not really useful at all, but this will hopefully change soon.<br /><br />The Hamster Model is a learning environment for programming. A hamster is placed on a territory wich can contain walls and grains. The programmer can use simple commands to navigate the hamster and control its behaivor.<br />The Hamster Model is quite helpful for learning imperative programming.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-10T07:16:53.45-08:00"
+}

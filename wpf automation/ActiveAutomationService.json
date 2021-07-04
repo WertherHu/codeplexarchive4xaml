@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ActiveAutomationService",
+  "Title": "Active Automation Service",
+  "Description": "Home Automation Service, for Z-Wave or IP wireless devices.\r\nWritten in C# to allow automation of devices with custom plugs being able to be added.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<div>Active&nbsp;Automation Service will be a base platform written in C# to allow people to create their own plugins that can be ran by the service.</div>\r\n<div>&nbsp;</div>\r\n<div>Will have the ability to add, edit and alter current plugins of you home automation service.</div>\r\n<div>&nbsp;</div>\r\n<div>Z-Wave network with be staring point,</div>\r\n<div>Then will look to add in IP handler for wireless devices</div>\r\n<div>And possible other handlers.</div>\r\n<div>&nbsp;</div>\r\n<div>If you wish to be part of this project then please contact a coordinator</div>\r\n<div>using the contact member feature of codeplex.</div>\r\n<div>&nbsp;</div>\r\n<div>&nbsp;</div>\r\n<div>&nbsp;</div>\r\n<div>&nbsp;</div>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-08-09T12:15:44.69-07:00"
+}

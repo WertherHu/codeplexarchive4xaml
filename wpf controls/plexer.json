@@ -1,0 +1,9 @@
+{
+  "ProjectName": "plexer",
+  "Title": "Parallel Port Multiplexer",
+  "Description": "Controlling parallel port output pins and ability to multiply the port using bit shift registers IC.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Parallel Port Interfacing in .NET<br /><br />Originally wrote for my Home Automation system controlling multiple lights using bit shift IC&#39;s (MC74HC95) and relays.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-18T06:57:01.79-07:00"
+}

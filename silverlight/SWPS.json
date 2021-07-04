@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SWPS",
+  "Title": "Silverlight Web Parts for SharePoint",
+  "Description": "This project will provide a set of integrated Silverlight web parts that can be activated as \"Features\" on SharePoint 2007 (WSS, MOSS).\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project will provide a set of integrated Silverlight web parts that can be activated as &#34;Features&#34; on SharePoint 2007 &#40;WSS, MOSS&#41;.<br /><br /><br /><br /><b>**Silverlight Web Parts for SharePoint **</b><br /><br />This project will provide a series of sample projects on using Silverlight with SharePoint. <br />Initial release of source code and samples will follow soon.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,MOSS,WSS,Silverlight,SP-Developer,WSS Silverlight part,",
+  "LastEdited": "2007-11-22T13:12:06.83-08:00"
+}

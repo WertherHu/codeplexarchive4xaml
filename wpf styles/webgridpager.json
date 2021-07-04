@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webgridpager",
+  "Title": "WebGridPagerReplacement",
+  "Description": "A replacement pager for WebGrid that uses the styling of Twitter Bootstrap.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Check out the blog post <a href=\"https://webgridpager.codeplex.com/wikipage?title=here&referringTitle=Home\">here</a>(http://www.mdobie.co.uk/2012/12/02/webmatrix-webgrid-re-working-the-pager/).<br /><br /><b>Usage</b><br />Add the class to the `App_Code` directory.<br /><br />Initialize the grid at the top of your webpage like normal<br /><br />   WebGrid grid = new WebGrid(source)<br /><br />To render the table with the new pager you need call them separately, this will render the grid and a list (ul / li) pager below.<br /><br />    @grid.Table(<br />        columns: grid.Columns(<br />            ...<br />       )<br />   )<br />   @grid.PagerList(mode: WebGridPagerModes.All)<br /><br /><br />To render the pager with Bootstrap styling add in the additional classes<br /><br />    @grid.Table(<br />        tableStyle: &quot;table table-striped table-hover&quot;,<br />        columns: grid.Columns(<br />            ...<br />        )<br />    )<br />    &lt;div class=&quot;pagination pagination-small pagination-right&quot;&gt;<br />        @grid.PagerList(mode: WebGridPagerModes.All)<br />    &lt;/div&gt; <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-01T07:08:39.723-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simplescroller",
+  "Title": "SimpleScroller",
+  "Description": "This is module for DotNetNuke 5.x, to show a simple box with vertically scrolling text inside.\n\nThe view and style can be customizable.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is project from CodexStar International. <br />A simple DNN module to show a scrolling text in the box that could be placed anywhere on the page.<br />The look is fully customizable on the Edit page.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-08-28T08:20:37.727-07:00"
+}

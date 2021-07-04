@@ -1,0 +1,9 @@
+{
+  "ProjectName": "backgroundmotion",
+  "Title": "Background Motion",
+  "Description": "Background Motion is a community site allowing the public to contribute or find content for use with Windows DreamScene.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Background Motion is a community site allowing the public to contribute or find content for use with Windows DreamScene.<br /><br />BackgroundMotion is live at <a href=\"http://www.backgroundmotion.com\">http://www.backgroundmotion.com</a> - You can visit the site to use the learning resources to find out more about how BackgroundMotion was developed and how you can apply the same technologies and techniques to your development.<br /><br />We have now uploaded 3 release files containing source code for BackgroundMotion. The first is the standard source code for BackgroundMotion which requires Visual Studio 2005. The second is a branch of the project updating it to be compatible with Visual Studio 2008 Beta 2, and the third is a branch of the project compatible with Visual Studio 2008 RTM. Take a look at the 2008 releases if you interested in checking out some of the new LINQ and ASP.NET AJAX features.<br /><br />We welcome any feedback or feature additions you may have. Grab the code either via the &quot;Releases&quot; tab or on the &quot;Source Code&quot; tab above.<br /><br />Happy coding!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Community,patterns &amp; practices,dependency injection,MVP,LINQ TO SQL,Repository,BackgroundMotion,DreamScene,ASP.NET Sample,Unit of Work,Inversion of Control,Data Binding,ASP.NET 3.5,Starter Kit,cool,",
+  "LastEdited": "2008-01-07T08:38:10.03-08:00"
+}

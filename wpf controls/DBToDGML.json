@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DBToDGML",
+  "Title": "DB To DGML",
+  "Description": "This project enables generation of a DGML visualisation model of SQL Server databases.\r\nThis DGML model utilises nodes and groups for database, schemas, tables and then the field values (differentiating primary / foreign key and optional fields).\r\nCurrently UI is a basic C# WPF app",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project enables generation of a DGML visualisation model of SQL Server databases.<br />This DGML model utilises nodes and groups for database, schemas, tables and then the field values &#40;differentiating primary &#47; foreign key and optional fields&#41;.<br />Currently UI is a basic C&#35; WPF app<br /><br />NOTE: You will need to have VS2010 Ultimate edition to view the DGML generated files.<br /><br />Example Screenshot (of piece of Northwind database in DGML) at <a href=\"http://dbtodgml.codeplex.com/releases/view/49489#DownloadId=138582\">http://dbtodgml.codeplex.com/releases/view/49489#DownloadId=138582</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-27T02:40:49.853-07:00"
+}

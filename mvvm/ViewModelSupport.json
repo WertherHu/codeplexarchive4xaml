@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ViewModelSupport",
+  "Title": "ViewModelSupport",
+  "Description": "This is not an MVVM framework.  It is just the base class I use to reduce the friction when writing ViewModels.  Making it public to share my ideas.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is not an MVVM framework.  It is just the base class I use to reduce the friction when writing ViewModels.  Making it public to share my ideas.<br /><br /><b>I have moved this code over to Github: <a href=\"https://github.com/BrianGenisio/ViewModelSupport\">https://github.com/BrianGenisio/ViewModelSupport</a></b><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-08-21T03:24:05.73-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "courier",
+  "Title": "Courier",
+  "Description": "Decoupled message passing framework.\r\n\r\nA simple framework for sending messages between objects. Useful in highly decoupled systems where traditional .NET event patterns are undesirable. \r\n\r\nSupport for WPF, Silverlight, and WP7. Optional add on DLL provides Reactive Exentions (Rx) supports. Full suite of unit tests to show usage of each platform.\r\n\r\nBlog post series: http://www.bradcunningham.net/labels/Courier.html",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br />WE MOVED TO GITHUB:<br /><a href=\"https://github.com/Foovanadil/Courier\">https://github.com/Foovanadil/Courier</a><br /><br /><br />Leaving Codeplex repo around for commit history purposes.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,WPF,mediator,messaging,",
+  "LastEdited": "2014-11-13T17:11:31.29-08:00"
+}

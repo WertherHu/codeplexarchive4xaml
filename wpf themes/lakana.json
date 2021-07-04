@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lakana",
+  "Title": "Lakana - WPF Framework",
+  "Description": "A set of lightweight frameworks, aimed to tackle some tricky problems encountered by WPF/MVVM application deelopers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2><span style=\"font-family:'Segoe UI'\">Project Description </span></h2>\r\n<p><span style=\"font-family:Segoe UI\"><strong>Lakana </strong>is a set of lightweight frameworks which main goal is to tackle some tricky problems that Windows Presentation Foundation developers can encounter very often, especially when they use the Model View\r\n View-Model design pattern. <br>\r\nIt is composed of two independent yet compatible products :</span></p>\r\n<ul>\r\n<li><span style=\"font-family:Segoe UI\"><a title=\"Lakana WPF Navigation\" href=\"http://lakana.codeplex.com/documentation\">Lakana WPF Navigation</a> : that offers an easy to use and lightweight navigation framework.</span>\r\n</li><li><span style=\"font-family:Segoe UI\"><a title=\"Lakana WPF Forms\" href=\"http://lakana.codeplex.com/documentation\">Lakana WPF Forms\r\n</a>: a lightweight framework that offers features for editable data forms such as asynchronous validation, error notifications management, fluent API and so forth.</span>\r\n</li></ul>\r\n<p><strong>Lakana v1</strong> is composed by onlythe former product, that is the navigation framework. The current version is\r\n<strong>Lakana v2</strong>.</p>\r\n<p><a href=\"http://www.nuget.org/packages/Lakana/\">Lakana is now available on Nuget.</a></p>\r\n<p><em style=\"font-size:11px\">As a side note, a &ldquo;Lakana&rdquo; is a rudimentary hand-made canoe that is used by Malagasy fishermen.</em></p>\r\n<p>Riana</p>\r\n<p>mail : <a href=\"mailto:gasytek@gmail.com\">gasytek@gmail.com</a><br>\r\nTwitter : @gasytek, #lakana</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,Navigation,Forms,",
+  "LastEdited": "2013-12-12T15:34:40.267-08:00"
+}

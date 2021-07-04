@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpf3dFramework",
+  "Title": "WPF 3D Framework",
+  "Description": "WPF 3D .Net Framework/Library for 3D controls/ 3D UI construction, works side-by-side with WPF 3D not hiding access o capabilities from WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This WPF 3D Framework/Library is built with only one goal in mind, research on 3d UIs and UXs.<br /><br />This framework is based on standar WPF 3D elements and relays on standard WPF mechanisms.<br /><br />To be able to understand sample code and, in general, this framework you&#39;ll need some basic knowledge of WPF and 3D.<br /><br />I opened a blog (<a href=\"http://blogs.windowsclient.net/chus\">http://blogs.windowsclient.net/chus</a>) to support the research of this project, I&#39;ll use it to blog my ideas, thoughts and develop concepts to use when build up 3D Controls and 3D UIs.<br /><br /><b><i><u>Planned releases</u></i></b><br /><br />Initial Release Revision 2<br /><br />More Information: <a href=\"http://www.codeplex.com/wpf3dFramework/Release/ProjectReleases.aspx?ReleaseId=10953\">http://www.codeplex.com/wpf3dFramework/Release/ProjectReleases.aspx?ReleaseId=10953</a><br /><br /><br />Enjoy!<br /><br />Jes&#250;s Salas<br /><br /><br /><br /><b>DISCLAIMER</b><br /><br />This Framework is a research library, do not expect a perfect code with full exception handling and <i>zero defect</i>, I&#39;m trying to figure out how 3D UIs can be designed/implemented.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF 3D,WPF 3D FRAMEWORK,WPF3D,3D UI,",
+  "LastEdited": "2008-02-22T02:15:10.41-08:00"
+}

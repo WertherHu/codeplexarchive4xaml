@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dgems",
+  "Title": "David's Guitar Effects Modeling Software",
+  "Description": "David’s Guitar Effects Modeling Software, or GEMS, is a piece of software that provides multiple real-time effects for musicians and guitar hobbyists.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />David&#8217;s Guitar Effects Modeling Software, or GEMS, is a piece of software that provides multiple real-time effects for musicians and guitar hobbyists.<br /><br /><br />The purpose of this software is to process the sound coming from the computer’s input with a variety of selectable effects, and then play back the new sound via the computer’s speakers or headphones. GEMS will hold a list of preset configurations that will assist the user in picking a starting point for their preferred sound, and it will allow for the addition of user-created presets for quick access to your favorite setups. The effects for this modeling software include, but are not limited to: an overdrive effect for volume amplification with the possibility of slight sound distortion; a distortion effect for intentional sound distortion; a chorus effect that layers the same sound wave over itself but with a slight 1-3ms delay; and a 5 band equalizer that will allow the user to control sound levels in the outputted signal. D&#39;GEMS will also provide users with a built-in tuner for quickly getting your guitar back in tune and ready to play.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Guitar,Effects,Guitar Modeling,Real-time audio,audio,",
+  "LastEdited": "2013-01-22T09:16:30.223-08:00"
+}

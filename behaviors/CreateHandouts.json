@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CreateHandouts",
+  "Title": "CreateHandouts",
+  "Description": "PowerPoint 2010 VSTO Add-In to restore the pre-PowerPoint 2007 behavior of exporting slides + notes as text (versus the current behavior of exporting the slides as (low res) images) when creating a PDF / XPS\n\nIts kinda slow due to using interop but it works.\n\nWritten in C# 4.0",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA PowerPoint 2010 VSTO Add-In to restore the pre-PowerPoint 2007 behavior of exporting slides &#43; notes as vector graphics / text (versus the current behavior of exporting the slides as bitmaps).</p>\r\n<p>Creates handouts with a tiny footprint which are <strong>fully </strong>searchable. In most cases, the resulting .pdf is smaller than the original PowerPoint file.</p>\r\n<p>Exports either directly to a .pdf file or opens a new Word instance with the created document for further edits.</p>\r\n<p>slides can be scaled.</p>\r\n<p><strong>UI language is English.</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Note: depending on your OS's (or your organization's) security policies it might be necessary to unblock the zip archive prior to unzipping it, or else the installation might fail. Right click the zip archive, select properties, hit &quot;unblock&quot; (bottom right)\r\n (see screenshot)</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;<img src=\"http://download.codeplex.com/Download?ProjectName=createhandouts&DownloadId=304569\" alt=\"\" width=\"377\" height=\"515\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-17T04:06:23.28-08:00"
+}

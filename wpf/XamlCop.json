@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlCop",
+  "Title": "Xaml Cop",
+  "Description": "Xaml Cop\r\n- Check bindings in XAML of C# or VB project\r\nUsing Binding finder as base (http://robrelyea.com/demos/BindingFinder/)\r\n\r\nPlanned extensions:\r\n- Categorise binding warnings and errors\r\n- Check FxCop rules using XAML Toolkit\r\n- Create Visual Studio Extension for Xaml Cop",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>NOTE: Project discontinued</b><br /><br /><b>Project Description</b><br />Xaml Cop<br />- Check bindings in XAML of C&#35; or VB project<br />Using Binding finder as base &#40;http&#58;&#47;&#47;robrelyea.com&#47;demos&#47;BindingFinder&#47;&#41;<br /><br />Planned extensions&#58;<br />- Categorise binding warnings and errors<br />- Check FxCop rules using XAML Toolkit<br />- Create Visual Studio Extension for Xaml Cop<br /><br />ClickOnce installation:<br /><a href=\"http://labs.ranjithvenkatesh.com/XamlCop/publish.htm\">http://labs.ranjithvenkatesh.com/XamlCop/publish.htm</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,xaml,Binding,Analysis,",
+  "LastEdited": "2017-04-22T00:36:52.43-07:00"
+}

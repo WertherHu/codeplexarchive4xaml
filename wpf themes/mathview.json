@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mathview",
+  "Title": "Math View",
+  "Description": "This project realizes a math expression viewer for WPF/SL/RT that is fed by math description language parsers (LaTeX, MathML, ...).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Summary</h1>\rThis project realizes a math expression viewer for WPF&#47;SL&#47;RT that is fed by math description language parsers &#40;LaTeX, MathML, ...&#41;.<br />\n<h1>Implemented Features</h1>\r<ul><li>More-Than-Basic LaTeX math language structure parser</li>\n<li>Fractions</li>\n<li>Operator extraction</li>\n<li>Whitespace handling (including negative spaces)</li>\n<li>Sub- and Superscript</li>\n<li>Baseline management system</li>\n<li>Nearly complete operator list and greek symbols</li>\n<li>Every feature with suitable WPF view class</li>\n<li><b>New: Basic Silverlight 5.0 frontend!</b></li></ul>\n<br /><b>Example (nonesense) expression and the test output:</b><br /><img src=\"/projects/mathview/819e37ec-1852-4da3-8877-ec2ca5c9a245\" alt=\"Example&#32;&#40;nonesense&#41;&#32;expression&#32;and&#32;the&#32;test&#32;output\" title=\"Example&#32;&#40;nonesense&#41;&#32;expression&#32;and&#32;the&#32;test&#32;output\" /><br />\n<h1>Planned Features</h1>\r<ul><li>Fully functional LaTeX math language parser</li>\n<li>RT frontend</li>\n<li>MathML parser</li></ul>\n\n<h1>Call for Support</h1>\r<ul><li>MathML parser</li>\n<li>Maybe different, more efficient LaTeX parser approach?</li>\n<li>Generally implement missing math objects</li>\n<li>Testing, testing, testing</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "math,LaTeX,MathML,viewer,WPF,SL,RT,",
+  "LastEdited": "2014-01-09T15:50:33.34-08:00"
+}

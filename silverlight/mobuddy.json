@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mobuddy",
+  "Title": "MoBuddy",
+  "Description": "MoBuddy is a sample social network application to help users to gather tourist information from their friends (e.g., Facebook friends) and share their experience after travels. It's developed in C#, Silverlight and hosted on Azure.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><p><strong>Project Description</strong><br>MoBuddy is a sample social network application to help users to gather tourist information from their friends (e.g., Facebook friends) and share their experience after travels. It's developed in C#, Silverlight and hosted on Azure.</p>\n<p>MoBuddy also supports users to gather landmarks such as water fountains, libraries, firehalls, etc. from the <a href=\"http://data.vancouver.ca/\">Vancouver Open Data Catalogue</a>, or any other resources of OGDI <a>Open Government Data Initiative</a>.<br><br><br></p></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-07T11:47:08.527-07:00"
+}

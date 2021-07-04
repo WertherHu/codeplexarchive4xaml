@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MetroEventToCommand",
+  "Title": "Metro Event To Command",
+  "Description": "Metro Event To Command is a replacement for EventToCommand behavior for Windows RT.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Metro Event To Command is a replacement for EventToCommand behavior for Windows RT.<br /><br /><br /><br /><br />Ideal for MVVM pattern, it allows you to bind viewmodel commands to view controls events.<br /><br />New in V2.1 :\n<ul><li>HandleEvent property added. If True, event will be marked as &quot;Handled&quot; (Providing the event arg class permits it)</li></ul>\n<br />New in V2 :\n<ul><li>Works with Windows Phone 8</li>\n<li>Can pass event args to command</li>\n<li>Memory leak fixed</li></ul>\n<br /><i>Works with any command class deriving from <b>ICommand</b>, such as <a href=\"http://mvvmlight.codeplex.com\">MVVMLight</a> <b>RelayCommand</b> and <b>RelayCommand&lt;T&gt;</b></i><br /><br />Nuget package is here : <a href=\"https://nuget.org/packages/MetroEventToCommand/\">MetroEventToCommand</a><br /><br />Some docs and examples here : <a href=\"http://www.guruumeditation.net/metroeventtocommand-2.0-2\">MetroEventToCommand V2.0 out</a><br /><br />Enjoy !<br /><br />Olivier Matis | <a href=\"http://twitter.com/GuruuMeditation\">Twitter</a> | <a href=\"http://www.guruumeditation.net\">Blog</a> | <a href=\"https://mvp.support.microsoft.com/profile/Olivier.Matis\">MVP Profile</a> | <a href=\"http://be.linkedin.com/in/oliviermatis\">LinkedIn</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,WinRT,Command,Events,Binding Command,",
+  "LastEdited": "2013-06-13T08:58:00.52-07:00"
+}

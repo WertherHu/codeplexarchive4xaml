@@ -1,0 +1,9 @@
+{
+  "ProjectName": "orderedimgload",
+  "Title": "Ordered images loading",
+  "Description": "Ordered image loading controls enables you to load images on pages in order you specify. It is nice for sites with lot of images where you want to control which images should be loaded first. It is developed using ASP.NET AJAX Extensions and jQuery.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Ordered images loading</b> is simple library with controls which enable page developers to add images (OrderedImage control in library) to pages which will be loaded in order they specify.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ordered images load,",
+  "LastEdited": "2009-07-29T03:50:04.457-07:00"
+}

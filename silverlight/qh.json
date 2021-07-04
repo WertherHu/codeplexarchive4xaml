@@ -1,0 +1,9 @@
+{
+  "ProjectName": "qh",
+  "Title": "QualityHelper",
+  "Description": "QualityHelper is a silverlight based documentation tool that helps enterprises keep document versions up to date and associates documents with procedures and processes in your enterprises. It is an essential tool for a large enterprise with a quality management system. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />QualityHelper is a silverlight based documentation tool that helps enterprises keep document versions up to date and associates documents with procedures and processes in your enterprises. It is an essential tool for a large enterprise with a quality management system. <br /><br />QualityHelper uses Silverlight &amp; Google Gears.<br /><br />For the service component go to QualityHelperService @ <a href=\"http://www.codeplex.com/qhs\">http://www.codeplex.com/qhs</a> .<br /><br />For more information:<br />Go to: <a href=\"http://foundin.com.au/Default.aspx?Tabid=213\">http://foundin.com.au/Default.aspx?Tabid=213</a><br /><br />For a demo:<br />Go to: <a href=\"http://foundin.com.au/qhdemo\">http://foundin.com.au/qhdemo</a><br /><br />The product is in alpha. It is expected to be release quality by end of January.<br /><br />An example of the running application will be posted in the next few days.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-06-10T04:16:50.777-07:00"
+}

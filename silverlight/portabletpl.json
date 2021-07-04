@@ -1,0 +1,9 @@
+{
+  "ProjectName": "portabletpl",
+  "Title": "PortableTPL for Silverlight / Windows Phone and XBox",
+  "Description": "PortableTPL is a portable project inspired by the Task Parallel Library.\r\n\r\nIt can be used with .Net 4.0, Silverlight 4.0, XNA 4.0 for XBox 360 and Silverlight for Windows Phone.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PortableTPL is a portable project inspired by the Task Parallel Library.<br /><br />It can be used with .Net 4.0, Silverlight 4.0, XNA 4.0 for XBox 360 and Silverlight for Windows Phone.<br /><br />PortableTPL supports following features:\n<ul><li>Task</li>\n<li>Task&lt;T&gt;</li>\n<li>Task Continuation</li>\n<li>Task Cancelleation with CancellationTokenSource</li>\n<li>AggregationException</li>\n<li>Parallel.For</li>\n<li>Parallel.ForEach</li>\n<li>Schedulers</li></ul>\n<br />It uses Portable Library : <a href=\"http://visualstudiogallery.msdn.microsoft.com/b0e0b5e9-e138-410b-ad10-00cb3caf4981/\">http://visualstudiogallery.msdn.microsoft.com/b0e0b5e9-e138-410b-ad10-00cb3caf4981/</a><br /><br />You can also download it in your Visual Studio Project using NuGet : <a href=\"http://www.nuget.org/List/Packages/PortableTPL\">http://www.nuget.org/List/Packages/PortableTPL</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,silverlight 4,XBox360,.NET 4.0,Windows Phone 7,TPL,",
+  "LastEdited": "2011-05-06T07:19:53.28-07:00"
+}

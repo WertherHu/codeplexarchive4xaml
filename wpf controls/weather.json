@@ -1,0 +1,9 @@
+{
+  "ProjectName": "weather",
+  "Title": "Weather",
+  "Description": "This is the the popular Weather Control By Oliver Hine for DotNetNuke. The control has been completely rewritten as a compiled server control, and can easily run outside of DNN in a regular ASP.net website.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is the the popular Weather Control By Oliver Hine for DotNetNuke. The control has been completely rewritten as a compiled server control, and can easily run outside of DNN in a regular ASP.net website.<br /><br /><img src=\"/projects/weather/863e4bc8-46d6-4908-89d5-8fe57a7d5782\" alt=\"WeatherOptions.gif\" title=\"WeatherOptions.gif\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotNetNuke,DNN,Weather,DotNetNuke Module,.NET,ASP.NET,DNN Weather,DNN Extension,",
+  "LastEdited": "2009-01-20T23:49:28.84-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "goldlight",
+  "Title": "Goldlight",
+  "Description": "Goldlight is a WPF MVVM framework aimed at developing rich internationalized MVVM WPF application. It provides support for validating and editable VMs out of the box, along with multi-threaded observable and editable collections support baked into the framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Goldlight is a WPF MVVM framework aimed at developing rich internationalized MVVM WPF application. It provides support for validating and editable VMs out of the box, along with multi-threaded observable and editable collections support baked into the framework.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-22T14:00:28.043-07:00"
+}

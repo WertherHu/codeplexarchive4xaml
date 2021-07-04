@@ -1,0 +1,9 @@
+{
+  "ProjectName": "caliburn",
+  "Title": "Caliburn",
+  "Description": "A framework designed for WPF and Silverlight which implements a variety of UI patterns including MVVM , MVP and MVC. Caliburn is a legacy framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Caliburn is a <i>legacy</i> framework. All development is focused on Caliburn.Micro.</b></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TDD,Framework,WPF,patterns,MVP,MVC,UI,practices,Unit Testing,Presentation Layer,Silverlight,Model-View-ViewModel,Command,Silverlight 2.0,Presenter First,Silverlight 2,User Interface,MVVM,Presentation Model,.NET 3.5 WPF,View Model,Application Model,Silverlight 3.0,Silverlight 3,WPF frameworks,Silverlight NPE,Model First,caliburn,keypress,silverlight 4,silverlight 4.0,WPF framework,robeisenberg,",
+  "LastEdited": "2014-02-03T13:15:30.393-08:00"
+}

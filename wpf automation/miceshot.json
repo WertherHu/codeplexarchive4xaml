@@ -1,0 +1,9 @@
+{
+  "ProjectName": "miceshot",
+  "Title": "Screenshots via Scripts",
+  "Description": "This is ole-automation object captures the rectangle around the cursor or the full shot of the screen and saves them to a bitmap file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is ole-automation object captures the rectangle around the cursor or the full shot of the screen and saves them to a bitmap file.<br /><b>Usage</b><br /><pre>\n&#39; cmd&gt; regsvr32.exe miceshot.dll\nSet theobj = CreateObject(&quot;oleauto.screenshot&quot;)\n WScript.echo &quot;attr( cursor, width, height ): &quot; &amp; vbTAB &amp; &quot;( &quot; &amp; _\n    theobj.cursor &amp; &quot;, &quot; &amp; theobj.width &amp; &quot;, &quot; &amp;  theobj.height &amp; &quot; )&quot;\n\n theobj.cursor = false\n theobj.pixelBits = 24\nretval = theobj.save(&quot;screen.bmp&quot;, true)\n&#39;   if retval then it is really fullscreen\n theobj.pixelBits = 0 &#39; resets to screen resolution\n theobj.cursor = True\ntheobj.save &quot;mice.bmp&quot;, &quot;no&quot;\n</pre>\n<ul><li>Links: <a href=\"https&#58;&#47;&#47;miceshot.codeplex.com&#47;documentation\"><img src=\"/projects/miceshot/d90c03cd-d78c-41ee-b1e1-863c4614c095\" alt=\"mouse&#32;shot\" title=\"mouse&#32;shot\" /></a></li>\n<li><b><a href=\"https://miceshot.codeplex.com/documentation\">Python Example</a></b></li>\n<li><a href=\"http://msdn.microsoft.com/en-us/library/dd183402%28v=vs.85%29.aspx\">Capturing an Image (msdn)</a></li></ul>\n<b>Notes:</b> Both object&#39;s methods is not thread-safe (load, save), IOW, One object can be shared by some threads to change the attributes with no restriction, but they should have a plan to call the methods nonconcurrently.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "VS2010,ATL,screenshot,cplusplus,oleautomation,script,bitmap,Win32,",
+  "LastEdited": "2014-04-22T11:03:57.037-07:00"
+}

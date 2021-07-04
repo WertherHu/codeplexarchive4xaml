@@ -1,0 +1,9 @@
+{
+  "ProjectName": "haplous",
+  "Title": "Haplous",
+  "Description": "The Haplous library provides a simplified framework in which to build 2D games using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Haplous library provides a simplified framework in which to build 2D games using WPF.<br /><br />Haplous consists of a framework assembly and sample project.<br /><br />Version 0.5 is now available from <a href=\"https://www.nuget.org/packages/Haplous/\">nuget.org</a>.  Full documentation is included with the nuget package.<br /><br />See the <a href=\"https://haplous.codeplex.com/releases\">Downloads</a> for sample projects.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-12-17T22:31:44.71-08:00"
+}

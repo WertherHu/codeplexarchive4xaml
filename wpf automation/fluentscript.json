@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fluentscript",
+  "Title": "FluentScript - A scripting language with a natural language syntax",
+  "Description": "A .NET based extensible scripting language, similar to javascript, with support for building DSLs",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>FluentScript</h1>\rAn embeddable scripting language similar to javascript, with additional language features to facilitate building Domain Specific Languages.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "fluent,scripting,javascript,DSL,embeddable,automation,language,",
+  "LastEdited": "2014-03-25T21:52:34.76-07:00"
+}

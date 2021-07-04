@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightftp",
+  "Title": "SilverlightFTP",
+  "Description": "Silverlight ftp client",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A SilverlightFTP is a silverlight based ftp client for web.<br /><br />It supports renaming,deleting,uploading multiply files,directory creating <br />and file downloading. All of this features can be used in parallel mode.<br /><br />livedemo here(Silverlight 3 only) <br /><a href=\"http://fudzen.studenthost.ru/SilverlightFTPTestPage.aspx\">http://fudzen.studenthost.ru/SilverlightFTPTestPage.aspx</a><br /><br />ScreenShot<br /><img src=\"http://fudzen.studenthost.ru/image.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-21T02:01:10.143-07:00"
+}

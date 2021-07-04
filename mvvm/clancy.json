@@ -1,0 +1,9 @@
+{
+  "ProjectName": "clancy",
+  "Title": "Clancy",
+  "Description": "Sanbox-project for evaluating technoligies MVVM, ReactiveExtensione, ReactiveUi, NInject\r\n\r\nTopic:\r\nVideo surveilance for home protection",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Migrating a fun-project for Cam-surveilance from WinForms to WPF/MVVM using AForge library<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-14T12:20:45.61-07:00"
+}

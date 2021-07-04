@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wgm2",
+  "Title": "WGM2",
+  "Description": "Proof of concept project using WPF client and an Asp.net Webservice.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Wayne&#39;s Global Messenger V2</b><br />Proof of concept project using WPF client and an Asp.net Webservice.<br /><br />A WPF application that uses an ASP.Net webservice to communicate.<br /><br /><img src=\"/projects/wgm2/68d983cf-8c62-46e3-b95a-91ede61cf9a3\" alt=\"wgm_login.png\" title=\"wgm_login.png\" /><br /><br /><img src=\"/projects/wgm2/c947fcc7-327f-4a95-94c3-6641fedb13bb\" alt=\"wgm_main.png\" title=\"wgm_main.png\" /><br /><br /><img src=\"/projects/wgm2/8156e425-9050-4834-bf84-ccbf688ed084\" alt=\"wgm_newmessage.png\" title=\"wgm_newmessage.png\" /><br /><br /><img src=\"/projects/wgm2/838fbbc7-71b2-464e-8ad2-c23a732ac12c\" alt=\"wgm_profile.png\" title=\"wgm_profile.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,ASP.NET Webservice,xaml,Messenger,Chat,Client,Animations,Threading,",
+  "LastEdited": "2012-07-16T15:24:41.73-07:00"
+}

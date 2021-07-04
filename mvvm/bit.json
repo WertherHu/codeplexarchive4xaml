@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bit",
+  "Title": "Business Intelligence Toolkit",
+  "Description": "Business Intelligence Toolkit (BIT) is a set of WPF controls which can be used for visualization large amounts of data.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Business Intelligence Toolkit (BIT) is a set of WPF controls which can be used for visualization large amounts of data.<br>\r\n<br>\r\n<strong>Features of the controls <strong>list</strong>:</strong></p>\r\n<ul>\r\n<li>Virtualization </li><li>Animated scrolling </li><li>MVVM friendly </li><li>High performance </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF controls,MVVM,virtualization,",
+  "LastEdited": "2012-07-29T12:52:19.227-07:00"
+}

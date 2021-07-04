@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UDKStealthFramework",
+  "Title": "UDK Stealth Framework",
+  "Description": "A Splinter-Cell style stealth framework written in Unrealscript for those who wish to create a stealth-based title with UDK.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Splinter-Cell style stealth system written in Unrealscript for the Unreal Development Kit<br /><br /><br /><b>About the Project</b><br /><br />This is a light-based stealth system I wrote to help those who wanted to create a Spinter-Cell style stealth game using the Unreal Development Kit (UDK). It is written in Unrealscript, which is a variant of Javascript written specifically by Epic for the Unreal Engine. Unlike Java however, it is case insensitive and permits operator overloading, but not method overloading.<br /><br />Features:<br /><br />- Light detection based on the distance from the light, shadow falloff exponent and brightness. UDK does not allow access to a 3D mesh&#39;s light levels or lightmass data, so it has to be approximated on the fly using a formula.<br />- Noise making and sound detection based on surface material<br />- Able to pick up objects and throw them to make a distraction<br />- Able to knock out enemies and drag their bodies<br />- AI that will patrol, investigate sound and movement if suspicious. If an unconscious ally is spotted, they will run over to revive them, they will also spray fire into the last known location of the player if they cannot see them<br /><br /><a href=\"http://www.youtube.com/watch?v=bSI-oDP6lWE\">Gameplay footage here</a><br /><br />Please feel free to use this code as a base for your own project, or rip parts for your own use. That is what it is designed for!<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-23T07:42:48.523-07:00"
+}

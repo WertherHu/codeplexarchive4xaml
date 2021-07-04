@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SDB",
+  "Title": "SquirrelDB",
+  "Description": "SquirrelDB is a personal music player. It uses a central server to index and store your music files. The SquirrelDB client is a Windows application written in WPF that connects to the central server no matter where you are or what machine you are on. This is very useful for keeping your music in a central location. Music files are streamed and played in the client and stored on the local machine if configured to do so. Files may also be uploaded to the server via the client so that they can be accessed from another machine. \n\nSquirrelDB is a fun project that allows us to learn WPF and WCF. Along with trying to acheive certain key functionality, the main goal is to learn these technologies.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />SquirrelDB is a personal music player. It uses a central server to index and store your music files. The SquirrelDB client is a Windows application written in WPF that connects to the central server no matter where you are or what machine you are on. This is very useful for keeping your music in a central location. Music files are streamed and played in the client and stored on the local machine if configured to do so. Files may also be uploaded to the server via the client so that they can be accessed from another machine. <br /><br />SquirrelDB is a fun project that allows us to learn WPF and WCF. Along with trying to acheive certain key functionality, the main goal is to learn these technologies.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WCF,Learn,",
+  "LastEdited": "2008-06-10T08:23:36.987-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mixdos",
+  "Title": "MixDoS",
+  "Description": "MixDoS is an application who helps you control your computer and helps you collect all your batch applications! This application is easier to use than X3ME!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Welcome to MixDoS</strong></p>\r\n<p><strong>This is an application for batch files and other console applications!</strong></p>\r\n<p>Version 1.1</p>\r\n<p>&#43; Created MixDoS Application (if you run it in CMD it will open new window because it is not a console application, it is a windows application who can run without cmd.exe)</p>\r\n<p><strong>&nbsp;TREE of MixDoS</strong></p>\r\n<p>&nbsp;-mdapp.exe (F)</p>\r\n<p><span style=\"white-space:pre\">&nbsp;</span>-Commands (D)</p>\r\n<p><span style=\"white-space:pre\">&nbsp;</span>-Mods (D)</p>\r\n<p>-com.exit.cmd (F)</p>\r\n<p>-com.start.cmd (F)</p>\r\n<p>&nbsp;-mixcode (F)</p>\r\n<p>-MixDoS.exe (F)</p>\r\n<p>-MPT.bat (F)</p>\r\n<p>&nbsp;</p>\r\n<p><strong>&nbsp;SFX Script</strong></p>\r\n<p><em>Path=c:\\mixdos</em></p>\r\n<p><em>SavePath</em></p>\r\n<p><em>Setup=c:\\mixdos\\mixdos.exe</em></p>\r\n<p><em>Silent=1</em></p>\r\n<p><em>Overwrite=1</em></p>\r\n<p><em>Delete=C:\\mixdos\\MPT.bat</em></p>\r\n<p><em>Title=MixDoS Installation</em></p>\r\n<p><em>Text</em></p>\r\n<p><em>{</em></p>\r\n<p><em>This is the official installation file for MixDoS v1.0!</em></p>\r\n<p><em>}</em></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Download Now@ Downloads Page</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C,X3ME,Batch,bat,cmd,sfx,",
+  "LastEdited": "2013-09-30T07:39:14.337-07:00"
+}

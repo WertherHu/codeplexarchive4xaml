@@ -1,0 +1,9 @@
+{
+  "ProjectName": "formsy",
+  "Title": "Formsy",
+  "Description": "Formsy is an XML driven forms engine built with ASP.Net 3.5. Formsy is super easy to use, is completely extensible and generates clean markup for easy styling.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>Project Description</h3>\rFormsy is an XML driven forms engine built with ASP.Net 3.5. Formsy is super easy to use, is completely extensible and generates clean markup for easy styling.<br /><br />\n<h4>Who should use Formsy?</h4>\rAs an ASP.Net developer, what gets you out of bed in the morning is forms. You love all types of forms. From membership registration, to contact us and send to friend. <br /><br />You love the dense markup, databinding in the page-lifecycle, the manual javascript to get that compare validator working, and the various challenges involved in adding or subtracting fields on a live form. You especially love the fact that some sites you build &quot;MUST&quot; have 13 slightly different forms.<br /><br /><b>If this does NOT sound like you, and you want your forms up and running in minutes with little or no coding, then you should use Formsy.</b><br /><br />To find out more, check out the <a href=\"http://formsy.codeplex.com/documentation\">documentation</a> section.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "forms,Forms Designer,Forms Services,Form Builder,form engine,forms engine,xml,",
+  "LastEdited": "2010-07-01T08:05:48.18-07:00"
+}

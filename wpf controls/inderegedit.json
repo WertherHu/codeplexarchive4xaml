@@ -1,0 +1,9 @@
+{
+  "ProjectName": "inderegedit",
+  "Title": "System independent  Regedit control",
+  "Description": "Summary",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>System independent Regedit control is a .NET Control fror editing &quot;RAW&quot; Registry.dat files.<br>\r\nThis Project is based on the ntreg.c lib, &quot;ugly&quot; portet from linx. I created the&nbsp;regedit projekt&nbsp;for a tool on my blog:<br>\r\n<br>\r\n<a href=\"http://www.software-virtualisierung.de\">http://www.software-virtualisierung.de</a><br>\r\n<br>\r\nThe original ntreg.c can be found here: <br>\r\n<a href=\"http://pogostick.net/~pnh/ntpasswd/editor.html\">http://pogostick.net/~pnh/ntpasswd/editor.html</a></p>\r\n<p>Licenced under &quot;GNU Lesser General Public License&quot;</p>\r\n<p>This is a&nbsp;RAW editor. Better to use the real regedit for your Windows registry! Hives (a<span>reas)</span>\r\n<span>can be easily destroyed.</span></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-03-28T04:00:46.977-07:00"
+}

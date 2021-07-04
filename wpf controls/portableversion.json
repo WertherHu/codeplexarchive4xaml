@@ -1,0 +1,9 @@
+{
+  "ProjectName": "portableversion",
+  "Title": "Portable Version (TFS)",
+  "Description": "Carry your shelf on a flash drive! \r\nPortable Version is a portable tool to synchronize any folder with your \"Version Controlled\" folder (currently only TFS).\r\nWant to take your solution home, put it on Dropbox and work from anywhere freely? Check back in and resolve conflicts?",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Carry your shelf on a flash drive&#33; <br />Portable Version is a portable tool to synchronize any folder with your &#34;Version Controlled&#34; folder &#40;currently only TFS&#41;.<br />Want to take your solution home, put it on Dropbox and work from anywhere freely&#63; Check back in and resolve conflicts&#63;<br /><br /><img src=\"http://qualityofdata.files.wordpress.com/2011/12/portableversion-copy.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Version Control,Synchronization,File System,C#,.NET 4.0,Change Tracking,",
+  "LastEdited": "2011-12-28T22:35:17.483-08:00"
+}

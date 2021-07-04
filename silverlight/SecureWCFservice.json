@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SecureWCFservice",
+  "Title": "Securing a WCF service in Silverlight 3.0",
+  "Description": "This project demonstrates how to securing your WCF service with a custom username & password using ClientCredentials property.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Summary</h2>\r\nOne of the little known features when using WCF with Silverlight 3, is that it now supports securing your WCF service with a custom username &amp; password. In Silverlight 2, securing your WCF service with custom credentials wasn’t straightforward, you either had to manipulate the headers to send the username and password or rely on the browser to perform authentication.<br /><br />Complete step by step tutorial can be found on Silverlight Tips here: <a href=\"http://silverlighttips.com/?tag=/securing+wcf+service\">http://silverlighttips.com/?tag=/securing+wcf+service</a><br />\n<h2>Releases</h2>\r\nDownload the latest release for this project from here: <a href=\"http://securewcfservice.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=39985\">http://securewcfservice.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=39985</a>.<br />\n<h2>Development Summary</h2>\r\n<b>1. specify the security authentication mode</b><br /><br />The tracking class is defined in your Silverlight project, it receives tracking parameter from anywhere in your Silverlight code and passes the parameters to a Java Script function to be sent to the analytics software using this method:<br /><br /><pre>\n&lt;security authenticationMode=&quot;UserNameOverTransport&quot;/&gt;\n</pre><br /><br /><b>2. configure your WCF service to use SSL</b><br /><br /><b>3. set the userNamePasswordValidationMode and customUserNamePasswordValidatorType</b><br /><br /><b>4. implement a validator class</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "remote server error,",
+  "LastEdited": "2010-02-05T04:55:50.823-08:00"
+}

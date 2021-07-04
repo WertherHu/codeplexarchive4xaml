@@ -1,0 +1,9 @@
+{
+  "ProjectName": "water",
+  "Title": "water",
+  "Description": "water for asp.net",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />water for asp.net<br /><img src=\"/projects/water/9ccf3823-3b74-4ea1-9540-42eb93c45c9e\" alt=\"Water\" title=\"Water\" /><br /><a href=\"http://water.cloudapp.net/Default.htm\">Water demo</a><br /><a href=\"http://www.cnblogs.com/liushangqi/\">Water blogs</a>\n<ul><li>Water是一个基于.net framework 3.5的asp.net的扩展框架</li>\n<li>支持多数据连接(目前测试对oracle、sql server 2005以上版本支持较好)</li>\n<li>提供了一种ORM开发框架，且所有涉及数据操作都通过ORM的xml配置文件完成</li>\n<li>提供了一套开发多层结构应用的基础API，开发快速，可无限扩张(2分钟内可搞定多层开发)</li>\n<li>对普通数据操作(CRUD)的零代码开发</li>\n<li>支持Ajax</li>\n<li>支持Prompt</li>\n<li>支持多语言</li>\n<li>支持log日志(基于log4j.net)</li>\n<li>界面统一，支持多套界面，可轻松更改界面</li>\n<li>所有js代码都基于JQuery开发</li>\n<li>支持IE、Firefox、Google Chrome等多种浏览器</li>\n<li>提供了几十个强大的独立开发的控件和原asp.net扩张控件</li>\n<li>强大灵活简单的Excel报表功能</li>\n<li>界面验证功能（开发ing）</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Water,water for asp.net,.NET Framework,asp.net controls,ASP.NET Control,框架,平台,asp.net 扩展框架,",
+  "LastEdited": "2010-04-08T08:46:11.18-07:00"
+}

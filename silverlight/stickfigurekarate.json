@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stickfigurekarate",
+  "Title": "Stick Figure Karate Fighter",
+  "Description": "Sara's way of learning silverlight is to animate stick figures doing karate moves. The jump kicks are especially impressive, IMHO.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Sara&#39;s way of learning silverlight is to animate stick figures doing karate moves. The jump kicks are especially impressive, IMHO.<br /><br />Here&#39;s the project.<br /><br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:400px;width:600px;\"><param name=\"source\" value=\"http://www.saraford.members.winisp.net/stickfigurekaratefighter.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe></div><div class=\"ClearBoth\"></div>",
+  "TagList": "karate,silverlight,stick figure,",
+  "LastEdited": "2009-04-25T20:37:01.04-07:00"
+}

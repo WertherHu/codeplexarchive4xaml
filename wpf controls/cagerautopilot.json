@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cagerautopilot",
+  "Title": "CagerAutoPilot",
+  "Description": "Programmatically control a toy helicopter with kinect",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Cager Auto Pilot</strong><br>\r\n<br>\r\nThe Goal of the Project is to control a toy helicopter named &quot;Cager&quot; with a PC and a Kinect.</p>\r\n<p>The Project consists of following parts:<br>\r\n- Identify the helicopter in a room<br>\r\n- Track the movement of the helicopter<br>\r\n- Keep the helicopter automatically on a Position <br>\r\n- Programmatically control the helicopter to fly to a certain position</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-10-01T12:24:19.057-07:00"
+}

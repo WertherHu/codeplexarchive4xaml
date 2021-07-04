@@ -1,0 +1,9 @@
+{
+  "ProjectName": "graphserver",
+  "Title": "GraphServer",
+  "Description": "GraphServer 0.2 is a .NET based Graph Database system.\r\nIt provide unique features such as graph user controls, graph views, sub-graph support, VS Integration.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">GraphServer 0.1 Preview<br /><br />GraphServer is a .NET based Graph Database system.<br /><br />It provide unique features such as graph user controls, graph views, sub-graph support.<br /><br />It is tightly coopled with Visual Studio 2008/2010/2013. It provide plugin and data source provider for VS2008/2010/2013.<br /><br />Please tell us your wishes. You need is our drive.<br /><br />Welcome to join us</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Graph Database,Semantics,",
+  "LastEdited": "2016-01-10T00:20:58.817-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gia",
+  "Title": "Siverlight Project",
+  "Description": "Hope that everybody continue to develop it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Hope that everybody continue to develop it.<br /><br />The project can be automatically arrange panel in window, if the window size changes, the element will automatically change.<br /><br />1. You can click on any element, the element will be enlarged and other elements will be placed on the right;<br />2. If you click any element in right group, the element will be enlarged and the original elements will be placed on the right;<br />3. If you click main element, all elements will be restored position.<br /><br />I&#39;ll add comment in the project late, pls wait for a moment. <br /><br />If you have any suggest, pls let me know.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Arrange,Panel,Scale,",
+  "LastEdited": "2010-06-07T20:04:33.723-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BDDEditor",
+  "Title": "BDD Editor",
+  "Description": "The editor list the text from already created file in the feature folder.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The BDD statements are case sensitive and also had to be the same for the same function to be called. Managing and creating new BDD where large number of BDD satements are already defined would be hectic job of copy pasting. I have created an editor to assist this job. The editor is created using Avalon editor. Hope this helps!   ;-)<br /><br />Feature<br />- Shows BDD hint on typing in.<br />- Save the BDD created to folder.<br /><br />To Do<br />- Add find and replace.<br />- And anything you find useful.<br /><br />How To Use<br /><br /><img src=\"/projects/BDDEditor/546314b4-d5d4-48d5-b1b3-148c6fc6bc37\" alt=\"BDD&#32;Step1.jpg\" title=\"BDD&#32;Step1.jpg\" /><br /><br /><br /><br /><br /><img src=\"/projects/BDDEditor/1feb9995-cf7d-4339-9d54-d65930bc29b0\" alt=\"BDD&#32;Step2.jpeg\" title=\"BDD&#32;Step2.jpeg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "BDD,Behaviour driven,Editor,BDD autocomplete,BDD organiser,",
+  "LastEdited": "2012-08-02T11:13:09.777-07:00"
+}

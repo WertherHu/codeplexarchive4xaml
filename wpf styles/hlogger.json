@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hlogger",
+  "Title": "H Logger (8 logger)",
+  "Description": "Create logs with a html format with a Visual Studio 2013 style.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Create logs with a html format with a Visual Studio 2013 style.<br />\n<h1>Example</h1>\r<img src=\"/projects/hlogger/d4c4b4b4-a1fd-4930-a502-cbc17d85defe\" alt=\"Example&#32;3.PNG\" title=\"Example&#32;3.PNG\" /><br />\n<h1>Code</h1>\r\n<pre>                //Optional Properties\n                Log.Title = tbPageTitle.Text;\n                Log.Header = tbHeader.Text;\n                Log.ProjectName = tbProject.Text;\n                Log.ProjectPath = tbProjectPath.Text;\n                Log.Folder = Application.StartupPath;\n\n                Log.ExpandErrors = cbExpandErrors.Checked;\n                Log.ExpandWarnings = cbExpandWarnings.Checked;\n                Log.ExpandMessages = cbExpandMessages.Checked;\n                Log.ExpandSuccesses = cbExpandSuccesses.Checked;\n                //end\n\n                //At least one\n                Log.Exceptions.Add(new Exception(&quot;Error!&quot;));\n                Log.Exceptions.Add(&quot;&lt;strong&gt;WHOA!&lt;/strong&gt; Big exception.&quot;);\n                Log.Warnings.Add(&quot;Another Warning&quot;);\n                Log.Messages.Add(&quot;A blue messages&quot;);\n                Log.Successes.Add(&quot;Alright&quot;);\n                //end\n\n                Log.Me();\n                Log.Clean();\n</pre><br />\n<h1>Test Application</h1>\r\n<img src=\"/projects/hlogger/5ecae434-460c-4900-ae0e-522985927d79\" alt=\"Example.png\" title=\"Example.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,html,log,.net4,html log,",
+  "LastEdited": "2014-06-14T12:42:44.62-07:00"
+}

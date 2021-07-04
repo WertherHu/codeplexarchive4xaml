@@ -1,0 +1,9 @@
+{
+  "ProjectName": "twixaml",
+  "Title": "TwiXaml",
+  "Description": "a twitter client built with WPF\n\nNote: now supports oAuth.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/twixaml/b321ece8-39f1-46dc-a991-25124337dd0d\" alt=\"twixaml&#32;logo.png\" title=\"twixaml&#32;logo.png\" /><br /><br /><b>Twixaml</b> is basically a project we intended to do for fun when we started learning WCF and WPF. For a starting point we have implemented it using the Twitterizer library for C# but we will soon shift it to WCF completely. Features we are looking forward to include are:<br /><br /><br />*WCF based communication<br />*Cache (so that we dont run in rate limit)<br /><br /><br />interested in helping us out? feel free :)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Twitter API,twitter,XAML,WPF,wcf,OAuth,C#,Windows,",
+  "LastEdited": "2010-02-05T06:31:39.217-08:00"
+}

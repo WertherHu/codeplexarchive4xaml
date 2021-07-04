@@ -1,0 +1,9 @@
+{
+  "ProjectName": "demoMvvm",
+  "Title": "demoMVVM",
+  "Description": "Tiny mvvm library that does the absolute minium that you need in order to demonstrate MVVM functionality.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Tiny and simple MVVM library for demos</b><br />Tiny mvvm library that does the absolute minium that you need in order to demonstrate MVVM functionality.<br /><br />It implements a <br /><br /> - Command that implements a really small version of ICommand<br /> - ViewModelBase for INotifyPropertyChanged<br /><br />That&#39;s it.<br /><br />Enjoy</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-16T11:35:40.043-07:00"
+}

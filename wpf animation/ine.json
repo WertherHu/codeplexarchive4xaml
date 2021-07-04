@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ine",
+  "Title": "ine downloader",
+  "Description": "ine is a windows application to download files from popular file hosting sites",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />ine is a windows application to download files from popular file hosting sites<br /><br /><b>Features:</b>\n<ul><li>Queueing items</li>\n<li>Presenting captcha (image or audio)</li></ul>\n<br /><b>Supported hostings:</b>\n<ul><li>nitroflare.com</li></ul>\n<br /><b>Requirements:</b>\n<ul><li>Windows 10</li></ul>\n<br /><b>Powered by:</b>\n<ul><li>.net framework 4.6</li>\n<li>WPF</li>\n<li>PhantomJS</li>\n<li>NAudio</li>\n<li>Serilog</li>\n<li>WindowsAPI CodePack</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,WPF,downloader,CAPTCHA,NAudio,schedule,PhantomJS,Serilog,nitroflare,nitroflare download,manager,JavaScript,",
+  "LastEdited": "2015-08-23T11:25:29.413-07:00"
+}

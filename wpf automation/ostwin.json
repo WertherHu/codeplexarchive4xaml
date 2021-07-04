@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ostwin",
+  "Title": "OpenSunTracker - Windows Client (OSTWin)",
+  "Description": "The idea behind the OpenSunTracker is to build the base for a do-it-sourself-project for simple (one-axis) sun-tracking system and this is a simple client",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>The idea behind the OpenSunTracker is to build the base for a do-it-sourself-project for simple (one-axis) sun-tracking system with the calculated sun position, a minimal set of hardware and a broadband support for frame dimensions and gears, further stuff\r\n can be found @ <a href=\"http://www.opensuntracker.info\">http://www.opensuntracker.info</a>.<br>\r\n<br>\r\n...and this is a simple windows (WPF) Client-Application</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "REST Client,wpf,open sun tracker,",
+  "LastEdited": "2014-04-20T06:22:01.65-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "oSoftColorPicker",
+  "Title": "oSoft ColorPicker Control for Visual Studio 2010",
+  "Description": "oSoft ColorPicker is an user control that can be used instead of the ColorDialog when you want to allow your users to select a color in a windows form. It is developed in C# 2010 and works for any Visual Studio 2010 release.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />oSoft ColorPicker is an user control that can be used instead of the ColorDialog when you want to allow your users to select a color in a windows form. It is developed in C&#35; 2010 and works for any Visual Studio 2010 release.<br /><br /><img src=\"http://osoft.ecarri.org/ColorPicker/control.png\" alt=\"oSoft ColorPicker Control example\" title=\"oSoft ColorPicker Control example\" /><br /><br /><b>Visit the project&#39;s website</b><br /><a href=\"http://osoft.ecarri.org/ColorPicker/\">http://osoft.ecarri.org/ColorPicker/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-03T03:32:13.663-07:00"
+}

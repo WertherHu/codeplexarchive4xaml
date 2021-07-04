@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lookupwithpicker",
+  "Title": "Sharepoint lookup with picker",
+  "Description": "Microsoft Sharepoint Server 2007 lookup control with element picker for custom list.\nThis control is useful if you need to choose lookup data from large lists. This control supports single and multi select mode.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Microsoft Sharepoint Server 2007 lookup control with element picker for custom list.<br />This control is useful if you need to choose lookup data from large lists. This control supports single and multi select mode.<br /><br /><img src=\"/projects/lookupwithpicker/77b5852d-f5f9-4b14-bf78-18a253cf870d\" alt=\"adding.png\" title=\"adding.png\" /><br /><br /><img src=\"/projects/lookupwithpicker/301e7511-5216-4b44-b374-b6fc751fe79f\" alt=\"newitem.png\" title=\"newitem.png\" /><br /><br /><img src=\"/projects/lookupwithpicker/cf9b1fcc-63de-4e5c-a0dd-6c8d8778b0b5\" alt=\"dialog.png\" title=\"dialog.png\" /><br /><br /><img src=\"/projects/lookupwithpicker/b3bd52e3-ec13-4f76-a0f6-a15bd8fc6470\" alt=\"newitem2.png\" title=\"newitem2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint Tools,sharepoint,moss,lookup,controls,SharePoint 2007,Lookup field,MOSS 2007,Custom Controls,Custom Fields,PickerDialog,",
+  "LastEdited": "2008-07-30T07:18:54.863-07:00"
+}

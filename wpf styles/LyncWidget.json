@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LyncWidget",
+  "Title": "Lync Presence & Chat Widget",
+  "Description": "The Lync Presence widget shows Lync presence information on your website. Website visitors can start chat conversations using the Lync Chat widget. The widgets are jQuery plugins communicating with a WCF Service. Place them on any kind of website (PHP, .NET) and style with CSS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<pre><code>In the past, we provided a free version of the Lync Widget, including source-code.\n\nWe do not offer support on this version anymore. Today we have a new stable version focused on Lync 2013. We offer this product in combination with professional services to install and configure it in your website/portal. You need a Lync 2013 on-premise server (does not work yet with Office 365).\n\nImplementation projects typically cost between 2800 to 4000 EUR excl VAT.\n\nMore info on our tariffs can be found on: <a href=\"http://www.orbitone.com/en/how-we-do-it/#1463\">http://www.orbitone.com/en/how-we-do-it/#1463</a></code></pre>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Lync,OCS,Chat,presence,",
+  "LastEdited": "2014-11-18T08:17:39.4-08:00"
+}

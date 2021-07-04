@@ -1,0 +1,9 @@
+{
+  "ProjectName": "checkin",
+  "Title": "Check in/check out controlling using IP",
+  "Description": "Project using image processing.\r\n\r\nLibrary used: OpenCV\r\nEnvironment: CDT on FC17_x64",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Project using image processing.<br /><br />Library used&#58; OpenCV<br />Environment&#58; CDT on FC17_x64<br /><br /><b>Organization</b><br />+ Faculty of Information Technologies, Hanoi University of industry<br />+ Viettel Telecom<br /><br /><b>Mentor</b><br />+ M.A Vinh D. Ngo<br /><br /><b>Members</b><br />+ Hung D. Bui (PM)<br />+ Gam H. Nguyen (team leader)<br />+ Minh X. Nguyen<br />+ Nam V. Tran<br />+ Tuy K. Pham<br /><br /><b>Project date</b><br />- Started at: October 1st, 2012<br />- End at: May 1st, 2012</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-01T21:13:33.763-08:00"
+}

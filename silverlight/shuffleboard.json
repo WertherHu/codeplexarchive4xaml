@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shuffleboard",
+  "Title": "Shuffleboard Game for Windows Phone 7",
+  "Description": "This is a sample Shuffleboard game written in Silverlight for Windows Phone 7. It demonstrates physics, procedural animation, perspective transforms, and sound.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a sample Shuffleboard game written in Silverlight for Windows Phone 7. It demonstrates physics, procedural animation, perspective transforms, and sound.<br /><br /><b>Video Tutorial</b><br />A video and text walkthrough is available on the Coding4Fun site: <a href=\"http://blogs.msdn.com/b/coding4fun/archive/2010/06/15/10025512.aspx\">http://blogs.msdn.com/b/coding4fun/archive/2010/06/15/10025512.aspx</a><br /><br /><b>More Info</b><br />This project uses the <a href=\"http://physicshelper.codeplex.com\">Physics Helper Library</a> and <a href=\"http://farseerphysics.codeplex.com\">Farseer Physics Engine</a>. The solution uses multitargeting to create both Web and Phone applications using the same code base.<br /><br /><b>Important Build Notes</b><br />When you build the solution, you will likely receive an error &quot;The ValidateXml task failed unexpectedly.&quot; This is due to a security restraint on blocked assemblies, and can be resolved by following the steps <a href=\"http://www.andybeaulieu.com/Home/tabid/67/EntryID/190/Default.aspx\">in this blog post</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-15T12:59:35.953-07:00"
+}

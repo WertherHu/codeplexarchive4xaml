@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DisWpToolkit",
+  "Title": "DIS Windows Phone Toolkit",
+  "Description": "A combination of controls and helper classes used across many of my own Windows Phone apps to help with the ease of new and current Silverlight apps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A combination of controls and helper classes used across many of my own Windows Phone apps to help with the ease of new and current Silverlight apps.<br /><br />You can install the latest stable version through NuGet<br /><br />PM&gt; Install-Package DisWpToolkit</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-29T07:35:30.153-08:00"
+}

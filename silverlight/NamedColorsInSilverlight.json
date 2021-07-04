@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NamedColorsInSilverlight",
+  "Title": "Named Colors in Silverlight",
+  "Description": "This project is a Silverlight dll to add the missing named colors from System.Windows.Media.Color. Once added as a reference, it makes using named colors easy!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<hr>\r\n<h3>Project Description</h3>\r\n<hr>\r\n<p>Everybody hates that named colors aren't available in Silverlight&rsquo;s System.Windows.Media.Colors namespace. And using hex strings for colors is difficult, too. This project solves both those nuisances. It provides a DLL that makes using named colors\r\n as natural as God intended it to be. The <em>cleverly constructed</em> source code is included here, in case you care.</p>\r\n<hr>\r\n<h4>Screenshots</h4>\r\n<hr>\r\n<p>Below is a Visual Studio screenshot of some code that uses the DLL. Note the reference to the NamedColorsLibrary library and the &quot;using ColorUtilities&quot; namespace line.</p>\r\n<p><img src=\"/projects/NamedColorsInSilverlight/6c4e9b6b-7073-4c5f-bb4d-a02d3c5daaf5\" alt=\"\" width=\"987\" height=\"606\"></p>\r\n<p>Below is the standard list of all the known named colors (we have all 141 of them in the ColorUtilities namespace).<br>\r\n<br>\r\n<img src=\"/projects/NamedColorsInSilverlight/fba00c9f-6077-4d7c-857d-d78ddd7c4982\" alt=\"\" width=\"871\" height=\"679\"></p>\r\n<hr>\r\n<h4>Care and Feeding</h4>\r\n<hr>\r\n<ol>\r\n<li>Download <a id=\"fileDownload1\" tabindex=\"9\" href=\"https://namedcolorsinsilverlight.codeplex.com/downloads/get/891697\">\r\nNamedColorsLibrary-1.zip</a>&nbsp;and unzip it </li><li>Add a reference to NamedColorsLibrary in your Silvertlight app </li><li>Add a &quot;using ColorUtilities&quot; namespace line to your .cs&nbsp;file </li><li>Use it! </li></ol>\r\n<hr>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-08-16T01:07:42.1-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bjspv",
+  "Title": "Silverlight Photoviewer",
+  "Description": "This is the stand alone version of the \"Sharepoint Silverlight PhotoView WebPart\".  I have mainly used it as a test bed before changing the webpart due to difficulties in changing and testing a webpart.\n\nHowever this project has value in its own right and I am publishing it here also.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>About The Author</b><br />This project was written by Simon of <a href=\"http://www.binaryjam.com\">BinaryJam</a>.  <br /><img src=\"/projects/bjspv/f570e62a-b8fa-4535-924b-6daca058cc89\" alt=\"mugshot.jpg\" title=\"mugshot.jpg\" /><br /><br /><b>License</b><br />This has a very nice license but it does require you to attribute me the Author.  Something I&#39;m not seeing a lot of out there in the wild, from presenters and code based on this project.  You know who you are.<br /><br /><b>Project Description</b><br />This is the stand alone version of the &#34;Sharepoint Silverlight PhotoView WebPart&#34;.  I have mainly used it as a test bed before changing the webpart due to difficulties in changing and testing a webpart.<br /><br />However this project has value in its own right and I am publishing it here also.<br /><br />Example of what it looks like:<br /><br /><img src=\"/projects/bjspv/d56d0c32-801e-494e-a125-9bdb850ef4eb\" alt=\"piccy.png\" title=\"piccy.png\" /><br /><br /><a href=\"http://www.tocker.co.uk/Silverlight/PhotoViewer/Default.html\">Demo Here</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET 2.0,Silverlight,Photo Viewer,",
+  "LastEdited": "2008-04-22T03:17:04.54-07:00"
+}

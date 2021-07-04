@@ -1,0 +1,9 @@
+{
+  "ProjectName": "partialRendering",
+  "Title": "Partial rendering web control using JQuery",
+  "Description": "This article show a web custom control that allows partial rendering using JQuery",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>OverView</b><br /><br />In the last few years is very common work on n-layer web application where the front end is represented by an ASP.net website that talk with the layer below where, in a SOA context, one layer is usually represented by either WebServices or WCF to expose all the functionality using a standard completely decouple from the consumer. In the last few years the necessity to query the services using an asynchronous way is getting a key of a well done web application to avoid to refresh all the page against HTTP requests especially when we need to refresh only a portion of the web page(Partial Rendering).JQuery is getting the standard to do this job allowing the front end to post and get data using JSON format. Unfortunately in my experience to achieve this behavior I saw so many bad things first of all web services that returns HTML against a jquery call to have partial rendering. For my point of view webservice/WCF must return always either POCO objects or JSON, in the case we are querying it using JQUERY but never HTML.Some other solution are based on some kind of client side &quot;template&quot; that are going to be filled up by a client script using Jquery or javascript. With this solution against any change on the front end we have to change the template and probabily the login to bind it with the JSON response.Using this control you can have partial rendering with out make any effort!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-11T03:41:19.487-07:00"
+}

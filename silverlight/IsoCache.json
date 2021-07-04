@@ -1,0 +1,9 @@
+{
+  "ProjectName": "IsoCache",
+  "Title": "Silverlight Isolated Storage Cache",
+  "Description": "IsoCache is a small framework the make it easy to store dll's and xap files in the isolated storage so they can be use to speed up the startup of the application. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2><b>Project Description</b></h2>\rIsoCache is a small framework the make it easy to store dll&#39;s and xap files in the isolated storage so they can be use to speed up the startup of the application. <br /><br />This project provide a framework that can be use to store xap files locally in Isolated Storage. <br />There is control of the local cache items throw designated manifest. <br />In the manifest will be list of items, versions etc. <br />\n<h2>Some of the benefits</h2>\r<ol><li>Common UX throw different browser and OOB. </li>\n<li>Can be used in OOB applications. </li>\n<li>Not depend on browser cache. </li></ol>\n<br />This project is in alfa stage.<br />\n<h2>Features</h2>\r<ul><li>Controll versions throw manifest. </li>\n<li>Parallel downloads</li></ul>\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2010-12-19T05:15:14.133-08:00"
+}

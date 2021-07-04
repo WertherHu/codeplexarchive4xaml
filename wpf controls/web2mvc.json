@@ -1,0 +1,9 @@
+{
+  "ProjectName": "web2mvc",
+  "Title": "Generic MVC Control",
+  "Description": "The MvcControl<TControl> generic class was written (in C#) for the purpose of re-using the huge, great framework that we're all used to since many couple years: the ASP.NET WebForms Framework. It enables using Web Forms controls within MVC applications without the downsides.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The MvcControl&lt;TControl&gt; generic class is written for the purpose of re-using the huge, great framework that we&#39;re all used to since many couple years: the ASP.NET WebForms Framework. Since the birth of ASP.NET MVC, many of us were wondering what to do with that legacy framework that has almost become a nightmare when using MVC. This class tries to take as much as possible advantage of our so beloved WebForms control libraries. It works at least for display purposes by rendering existing web and user controls that we have built over the past years. That&#39;s already a great start. Further thoughts may be addressed to issues like modifying the rendered data when posted back to the server and so on...</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-19T18:23:50.907-07:00"
+}

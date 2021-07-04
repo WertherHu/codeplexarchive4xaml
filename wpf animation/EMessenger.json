@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EMessenger",
+  "Title": "E-Messenger",
+  "Description": "Description détaillé du sujet :\nDéveloppement d'une application (client lourd) de messagerie instantané et de partage de fichier interne à  ESPRIT.\n\n\nC#,WPF,Windows 7 API",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>E-Messenger</h1>\r\n<p><strong>Description d&eacute;taill&eacute; du sujet :</strong><br>\r\n<br>\r\nD&eacute;veloppement d'une application (client lourd) de messagerie instantan&eacute; et de partage de fichier interne &agrave;\r\n<a href=\"http://www.esprit-tn.com/\">ESPRIT</a>.<br>\r\n<br>\r\n<strong>Les objectifs sont :</strong></p>\r\n<ul>\r\n<li>Communication entre plusieurs clients </li><li>Diffusion de messages instantan&eacute;s </li><li>Envoi et r&eacute;ception de fichiers </li><li>Notification d'e-mails </li><li>Notification (t&acirc;ches, r&eacute;union, ...) </li></ul>\r\n<p><strong>Environnement et technologies :</strong><br>\r\n.Net 3.5 (C#), WPF, <a href=\"http://code.msdn.microsoft.com/WindowsAPICodePack\">Windows 7 API</a></p>\r\n<p><img src=\"https://lh5.googleusercontent.com/-n3_hbfW3ehU/TxTJYS9_fAI/AAAAAAAAAgk/II5FWE2ES9Y/s576/Sans%252520titre.png\" alt=\"Espri'Tlak main UI\" width=\"576\" height=\"486\" style=\"vertical-align:middle\"></p>\r\n<p><img src=\"https://lh4.googleusercontent.com/-oLT2hvwUc4w/TxTJYLwvZZI/AAAAAAAAAgg/hGmzv2b1xms/s677/EYP%252520Report.jpg\" alt=\"EspritBot Chat Session\" width=\"677\" height=\"448\" style=\"vertical-align:middle\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "xmpp,jabber,WPF,",
+  "LastEdited": "2012-01-16T17:08:05.35-08:00"
+}

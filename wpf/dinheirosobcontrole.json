@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dinheirosobcontrole",
+  "Title": "Dinheiro sob Contole",
+  "Description": "Dinheiro sob Controle é um programa simples, e fácil de usar, para gestão de finanças pessoais. Nele são registrados gastos e recebimentos, e com isso são gerados diversos relatórios para a análise. O programa é desenvolvido em C# 3.5 com  WPF, WF e usa os conceitos de IUI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Descri&#231;&#227;o do Projeto</b><br />Dinheiro sob Controle &#233; um programa simples, e f&#225;cil de usar, para gest&#227;o de finan&#231;as pessoais. Nele s&#227;o registrados gastos e recebimentos, e com isso s&#227;o gerados diversos relat&#243;rios para a an&#225;lise. O programa &#233; desenvolvido em C&#35; 3.5 com  WPF, WF e usa os conceitos de IUI.<br /><br /><b>M&#233;todologia de Desenvolvimento</b><br />Para o desenvolvimento deste projeto ser&#227;o adotados princ&#237;pios do &quot;Manifesto &#193;gil&quot;, principalmente com as pr&#225;ticas do Scrum como: Desenvolvimento Orientado a Testes (TDD), Sprints, Releases e Backlog.<br /><br /><b>Ferramentas Utilizadas</b>\n<ul><li>Testes de Unidade: MS Testes</li>\n<li>Mocks: Rhino Mocks</li>\n<li>Persist&#234;ncia: Linq To SQL</li>\n<li>Valida&#231;&#227;o de Objetos de Neg&#243;cio: MS Entreprise Library </li></ul>\n<br /><br /><b>Links</b>\n<ul><li> <a href=\"http://weblogs.asp.net/rashid/archive/2009/02/19/100-unit-testable-linq-to-sql-repository.aspx\">http://weblogs.asp.net/rashid/archive/2009/02/19/100-unit-testable-linq-to-sql-repository.aspx</a></li>\n<li><a href=\"http://weblogs.asp.net/rashid/archive/2009/02/26/implementing-unitofwork-pattern-in-linq-to-sql-application.aspx\">http://weblogs.asp.net/rashid/archive/2009/02/26/implementing-unitofwork-pattern-in-linq-to-sql-application.aspx</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,WF,C#,.NET 3.5,IUI,LINQ TO SQL,TDD,",
+  "LastEdited": "2009-06-17T08:37:31.567-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "genericgrid",
+  "Title": "GenericGrid",
+  "Description": "GenericGrid is a developer tool to search and page through large database tables.\r\nIt is written in ASP.NET, PHP, mySQl & SQL Server, and uses AJAX techniques.\r\nAlso uses pseudo modal popup windows to\r\nEdit and Add new records and with auto return grid record selection.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>GenericGrid</b></h1>\r\n<br /><b>Features</b>\n<ul><li>Universal paging grid, used as a basic building block for database web applications.</li>\n<li>Automatic virtual paging grid, reading large databases (millions of records accessed in 2 seconds).</li>\n<li>ASP.NET and PHP5 versions (running on IIS or Apache)</li>\n<li>Javascript protection and hidden</li>\n<li>Update, Add and Delete functions (with auto return grid record selection)</li>\n<li>AJAX modal popups (Update, Add, Calendar and Progress Bar)</li>\n<li>Multiple database connection (SQL Server, MySQL and Oracle)</li></ul>\n<br /><br /><b>Screen Shots</b><br /><br /><img src=\"/projects/genericgrid/776120d1-40e8-44e4-9a48-f94565d41112\" alt=\"GENERIDGRID1.JPG\" title=\"GENERIDGRID1.JPG\" /><br /><br />.<br /><br /><img src=\"/projects/genericgrid/d909dce5-7f0a-460f-a4f8-0aa625e2ebdf\" alt=\"GENERIDGRID2.JPG\" title=\"GENERIDGRID2.JPG\" /><br /><br />.<br /><br /><img src=\"/projects/genericgrid/49b10213-4803-492b-9019-0d9959898142\" alt=\"GENERIDGRID3.JPG\" title=\"GENERIDGRID3.JPG\" /><br /><br />.<br /><br /><img src=\"/projects/genericgrid/b95ac224-9044-4686-baed-65cc2da5118e\" alt=\"GENERIDGRID4.JPG\" title=\"GENERIDGRID4.JPG\" /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "web control,",
+  "LastEdited": "2010-09-11T17:27:33.787-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "carbonmvvm",
+  "Title": "Carbon MVVM",
+  "Description": "RAD framework for ASP.NET. Enables easy modeling of complex data structures and their mapping to the user interface.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>RAD framework built on top of ASP.NET that enables you to write web applications using MVVM paradigm.</p>\r\n<blockquote>\r\n<ul>\r\n<li>Have you ever find yourself in situation where you weren't sure, should I write this OnLoad, OnPreRender, On....?\r\n</li><li>Have you read all those books about ASP.NET, but somehow felt that they were missing the point?\r\n</li><li>Have you ever maintained someone else's code, just gave up and rewrote everything from scratch because you couldn't understand how it works?\r\n</li></ul>\r\n</blockquote>\r\n<p>Since you are here, that means that you are looking for a better way to write your ASP.NET web applications.</p>\r\n<p>Using this framework, you stop battling with ASP.NET and start being productive.</p>\r\n<p>Carbon MVVM is completely compatible with ASP.NET 3.5, 4.0, Ajax so you can freely mix Carbon enabled controls and regular ASP.NET controls.</p>\r\n<p><a title=\"Live Demo\" href=\"http://carbonmvvm.exponent.hr\" target=\"_blank\">Live demo</a></p>\r\n<p><a href=\"/SourceControl/BrowseLatest\">Source Code</a></p>\r\n<p><a title=\"twitter.com/CarbonMvvm\" href=\"http://twitter.com/CarbonMvvm\" target=\"_blank\">twitter.com/CarbonMvvm</a></p>\r\n<p>Just check out the&nbsp;<a href=\"http://carbonmvvm.exponent.hr/#examples\">examples</a>&nbsp;and compare the number of lines on each of the examples with the number of lines that you would write without it. Do you even know how would you write some of them\r\n in normal ASP.NET?</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,MVVM,RAD,WEB,C#,",
+  "LastEdited": "2012-10-16T13:18:47.717-07:00"
+}

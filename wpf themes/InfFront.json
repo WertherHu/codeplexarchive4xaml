@@ -1,0 +1,9 @@
+{
+  "ProjectName": "InfFront",
+  "Title": "InfFront",
+  "Description": "InfFront is a .NET-based UI building tool. In the first place it designed to automate development of rich highly customizable enterprise application clients. It's developed in C# programming language.\r\nKeywords: WPF, WPF Toolkit, WCF, ADO.NET, WinForms",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\r\n<b>InfFront</b> is a .NET-based UI building tool. In the first place it designed to automate development of rich highly customizable enterprise application clients. You&#39;ll no longer have to spend your time arranging and customizing grids, panels, edit boxes or buttons. Don&#39;t program  &quot;forms&quot;, &quot;wizards&quot; or mouse click &quot;handlers&quot;, just define the information you want to present and <b>InfFront</b> will show it at any .NET-based UI platform you choose.<br /><i>Keywords</i>: WPF, WPF Toolkit, WCF, ADO.NET, WinForms, ASP, C# 3.5, Visual Studio 2008<br />\n<h1>Get Started</h1>\r<ul><li>The project is still in the early development phase but it already can be used to power up a simple enterprise client application prototype. Please <b><a href=\"https://inffront.codeplex.com/wikipage?title=Intro&referringTitle=Home\">read a brief introduction and download a demo project</a></b>.</li>\n<li><a href=\"http://www.codeplex.com/InfFront/SourceControl/ListDownloadableCommits.aspx\">Download the latest svn snapshot</a> (The <a href=\"http://www.microsoft.com/downloads/details.aspx?familyid=ab99342f-5d1a-413d-8319-81da479ab0d7&amp;displaylang=en\">Microsoft .NET Framework 3.5 Service Pack 1</a> is required).</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Windows Forms,Visual Studio 2008,WPF Toolkit,C# 3.5,C# 3.0,",
+  "LastEdited": "2009-02-06T01:06:36.073-08:00"
+}

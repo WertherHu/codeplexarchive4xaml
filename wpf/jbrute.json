@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jbrute",
+  "Title": "JBrute",
+  "Description": "JBrute is a stand-alone English→Japanese and Japanese →English dictionary lookup program.\r\n\r\nIt's written in C# using WPF\r\n\r\nIt's very simple to use and fairly full-featured (key-by-key lookup, examples, kanji stroke order diagrams).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nJBrute is a stand-alone (no Internet connection required) English&rarr;Japanese and Japanese &rarr;English dictionary lookup program.<br>\r\n<br>\r\nIt's written in C# using WPF<br>\r\n<strong>Screen Shot</strong></p>\r\n<p><img src=\"https://lh4.googleusercontent.com/-rfV_Ux-Why4/T9bHUmpbCWI/AAAAAAAADp8/zo6AtnSRqgc/s800/jbrute31_screenshot0.png\" alt=\"Screenshot\" width=\"800\" height=\"498\"><strong><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Japanese,Dictionary,Kanji,",
+  "LastEdited": "2012-06-11T21:40:13.653-07:00"
+}

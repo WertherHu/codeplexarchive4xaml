@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LEET",
+  "Title": "LEET (LEET Enhances Exploratory Testing)",
+  "Description": "LEET is a capture-replay tool based on Microsoft’s User Interface Automation Framework.  It is targeted at agile teams, and provides support for user interface test-driven development (UITDD).\r\nUse in conjunction with: http://ActiveStoryEnhanced.codeplex.com",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nLEET is a capture-replay tool based on Microsoft&rsquo;s User Interface Automation Framework. It is targeted at agile teams, and provides support for:</p>\r\n<ul>\r\n<li>automated GUI tests </li><li>rule-based testing </li><li>multi-layer test architecture </li><li>user interface test-driven development (in conjunction with: <a href=\"http://ActiveStoryEnhanced.codeplex.com\">\r\nActive Story Enhanced</a>) </li></ul>\r\n<p>Check out our <a href=\"http://www.youtube.com/user/ASEUofC\">Demo Videos</a> on YouTube!</p>\r\n<p>For more information about the LEET project, check out our <a href=\"http://www.nsercsurfnet.org/pmwiki.php?n=SurfNet.ExtendingLEETSp34k\">\r\nSurfNet Page</a>.</p>\r\n<p>Try out our release candidate and let us know if LEET meets your testing needs - get in touch with tdhellmann through the People page!</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-23T11:51:51.1-07:00"
+}

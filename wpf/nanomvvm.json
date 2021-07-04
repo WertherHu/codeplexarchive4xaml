@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nanomvvm",
+  "Title": "NanoMVVM: a lightweight wpf MVVM framework",
+  "Description": "This is a lightweight C# 4.0 ViewModel-first MVVM framework designed to aid in the creation of desktop wpf applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a lightweight C&#35; 4.0 ViewModel-first MVVM framework designed to aid in the creation of desktop wpf applications.<br /><br /><br /><br />Main goals of project:\n<ul><li>quick and simple out of the box support for creating <b>ViewModel-first</b> MVVM applications</li>\n<li>offer a simple solution against repetitive code when dealing with view models of models with lots of properties</li>\n<li>offer a simple solution for MVVM window/dialog management</li>\n<li>minimal changes required, if any, to existing XAML workflow</li></ul>\n<br />Basic feature list:\n<ul><li>all relevant object tracking is via weak references</li>\n<li>all thread synchronization done via general SynchronizationContext instead of Invoke/BeginInvoke</li>\n<li>several advanced ICommand implementations, including AsyncCommand </li>\n<li>generic Mediator messaging class with weak compiled open delegates for good performance</li>\n<li>support for automatic normal/modal Window creation/showing/closing based on the WorkspaceViewModel class and storing Views as resources in ResourceDictionaries</li>\n<li>DynamicViewModel based on custom TypeDescription for automatic wrapping of model properties</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,mvvm framework,NanoMVVM,WPF,WPF MVVM,Framework,C# 4.0,C#,.NET,",
+  "LastEdited": "2012-06-17T16:20:33.56-07:00"
+}

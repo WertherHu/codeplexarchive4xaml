@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightDataPager",
+  "Title": "Silverlight Pagination using DataPager",
+  "Description": "This project demonstrates simple pagination using Microsoft Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This Project explains how to create a simple pagination using Silverlight 3.0 build int classes DataPager and PagedCollectionView.<br /><br />Using PagedCollectionView it is possible to do sorting, filtering and paging functionalities:<br />i.e.:<br />    PagedCollectionView pcv = new PagedCollectionView(allContacts);<br />    pcv.PageSize = 6;<br />    DataContext = pcv;<br /><br />for more details and to see live demo visit this post: <a href=\"http://silverlighttips.com/?tag=/pagination\">http://silverlighttips.com/?tag=/pagination</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-12-14T11:49:13.753-08:00"
+}

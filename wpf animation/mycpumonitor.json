@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mycpumonitor",
+  "Title": "My Cpu Monitor",
+  "Description": "Monitors CPU activity (% usage, temperature etc) and then records them for easy reviewing. records such information as processes taking up the most cpu, how much memory etc that process it taking.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Monitors CPU activity &#40;&#37; usage, temperature etc&#41; and then records them for easy reviewing. records such information as processes taking up the most cpu, how much memory etc that process it taking.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,wpf,cpu,cpu monitor,monitoring,",
+  "LastEdited": "2009-10-28T11:05:55.163-07:00"
+}

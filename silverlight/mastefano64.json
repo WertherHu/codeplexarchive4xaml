@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mastefano64",
+  "Title": "Silverlight master-detail/unit-of-work framework",
+  "Description": "Silverlight master-detail/unit-of-work framework. This is a library that extend the ObservableCollection<T> of the Silverlight 2 framework for traking entity that has been modified,inserted,deleted. In this way, when you call a wcf service that write data on the database, you can pass (as parameter) only the that must be write on the database. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Silverlight master-detail/unit-of-work framework. This is a library that extend<br />the ObservableCollection&lt;T&gt; of the Silverlight 2 framework for traking entity that<br />has been modified,inserted,deleted. In this way, when you call a wcf service that<br />write data on the database, you can pass (as parameter) only the entity that<br />must be write on the database. <br /><br /><b><a href=\"http://www.youtube.com/user/PhoneMicroFramework1\">My YouTube channel</a></b> <br /><b><a href=\"http://mastefano64.wordpress.com\">Blog</a></b> <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-31T00:22:22.05-07:00"
+}

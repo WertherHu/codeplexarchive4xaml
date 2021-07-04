@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wspdocgenerator",
+  "Title": "WSPDocGenerator",
+  "Description": "Generate html documentation (msdn style) of WSP extracting content and reading manifest, features and all related information. Usefull to document every WSP and to understand what WSP deploy.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Welcome to WSPDocGenerator Project!</h1>\r\n<p><strong>Project Description</strong><br>\r\nGenerate html documentation (msdn like) of WSP extracting content and reading manifest, features and all related information. Usefull to document every WSP and to understand what WSP deploy.</p>\r\n<p><strong>Compatible with SharePoint 2007, SharePoint 2010 and SharePoint 2013</strong><br>\r\n<br>\r\n</p>\r\n<p>&nbsp;</p>\r\n<p>Usage: <strong>WSPDocGenerator.exe &lt;WSPs folder&gt; &lt;output folder&gt;</strong><br>\r\n<br>\r\nParameters:</p>\r\n<ul>\r\n<li>&lt;WSPs folder&gt; wsp folder name </li><li>&lt;output folder&gt; folder used to generate documentation and extract WSP </li></ul>\r\n<p><br>\r\nOutput:</p>\r\n<ul>\r\n<li>In the output folder an html file for every wsp </li><li>In the output folder the html file 'WSP Documentation.html' with all WSPs information\r\n</li></ul>\r\n<p><br>\r\n<br>\r\nSample of generated documentation<br>\r\n<img title=\"WSPDocGenerator.png\" src=\"http://i3.codeplex.com/download?ProjectName=wspdocgenerator&DownloadId=162768\" alt=\"WSPDocGenerator.png\"></p>\r\n<h2>Visitors</h2>\r\n<p><a href=\"http://www2.clustrmaps.com/user/022c55ca\"><img src=\"http://www2.clustrmaps.com/stats/maps-no_clusters/wspdocgenerator.codeplex.com--thumb.jpg\" alt=\"Locations of visitors to this page\">\r\n</a><br>\r\n<br>\r\n<img src=\"http://www.myworldmaps.net/map.ashx/e4fc45a6-75d3-4483-8106-ad013f537d80/thumb_160\" alt=\"\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MOSS,Sharepoint,Sharepoint Tools,wsp,documentation,",
+  "LastEdited": "2013-10-21T02:56:53.913-07:00"
+}

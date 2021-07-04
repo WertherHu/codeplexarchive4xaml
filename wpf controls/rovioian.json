@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rovioian",
+  "Title": "Rovioian",
+  "Description": " I'm very happy to share my Rovio control GUI with you!\n\n  My program aims at providing something interesting on controlling rovio. By using this program, rovio can find fire, do camera navigation.You can even control rovio by image recognition! It's developed in C#.net 3.5.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /> I&#39;m very happy to share my Rovio control GUI with you&#33;<br /><br />  My program aims at providing something interesting on controlling rovio. By using this program, rovio can find fire, do camera navigation.You can even control rovio by image recognition&#33; It&#39;s developed in C&#35;.net 3.5.<br /><br /><a href=\"http://www.robocommunity.com/forum/thread/16301/Rovioian-Beta1-with-Src-and-Many-Interesting-Functions/\">http://www.robocommunity.com/forum/thread/16301/Rovioian-Beta1-with-Src-and-Many-Interesting-Functions/</a><br /><img src=\"http://www.robocommunity.com/imagelib/contentitem/15897/f0f219158e118e83--112c3dec-120fe7ec4cc--605a-718088072.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Robot,C# 3.5,.NET 3.5,rovio,wowwee,GUI,image recognition,C# 3.0,",
+  "LastEdited": "2009-07-27T16:43:29.583-07:00"
+}

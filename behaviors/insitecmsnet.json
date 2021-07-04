@@ -1,0 +1,9 @@
+{
+  "ProjectName": "insitecmsnet",
+  "Title": "insiteCMS.NET (aka insite CMS)",
+  "Description": "insiteCMS.net is a lightweight content management system that allows you to run a CMS without any DB. It has been developed using ASP.net 2.0 technology and it's based on ASP.net Resx files.\ninsiteCMS.net is a template based CMS engine: web developers can define their own page layout and, using a simple CSS class, they can define the behavior for each single page section.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />insiteCMS.net is a lightweight content management system that allows you to run a CMS without any DB. It has been developed using ASP.net 2.0 technology and it&#39;s based on ASP.net Resx files.<br />insiteCMS.net is a template based CMS engine&#58; web developers can define their own page layout and, using a simple CSS class, they can define the behavior for each single page section.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CMS,resx,Content Management,",
+  "LastEdited": "2008-08-05T06:58:06.397-07:00"
+}

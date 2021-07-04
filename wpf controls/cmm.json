@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cmm",
+  "Title": "ContextMenu Manager",
+  "Description": "ContextMenu Manager is a .NET class library (dll) that can manage editable control's (like textbox, combobox, numericupdown, ...) ContextMenu and relate it's item (Copy, Cut, Paste, ...) to toolstripitem or menustripitem.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Project name : ContextMenu Manager<br />Platform : Microsoft .NET framework 2.0  (Visual Studio 2005)<br /><br />Programmer : Hamed Masafi<br />Contact E-Mail : Hamed.Masafi (at) GMail (dot) com<br /><br /><br /><b>Project Description</b><br />ContextMenu Manager is a .NET class library &#40;dll&#41; that can manage editable control&#39;s &#40;like textbox, combobox, numericupdown, ...&#41; ContextMenu and relate it&#39;s item &#40;Copy, Cut, Paste, ...&#41; to toolstripitem or menustripitem.<br /><br /><br />for more information or report a bug send an email for me.<br /><br />Regards; Hamed Masafi</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-07-31T08:07:04.387-07:00"
+}

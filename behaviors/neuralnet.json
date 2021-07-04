@@ -1,0 +1,9 @@
+{
+  "ProjectName": "neuralnet",
+  "Title": "A neural network library in C# that allows for ragged networks",
+  "Description": "Help computer make brains.  (Well, tiny artificial mathematical abstractions of brain-like behavior).  This project is a Neural Network library designed to allow for ragged (i.e. not fully connected) networks and to allow connections that skip a layer.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Help computer make brains.  &#40;Well, tiny artificial mathematical abstractions of brain-like behavior&#41;.  This project is a Neural Network library designed to allow for ragged &#40;i.e. not fully connected&#41; networks and to allow connections that skip a layer.  <br /><br /><i><b>Current Status</b></i><br /><br />07/07/2011 - Moved To Github git://github.com/phoehne/Neural.NET.git<br /><br />I&#39;m currently updating the code to take advantage of features that came in .NET 2.0, which was released after I wrote the additional libraries.  I had Visual Studio generate tests and I&#39;m currently working to make sure that I get 100% test pass.  Currently, I&#39;ve fixed 36 out of 339 tests.  As I write tests I will also try to update the code where it makes sense.<br /><br /><a href=\"https://neuralnet.codeplex.com/wikipage?title=Fuller%20Description&referringTitle=Home\">Fuller Description</a><br /><br /><b>IMPORTANT NOTE</b><br />The project is being updated.  I haven&#39;t looked at this code since 2006-ish when I was working on a vision project for a class.  It was originally released under the GNU GPL at www.penguinwerks.com.  I&#39;m re-releasing it under a Microsoft Public License on CodePlex.  This code is <b>currently in a broken state</b>.  So, if you download it and something doesn&#39;t work, you can try to fix it or wait until I fix it.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-08T06:34:30.23-07:00"
+}

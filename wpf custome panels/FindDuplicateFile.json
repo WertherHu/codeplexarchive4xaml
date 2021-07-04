@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FindDuplicateFile",
+  "Title": "Find Duplicate file",
+  "Description": "This application is developed in WPF. you can find duplicate files from the file impression not from file size of from file name. Although this process is very time consuming.\r\n\r\nYou can search and delete the similar file from the application itself. you can also open file location and delete manually from windows explorer.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Find Duplicate File (Windows)<br /><br />This project is to find out all the duplicate files from your computer. currently this application is very slow because we are searching for SHA file impression. <br /><br />You can also delete your duplicate files from the selected list though application or through windows explorer.<br /><br />Currently Searching is about 30 sec / 500 MB of data size.<br /><br />This application is developed in WPF. <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-22T01:26:58.973-07:00"
+}

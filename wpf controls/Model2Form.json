@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Model2Form",
+  "Title": "Model2Form",
+  "Description": "An ASP.NET Control similar to GridView but it auto builds a Web From in run-time by binding a Model. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An ASP.NET Control similar to GridView but it auto builds a Web From in run-time by binding a Model. <br /><br />Details:<br />Model2Form makes building web forms very easy. Its similar to binding a GridView with a list of objects but in Model2Form you will bind only a single Model object and the control will auto builds a web form at runtime. You can customize the web form generation by ading attributs to your model properties like caption, validation and hide attributes. You also can handle form generation by handling control. created events.<br /><br />See Documentation Page for more details <a href=\"http://model2form.codeplex.com/documentation\">http://model2form.codeplex.com/documentation</a><br /><br />Developer Page: <a href=\"http://codeismagic.blogspot.com/2010/12/model2form-web-control.html\">http://codeismagic.blogspot.com/2010/12/model2form-web-control.html</a><br />صفحة المبرمج: <a href=\"http://tip2dev.blogspot.com/2010/12/model2form.html\">http://tip2dev.blogspot.com/2010/12/model2form.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WebForms,web controls,Web Forms,model,Quick,Binding,Generate,RAD,WinForms,",
+  "LastEdited": "2010-12-21T03:54:55.127-08:00"
+}

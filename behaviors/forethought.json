@@ -1,0 +1,9 @@
+{
+  "ProjectName": "forethought",
+  "Title": "Forethought",
+  "Description": "Forethought is a behavior testing framework for the .NET platform. Designed to allow requirements to be written in English and executed as tests.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Heads Up</h1>\r\nThe project has moved to GitHub: <a href=\"https://github.com/Fastlite/Forethought\">https://github.com/Fastlite/Forethought</a><br />The page editor here has driven me nuts for the last time.  This page will continue to remain active for the time being.  The latest release is being hosted on GitHub.<br />\n<hr />\n<br /><b>Project Description</b><br />Forethought is a behavior testing framework for the .NET platform. Designed to allow requirements to be written in English and executed as tests.<br /><br /><b>Status</b><br />Not quite ready for public consumption, but I had to publish.  Getting close though, I&#39;ll try to keep this status up to date.<br /><br /> <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-08-23T19:51:54.837-07:00"
+}

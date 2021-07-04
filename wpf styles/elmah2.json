@@ -1,0 +1,9 @@
+{
+  "ProjectName": "elmah2",
+  "Title": "Elmah2 : An extensable error logger for ASP.net",
+  "Description": "A project inspired by elmah (http://code.google.com/p/elmah/)\nThe primary goals of this project are\n  -> A plugin style architecture for logging modules\n  -> A very lightweight logging module\n  -> Support for multiple web apps",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A project inspired by <a href=\"http://code.google.com/p/elmah/\">elmah</a><br />The primary goals of this project are\n<ul><li>A plugin style architecture for logging modules</li>\n<li>A very lightweight logging module</li>\n<li>Support for multiple web apps</li></ul>\n<br /><b>Project News</b>\n<ul><li>12/31/2010 - This project is not dead, I&#39;ve just been unable to think of anything to add! Please post suggestions in the discussions</li>\n<li>6/15/2010 - Beta One has been released</li>\n<li>6/15/2010 - Created some documentation on how to install and configure the logger and related modules</li></ul>\n<br /><b>Known Issues</b>\n<ul><li>If a new application is added, the web ui will not recognize it until the app reloaded</li></ul>\n<br /><b>Libraries Used or Adopted</b><br /><a href=\"http://code.google.com/p/elmah/\">Elmah</a><br /><a href=\"http://www.jquery.com\">jQuery</a><br /><a href=\"http://www.flexigrid.info/\">Flexigrid</a><br /><a href=\"http://npgsql.projects.postgresql.org/\">Npgsql</a><br /><a href=\"http://www.mysql.com/downloads/connector/net/\">MySql .netconnector</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Logging,Error Handling,",
+  "LastEdited": "2010-12-31T02:00:09.61-08:00"
+}

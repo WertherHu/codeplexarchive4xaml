@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BagOTricks",
+  "Title": "Silverlight Bag of tricks",
+  "Description": "Kevin's WPF Bag-o-Tricks ported to Silverlight ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The code has been migrated to GITHUB at the following url:<br /><a href=\"https://github.com/lvaleriu/bagotricks\">https://github.com/lvaleriu/bagotricks</a><br /><br /><br /><b>Silverlight Bag of tricks</b><br />(port of Kevin&#39;s WPF Bag-o-Tricks)<br /><br />Controls:<br /> - Animated graph<br /> - Animated 2D multi-clustered graph visualizer- NEW!<br /> - Animated 3D multi-clustered graph visualizer- NEW!<br /><br />Showcase: <a href=\"http://www.iterature.com/dadameter/rrengine.php\">http://www.iterature.com/dadameter/rrengine.php</a><br />Showcase: <a href=\"http://transversal.nemox.fr/dadameteronline\">http://transversal.nemox.fr/dadameteronline</a> - NEW!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,graph,Bag of tricks,Animation,tricks,cluster,visualizer,",
+  "LastEdited": "2013-03-01T04:10:19.17-08:00"
+}

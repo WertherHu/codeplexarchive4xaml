@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gamelight",
+  "Title": "Gamelight",
+  "Description": "Gamelight is a 2D game library for Silverlight. It features 2D graphics manipulation to make the creation of games that don't adhere to traditional UI (such as sprite-based games) much easier. It also streamlines sound and input management. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">NOTE: Due to the increased feature sets of subsequent versions of Silverlight, particularly XNA, I have abandoned development of Gamelight. I have published this project anyway just in case someone would find any of the source code useful. For example, the sprite sheet stuff was pretty snazzy. Like...super Snazzy. Also, because this is such a close parallel to PyGame, it is possible to create a thin wrapper in Iron Python that allows you to play PyGame in the browser which could be fairly useful to some people. Sadly my working prototype of that was lost along with a failed laptop hard drive, but if someone else would like to pick that up, Gamelight&#39;s existence is about 80% of that work and I would be happy to give guidance. On the other hand if you are writing a C# game and want a quick way to automatically process sprite sheets into sprite images, you can also find much usefulness in the sprite sheet class. If you would like any guidance or recommendations regarding this source, feel free to contact me via the contact form on my website: <a href=\"http://www.blakeohare.com/contact/\">http://www.blakeohare.com/contact/</a><br /><br /><br /><b>Project Description</b><br />Gamelight is a 2D game library for Silverlight. It features 2D graphics manipulation to make the creation of games that don&#39;t adhere to traditional UI &#40;such as sprite-based games&#41; much easier. It also streamlines sound and input management. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-26T19:17:11.473-07:00"
+}

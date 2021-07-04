@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SQLSchemaSourceCtrl",
+  "Title": "SQL Schema Source Control",
+  "Description": "Track database schema changes automatically\r\n\r\nC# application that you can run against your SQL Databases (supports SQL 2008 right now, but you could easily support 2005 )\r\n\r\nCurrently supports SVN but could be extended to use TFS, or other source control providers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"http://blog.stevienova.com/wp-content/uploads/2010/04/sssc.png\" /><br /><br /><b>Project Description</b><br />Track database schema changes automatically<br /><br />C&#35; application that you can run against your SQL Databases &#40;supports SQL 2008 right now, but you could easily support 2005 &#41;<br /><br />Currently supports SVN but could be extended to use TFS, or other source control providers.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SQL,SVN,Source Control,Database,SQL Server,SQL Server 2008,C#,TortoiseSVN,",
+  "LastEdited": "2010-04-24T00:23:14.547-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tweetme",
+  "Title": "Tweet Me!",
+  "Description": "Tweet Me! makes it easier for tweeter users to send tweets very fast from their PC by clicking a hot-key, typing the tweet and press enter. With Tweet Me! You'll no longer have to use a complex application for just sending your daily or hourly tweets. It's developed in C# and WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Tweet Me&#33; makes it easier for tweeter users to send tweets very fast from their PC by clicking a hot-key, typing the tweet and press enter. With Tweet Me&#33; You&#39;ll no longer have to use a complex application for just sending your daily or hourly tweets. It&#39;s developed in C&#35; and WPF.<br /><br />For example, by simply pressing on <i>Ctrl+Q</i> while you work with your machine, the following tweet-bar popup appears:<br /><img src=\"/projects/tweetme/53303b88-3c0a-44ca-88fe-c9e301923aad\" alt=\"TweetMe.png\" title=\"TweetMe.png\" /><br /><br />Now you have a chance to write what you&#39;r doing or to post any message. Write it down and press &#39;Enter&#39;. You&#39;re done!<br /><img src=\"/projects/tweetme/0b96d081-bb5a-4c81-a7b0-e9341df6d729\" alt=\"TweetMe2.png\" title=\"TweetMe2.png\" /><br /><br />This is it for the first iteration.<br />If you have any comments or wishes, please let me know.<br /><br /><b>Credits</b><br />NTwitter - C# .NET Twitter Library - <a href=\"http://wpffx.codeplex.com\">http://wpffx.codeplex.com</a><br />Windows Presentation Foundation Pixel Shader Effects Library - <a href=\"http://ntwitter.codeplex.com\">http://ntwitter.codeplex.com</a><br /><br /><br />Tomer Shamam<br /><a href=\"http://blogs.microsoft.co.il/blogs/tomershamam\">http://blogs.microsoft.co.il/blogs/tomershamam</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MARLON DOLL,",
+  "LastEdited": "2009-09-03T15:42:07.337-07:00"
+}

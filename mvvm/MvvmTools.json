@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MvvmTools",
+  "Title": "MVVM Tools",
+  "Description": "The MMVM tools provides you some comfortable tools to help you to write your UI application simply and fast.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MVVM Tools</b><br />The MMVM tools provides you some comfortable tools to help you to write your UI application simply and fast.<br /><br />It is assumed that the library have to work on following platforms Microsoft:\n<ul><li>.Net Framework 4 and higher</li>\n<li>Silverlight 4 and higher</li>\n<li>Windows Phone 8 and higher</li>\n<li>.Net for Windows Store apps</li></ul>\n<br /><a href=\"https://www.nuget.org/packages/MvvmTools/\">NuGet pakage</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,NPC,",
+  "LastEdited": "2015-02-26T08:59:06.053-08:00"
+}

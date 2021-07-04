@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GreyableImage",
+  "Title": "GreyableImage (moved to GitHub)",
+  "Description": "GreyableImage allows to make WPF Image grey itself out when it is disabled. Useful for Toolbar, Menu or Button icons.",
+  "MovedLink": "https://github.com/AlexeyPotapov/GreyableImage",
+  "HomeWiki": "<div class=\"wikidoc\"><h4>Project Description</h4>\rGreyableImage allows to make WPF Image grey itself out when it is disabled. Useful for Toolbar, Menu or Button icons.<br />\n<h4>Details</h4>\r<b><span class=\"codeInline\">GreyableImage</span></b> - subclasses WPF Image control, allowing it to grey itself out when disabled.<br /><br /><pre>    &lt;Button&gt;\n        &lt;gi:GreyableImage Source=&quot;image.png&quot;/&gt;\n    &lt;/Button&gt;</pre><br /><br /><b><span class=\"codeInline\">ImageGreyer</span></b> - exposes attachable dependency property <b><span class=\"codeInline\">IsGreyable</span></b>. When <b><span class=\"codeInline\">IsGreyable</span></b> is attached to WPF Image control it makes it greyable. This class allows for exactly the same thing as the one above, but does not require you to use nonstandard WPF controls.<br /><br /><pre>    &lt;Button&gt;\n        &lt;Image Source=&quot;image.png&quot; gi:ImageGreyer.IsGreyable=&quot;true&quot;/&gt;\n    &lt;/Button&gt;</pre><br /><br />In both cases when the button is disabled the Image inside it turns greyscale.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Greyable image,Disabled Image,Greyscaled image,GreyableImage,",
+  "LastEdited": "2009-01-23T03:55:03.19-08:00"
+}

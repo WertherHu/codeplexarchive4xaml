@@ -1,0 +1,9 @@
+{
+  "ProjectName": "db4o",
+  "Title": "db4o Open Source Object Database",
+  "Description": "db4o is the open source object database that enables Java and .NET developers to slash development time and costs and achieve unprecedented levels of performance. The unique design of db4o's native object database engine makes it the ideal choice to be embedded in equipment and devices, in packaged software running on mobile or desktop platforms, or in real-time control systems - in short: in all Java and .NET environments, where no database administrator (DBA) is present.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />db4o is the open source object database that enables Java and .NET developers to slash development time and costs and achieve unprecedented levels of performance. The unique design of db4o&#39;s native object database engine makes it the ideal choice to be embedded in equipment and devices, in packaged software running on mobile or desktop platforms, or in real-time control systems - in short&#58; in all Java and .NET environments, where no database administrator &#40;DBA&#41; is present.<br /><br />For more information see our main website: <a href=\"https://db4o.codeplex.com/wikipage?title=http%3a%2f%2fwww.db4o.com&referringTitle=Home\">http&#58;&#47;&#47;www.db4o.com</a><br /><br />And also check our community website: <a href=\"https://db4o.codeplex.com/wikipage?title=http%3a%2f%2fdeveloper.db4o.com&referringTitle=Home\">http&#58;&#47;&#47;developer.db4o.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Database,Compact Framework,embedded,native,object database,C# database,Java database,Native Queries,",
+  "LastEdited": "2007-03-15T20:35:13.777-07:00"
+}

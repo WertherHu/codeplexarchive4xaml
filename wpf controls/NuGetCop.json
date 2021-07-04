@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NuGetCop",
+  "Title": "NuGetCop",
+  "Description": "MSBuild tasks that allows to control your NuGet package versions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>NuGetCop</b><br />MSBuild tasks that allows to control your NuGet package versions.<br /><br /><br />This project is currently under development</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-18T01:40:49.81-07:00"
+}

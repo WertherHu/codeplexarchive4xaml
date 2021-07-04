@@ -1,0 +1,9 @@
+{
+  "ProjectName": "conference",
+  "Title": "Conference",
+  "Description": "This is the web project based on Silverlight and WCF which provides the possibility of establishing sound- and video-connection between users directly on the web-page (in the Silverlight container). It's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>This is the web project based on Silverlight and WCF which provides the possibility of establishing sound- and video-connection between users directly on the web-page (within Silverlight container). It's developed in C#.</p>\r\n<p>Basically this project is a videochat, but right now it can be used without lags only for local networks because it needs high-speed connection between client and server.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-11T02:01:22.033-07:00"
+}

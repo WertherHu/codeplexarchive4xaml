@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dbdatasource",
+  "Title": "DbDataSource",
+  "Description": "DbDataSource is a ASP.NET WebForms DataSource control for simple use with EntityFramework CodeFirst.",
+  "MovedLink": "https://github.com/simonegli8/DbDataSource",
+  "HomeWiki": "<div class=\"wikidoc\"><b>About DbDataSource</b><br />DbDataSource is a ASP.NET WebForms DataSource control for simple use with EntityFramework CodeFirst.<br /><br />You can add a datasource in your markup like so:<br /><br /><span class=\"codeInline\"> &lt;ss:DbDataSource ID=&quot;source&quot; runat=&quot;server&quot; Source=&quot;Namespace.MyDbContext.MyDbSetProperty&quot; /&gt; </span><br /><br />You can also filter the result with LINQ in the Where property and select values with the Select property like so:<br /><br />Where:<br /><br /><span class=\"codeInline\"> &lt;% source.Where = set =&gt; set.OfType&lt;MyEntityType&gt;().Where(s =&gt; My where expression here)) %&gt; </span><br /><br />Select:<br /><br /><span class=\"codeInline\"> &lt;% source.Select = set =&gt; set.OfType&lt;MyEntityType&gt;().Select(s =&gt; My select expression here)) %&gt; </span><br /><br />Note: If you set the Select property, you cannot insert, update and delete anymore on the DataSource.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-16T12:38:43.377-08:00"
+}

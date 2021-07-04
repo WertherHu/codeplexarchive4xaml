@@ -1,0 +1,9 @@
+{
+  "ProjectName": "coderay",
+  "Title": "CodeRay - MVVM Debugger",
+  "Description": "CodeRay is a utility that shows a WPF application's view-view model architecture in a tree-structured layout and displays in real-time databinding updates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>CodeRay is a WPF debugging/documentation utility that displays&nbsp;an&nbsp;application's MVVM architecture in a tree-structured layout and also reports&nbsp;in real-time all data binding updates.</p>\r\n<p>This capability requires minor changes to the client WPF application. <br>\r\n<br>\r\nCodeRay will not work with WPF frameworks such as Prism and Caliburn-Micro.<br>\r\n<br>\r\nA sample CodeRay screen is shown below.&nbsp; In the tree, the view models are in blue, the view model collections in green, and the views in red.&nbsp; In the data grid, real-time databinding updates are displayed.</p>\r\n<p><img src=\"http://i.imgur.com/9p9kkLu.jpg\" alt=\"\" width=\"826\" height=\"480\"></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-22T17:36:29.36-07:00"
+}

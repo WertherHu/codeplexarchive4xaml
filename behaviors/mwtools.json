@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mwtools",
+  "Title": "Mediawiki tools for Office",
+  "Description": "The current version installs an Outlook 2007 plugin. This plugin adds a send to wiki command to the outlook context menu. The functionality is very similar to the behavior of the One Note plugin which is installed in office 2007. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Overview</h1>\rThe current version installs an <b>Outlook 2007 </b> and <b>Word 2007</b> add-in. This plugin adds a <b>&quot;send to wiki&quot;</b> command to the <b>outlook context menu</b>. The functionality is very similar to the behavior of the <b>One Note plugin</b> which is installed in office 2007.   In addition, the submission functionality is <b>pluggable</b>, allowing submissions to other types of web <b>REST compatible</b> applications such as <b>ASP.Net MVC</b>.  It is also possible to <b>develop new submission plug-ins</b> and easily incorporate into the main outlook plugin.<br /><br />The plugin also integrates with <b>Microsoft Word</b>.  In word 2007, under add-ins, a submit button should be present which enables a user to submit the current document to the wiki server.<br />\n<h1>Current Functionality</h1>\r<h2>Outlook Add In</h2>\r<ul><li>Can Export Email in mediawiki or xml format and post item to mediawiki server</li>\n<li>Exports all outlook objects with fully populated semantic properties (see <a href=\"http://www.semanticmediawiki.org\">http://www.semanticmediawiki.org</a>)</li></ul>\n<h2>Word Add In</h2>\r<ul><li>Exports a word document to mediawiki server</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Outlook addin,mediawiki,Export Tools,Plug Framework,outlook 2007,WiX,Outlook,Word 2007,",
+  "LastEdited": "2011-06-09T05:12:16.663-07:00"
+}

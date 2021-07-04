@@ -1,0 +1,9 @@
+{
+  "ProjectName": "partition",
+  "Title": "Database Partitioning Management",
+  "Description": "This project builds a flexible tool for DBAs to manage and control partition in SQL Server.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis project builds a flexible tool for DBAs to manage and control partition in SQL Server.<br>\r\n<br>\r\n<br>\r\nThis application helps DBA to manage and control his SQL Server Database's Partitioning. Please give me any comment to nghinh@gmail.com.<br>\r\n<br>\r\nFeatures of this application includes:<br>\r\n- Define Partition Function<br>\r\n- Define Partition Schema<br>\r\n- Generate Partition Table SQL Script<br>\r\n- Generate moving data files<br>\r\n- Generate backup/restore script<br>\r\n- Show partition information<br>\r\n- Show partition schemas/function</p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"https://pbs.twimg.com/media/Bci9HsKCUAIiPUS.png\" alt=\"Application Figure\" width=\"600\" height=\"450\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "partition,sql server,partitioning,database partition,",
+  "LastEdited": "2013-12-29T19:37:23.62-08:00"
+}

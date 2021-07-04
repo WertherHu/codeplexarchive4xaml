@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfgraph",
+  "Title": "WPFGraph",
+  "Description": "WPFGraph is a tool to create animations of graph algorithms using a WPF based 3D rendering engine.\r\n",
+  "MovedLink": "https://github.com/danielpalme/WpfGraph",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>WpfGraph</h1>\r\n<table style=\"border:solid .5em #ff7e00!important; width:100%!important\">\r\n<tbody>\r\n<tr>\r\n<td style=\"border:none!important\">\r\n<p><br>\r\n<img title=\"Github\" src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=reportgenerator&DownloadId=1427048\" alt=\"Github\"></p>\r\n</td>\r\n<td style=\"border:none!important\">\r\n<h2 style=\"color:red; margin:0px!important; width:auto!important; height:auto!important\">\r\nAttention</h2>\r\n<h3>The project is now hosted on&nbsp;<a href=\"https://github.com/danielpalme/WpfGraph\">Github</a>.<br>\r\nPlease submit issues and discussions there.</h3>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "graph,Animation,WPF 3D,Algorithms,graph theory,",
+  "LastEdited": "2017-04-02T14:03:27.667-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "juniortour",
+  "Title": "JuniorTour - Junior Golf Tour Silverlight Application",
+  "Description": "JuniorTour makes it easier for golf tour operators to publish tournament results for multiple divisions and multiple seasons.  You'll no longer have to manually edit player pages, tournament results, or compute rankings.  It's developed in C# and Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Project Description</h1>\r\n<p>JuniorTour makes it easier for golf tour operators to publish tournament results for multiple divisions and multiple seasons. You'll no longer have to manually edit player pages, tournament results, or compute rankings. It's developed in C# and Silverlight\r\n with the MVVM design pattern.</p>\r\n<p><a href=\"http://download.codeplex.com/download?ProjectName=juniortour&DownloadId=178214\"><img title=\"PremierJuniorTour\" border=\"0\" alt=\"PremierJuniorTour\" src=\"http://download.codeplex.com/download?ProjectName=juniortour&DownloadId=178215\" width=\"244\" height=\"103\" style=\"border-bottom:0px; border-left:0px; padding-left:0px; padding-right:0px; display:inline; border-top:0px; border-right:0px; padding-top:0px\"></a></p>\r\n<p>You can see the application in action here: <a href=\"http://www.premierjuniortour.com/results/Results.html\">\r\nhttp://www.premierjuniortour.com/results/Results.html<span></span></a></p>\r\n<h1>Purpose</h1>\r\n<p>The purpose for this project in CodePlex is not necessarily to serve other golf tour operators, but rather to serve as example code for someone exploring C#, Silverlight, and the MVVM design pattern.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Silverlight,MVVM,Example,Golf,Linq,WebClient,Tutorial,",
+  "LastEdited": "2010-12-09T10:04:57.537-08:00"
+}

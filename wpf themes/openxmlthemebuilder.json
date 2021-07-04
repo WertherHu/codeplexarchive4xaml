@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openxmlthemebuilder",
+  "Title": "Open XML Theme Builder",
+  "Description": "The Open XML Theme Builder is a tool that helps with the creation of theme files (*.thmx) that encapsulate the visual appearance and formatting of a document in order to help create a better looking document.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The Open XML Theme Builder tool<br /><br />Download the latest version of the Theme Builder tool on the &quot;Downloads&quot; page.  This is the same installer that was previously availible on <a href=\"http://connect.microsoft.com/themebuilder\">http://connect.microsoft.com/themebuilder</a>. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "xml,themes,Tools,Open XML,Packaging API,GUI,Office 2007,",
+  "LastEdited": "2012-07-20T11:15:22.057-07:00"
+}

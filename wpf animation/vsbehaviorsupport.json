@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vsbehaviorsupport",
+  "Title": "Behavior in Visual Studio 2010 WPF and Silverlight Designer- Support Tool",
+  "Description": "This tool supports to add the Behavior, Trigger / Action to the Visual Studio 2010 WPF and Silverlight designer.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis tool supports to add the Behavior, Trigger / Action to the Visual Studio 2010 WPF and Silverlight designer.</p>\r\n<p><a href=\"http://www.youtube.com/watch?v=00exiFxUQSs&feature=player_embedded\" target=\"_blank\">Movie</a><br>\r\n<br>\r\n<strong>概要</strong><br>\r\nVisual Studio 2010のWPFとSilverlightデザイナでExpression BlendのBehaviorとTrigger/Actionをサポートするためのツールです。<br>\r\nBehaviorを追加するコントロールを選択する。<br>\r\n<img title=\"WS000013.JPG\" src=\"http://i3.codeplex.com/download?ProjectName=vsbehaviorsupport&DownloadId=207144\" alt=\"WS000013.JPG\"><br>\r\n<br>\r\nBehaviorを選択するダイアログ<br>\r\n<img title=\"WS000014.JPG\" src=\"http://i3.codeplex.com/download?ProjectName=vsbehaviorsupport&DownloadId=207145\" alt=\"WS000014.JPG\"><br>\r\n<br>\r\nTrigger/Actionを選択するダイアログ<br>\r\n<img title=\"WS000015.JPG\" src=\"http://i3.codeplex.com/download?ProjectName=vsbehaviorsupport&DownloadId=207146\" alt=\"WS000015.JPG\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-12T19:38:58.07-08:00"
+}

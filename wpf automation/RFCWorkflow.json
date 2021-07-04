@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RFCWorkflow",
+  "Title": "Automating the Request for Change Process Using SharePoint Workflow",
+  "Description": "",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br /><br />This project includes a Microsoft SharePoint site definition, a custom list, a custom web part and workflow template. It is developed for use with the Microsoft Office SharePoint Server 2007.<br /><br />The Project Team Site and components were developed as part of my Masters of IT course at the Queensland University of Technology (QUT) in Brisbane, Australia. It is the conclusion of a project to evaluate project management processes from major project management methodologies for automation, aiming to reduce the time and effort required to execute and manage these processes thereby reducing project costs. The process selected and modelled for automation is the Request for Change process.<br /><br />Some acknowledgements for resources used during this project. The Microsoft Office SharePoint Server 2007 SDK  and the Enterprise Content Management Starter Kit were very useful in demonstrating techniques to develop the state machine workflow.  I have also found the Visual Studio 2005 template by Rich Finn an excellent resource to understand how to build solution packages. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "workflow,Web Part,automation,Project Management,SharePoint 2007,RFC,Project processes,site definition,PRINCE2,",
+  "LastEdited": "2007-11-04T00:58:09.077-07:00"
+}

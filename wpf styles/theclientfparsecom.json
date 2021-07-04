@@ -1,0 +1,9 @@
+{
+  "ProjectName": "theclientfparsecom",
+  "Title": "THE-CLIENT-f-PARSE.com",
+  "Description": "This is a Windows 10 WPF App to manage your Parse.com apps with a windows client.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a Windows 10 WPF App to manage your Parse.com apps with a windows client.<br /><br />This project is a client applicaton for PARSE.COM. You are able to connect to different parse.com apps with id and .net key. You can add classes and connect items with each other.<br /><br /><img src=\"/projects/theclientfparsecom/1e85c483-af64-4db1-854b-8bc0bf347bff\" alt=\"the_client_for_parse_com.png\" title=\"the_client_for_parse_com.png\" /><br />You can edit an item if you select one. You can also add properties on right side.<br /><br /><img src=\"/projects/theclientfparsecom/d70b8f7c-2a40-4571-8afa-d4b15cd7e705\" alt=\"the_client_for_parse_com_2.png\" title=\"the_client_for_parse_com_2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "parse.com,Windows 10,Client,wpf,xaml,wunderlist,",
+  "LastEdited": "2015-08-02T00:58:50.163-07:00"
+}

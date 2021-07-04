@@ -1,0 +1,9 @@
+{
+  "ProjectName": "furesoftstyling",
+  "Title": "Furesoft.Styling",
+  "Description": "Style your Form with CSS\r\n\r\npublic partial class Form1 : CSSForm\r\n\r\n...\r\n\r\nStyle = \"btn { property: value; }\";\r\n\r\nvalue can be: 'string', red, 12px, rgb(255,255,255), r",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Style your Form with CSS<br /><br />public partial class Form1 &#58; CSSForm<br /><br />...<br /><br />Style &#61; &#34;btn &#123; property&#58; value&#59; &#125;&#34;&#59;<br /><br />value can be&#58; &#39;string&#39;, red, 12px, rgb&#40;255,255,255&#41;, r</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-11-22T01:10:33.21-08:00"
+}

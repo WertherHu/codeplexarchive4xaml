@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharpgl",
+  "Title": "SharpGL",
+  "Description": "SharpGL is a C# library that allows you to use OpenGL in your WinForms, WPF or Silverlight application with ease.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>CodePlex is shutting down. SharpGL has moved to:&nbsp;<a href=\"https://github.com/dwmkerr/sharpgl\" target=\"_blank\">github.com/dwmkerr/sharpgl</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sharpGL,",
+  "LastEdited": "2017-07-25T08:17:02.553-07:00"
+}

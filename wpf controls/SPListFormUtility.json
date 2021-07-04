@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPListFormUtility",
+  "Title": "SharePoint standart list form javascript utility (SPListFormUtility)",
+  "Description": "SPListFormUtility is a small JavaScript library, that helps control the appearance and behavior of standart SharePoint list forms. SharePoint 2010, 2013 support",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">SPListFormUtility is a small JavaScript library, that helps control the appearance and behavior of standart SharePoint list forms.<br /><br />SPListFormUtility allow you to:\n<ul><li>set/get fields values</li>\n<li>hide fields</li>\n<li>disable fields</li>\n<li>helps control the appearance and behavior of controls (add custom css, modify html and so on)</li></ul>\n<br />SPListFormUtility work only with standart SharePoint list item pages:\n<ul><li>DispForm.aspx</li>\n<li>EditForm.aspx</li>\n<li>NewForm.aspx</li></ul>\n<br />Characteristic:\n<ul><li>SharePoint 2010, SharePoint 2013 support</li>\n<li>jQuery needed</li>\n<li>use internal fields names (see documentation)</li>\n<li>automatic detect culture settings for SPFieldDateTime fields</li></ul>\n<br />Quick start<br /><pre>\n$(document).ready(function () {\n    ExecuteOrDelayUntilScriptLoaded(function () {\n\n        // Title - internal field name\n        var field = new Igotta.StandartListFormsUtility.SPFieldText(&#39;Title&#39;);\n        field.setValue(&#39;TEST&#39;);\n\n    }, &quot;sp.js&quot;)\n});\n</pre><br /><br />See <a href=\"https://splistformutility.codeplex.com/documentation\">https://splistformutility.codeplex.com/documentation</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,jQuery,",
+  "LastEdited": "2013-01-10T06:52:24.103-08:00"
+}

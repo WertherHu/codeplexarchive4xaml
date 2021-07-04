@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FITSExplorer",
+  "Title": "FITSExplorer",
+  "Description": "FITS Explorer is designed to allow astronomers to quickly and easily browse and preview the image and metadata stored in FITS files. The application was developed using primarily WPF and C#, with some low-level data manipulation routines written in C++ for high-performance.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />FITS Explorer is designed to allow astronomers to quickly and easily browse and preview the image and metadata stored in FITS files. The application was developed using primarily WPF and C&#35;, with some low-level data manipulation routines written in C&#43;&#43; for high-performance.<br /><br />FITS Explorer does not make use of existing open-source FITS libraries, instead a small kernel of high-performance C++ functions has been developed to allow the creation of thumbnails and full-size previews of FITS image data. Other common image formats, such as jpeg, tiff, png, etc., are also supported.<br /><br /><img src=\"http://rarcher.net/_images/FITSExplorerMd.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-13T05:04:52.897-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "danielsingleton",
+  "Title": "Daniel Singleton for C++",
+  "Description": "An elegant solution for C++ singletons using dependency declaration to control lifetime. One object created during any execution, lazy-init, thread safety... nice and compact.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Daniel Singleton</h1>\r\nAn elegant solution for C&#43;&#43; singletons using dependency declaration to control lifetime. One object created during any execution, lazy-init, thread safety... nice and compact.<br /><br />See the <a href=\"https://danielsingleton.codeplex.com/documentation?referringTitle=Home\">documentation</a>!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-12T04:59:51.06-08:00"
+}

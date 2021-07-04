@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vfacewall",
+  "Title": ".NET vFaceWall",
+  "Description": ".NET vFaceWall is autility script written in asp.net which allows developer to build next generation facebook wall style user profiles for asp.net websites.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />.NET vFaceWall utility script and project allow you to build next generation professional facebook wall style content posting and sharing solution within your existing or new asp.net project or website.<br /><br />It uses latest asp.net and web standards including jquery and twitter bootrap for making next generation user interface.<br />\n<h1>Features:</h1>\r<ul><li>User registeration and signup process.</li>\n<li>Auto signup through facebook.</li>\n<li>Jquery &amp; twitter bootstap compatible user interface</li>\n<li>Complete script for posting content, comments and perform other actions</li>\n<li>Control panel for managing users, posts and comments.</li>\n<li>Advertisement management.</li>\n<li>Ip block management.</li>\n<li>Multiple language user interface</li>\n<li>and other features</li></ul>\n<br />For more information visit <a href=\"http://www.mediasoftpro.com/vfacewall/\">http://www.mediasoftpro.com/vfacewall/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-24T10:01:32.48-08:00"
+}

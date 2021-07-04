@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ReflectionTools",
+  "Title": "ReflectionTools",
+  "Description": "Take the pain out of dealing with Reflection APIs from .NET.  Includes Win32 and WinRT support.  Build against .NET 4.5",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>ReflectionTools</h1>\r\nA rather large collection of helper functions to help with common, and not so common reflection tasks.  Useful functionality includes:<br />\n<ul><li><b>Property Expression Support</b> i.e.  (x =&gt; x.MyProp)</li>\n<li><b>Type Conversion</b> Improved type conversion that isn&#39;t supported via System.Convert, etc.</li>\n<li><b>Attribute Support</b> Easily discover and resolve attributes on types and members.</li>\n<li><b>WinRT Support</b> Some of the tools have been ported to work with WinRT / Win8.  Development for this platform is ongoing.</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,reflection,.NET,WinRT,",
+  "LastEdited": "2014-04-11T07:59:59.203-07:00"
+}

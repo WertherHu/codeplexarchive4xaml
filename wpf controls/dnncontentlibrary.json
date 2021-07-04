@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnncontentlibrary",
+  "Title": "DNN Content Library",
+  "Description": "A library project that includes sample modules that includes controls that work with the Content Items added in DotNetNuke 4.5.x. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A &#39;Library&#39; project that includes controls that can be used in other modules. Each control also has a &#39;test&#39; module that can be used for an integration sample. All controls here are based around DotNetNuke&#39;s Content Items and will consist of:\n<ul><li>Rating Control</li>\n<li>Comments Control</li>\n<li>Review Control</li>\n<li>Related Items Control</li>\n<li>Forum Discussion Control</li>\n<li>Tag Cloud</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotNetNuke,C#,",
+  "LastEdited": "2010-07-15T09:50:38.767-07:00"
+}

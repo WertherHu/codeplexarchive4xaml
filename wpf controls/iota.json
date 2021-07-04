@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iota",
+  "Title": "Iota",
+  "Description": "Windows client for Twitter that uses .NET 3.0 Windows Presentation Foundation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windows client for Twitter that uses .NET 3.0 Windows Presentation Foundation.<br />This project is intended to show off the stylings of WPF while feeding the Twitter craze. <br />\n<h3>Current Screenshot:</h3>\r<img src=\"/projects/iota/4eac106d-5991-479b-83d6-2acf75153d74\" alt=\"iota.png\" title=\"iota.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,twitter,",
+  "LastEdited": "2007-05-16T07:19:45.48-07:00"
+}

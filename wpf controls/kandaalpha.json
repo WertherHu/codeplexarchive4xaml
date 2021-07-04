@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kandaalpha",
+  "Title": "KandaAlpha DDD Architecture - MVC, Dependency Injection, Repository and db4o",
+  "Description": "A  vs.net 2010 beta 1 solution which provides a sample domain drive design architecture  separated into Presentation, Application, Domain and Infrastructure layers. \n\nTechnologies in use are visual studio 2010 beta  ASP.Net MVC 1.0, Entity Framework 4.0 and db4o.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A  vs.net 2010 beta 1 solution which provides a sample domain drive design architecture  separated into Presentation, Application, Domain and Infrastructure layers. <br /><br />Technologies in use are visual studio 2010 beta  ASP.Net MVC 1.0, Entity Framework 4.0 and db4o.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "mvc,db4o,dependency injection,Repository,Domain Driven Design,Inversion of Control,",
+  "LastEdited": "2009-06-26T02:59:45.347-07:00"
+}

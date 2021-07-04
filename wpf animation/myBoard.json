@@ -1,0 +1,9 @@
+{
+  "ProjectName": "myBoard",
+  "Title": "myBoard",
+  "Description": "myBoard is a port of Mac OS X dashboard for Windows. The nice thing about myBoard is that you create gadgets with Visual Studio using C#, VB.NET & WPF !\n\nIt is developed by Yann ALET (http://www.yannalet.com).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nmyBoard is a port of Mac OS X dashboard for Windows. The nice thing about myBoard is that you create gadgets with Visual Studio using C#, VB.NET &amp; WPF !<br>\r\n<br>\r\nIt is developed by Yann ALET.</p>\r\n<p>And in case you don't know, Dashboard is an application for Apple's Mac OS X operating systems, used for hosting mini-applications known as widgets. First introduced in Tiger, it is a semi-transparent layer that is invisible to the user unless activated\r\n by clicking its icon in the Dock. Alternatively, the user can invoke Dashboard by moving the cursor into a preassigned hot corner, or by pressing a hot key, both of which can be set to the user's preference.</p>\r\n<p>When Dashboard is activated, the user's desktop is dimmed and widgets appear in the foreground. Like application windows, they can be moved around, rearranged, deleted, and recreated (so that more than one of the same Widget is open at the same time, possibly\r\n with different settings). New widgets can be opened, via an icon bar on the bottom of the layer, by dragging a widget icon out into the layer. After loading, the widget is ready for use.</p>\r\n<p><a href=\"https://www.youtube.com/watch?v=roA8V-vQiiQ\" target=\"_blank\">See it in action</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-06T17:31:31.07-08:00"
+}

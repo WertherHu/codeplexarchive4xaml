@@ -1,0 +1,9 @@
+{
+  "ProjectName": "alm4crmtoolkit",
+  "Title": "ALM for CRM Toolkit",
+  "Description": "Version Control for Microsoft Dynamics CRM, to track, build and deploy Customizations(Entities, Forms & Views etc), Plugis & Workflos and Web Resources.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2><b>ALM for CRM Toolkit</b></h2>\r\nThe main aim of this project is to offer Enterprices that implement Microsoft Dynamics CRM projects, a structured, repeatable, predictable and documented way to manage their application life cycle.<br /><br />The focus of the this project is to offer the toolset required to fully integrate the Dynamics Platform into TFS and not just the Plugins and Workflow code as has been seen before with other projects.<br /><br />The Toolkit will allow for the tracking of changes in the following aspects of Dynamics CRM.<br />\n<h2>Focus Areas</h2>\r\n<b>Version Control</b><br /><br />*CRM Customizations (Entities,Forms &amp; Views)<br />*Plugins &amp; Workflows<br />*Web Resources <br /><br /><b>Release Management</b><br /><br />*Build<br />*Deployment Automation<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-06-19T22:12:26.833-07:00"
+}

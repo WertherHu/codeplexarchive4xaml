@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iimeter",
+  "Title": "II Meter",
+  "Description": "A simple rectangular \"meter\" control, intended for use as a progress bar or similar in Windows Forms. \n\nIt has 5 properties:\n- NMinPosition & NMaxPosition define the range of possible values (eg 0-100)\n- NPosition sets the current position between these 2 extremes\n- ForeColor is the color painted from the start to NPosition\n- BackColor is the color painted from NPosition to the end.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple rectangular &#34;meter&#34; control, intended for use as a progress bar or similar in Windows Forms. <br /><br />It has 5 properties&#58;<br />- NMinPosition &#38; NMaxPosition define the range of possible values &#40;eg 0-100&#41;<br />- NPosition sets the current position between these 2 extremes<br />- ForeColor is the color painted from the start to NPosition<br />- BackColor is the color painted from NPosition to the end.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c++,.NET 3.5,Windows Forms,Controls,",
+  "LastEdited": "2008-01-22T19:06:14.763-08:00"
+}

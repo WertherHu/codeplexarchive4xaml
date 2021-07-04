@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slTimeOut",
+  "Title": "Setting timeout for SharePoint 2010 Silverlight web part",
+  "Description": "This web part overwrites 5sec hard-coded timeout for SharePoint 2010 Silverlight web part.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Please read <a href=\"http://buyevich.blogspot.com/2011/02/setting-time-out-for-silverlight-web.html\" target=\"_blank\">\r\nmy blog</a></p>\r\n<p>You can find wsp package and source code on Downloads page.</p>\r\n<p>Regards,</p>\r\n<p>Vladimir.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-18T06:55:14.31-08:00"
+}

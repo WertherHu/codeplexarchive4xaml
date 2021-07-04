@@ -1,0 +1,9 @@
+{
+  "ProjectName": "StdCtrlSkinTool",
+  "Title": "VC Control Layout and Skin Tool",
+  "Description": "configurable\r\nlayout management\r\nskin management\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />configurable<br />layout management<br />skin management<br /><br /><br /><br />StdCtrlSkinTool is a layout and skin management tool that enables you to manage your applications using MFC controls.<br /><br />This is how the name from:\n<ul><li>StdCtrl\t-\tStandard controls in Visual C++</li>\n<li>Skin\t\t-\tSkin management</li></ul>\n<br />This tool can manage the layout of any control which derived from CWnd class. You can manage the layout and skins with a simple xml configure file, plus little modification to your application. Any control could be used, no matter it is from the Microsoft Visual Studio, or from a third-party vendor.<br /><br />Why not DirectUI<br />With StdCtrlSkinTool, you can get all the functionalities that DirectUI could provide. With an xml file, you will be able to:\n<ul><li>Change the skin of your application</li>\n<li>Change the layout of your application</li></ul>\nAll of these could be got by a simple xml file.<br />Furthermore, there are much more controls available for you. With DirectUI, there are only very limited controls available, and you will have to create your own in case you need more. But with StdCtrlSkinTool, certainly you will find the control desired.<br />As shown in demo1, you could use the very complicated controls like “CTreeView” and “CMFCPropertyGridCtrl”. In common DirectUI libraries, there are no such controls available.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-17T23:38:56.353-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvminteractivity",
+  "Title": "Model-View-ViewModel interactions",
+  "Description": "This project contains custom behaviours (see System.Windows.Interactivity for more information) which may be usefull during WPF MVVM development (such as CloseWindowFromViewModel)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project contains custom behaviours &#40;see System.Windows.Interactivity for more information&#41; which may be usefull during WPF MVVM development &#40;such as CloseWindowFromViewModel&#41;<br /><br /><br />Model-View-ViewModel interactions is considered to be a set of interactions (behaviour, triggers, etc) that may be helpful for WPF/Silverlight MVVM development. This project is based on System.Windows.Interactivity assembly and MVVM light toolkit (both included).<br /><br />Please feel free to leave your comments about this project and what &#39;behaviors&#39; would be interesting for you.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,Interactivity,mvvm framework,Mvvmhelpers,Behaviors,WPF,",
+  "LastEdited": "2010-11-09T03:48:48.887-08:00"
+}

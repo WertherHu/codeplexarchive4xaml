@@ -1,0 +1,9 @@
+{
+  "ProjectName": "overmouse",
+  "Title": "OverMouse",
+  "Description": "Draws the mouse cursor so it can be seen when controlled through VNC, simulating the also called \"server-side\" cursor rendering.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>OverMouse</b><br /><br />Draws the mouse cursor so it can be seen when controlled through VNC, similar to TeamViewer&#39;s &quot;show remote cursor&quot; option, simulating the also called &quot;server-side&quot; cursor rendering.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-19T13:15:02.97-07:00"
+}

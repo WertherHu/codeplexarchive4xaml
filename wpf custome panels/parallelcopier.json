@@ -1,0 +1,9 @@
+{
+  "ProjectName": "parallelcopier",
+  "Title": "Parallel Copy",
+  "Description": "This Application Allows You To Copy From A Source To Multiple Destinations. The Algorithm Is Independent From CLR Machine But Can Be Heavy When Executed.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Introduction<br />This WPF Application and Library (C#.NET) Allows you to copy a file or folder from a Source To Multiple Destinations simultaneously without losing Transfer Bandwidth (Unlike the available functions). The only downturn of this method is that it uses a considerable amount of RAM.<br /><br />I must Inform you that this program doesn&#39;t use &quot;File.Copy&quot; function. Here You can see the flow chart: <a href=\"https://parallelcopier.codeplex.com/wikipage?title=Parallel%20Copy%20Flow%20Chart&referringTitle=Home\">Parallel Copy Flow Chart</a><br /><br />There are ClickOnce setup for Application, Application Sources and a Library For Parallel Copying in downloads sections.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "File Copy,parallel copying,threaded wpf,.NET 4.0,WPF,",
+  "LastEdited": "2013-09-17T00:05:57.727-07:00"
+}

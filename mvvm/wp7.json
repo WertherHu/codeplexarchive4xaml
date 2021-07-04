@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp7",
+  "Title": "Windows Phone 7 Extension Tools",
+  "Description": "This toolset coded in C# currently contains a Windows Phone 7 IoC (Compact Container port with the Common Service Locator desktop port) and DI framework for Windows Phone and Silverlight. \n\nThis allows true implementation of the MVVM pattern for your Silverlight applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This toolset coded in C&#35; currently contains a Windows Phone 7 IoC &#40;Compact Container port with the Common Service Locator desktop port&#41; and DI framework for Windows Phone and Silverlight. <br /><br />This allows true implementation of the MVVM pattern for your Silverlight applications.<br /><br /><b>Futures</b><br />I plan to include an event aggregator to integrate with the IoC container to allow loosly coupled event model in your Silverlight applications.<br /><br />I am also currently working on a Windows Azure Service Bus API for Windows Phone for Silverlight. Much like the desktop API. I will checkin once finished.<br /><br /><b>Releases</b><br />Note: there are no releases yet as this is work in progress and does not have full unit test coverage yet. I have the tests I just need to import them onto the Codeplex source control server. I plan to do this over the comming days.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "extensions,Extension Methods,IoC/DI,IOC,DI,MVVM,windows phone,Silverlight,",
+  "LastEdited": "2010-07-18T15:49:10.58-07:00"
+}

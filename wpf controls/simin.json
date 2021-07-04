@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simin",
+  "Title": "SimIn - Simulate Input in Your .NET Applications",
+  "Description": "SimIn is a light-weight .NET library which allows You to send user input to another applications. You can use SimIn in two modes: simulating user input (SendMessages), or control Your mouse.\r\nIt supports DirectX input simulation, which means you can send mouse or keyboard messages to any DirectX game you want, and the game will register it correctly.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><strong>&nbsp;</strong><br>\r\nSimIn is a light-weight .NET library which allows You to send user input to another applications. You can use SimIn in two modes: simulating user input (SendMessages), or control Your mouse.<br>\r\nIt supports DirectX input simulation, which means you can send mouse or keyboard messages to any DirectX game you want, and the game will register it correctly.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Features</strong></p>\r\n<ul>\r\n<li>Send user input to Your own / another application. </li><li>Define if user input will be simulated or Your real mouse/keyboard will be used.\r\n</li><li>Works on .Net Framework (3.0/3.5/4.0) </li></ul>\r\n<p>&nbsp;</p>\r\n<p><strong><br>\r\n</strong></p>\r\n<p><strong><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-22T07:35:45.623-07:00"
+}

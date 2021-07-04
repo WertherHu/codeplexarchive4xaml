@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UpDownPhone",
+  "Title": "Windows Phone UpDown Control",
+  "Description": "The Windows Phone UpDown Control is an open-source project built on top of the Microsoft Windows phone  7.1 . It is a effort that provides input values on  a minimum and maximum limit. It's developed in C# with .NET",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>What is the Windows Phone UpDown Control?</h2>\r\n<p><span>The Windows Phone UpDown Control is an open-source project built on top of the Microsoft Windows phone &nbsp;7.1 . It is a effort that provides input values on &nbsp;a minimum and maximum limit. It's developed in C# with .NET</span></p>\r\n<h2>Get Started</h2>\r\n<h1><a href=\"http://devphonetoolkit.codeplex.com/\"><span style=\"color:#ff0000\">THIS PROJECT HAS MOVED TO</span><br>\r\n</a></h1>\r\n<h1><strong><a href=\"http://devphonetoolkit.codeplex.com/\"><img src=\"http://www.codeplex.com/Download?ProjectName=devphonetoolkit&DownloadId=385194\" alt=\"logo\" width=\"47\" height=\"60\" style=\"margin-top:-8px; margin-bottom:-8px\">evphone Toolkit</a></strong></h1>\r\n<p>&nbsp;</p>\r\n<h2>Screenshot</h2>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=updownphone&DownloadId=375688\" alt=\"Basic\" width=\"240\" height=\"400\">\r\n<br>\r\n<img src=\"http://www.codeplex.com/Download?ProjectName=updownphone&DownloadId=375689\" alt=\"Arrows\" width=\"240\" height=\"400\">\r\n<br>\r\n<img src=\"http://www.codeplex.com/Download?ProjectName=updownphone&DownloadId=375690\" alt=\"Custom\" width=\"240\" height=\"400\"></p>\r\n<p><em><strong>Thank you for your interest!</strong></em><br>\r\n<em><strong>Fernando Cerqueira</strong></em></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,Windows Phone 7,WP7,wp7dev,Controls,control,Phone 7,",
+  "LastEdited": "2012-06-03T16:05:43.053-07:00"
+}

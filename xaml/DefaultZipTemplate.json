@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DefaultZipTemplate",
+  "Title": "DefaultAndZipTemplate.xaml (Build Process Template for TFS 2010)",
+  "Description": "Just the given default build process template in TFS 2010 plus one additional activity to put the drop folder content into a zip file located in the same folder.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project just contains another build process template for TFS 2010.<br />It is based on the default build process template given with TFS 2010 and adds one additional activity to put the drop folder content into a zip file located in the same folder.<br />It uses 7-Zip and assumes that 7-Zip was previously installed in &quot;C:\\Program Files&quot;. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-14T05:09:40.2-08:00"
+}

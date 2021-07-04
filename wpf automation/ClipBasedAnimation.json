@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ClipBasedAnimation",
+  "Title": "Clip Based Animation in WPF",
+  "Description": "An animation consists of a series of frames. To perform the animation, these frames are shown one after the other at a regular time interval. Here i will show a couple of animations based on Clip property of UIelement in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Animations based on Clip property of UIelement in WPF</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-12-30T03:28:59.82-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Win8nl",
+  "Title": "Win8nl utilities",
+  "Description": "This is a provisional and partial port to WinRt of the #wp7nl Windows Phone utilities (http://wp7nl.codeplex.com)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis is a provisional and partial port to WinRt of the <a href=\"http://wp7nl.codeplex.com\" target=\"_blank\">\r\n#wp7nl Windows Phone utilities</a>. <br>\r\n<br>\r\n</p>\r\n<p>It builds upon the following libraries:</p>\r\n<ul>\r\n<li>Rx for WinRt RC </li><li><a href=\"http://mvvmlight.codeplex.com\" target=\"_blank\">MVVMLight by Laurent Bugnion\r\n</a></li><li>System.Windows.Interactivity </li><li><a href=\"http://winrtbehaviors.codeplex.com\" target=\"_blank\">WinRtBehaviors </a>\r\n</li></ul>\r\n<p>It consists of three projects:</p>\r\n<ul>\r\n<li>Win8nl </li><li>Win8nl.Externals </li><li>Win8nl.Utilities </li></ul>\r\n<p>Win8nl.Externals contains a port of <a href=\"http://whydoidoit.com/silverlight-serializer/\" target=\"_self\">\r\nSilverlightSerializer&nbsp;1</a> by &nbsp;by Mike Talbot<br>\r\nWin8nl.Utilties contains a port of VisualTreeHelperExtensions by from <a href=\"http://phone7.codeplex.com/\" target=\"_blank\">\r\nPhone7.Fx</a><br>\r\n<br>\r\nThe toolkit is now available <a href=\"http://nuget.org/packages/Win8nl\" target=\"_blank\">\r\nas a NuGet package</a>. If you just want to use some functions and don't care about implementation details, I'd recommend using this package. It will install MVVMLight, Rx, and WinRtBehaviors for you.&nbsp;<span style=\"text-decoration:underline\">Be aware that\r\n any win8l NuGet packages before 1.0.3 have faults in the Rx dependencies!</span><br>\r\n<br>\r\nIf you would like to contribute code, please feel free to contact me.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows 8,WinRT,",
+  "LastEdited": "2012-08-26T05:26:05.27-07:00"
+}

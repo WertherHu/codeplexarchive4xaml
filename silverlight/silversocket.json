@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silversocket",
+  "Title": "SilverSocket",
+  "Description": "Hight performance socket server and client for Silverlight and Net 3.5.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Hight performance socket server and client for Silverlight and Net 3.5.<br /><br />Provides easy integration into Silverlight projects.<br />Includes serialization, compression &amp; encryption of data messages.<br />Designed for high performance and simplicity.  <br /><br />Great alternative to WCF duplex connection.<br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wcf,Silverlight,sockets,networking,duplex,silverlight sockets,",
+  "LastEdited": "2009-10-29T08:08:25.9-07:00"
+}

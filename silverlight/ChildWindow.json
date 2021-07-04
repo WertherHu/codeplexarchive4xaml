@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ChildWindow",
+  "Title": "Silverlight Child Window",
+  "Description": "Passing value from Child Window to parent window in Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">In this example user enters his/her name and surname in a Child Window and once submitted, different text, along with the entered name and surname, are displayed in the main page.<br /><br />There are a few other features in this example and I tried to provide a example of a good practice in coding. There is a post about this project on <a href=\"http://www.silverlighttips.com/post/2009/09/24/Passing-value-from-child-window-to-parent-window.aspx\">SilverlightTips.com</a>.<br /><br />This project is been build on Silverlight 3.0 platform.<br /><br />Step by step summary:<br /><br />1. add a new Child Window<br />2. Create an EventHandler in Child Window<br />3. Create public properties to save the values<br />4. Fire the event once submit button is clicked in Child Window<br />5. In MainPage.xaml create a new instance of the Child Window<br />6. How to show Child Window<br />7. In MainPage.xaml hook up the submit event in Child Window<br />8. Access the properties of the Child Window<br /><br />Full details at <a href=\"http://www.silverlighttips.com/?tag=/child+window\">http://www.silverlighttips.com/?tag=/child+window</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2009-09-24T15:23:12.093-07:00"
+}

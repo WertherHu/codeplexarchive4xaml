@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tidybackups",
+  "Title": "TidyBackups",
+  "Description": "Allows for automation of deletion of Microsoft SQL backup files based on file type (.bak) creation age as well as compression using standard ZIP technology.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Allows for automation of deletion of Microsoft SQL backup files based on file type &#40;.bak&#41; creation age as well as compression using standard ZIP technology.<br /><br />As featured on <a href=\"http://www.edugeek.net/forums/mis-systems/43573-sims-tidy-backups-sql-2008-autumn-release.html\">Edugeek</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-31T17:10:32.13-07:00"
+}

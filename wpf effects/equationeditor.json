@@ -1,0 +1,9 @@
+{
+  "ProjectName": "equationeditor",
+  "Title": "FremyCompany Math Equation Editor",
+  "Description": "A WPF Component that can import MathML and LaTeX to be edited in a WYSIWYG word processor. It is intended to allow both visual and computer-comprehensive (formula in programming language) exportation.\n\nScope and functionnalites are intended to be expanded over time.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF Component that can import MathML and LaTeX to be edited in a WYSIWYG word processor. It is intended to allow both visual and computer-comprehensive &#40;formula in programming language&#41; exportation.<br /><br />Scope and functionnalites are intended to be expanded over time.<br /><br /><b>Current status</b><br />Experimental</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-03T14:02:20.29-08:00"
+}

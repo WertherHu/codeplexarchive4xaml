@@ -1,0 +1,9 @@
+{
+  "ProjectName": "3DWINFORM",
+  "Title": "Windows form in XNA",
+  "Description": "This project is to create  3d form(enviroment) in xna .\nSince WPF still does not  have lot of 3d power we hope to implement this.\nIn hear we are using a 3d model for the form.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>3d windows form</b><br /><br /><br /><br /><br />- 3D environment using xna for win forms.<br />- Can implement using 3d models(.x,.fbx)<br /> <br />make comment-udithamail@yahoo.com<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-03-25T05:06:35.113-07:00"
+}

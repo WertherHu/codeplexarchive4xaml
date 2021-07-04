@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spyoutube",
+  "Title": "SharePoint YouTube Web Part",
+  "Description": "The SharePoint You Tube Web Part allows end users to place the web part on the page and play any video within You Tube.\r\n\r\nThe majority of API calls have been mapped allowing the following features:\r\n- Play lists\r\n- Theme / styling\r\n- Seek positions\r\n- JavaScript API's",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Blog: <a href=\"http://ghamson.wordpress.com\">http://ghamson.wordpress.com</a><br />Twitter: <a href=\"http://twitter.com/ghamson\">http://twitter.com/ghamson</a><br /><br /><b>Project Description</b><br />The SharePoint You Tube Web Part allows end users to place the web part on the page and play any video within You Tube.<br /><br />The majority of API calls have been mapped allowing the following features&#58;<br />- Play lists<br />- Theme &#47; styling<br />- Seek positions<br />- JavaScript API&#39;s</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint 2010,you tube,SharePoint Foundatio,Web Part,video,Video Player,Sharepoint,",
+  "LastEdited": "2011-10-17T09:01:30.713-07:00"
+}

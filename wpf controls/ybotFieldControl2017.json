@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ybotFieldControl2017",
+  "Title": "YBOT Field Control - 2017",
+  "Description": "YBOT Field Control program for the 2016 game.\r\n\r\nIt uses a windows pc to communicate to DS2408 1-wire nodes, can-bus nodes, and xbee arduino nodes. It is used to ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">YBOT Field Control program for the 2016 game.<br /><br />It uses a windows pc to communicate to DS2408 1-wire nodes, can-bus nodes, and xbee arduino nodes. It is used to control field lights as well and receive input from the field. It is also used to switch on the game controllers, game timing, and scoring.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-10-18T14:45:17.423-07:00"
+}

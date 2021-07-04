@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfmodaldialog",
+  "Title": "WPFModalDialog",
+  "Description": "Custom modal dialog in Wpf, contains basic controls in dialog window, also allow you to inform user about loading operations, using animated watcher",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Sometimes you have to replace basic MessageBox with something <strong>custom and beauty</strong><br>\r\n<br>\r\nThis one allows you to use basic dialog window in familiar way (just like MessageBox), but with few advantages:</p>\r\n<ul>\r\n<li>Custom dialog window style </li><li>New type of message - loading progress indicator: allow you to run background process while dialog window shown, and inform user about success or fail in the end right in dialog window\r\n</li></ul>\r\n<p>GUI Examples</p>\r\n<ul>\r\n<li>Loading Indicator : </li></ul>\r\n<p><img src=\"http://img-fotki.yandex.ru/get/5508/123116463.0/0_7f923_2efac0fa_M.jpg\" alt=\"\" width=\"285\" height=\"265\"></p>\r\n<p>after task completed:</p>\r\n<p><img src=\"http://img-fotki.yandex.ru/get/6104/123116463.0/0_7f922_24858deb_M.jpg\" alt=\"\" width=\"286\" height=\"263\"></p>\r\n<p>&nbsp;</p>\r\n<ul>\r\n<li>Ok Button </li></ul>\r\n<p><img src=\"http://img-fotki.yandex.ru/get/6004/123116463.0/0_7f924_690913df_M.jpg\" alt=\"\" width=\"288\" height=\"265\"></p>\r\n<ul>\r\n<li>Ok Cancel buttons </li></ul>\r\n<p><img src=\"http://img-fotki.yandex.ru/get/5508/123116463.0/0_7f926_dfa73148_M.jpg\" alt=\"\" width=\"286\" height=\"265\"></p>\r\n<ul>\r\n<li>Yes No buttons </li></ul>\r\n<p><img src=\"http://img-fotki.yandex.ru/get/6105/123116463.0/0_7f927_3173324e_M.jpg\" alt=\"\" width=\"285\" height=\"263\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-06T08:02:56.153-08:00"
+}

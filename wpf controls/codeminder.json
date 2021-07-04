@@ -1,0 +1,9 @@
+{
+  "ProjectName": "codeminder",
+  "Title": "Code Minder",
+  "Description": "Code Minder makes it easier to visualize source control statistics and helps projects display which contributers are most active. It's developed in dotnet using C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Code Minder makes it easier to visualize source control statistics and helps projects display which contributers are most active. It&#39;s developed in dotnet using C&#35;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,dotnet,Source Control,Statistics,graph,",
+  "LastEdited": "2011-04-09T01:10:41.98-07:00"
+}

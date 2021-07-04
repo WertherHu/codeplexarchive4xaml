@@ -1,0 +1,9 @@
+{
+  "ProjectName": "edmdesigner",
+  "Title": "EDMDesigner",
+  "Description": "Entity Data Model designer developed in C#3, VB9, WPF, XML Literal.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Some scenarii aren&#39;t supported by the first MS EDM Designer.<br />The goal of this project is to fix them.<br />You can find more in my blog (<a href=\"http://msmvps.com/blogs/matthieu/archive/tags/EDM+Designer/default.aspx\">http://msmvps.com/blogs/matthieu/archive/tags/EDM+Designer/default.aspx</a>).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Monitoring,EDM,Wouter,",
+  "LastEdited": "2009-01-07T01:47:27.117-08:00"
+}

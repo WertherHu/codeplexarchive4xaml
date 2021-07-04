@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NetduinoPlusHomeAuto",
+  "Title": "Netduino Plus Home Automation Toolkit",
+  "Description": "The Netduino Plus Home Automation project is designed to proivde a communication platform from various consumer based home automation products that offer a common web service endpoint. This will hopefully create a low cost DIY alternative to the expensive ethernet interfaces.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Netduino Plus Home Automation project is designed to proivde a communication platform from various consumer based home automation products that offer a common web service endpoint. This will hopefully create a low cost DIY alternative to the expensive ethernet interfaces.<br /><br />The inital scope of this project will include a Web Server that can host the web services and respond to basic HTTP requests. It will also include an Elk M1 Grand RS232 interface.<br /><br />If you are interested in providing an interface to another device please contact us on our Project Showcase forum at http://forums.netduino.com/index.php?/topic/691-home-automation-toolkit/</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-17T18:39:11.633-08:00"
+}

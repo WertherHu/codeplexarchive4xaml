@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dahuaptzforblueiris",
+  "Title": "Dahua PTZ Control For Blue Iris",
+  "Description": "A .NET application which can be used as an \"External script\" to enable control of Dahua SD6xxx PTZ cameras using the Blue Iris interface.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project has moved to GitHub.  <a href=\"https://github.com/bp2008/DahuaPTZControl\">https://github.com/bp2008/DahuaPTZControl</a></h1>\r\n<br /><br /><br /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-04-25T12:56:49.263-07:00"
+}

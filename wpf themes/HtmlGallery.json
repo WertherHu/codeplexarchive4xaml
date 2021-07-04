@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HtmlGallery",
+  "Title": "HtmlGallery",
+  "Description": "EventPlanner makes it easier for webmasters to to display static photo galleries.\nYou'll no longer have to compress the images in an editor and then write the HTML to display them.\nIt's developed in C# with WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Use HtmlGallery to produce a simple page to display photos with title and description. Produces 100% valid XHTML and CSS.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Html,Photo Gallery,css,.NET 3.5,xhtml,GDI,",
+  "LastEdited": "2008-10-04T20:42:44.26-07:00"
+}

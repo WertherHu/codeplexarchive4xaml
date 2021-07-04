@@ -1,0 +1,9 @@
+{
+  "ProjectName": "scsmservicerequest",
+  "Title": "SCSM Service Request",
+  "Description": "The Service Request project defines a new work item class called 'Service Request' and the corresponding form for that work item class.  It is a good example of using custom XAML controls in a custom form and of how to localize content for forms.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project provides a Work Item class model for Service Requests and a form for creating/editing service requests.  This is primarily a projec to show how to create custom models and forms which use custom form controls.  The project itself is fully usable though as a solution.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-07T10:58:12.867-07:00"
+}

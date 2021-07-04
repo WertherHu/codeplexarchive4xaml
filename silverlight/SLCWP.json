@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLCWP",
+  "Title": "Silverlight-ASP.NET connected web parts",
+  "Description": "Project that shows how you can use the HTML bridge in Silverlight to postback data to a web part connection provider to update other web parts.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a project to provide a rough example of how to create a Silverlight web part that can update connected web parts by using the HTML bridge javascript calls.<br /><br />There are other ways of accomplishing this without using connected web parts, in fact Silverlight can directly communicate between different Silverlight components on the same page (<a href=\"http://msdn.microsoft.com/en-us/library/dd833063(VS.95).aspx\">http://msdn.microsoft.com/en-us/library/dd833063(VS.95).aspx</a>). This project is for updating the provider part to retain compatibility with older consumers.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-20T12:34:53.277-07:00"
+}

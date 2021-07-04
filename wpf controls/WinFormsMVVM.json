@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WinFormsMVVM",
+  "Title": "JV.MVVM",
+  "Description": "Jv.mvvm intents to bring the mvvm pattern to winform projects.\r\n\r\nThis project provide a windows form extender control that allows to provide more rich binding information per control. The control interpret the bindings and manages them properly.\r\n\r\nIt is developed in C#, and uses other projects like TinyPG, and Emmiter.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Jv.mvvm intents to bring the mvvm pattern to winform projects.<br /><br />This project provide a windows form extender control that allows to provide more rich binding information per control. The control interpret the bindings and manages them properly.<br /><br />It is developed in C&#35;, and uses other projects like TinyPG, and Emmiter.<br /><br />TinyPG:<br />http://www.codeproject.com/Articles/28294/a-Tiny-Parser-Generator-v1-2<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Mvvm,winforms,C# 4.0,View Model,Binding,Expression Evaluator,DSL,",
+  "LastEdited": "2012-03-07T12:20:05.6-08:00"
+}

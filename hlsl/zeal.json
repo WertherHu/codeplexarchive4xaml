@@ -1,0 +1,9 @@
+{
+  "ProjectName": "zeal",
+  "Title": "Zeal",
+  "Description": "Zeal is a node-based editor for rapid prototyping procedural textures and HLSL pixel shaders. The project focuses on ease-of-use and UX to allow designers and artists to quickly develop a concept for the overall look and feel of a shader.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Zeal is a node-based editor for rapid prototyping procedural textures and HLSL pixel shaders. The project focuses on ease-of-use and UX to allow designers and artists to quickly develop a concept for the overall look and feel of a shader.<br />\n<h2>This project uses...</h2>\r<ul><li><a href=\"http://quickgraph.codeplex.com/\">QuickGraph</a></li>\n<li><a href=\"http://graphsharp.codeplex.com/\">GraphSharp</a></li>\n<li><a href=\"http://avalondock.codeplex.com/\">AvalonDock</a></li></ul>\n\n<h2>Also check out...</h2>\r<ul><li><a href=\"http://shazzam.codeplex.com/\">Shazzam</a> - Great code editor for WPF/Silverlight pixel shaders</li>\n<li><a href=\"http://bling.codeplex.com/\">Bling UI Toolkit</a> - Write WPF pixel shaders in C# code</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-09T20:42:30.24-08:00"
+}

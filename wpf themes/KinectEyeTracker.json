@@ -1,0 +1,9 @@
+{
+  "ProjectName": "KinectEyeTracker",
+  "Title": "Eye tracking with Kinect for Windows",
+  "Description": "Attempts to track eyes and calculate the pupillary distance of the user using Kinect for Windows.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p style=\"font-size:18px\"><img src=\"http://namedquery.com/data/images/pupillarydistance.png\" alt=\"Screen Shot of the app.\" width=\"762\" height=\"495\"></p>\r\n<p style=\"font-size:18px\"><strong>Eye Tracking with Kinect for Windows</strong></p>\r\n<p>This application attempts to track eyes and calculate your pupillary distance.<br>\r\n<span style=\"font-size:10pt\">Unfortunately, Kinect is not capable of tracking eyes accurately, so the pupillary distance will be slightly off.<br>\r\n<br>\r\nPlease feel free to improve, modify, copy and use.&nbsp;<br>\r\n<br>\r\n<span style=\"font-size:16px\">Before you run it:</span></span></p>\r\n<p>Make sure you copy FaceTrackData.dll and FaceTrackLib.dll to the same folder as the executables.<br>\r\nThe dlls are included in Kinect SDK and x86 versions should be used.<br>\r\n<br>\r\n<span style=\"font-size:16px\">Requirements:<br>\r\n<br>\r\n</span><span style=\"font-size:10pt\">Kinect for Windows<br>\r\n</span><span style=\"font-size:10pt\">Kinect SDK and Kinect Tookit&nbsp;</span></p>\r\n<p>&nbsp; </p>\r\n<p style=\"font-size:18px\"><strong>Find me on</strong></p>\r\n<p><a href=\"http://www.namedquery.com\">NamedQuery.com</a></p>\r\n<p><a href=\"http://plus.google.com/&#43;Namedquery\">Google Plus</a></p>\r\n<p><span style=\"font-size:10pt\"><a href=\"http://www.facebook.com/namedquery\">Facebook</a></span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Kinect,Wpf,C#,",
+  "LastEdited": "2013-11-21T07:01:07.5-08:00"
+}

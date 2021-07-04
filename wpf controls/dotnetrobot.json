@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dotnetrobot",
+  "Title": "DotNetRobot",
+  "Description": "This project is a hobby project for me and my friends.\r\nWe want to create an AI language for a netduino controlled Robot.\r\nThe language is C# using Compact Framework (CF)\r\nThe first step is create the language then create a test environment where we can test the robot.\r\nLast step building the robot.\r\n\r\nI have lots of ideas how to make this project fun, using online competitions for the AI.\r\n\r\nIf interesed contant me!\r\n\r\nWhen I have time I'm gonna write more about the details, the plans, and the road map.\r\nUntil then feel free to contact me.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This project is a hobby project for me and my friends.<br />We want to create an AI language for a netduino controlled Robot.<br />The language is C# using Compact Framework (CF)<br />The first step is create the language then create a test environment where we can test the robot. <br />Last step building the robot.<br /><br />I have lots of ideas how to make this project fun, using online competitions for the AI. <br /><br />If interesed contant me!<br /><br />When I have time I&#39;m gonna write more about the details, the plans, and the road map.<br />Until then feel free to contact me.<br /><br />Dave</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Netduino,CF,robot,AI,language,ASP.NET MVC,",
+  "LastEdited": "2011-10-01T04:42:14.367-07:00"
+}

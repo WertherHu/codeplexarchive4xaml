@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sqlsearch",
+  "Title": "sqlsearch",
+  "Description": "Hi,\r\nHi Techies,\r\nLooking for C# and WPF developers who are entusiastic and experience in visual studio add-in projects.\r\n All of you are invited to contribute in this project.\r\nThank you,\r\nHiren V.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /> This project will be helpful to find out sql objects and its constructs. and also it will find out data from tables using keywords and wildcard keywords. My vision and mission for this project is to integrate this project directly under visual studio such an extension utility.<br /><br /><i>Objectives</i><br />*Project should be works under visual studio 2010 for all kind of databases which could be attached in server explorer.<br />*Performance for finding sql objects and data from sql tables must be awsome.<br />*Find table names which are used in stored procedures and triggers.<br />*Find column names from tables.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-22T00:45:49.55-07:00"
+}

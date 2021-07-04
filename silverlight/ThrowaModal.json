@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ThrowaModal",
+  "Title": "SP.UI.ModalDialog Throw a Modal",
+  "Description": "This SharePoint solution uses a Silverlight web part to configure and then launch or throw a modal dialog - SP.UI.ModalDialog. All the options of the modal dialog are exposed for selection in the web part and the results returned from the modal dialog are passed back to the web part for display.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis SharePoint solution uses a Silverlight web part to configure and then launch or throw a modal dialog. All the options of the modal dialog are exposed for selection in the web part and the results returned from the modal dialog are passed back to the web\r\n part for display.<br>\r\n<br>\r\n<strong>Throw a Modal web part preview:</strong></p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=throwamodal&DownloadId=335479\" alt=\"\">&nbsp;</p>\r\n<p>The solution contains a Silverlight control,&nbsp;the web part required to render the Silverlight control plus the required JavaScript needed to interact with the SP.UI.ModalDialog framework.</p>\r\n<p><strong>Please Note:</strong> All modal dialog options are support except for changing the name of the Callback function in the current release.</p>\r\n<p><strong>Further project background / related information:</strong><br>\r\n<a href=\"http://sharepintblog.com/2012/01/26/silverlight-javascript-and-sharepoint-modal-dialogs/\">http://sharepintblog.com/2012/01/26/silverlight-javascript-and-sharepoint-modal-dialogs/</a><br>\r\n<a href=\"http://sharepintblog.com/2012/01/15/pass-event-data-from-a-silverlight-control-to-a-sharepoint-page/\">http://sharepintblog.com/2012/01/15/pass-event-data-from-a-silverlight-control-to-a-sharepoint-page/</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-29T14:01:31.747-08:00"
+}

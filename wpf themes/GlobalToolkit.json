@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GlobalToolkit",
+  "Title": "Matt Dotson's Global Toolkit",
+  "Description": "The Global Toolkit provides jump start for developers working on international applications.  The source code should provide a framework which facilitates creating your own global applications.  It's developed in C#, but can be used in binary form in any .NET project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project will will be the home for globalization related utility and framework code.  <br /><br />Feature Priority List\n<ul><li>Currency class</li>\n<li>Date/Time guidance and helper classes</li>\n<li>String Localization helper classes</li></ul>\n\n<ul><li>WCF Localization (WS-I18N implementation)</li>\n<li>WPF Localization (alternate to locbaml)</li></ul>\n<br />FAQs<br />How do I get the code?<br />Download it from the &quot;Source Code&quot; tab.<br /><br />What if I only want the binaries?<br />Download them from the &quot;Releases&quot; tab.<br /><br />Can I use this code in my own projects?<br />Yes, the global toolkit is shared source. Make sure to read the license to understand the exact conditions.<br /><br />How do I contribute?<br />Use the discussion tab, provide feedback and report bugs. <br /><br />About Me\n<ul><li>I&#39;m a Senior Consultant @ Microsoft.  You can find my blog @ <a href=\"http://blogs.msdn.com/mattdotson/\">http://blogs.msdn.com/mattdotson/</a> </li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF Globalization,",
+  "LastEdited": "2009-03-30T17:08:15.187-07:00"
+}

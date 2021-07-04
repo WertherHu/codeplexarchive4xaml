@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PetriNetSharp",
+  "Title": "PetriNet Sharp",
+  "Description": "A Petri Net creation and testing tool. Heavily uses WPF and .Net 3.5 technology.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Create, edit, run, and test Petri Nets. <br /><br />This uses WPF and .NET 3.5 SP1 technology.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C# 3.0,.NET 3.5,",
+  "LastEdited": "2008-10-21T11:11:38.113-07:00"
+}

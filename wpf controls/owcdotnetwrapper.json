@@ -1,0 +1,9 @@
+{
+  "ProjectName": "owcdotnetwrapper",
+  "Title": "ASP.NET 2.0 Wrapper for Office Web Components",
+  "Description": "ASP.NET controls to wrap Office Web Component 11.0 controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET controls to wrap Office Web Component 11.0 controls.<br /><br /><br />The Office Web Components controls are a good way of providing in-browser functionality for connecting to data sources, especially OLAP data using the PivotTable control. Unfortunately, Visual Studio 2005 does not provide a direct way to place these controls on a page. Even after they have been manually placed, there is no easy way to interact with them using server-side code.<br /><br />The aim of this project is to create a set of ASP.NET 2.0 controls which will allow embedding the OWC controls on an ASP.NET page, and also provide a way to write server-side code using them. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-08-09T21:05:22.69-07:00"
+}

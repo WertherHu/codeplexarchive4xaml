@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcblanket",
+  "Title": "MvcBlanket",
+  "Description": "Small but powerfull library to use in ASP.NET MVC Web Application development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Small but powerfull library to use in ASP.NET MVC Web Application development.<br /><br /><b>Features</b><br /><br />The following features are supported.<br />\n<ul><li>Custom action filters for rendering views with paging and filtering</li>\n<li>Background task manager</li>\n<li>Build-in core classes extensions</li>\n<li>Query string extensions</li>\n<li>ViewData and web page extensions</li>\n<li>Fluent syntax support</li>\n<li>Mail server asyncronious delivery support</li>\n<li>NVelocity based mail templates</li>\n<li>Custom model binders for group actions</li>\n<li>Native data filtering support with LINQ extensions</li>\n<li>Large file downloading with resume after interruption support</li>\n<li>Custom view models with paging support</li>\n<li>Integration with Castle Windsor IoC</li>\n<li>Security layer with full accounts and roles managers support</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,ASP.NET MVC,IOC,dependency injection,security,access control,RoleProvider,MembershipProvider,Library,",
+  "LastEdited": "2012-05-03T02:35:43.507-07:00"
+}

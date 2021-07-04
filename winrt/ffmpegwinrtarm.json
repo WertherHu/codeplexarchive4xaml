@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ffmpegwinrtarm",
+  "Title": "FFmpeg for WinRT ARM",
+  "Description": "Using this project can be used to build ffmpeg for Windows 8/8.1 App or Windows Phone, both x86 and ARM.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>FFmpeg for WinRT ARM</b><br />This project can be used for building ffmpeg in WinRT ARM platform.<br /><br /><b>Summary</b> <br />As there is no suitable GCC for ARM-COFF which WinRT ARM platform, if we want to build ffmpeg for this platform, we need to change the assembly codes in ffmpeg, especially the neon part. The assembly codes in this project can be built with armasm, which is the assember in Visual Studio. <br /><br />The ffmpeg version is 2.4 release.<br /><br />This project is not finished, I can built it but not test. I hope someone can work together with me.<br /><br /><b>Build</b> <br />1. You need to prepare MinGW+MSYS environment. <br />2. Run VS2013 ARM Cross Tools Command Prompt first, and then run the msys from the command tool.<br />3. make sure cl, lib is called from VS,not from MinGW.<br />4. Run build<i>ffmpeg</i>msvc.sh<br /><br /><b>Issues</b><br />This project is not finished, these issues should be fixed.<br />1. The avoided API should be redirected in ffmpeg, like createfile, threads, ect.<br />2. vc1dsp<i>neon.asm , mlpdsp</i>armv6.S not finish. So this ffmpeg doesn&#39;t support vc1 and mlp decode.<br />3. \\libswscale\\arm not finish.<br />4. No network support.<br /><br />Move to github  <a href=\"https://github.com/qyljcy/FFmpeg\">https://github.com/qyljcy/FFmpeg</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-11-17T01:22:54.627-08:00"
+}

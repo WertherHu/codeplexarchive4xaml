@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightreport",
+  "Title": "Silverlight Report",
+  "Description": "Open-Source Silverlight Reporting Engine.\nThis project allows you to create and print reports using Silverlight 4.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This project allows you to create and print reports using Silverlight 4, you can create reports using XAML. It supports ReportBand (Include ReportHeader, TopMargin, PageHeader, Detail, PageFooter, BottomMargin, ReportFooter, etc.). Use ReportBand, you can create a very flexible report. It also supports Binding and more.<br /><br />Attention: This is a very early alpha version not intented to be used in production environments.<br /><br />Todo:<br />1.Support group.<br />2.Support summary.<br /><br />Online sample:<br /><br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:420px;width:660px;\"><param name=\"source\" value=\"http://files.cnblogs.com/chinadhf/ReportSample.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Reporting,printing,Mirshahreza,",
+  "LastEdited": "2010-05-20T23:13:43.38-07:00"
+}

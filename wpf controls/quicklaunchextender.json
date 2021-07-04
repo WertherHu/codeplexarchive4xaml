@@ -1,0 +1,9 @@
+{
+  "ProjectName": "quicklaunchextender",
+  "Title": "SharePoint QuickLaunchExtender",
+  "Description": "Extends the SP QuickLaunch control to provide a richer experience. Configure it to transform the QuickLaunch into an Accordion, a set of collapsible/expandable panels (Adds scrollbar per panel if height limit is specified and exceeded), or a real-time filterable list. Uses jQuery",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Extends the SP QuickLaunch control to provide a richer experience. Configure it to transform the QuickLaunch into an Accordion, a set of collapsible&#47;expandable panels &#40;Adds scrollbar per panel if height limit is specified and exceeded&#41;, or a real-time filterable list. Uses jQuery<br /><br /><a href=\"http://blog.vossers.com\">blog.vossers.com</a><br /><br />Demo 1 (Filter mode <b>NEWLY ADDED</b>):<br /><br /><img src=\"https://dl.dropboxusercontent.com/u/2711459/QuickLaunchExtender/SharePoint-QuickLaunchExtender_1.png\" /><br /><br />Demo 2 (expand/collapse mode with panel height limit of 100px):<br /><br /><img src=\"https://dl.dropboxusercontent.com/u/2711459/QuickLaunchExtender/SharePoint-QuickLaunchExtender_2.png\" /><br /><br />Demo 3 (Accordion mode with panel height of 200px):<br /><br /><img src=\"https://dl.dropboxusercontent.com/u/2711459/QuickLaunchExtender/SharePoint-QuickLaunchExtender_3.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,Controls,Feature,WSS 3.0,MOSS 2007,jQuery,quicklaunch,jvossers,",
+  "LastEdited": "2014-03-25T15:48:41.997-07:00"
+}

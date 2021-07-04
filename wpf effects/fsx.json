@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fsx",
+  "Title": "Advanced File System Explorer",
+  "Description": "C# application which allows users to look at the on disk structures used by file systems. In the first instance this will be NTFS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />C&#35; application which allows users to look at the on disk structures used by file systems. In the first instance this will be NTFS.<br /><br />File System Explorer is a research project designed to allow the user to examine on disk structures for common file systems.<br /><br />I&#39;m starting with NTFS to (hopefully) prove the usefulness of the tool.<br /><br />Why am I doing this? Well, I&#39;ve become interested in Computer Forensics and I&#39;ve always loved working out how things work. I also want to learn about creating WPF applications. So, I&#39;m bringing it all together here.<br /><br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.<br /><br /><a href=\"https://fsx.codeplex.com/wikipage?title=Installation&referringTitle=Home\">Installation</a> guidance.<br /><br /><a href=\"https://fsx.codeplex.com/wikipage?title=File%20System%20Explorer&referringTitle=Home\">Design</a> guidance.<br /><br /><a href=\"https://fsx.codeplex.com/wikipage?title=Getting%20Started&referringTitle=Home\">Getting Started</a> guide.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "NTFS,Forensics,C#,WPF,",
+  "LastEdited": "2014-12-27T09:35:40.323-08:00"
+}

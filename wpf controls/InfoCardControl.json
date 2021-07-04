@@ -1,0 +1,9 @@
+{
+  "ProjectName": "InfoCardControl",
+  "Title": "InfoCardControl",
+  "Description": "This project consists of three parts. First is the InfoCardControl that contains the InfoCardControl web control that renders the object tag for triggering the Identity Selector UI. Also in this project you will find a CardSpaceButton control that derives from Button and can be used with conjunction with the InfoCardControl. The second project InfoCardButtonExtender contains a single web control extender control that it utilizing the ASP.NET AJAX and ASP.NET AJAX Control Toolkit features to create an extender that can be applied to any control that implements IButtonControl interface (Button, ImageButton, LinkButton, ...). The third project is a SampleSite that demonstrates how to use these controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project consists of three parts. First is the InfoCardControl that contains the InfoCardControl web control that renders the object tag for triggering the Identity Selector UI. Also in this project you will find a CardSpaceButton control that derives from Button and can be used with conjunction with the InfoCardControl. The second project InfoCardButtonExtender contains a single web control extender control that it utilizing the ASP.NET AJAX and ASP.NET AJAX Control Toolkit features to create an extender that can be applied to any control that implements IButtonControl interface &#40;Button, ImageButton, LinkButton, ...&#41;. The third project is a SampleSite that demonstrates how to use these controls.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,wcs,infocard,cardspace,",
+  "LastEdited": "2007-02-21T16:53:15.203-08:00"
+}

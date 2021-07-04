@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightexcel",
+  "Title": "SilverlightExcel: an Excel file viewer in Silverlight 4",
+  "Description": "SilverlightExcel is a Silverlight application allowing you to open and view Excel files and also create graphs.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverlightExcel is a Silverlight application allowing you to open and view Excel files and also create graphs.<br /><br />Let’s imagine a scenario in which you have a series of Excel files (.xlsx) on your computer but you don’t have any Microsoft Office installed.<br />This small application is designed to allow you to view Excel files and create simple charts.<br />In this article <a href=\"http://www.silverlightshow.net/items/An-Excel-file-Viewer-in-Silverlight-4.aspx\">http://www.silverlightshow.net/items/An-Excel-file-Viewer-in-Silverlight-4.aspx</a> you can find a complete description of the project.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-28T00:33:01.08-08:00"
+}

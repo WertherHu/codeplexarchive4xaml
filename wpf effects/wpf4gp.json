@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpf4gp",
+  "Title": "wpf4gp",
+  "Description": "! *wpf4gp* \r\n!! _Common utilities for wpf_ \r\n\r\nThis project contains few useful class for work with WPF and the MVVM pattern.\r\nYou can find:\r\n\r\n# A DelegateCommand cl",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>wpf4gp</b> </h1>\r<h2><i>Common utilities for wpf</i> </h2>\r\nThis project contains few useful class for work with WPF and the MVVM pattern.<br />You can find:<br />\n<ol><li>A DelegateCommand class for implement an ICommand in the View Model</li>\n<li>A DialogCloser dependency property for close a window from the View Model</li>\n<li>A TreeViewHelper for bind the selected item of a tree view to a View Model property</li>\n<li>Some converters for editing (Bool-Visible, Bool-Hidden, Decimal-String, Integer-String)</li>\n<li>An ExceptionMessageBox for show the message of an Exception with a special button for look at the details of the Exception</li></ol>\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-08-21T14:35:36.563-07:00"
+}

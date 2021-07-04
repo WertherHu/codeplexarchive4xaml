@@ -1,0 +1,9 @@
+{
+  "ProjectName": "weatherwebpart",
+  "Title": "SharePoint Weather Web Part",
+  "Description": "This SharePoint 2007 web part pulls in the logged in users AD account and uses their location field to pulls in the weather data from weather.com\nIf the current users AD location is empty, then a default location is enclosed.   An XML is provided to control how to render the weather info.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This SharePoint 2007 web part pulls in the logged in users AD account and uses their location field to pulls in the weather data from weather.com<br />If the current users AD location is empty, then a default location is enclosed.   An XML is provided to control how to render the weather info.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sharepoint,SharePoint 2007,WebPart,Web Part,Weather,Useful,MOSS Weather,#time,",
+  "LastEdited": "2008-05-16T15:26:04.96-07:00"
+}

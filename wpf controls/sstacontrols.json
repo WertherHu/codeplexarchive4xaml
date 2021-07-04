@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sstacontrols",
+  "Title": "Windows.Forms.Controls Revisited  (SSTA.WinForms)",
+  "Description": "SearchableListBox control built on the Window,Form.ListBox renders a list box items with multiple search terms highlighted.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Sample VB.NET code for extending Windows.Forms.Controls functionality.</p>\r\n<p>The controls include:</p>\r\n<p><strong>SearchableListBox </strong>Renders highlighted list items&nbsp;based on&nbsp;search&nbsp;text.</p>\r\n<p><img src=\"/projects/sstacontrols/c88e9ef5-6fd7-4d55-90f9-732bd401dcb1\" alt=\"Screenshot\" width=\"406\" height=\"514\"></p>\r\n<p><strong>MarkupTextRenderer </strong>(future)</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "VB,VB.NET,Search,ListBox,WinForms,",
+  "LastEdited": "2013-06-23T21:01:33.127-07:00"
+}

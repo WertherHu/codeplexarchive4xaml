@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ApiChange",
+  "Title": "ApiChange",
+  "Description": "ApiChange is the Swiss army knife for inspecting your assemblies from the command line. Now you can do basic operations like diff, who uses (method, field, event, ...) and more utility methods. This tool is for everybody who wants to control their Api usage and consistency.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Mission</h1>\r<h2><b>This tool is the swiss army knife for developers who want to know whats inside their binaries and who is using it.</b></h2>\rYou can query your code with a simple command line interface and print the matches to console or pipe it directly to excel to generate nice reports or Pivot tables. If you have the pdbs for your binaries at hand you can directly jump from excel to the matching lines into your code!<br /><br />The following example shows how you can track the usage of all String.Index method calls inside the .NET Framework. From the excel output you can create pivot tables to get valuable insights how the code base is really structured (e.g. who is using what method how often).<br /><br /><img src=\"/projects/ApiChange/116041db-0785-443c-b136-d7258b50a879\" alt=\"Example&#32;Output\" title=\"Example&#32;Output\" /><br /><br />See <a href=\"https://apichange.codeplex.com/documentation?referringTitle=Home\">Documentation</a> for more information how you can query your code base.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-12T12:24:40.75-07:00"
+}

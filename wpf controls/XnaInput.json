@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XnaInput",
+  "Title": "Xna Input",
+  "Description": "Xna Input is a very flexible library for creating input controls. It allows complete separation between input device implementation, and input use. It works very well with settings configuration files to allow the user to customize their experience. Supports game pad, keyboard and mouse. Xna Input Also allows easy creation of custom input controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Xna Input is a very flexible library for creating input controls. It allows complete separation between input device implementation, and input use. It works very well with settings configuration files to allow the user to customize their experience. Supports game pad, keyboard and mouse. Xna Input Also allows easy creation of custom input controls.<br /><br />You can download the newest version of Xna Input here: <a href=\"https://xnainput.codeplex.com/releases/view/28730\">Xna Input 1.5.1</a><br /><br /><a href=\"https://xnainput.codeplex.com/wikipage?title=Getting%20Started&referringTitle=Home\">Getting Started</a><br /><br />Reference:<br /><a href=\"https://xnainput.codeplex.com/wikipage?title=GeneralRef&referringTitle=Home\">General reference</a><br /><a href=\"https://xnainput.codeplex.com/wikipage?title=GamepadRef&referringTitle=Home\">Game pad reference</a><br /><a href=\"https://xnainput.codeplex.com/wikipage?title=KeyboardRef&referringTitle=Home\">Keyboard reference</a><br /><a href=\"https://xnainput.codeplex.com/wikipage?title=MouseRef&referringTitle=Home\">Mouse reference</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,Input,Xna Component,Library,watch,.NET XNA ,bDownload,",
+  "LastEdited": "2009-06-13T08:23:30.347-07:00"
+}

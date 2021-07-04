@@ -1,0 +1,9 @@
+{
+  "ProjectName": "oob",
+  "Title": "HugeFlow.OOB",
+  "Description": "Silverlight OOB Library\r\nIt supports useful custom controls.\r\nWindowChrome, InstallScreen.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>HugeFlow.OOB</h1>\r\nSilverlight OOB Library<br />It supports useful custom controls.<br />WindowChrome, InstallScreen.<br /><br />This makes it easy for developers to implement Silverlight OOB Applications.<br /><b>HugeFlow.OOB</b> Library has some behaviors and custom controls.<br />\n<h2>Behaviors</h2>\r\n<ul><li>OOBCloseWindowBehavior</li>\n<li>OOBDragMoveWindowBehavior</li>\n<li>OOBDragResizeWindowBehavior</li>\n<li>OOBIntallBehavior</li>\n<li>OOBMaximizeWindowBehavior</li>\n<li>OOBMinimizeWindowBehavior</li></ul>\n\n<h2>Custom Controls</h2>\r\n<ul><li>InstallScreen</li>\n<li>WindowChrome</li></ul>\n<br /><img src=\"/projects/oob/a5323a6b-e6ca-4cb0-9b69-a7a58d8cbe7e\" alt=\"oob.PNG\" title=\"oob.PNG\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-22T00:24:37.483-07:00"
+}

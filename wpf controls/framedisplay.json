@@ -1,0 +1,9 @@
+{
+  "ProjectName": "framedisplay",
+  "Title": "FrameDisplay",
+  "Description": "FrameDisplay allows you to send images, web links, and screen captures from one computer to another. Primary usage is for controlling a TV (with PC connected) as a sophisticated electronic picture frame from your laptop.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />FrameDisplay allows you to send images, web links, and screen captures from one computer to another. Primary usage is for controlling a TV &#40;with PC connected&#41; as a sophisticated electronic picture frame from your laptop.<br /><br /><b>Future Expansions</b><br />*Android/iPhone apps for controlling the FrameDisplay server.<br /><br /><b>Proof of Concept</b><br />One of the purposes of this project is to provide a proof of concept for how &quot;Play To&quot; for DLNA devices could be expanded to include web URLs. Ideally, instead of just being able to tell my DLNA-enabled television to play a movie or show a picture, I could tell it to show a web page. For instance, if you&#39;re browsing the web on your computer, you could right-click on the address bar and select &quot;Play To&quot; &gt; &quot;My TV&quot; on the context menu. I&#39;m not part of any group working on DLNA or UPnP, but hopefully, someone associated with one of those groups will see this and run with the idea.<br /><br />I see the potential for a website/facebook app/live or google service/whatever where you could go and configure a digital dashboard full of widgets where you can specifically arrange them for your 1080p/720p display. Then from your phone or home computer, you could easily toggle your living room TV to show one of your preconfigured dashboards.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-08T12:35:54.937-08:00"
+}

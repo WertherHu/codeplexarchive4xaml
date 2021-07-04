@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WindowPhoneCalendar",
+  "Title": "WindowPhone Calendar Control",
+  "Description": "It is a simple windowsphone calendar control. \r\n\r\nI hope you like it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nIt is a windowsphone calendar control.&nbsp;</p>\r\n<p>when I made it (long time ago), I didn't find calendar control for windowsphone. So I made it.&nbsp;</p>\r\n<p>I use it in my app.&nbsp;My App:&nbsp;<a href=\"http://www.windowsphone.com/s?appid=96eb777b-d79d-45aa-beeb-2caaf93c289c\">http://www.windowsphone.com/s?appid=96eb777b-d79d-45aa-beeb-2caaf93c289c</a></p>\r\n<p>You can design the calendarItem style with expression blend.</p>\r\n<p>The Calendar's HorizontalAlignment must be Stretch!</p>\r\n<p>You can use it in your Apps.<br>\r\n<strong>&nbsp;</strong></p>\r\n<p><strong>Hope you like it :)</strong></p>\r\n<p><strong><br>\r\n</strong></p>\r\n<p><img src=\"http://pic002.cnblogs.com/images/2012/347383/2012082422554068.png\" alt=\"\" width=\"480\" height=\"800\" style=\"vertical-align:bottom\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 7,calendar,",
+  "LastEdited": "2012-08-24T08:01:04.38-07:00"
+}

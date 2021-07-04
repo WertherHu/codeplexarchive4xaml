@@ -1,0 +1,9 @@
+{
+  "ProjectName": "filteringdatagrid",
+  "Title": "FilteringDataGrid for WPF",
+  "Description": "Filtering the WPF DataGrid automatically via the header (inline filtering) like you see in DevExpress / Telerik.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Filtering the WPF DataGrid automatically via the header &#40;inline filtering&#41; like you see in DevExpress &#47; Telerik.<br /><br /><b>Features</b><br /><br /><img src=\"/projects/filteringdatagrid/47df6d31-9b94-4e95-b9e9-c0ed3b8fea68\" alt=\"filter_grid_normal.png\" title=\"filter_grid_normal.png\" /> <img src=\"/projects/filteringdatagrid/3d11f383-a5d9-4a8b-9a53-68e5f52d6f1d\" alt=\"filter_grid_hover.png\" title=\"filter_grid_hover.png\" /> <img src=\"/projects/filteringdatagrid/6e387c75-cdf6-41d5-a7f4-ab57f5c7c501\" alt=\"filter_grid_mouseout.png\" title=\"filter_grid_mouseout.png\" /> <br /><br />This grid actually has 3 states:<br />\n<ul><li>Normal: No filtering applied and mouse is not hovering the header</li>\n<li>Hover: Mouse is hovering the header and it&#39;s possible to add some filtering</li>\n<li>MouseOut: The mouse has left the header and filtering is applied (filter is shown in the header)</li></ul>\n<br />This is a regular control, so after it&#39;s databound there&#39;s nothing left to do.<br />The filtering functionallity is fully automatic.<br /><br /><b>This project is no longer active.</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF Toolkit,DataGrid,Filter,",
+  "LastEdited": "2011-06-23T11:29:54.913-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netsnoop",
+  "Title": "NetSnoop",
+  "Description": "Netsnoop allows everyone to get a quick overview over alle the current connections on their workstation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Netsnoop allows everyone to get a quick overview over alle the current connections on their workstation.<br /><br /><b>Planned Features</b><br />\n<ul><li>Advanced sorting and filtering.</li>\n<li>Logging and analysis of the logged data.</li>\n<li>Statistical data from the network adapter.</li></ul>\n<br /><b>Implemented Features</b><br />\n<ul><li>No big features implemented yet.</li></ul>\n<br /><b>Changelog</b><br />\n<ul><li>0.2 - Change in code and project design. Connection listing is now based on the iphlpapi.dll</li>\n<li>0.1 - Initial release with basic gui and very basic networking functions</li></ul>\n<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,network,WPF,Analysis,TCP,",
+  "LastEdited": "2011-05-14T05:04:44.743-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slphpbackend",
+  "Title": "PHP backend for Silverlight",
+  "Description": "This project aims to provide a way of making Silverlight not dependable on Microsoft Web Services to interact with backends. In this specific case, provides a way of interacting with MySQL database via PHP.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThis project aims to provide a way of making Microsoft Silverlight not dependable on their own web services to interact with backends. If you are used to make your web applications interact with MySQL databases using PHP then this project maybe usefull to you.<br />\n<h2>Features</h2>\r<ul><li>Support for basic INSERT, UPDATE and DELETE SQL operations on a single table.</li>\n<li>Support for file upload with progress and completed events</li>\n<li>Support for retrieving data from many fields of a single table as XML, ready to be consumed by Silverlight binding system.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-08-27T14:05:54.607-07:00"
+}

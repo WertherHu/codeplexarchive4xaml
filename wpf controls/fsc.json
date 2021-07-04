@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fsc",
+  "Title": "WPF File System Controls",
+  "Description": "Implements file system related WPF controls in an MVVM compliant way.",
+  "MovedLink": "https://github.com/Dirkster99/fsc",
+  "HomeWiki": "<div class=\"wikidoc\">This project contains the source code for an implementation of controls that are related to browsing files within an existing application. Go to: <a href=\"https://edi.codeplex.com/wikipage?title=File%20Explorer&amp;referringTitle=list%20of%20features\">https://edi.codeplex.com/wikipage?title=File%20Explorer&amp;referringTitle=list%20of%20features</a> to see the controls in full action (see Explorer tool window) or check details and screenshots in the <a href=\"https://fsc.codeplex.com/documentation?referringTitle=Home\">Documentation</a> section.<br /><br />This project contains:<br />\n<ul><li>A path combobox control that lets you:\n<ul><li>enter a path (with copy and paste) or</li>\n<li>pick drives from a drop down list of currently recognized drives.</li></ul></li></ul>\n\n<ul><li>A folder browser control to browse folder in your file system</li>\n<li>A folder, file listview control to list items within a given folder</li></ul>\n\n<ul><li>A folder bookmark drop down list control to bookmark and quick access recently visited folders</li>\n<li>A forward and backward history control for navigated back and forth between recently visited folders</li>\n<li>A set of folder short-cut buttons to navigate directly to a folder.</li></ul>\n\n<h2>Limitations</h2>\r\n<ul><li>Universal Control (UNC) network share paths are not supported</li>\n<li>Support for drives with exchangeable media (CD-ROM, USB Drive) is limited. Everything should work as expected but exchanging the media will not lead to updating displayed folder and file entries.</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,.Net,Edit-In-Place,Open Source,MVVM,",
+  "LastEdited": "2014-08-04T12:54:13.243-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lrucache",
+  "Title": "LRU Cache",
+  "Description": "This project implements the LRU Cache using C#. It uses a Dictionary and a LinkedList. Dictionary ensures fast access to the data, and the linkedlist controls which objects are to be removed first.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project implements the LRU Cache using C&#35;. It uses a Dictionary and a LinkedList. Dictionary ensures fast access to the data, and the linkedlist controls which objects are to be removed first.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-15T03:26:24.25-07:00"
+}

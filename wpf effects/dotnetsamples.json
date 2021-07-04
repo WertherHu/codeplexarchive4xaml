@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dotnetsamples",
+  "Title": "Dotnet.Samples",
+  "Description": ".NET Framework sample projects showcasing a variety of technologies, frameworks and libraries. Created by Nano Taboada under a MIT License.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>About</h2>\r<ul><li>Microsoft&#174; .NET™ sample projects showcasing a variety of technologies, frameworks and libraries.</li></ul>\n\n<h2>Credits</h2>\r<ul><li>Contents created by <a href=\"http://about.me/nanotaboada\">NanoTaboada</a> under a <a href=\"http://opensource.org/licenses/mit-license.php\">MIT License</a>.</li>\n<li>All samples have been coded in C# using <a href=\"http://www.microsoft.com/visualstudio/en-us/products/2010-editions/express-iso\">Microsoft&#174; Visual Studio&#174; 2010 Express</a> mostly targeting <a href=\"http://www.microsoft.com/net/\">.NET Framework 4</a>. </li>\n<li><i>Computer Coding</i> icon designed by <a href=\"http://www.winepressofwords.com/author/thomas/\">Thomas McGee</a> for <a href=\"http://www.smashingmagazine.com/2010/12/23/free-icon-set-for-web-developers-coded/\">Smashing Magazine</a>.</li></ul>\n\n<h2>Terms</h2>\r<ul><li>All trademarks, registered trademarks, service marks, product names, company names or logos are property of their respective owners and are used for reference purposes only.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "nunit,C#,WPF,wcf,NHibernate,SQLite,Entity Framework,SQL Server CE,log4net,.NET 4.0,Moq,Ninject,TPL,Quartz.NET,",
+  "LastEdited": "2012-06-17T11:42:18.38-07:00"
+}

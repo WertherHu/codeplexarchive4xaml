@@ -1,0 +1,9 @@
+{
+  "ProjectName": "automation4u",
+  "Title": "Automation",
+  "Description": "Provides an easy way to communicate with PLC through Modbus protocol",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides an easy way to communicate with PLC through Modbus protocol<br /><br />\n<h1>Water tank demo</h1>\r\nIn the downloads tab you can find a clickonce installer to run this demo on your computer.<br />In this demo there are 6 tags namely:<br />\n<ul><li>Maximum level : Indicates whether the tank is full or not - Modbus address 00001 (bool);</li>\n<li>Minimum level : Indicates whether the tank is empty or not - Modbus address 00002 (bool);</li>\n<li>Inlet valve : The valve state (open/closed)  - Modbus address 00003 (bool);</li>\n<li>Outlet valve : The valve state (open/closed)  - Modbus address 00004 (bool);</li>\n<li>Water temperature : Indicates the water temperature - Modbus address 40001 (float);</li>\n<li>Water level : Indicates the percentage of the tank capacity occupied - Modbus address 40003 (int16);</li></ul>\n<br />To test this demo, run it and set the appropriate PLC IP address. Press the connect button.<br />If you don&#39;t have a PLC to test with this demo, you can download the <a href=\"http://www.plcsimulator.org/\">Modbus PLC Simulator</a>. In this case leave the IP address as 127.0.0.1<br /><br /><img src=\"/projects/automation4u/88244051-afd3-4a7d-9a85-c1b22adc79a6\" alt=\"watertankdemo.png\" title=\"watertankdemo.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Automation,HMI,Modbus,SCADA,PLC,C#,.net,",
+  "LastEdited": "2013-09-05T09:37:28.007-07:00"
+}

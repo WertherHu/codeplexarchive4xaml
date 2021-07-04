@@ -1,0 +1,9 @@
+{
+  "ProjectName": "alphaget",
+  "Title": "AlphaGet",
+  "Description": "AlphaGet is a download manager for Windows. \nYou can drag links onto the AlphaGet Widget and it will download a file on the selected folder.\n\nIt is developed in C# 4.0 and Windows Presentation Foundation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />AlphaGet is a download manager for Windows. <br />You can drag links onto the AlphaGet Widget and it will download a file on the selected folder.<br /><br />It is developed in C&#35; 4.0 and Windows Presentation Foundation.<br /><br /><b>AphaGet is now deprecated. Check out its successor VIPHYS Downloader:</b><br /><a href=\"http://sourceforge.net/projects/viphysdown/\">http://sourceforge.net/projects/viphysdown/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C# 4.0,downloader,download,download manager,desktop tool,WPF,Windows,C#,.NET 4.0,",
+  "LastEdited": "2011-04-01T02:05:25.463-07:00"
+}

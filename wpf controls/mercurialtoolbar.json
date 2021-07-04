@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mercurialtoolbar",
+  "Title": "Mercurial Toolbar",
+  "Description": "A Mercurial toolbar extension for Visual Studio 2010. Requires TortoiseHg to be installed on the client machine.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Mercurial toolbar extension for Visual Studio 2010. Requires TortoiseHg to be installed on the client machine.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Mercurial,Source Control,",
+  "LastEdited": "2010-08-23T16:28:28.737-07:00"
+}

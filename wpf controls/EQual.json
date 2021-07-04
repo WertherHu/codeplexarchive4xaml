@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EQual",
+  "Title": "SimpleQualityControl",
+  "Description": "A Quality control project   .A simple extensible realization of ISO 9001 .\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Quality control project   .A simple extensible realization of ISO 9001 .<br /><br /><br />-This ia a 3-Tier  Architecture . <br />-This is Based on Composite Application Library (CAL) Project  Views Are Implemented in WPF framework .<br />-DataLayer uses the Linq to SQL technology.<br /><br />No Test Unit is Implemented at the time.<br /><br />Come Back latter the project is a bit messy right now .<br />I would appreciate a comment on architecture or any other proposal .</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-26T10:32:31.71-07:00"
+}

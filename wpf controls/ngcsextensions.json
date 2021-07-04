@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ngcsextensions",
+  "Title": "CommunityServer Extensions",
+  "Description": "Here you can find some CommunityServer extensions and bug fixes.\nThe main goal is to provide  you with the ability to correct some common problems with minimal changes (mainly config files changes).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>CommunityServer Extensions</h1>\rThis project main goal is to provide an easy way to bypass some CS bugs and to add missing behaviors.<br /><br />The goal is to be less intrusive as possible and this means that all changes will be made thru configuration changes. The original assemblies are kept unchanged.<br /><br />Using ControlAdapters and Tag Mapping it&#39;s possible to make individual changes and only use what you really need.<br /><br />A must have behavior that is missing is ability to add CAPTCHA to sensitive forms like contact form, post comment form or user registration. <br />Well ... now you can easily add this:<br /><br /><img src=\"/projects/ngcsextensions/520c9b0f-2ed3-4711-8941-68577a6ab7d8\" alt=\"CSCaptcha.jpg\" title=\"CSCaptcha.jpg\" /><br /><br />The release binaries are compiled against <b>CommunityServer 2008.5</b>.<br /><br />For usage information see the <a href=\"http://ngcsextensions.codeplex.com/documentation\">Documentation</a> section.<br /><br />For technical details see the following posts:<br /><br /><a href=\"http://nunogomes.net/post/2010/03/31/ASPNETControls_CommunityServer_Captcha_ControlAdapter.aspx\">ASP.NET Controls - CommunityServer Captcha ControlAdapter, a practical case</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Community Server,control adapters,CAPTCHA,",
+  "LastEdited": "2010-04-01T02:17:13.693-07:00"
+}

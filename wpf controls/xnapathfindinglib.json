@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xnapathfindinglib",
+  "Title": "XNA Pathfinding Library",
+  "Description": "The project is a pathfiding library for XNA, featuring A*, Breadth and Depth search. It also has some performance controls and event handling triggered during the search for fine tunning.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The project is a pathfiding library for XNA, featuring A&#42;, Breadth and Depth search. It also has some performance controls and event handling triggered during the search for fine tunning.<br /><br /><b>Downloads</b><br />- <a href=\"http://xnapathfindinglib.codeplex.com/Release/ProjectReleases.aspx\">http://xnapathfindinglib.codeplex.com/Release/ProjectReleases.aspx</a><br /><br /><b>News</b><br />- Release 1.0 is out.<br />- Source code is available.<br /><br /><b>Tutorials</b><br />- This release comes with a small demo that demonstrates how to work with the library. More detailed tutorials are coming soon.<br /><br /><b>Demo</b><br />- This video shows the library in use: <a href=\"http://www.youtube.com/watch?v=dPvG-h35D5A\">http://www.youtube.com/watch?v=dPvG-h35D5A</a>. It&#39;s just a small demo, not a real world application. And the search speed has been reduced, so it could be watched.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,Pathfinding,A*,Breadth Search,Depth Search,XNA pathfinding,",
+  "LastEdited": "2010-02-11T10:31:43.663-08:00"
+}

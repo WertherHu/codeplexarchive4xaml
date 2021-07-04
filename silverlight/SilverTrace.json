@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverTrace",
+  "Title": "SilverTrace - a tracer and logger for Silverlight applications",
+  "Description": "SilverTrace - a tracer for Silverlight applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverTrace - a tracer for Silverlight applications.<br /><br />The app uses LocalMessageReceiver to receive messages coming from a LocalMessageSender<br /><br />Demo: <a href=\"http://www.bodurov.com/SilverTrace/\">http://www.bodurov.com/SilverTrace/</a> (from here you can also install it on your desktop)<br />You can test it with this test caller: <a href=\"http://www.bodurov.com/SilverTrace/caller.html\">http://www.bodurov.com/SilverTrace/caller.html</a><br /><br />The logger that calls it could look as simple as that (listen to TestLog name):<br /><br />public static class Log<br />{<br />        private readonly static LocalMessageSender _sender = new LocalMessageSender(&quot;TestLog&quot;, System.Windows.Messaging.LocalMessageSender.Global);<br />        public static void Debug(string s, params object[] args)<br />        {<br />            _sender.SendAsync(string.Format(s, args));<br />        }<br />}</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Tracing,LocalMessageReceiver,",
+  "LastEdited": "2010-12-30T15:17:33.54-08:00"
+}

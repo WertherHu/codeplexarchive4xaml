@@ -1,0 +1,9 @@
+{
+  "ProjectName": "psisetfsaddon",
+  "Title": "PowerShell ISE Team Foundation Add-On Tool",
+  "Description": "The PowerShell ISE Team Foundation Add-On Tool provides an easy interface to work with PowerShell scripts that are version-controlled in a TFS Team Project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThe PowerShell ISE Team Foundation Add-On Tool provides an easy interface to work with PowerShell scripts that are version-controlled in a TFS Team Project.<br /><img src=\"http://download.codeplex.com/Download?ProjectName=psisetfsaddon&amp;DownloadId=331663\" /><br />\n<h1>Progress as at 23rd January 2012</h1>\r<ul><li>Detects the workspace and the current state (eg check-out) of the currently selected file.</li>\n<li>Supports Get Latest, Add, Check Out, Check In, and Undo for the currently selected file.</li></ul>\n\n<h1>Known Issues</h1>\r<ul><li>Uses saved credentials for TFS but won&#39;t prompt.</li>\n<li>Only works with already mapped workspaces.</li>\n<li>Get Latest doesn&#39;t consider file renames or merging uncommitted changes.</li>\n<li>Check In accepts a comment but doesn&#39;t associate with work items or consider check-in policies.</li>\n<li>Undo doesn&#39;t refresh the file contents in the script pane yet.</li>\n<li>List of pending changes doesn&#39;t always refresh correctly.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-22T13:35:24.427-08:00"
+}

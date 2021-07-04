@@ -1,0 +1,9 @@
+{
+  "ProjectName": "namatyping",
+  "Title": "ニコ生タイピング",
+  "Description": "ニコニコ生放送（http://live.nicovideo.jp）でコメントを使ってタイピングゲームをするアプリケーションです。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><a href=\"https://github.com/jz5/namatyping\">GitHub に移動しました</a></h1>\r\nこのページはメンテナンスされていません。<br /><br />---<br />\n<h1>ニコ生タイピング</h1>\r\nニコニコ生放送（<a href=\"http://live.nicovideo.jp\">http://live.nicovideo.jp</a>）で放送中のコメントを利用したタイピングゲームです。<br /><br />\n<h1>説明</h1>\r\nニコニコ動画にある主に歌の動画を見ながら、その歌詞をみんなでタイピングします。<br />自動でニコニコ動画の動画を利用して遊べるはずもなく、現在 以下のファイルを用意しないと動きません<br /><br />新 Ver\n<ul><li>サンプルデータの XML ファイル内コメントおよび下記 旧 Ver の内容を参照（新 Ver で 旧 Ver 形式のデータも読み込めます）</li>\n<li><b>ニコ生タイピング Starter Pack</b>： <a href=\"http://pronama.jp/typing/\">http://pronama.jp/typing/</a></li></ul>\n<br />旧 Ver\n<ul><li>時刻付き歌詞テキストファイル (.lrc)</li>\n<li>歌詞をひらがなに変換するための単語テキストファイル (.rep.txt)</li>\n<li>次のいずれか\n<ul><li>mp3ファイルと静止画像（.jpg or .png)</li>\n<li>wmvファイル</li></ul></li></ul>\n※ いずれも拡張子以外は同名<br /><br />放送用に作りっぱなし的なものなので正しく操作しないと強制終了したり使い勝手は良くないです。<br />開発手伝ってくれる方は是非連絡ください！<br /><br />作者(5zj)がオーナーのコミュニティ「プログラミング生放送」はこちら。<br /><a href=\"http://ch.nicovideo.jp/community/co9320\">http://ch.nicovideo.jp/community/co9320</a><br /><br />.NET Framework 4 Client Profile がインストールされている必要があります(Windows Update)からインストールできます。<br />Windows XP(SP3)、Windows Vista(SP2)、Windows 7 で動作します。<br />開発環境は Windows 7 x64、Visual Studio 2010 です。</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ニコニコ生放送,VB.NET,WPF,",
+  "LastEdited": "2017-06-04T23:48:31.087-07:00"
+}

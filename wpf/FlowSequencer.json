@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FlowSequencer",
+  "Title": "Flow Sequencer",
+  "Description": "Simple task sequencer using Johnson's algorithm for two and three machines.\r\nClient side is made in wpf technology. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple task sequencer using Johnson&#39;s algorithm for two and three machines.<br />Client side is made in wpf technology. <br /><br /><br /><img src=\"http://www.codeplex.com/Download?ProjectName=flowsequencer&amp;DownloadId=525178\" /><br />Interface for three machines<br /><br /><img src=\"http://www.codeplex.com/Download?ProjectName=flowsequencer&amp;DownloadId=525179\" /><br />Interface for two machines</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-01T12:06:38.7-07:00"
+}

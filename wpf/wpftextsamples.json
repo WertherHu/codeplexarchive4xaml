@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpftextsamples",
+  "Title": "WPF FlowDocument Examples for VS2008 and VS2010",
+  "Description": "WPF Text Samples (especially FlowDocument) on the various possible effects: sub- and super-script, ruby (a.k.a. furigana), and various others...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Text Samples &#40;especially FlowDocument&#41; on the various possible effects&#58; sub- and super-script, ruby &#40;a.k.a. furigana&#41;, and various others...<br /><br />Basic samples for VS2008 and VS2010. Some are taken from MSDN documentation.<br /><br />My personal special interest is in ruby (a.k.a. <a href=\"http://en.wikipedia.org/wiki/Furigana/\">Furigana</a>) support. But I also want to collect more samples about FlowDocuments.<br /><br />Additional support is needed!!!<br /><br />TODO:<br /> - add more examples<br /> - collect and report bugs</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-31T03:08:03.637-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MelisChat",
+  "Title": "Melis.Chat",
+  "Description": "The Melis.Chat is a simple and lite chat.\nUsing AJAX core (not AJAX .NET)\n\nThe source code is in C# 2.0 with javascript",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Melis.Chat - LiteAjax<br /><br />Questa chat usa le librerie minime di Ajax e NON si appoggia al framework di .Net.<br />&#200; completamente auto sufficente<br /><br /><br /><a href=\"http://www.MelisWeb.eu/\">MelisWeb</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,ASP.NET,C#,javascript,Chat,Web 2.0,C# 2.0,ASP.NET 2.0,asp.net controls,amelix,webcontrols,italy,",
+  "LastEdited": "2007-09-24T02:28:17.993-07:00"
+}

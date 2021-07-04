@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NthParameterSeries",
+  "Title": "Nth Parameter Series",
+  "Description": "Silverlight Business  application to use the concept of extending the double time series used extensivelly in the finance industry.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Extending the double time series to to an Nth parameter series</b><br />Silverlight Business  application to use the concept of extending the double time series used extensivelly in the finance industry.<br /><br /><br /><br />Having worked many years in the investment finance arena. I have always come up with the double time series concept. This is the concept that an estimate of a  price of an asset on a certain day will become closer to the real value  as time passed and new price estimates are coming in. <br /><br />The concept mesuring or viewing a value that has  a fixed parameter associated with it and a variable parameter of the same type that will change the initial value depending on the second parameters value. The third input is then how the second parameter moves with regard to the first.<br />With time series the first third input is time moving forward, fo a parmater of distance it mght be the second parmeter moving toward the first to get the best estimate.<br /><br />This will start out using the double time series concept and then refactor out so that it could be used for any type</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-08T03:37:14.387-08:00"
+}

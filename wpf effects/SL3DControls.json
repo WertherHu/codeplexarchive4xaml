@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SL3DControls",
+  "Title": "SL3DControls",
+  "Description": "A set of controls using 3D effects for Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A set of controls using 3D effects for Silverlight.<br /><br />The first control is the DepthCanvas. This canvas can be used to stack other canvasses together and give your application a layered look: <a href=\"http://www.timmykokke.com/DepthCanvas/demoPage.html\">DepthCanvas Demo</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "3d,silverlight,",
+  "LastEdited": "2010-02-10T12:45:26.607-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dommy",
+  "Title": "Dommy (Home automation server)",
+  "Description": "Dommy is a french project for home automation. This project include Speech recognition, eedomus box interaction, ...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Dommy is command line application to run home automation scenarios.</p>\r\n<p><strong>Why this name ?</strong><br>\r\nThe name is a reference to the french comics &quot;Travis&quot;.&nbsp; In this serie there is an artificial inteligence for home automation.</p>\r\n<p><strong>Why this project ?</strong><br>\r\nFirst I wanted to create automations with speech recongnition.</p>\r\n<p><strong>How it's works ?</strong><br>\r\nI use :<br>\r\n- Kinect for speech recognicion.<br>\r\n- Microsoft Text to Speech for voice response.<br>\r\n- Eedomus API for home automation. <br>\r\n- Samsung TV API<br>\r\n- UsbUIRT controller for make infra red command.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-07-23T07:09:36.107-07:00"
+}

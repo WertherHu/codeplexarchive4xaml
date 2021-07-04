@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winformshape",
+  "Title": "WinForms Shape Control",
+  "Description": "A simple WinForms control that will display a shape (rectange, triangle, star, curve, polygon, etc.) with a number of different fill and outline effects, including text. Nice for spicing up a form.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple WinForms control that will display a shape &#40;rectange, triangle, star, curve, polygon, etc.&#41; with a number of different fill and outline effects, including text. Nice for spicing up a form.<br /><br />Initially created to add some &quot;pop&quot; to a WinForms application and ended up being more to help demonstrate the power of creating custom controls. Some interesting stuff in here so I&#39;m posting to share my learnings.<br /><br /><img src=\"/projects/winformshape/04a0ab6b-9aee-427e-b996-506ac94ef3c6\" alt=\"Capture1.jpg\" title=\"Capture1.jpg\" /><br /><br /><img src=\"/projects/winformshape/fd84c39a-9489-480d-9d3f-61483654cdeb\" alt=\"Capture2.jpg\" title=\"Capture2.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Winforms,Windows Forms,.NET,Controls,",
+  "LastEdited": "2009-12-13T23:51:15.663-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netopenfwk",
+  "Title": "NetOpenFwk",
+  "Description": "A nice & simple Framework to develop SOA .NET apps\nIncludes MBI like dispatcher, CRUD engine, UI controls, DBHelper, XL and PDF generation, aspects (security, log, exception handling)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">More info at: <a href=\"http://www.pampasystems.com.ar\">http://www.pampasystems.com.ar</a><br /><br /><b>An EASY SOA-Net Framework </b>\n<ul><li>Best practices over .NET C# ASPNet+Ajax</li>\n<li>SOA Dispatcher: inProc+WS</li>\n<li>CRUD Engine</li>\n<li>DBHelper: multi DB, XML ready</li>\n<li>Membership</li>\n<li>UI Controls (Combo, DatePicker, AmountPicker)</li>\n<li>Reports: generates XL, PDF</li>\n<li>Aspects: Exception handling, Log, Security</li>\n<li>ESB: enterprise service bus</li>\n<li>SMSEngine: process any SMS message! We developed a mobile parking system on top of it, for La Plata, Argentina</li></ul>\n\n<ul><li>New! Now UI in jQuery,Html5, and services API in Rest/Json !!!</li></ul>\n<br />Dev.guide (spanish): <a href=\"/projects/netopenfwk/e24303b8-2211-4350-818c-130b9ffaed4f\">NetOpenFwk_Guia.rar</a><br /><br />Architecture: <br /><img src=\"/projects/netopenfwk/f2b9a964-cc99-4a32-ae09-c62763134791\" alt=\"NetOpenFwk_Arch.jpg\" title=\"NetOpenFwk_Arch.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,Framework,wcf,SOA Architecture,DB Helper,mobile parking,sms,",
+  "LastEdited": "2013-05-24T07:17:05.183-07:00"
+}

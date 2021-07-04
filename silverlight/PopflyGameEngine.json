@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PopflyGameEngine",
+  "Title": "Popfly Game Engine (for Silverlight Web and Windows Phone 7 Series Applications)",
+  "Description": "A C# Silverlight project which builds a game engine capable of consuming data files from the games formerly hosted on www.popfly.com.  This is a slight branch of the last production game engine on http://www.popfly.com which removes features dependent on the site like high scores",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A C&#35; Silverlight project which builds a game engine capable of consuming data files from the games formerly hosted on www.popfly.com.  This is a slight branch of the last production game engine on http&#58;&#47;&#47;www.popfly.com which removes features dependent on the site like high scores<br /><br /><b>Things to do with/to this code</b><br />There are a number of things this code could be useful for or could use fixing:<br />*Example code for a simple, general purpose Silverlight game engine<br />*create a Silverlight 3 scene / actor / behavior editor for the data format and make new games<br />*Porting the engine to run your games on other platforms, like XBox 360 or Zune via XNA Game Studio or client PC via WPF<br />*Building a copy of the game engine to use with your game data to post on your website.<br />*fix multi-actor collision resolution and make Lots O&#39; Peas go faster!<br />*add new features like grid-based terrain, dialog trees, etc</div><div class=\"ClearBoth\"></div>",
+  "TagList": "popfly,popflygameengine,",
+  "LastEdited": "2009-08-27T08:52:26.843-07:00"
+}

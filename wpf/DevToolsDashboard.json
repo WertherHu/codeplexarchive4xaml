@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DevToolsDashboard",
+  "Title": ".NET Dev Tools Dashboard",
+  "Description": ".NET Dev Tools Dashboard is a WPF application that implements the Prism 4 standards.\r\nModules can be added at runtime and after install of the base Dashboard shell.\r\nThe first module is a WPF Gui for NAnt based on Colin Svingen's Gui for NAnt open source app for Windows Forms.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">.NET Dev Tools Dashboard is an extendable .NET development toolbox written in WPF .NET 4.0.<br /><br /><img src=\"http://techno-fly.homeserver.com:8000/images/splash_servicedashboard.png\" /><br /><br /><b>Project Description</b><br />.NET Dev Tools Dashboard is a WPF application that implements the Prism 4 standards.<br />Modules can be added at runtime and after install of the base Dashboard shell.<br />The first module is a WPF Gui for NAnt based on Colin Svingen&#39;s Gui for NAnt open source app for Windows Forms.<br /><br />Please visit the website at <a href=\"http://www.techno-fly.net\">http://www.techno-fly.net</a> and  <a href=\"http://techno-fly.homeserver.com:8000/forum/\">http://techno-fly.homeserver.com:8000/forum/</a> for extensive developer resources and the project blog.<br /><img src=\"http://techno-fly.homeserver.com:8000/images/footer_logo.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-19T10:32:31.793-07:00"
+}

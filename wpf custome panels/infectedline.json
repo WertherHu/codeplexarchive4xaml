@@ -1,0 +1,9 @@
+{
+  "ProjectName": "infectedline",
+  "Title": "InfectedLine",
+  "Description": "Remote administration with command line through Web Panel.\r\n\r\nCoded by Dawid Farbaniec in C#.NET",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>InfectedLine</b><br /><br /><b>Remote administration with command line through web panel.</b><br /><br /><b>Setup instructions:</b><br /><b>1. Upload Web Panel to your hosting</b><br /><b>2. Open Form1.cs and configure URLs in AppInfo class</b><br /><b>3. Build Visual Studio Solution</b><br /><br /><b>Usage instructions:</b><br /><b>1. Open InfectedLine.exe</b><br /><b>2. Go to Web Panel and type commands to execute on remote machine</b><br /><br /><b>Coded in C#.NET by Dawid Farbaniec</b><br /><br /><b>For educational purposes only.</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-02-07T01:31:18.31-08:00"
+}

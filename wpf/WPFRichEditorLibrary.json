@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFRichEditorLibrary",
+  "Title": "WPF Rich Editor Library",
+  "Description": "WPF Rich Editor Library is a WPF UserControl with \"Word-like\" text editor. Written in C#. Project use RibbonControlsLibrary for user-friendly ribbon menu and open-source & modified \"convertHTML\" library for export/import FlowDocument and HTML format.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />WPF Rich Editor Library is a WPF UserControl with &#34;Word-like&#34; text editor. Written in C&#35;. Project use RibbonControlsLibrary for user-friendly ribbon menu and open-source &#38; modified &#34;convertHTML&#34; library for export&#47;import FlowDocument and HTML format.<br /><br /><b>Prerequisites:</b>\n<ol><li><i><b>.NET Framework 3.5 SP1</b></i></li>\n<li><i><b>Ribbon Control</b></i> from RibbonControlLibrary (Check out the Ribbon Feature Walkthrough on <a href=\"http://windowsclient.net/wpf/wpf35/wpf-35sp1-ribbon-walkthrough.aspx\">WindowsClient.net</a>)</li></ol>\n<b>Programming language</b>: C#<br /><br /><b>Screen shot:</b><br /><br /><img src=\"/projects/WPFRichEditorLibrary/8b7219c4-de21-495f-874b-eca587f78115\" alt=\"WPFRichTextEditorScreenShot.JPG\" title=\"WPFRichTextEditorScreenShot.JPG\" /><br /><br /><i>Can anybody help me with development?</i><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "*,htmleditor,WPF,WPF Rich Editor Libr,",
+  "LastEdited": "2009-03-18T13:33:27.033-07:00"
+}

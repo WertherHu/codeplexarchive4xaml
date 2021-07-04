@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SocketIO4WinRT",
+  "Title": "SocketIO4WinRT.Client",
+  "Description": "This is a port of the SocketIO4Net.Client project, to run on WinRT (Windows 8) for C# users.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">SocketIO4WinRT is a SocketIO client for WinRT (Windows 8 Mobile) C# clients.  It is a port of SocketIO4Net.  <br /><br />For support, please create a discussion on the Discussions tab.<br /><br />-- Chris Bordeman</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-04-28T22:30:37.257-07:00"
+}

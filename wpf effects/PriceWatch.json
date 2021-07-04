@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PriceWatch",
+  "Title": "PriceWatch",
+  "Description": "PriceWatch is a WPF based application, which can watch the price of products in some e-commerce websites, like Amazon. You can see the price trend, and get an alert when the price is changed.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PriceWatch is a WPF based application, which can watch the price of products in some e-commerce websites, like Amazon. You can see the price trend, and get an alert when the price is changed.<br /><br /><br /><img src=\"/projects/PriceWatch/bc3f5151-d614-4e51-a825-5d71d36effe7\" alt=\"PriceWatch.jpg\" title=\"PriceWatch.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Amazon,Price,Nova,",
+  "LastEdited": "2011-04-21T23:49:37.593-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shoutbox",
+  "Title": "ShoutBox",
+  "Description": "Push-to-Talk communication within home networks\r\n- Windows service for audio output (running in background)\r\n- WPF GUI (to shout towards other ShoutBoxes)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Summary</h1>\rShoutBox is a tool for Push-to-Talk communication within home networks. Once ShoutBox is installed on a Windows machine, this machine is visible from all other ShoutBoxes in the network and can be shouted at. The other way round, users logged in at this machine can shout to all other ShoutBoxes in the network.<br />\n<h1>Installation</h1>\rJust follow the installer instructions. At the end of the installer dialog you can choose if the Windows speaker settings should be ignored during ShoutBox operation. If you keep this checkbox selected, a logged-in user nearly has no chance to avoid being shouted. Use ShoutBox only in agreement with your cohabitants and in a responsible manner!<br />\n<h1>Requirements</h1>\r<ul><li>Windows 7 or higher (not tested on Windows Vista)</li>\n<li>Admin rights for installation</li>\n<li>Soundcard, microphone, speakers</li></ul>\n\n<h1>Feedback</h1>\rPlease send bug reports, <a href=\"https://shoutbox.codeplex.com/wikipage?title=Translations&referringTitle=Home\">Translations</a>, questions or any kind of feedback to <a href=\"mailto:shoutbox.dev@spindotters.net\">shoutbox.dev@spindotters.net</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ShoutBox,Audio,",
+  "LastEdited": "2013-02-10T02:39:41.81-08:00"
+}

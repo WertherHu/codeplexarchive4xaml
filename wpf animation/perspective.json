@@ -1,0 +1,9 @@
+{
+  "ProjectName": "perspective",
+  "Title": "Perspective - Easy 2D and 3D programming with WPF",
+  "Description": "Perspective is an experimental and pedagogical .NET class library for 2D and 3D WPF",
+  "MovedLink": "https://github.com/technodesigner/Perspective",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Perspective is an experimental and pedagogical .NET class library for 2D and 3D WPF<br /><br />NEW : 3D layout system !<br /><br /><img src=\"http://technodesigner.fr/Content/Sites/technodesign.solutions/Media/Docb/Wpf3DLayout/BeeSpace3D.png\" /><br /><br />Lastest major version : <a href=\"https://perspective.codeplex.com/releases/view/611426\">Perspective 2.2 for WPF 4.0 &amp; 4.5</a> - see <a href=\"http://perspective.codeplex.com/SourceControl/list/changesets\">Source code</a> for releases<br /><br />Documentation :\n<ul><li><a href=\"http://technodesigner.fr/docs/tag/WPF\">WPF and Perspective general articles</a></li>\n<li><a href=\"http://technodesigner.fr/docs/tag/3D\">WPF and Perspective 3D articles</a>\n<ul><li>For a general introduction on 3D with Perspective, you can read <a href=\"http://technodesigner.fr/docs/wpf3dintro_en\">Perspective : easy 3D programming with WPF</a>.</li></ul></li>\n<li>A reference documentation is included in the source files (XmlDoc comments).</li></ul>\nFor older framework versions, see <a href=\"https://perspective.codeplex.com/wikipage?title=Perspective%201.0%20for%20.NET%203.5%20%26%20.NET%203.5%20SP1&referringTitle=Home\">Perspective 1.0 for .NET 3.5 &#38; .NET 3.5 SP1</a>.<br /><br />Enjoy ! <br /><br />Olivier Dewit<br /><a href=\"http://technodesigner.fr\">technodesigner.fr</a><br /><a href=\"http://twitter.com/technodesigner\">@technodesigner</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "3D Graphics,3D,WPF,WPF 3D,3D Tools for WPF,wpf3d,",
+  "LastEdited": "2017-11-07T10:08:08.933-08:00"
+}

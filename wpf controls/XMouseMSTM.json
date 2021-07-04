@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XMouseMSTM",
+  "Title": "X-Mouse Microsoft Touch Mouse Extender",
+  "Description": "Maps the surface of the MS Touch Mouse to allow layer changing in X-Mouse Button Control.  This allows more versatility of assigning new buttons to the mouse.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>X-Mouse Microsoft Touch Mouse Extender</b><br />{X-Mouse Button Control Layer Manipulation by the Touch Mouse}<br /><br />This program is intended for use with X-Mouse Button Control.<br /><a href=\"http://www.highrez.co.uk/downloads/XMouseButtonControl.htm\">http://www.highrez.co.uk/downloads/XMouseButtonControl.htm</a><br /><br />It currently adds a single control point on the surface of the MS Touch Mouse that acts as a unique control key, which is then assigned to X-Mouse to change to a specific layer.  It is planned to add several more points each with their own unique control codes, to allow access to different X-Mouse layers depending on which part of the mouse is covered.<br /><br /><b>Common uses</b><br />Middle Mouse Button: Assigning the Middle Control Point to Layer 2 in X-Mouse, and reassigning the Right Click to a Middle Click in that very layer.  End result is a middle mouse button newly created in the center of your MS Touch Mouse.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-24T01:45:17.563-07:00"
+}

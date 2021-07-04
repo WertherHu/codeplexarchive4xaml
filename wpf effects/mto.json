@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mto",
+  "Title": "Music Tag Organizer",
+  "Description": "Music Tag Organizer sets out to make the editing of MP3 or WMA Id3 tags easier.\n\nUses WPF and the TagLib source\n\n\ncurrently in development, no releases yet.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Music Tag Organizer sets out to make the editing of MP3 or WMA Id3 tags easier.<br /><br />Uses WPF and the TagLib source<br /><br /><br />currently in development, no releases yet.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MP3,WMA,ID3,Music,",
+  "LastEdited": "2009-05-19T00:03:46.05-07:00"
+}

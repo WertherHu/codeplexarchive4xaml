@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mangoteapot",
+  "Title": "Windows Phone AR sample",
+  "Description": "Argument Reality sample application for Windows Phone \"Mango\", which display virtual teapot in front of real video via photo camera. Accelerometer and Compass control the orientation of teapot based on Phone's orientation.\r\nThis sample is developed in C# with XNA and Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rArgument Reality sample application for Windows Phone &#34;Mango&#34;, which display virtual teapot in front of real video via photo camera. Accelerometer and Compass control the orientation of teapot based on Phone&#39;s orientation.<br />This sample is developed in C&#35; with XNA and Silverlight.<br /><br /><img src=\"/projects/mangoteapot/416a526e-4634-4e3e-8cdf-b7e358c61f38\" alt=\"MangoTeapot2.jpg\" title=\"MangoTeapot2.jpg\" /><br />\n<h2>Requirement</h2>\rThis sample requires <b>Windows Phone SDK 7.1</b> for build and <b>Windows Phone &quot;Mango&quot;</b> for work.<br />\n<h2>Features</h2>\r<ol><li>Touch gesture can rotate and scale 3D teapot (<b>Touch</b> button).</li>\n<li>Moving Windows Phone can rotate 3D teapot via accelerometer and compass (<b>Gravity</b> button).</li>\n<li>Display video via Photo Camera of Windows Phone as background of 3D teapot <b>Camera On/Off</b> button.</li></ol>\n\n<h2>Techniques</h2>\r<ol><li><b>Shared graphics device</b>, using both XNA and Silverlight</li>\n<li><b>Original Teapot class</b>, using IVertexType based custom vertex and BasicEffect to render</li>\n<li><b>Accelerometer and Compass</b>, getting gravity and north</li>\n<li><b>PhotoCamera</b>, display view from camera as background of virtual object</li></ol>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-26T00:11:37.367-07:00"
+}

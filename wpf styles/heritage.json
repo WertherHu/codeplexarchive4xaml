@@ -1,0 +1,9 @@
+{
+  "ProjectName": "heritage",
+  "Title": "Heritage Academy",
+  "Description": "Heritage Academy is an interactive desktop application with integrated studing and testing possiblities. The main purpose of it is to read course files and conduct testing. It gether general statistics about course progress and testing success.\n\nProject based on C# and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Heritage Academy is an interactive desktop application with integrated studing and testing possiblities. The main purpose of it is to read course files and conduct testing. It gether general statistics about course progress and testing success.<br /><br />Project based on C&#35; and WPF.<br /><br />Project is under <b>HARD DEVELOPMENT</b>. Use it for testing purpose only.<br /><br />To download course files visit <a href=\"http://www.heritage-academy.ru\">http://www.heritage-academy.ru</a> (in Russian).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Education,.NET 4.0,C# 4.0,UX,",
+  "LastEdited": "2011-05-20T10:53:00.993-07:00"
+}

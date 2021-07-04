@@ -1,0 +1,9 @@
+{
+  "ProjectName": "difmclient",
+  "Title": "DIfmClient",
+  "Description": "DIfmClient is a WPF (Windows Presentation Foundation) DI.FM streaming radio player, written in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\r\n<b>DIfmClient</b> is a WPF (Windows Presentation Foundation) DI.FM streaming radio player, written in C#.<br /><br />Check out the <a href=\"https://difmclient.codeplex.com/wikipage?title=CHANGELOG&referringTitle=Home\">CHANGELOG</a> for info about current and planned features and <a href=\"https://difmclient.codeplex.com/wikipage?title=SCREENSHOTS&referringTitle=Home\">SCREENSHOTS</a> for the latest images.<br /><br />This is a project for fun I work on in my spare time, so don&#39;t expect a fully ready product any time soon.<br />\n<h2>UPDATE</h2>\rv1.0.0.2 has been released.<br />\n<ul><li>JSON API is now fully utilized for channel list and playlist retrieval.</li>\n<li>Playlists now have a contextual menu that allows for selected tracks to be directly searched in Google and YouTube.</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,DI.FM,STREAMING,RADIO,.net,",
+  "LastEdited": "2012-11-14T23:28:23.633-08:00"
+}

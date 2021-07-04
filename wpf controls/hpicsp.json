@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hpicsp",
+  "Title": "HP Insight Control server provisioning Powershell library",
+  "Description": "This library provides a Windows PowerShell interface to the HP Insight Control server provisioning REST APIs.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This library provides a Windows PowerShell interface to the HP Insight Control server provisioning REST APIs.<br /><br />\n<h1>This project has moved to:  <a href=\"https://github.com/HewlettPackard/POSH-HPICsp\">https://github.com/HewlettPackard/POSH-HPICsp</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-04-03T12:17:55.007-07:00"
+}

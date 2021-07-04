@@ -1,0 +1,9 @@
+{
+  "ProjectName": "routesharp",
+  "Title": "Route#",
+  "Description": "A Microsoft .NET 4.0 C#/F# application to load routes and find minimal paths.\nThe application is meant to let user create a network of nodes and connections representing a web to route. Starting from a point A the application will find the minimal path to B.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Microsoft .NET 4.0 C&#35;&#47;F&#35; application to load routes and find minimal paths.<br />The application is meant to let user create a network of nodes and connections representing a web to route. Starting from a point A the application will find the minimal path to B.<br /><br /><b>Project context</b><br />The project is meant to load a net configuration made of nodes and archs to them. Once loaded, the network can be accessed and minimal paths found when requesting to go from one node to another one.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "F#,C#,.NET 4.0,Pathfinding,Network graph,WPF,Windows,",
+  "LastEdited": "2011-02-16T03:43:10.387-08:00"
+}

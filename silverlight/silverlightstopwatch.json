@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightstopwatch",
+  "Title": "Silverlight Stopwatch",
+  "Description": "A silveright application for consultatns to track time and enter notes for multiple customers and/or projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A silveright application for consultatns to track time and enter notes for multiple customers and&#47;or projects.<br />\n<h2>06/21/2009 : This project is still under development and will be completed soon. The following is provided for future reference.</h2>\r\n<br />Silverlight Stopwatch is a simple, secure silverlight application for consultants to record daily time and notes across multiple clients.  <br /><br />Silverlight stopwatch is dead simple to install.<br />\n<ol><li>Create the stopwatch database on a SQL Server 2005 (or greater) database instance.</li>\n<li>Add a configuration element to your site&#39;s web.config file.</li>\n<li>Embed the silverlight application within a webpage.  </li></ol>\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-21T05:12:57.413-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcontrol",
+  "Title": "MultiVolumeControl",
+  "Description": "MVC is a small control allowing one to adjust all or one audio devices at the same time. A very useful feature is the global hotkeys you can configure.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MultiVolumeControl</b><br />MVC is a small control allowing one to adjust all or one audio devices at the same time. A very useful feature is the global hotkeys you can configure.<br /><br />Especially when using a HDMI screen at the same time as your built-in speakers, this tool becomes handy.<br /><br /><img src=\"/projects/mvcontrol/fb9cd302-fb7b-402e-8c3e-42e4da2ecf6d\" alt=\"Mvc-Screenshot1.png\" title=\"Mvc-Screenshot1.png\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "utility,audio,volume,",
+  "LastEdited": "2012-07-26T12:06:09.987-07:00"
+}

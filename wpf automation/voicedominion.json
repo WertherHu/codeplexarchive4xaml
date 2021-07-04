@@ -1,0 +1,9 @@
+{
+  "ProjectName": "voicedominion",
+  "Title": "Voice Dominion - Voice / Speech Recognition Home Automation",
+  "Description": "Voice Dominion allows you to control your ISY 994i Home Automation system using speech recognition. It also uses speech synthesis to confirm your commands.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Voice Dominion</b><br />Voice Dominion allows you to control your ISY 994i Home Automation system using speech recognition. It also uses speech synthesis to confirm your commands.<br /><br />This project is in its very early changes. Any code which I check in might be incomplete.<br /><br /><b>Examples of speech recognition commands</b>:<br />- <i>Computer, turn on the bedroom lights</i><br />- <i>Corner office lights off</i><br /><br /><b>Requirements to run it</b>:<br />- A Windows PC with .NET 4<br />- ISY 994i with Insteon hardware (tested with firmware 4.0.5)<br />- A decent microphone (this is crucial!)<br /><br /><b>Requirements to build it</b>:<br />- <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40787\">Microsoft Visual Studio Express 2013 for Windows Desktop</a><br />- <a href=\"https://stylecop.codeplex.com\">StyleCop v4.7</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-01-11T17:51:50.31-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MicroParser",
+  "Title": "MicroParser",
+  "Description": "MicroParser – a minimal parser combinator library for C# with the focus on light dependencies, small size and reasonable performance for strings that fits in memory",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MicroParser &#8211; a minimal parser combinator library for C&#35; with the focus on light dependencies, small size and reasonable performance for strings that fits in memory<br /><br />See <a href=\"/projects/MicroParser/e5cc306a-72f5-47d7-adf2-b5029c09a237\">MicroParser.pdf</a> for an introduction to how to get started with MicroParser<br /><br />There a quite a few ways to parse text:\n<ol><li>Write your own parser code</li>\n<li>Regular Expression</li>\n<li>FParsec (<a href=\"http://www.quanttec.com/fparsec/\">http://www.quanttec.com/fparsec/</a>)</li>\n<li>Yacc/Lex and similar</li>\n<li>FSYacc/FSLex (shipped with F#)</li>\n<li>boost.spirit (<a href=\"http://boost-spirit.com/home/\">http://boost-spirit.com/home/</a>)</li>\n<li>MicroParser</li></ol>\n<br />MicroParser aims to be small, easily deployable and to build on great ideas from FParsec/Parsec but is implemented in C# instead of F#/Haskell. MicroParser should be a good choice when developers want to write parsers for simple expressions such as:<br /><br />2*(x + 1) + y + 3<br /><br />MicroParser also aims to give decent error reporting although at the time of writing it&#39;s not on par with some of the more complete parser frameworks such as FParsec.<br /><br />MicroParser requires VisualStudio 2010 but is compatible with .NET 3.5.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "parser,Combinators,C# 4.0,C#,Lightweight,Silverlight,VS2010,Framework,",
+  "LastEdited": "2012-02-11T03:41:22.97-08:00"
+}

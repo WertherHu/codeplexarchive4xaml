@@ -1,0 +1,9 @@
+{
+  "ProjectName": "songtagger",
+  "Title": "songtagger",
+  "Description": "Tool for mp3 tags.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2><strong>Project Description</strong></h2>\r\n<p>songtagger is just an another application to set the mp3 tags but it does in a semi-automatic manner.<br>\r\nIt queries the information from the <a href=\"http://musicbrainz.org/\" target=\"_blank\">\r\nMusicBrainz DB</a>&nbsp;and try to find the correct coverart for the selected album.</p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"/projects/songtagger/979de026-42d9-494e-aaad-16c7b5d67651\" alt=\"Start screen (songtagger\"></p>\r\n<p>As you can see the UI is very minimal so it's very easy to use.</p>\r\n<h2>Key Features</h2>\r\n<ul>\r\n<li>fetches all music data from <a href=\"http://musicbrainz.org/\">MusicBrainz DB</a>\r\n</li><li>sets tags (ID3v1 and ID3v2) of the selected mp3 files with the correct artist name, album name, album release year, genre of artist and song title\r\n</li><li>creates a new folder structure based on fixed mp3 ID3 Tags </li><li>downloads the coverart which provieded by <a href=\"https://coverartarchive.org/\">\r\nCover-Archive</a> </li><li>supports to get covertart from Last.FM as well (optional) </li><li>can handle custom coverarts directly from the web browser </li></ul>\r\n<p>&nbsp;</p>\r\n<p><a href=\"https://songtagger.codeplex.com/documentation\">More details/screenshots</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,mp3,ID3,musicbrainz,",
+  "LastEdited": "2013-11-11T13:10:26.223-08:00"
+}

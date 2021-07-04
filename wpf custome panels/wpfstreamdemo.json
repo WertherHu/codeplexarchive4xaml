@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfstreamdemo",
+  "Title": "WPF Data Streaming Demo",
+  "Description": "Demonstrates data streaming in WPF using DataReader, ObservableCollection and Threading (with pause and continue) allowing the UI to remain responsive.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nA simple demonstration of data streaming in WPF satisfying a requirement to display data as soon as its available rather than resorting to graphical animation and forcing the user to wait before all data is loaded in memory.<br>\r\n<br>\r\nThe demonstration uses a DataReader, ObservableCollection and a background thread (that fills up the ObservableCollection). The demonstration binds\r\n<strong>millions</strong> of records to 3 controls (a bit of exagerration to drive a point) without sacrificing UI performance.\r\n<br>\r\n<br>\r\nThe demonstration also shows how to implement pausing and continuing the stream.<br>\r\n<br>\r\n<img title=\"8-18-2012 5-20-32 PM.png\" src=\"http://www.codeplex.com/Download?ProjectName=wpfstreamdemo&DownloadId=472104\" alt=\"8-18-2012 5-20-32 PM.png\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,streaming,stream,data streaming,data stream,pause,continue,performance,Threading,UI,Large result sets,large data,data,sql server,Visual Studio 2012,",
+  "LastEdited": "2012-08-18T02:40:53.25-07:00"
+}

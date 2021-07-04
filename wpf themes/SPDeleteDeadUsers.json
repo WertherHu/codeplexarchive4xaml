@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPDeleteDeadUsers",
+  "Title": "SharePoint Delete Dead Users",
+  "Description": "This is a small WPF Application that presents all dead users it finds and allows the user to delete them from SharePoint. dead users are users that are not found inside active directory. There is also an LDAP Filter to speed up the query from active directory",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a small WPF Application that presents all dead users it finds and allows the user to delete them from SharePoint. dead users are users that are not found inside active directory. There is also an LDAP Filter to speed up the query from active directory</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-22T12:08:31.78-08:00"
+}

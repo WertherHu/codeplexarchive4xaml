@@ -1,0 +1,9 @@
+{
+  "ProjectName": "quicktweet",
+  "Title": "Quick Tweet",
+  "Description": "Quick Tweet is a Windows desktop application that allows you to quickly write tweets. In any moment you need only to click an icon in the notify area and you will be ready to write you messages!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>Quick Tweet</h2>\r\n<p>Quick Tweet is a Windows desktop application that allows you to quickly write tweets. In any moment you need only to click an icon in the notify area and you will be ready to write you messages!</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=quicktweet&DownloadId=346820\" alt=\"Quick Tweet Screenshot\" width=\"591\" height=\"235\"></p>\r\n<p>Quick Tweet is&nbsp;a .NET 4.0 WPF Application&nbsp;that&nbsp;uses the following libraries:</p>\r\n<ul>\r\n<li><a href=\"http://www.hardcodet.net/projects/wpf-notifyicon\" target=\"_blank\">WPF NotifyIcon</a>\r\n</li><li><a href=\"http://www.twitterizer.net\" target=\"_blank\">Twitterizer</a> </li><li><a href=\"http://json.codeplex.com\" target=\"_blank\">JSON.NET</a> </li><li><a href=\"http://htmlagilitypack.codeplex.com/\" target=\"_blank\">Html Agility Pack</a>\r\n</li><li><a href=\"http://wpftoolkit.codeplex.com/\" target=\"_blank\">Extended WPF Toolkit</a>\r\n</li></ul>\r\n<p>Thanks to <a href=\"http://www.doublejdesign.co.uk/\" target=\"_blank\">Double-J Desing</a>&nbsp;for the application icon.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,twitter,WPF,",
+  "LastEdited": "2012-03-10T13:37:58.983-08:00"
+}

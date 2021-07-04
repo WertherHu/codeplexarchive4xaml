@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UOWAndRepositoryOnNorthwind",
+  "Title": "UnitOfWorkAndRepositoryOnNorthwind",
+  "Description": "Study and test Entity Framework, Repository, UnitOfWork and WPF MVVM based on Northwind Database",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Just for test now, using Northwind database to study Entity Framework, Repository, UnitOfWork and WPF MVVM. <br /><br />Here we have a draft version of the whole Framework, <i>still one key problem</i>, how to manage UnitOfWork among different BL class or BL Module<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "UnitOfWork,Repository,Entity Framework 4,WPF,",
+  "LastEdited": "2013-09-02T19:58:10.947-07:00"
+}

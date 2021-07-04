@@ -1,0 +1,9 @@
+{
+  "ProjectName": "doublependulum",
+  "Title": "Double pendulum",
+  "Description": "This program animates the double pendulum movement. It's written in C# and uses WinForms to produce the animation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis program animates the double pendulum movement. It's written in C# and uses WinForms to produce the animation.</p>\r\n<p><img src=\"http://download.codeplex.com/download?ProjectName=doublependulum&DownloadId=232428\" alt=\"\" width=\"467\" height=\"533\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-25T20:23:00.83-07:00"
+}

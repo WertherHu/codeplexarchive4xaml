@@ -1,0 +1,9 @@
+{
+  "ProjectName": "feedtracker",
+  "Title": "Feed Tracker",
+  "Description": "Feed Tracker allows you to track your favorite feeds (RSS 2.0 and Atom 1.0) and open them up directly in your browser.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Feed Tracker allows you to track your favorite feeds &#40;RSS 2.0 and Atom 1.0&#41; and open them up directly in your browser.<br />\n<h2>Screenshots:</h2>\r<h4>Default view:</h4>\r<img src=\"/projects/feedtracker/51c72891-2de3-453a-8272-5e05ee5f1708\" alt=\"Feed&#32;Tracker.jpg\" title=\"Feed&#32;Tracker.jpg\" /><br />\n<h4>Feed Selected:</h4>\r<img src=\"/projects/feedtracker/92ffde5b-0cd6-4688-8893-c807fc6c6118\" alt=\"Feed&#32;Tracker2.jpg\" title=\"Feed&#32;Tracker2.jpg\" /><br />\n<h2>Features:</h2>\rFeed Tracker is an easy feed tracker that can be used for keeping your feeds up-to-date.<br />\n<h2>Supports: </h2>\r<ul><li>RSS 2.0 and Atom 1.0 (other version will come soon)</li></ul>\n\n<h2>New features to come:</h2>\r<ul><li>Improved post summary.</li>\n<li>Improved feed management.</li>\n<li>New skin.</li>\n<li>View original post in own built-in browser.</li>\n<li><del>Multi-threading support.</del></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Feed Tracker,C# 3.5,.NET 3.5,.NET,WPF 3.5,C# 3.0,",
+  "LastEdited": "2013-01-30T02:49:22.8-08:00"
+}

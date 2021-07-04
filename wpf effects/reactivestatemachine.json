@@ -1,0 +1,9 @@
+{
+  "ProjectName": "reactivestatemachine",
+  "Title": "Reactive State Machine",
+  "Description": "Reactive State Machine is a State Machine implementation based on Reactive Extensions. It plays nicely with the Visual State Manager of WPF.",
+  "MovedLink": "https://github.com/mzoellner/reactivestatemachine",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Reactive State Machine is a State Machine implementation based on Reactive Extensions. It plays nicely with the Visual State Manager of WPF.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-16T06:16:24.3-08:00"
+}

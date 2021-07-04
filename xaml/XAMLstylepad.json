@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XAMLstylepad",
+  "Title": "XAMLStylePad",
+  "Description": "XAMLStylePad - is a simple in use styles and templates XAML-editor. It designed for comfortable coding in XAML with real-time preview result on automatically created sample controls and quick navigation in styles tree.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XAMLStylePad - is a simple in use styles and templates XAML-editor. It designed for comfortable coding in XAML with real-time preview result on automatically created sample controls and quick navigation in styles tree.<br /><br />Screenshot of planed first release:<br /><img src=\"/projects/XAMLstylepad/efc196fe-815b-416c-9e30-2778921c8c46\" alt=\"This&#32;is&#32;the&#32;first&#32;screenshot&#32;of&#32;expected&#32;first&#32;release&#32;of&#32;XAMLStylePad&#33;&#32;&#58;&#41;\" title=\"This&#32;is&#32;the&#32;first&#32;screenshot&#32;of&#32;expected&#32;first&#32;release&#32;of&#32;XAMLStylePad&#33;&#32;&#58;&#41;\" /><br /><br /><img src=\"/projects/XAMLstylepad/556d5b89-9a25-499c-b4df-3cfd076bd5f5\" alt=\"Data&#32;templates&#32;preview&#32;-&#32;working&#32;with&#32;object&#32;constructor\" title=\"Data&#32;templates&#32;preview&#32;-&#32;working&#32;with&#32;object&#32;constructor\" /><br /><br />P.S.: The <a href=\"http://www.famfamfam.com/lab/icons/silk/\">famfamfam</a> icons and <a href=\"http://wpg.codeplex.com/\">WPF Property Grid</a> is used in XAMLStylePad</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-17T03:18:28.177-07:00"
+}

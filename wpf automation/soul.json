@@ -1,0 +1,9 @@
+{
+  "ProjectName": "soul",
+  "Title": "Neural Network Simulation",
+  "Description": "Soul is a neural network simulation system",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Soul is a neural network simulation system<br /><br /><b>Overview</b><br />The main goal of soul project is to provide new tools for neuroscicence researchers to better integrate theoretical and experimental study. It use F# to solve differential equations, C# to model neuron in various biophysical levels, and WPF GUI to manage network structure and simulation process. <br /><br /><a href=\"https://soul.codeplex.com/wikipage?title=ReleaseLog&referringTitle=Home\">ReleaseLog</a><br /><br /><b>SourceCode Control have been adopted to Git, check the latest development progress of Soul on GitHub:</b><br /><a href=\"http://github.com/babaq/Soul\">http://github.com/babaq/Soul</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "F#,Neuroscience,WPF,Neuroinformatics,scientific,C#,",
+  "LastEdited": "2010-04-14T01:54:19.42-07:00"
+}

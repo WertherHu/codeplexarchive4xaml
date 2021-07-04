@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLGridAnimator",
+  "Title": "Silverlight Grid Animator",
+  "Description": "See how to animate the grid columndefinition or rowdefinition object in silverlight to create a smooth transition for collapsing and expanding grid rows or columns.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Grid Animator</b><br />See how to animate the grid columndefinition or rowdefinition object in silverlight to create a smooth transition for collapsing and expanding grid rows or columns.<br /><br />This is an example of how to animate the collapsing and expanding of a grid control&#39;s row or column in Silverlight 2...<br /><br /><object data=\"data:application/x-silverlight,\" type=\"application/x-silverlight\" style=\"height:300px;width:400px;\"><param name=\"source\" value=\"http://programmerpayback.s3.amazonaws.com/ClientBin/GridAnimator.xap\"></param><param name=\"windowless\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=124807\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe><br /><br />Blog Post: <a href=\"http://programmerpayback.com/2008/11/08/animate-collapsing-a-grid-column-or-row-in-silverlight/\">http://programmerpayback.com/2008/11/08/animate-collapsing-a-grid-column-or-row-in-silverlight/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-07T17:45:50.45-08:00"
+}

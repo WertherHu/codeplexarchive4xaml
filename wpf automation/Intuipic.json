@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Intuipic",
+  "Title": "Intuipic",
+  "Description": "An intuitive, easy to use, WPF-based image viewer.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Intuipic is an easy to use image viewer. It aims to be intuitive to use, and functional at the same time. Intuipic installs via the the <a href=\"http://kentboogaart.gotdns.com/Intuipic/ClickOnce/Publish.html\">ClickOnce installer</a>. This will also enable you to obtain updates automatically.<br /><br /><img src=\"/projects/Intuipic/85aa60ce-3f93-4059-9c85-f44582e64fbe\" alt=\"picture.jpg\" title=\"picture.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,image viewer,image browser,ClickOnce,.NET 3.0,YEAH YEAH,ups,",
+  "LastEdited": "2008-02-09T04:34:54.737-08:00"
+}

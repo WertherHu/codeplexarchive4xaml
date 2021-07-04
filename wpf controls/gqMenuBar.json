@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gqMenuBar",
+  "Title": "CSS3 based MenuBar control",
+  "Description": "It is a simple Horizontal MenuBar control totally based on CSS3. No Javascript or JQuery. Light and fast. Should work in all modern browsers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>&nbsp;</p>\r\n<p><img src=\"/projects/gqMenuBar/890f07f0-aa99-4306-ace5-3a2ce33df767\" alt=\"\" width=\"502\" height=\"93\"></p>\r\n<p><strong>Project Description</strong></p>\r\n<p>It is a simple Horizontal MenuBar web control totally based on CSS3. No Javascript or JQuery. Light and fast. Should work in all modern browsers.<br>\r\nA CSS3 based horizontal MenuBar custom web control<br>\r\n<br>\r\nIt is a custom horizontal menubar web control. It can be setup by the web page developer in 3 ways:<br>\r\n<br>\r\n- On design time: using collection tags for the names</p>\r\n<p><img src=\"/projects/gqMenuBar/af9f9e58-d40b-43b1-9b0e-fb14ac54ba29\" alt=\"\" width=\"619\" height=\"277\"></p>\r\n<p>- On runtime: attaching an xml.</p>\r\n<p><img src=\"/projects/gqMenuBar/cf1e43a0-dafe-47e2-ac06-1019e868a984\" alt=\"\" width=\"531\" height=\"183\"></p>\r\n<p>Code behind:</p>\r\n<p><img src=\"/projects/gqMenuBar/aeb0851d-d805-4f83-853f-6efde9f389e4\" alt=\"\" width=\"386\" height=\"36\"></p>\r\n<p>- On runtime: creating a menubar structure with the internal menubar web control MenuBarItems object.</p>\r\n<p><img src=\"/projects/gqMenuBar/df9e41a3-5bfc-4f21-b57f-790431d42120\" alt=\"\" width=\"580\" height=\"257\"></p>\r\n<p><br>\r\nIt adds postbackhandling with commandnames, to identify which menu is clicked by the user.<br>\r\n<br>\r\n- Some additional flexibility to the menubar is provided with custom properties to allow for custom styling of the menuBar, such as font, colors, and size.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CSS3,c#,MenuBar,Custom web control,",
+  "LastEdited": "2016-05-27T01:24:05.6-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sldateselector",
+  "Title": "Silverlight DateSelector",
+  "Description": "DateSelector Custom Control. Silverlight custom control where dates can be selected.  It's easy to use and user friendly. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This is a silverlight custom control which can be used to select date in a user friendly way. It is similar to date selector control available to set birth date in facebook registration. Standard date picker control in silverlight and WPF is not user friendly and user has to perform several clicks to select a date.<br /><br /><img src=\"/projects/sldateselector/053ee5f4-9dfb-4d9b-ab80-4b591551d181\" alt=\"dateselector.png\" title=\"dateselector.png\" /><br />Here is an example of how to use it in the code.<br /><br /><img src=\"/projects/sldateselector/56b35842-d026-4025-a528-3b74dee6278f\" alt=\"DateSeleUsage.png\" title=\"DateSeleUsage.png\" /><br /><br />Currently DateSelector has following important Member<br />*DateValue<br /><br />DateSelector is now localized. That means it displays the month according to the culture in the machine.<br /><br />Improvements coming in the near future.\n<ul><li>Data Selection Change Event</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Custom Controls,Date Picker,Silverlight,",
+  "LastEdited": "2012-07-26T09:49:39.54-07:00"
+}

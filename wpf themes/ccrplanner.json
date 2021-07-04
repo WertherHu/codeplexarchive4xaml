@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ccrplanner",
+  "Title": "Code Camp Room Planner",
+  "Description": "An application to help plan sessions at a code camp.  The assumption is made that the sessions have been chosen, and that attendees have been surveyed as to which sessions they plan to attend.  The app will help the organizer decide the best schedule with the data.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An application to help plan sessions at a code camp.  The assumption is made that the sessions have been chosen, and that attendees have been surveyed as to which sessions they plan to attend.  The app will help the organizer decide the best schedule with the data.<br /><br /><br /><b>**Status of Project **</b><br /><br />This project was created to help plan CodeStock 2009, and as such some values are set in code specific to CodeStock.  You will need to change some of these values to use this for another code camp.  <br /><br /><a href=\"https://ccrplanner.codeplex.com/documentation?referringTitle=Home\">Documentation</a><br /><br />This project is developed in .Net 3.5, C# and WPF.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "code camp,C# 3.5,c#,WPF,planning,Scheduling,AI,C# 3.0,",
+  "LastEdited": "2009-06-06T20:11:29.583-07:00"
+}

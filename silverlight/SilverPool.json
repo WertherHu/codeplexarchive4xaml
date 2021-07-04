@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverPool",
+  "Title": "SilverPool - game example for SilverLight",
+  "Description": "A pool game simulator for SilverLight. Demonstrates how to do moving objects and collision calculations in SilverLight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br />SilverPool is a simple pool game simulator written in SilverLight 3.0. <b>This is not really a game, but could be further developed into one.</b><br /><br /><img src=\"/projects/SilverPool/0861fa5c-fd9a-4a6c-bd8d-899bae29db44\" alt=\"SilverPool.gif\" title=\"SilverPool.gif\" /><br /><br /><b>Instructions</b><br /><br />Click on a ball and hold down the mouse button while dragging to hit it. Click on a free spot to place a ball.<br /><br /><b>Demo</b><br /><br />A live demo is hosted on the link below:<br /><br />Demo page: <a href=\"http://www.ahlen.name/silverpool\">http://www.ahlen.name/silverpool</a><br /><br /><b>Author</b><br /><br />Feel free to contact the author, Johan &#197;hl&#233;n, at <a href=\"https://www.johanahlen.info/en/\">https://www.johanahlen.info/en/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Physics,game,C#,",
+  "LastEdited": "2015-12-13T12:57:34.927-08:00"
+}

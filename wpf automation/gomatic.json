@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gomatic",
+  "Title": "goMatic (cloud based Home-Automation)",
+  "Description": "goMatic is a cloud based solution to manage the Homematic home automation solution. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />goMatic is a cloud based solution to manage the Homematic home automation solution. <br />This Project is currently in German because the Homematic solution is in German.<br /><br /><b>Project Beschreibung</b><br />goMatic erm&#246;glicht die Steuerung von <a href=\"http://www.homematic.com\">Homematic</a> und anderen IP f&#228;higen Ger&#228;ten direkt aus dem Internet. Es werden keine Apps oder andere zus&#228;tzliche Infrastruktur ben&#246;tigt. Die Steuerung ist komplett Web-basierend.<br />Die ben&#246;tigte Infrastruktur wird auf <a href=\"http://www.windowsazure.com\">Windows Azure</a> gehostet.<br /><br />Eine erste Beta-Version ist unter <a href=\"http://gomatic.azurewebsites.net/\">http://gomatic.azurewebsites.net/</a> verf&#252;gbar.<br />\n<h1>Projekt-Ziele</h1>\r<h2>Aktuell</h2>\r<ul><li>Steuerung der wesentlichen Komponenten via SmartPhone (Licht, Heizung etc).</li>\n<li>Zugriffschutz (Windows Live Account)</li>\n<li>Mandatenf&#228;higkeit (das ganze soll als Service angeboten werden k&#246;nnen)</li>\n<li>UI nur funktionell</li></ul>\n\n<h2>Phase2</h2>\r<ul><li>Steuerung und dartsellung komplexer Umgebungen auf Tablets und Desktops</li>\n<li>Anbindung weiterer L&#246;sungen (Fritzbox, Wechselrichter, etc. )</li>\n<li>Ausbau des UI</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-22T09:03:26.007-07:00"
+}

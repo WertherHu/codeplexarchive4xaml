@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slribbon",
+  "Title": "Ribbon for Silverlight",
+  "Description": "Silverlight Ribbon is a free silverlight UI control (or graphical user interface widget) composed of a strip across the top of\r\na window that exposes all functions that an your web application can perform in a single place.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Ribbon is a free silverlight UI control &#40;or graphical user interface widget&#41; composed of a strip across the top of<br />a window that exposes all functions that an your web application can perform in a single place.<br /><br /><br />License<br />Additional license restrictions as follows:<br /><br />Microsoft Office User Interface. These license terms grant you no rights to make, copy, use or distribute any elements of the Microsoft Office user interface such as the ribbon and quick access toolbar (the Office user interface is formally known as the Microsoft Office Fluent user interface), the license terms for which are available separately. To learn more about the Office user interface licensing program, please visit <a href=\"http://msdn.microsoft.com/officeui\">http://msdn.microsoft.com/officeui</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight Ribbon,",
+  "LastEdited": "2010-01-20T23:59:50.043-08:00"
+}

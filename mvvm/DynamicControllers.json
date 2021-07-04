@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DynamicControllers",
+  "Title": "Dynamic Controllers Generation",
+  "Description": "This project is aimed to automatically generate controllers in .NET.\r\n\r\nCurrently, View-Model for MVVM is supported",
+  "MovedLink": "https://github.com/elishalom/dynamiccontrollers",
+  "HomeWiki": "<div class=\"wikidoc\"><div class=wikidoc><strong>Project Description</strong><br>This project is aimed to automatically generate controllers in .NET.<br><br>Currently, View-Model for MVVM is supported<br><br>Posts about the framework showing how to generate View-Model:<br><a href=\"http://eli-shalom.blogspot.com/2010/08/automatic-generation-of-view-model.html\">View-Model sample</a><br><a href=\"http://eli-shalom.blogspot.com/2010/08/automatic-generation-of-view-model-test.html\">View-Model generation test drive</a></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-27T23:13:30.243-07:00"
+}

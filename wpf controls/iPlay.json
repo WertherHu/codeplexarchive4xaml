@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iPlay",
+  "Title": "iPlay",
+  "Description": "iPlay is a WPF application built using MVVM for generating iTunes playlists randomly and displaying the status of iTunes in a user friendly way. It's secondary purpose is to explore the capabilities of WPF and MVVM in a contextual way.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />iPlay is a WPF application built using MVVM for generating iTunes playlists randomly and displaying the status of iTunes in a user friendly way. It&#39;s secondary purpose is to explore the capabilities of WPF and MVVM in a contextual way.<br /><br /><br />This is a WPF application built in C# using the MVVM pattern to interface with iTunes controls and playlist generation.<br /><br />Anyone willing to download, try it out, and give me feedback, would be greatly appreciated. Any bugs, issue, or features, comment here on this site, send me an email to xander.dumaine@gmail.com, ping me on twitter @xover9000, or see my blog over at <a href=\"http://somewhatbiased.blogspot.com\">http://somewhatbiased.blogspot.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-23T06:37:38.733-07:00"
+}

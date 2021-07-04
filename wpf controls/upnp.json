@@ -1,0 +1,9 @@
+{
+  "ProjectName": "upnp",
+  "Title": "UPNP#",
+  "Description": "A dynamic UPNP control point stack on top of .NET 4. The main focus is on compatibility with as many devices as (reasonably) possible.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A dynamic UPNP control point stack on top of .NET 4. The main focus is on compatibility with as many devices as &#40;reasonably&#41; possible.<br /><br />This project is the successor of the <a href=\"http://routercontrol.codeplex.com\">RouterControl.IO</a> framework. It provides dynamic invocation of the UPNP actions and variables. It no longer requires compile-time code generation. <br /><br /><b>The Stack</b><br />UPNP# is a control point only stack. The license is Ms-PL and LGPLv3 (choose as it fits your needs). It is free for non-commercial use. If you intend to use it in a commercial project please make a donation ($100 or so) to contribute to the development and server costs.<br /><br />There are a lot of good and solid UPNP device host stacks out there (both commercially and non-commercially) like <a href=\"http://www.fkollmann.de/v2/post/Platinum-UPNP-stack.aspx\">Platinum</a>.<br /><br /><b>Links</b>\n<ul><li>Download v2.0 CTP1</li>\n<li><a href=\"https://upnp.codeplex.com/wikipage?title=FAQ&referringTitle=Home\">FAQ</a></li>\n<li><a href=\"http://www.fkollmann.de/RouterControl/donate/\">Donate</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "UPnP,.NET 4.0,",
+  "LastEdited": "2009-09-16T01:07:39.083-07:00"
+}

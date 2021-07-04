@@ -1,0 +1,9 @@
+{
+  "ProjectName": "checksumgui",
+  "Title": "ChecksumGUI",
+  "Description": "ChecksumGUI is a simple Windows application to compute file or text hash.\r\n\r\nIt supports MD5, SHA1, SHA256, SHA384 and SHA512 algorithms.\r\n\r\nChecksumGUI is based on .Net Framework 4 and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"http://download.codeplex.com/Download?ProjectName=checksumgui&amp;DownloadId=368225\" /><br /><br /><b>Project Description</b><br />ChecksumGUI is a simple Windows application to compute file or text hash.<br /><br />It supports MD5, SHA1, SHA256, SHA384 and SHA512 algorithms.<br /><br />ChecksumGUI is based on .Net Framework 4 and WPF.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-16T03:53:14.6-07:00"
+}

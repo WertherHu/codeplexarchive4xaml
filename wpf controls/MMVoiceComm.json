@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MMVoiceComm",
+  "Title": "MM Voice Commander",
+  "Description": "An addin for MediaMonkey which uses .net's System.Speech library to allow voice control of your music.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>MMVoiceComm</b><br /><br />MM Voice Commander Allows for the user to control their MediaMonkey experience via voice commands, not just the basic control(play pause etc.) but also the much cooler play {song}, play {artist}, add {song} to now playing, etc..<br /><br /><br />If you have ideas feel free to propose them, i&#39;ll look into adding them, or you can, it&#39;s licensed under the New BSD License<br />http://mmvoicecomm.codeplex.com/workitem/list/basic<br />or via contact me under people.<br /><br />Currently is on verison 0.3.0<br />Installer (0.3.0):<br /><a href=\"https://mmvoicecomm.codeplex.com/wikipage?title=http%3a%2f%2fmmvoicecomm.codeplex.com%2freleases%2fview%2f48947&referringTitle=Home\">http&#58;&#47;&#47;mmvoicecomm.codeplex.com&#47;releases&#47;view&#47;48947</a><br /><br /><br />Release Notes:<br />0.030:<br />-Added ability to select which songs when multiple are added.<br />0.2.9.7:<br />-Fixed play playlist bug.<br />0.2.9.5:<br />-Cleaned up code some<br />-Allowed Reload of MMVoiceComm without MediaMonkey needing to restart(Buggy because of COM)<br />-Added more options<br />--Toggle Logger<br />--Toggle Voice<br />--Toggle Reload<br />--Set Min/Max Jump<br /><br />For full release notes see<br /><a href=\"https://mmvoicecomm.codeplex.com/wikipage?title=Release%20Notes&referringTitle=Home\">Release Notes</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-19T16:57:02.43-07:00"
+}

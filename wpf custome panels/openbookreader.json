@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openbookreader",
+  "Title": "Open eBook Reader",
+  "Description": "Open eBook Reader is a desktop application that allows users to read books with FB2, EPUB, Mobipocket, etc. file formats.\nIt provides a great reading books experience in your computer through its Flow Document Reader component from Microsoft WPF platform.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Author:</b> Oscar Arrivi<br /><b>Blog:</b> <a href=\"https://openbookreader.codeplex.com/wikipage?title=http%3a%2f%2ftheartoftheleftfoot.blogspot.com&referringTitle=Home\">http&#58;&#47;&#47;theartoftheleftfoot.blogspot.com</a> (in spanish)<br /><br /><b>Project Description</b><br />Open eBook Reader is a desktop application that allows users to read books with FB2, EPUB, Mobipocket, etc. file formats.<br />It provides a great reading books experience in your computer through its Flow Document Reader component from Microsoft WPF platform.<br /><br /><b>About of Open eBook Reader</b><br />The purpose of this applicaton is to have a simple application that allows you to read a wide range of ebooks file formats from the open standards perspctive.<br />The first release of the software just supports the <i>Fiction Book 2.0</i> file formats. Next relases will support more formats and will implement more functionalities such as bookmarking and reader notes.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ebook,FlowDocument,FB2,",
+  "LastEdited": "2010-07-10T16:25:49.137-07:00"
+}

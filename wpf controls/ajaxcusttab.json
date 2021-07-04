@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ajaxcusttab",
+  "Title": "Custom Tab Container/Panels",
+  "Description": "Project to develop the tab functionality for custom color tabs, background and display.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Project to develop the tab functionality for custom color tabs, background and display.<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.<br /><br />I am looking to develop the AJAX control toolkit item TAB control/panel initially.  Not necessarily as an extender but as a full control that is customizable in regards to background color, tab image structure, tab layout style, etc.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Tab Control,",
+  "LastEdited": "2007-08-07T09:43:12.203-07:00"
+}

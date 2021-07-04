@@ -1,0 +1,9 @@
+{
+  "ProjectName": "folderbrowser",
+  "Title": "WPF Folder Browser",
+  "Description": "A folder browser for WPF similiar to the one found in Windows forms. This project references the Prism Patterns & Practices library",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br /><b>Project Description</b><br /><br />This is a folder browser for WPF similiar to the one found in Windows forms.  WPF currently does not provide a Folder browser dialog and the only thing near enough is the Microsoft.Win32.OpenFileDialog class in WPF&#39;s PresentationFramework.dll assembly which lets users specify multiple files to open. <br /><br /> <img src=\"/projects/folderbrowser/45ece2c4-98cb-4b44-8da9-5f8df7f47fd5\" alt=\"FolderBrowser.png\" title=\"FolderBrowser.png\" /><br /><br />This project does not use any Windows API, it does require a reference to the Prism Patterns &amp; Practices library<br /> </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-13T07:08:17.123-07:00"
+}

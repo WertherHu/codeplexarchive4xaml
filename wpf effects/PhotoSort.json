@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PhotoSort",
+  "Title": "PhotoSort",
+  "Description": "PhotoSort is a simple utility for sorting images when you upload from cameras in categories sub-directories. It's developed in C# and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Project Description</h1>\r\n<p>PhotoSort is a simple utility for sorting images when you upload from cameras in categories sub-directories. It's developed in C# and WPF.<br>\r\n<br>\r\n<img title=\"snapshoot.jpg\" src=\"http://i3.codeplex.com/download?ProjectName=PhotoSort&DownloadId=56931\" alt=\"snapshoot.jpg\"></p>\r\n<h1>Features</h1>\r\n<ul>\r\n<li>Compare multiple photos in a single window </li><li>Evaluation photo potential in black and white </li><li>Sort photo in categories sub-directories </li><li>Easy photo orientation function </li><li>Black and White colors transformation </li><li>Load and save project </li><li>Show exif information </li></ul>\r\n<p>&nbsp;</p>\r\n<h1>Help and futur functionalities</h1>\r\n<p><a href=\"/wikipage?title=Help&referringTitle=Home\">Help</a><br>\r\n<a href=\"/wikipage?title=Coming%20soon&referringTitle=Home\">Coming soon</a></p>\r\n<h1>Other project</h1>\r\n<p><a href=\"http://perso.numericable.fr/benjamin.maillard/\" target=\"_blank\">http://perso.numericable.fr/benjamin.maillard/</a><br>\r\n<br>\r\nPlease give me your feedback on <a href=\"http://www.codeplex.com/PhotoSort/Thread/List.aspx\">\r\nhttp://www.codeplex.com/PhotoSort/Thread/List.aspx</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Photo,WPF,Sort,C#,photo album,photo sync,",
+  "LastEdited": "2011-01-09T15:03:49.45-08:00"
+}

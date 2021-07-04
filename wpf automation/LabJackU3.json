@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LabJackU3",
+  "Title": "LabJack U3 DIO interface Library, Homeseer and other interface.",
+  "Description": "This project will contain the necessary classes etc to allow a user with minimal experience utilize the LabJack U3 DIO device. This is a low cost, high reliability ADIO interface via USB. See http://Labjack.com for hardware details. This project will build on the set of .net drivers supplied on the LabJack website. The extended libraries will be focused on providing a processing wrapper for the device making it easy to combine with various Home and Office automation applications. Included will be ASP.Net, and WinMobile5/6 interfaces for consumption of  sample home automation applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project will contain the necessary classes etc to allow a user with minimal experience utilize the LabJack U3 DIO device. This is a low cost, high reliability ADIO interface via USB. See http&#58;&#47;&#47;Labjack.com for hardware details. This project will build on the set of .net drivers supplied on the LabJack website. The extended libraries will be focused on providing a processing wrapper for the device making it easy to combine with various Home and Office automation applications. Included will be ASP.Net, and WinMobile5&#47;6 interfaces for consumption of  sample home automation applications.<br /><br /><img src=\"http://www.learntoday.net/Portals/0/LearnTodayLogo2TP.png\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Home Automation,Device Interface,Data Collection,",
+  "LastEdited": "2008-08-25T14:03:39.213-07:00"
+}

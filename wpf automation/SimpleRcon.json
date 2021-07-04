@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SimpleRcon",
+  "Title": "Simple Rcon",
+  "Description": "Simple Rcon is a simple lightweight rcon client for HL1/HL2 Servers. It is developed in C# and WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple Rcon is a simple lightweight rcon client for HL1&#47;HL2 Servers. It is developed in C&#35; and WPF<br /><br />It currently feature:\n<ul><li>Connect to Server (ofc)</li>\n<li>Bookmarks</li>\n<li>A map changer</li></ul>\n<br />To come:\n<ul><li>Player management.</li>\n<li>Icon</li></ul>\n<br />Screenshots:<br /><table><tr><th> Application </th><th> MultiTabs </th><th> Bookmarks </th><th> Map Changer </th></tr>\n<tr><td> <a href=\"http://img532.imageshack.us/img532/9153/applicationz.png\"><img style=\"border:none;\" src=\"http://img532.imageshack.us/img532/9153/applicationz.th.png\" alt=\"Application\" title=\"Application\" /></a> </td><td> <a href=\"http://img717.imageshack.us/img717/8417/multitabs.png\"><img style=\"border:none;\" src=\"http://img717.imageshack.us/img717/8417/multitabs.th.png\" alt=\"MultiTab\" title=\"MultiTab\" /></a> </td><td> <a href=\"http://img717.imageshack.us/img717/3893/bookmarks.png\"><img style=\"border:none;\" src=\"http://img717.imageshack.us/img717/3893/bookmarks.th.png\" alt=\"Bookmarks\" title=\"Bookmarks\" /></a> </td><td> <a href=\"http://img685.imageshack.us/img685/5397/changemap.png\"><img style=\"border:none;\" src=\"http://img685.imageshack.us/img685/5397/changemap.th.png\" alt=\"Map Changer\" title=\"Map Changer\" /></a> </td></tr></table></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-17T09:47:52.957-07:00"
+}

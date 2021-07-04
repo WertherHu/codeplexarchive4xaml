@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vwdcms",
+  "Title": "VWD-CMS Open Source ASP.NET C# Content Management System",
+  "Description": "VWD-CMS is a content management system built for ASP.NET 2.0 websites. \n\nVWD-CMS has been developed entirely in Visual Web Developer. \n\nContent files are stored on the local file system which simplifies backup, restore, \nand deployment. \n\nSQL Server is required only if you choose to use ASP.NET Membership, \nVWD-CMS Member Services, and VWD-CMS Forums.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/vwdcms/7466d789-bccb-4e0f-9f92-91b94ac425a8\" alt=\"VWD-CMS&#32;2.1Open&#32;Source&#32;ASP.NET&#32;CMS\" title=\"VWD-CMS&#32;2.1Open&#32;Source&#32;ASP.NET&#32;CMS\" /><br />\n<h2>VWD-CMS version 2.1</h2>\r\nVWD-CMS is a content management system built for ASP.NET 2.0 websites. <br /><br />VWD-CMS has been developed entirely in Visual Web Developer. <br /><br />Content files are stored on the local file system which simplifies backup, restore, <br />and deployment. <br /><br />SQL Server is required only if you choose to use ASP.NET Membership, <br />VWD-CMS Member Services, and VWD-CMS Forums.<br /><br />More information about VWD-CMS: <a href=\"http://www.vwd-cms.com\">http://www.vwd-cms.com</a><br /><br />Online Demo Site: <a href=\"http://demo.vwd-cms.com\">http://demo.vwd-cms.com</a><br /><br />Online Documentation: <a href=\"http://www.vwd-cms.com/documentation\">http://www.vwd-cms.com/documentation</a><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,C#,CMS,DHTML,javascript,Starter Kit,favorite,Server Controls,VWD,Visual Web Developer,Spam,",
+  "LastEdited": "2007-08-16T04:34:22.103-07:00"
+}

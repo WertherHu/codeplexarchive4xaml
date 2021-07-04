@@ -1,0 +1,9 @@
+{
+  "ProjectName": "globe",
+  "Title": "Globe is the world atlas",
+  "Description": "Globe is the world atlas. Here you can find information about any country in the world and see it's borders, any information about it. An analogue for Amiglobe. It's developed in C#, WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Globe is the world atlas. Here you can find information about any country in the world and see it&#39;s borders, any information about it. An analogue for Amiglobe. It&#39;s developed in C&#35;, WPF.<br /><br />Globe data based on <b>CIA World Factbook</b> (<a href=\"https://www.cia.gov/library/publications/the-world-factbook/\">https://www.cia.gov/library/publications/the-world-factbook/</a>).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-29T20:12:33.883-07:00"
+}

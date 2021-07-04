@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CoverFlowFinal",
+  "Title": "CoverFlow Project",
+  "Description": "This is a proyect that can we use like a control for own apps , its need some improvements like differents view and also some memory issue to get fix...\r\n\r\nif anyone can help me to improve please...\r\n\r\nNOTE: This coverflow reads bytes and then convert it to images\r\n\r\nthanks\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><br>\r\n&nbsp; <strong>This is a proyect that can we use like a control for own apps , its need some improvements like differents view and also some memory issue to get fix...</strong></p>\r\n<p>&nbsp; <strong>if anyone can help me to improve it please...</strong><br>\r\n<br>\r\n&nbsp; <span style=\"color:#800080\"><strong>This coverflow takes some parameter like name of pic, and bytes of it... in the documentation you can find example</strong>s</span><br>\r\n<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<img src=\"http://i1119.photobucket.com/albums/k634/gamingac/CovFlow.jpg\" alt=\"\" width=\"531\" height=\"350\" style=\"vertical-align:middle; border:1px solid black\">\r\n<strong></strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF controls,CoverFlow,Cover Flow,Corusel,",
+  "LastEdited": "2011-11-29T14:44:31.06-08:00"
+}

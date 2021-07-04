@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winjsctk",
+  "Title": "WINJS CTK (Control Toolkit)",
+  "Description": "WinJS Control kit is a set of custom WINJS controls that are not supported by Windows 8. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />The WinJS Control toolkit(WinJSCtk) is a set of custom WinJS UI Controls. <br /><br />Currently the following controls are supported<br />\n<h1>Expander</h1>\r\n<img src=\"/projects/winjsctk/c4ff58b3-7ee2-49e3-af0a-361edbfe396e\" alt=\"Expanders.png\" title=\"Expanders.png\" /><br /><br />for more info goto <a href=\"https://winjsctk.codeplex.com/wikipage?title=Expander&referringTitle=Home\">Expander</a><br />\n<h1>NumericBox</h1>\r\n<img src=\"/projects/winjsctk/027b2335-70e2-4706-abf7-8a9a10b8e07c\" alt=\"NumericBox.png\" title=\"NumericBox.png\" /><br /><br />for more info goto <a href=\"https://winjsctk.codeplex.com/wikipage?title=NumericBox&referringTitle=Home\">NumericBox</a><br /><br /><b>helpers</b><br />\n<ol><li>Custom Animations : slide</li></ol>\n<br /><b>Controls in progress</b><br />\n<ol><li>Accordion</li>\n<li>Slider</li>\n<li>Charts</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WinJS,WinJS Ctk,Control Toolkit,",
+  "LastEdited": "2013-08-04T00:12:22.127-07:00"
+}

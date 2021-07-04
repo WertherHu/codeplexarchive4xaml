@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hvm",
+  "Title": "Hyper-V Manager",
+  "Description": "Hyper-V Manager application is intended to replace standard Windows application, which allows you to control virtualization infrastructure",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Hyper-V Manager application is intended to replace standard Windows application, which allows you to control virtualization infrastructure<br /><br /><br />Hyper-V Manager application is intended to replace standard Windows application, which allows you to control virtualization infrastructure.<br /><br /><b>About</b><br /><br />The software is native Win32 Delphi application. It is written mostly for exploratory reasons.<br /><br /><b>Main features</b><br />\n<ul><li>View virtual machine list</li></ul>\n<br /><b>Contacts</b><br /><br />If you want to know more about this projects, contribute to it or reuse source code feel free to contact me through email <i>oefractal@gmail.com</i>. The feedback is always welcome.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-10-17T02:33:15.51-07:00"
+}

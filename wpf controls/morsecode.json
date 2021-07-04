@@ -1,0 +1,9 @@
+{
+  "ProjectName": "morsecode",
+  "Title": "Morse Code Controls",
+  "Description": "This is a set of .NET classes and controls for translating and rendering morse code.\r\n\r\nObjectives of this project::\r\nCreate a tool for learning and exploring morse code.\r\nNot only render but \"play\" morse code sounds: possibly by creating a simple MIDI file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a set of .NET classes and controls for translating and rendering morse code.<br /><br />Objectives of this project&#58;&#58;<br />Create a tool for learning and exploring morse code.<br />Not only render but &#34;play&#34; morse code sounds&#58; possibly by creating a simple MIDI file.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-07T22:01:52.687-08:00"
+}

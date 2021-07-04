@@ -1,0 +1,9 @@
+{
+  "ProjectName": "errorlist",
+  "Title": "Visual Studio Like ErrorList control",
+  "Description": "An error list control much like the one seen in visual studio for use in your own projects.\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An error list control much like the one seen in visual studio for use in your own projects.<br /><br /><br /><br /><br />You can find an online demo here <a href=\"http://www.briankeating.net/errorlist/errorlist.xbap\">http://www.briankeating.net/errorlist/errorlist.xbap</a><br /><br />I&#39;d welcome some help on this project, I&#39;m a relative WPF novice, and I&#39;ve already made some changes to remove dependencies on 3.5 SP1 but this was done on work time so I can&#39;t provide that code.<br /><br />This code is dependant on .net 3.5sp1 as I&#39;ve referenced the WPF Toolkit for the datagrid (wpf toolkit requires sp1)<br /><br />Note: WPF toolkit is required for this control:  http://wpf.codeplex.com/</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-27T05:07:07.31-08:00"
+}

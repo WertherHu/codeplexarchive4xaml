@@ -1,0 +1,9 @@
+{
+  "ProjectName": "speakup",
+  "Title": "Speakup Desktop Frontend",
+  "Description": "A frontend to a speakup site (speak-up.com.ua) that gives a convenient visualization of reserved and available classes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A frontend to a speakup site &#40;speak-up.com.ua&#41; that gives a convenient visualization of reserved and available classes.<br /><br />Quick video introduction is available <a href=\"http://www.youtube.com/watch?v=tid_BHSHeeA\">here</a>.<br /><br /><br />General classes view. Shows available and reserved classes. <br /><br /><img src=\"/projects/speakup/837f3bf9-812a-4137-aa48-23bc33cb2e0a\" alt=\"Speakup-small.png\" title=\"Speakup-small.png\" /><br /><br /><a href=\"/projects/speakup/8be0e5e8-1ca4-4f57-b35b-8d44c6422a37\">Larger screen shot</a><br /><br />Week themes view. Shows what themes are currently available and which were already visited by user.<br /><br /><img src=\"/projects/speakup/35429891-919f-406a-b3da-fc5d886a3a22\" alt=\"Speakup-weeks-small.png\" title=\"Speakup-weeks-small.png\" /><br /><br /><a href=\"/projects/speakup/731b72af-cb70-41db-b4a4-eb99662d31d0\">Larger screen shot</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,.NET,wpf,speakup,",
+  "LastEdited": "2010-06-01T14:43:45.77-07:00"
+}

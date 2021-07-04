@@ -1,0 +1,9 @@
+{
+  "ProjectName": "apollo",
+  "Title": "Apollo",
+  "Description": "This project serves as a solution to a simple but highly productive, performant and extensible MVVM framework for Windows Store (Windows Runtime) Apps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Apollo: A Light-weighted Framework for Productive Development of Data Heavy MVVM Windows Store Apps</b><br />This project serves as a solution to a simple but highly productive, performant and extensible MVVM framework for Windows Store &#40;Windows Runtime&#41; Apps.<br /><br />This is a framework in the form of Windows Store library that has proven useful for creating apps with interactive UI and frequent and complicated data interactions compliant with MVVM pattern.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,Windows Runtime Apps,",
+  "LastEdited": "2014-05-04T06:00:42.613-07:00"
+}

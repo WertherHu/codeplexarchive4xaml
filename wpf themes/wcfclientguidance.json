@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wcfclientguidance",
+  "Title": "WCF Guidance for WPF and Mobile Developers",
+  "Description": "This project is a collection of guidance for WPF and Windows Mobile application developers related to WCF development. It includes whitepapers, webcasts, code samples, and templates related to WCF, federated security, and CardSpace development for the client. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>WCF Guidance for WPF and Mobile Applications</h1>\r\nThis project is a collection of guidance for WPF and Windows Mobile application developers related to WCF development. It includes whitepapers, webcasts, code samples, and templates related to WCF, federated security, and CardSpace development for the client. <br /><br />This is a landing page to collect all of the projects in a single place. To facilitate focused discussions on each subject there are individual CodePlex projects for each group of whitepapers, webcasts and code samples. <br />\n<ul><li><a href=\"http://wcfguidanceforwpf.codeplex.com\">WCF Guidance for WPF Applications</a></li>\n<li><a href=\"http://wcfguidanceformobile.codeplex.com\">WCF Guidance for Windows Mobile Applications</a></li>\n<li><a href=\"http://claimsbasedwpf.codeplex.com\">WPF Guidance for Claims-Based and Federated Security Models</a></li>\n<li><a href=\"http://wpfandcardspace.codeplex.com\">Building CardSpace-enabled WPF Applications</a></li>\n<li><a href=\"http://wpfservicehost.codeplex.com\">WPF ServiceHost Template</a></li>\n<li><a href=\"http://wcfproxygenerator.codeplex.com\">WCF Exception Handing Proxy Wrapper</a></li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-21T07:57:50.407-07:00"
+}

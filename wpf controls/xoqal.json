@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xoqal",
+  "Title": "Xoqal",
+  "Description": "Xoqal is a modern open source application framework targeting .NET 4+ platforms. It supports web and win application with the same infrastructure.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<div style=\"border:1px solid #e06f87; background-color:#e8c6cd; padding:2px 10px; margin:20px 2px\">\r\n<h3>This project has been migrated</h3>\r\n<p><span>The Xoqal project has&nbsp;</span><a href=\"https://github.com/AmirKarimi/Xoqal\" target=\"_blank\">a new home</a><span>&nbsp;on GitHub as of&nbsp;</span><strong>June 28, 2013</strong><span>. Please note that this website will be kept around for historical\r\n reference while all new development is done over on&nbsp;</span><a href=\"https://github.com/AmirKarimi/Xoqal\" target=\"_blank\">the GitHub repo</a><span>.</span></p>\r\n</div>\r\n<p><strong style=\"font-size:10pt\">Project Description</strong></p>\r\n<p>Xoqal is a modern open source application framework targeting .NET 4&#43; platforms. It supports web and win application with the same infrastructure.<br>\r\n<br>\r\nOur first target is producing good software using good design patterns.<br>\r\n<br>\r\nXoqal /zoʊqɑːl/ means coal in Persian language. We choose this name because many years ago in Iran the great scientists were distributing free coal and paper as writing tools among the people to give them a learning opportunity.<br>\r\n<br>\r\n<em>I'd like to give special thanks to <a href=\"http://blog.ploeh.dk/\">Mark Seemann</a> for his helps.</em><br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "framework,ASP.NET MVC,WPF,MVVM,Repository pattern,Unit of Work pattern,Test Driven Design,Domain Driven Design,",
+  "LastEdited": "2013-06-30T04:31:06.26-07:00"
+}

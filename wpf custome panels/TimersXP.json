@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TimersXP",
+  "Title": "TimersXP",
+  "Description": "The Timers Project is an open-source stopwatch & countdown timer for Windows, and possibly other platforms in the future.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">TimersXP - Keep track of all your time now and forever!<br /><br /><b>Project Description</b><br />The Timers Project is an open-source stopwatch &#38; countdown timer for Windows, and possibly other platforms in the future.<br /><br />This is about the development of the Countdown &amp; Stopwatch skinnable Timers project. Some of the things that will be done are refactoring of the existing code for following the MVVM design pattern (Model-View-View-Model). Redesign of the user interface to allow for skinning, development of a website, adding &amp; development of the skins, and many other enhancements.<br /><br /><img src=\"/projects/TimersXP/c63c2c89-bd53-4947-a1be-075cb86475d3\" alt=\"NewGUI_Tron.jpg\" title=\"NewGUI_Tron.jpg\" /><br /><img src=\"/projects/TimersXP/53ac5c83-3f9d-4518-bd56-9bebebca66f5\" alt=\"NewGUI_Tron2.jpg\" title=\"NewGUI_Tron2.jpg\" /><br /><img src=\"/projects/TimersXP/1920a34f-20d5-454b-9553-d66ec00b7e72\" alt=\"NewGUI_Tron3.jpg\" title=\"NewGUI_Tron3.jpg\" /><br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Stopwatch,Countdown,MVVM,WPF,C#,.NET,Skins,",
+  "LastEdited": "2014-01-27T17:55:25.793-08:00"
+}

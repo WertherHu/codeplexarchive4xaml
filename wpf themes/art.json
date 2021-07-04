@@ -1,0 +1,9 @@
+{
+  "ProjectName": "art",
+  "Title": "Art",
+  "Description": "A WPF-based library for art-related stuff, such as advanced color pickers etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Art</b><br />A solution for various color and image manipulations.<br />Currently contains basic <b>color spaces</b> with conversions and a WPF ColorPicker window.<br /><br /><img src=\"/projects/art/2fc83c9a-36c4-426d-80ba-a2a7003cb602\" alt=\"Color&#32;Picker\" title=\"Color&#32;Picker\" /><br /><br />It is a .net 3.5 library.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Art,WPF,.NET 3.5,Color,ColorPicker,color space,",
+  "LastEdited": "2008-09-10T12:40:02.293-07:00"
+}

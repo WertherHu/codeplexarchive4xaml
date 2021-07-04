@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ResizeDragBehavior",
+  "Title": "ResizeDragBehavior",
+  "Description": "This C# Silverlight 3 ResizeDragBehavior is a simpel implementation of resizing columns left, right, above or under a workingspace.\n\nIt allows you to drag a UIElement which expands another UIElement in either heigth or width.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This C&#35; Silverlight 3 ResizeDragBehavior is a simpel implementation of resizing columns left, right, above or under a workingspace.<br /><br />It allows you to drag a UIElement which expands another UIElement in either heigth or width.<br /><br /><br />The Resize Drag Behavior allows you to rezise a UIElement with another UIElement. This way you can fully control the resize element.<br />If you attach the behavior to an element, this element wil become &quot;draggable&quot;, but what it really does is calculating the mousechange and adds/substracts the delta to the width/height of the selected element.<br /><br />The properties of this behavior fully works with Blend. Designtime attributes have been added so picking the related element is using the elementpicker from Blend.<br /><br />Screenshot of the sampleapplication:<br /><img src=\"http://www.vassagoindustries.com/ResizeDragBehavior.PNG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Behavior,draggable,Dashboard,trigger,",
+  "LastEdited": "2010-04-21T10:06:34.913-07:00"
+}

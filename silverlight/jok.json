@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jok",
+  "Title": "Jok.ge",
+  "Description": "Online Fun Community (OFC)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Jok.ge</h1>\rOnline Fun Community<br /><br />Here u can play online games, find new friends and have fun. Join us, its fun time :)<br /><a href=\"https://jok.ge\">https://jok.ge</a><br /><br /><br />Technical Review:\n<ul><li>MS SQL (Database)</li>\n<li>Entity Framework  (DataAccess Layer)</li>\n<li>.NET (Back-end)</li>\n<li>WCF (Communication)</li>\n<li>HTML5 &amp; Silverlight (Presentation Layer)</li></ul>\n<br />Full source code &amp; documentation:\n<ul><li>Jok.GameFramework - Simple Solution</li></ul>\n<br />Why do u need it?\n<ul><li>To have fun, make money</li></ul>\n<br />How?\n<ul><li><a href=\"http://jok.codeplex.com/documentation\">Let&#39;s start it :)</a></li></ul>\n<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,Silverlight,Jok,jok.ge,",
+  "LastEdited": "2012-02-17T13:00:38.81-08:00"
+}

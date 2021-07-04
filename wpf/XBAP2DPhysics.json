@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XBAP2DPhysics",
+  "Title": "XBAP 2D Physics",
+  "Description": "Simple 2D physics engine (based on Flade, a Flash engine) integrated with WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple 2D physics engine &#40;based on Flade, a Flash engine&#41; integrated with WPF.<br /><br />This is a simple dynamics engine in C# that simulates 2D physics using Verlet integration.  It’s based on a project called Flade, written in Actionscript (for use in Flash/Flex) by Alec Cove.<br /><br />This implementation adds some simple particle/particle collision (Flade does particle/fixed surface collision right now) and uses WPF for rendering.<br /><br />Currently the engine is built as part of the demo project.  It&#39;s in a subfolder and can easily be mored to its own assembly.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,",
+  "LastEdited": "2007-04-08T17:07:32.403-07:00"
+}

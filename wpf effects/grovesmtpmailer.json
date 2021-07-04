@@ -1,0 +1,9 @@
+{
+  "ProjectName": "grovesmtpmailer",
+  "Title": "Grove SMTP Mailer",
+  "Description": "Grove SMTP Mailer is a Simple and Open Source SMTP E-Mail Sender Written in Visual Basic by Hommerhart - Effect-7\r\n\r\nGrove SMTP Mailer on SourceForge : https://sourceforge.net/projects/grovesmtpmailer/",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><br>\r\n<img src=\"https://a.fsdn.com/con/icons/gr/grovesmtpmailer@sf.net/icon.bmp\" alt=\"\" width=\"60\" height=\"60\"><br>\r\nGROVE SMTP MAILER</p>\r\n<p>Grove SMTP Mailer is a Simple and Open Source SMTP E-Mail Sender Written in Visual Basic by Hommerhart - Effect-7<br>\r\n<br>\r\nContact : Hommerhart@hotmail.com , Hommerhart@mail.ie<br>\r\n<br>\r\nGrove SMTP Mailer on SourceForge.Net : https://sourceforge.net/projects/grovesmtpmailer/<br>\r\nGrove SMTP Mailer On Code.Google : http://code.google.com/p/grovesmtpmailer/<br>\r\n<br>\r\n<span style=\"text-decoration:underline; color:#ff0000\"><strong>Feature List:</strong></span><br>\r\n<br>\r\n<span style=\"color:#0000ff\">Version 1.0</span></p>\r\n<ul>\r\n</ul>\r\n<pre>    Allows Multiple Attechment\n    Allows Multiple Receivers\n    Changeable Smtp port And Smtp adress <br><br><br><br></pre>\r\n<p><img src=\"https://sourceforge.net/dbimage.php?id=309557\" alt=\"v1.0\" width=\"545\" height=\"480\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "basic,visual basic,Visual,Visual Studio 2008,mailer,smtp client,Grove,Hommerhart,Visual Basic 2008,.NET 3.5,Framework 3.5,attechment,effect7,.net framework 3.5,.NET Framework,SMTP mailer,Grove SMTP Mailer,GPLv2,",
+  "LastEdited": "2011-06-21T08:03:35.57-07:00"
+}

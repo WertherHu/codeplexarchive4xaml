@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LegoBotPrima",
+  "Title": "Microsoft Robotics Developer Studio with Lego NXT 2.0 Mindstorms",
+  "Description": "Microsoft Robotics Developer Studio project with a Lego NXT 2.0 MINDSTORMS robot. The robot uses a compass, ultrasound distance sensor, two bumpers and two motors. It goes around while trying to avoid obstacles and draws a picture of its current state on a WPF application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Microsoft Robotics Developer Studio project with a Lego NXT 2.0 MINDSTORMS robot. The robot uses a compass, ultrasound distance sensor, two bumpers and two motors. It goes around while trying to avoid obstacles and draws a picture of its current state on a WPF application.<br /><br />Blog entry: <a href=\"http://blog.bodurov.com/Lego-NXT-Mindstorms-with-Microsoft-Robotics-Developer-Studio/\">http://blog.bodurov.com/Lego-NXT-Mindstorms-with-Microsoft-Robotics-Developer-Studio/</a><br /><br />You Tube Video Release Beta 2.0: <a href=\"http://www.youtube.com/watch?v=rAxK-zOwePs\">http://www.youtube.com/watch?v=rAxK-zOwePs</a><br />You Tube Video Release Beta 1.0: <a href=\"http://www.youtube.com/watch?v=toAZGQVWQqg\">http://www.youtube.com/watch?v=toAZGQVWQqg</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MRDS,Robotics,",
+  "LastEdited": "2010-08-07T20:50:47.62-07:00"
+}

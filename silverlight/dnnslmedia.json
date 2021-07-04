@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dnnslmedia",
+  "Title": "Silverlight Media for DotNetNuke®",
+  "Description": "SilverlightMedia is a module for DotNetNuke®. Its a container for showing Silverlight applications in a DotNetNuke® portal.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverlightMedia is a module for DotNetNuke&#174;. Its a container for showing Silverlight applications in a DotNetNuke&#174; portal.<br /><br /><br /><br />This module make it easy to add a Silverlight application to a page in a DotNetNuke portal.<br /><br />In this release you don&#39;t need the controll System.Web.Silverlight.dll<br /><br />Now you can change the parameters Windowless, Background, Height, Width, InitParams, Version and Source.<br /><br />Furthermore you can add your own messages if not the visitor have silverlight installed. The message can be translated.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotNetNuke,DNN,",
+  "LastEdited": "2009-07-18T01:59:58.927-07:00"
+}

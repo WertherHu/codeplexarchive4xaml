@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fskinect",
+  "Title": "FsKinect",
+  "Description": "F# Kinect and XNA Demo.\r\n\r\nThe demo is a spinning cube with pictures of cars. The spin and direction of spin is controlled by Kinect based skeletal tracking.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />F&#35; Kinect and XNA Demo.<br /><br />The demo is a spinning cube with pictures of cars. The spin and direction of spin is controlled by Kinect based skeletal tracking.<br /><br />Some explanation here: <a href=\"http://fwaris.wordpress.com/2012/01/23/kinecting-with-f-and-xna/\">http://fwaris.wordpress.com/2012/01/23/kinecting-with-f-and-xna/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-23T11:35:04.977-08:00"
+}

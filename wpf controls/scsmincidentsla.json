@@ -1,0 +1,9 @@
+{
+  "ProjectName": "scsmincidentsla",
+  "Title": "SCSM Incident SLA Management",
+  "Description": "This project provides an extension to System Center Service Manager to provide more granular control over incident service level agreement (SLA) management.  The project includes a management pack, custom settings form, and workflow activities/workflows for managing incident SLAs",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project provides an extension to System Center Service Manager to provide more granular control over incident service level agreement &#40;SLA&#41; management.  The project includes a management pack, custom settings form, and workflow activities&#47;workflows for managing incident SLAs<br /><br />See the latest blog post on this project:<br /><a href=\"http://blogs.technet.com/b/servicemanager/archive/2011/06/23/new-version-of-incident-sla-management-codeplex-solution-available.aspx\">http://blogs.technet.com/b/servicemanager/archive/2011/06/23/new-version-of-incident-sla-management-codeplex-solution-available.aspx</a><br /><br />See the blog post that started this project for some background information:<br /><a href=\"http://blogs.technet.com/servicemanager/archive/2010/05/06/incident-sla-management-in-service-manager.aspx\">http://blogs.technet.com/servicemanager/archive/2010/05/06/incident-sla-management-in-service-manager.aspx</a><br /><br />Please report issues here:<br /><a href=\"http://scsmincidentsla.codeplex.com/workitem/list/basic\">http://scsmincidentsla.codeplex.com/workitem/list/basic</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SCSM,Service Manager,System Center,Incident,",
+  "LastEdited": "2011-06-23T12:14:03.513-07:00"
+}

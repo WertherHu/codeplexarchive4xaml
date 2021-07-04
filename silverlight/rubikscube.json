@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rubikscube",
+  "Title": "Rubik's Cube",
+  "Description": "A 3D Rubik's Cube game for Silverlight",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A 3D Rubik&#39;s Cube game for Silverlight<br /><br />Use Mouse<br />Use mouse’s left button to rotate faces. Use ctrl + left mouse button to rotate camera view.<br /><br />Use Command (either in folded or unfolded state)<br />Accepted commands (case insensitive): <br />X means Undo/Cancel last twist<br />L, R, U, D, F and B denotes clockwise twists of the corresponding faces. (six faces: right (R), left (L), up (U), down (D), front (F) and back (B))<br />L&#39;, R&#39;, U&#39;, D&#39;, F&#39; and B&#39; denotes counterclockwise twists of the corresponding faces. <br />LM, RM, UM, DM, FM and BM denotes clockwise twists of the corresponding middle layer. <br />LM&#39;, RM&#39;, UM&#39;, DM&#39;, FM&#39; and BM&#39; denotes counterclockwise twists of the corresponding middle layer. <br /><br />Libraries used in the game:<br />Silverlight 3D: <a href=\"http://www.codeplex.com/kit3d/\">Kit3D</a><br /><br /><br /><b>Latest update:</b><br />I&#39;m writing a javascript version of it:<a href=\"https://github.com/ligangwang/rubikscube/\">https://github.com/ligangwang/rubikscube/</a><br />See it live at <a href=\"http://dingn.com/\">http://dingn.com/</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,3D,Silverlight,cube,Rubik's Cube,F#,C#,",
+  "LastEdited": "2016-09-19T17:49:31.31-07:00"
+}

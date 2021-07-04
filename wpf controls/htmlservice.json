@@ -1,0 +1,9 @@
+{
+  "ProjectName": "htmlservice",
+  "Title": "HTMLService",
+  "Description": "This is a sample application for async website with single page concept. It uses script service and jQuery to render the user control.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is the sample application to use full ajax feature with Script service, user control and jQuery.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-03T03:23:17.043-07:00"
+}

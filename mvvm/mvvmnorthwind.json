@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmnorthwind",
+  "Title": "MVVM.Northwind.Employee",
+  "Description": "Demonstration of employee management system in Northwind Database via MVVM pattern",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Demonstration on how to use MVVM on any Database Management System. Uses Employee table of Northwind Database<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-02T03:53:18.17-07:00"
+}

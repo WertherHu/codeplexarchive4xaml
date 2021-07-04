@@ -1,0 +1,9 @@
+{
+  "ProjectName": "school",
+  "Title": "Academic Success Accounting System",
+  "Description": "The system is intended to use by school teacher to set marks to students and estimate their academic success and possibilities. The client application uses SQL Server Compact as data store and WPF user interface.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Academic Success Accounting System</b><br />The system is intended to use by school teacher to set marks to students and estimate their academic success and possibilities. The client application uses SQL Server Compact as data store and WPF user interface.<br /><br /><b>Technologies</b><br />.NET Framework 3.5 SP1<br />Microsoft Visual Studio 2010<br />Microsoft SQL Server Compact<br />NHibernate</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sergiu,al,Information System,.NET,",
+  "LastEdited": "2010-02-01T08:35:10.787-08:00"
+}

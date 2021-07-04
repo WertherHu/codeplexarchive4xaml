@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DeviceManagement",
+  "Title": "PowerShell Device Management Module",
+  "Description": "PowerShell Cmdlets, written in Managed Code, that expose hardware topology information as well as PNP device discovery and control. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Introduction</h2>\rThis module provies access to devices in windows and also provides access to the common operations, similar in capabilities to Device Manager. The cmdlets provided by this module support pipelining and should be pretty self explaining.<br />\n<h2>Function Scope</h2>\rThis module was designed primarilary with the need of removing hidden devices from the device list. Additionally cmdlets to enable and disable devices were added along.<br />\n<h2>Documentation</h2>\rAll Cmdlets are documented. Use Get-Help to retrieve it.<br />The source code is poorly documented.<br /><br />The module makes it quite easy to get a list of all devices and their state. The PowerShell help contains some samples.<br />\n<h2>Provided Cmdlets</h2>\rThis module provides the following cmdlets:\n<ul><li>Disable-Device</li>\n<li>Enable-Device</li>\n<li>Get-Device</li>\n<li>Uninstall-Device</li></ul>\n\n<h2>Version History</h2>\r<ul><li>1.0.3\n<ul><li>Bug Fixes</li></ul></li>\n<li>1.0.2\n<ul><li>Bug Fixes</li>\n<li>Help added</li></ul></li>\n<li>1.0\n<ul><li>Initial Release</li></ul></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-02-20T06:32:03.91-08:00"
+}

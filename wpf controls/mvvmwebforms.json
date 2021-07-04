@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmwebforms",
+  "Title": "MVVM 4 ASP.net Webforms",
+  "Description": "Bringing WPF like declarative data binding to ASP.NET Web Forms to enable declarative two-way data binding to any object whilst opening up MVVM UI development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">!!NO LONGER UNDER DEVELOPMENT!!<br /><br />The aim of the proposed framework is to address the lack of flexible and powerful two-way data binding in ASP.NET Web Forms by allowing for a WPF-esque declarative syntax to be used which at the same time allows UI development using the MVVM pattern.<br /><br />The original article describing this framework can be found here <a href=\"http://www.codeproject.com/KB/aspnet/WPFDataBindingInASPX.aspx\">http://www.codeproject.com/KB/aspnet/WPFDataBindingInASPX.aspx</a><br /><br />Closure note:<br /><br />Hi all,<br /><br />Thanks for all the kind words and interest in this framework but unfortunately it is no longer being developed and hasn&#39;t been for sometime.<br /><br />The main reason behind this is that I believe the world is moving on from webforms and I&#39;ve been working almost exclusively with asp.net mvc since this article was published.<br /><br />If there is still interest in keeping the development of this open then please message  me and I&#39;ll fully open source the project on codeplex.<br /><br />Many thanks<br />Sam</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-28T08:25:41.573-07:00"
+}

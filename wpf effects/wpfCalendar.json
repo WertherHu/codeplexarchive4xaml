@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfCalendar",
+  "Title": "wpf calendar in winforms and webforms",
+  "Description": "Given a wpf calendar control, create a winforms and a webforms applications using it. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>This project objective is to connect a calendar control developed in WPF to a winform app and web forms app.<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-02-03T10:26:11.623-08:00"
+}

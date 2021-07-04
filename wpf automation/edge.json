@@ -1,0 +1,9 @@
+{
+  "ProjectName": "edge",
+  "Title": "Edge",
+  "Description": "A new syntax to create UI (WPF).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A new syntax to create UI (WPF).<br /><br />Source code and issue tracker also avaiable on <a href=\"https://github.com/sys27/Edge\">GitHub.com</a><br />\n<h2>Sample:</h2>\r\n<div style=\"color:Black;background-color:White;\"><pre>\r\nusing SomeNamespace;\n\nWindow {\n    Title: <span style=\"color:#A31515;\">&quot;kjgkhj&quot;</span>,\n    Icon: BitmapImage(<span style=\"color:#A31515;\">&quot;Icon.ico&quot;</span>),\n    \n    Grid {\n        ColumnDefinitions: [\n            ColumnDefinition { Width: 100 },\n            ColumnDefinition\n        ],\n        TextBox#tb {\n            Text: <span style=\"color:#A31515;\">&quot;Hi!!!&quot;</span>,\n            Style: #st\n        },\n        TextBlock {\n            Text: @tb.Text,\n            Grid.Column: 1,\n            Style: {\n                HorizontalAlignment: Center\n            }\n        }\n        \n    },\n    \n    Resources: [\n        Style#st {\n            Height: 200\n        }\n    ]\n}\r\n</pre></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-08-28T09:37:28.59-07:00"
+}

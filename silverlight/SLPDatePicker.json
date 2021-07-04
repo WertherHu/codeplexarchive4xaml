@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLPDatePicker",
+  "Title": "Silverlight 4 & 5 Persian DatePicker",
+  "Description": "Silverlight 4 already supports right to left languages such as Persian/Arabic/Hebrew but it lacks .NET Framework's Persian calendar support.",
+  "MovedLink": "https://github.com/VahidN/Silverlight-Persian-DatePicker",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nSilverlight 4 already supports right to left languages such as Persian/Arabic/Hebrew but it lacks .NET Framework's Persian calendar support. So I've decided to create a new open source project to add these missing features.</p>\r\n<p><strong>Update:</strong> <br>\r\nThanks to Microsoft, Now <em>Silverlight 5</em> supports .NET Framework's Persian calendar.</p>\r\n<p><br>\r\n<strong>Screenshot:</strong></p>\r\n<p><img src=\"http://slpdatepicker.codeplex.com/download?DownloadId=151087\" alt=\"\"></p>\r\n<p>&nbsp;</p>\r\n<p><strong><a href=\"http://slpdatepicker.codeplex.com/documentation\">Example Usage</a>\r\n</strong><br>\r\n<br>\r\n<strong>NuGet Packages</strong><br>\r\n<a href=\"http://nuget.org/packages/Silverlight.5.Persian.DatePicker\" target=\"_blank\">Silverlight.5.Persian.DatePicker</a><br>\r\n<a href=\"http://nuget.org/packages/Silverlight.4.Persian.DatePicker\" target=\"_blank\">Silverlight.4.Persian.DatePicker</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Persian,calendar,Farsi,Silverlight,Datepicker,Mirshahreza,",
+  "LastEdited": "2012-11-12T00:58:12.093-08:00"
+}

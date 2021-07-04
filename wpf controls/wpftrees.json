@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpftrees",
+  "Title": "WPFTrees",
+  "Description": "WPF Trees project is software for visualization of phylogenies, using Microsoft  WPF framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Trees project is software for visualization of phylogenies, using Microsoft  WPF framework.<br /><br />GUI Application allowing users to view, edit and publish phylogenies in newick format.<br />Features<br /> - radial, rectangular and cladogram layouts<br /> - text and image comments<br /><br />For what&#39;s planned next, see <a href=\"https://wpftrees.codeplex.com/wikipage?title=roadmap&referringTitle=Home\">roadmap</a>. Feel free to discuss priorities and request new features :)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-11T11:20:06.463-07:00"
+}

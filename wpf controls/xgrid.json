@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xgrid",
+  "Title": "XGrid Control",
+  "Description": "The xGrid is an extension to the GridView that shipped recently with the ASP.NET 2.0. Many new features have been added to the GridView so that it resembles one of those third-party controls, however offered for free for developers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Extended GridView Home Page</b><br /><br />This is the home page for my new Extended GridView Control (XGrid) that I have worked on during the last couple of months.<br /><br />An accompanying article that explains and documents all of the features of this new control can be found at ASPAlliance: <a href=\"http://aspalliance.com/946\">http://aspalliance.com/946</a>.<br /><br />Make sure you read the documentation found in that article to know how to work with this XGrid.<br /><br />For any comments or questions please feel free to contact me at any time on: bilal at bhaidar.net<br /><br />If you were able to add any features or improve the current features of this Extended GridView control, I kindly ask you to post it back on this site so that all the developers from all over the world will be able to have a look at the changes and benefit from them.<br /><br />Hope you will like my new control!<br /><br />Bilal Haidar<br />Best Regards</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Controls,xGrid,asp.net controls,advanced grids,grid,",
+  "LastEdited": "2006-10-15T12:54:45.267-07:00"
+}

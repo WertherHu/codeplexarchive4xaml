@@ -1,0 +1,9 @@
+{
+  "ProjectName": "geniustetris",
+  "Title": "GeniusTetris",
+  "Description": " \r\nun tetris multijoueur, utilisant le framework .Net 3.0 (WPF, WCF, WF)\r\n \r\n \r\n(migration du projet depuis gotdotnet)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /> <br />un tetris multijoueur, utilisant le framework .Net 3.0 &#40;WPF, WCF, WF&#41;<br /> <br /> <br />&#40;migration du projet depuis gotdotnet&#41;<br /><br /><img src=\"/projects/geniustetris/f6fddaec-6a2b-4704-9a97-3f06b88c9d08\" alt=\"geniustetris.jpg\" title=\"geniustetris.jpg\" /><br /><br />La version 1.2.0.0 utilise Windows Azure, vous pouvez donc jouer avec toute la plan&#232;te !!! ;-)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,watch,WPF,wcf,.net 3.0,Workflow Foundation,",
+  "LastEdited": "2009-05-26T14:13:55.28-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bubblefactory",
+  "Title": "Bubble Factory - Silverlight Game",
+  "Description": "I created this cute little game in only 5 intensive nights. Enjoy!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />First of all, have a look to the game:<br /><a href=\"http://cosmik.members.winisp.net/BubbleFactory/\">http://cosmik.members.winisp.net/BubbleFactory/</a><br /><br />This game has been coded with SilverLight Alpha 1.1 and C# in only 5 <br />intensives nights! Enjoy! It was originally a game created on the J2ME <br />platform. I rescaled the arts with the Scale2X algo. This explains the <br />size of the game screen. <br /><br /><b>Sources</b><br /><br />You can download the sources in the &quot;Release&quot; Section here:<br /><a href=\"http://www.codeplex.com/bubblefactory/Release/ProjectReleases.aspx\">http://www.codeplex.com/bubblefactory/Release/ProjectReleases.aspx</a><br /><br /><b>Setup Tips</b><br /><br />I updated it to work with the 1.1 Alpha Refresh. But launching the project <br />with F5 under VS Orcas won’t work as the game needs to download resources.<br />You have 2 options to make it working:<br />- Publish it through a local IIS Virtual Directory<br />- Launch the project through Blend 2.0<br /><br /><b>Contact</b><br /><br />You can contact me at vinv@microsoft.com in case of problems but please avoid <br />useless questions. Also, you&#39;ll find some updates on my blog <a href=\"http://blogs.msdn.com/cosmik/\">http://blogs.msdn.com/cosmik/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2007-08-21T08:18:08.557-07:00"
+}

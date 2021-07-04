@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ajaxtiff",
+  "Title": "AJAX Fax document viewer",
+  "Description": "The AJAX Fax document viewer is an ASP.net 4.0 project which uses a Seadragon control to display Tiff/Tif files inside the browser. Since it's based on Javascript there's no need for plugins like Adobe Flash & Microsoft Silverlight",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The AJAX Fax document viewer is an ASP.net 4.0 project which uses a Seadragon control to display Tiff&#47;Tif files inside the browser. Since it&#39;s based on Javascript there&#39;s no need for plugins like Adobe Flash &#38; Microsoft Silverlight<br /><br /><br />Additional information is available inside the README.txt file =)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-15T14:00:01.75-07:00"
+}

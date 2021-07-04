@@ -1,0 +1,9 @@
+{
+  "ProjectName": "barcodescannerwp8",
+  "Title": "BarCode Scanner for Windows Phone 8 & 8.1(Silverlight)",
+  "Description": "Use your camera like barcode scanner in your Windows Phone 8 & 8.1(silverlight) apps.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<div><strong>BarCode Scanner for Windows Phone 8 &amp; 8.1(Silverlight)</strong></div>\r\n<p><a id=\"ProjectTitle1\" href=\"https://barcodescannerwp8.codeplex.com/\"></a><br>\r\n<br>\r\nThis is a simple Barcode scanner control to use in your apps for Windows Phone 8 and Windows Phone 8.1(Silverlight) apps.</p>\r\n<p>This control use Zxing.Net library (<a href=\"http://zxingnet.codeplex.com/\">http://zxingnet.codeplex.com/</a>)</p>\r\n<p>&nbsp;</p>\r\n<p>I hope this control helps.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-04T18:21:38.617-07:00"
+}

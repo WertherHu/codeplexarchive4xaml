@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PhaseThreeGroupProject",
+  "Title": "GroupProject",
+  "Description": "Vehicle inventory control application using AngularJS, .NET Web API, and SQL",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Our design intends to be a cost-efficient replacement for the Texas Department of State Health Services current paper based vehicle inventory control system. Admins may register drivers, update vehicle inventory, track vehicle “check in” reports, and override any vehicle reservations.  Drivers may reserve vehicles for specific dates and submit “check in” reports.  As the team’s technical lead, I designed the overall internal architecture and design pattern, and advised the project manager on delegating tasks. I chose to use AngularJS as our front-end framework; and ASP.NET C# Web API as our back-end framework with Entity Framework talking to our SQL database.  <br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-26T15:42:32.827-08:00"
+}

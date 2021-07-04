@@ -1,0 +1,9 @@
+{
+  "ProjectName": "templates",
+  "Title": "WPF Templates Plus",
+  "Description": "Baisc templates(VB.Net) for Visual Studio.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nItem templates(VB.Net) for Visual Studio 2012.<br>\r\n<br>\r\nDialogTemplate - Dialog Template with OK/Cancel buttons.</p>\r\n<p>AboutDialog - About Dialog with Application Information.</p>\r\n<p>MessageBoxDialog - Dialog for showing messages.</p>\r\n<hr>\r\n<p><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=K4QJBR4UJ3W5E&lc=US&item_name=Semagsoft&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted\">Please donate to help keep this project active.</a></p>\r\n<p>If you would like to donate bitcoins, please send them here: 1EgeEKzqxSSPgoGxtp2bvhkKkq9dDf3o6</p>\r\n<hr>\r\n<p>WPF Templates Plus is developed and maintained by <a href=\"http://cur.lv/54kgs\" target=\"_blank\">\r\nSemagsoft</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-11-30T20:29:43.23-08:00"
+}

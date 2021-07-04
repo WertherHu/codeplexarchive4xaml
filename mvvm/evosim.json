@@ -1,0 +1,9 @@
+{
+  "ProjectName": "evosim",
+  "Title": "EvoSim - Evolution Simulation",
+  "Description": "EvoSim is a pet project to learn aspects of MVVM, WPF/Silverlight, and Parallel Processing features of .NET 4.\n\nThe goal is to simulate a world filled with creatures that move, eat, reproduce, and die according to Darwinian evolutionary principles. It is tile and turn based.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />EvoSim is a pet project to learn aspects of MVVM, WPF&#47;Silverlight, and Parallel Processing features of .NET 4.<br /><br />The goal is to simulate a world filled with creatures that move, eat, reproduce, and die according to Darwinian evolutionary principles. It is tile and turn based.<br /><br /><br />More <a href=\"https://evosim.codeplex.com/wikipage?title=Information&referringTitle=Home\">Information</a> can be found here.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "simulation,evolution,game,WPF,.NET 4.0,MVVM,MVVM Light Toolkit,",
+  "LastEdited": "2011-02-08T08:20:02.287-08:00"
+}

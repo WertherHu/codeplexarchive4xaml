@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfmdimetro",
+  "Title": "WPF MDI Metro",
+  "Description": "Metro Dark Theme for WPF MDI Project on codeplex.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nThis project is just a Metro Dark Theme for the <a href=\"wpfmdi.codeplex.com\" target=\"_blank\">\r\nWPF MDI Poject</a> which ideally should be part of the WPF MDI Project. However the styling for the MDI container had to be entered in to the MainWindow directly for now, however, i hope to clean it up as time goes on. Every other style (i.e for the MDIChildren\r\n and their controls) however can be changed dynamically as per the default WPF MDI Project.</p>\r\n<p>&nbsp;<img src=\"/projects/wpfmdimetro/c200c3b3-3a5a-43ae-a4fb-606c9573bd33\" alt=\"Demo App\" width=\"648\" height=\"363\"></p>\r\n<p>The project contains a demo app that demonstrates the functionality.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-10-28T08:46:02.54-07:00"
+}

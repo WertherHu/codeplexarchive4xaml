@@ -1,0 +1,9 @@
+{
+  "ProjectName": "timesheetreporting",
+  "Title": "TimeSheet Reporting Silverlight",
+  "Description": "TimeSheet Reporting application in Silver light.\nContains a data grid containing combo boxes bound to different data sources like Members and Projects\nThe Grid is bound to a different data source called Efforts",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">TimeSheet Reporting Project V1 in Silverlight.<br /><br />Frontend is designed using Silverlight.<br />Back end is SQL Server.<br />The application uses Domain Services<br /><br />Database contains three tables - Member, Project and Effort<br />Effort table contains a foreign key MemberId and ProjectId<br /><br />Kindly note that you need to change the connection string appropriately in web.config to set up DB connection<br /><br />I have uploaded the SQL script to create the database.<br />Also I have uploaded a document for IIS Settings and adding ASPNET user to the database.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-19T02:20:49.943-07:00"
+}

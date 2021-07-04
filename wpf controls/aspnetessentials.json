@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspnetessentials",
+  "Title": "ASP.NET Essentials Components",
+  "Description": "Toolkit for ASP.NET 3.5 WebForms projects.\r\nMain features:\r\n1) Modular architecture. Every module is declated in external XML file\r\n2) URL rewriting\r\n3) Set of high level business line server controls \r\n4) Dynamic pages\r\n5) Custom sitemap definition",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Set of libraries and toolkits to help developing ASP.NET WebForms sites and web applications.<br /><br /> <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-25T06:27:20.553-07:00"
+}

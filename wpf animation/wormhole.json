@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wormhole",
+  "Title": "Wormhole X-Treme",
+  "Description": "Free implementation of a Stargate TCG online client.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Free implementation of a Stargate TCG online client.<br /><br /><img src=\"/projects/wormhole/f7fa9751-6d80-47c3-a915-70d5c52a69d0\" alt=\"gameClient.jpg\" title=\"gameClient.jpg\" /><br /><br />Visit the official blog of this project at <a href=\"http://stargatetcg.blogspot.com/\">http://stargatetcg.blogspot.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Trading Card Game,Event Driven,Stargate,TCG,Game,CCG,",
+  "LastEdited": "2008-06-17T02:43:04.833-07:00"
+}

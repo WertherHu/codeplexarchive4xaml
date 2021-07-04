@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winmm",
+  "Title": "WinMM.Net",
+  "Description": "WinMM.Net is a .NET style wrapper for the winmm.dll functionality.  First release concentrates on audio Recording and Playback and includes multithreaded WaveIn and WaveOut classes.\n\nAlso includes plain sound file playback support in the form of the PlaySound API.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WinMM.Net is a .NET style wrapper for the winmm.dll functionality.  First release concentrates on audio Recording and Playback and includes multithreaded WaveIn and WaveOut classes.<br /><br />Also includes plain sound file playback support in the form of the PlaySound API.<br /><br /><br />Released under the MIT license.<br /><br />Future Plans:<br />We eventually would like to support all of the functionality of the winmm.dll library in one easy-to-use managed library.<br /><br />After any issues have been worked out with the audio portion, expect to see a MIDI and a Joystick portion soon.</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".net,sound,audio,winmm,wave,multimedia,",
+  "LastEdited": "2009-04-05T10:18:47.61-07:00"
+}

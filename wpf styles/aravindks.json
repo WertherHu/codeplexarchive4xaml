@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aravindks",
+  "Title": "Facebook OAuth authentication for WPF application",
+  "Description": "This is a WPF sample application for Facebook OAuth authentication in C#. This application takes Facebook App Id and application permission scope (comma de-limited) as their input and provides Access Token & Expires in time in seconds as their output.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a WPF sample application for Facebook OAuth authentication in C&#35;. This application takes Facebook App Id and application permission scope &#40;comma de-limited&#41; as their input and provides Access Token &#38; Expires in time in seconds as their output.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-08T17:52:26.63-07:00"
+}

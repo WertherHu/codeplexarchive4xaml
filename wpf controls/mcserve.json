@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mcserve",
+  "Title": "MCServe",
+  "Description": "MCServe is the minecraft-server which takes advantage of the performance of the .NET Framework",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MCServe is the minecraft-server which takes advantage of the performance of the .NET Framework<br /><br /><b>Features</b>\n<ul><li>Available for operating-systems with .NET 4 or above (see system requirements at <a href=\"https://mcserve.codeplex.com/wikipage?title=Documentation_SystemRequirements&referringTitle=Home\">System requirements</a>)</li>\n<li>Available in multiple languages</li>\n<li>Integrated update manager for server-software and plugins</li>\n<li>Can be used with several Plug-Ins</li>\n<li>Can be controlled from the console and through a GUI</li>\n<li>Remote Controle :\n<ul><li>Windows Phone App</li>\n<li>Windows 8 App</li>\n<li>Windows Desktop Applikation</li>\n<li>Browser-App</li></ul></li>\n<li>Many more</li></ul>\n<br /><b>Current Stable</b><br />At the moment, no stable release is available.<br /><br />Have also a look on the <a href=\"https://mcserve.codeplex.com/wikipage?title=Preview&referringTitle=Home\">Preview</a> Page and on the <a href=\"https://mcserve.codeplex.com/wikipage?title=Development%20History&referringTitle=Home\">Development History</a> Page</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Minecraft,Server,.NET,MCServe,custom,plugins,c#,blocks,remote,control,webui,.net 4,",
+  "LastEdited": "2013-02-05T02:52:10.267-08:00"
+}

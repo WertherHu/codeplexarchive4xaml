@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CoolVistaMenu",
+  "Title": "Cool Vista-style menu",
+  "Description": "Vista-style menu to use in your .NET applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Vista-style menu to use in your .NET applications.<br /><br /><img src=\"/projects/CoolVistaMenu/46f959e3-67c8-48ed-ba79-972aaa9e042b\" alt=\"vistastylescreenshot.jpg\" title=\"vistastylescreenshot.jpg\" /><br /><br /><b>Features</b><br />\n<ul><li>Gradient sidebar <u> icon </u> caption</li>\n<li>Flat / 3D separators</li>\n<li>Rich menu items ( caption, description, icons )</li>\n<li>Background image</li>\n<li>Color themes at runtime</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Menu,",
+  "LastEdited": "2008-11-08T06:50:13.57-08:00"
+}

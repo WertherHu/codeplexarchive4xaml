@@ -1,0 +1,9 @@
+{
+  "ProjectName": "zombiehigh",
+  "Title": "Zombies Ate My High-School",
+  "Description": "Zombies Ate My High-School is a side-scrolling perspective 3D game where the player is pit against hordes of zombies.  The hero must save his girlfriend from being turned into one of the undead.  The game is written entirely in C# using the XNA framework.\n\nThe game features textured quads, particle systems, animated sprites, basic 3D collision detection and response, audio and 3D models.  The game is customizable to a degree with many parameters and settings read in from XML files (levels, animations).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Zombies Ate My High-School is a side-scrolling perspective 3D game where the player is pit against hordes of zombies.  The hero must save his girlfriend from being turned into one of the undead.  The game is written entirely in C&#35; using the XNA framework.<br /><br />The game features textured quads, particle systems, animated sprites, basic 3D collision detection and response, audio and 3D models.  The game is customizable to a degree with many parameters and settings read in from XML files &#40;levels, animations&#41;.<br /><br /><br />Zombie High is a 3D fast paced action game written entierly in XNA using C#.  It has features such as HLSL shaders, multi-threading, XML loading and Game pad support.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,XNA,HLSL,3D Physics,game sample,",
+  "LastEdited": "2007-08-09T19:37:12.407-07:00"
+}

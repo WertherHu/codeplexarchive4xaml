@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FSNCleaner",
+  "Title": "FSNCleaner",
+  "Description": "FSN Cleaner makes it easier to translate the game Fate/stay night.\r\n\r\nYou'll no longer have to handle the script or word-wrap yourself, nor to use some obscur command-line to repack the game files, this software will do everything for you, and if it doesn't, just ast and it will be soon :)\r\n\r\nIt's developed in C#/XAML/REGEX.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />FSN Cleaner makes it easier to translate the game Fate&#47;stay night.<br /><br />You&#39;ll no longer have to handle the script or word-wrap yourself, nor to use some obscur command-line to repack the game files, this software will do everything for you, and if it doesn&#39;t, just ast and it will be soon &#58;&#41;<br /><br />It&#39;s developed in C&#35;&#47;XAML&#47;REGEX.<br /><br /><br />Take a look at this <a href=\"http://www.baka-tsuki.org/project/index.php?title=Fate/stay_night:Translate_scripted_files\">page</a> for more information and How-to-do.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-12-06T17:11:52.6-08:00"
+}

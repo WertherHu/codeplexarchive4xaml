@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sdmsocketserver",
+  "Title": "Insteon SDM Socket Server",
+  "Description": "The Insteon SmartHome Device Manager (SDM) provides a bi-directional TCP network socket interface to the Insteon SmartHome Device Manager allowing client applications to listen for events and use simple text commands to control X10 and Insteon enabled household devices for home automation.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The Insteon SmartHome Device Manager &#40;SDM&#41; provides a bi-directional TCP network socket interface to the Insteon SmartHome Device Manager allowing client applications to listen for events and use simple text commands to control X10 and Insteon enabled household devices for home automation.<br /><br /><br /><br />Additional information on Insteon technologies is available <a href=\"http://www.insteon.net/\">here</a> along with information on how to purchase the developer kit hardware and SDK documentation.\n<h2>Requirements:</h2>\r<ul><li>Microsoft .NET 2.0 Runtime</li>\n<li><a href=\"http://www.smarthome.com/prodindex.asp?catid=871\">Insteon Computer Interface (PLC)</a></li>\n<li><a href=\"http://www.insteon.net/sdk/Files/dm/SetupSmarthomeDeviceManager3-308.exe\">SmartHome Device Manager</a></li></ul>\n<h2>Application Details:</h2>\r\nThe application installs itself as an NT service. When it is started it will invoke the SDM and listen on the default port 3443 <i>(this can be changed in the config file)</i> for connections.<br /><br />Each line sent from any of the TCP connections will be sent to the SDM, any responses from the SDM will be sent to all the TCP connections. If the SDM dies, the service will attempt to restart it.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sockets,Insteon,X10,Research,smart home,",
+  "LastEdited": "2007-01-05T14:20:50.623-08:00"
+}

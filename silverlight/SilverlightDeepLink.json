@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightDeepLink",
+  "Title": "Silverlight Deep Linking with error handling",
+  "Description": "This project demonstrates Silverlight Deep Linking with error handling.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project demonstrates Silverlight Deep Linking and provides two solutions for handling errors:<br /> <br /> 1. Using a custom error template page<br /> 2. Using an error popup (Child Window)<br /><br />For step by step guide for both options and to see the live demo go to <a href=\"http://www.silverlighttips.com/?tag=/deep+linking\">http://www.silverlighttips.com/?tag=/deep+linking</a>.<br /><br />If you experience any issues related to this project or have any question please the specific thread I created for this project on Silverlight Forums here: <a href=\"http://www.silverlightforums.com/showthread.php?p=1849#post1849\">http://www.silverlightforums.com/showthread.php?p=1849#post1849</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Deep linking,",
+  "LastEdited": "2009-12-03T16:24:12.047-08:00"
+}

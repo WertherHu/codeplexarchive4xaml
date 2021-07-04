@@ -1,0 +1,9 @@
+{
+  "ProjectName": "opencover",
+  "Title": "OpenCover",
+  "Description": "A code coverage tool for .NET 2 and above, support for 32 and 64 processes (including Silverlight) with both branch and sequence points.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA code coverage tool for .NET 2 and above, support for 32 and 64 processes (including Silverlight) with both branch and sequence points.<br>\r\n<br>\r\nThis is a mirror of the original github repository to allow codeplex users to contribute.<br>\r\n<br>\r\nThe latest downloads can be found here <a href=\"/wikipage?title=https%3a%2f%2fgithub.com%2fopencover%2fopencover%2freleases&referringTitle=Home\">\r\nhttps://github.com/opencover/opencover/releases</a> and is also available using <a href=\"http://www.nuget.org/packages/OpenCover\">\r\nnuget</a>.</p>\r\n<p>OpenCover also uses Atlassian Bamboo as a shared build server and you can review the\r\n<a href=\"https://opencover.atlassian.net/builds/browse/OPC-DEF/latest\">output</a>&nbsp;if you wish.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Code Coverage,Profiler,branch coverage,test coverage,",
+  "LastEdited": "2014-05-15T04:08:44.13-07:00"
+}

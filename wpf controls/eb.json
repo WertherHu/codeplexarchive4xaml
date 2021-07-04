@@ -1,0 +1,9 @@
+{
+  "ProjectName": "eb",
+  "Title": "Excel VSTO SQL Server Browser",
+  "Description": "Get Data from SQL Server and put it in Excel directly. The objective is to get more control about what do you need to pull and create automatic processes to the end-user's.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Get Data from SQL Server and put it in Excel directly. The objective is to get more control about what do you need to pull and create automatic processes to the end-user&#39;s.<br /> <br />Sometimes is necessary use Excel automation in order to grab information from SQL Server and put it in Excel directly. The objective is to get more control about what do you need to pull and create a automatic processes to the end-user. <br /><br />I am using a Document-Level Add-in based in the Visual Studio 2008 and was tested grabbing Data from SQL Server 2008. Was tested with large amount of data, that’s because was inserted a ProgressBar Control. <br /><br />You must write or paste your Connection String to the TextBox. A example of one accepted “Data Source=myServerAddress;Initial Catalog=myDataBase;Integrated Security=SSPI;” then you must write your SQL in the RichTextBox.<br /> <br /><img src=\"http://qra4rq.bay.livefilestore.com/y1pnyPYigZ1XzhOMBoinDBDUTupOaE75842mpDLQWh981eKWa8aPEEHAAMw3bUdfAgAiaonocyYl9xsD9nLn52zI-8zO3ji6_z0/Run.png\" alt=\"Sample\" title=\"Sample\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-18T17:54:27.763-07:00"
+}

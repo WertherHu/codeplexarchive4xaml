@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vsix",
+  "Title": "Multi-Project Templates with Wizard: Visual Studio 2010 Sample",
+  "Description": "This project shows you simple example of creating multi-project templates with wizard using Visual Studio 2010, which generates VSIX file. A VSIX file enables us to install Visual Studio extensions (tools, controls, template etc) with a single click.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project shows you simple example of creating multi-project templates with wizard using Visual Studio 2010, which generates VSIX file. A VSIX file enables us to install Visual Studio extensions &#40;tools, controls, template etc&#41; with a single click.<br /><br /><img src=\"http://weblogs.asp.net/blogs/ashraful/Capture_thumb_0828B027.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "VSIX,Visual Studio 2010,Visual Studio,Samples,C#,Template,extensions,Deployment,Deployment_wizard,Wizard,Open Source,best practices,architecture,template engine,",
+  "LastEdited": "2011-01-18T14:21:10.95-08:00"
+}

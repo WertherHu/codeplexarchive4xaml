@@ -1,0 +1,9 @@
+{
+  "ProjectName": "googleoffice",
+  "Title": "Google Office",
+  "Description": "Software written in C# equivalent to all the Google apps. The first version will include \r\n\r\nGoogle Office makes it easier for everyone to access all the Google apps via a windows metro GUI.\r\nYou'll no longer have to log to your favourite browser to do it. \r\nIt's developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Google Office</b>\n<ul><li>It&#39;s makes it easier for everyone to access all the Google apps via a windows metro GUI.\n<ul><li>You&#39;ll no longer have to log to your favourite browser to do it. \n<ul><li>It&#39;s have a nice windows 8 metro look.\n<ul><li>It&#39;s developed in C#.</li></ul></li></ul></li></ul></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-20T14:56:57.61-08:00"
+}

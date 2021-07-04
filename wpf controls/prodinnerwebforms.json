@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prodinnerwebforms",
+  "Title": "ProDinner ASP.net Awesome WebForms Sample Application",
+  "Description": "prodinner sample application for ASP.net Awesome jQuery Ajax Controls",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h4>this application is a sample for the ASP.net Awesome jQuery Ajax Controls <a href=\"http://www.aspnetawesome.com\">www.aspnetawesome.com</a></h4>\r\n<h1>Live Link: <a href=\"http://prodinnerwf.aspnetawesome.com\">http://prodinnerwf.aspnetawesome.com</a></h1>\r<h3>Code Walkthrough: <a href=\"http://prodinnerwebforms.codeplex.com/releases/view/78290#DownloadId=312281\">Download Pdf</a></h3>\r\n<h3>VS2010 Solution:  <a href=\"http://prodinnerwebforms.codeplex.com/releases/view/78290#DownloadId=310708\">Download</a></h3>\r\n<h5>has about 450 lines of code (C#) and 400 lines of markup (aspx) !</h5>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,ASP.NET Ajax,ASP.NET Control,jQuery,jQuery UI,",
+  "LastEdited": "2012-01-30T11:40:47.337-08:00"
+}

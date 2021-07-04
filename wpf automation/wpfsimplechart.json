@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfsimplechart",
+  "Title": "WpfSimpleChart",
+  "Description": "Small Chart component for WPF\n\nWpfSimpleChart is a WPF Control Library which can be used to visualize data in diagrams.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Small Chart component for WPF<br /><br />WpfSimpleChart is a WPF Control Library which can be used to visualize data in diagrams.<br /><br /><b>Features</b>\n<ul><li>Barchart</li>\n<li>Piechart</li>\n<li>Stackedchart</li></ul>\n<br /><b>Preview</b><br /><img src=\"http://blog.larshildebrandt.de/wp-content/uploads/2008/09/20080908_wpfsimplechart_bar.jpg\" /><br /><img src=\"http://blog.larshildebrandt.de/wp-content/uploads/2008/09/20080908_wpfsimplechart_pie.jpg\" /><br /><img src=\"http://blog.larshildebrandt.de/wp-content/uploads/2008/09/20080908_wpfsimplechart_stacked.jpg\" /><br /><br /><b>Resources</b>\n<ul><li><a href=\"http://www.larshildebrandt.de\">http://www.larshildebrandt.de</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-09-08T11:31:35.727-07:00"
+}

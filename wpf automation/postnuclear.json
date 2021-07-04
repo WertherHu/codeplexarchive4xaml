@@ -1,0 +1,9 @@
+{
+  "ProjectName": "postnuclear",
+  "Title": "Postnuclear",
+  "Description": "Postnuclear toolkit is a set of reusable features which simplify development of .Net applications:\r\n- in code bindings between properties and expressions\r\n- easy tracking of any change in large structure\r\n\r\nIt's developed in C# and can be run on .Net 4.0, Silverlight 4.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=postnuclear&DownloadId=288217\" alt=\"\" width=\"75\" height=\"75\" align=\"right\"></p>\r\n<h3><img src=\"http://www.codeplex.com/Download?ProjectName=postnuclear&DownloadId=288219\" alt=\"\" width=\"16\" height=\"16\"> Project Description</h3>\r\n<p>Postnuclear toolkit is a set of reusable features which simplify development of .Net applications.</p>\r\n<p>Set of features to help you in the process of development:</p>\r\n<p>- small basic classes and helpers</p>\r\n<p>- strongly typed (type safe) weak referencing and weak event handling</p>\r\n<p>- automatic tracking of changes in difficult structures and calculation expressions</p>\r\n<p>- observable collection which allows you to get chained observable subsets</p>\r\n<p>- and more in plans :)</p>\r\n<p>Сheck <a title=\"documentation\" href=\"http://postnuclear.codeplex.com/documentation\">\r\ndocumentation</a> pages to get main features overview, usage samples and implementation details.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Expression,Data Binding,Binding,expression trees,C# Library,.NET 4.0,silverlight 4,Dependency tracking,C# 4,c# toolkit,C# tool,Dependency Tree,Expression Binding,Automation,Observable,ObservableCollection,Observability,in code binding,Toolkit,Library,Observer,",
+  "LastEdited": "2011-10-04T03:12:55.47-07:00"
+}

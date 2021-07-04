@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dungeondive",
+  "Title": "Dungeon Dive",
+  "Description": "Dungeon Dive is a 3d dungeon crawl that utilizes Python scripting (via IronPython) to handle level generation and monster behaviour, making it possible for users to easily modify these aspects of the game.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Dungeon Dive is a 3d dungeon crawl that utilizes Python scripting &#40;via IronPython&#41; to handle level generation and monster behaviour, making it possible for users to easily modify these aspects of the game.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-23T02:38:26.657-08:00"
+}

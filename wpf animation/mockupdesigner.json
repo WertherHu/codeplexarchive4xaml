@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mockupdesigner",
+  "Title": "MockupDesigner",
+  "Description": "MockupDesigner is a .Net alternative to create your own application mockups.\nThis is a very simple tool to create mockups efficiently and fast.\nIt's developed in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MockupDesigner is a .Net alternative to create your own application mockups.<br />This is a very simple tool to create mockups efficiently and fast.<br />It&#39;s developed in WPF.<br /><br /><b>Instructions</b><br />Just run the Setup or the Clic Once and enjoy !<br /><br /><b>Capture</b><br /><br /><img src=\"/projects/mockupdesigner/b887e019-79b9-45ac-8a5f-c3ab77c8b71a\" alt=\"capture_mockup.png\" title=\"capture_mockup.png\" /><br /><br /><b>Features</b><br />- Undo / Redo<br />- Controls Alignment <br />- Grouping Controls<br />- Create your own Toolboxes with the controls that you had grouped and/or customized<br />- Work with several documents, and copy/paste elements from one to an other<br />- Save your documents, export them as image or print them<br />-  Adding metadata (description, rules, etc...)  to the components and export them into a CSV file.<br />Example :<br />You have a button and a textbox.<br />You add the following Metadatas:<br />For the button:<br />- ID: MyButton1<br />- Description: My button description<br />For the textobx:<br />- ID: MyTextBox1<br />- Max Length: 150<br /><br />The CSV exported will be:<br />ID;Description;Max Length<br />MyButton1;My button description;<br />MyTextbox1;;150<br /><br /><br /><b>Coming soon</b><br />- I&#39;m currently thinking about developing an addIn for Visual Studio.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Mockup,interface,prototyping,prototype,Designer,Design,",
+  "LastEdited": "2011-02-18T08:18:36.67-08:00"
+}

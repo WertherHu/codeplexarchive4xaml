@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ThemeKit",
+  "Title": "ThemeKit",
+  "Description": "A library of windows forms controls enabling the quick and easy creation of themed user interfaces.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/ThemeKit/ebdc26d5-7a1b-4757-8f9d-6014d9adb6f0\" alt=\"28-10-2006.png\" title=\"28-10-2006.png\" /><br /><br /><b><i>What is ThemeKit?</i></b><br /><br />ThemeKit is a library of Windows Forms controls which enable the easy creation of themed user interfaces.<br /><br /><b><i>How does ThemeKit work?</i></b><br /><br />ThemeKit provides alternative controls that developers can use instead of the standard controls. In most cases, these share the name of their equivalent standard control prefixed with &quot;Theme&quot; (eg. ThemeButton, ThemeCheckBox etc). To enable theming of the form, the form must be modified to inherit from ThemeForm instead of Form. This is a simple one line change in the code that the form designer generates. ThemeKit provides themes on a per-form basis, so an application can have a mixture of different themes for different forms, or even a mixture of themed and unthemed forms.<br /><br /><b><i>How are themes defined?</i></b><br /><br />Themes are defined using XML which defines one or more styles for each ThemeKit control. Each style contains a collection of brushes and settings. Brushes are used to render the controls, and settings are usually used to define behaviour. To enable the use of images and other files, themes are actually zip files which contain the theme.xml file defining the theme in addition to any images required.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "winforms,themes,.NET 2.0,Windows Forms,Windows Form,Theme,ThemeKit,",
+  "LastEdited": "2006-10-28T08:54:47.787-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfsendkeys",
+  "Title": "WPF SendKeys",
+  "Description": "Provides SendKeys support for WPF UIElements (for in-process UI testing)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides SendKeys support for WPF UIElements &#40;for in-process UI testing&#41;<br /><br />Warning: this library will be of little use for most people, and it is NOT a replacement for the WinForms SendKeys functionality. <br />Read more at: <a href=\"http://blogs.msdn.com/b/kirillosenkov/archive/2010/07/09/wpf-sendkeys-or-mocking-the-keyboard-in-wpf.aspx\">http://blogs.msdn.com/b/kirillosenkov/archive/2010/07/09/wpf-sendkeys-or-mocking-the-keyboard-in-wpf.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-09T17:56:56.543-07:00"
+}

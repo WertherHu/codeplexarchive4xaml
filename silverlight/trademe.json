@@ -1,0 +1,9 @@
+{
+  "ProjectName": "trademe",
+  "Title": "TradeMe.Net Toolkit",
+  "Description": "This toolkit helps .Net developers write software that can access the TradeMe API.\nThe toolkit will work with .Net 3.5, .Net 4, Silverlight and Windows Phone 7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This toolkit helps .Net developers write software that can access the TradeMe API.<br />The toolkit will work with .Net 3.5, .Net 4, Silverlight and Windows Phone 7.<br /><br /><b>This SDK is written independently and is not associated with TradeMe</b><br /><br /><a href=\"http://www.trademe.co.nz\">http://www.trademe.co.nz</a> has recently released their much anticipated API.  This can be accessed via <a href=\"http://developer.trademe.co.nz\">http://developer.trademe.co.nz</a>.  This toolkit has been written to access these API&#39;s from C# in an easy manor.<br /><br />The initial focus will be on Windows Phone 7.  Once this is working, I will then move onto Silverlight and the .Net framework.<br /><br />This SDK is written independently and is not associated with TradeMe.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-08T22:31:00.62-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DevmilMVVM",
+  "Title": "Devmil MVVM",
+  "Description": "A toolset for MVVM development with focus on INotifyPropertyChanged and dependencies",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Devmil MVVM</h1>\rA toolset for MVVM development with focus on INotifyPropertyChanged and dependencies<br /><br /><br />Devmil MVVM is a project that hosts utilities for developing using the MVVM pattern.<br /><br />Currently the project constists of two parts:\n<ul><li><b>Safe property name passing for INotifyPropertyChanged handling</b></li></ul>\nLambda expressions are used to pass the changed property to get compiler checking and rename support.\n<ul><li><b>Dependency tracking of INotifyPropertyChanged properties</b></li></ul>\nProperties that use other properties to calculate their result get automatically notified if the calculation source changes its value. No need to track these dependencies manually.<br /><br /><b>Supported technologies</b>\n<ol><li>WPF</li>\n<li>Silverlight</li>\n<li>Silverlight for Windows Phone</li></ol>\n<br /><b>Contribution</b><br />Feel free to contribute! Any contributors are welcome.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-30T13:21:31.043-07:00"
+}

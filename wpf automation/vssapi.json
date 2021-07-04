@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vssapi",
+  "Title": "Visual Source Safe management API",
+  "Description": "Visual Source Safe management API is a library written in C# which exposes automation interface used by Microsoft® Visual SourceSafe™.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Visual Source Safe management API is a .Net library for accessing automation interface exposed by Microsoft Visual Source Safe.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,SourceSafe,Visual SourceSafe,Library,",
+  "LastEdited": "2010-10-15T15:29:19.233-07:00"
+}

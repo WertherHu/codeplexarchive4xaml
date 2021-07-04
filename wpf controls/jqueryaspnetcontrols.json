@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jqueryaspnetcontrols",
+  "Title": "jQuery Asp.net Controls by David Taylor",
+  "Description": "This is a set of web controls utilising the jQuery and jQuery dependent javascript libraries. The aim is to create a set of reusable customisable controls which use unobtrusive javascript.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a set of web controls utilising the jQuery and jQuery dependent javascript libraries. The aim is to create a set of reusable customisable controls which use unobtrusive javascript.<br /><br />As I have benefited so many times from other people’s code I feel the need to give something back so this is my chance to give back something to the open-souce community. I have started a project to put together some Asp.net controls which utilise the jQuery and jQuery dependent javascript libraries.<br /><br />Initially here is the jQuery Star Rating Asp.Net web control. It comes in three sections: the vb.net webcontrol, the css and the javascript. Credit and thanks to Ritesh Agrawal (<a href=\"http://php.scripts.psu.edu/rja171/widgets/rating.php\">http://php.scripts.psu.edu/rja171/widgets/rating.php</a>) and the guy from PHP Letter (<a href=\"http://www.phpletter.com/Demo/Jquery-Star-Rating-Plugin/\">http://www.phpletter.com/Demo/Jquery-Star-Rating-Plugin/</a>) for the jQuery and css code. I have made small modifications to the jQuery code to grab the currently selected rating from the selected radio button.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "jquery,asp.net,",
+  "LastEdited": "2007-11-28T02:22:33.367-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfPricingUnit",
+  "Title": "WPF Pricing unit",
+  "Description": "await async wpf Entity framework 6",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Parent Child WPF Project</b><br /><br /><br /><br /><br />Enitity framework Code First and WPF allows quick develoment of complex user requirements.<br />The .NET 4.5 wait and async keywords allow for a better user experience.<br />Using a horizontal multiselect list box instead of a tab control to host child objects allows the users to view one , none or all &#39;tabs&#39;.<br /><br />this uses the parent child relationships that <br />An instrument has many price series. A price series has many Prices, many Dividends and a collection of Statistics.<br /><br />There are four requirements before you publish:<br /><br />- Edit this page to provide information about your project<br />- Upload the initial source code for your project<br />- Add your project license<br />- Add summary to your project<br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-18T07:08:23.767-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AjaxControlToolkitEx",
+  "Title": "AjaxControlToolKitEx",
+  "Description": "To provide custome extender base on AjaxControlToolKit",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><ul><li>Custom extender base on AjaxControlToolkit*</li></ul>\n<br />Everything is studied, copied(reused, sound better :-) ) or modified from AjaxControlToolkit.<br />This poorly written project is only tested in IE7.<br /><br /><br />This project currently contain only 3 prototyped extenders.<br />\n<ol><li>DropDownPanelExtender</li>\n<li>PopupPanelExtender (Now allow drag)</li>\n<li>TopMostPanelExtender (As an aid to AlwaysVisibleExtender from AjaxControlToolkit. To ensure it would covered by any popup panel)</li></ol>\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-04-01T05:56:46.307-07:00"
+}

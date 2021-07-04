@@ -1,0 +1,9 @@
+{
+  "ProjectName": "boostrapstyletoggle",
+  "Title": "Bootstrap Styled Toggle Button & callbacks",
+  "Description": "When creating a toggle button, the checked & unchecked state are not allowed to change styles, also it doesn't support callbacks such as onclicked, onchecked & ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">When creating a toggle button, the checked &amp; unchecked state are not allowed to change styles, also it doesn&#39;t support callbacks such as onclicked, onchecked &amp; onunchecked. This extension makes it available by setting the options.<br /><br />For more information please view my blog: <br />http://mvcdiary.com/projects/home/bootstrap/styled-toggle-button</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-25T21:52:14.25-08:00"
+}

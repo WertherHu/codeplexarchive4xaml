@@ -1,0 +1,9 @@
+{
+  "ProjectName": "exchanger",
+  "Title": "Exchange Stats & Automation",
+  "Description": "Project aim to automatize capacity planning and statistics for cloud infrastructure.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project aim to build real time statistics of exchange 2007 - 2010 - 2013 to manage infrastructure cost and provisioning for cloud.<br /><br />The project use Powershell for Management and will have the less depency possible to prevent additional componnent installation.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-07-03T05:52:56.343-07:00"
+}

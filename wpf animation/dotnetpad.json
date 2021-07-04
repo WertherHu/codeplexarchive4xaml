@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dotnetpad",
+  "Title": "Waf DotNetPad",
+  "Description": "The Waf DotNetPad is a simple and fast code editor that makes fun to program with C# or Visual Basic.",
+  "MovedLink": "http://jbe2277.github.io/dotnetpad",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Moved to GitHub</h1>\r<h2>This project has moved to <a href=\"http://jbe2277.github.io/dotnetpad\">jbe2277.github.io/dotnetpad</a></h2>\r\n<hr />\n\n<h2>Project Description</h2>\rThe Waf DotNetPad is a simple and fast code editor that makes fun to program with C&#35; or Visual Basic.<br /><br /><img src=\"/projects/dotnetpad/14de0499-9106-4a05-9fc5-afee1fa8e3a1\" alt=\"Waf&#32;DotNetPad\" title=\"Waf&#32;DotNetPad\" /><br /><br />\n<h2>Features</h2>\r<ul><li>Code editor for C# 6 and Visual Basic 14.</li>\n<li>Supports auto completion during programming.</li>\n<li>Background compilation for immediate feedback in the Error List.</li>\n<li>Try out code with console Output window.</li></ul>\n<br />\n<h2>Code Samples</h2>\r\nThe application comes with code samples that shows new language features of C# 6 and Visual Basic 14.\n<ul><li>Null-conditional operator </li>\n<li>nameof operator </li>\n<li>Auto-property initializers &amp; getter-only auto-properties</li>\n<li>String interpolation.</li></ul>\n<br />\n<h2>Used Components</h2>\r\nThe application utilizes the great components:\n<ul><li><a href=\"http://roslyn.codeplex.com\">Microsoft.CodeAnalysis</a> (Roslyn)</li>\n<li><a href=\"http://www.avalonedit.net\">AvalonEdit</a></li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "roslyn,avalonedit,waf,wpf,mvvm,CodeAnalysis,",
+  "LastEdited": "2016-01-01T08:37:53.107-08:00"
+}

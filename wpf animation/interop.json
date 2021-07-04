@@ -1,0 +1,9 @@
+{
+  "ProjectName": "interop",
+  "Title": "Interop",
+  "Description": "Interop is a .NET wrapper for Windows API.\r\n\r\nIt includes custom Window Chrome for WPF Window.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Interop</b> is a .NET wrapper for Windows API.<br /><br />It includes custom Window Chrome for WPF Window.<br /><br />Help us!<br />We need to resolve resolve <a href=\"http://goo.gl/lqSFdM\">this</a> bug.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-02T16:01:57.43-08:00"
+}

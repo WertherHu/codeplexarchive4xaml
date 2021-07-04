@@ -1,0 +1,9 @@
+{
+  "ProjectName": "startworkflows",
+  "Title": "Custom SharePoint Workflow Starting Event Handlers",
+  "Description": "Allow more control over when and how workflows are started.  Allows anonymous users to start workflows.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Allow more control over when and how workflows are started.  Allows anonymous users to start workflows.<br /><br />First release is availible along with installation instructions.  The event receiver starts workflows anonymously using a fairly long list of events.   There is a web part included for adding/removing receviers.<br /><br />Possible features for future releases:<br /><br />Ability to only have users in a certain group or with a certain role assignment start workflows.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,.NET,ASP.NET,C#,workflow,MOSS,SharePoint Developme,WF,Windows Workflow,Windows Workflow Fou,Anonymous,SharePoint 2007,Sharepoint Tools,",
+  "LastEdited": "2007-10-17T19:18:30.94-07:00"
+}

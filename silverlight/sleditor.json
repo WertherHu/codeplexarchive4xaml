@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sleditor",
+  "Title": "Rich Text Editor For Silverlight",
+  "Description": "Rich Text Editor For Silverlight\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Rich Text Editor For Silverlight<br /><br />my blog: <a href=\"http://www.sl8.so\">http://www.sl8.so</a><br />如果需要源码,请在Source Code 标签下载最新版本。<br />app shotcap:<br /><img src=\"/projects/sleditor/123ec41d-43a4-400d-85b8-db8723c254a8\" alt=\"r_sleditor_dome1.png\" title=\"r_sleditor_dome1.png\" /><br /><br />demo:<br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:500px;width:600px;\"><param name=\"source\" value=\"http://files.cnblogs.com/HunterWei/SlEditorTest.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Editor,Silverlight,Rich Text Editor,RichTextBox,document,",
+  "LastEdited": "2013-04-14T06:55:26.057-07:00"
+}

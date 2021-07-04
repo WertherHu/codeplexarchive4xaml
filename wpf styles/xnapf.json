@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xnapf",
+  "Title": "XNAPF, du XNA dans du WPF",
+  "Description": "This project aims to create a control for integrating easily an XNA rendering  in a WPF picture.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project aims to create a control for integrating easily an XNA rendering  in a WPF picture.<br /><br /><br /><br />How to use :<br /><br />Create a classe inherites of XnaImage. The value of the template must be your Game classe.<br /><br />and now just use your new classe as an Image Wpf<br /><br />To get more information go to =&gt; <a href=\"http://www.notour.fr/?p=15\">http://www.notour.fr/?p=15</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,WPF,",
+  "LastEdited": "2010-11-23T10:59:18.61-08:00"
+}

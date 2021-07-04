@@ -1,0 +1,9 @@
+{
+  "ProjectName": "squadron",
+  "Title": "The Squadron of 2120",
+  "Description": "A multiplayer flight-based action game, developed using Microsoft's XNA. Situated in the year 2120, you control one of several steampunk-influenced fighter aircraft, trying to blow your opponents out of the sky using anything from machineguns to lasers to baby nukes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A multiplayer flight-based action game, developed using Microsoft&#39;s XNA. Situated in the year 2120, you control one of several steampunk-influenced fighter aircraft, trying to blow your opponents out of the sky using anything from machineguns to lasers to baby nukes.<br /><br /><b>Game Design Document</b><br />This will lead you to the <a href=\"https://squadron.codeplex.com/wikipage?title=GDD&referringTitle=Home\">GDD</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,game,squadron,",
+  "LastEdited": "2008-03-08T07:19:36.8-08:00"
+}

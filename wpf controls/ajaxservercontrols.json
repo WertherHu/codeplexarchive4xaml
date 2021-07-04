@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ajaxservercontrols",
+  "Title": "Ajax Server Controls",
+  "Description": "Building the equivalent serverside controls in AJAX, based on the Microsoft AJAX Library. \n\nfeatured controls are:\nlistview control\ndatapager control\ndropdownlist control\nobjectdatasource control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Ajax Server Controls is a project to rewrite all &#39;normal&#39; server controls to pure AJAX client controls wrapped in server controls.<br /><br />Web development remains the same, the same controls everybody is used to, except they render pure AJAX controls.<br /><br />Controls in version 1.0 are the listview, datapager, objectdatasource and the dropdownlist controls<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "AJAX,JohnGorter,Ajax Controls,ASP.NET Ajax,ASP.NET 3.5,",
+  "LastEdited": "2009-10-14T04:47:19.26-07:00"
+}

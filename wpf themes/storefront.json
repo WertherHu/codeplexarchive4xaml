@@ -1,0 +1,9 @@
+{
+  "ProjectName": "storefront",
+  "Title": "MyStoreFront",
+  "Description": "MyStoreFront is a storefront designed to creat product pages from an xml file. It intergrates with the Mals-e shopping cart. Plans for future features include a full shopping cart, the ability to intergrate with other shopping carts, addons, themes/skins, and inventory management/accounting.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MyStoreFront is a storefront designed to creat product pages from an xml file. It intergrates with the Mals-e shopping cart. Plans for future features include a full shopping cart, the ability to intergrate with other shopping carts, addons, themes&#47;skins, and inventory management&#47;accounting.<br /><br />Download the current release - <a href=\"https://storefront.codeplex.com/releases/view/2768\">0.2 Alpha</a> <br /><br /><b>Links</b>\n<ul><li><a href=\"https://storefront.codeplex.com/documentation?referringTitle=Home\">Documentation</a>\n<ul><li><a href=\"https://storefront.codeplex.com/wikipage?title=Requirements&referringTitle=Home\">Requirements</a></li>\n<li><a href=\"https://storefront.codeplex.com/wikipage?title=How%20To%20Install&referringTitle=Home\">How To Install</a></li></ul></li>\n<li><a href=\"https://storefront.codeplex.com/wikipage?title=Resources&referringTitle=Home\">Resources</a>\n<ul><li><a href=\"http://www.vwdhosting.net/\">30 day free Hosting</a></li>\n<li><a href=\"http://mystorefront-7.at.vwdhosting.net/\">see a sample</a></li></ul></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,C#,ASP.NET 2.0,shopping cart,store front,MyStoreFront,",
+  "LastEdited": "2007-04-07T09:18:30.77-07:00"
+}

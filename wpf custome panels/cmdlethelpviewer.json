@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cmdlethelpviewer",
+  "Title": "Windows PowerShell Cmdlet Help Viewer",
+  "Description": "Cmdlet Help Viewer is a WPF based client to view help about PowerShell cmdlets. It parses the XML help file and displays the contents of the help file in a user friendly way.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Windows PowerShell CmdletHelpViewer</b><br />Cmdlet Help Viewer is a WPF based client to view help about PowerShell cmdlets. It parses the XML help file and displays the contents of the help file in a user friendly way.<br /><br /><img src=\"/projects/cmdlethelpviewer/ca4afc8c-a85b-4ff4-ab67-fdb13640b115\" alt=\"cmdlethelpviewerscreenshot.png\" title=\"cmdlethelpviewerscreenshot.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-01T05:57:44.063-07:00"
+}

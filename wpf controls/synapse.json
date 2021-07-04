@@ -1,0 +1,9 @@
+{
+  "ProjectName": "synapse",
+  "Title": "Synapse - Micro Framework for: IoCC, DI, AoP, Messages, Pipe and Filter Pattern",
+  "Description": "Micro Framework for: Inversion of Control Container, Dependency Injection, Aspect Oriented Programming, Messages Pattern, Pipe and Filter Pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>Micro Framework .NET (C#) for:</p>\r\n<ul>\r\n<li>messages pattern; </li><li>pipe and filter pattern; </li><li>inversion of control container; </li><li>dependency injection; </li><li>aspect oriented programming; </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-10T02:42:54.483-07:00"
+}

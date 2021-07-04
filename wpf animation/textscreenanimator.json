@@ -1,0 +1,9 @@
+{
+  "ProjectName": "textscreenanimator",
+  "Title": "TextScreen Animator",
+  "Description": "This is a component written in C# for .NET developers to have an animated text, like at the end of the movies when the cast and crew are written on the screen. \n\nThis is GDI+ based component.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a component written in C&#35; for .NET developers to have an animated text, like at the end of the movies when the cast and crew are written on the screen. <br /><br />This is GDI&#43; based component.<br /><br /><img src=\"/projects/textscreenanimator/688c7f5c-1855-44a1-951a-8c190ddcee45\" alt=\"example.jpg\" title=\"example.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,gdi+,Animation,Components,C#,About Form,",
+  "LastEdited": "2009-01-09T08:15:54.88-08:00"
+}

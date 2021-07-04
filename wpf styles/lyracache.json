@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lyracache",
+  "Title": "LyraCache.Net",
+  "Description": "A Distribution Memory Cache System\r\n1.Value filter query like DataTable.Select\r\n2.Extension query (custom function)\r\n3.Simple Transaction Supported\r\n4.POCO style",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><strong></strong><span style=\"font-size:10pt\">LyraCache.Net is a </span><span style=\"color:#0000ff\">Distribution Memory Cache System Hosting by WCF Service</span></p>\r\n<p>You may ask : &quot;now had Memcached and System.Runtime.Caching, why need it?&quot;<br>\r\n<br>\r\nIt had new features may help you :</p>\r\n<p>1.support value filter query base on DataTable.Select</p>\r\n<p>2.support extension query (custom function)</p>\r\n<p>3.simple Transaction Supported for query (query lock)</p>\r\n<p>4.POCO stye</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-06T17:50:40.093-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinecttiltcontrol",
+  "Title": "Kinect Tilt Control",
+  "Description": "Kinect Tilt Control is a simple application to tilt (i.e. move up and down, or rotate vertically) your Kinect v1 sensor.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Kinect Tilt Control is a simple application to tilt (i.e. move up and down, or rotate vertically) your Kinect v1 sensor.<br />It will only work with the Kinect v1 sensor, and only with the first Kinect in the system.<br /><br />Kinect Tilt Control runs on the .NET Framework 4 Client Profile.<br /><br />The application resides in the system tray, and can be configured to set a specified tilt on application startup and shutdown.<br /><br /><img src=\"/projects/kinecttiltcontrol/bef84362-3cfa-4366-9e50-d159df2ec62f\" alt=\"screenshot1.jpg\" title=\"screenshot1.jpg\" />       <img src=\"/projects/kinecttiltcontrol/bea390e6-cd2f-49a7-a4b1-5c9b884b4fda\" alt=\"screenshot2.jpg\" title=\"screenshot2.jpg\" /><br /><img src=\"/projects/kinecttiltcontrol/6d0c69c4-e271-4d73-a1e9-aa341013b261\" alt=\"screenshot3.jpg\" title=\"screenshot3.jpg\" /><br /><br />P.S. <i>KinectTiltControl.exe</i> is <a href=\"https://www.virustotal.com/en/file/ebdff60868f6e5ced708f3d19a2a13d0d54a4f93985467aa7b93a44b31d74aa4/analysis/1485101985/\">recognized</a> as <b>HEUR/QVM03.0.0000.Malware.Gen</b> by the 360 Total Security antivirus. This is a false positive determined by their heuristics (I already submitted a false positive report on their website).<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-01-22T08:48:32.41-08:00"
+}

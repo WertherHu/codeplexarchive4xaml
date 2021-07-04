@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpflikewinrt",
+  "Title": "Wpf Like WinRT",
+  "Description": "A simply and fast Mvvm Library for Wpf with Navigation and UI like WinRT.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Wpf Like WinRT</h2>\rA Library for WPF with Navigation, UI Composition and helpers for Mvvm Pattern. <br /><br />Download from CodePlex or install using  <a href=\"https://www.nuget.org/packages/WpfLikeWinRT/1.0.0\">NuGet</a><br /><br /><img src=\"http://romagny13.wordpress-hebergement.fr//wp-content/uploads/sites/3413/2014/08/winrtlikenuget.png\" /><br />\n<h2>Navigation</h2>\r<ul><li><b>View To View</b></li>\n<li><b>View To ViewModel</b></li>\n<li><b>ViewModel To ViewModel</b></li></ul>\nAnd <b>UI composition</b> with <b>regions</b> and history.<br />\n<h2>Mvvm</h2>\r<ul><li><b>Messenger</b> : with token, callback, etc.</li>\n<li><b>Commands</b> and <b>composite command</b>.</li>\n<li><b>ServiceLocator</b> : Easy IoC container. Implementing <b>IServiceLocator (Microsoft.Practices.ServiceLocation)</b> .</li>\n<li><b>ViewModelBase</b> : the base class for ViewModels. Implementing navigation.</li>\n<li><b>Observables</b> (notification, cancellation and validation)</li>\n<li>Etc.</li></ul>\n<br />You can use this <b>namespace</b> in your projects :<br /><pre>xmlns:wlw=http://www.codeplex.com/wpflikewinrt</pre><br /><br /><img src=\"http://romagny13.wordpress-hebergement.fr//wp-content/uploads/sites/3413/2014/08/wpflikewinrt1.png\" /><br /><br /><br /><a href=\"http://romagny13.wordpress-hebergement.fr/\">Blog</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-05T00:33:15.67-07:00"
+}

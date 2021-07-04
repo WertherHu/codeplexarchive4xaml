@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XmlDataValidator",
+  "Title": "MyWGP XmlDataValidator",
+  "Description": "This is designed and developed (in Silverlight 2, C#) to validate the requirements of data in xml files: the type & size of data, and the requirement status.  It allows a user to choose the type of data, enter min & max size, and check the requirement status for data elements.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is designed and developed &#40;in Silverlight 2, C&#35;&#41; to validate the requirements of data in xml files&#58; the type &#38; size of data, and the requirement status.  It allows a user to choose the type of data, enter min &#38; max size, and check the requirement status for data elements.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 2.0,C#,C# 3.5,LINQ,Xml,.NET 3.5,C# 3.0,",
+  "LastEdited": "2009-03-12T10:45:25.17-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spsettingpagesfilter",
+  "Title": "Filter for SharePoint Web Settings Page",
+  "Description": "This solution show a simple way to integrate a filter box by using jquery, a global farm feature and a simple delegate control for AdditionalPageHead.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This solution show a simple way to integrate a filter box by using jquery, a global farm feature and a simple delegate control for AdditionalPageHead.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-09T10:23:20.997-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "starrating",
+  "Title": "StarRating",
+  "Description": "ASP.NET Rating Control - Star Style",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>ASP.NET Star Rating Control</h1>\r\n<b>Sample usage:</b><br /><a href=\"http://starrating.codeplex.com/documentation\">Documentation Tab</a><br />\n<ul><li>Themes:\n<ul><li>Default</li>\n<li>Crystal</li></ul></li></ul>\n\n<h4>Crystal</h4>\r<img src=\"http://public.bay.livefilestore.com/y1pG2QtVBjcXuDfqPet7pQ5INF_cxenoejZtbV3GjN2iXoN7bhNfv0h-GOYC_TLIEyXr-WRXrSlXeolC5lNiG7E5w/StarRating_Crystal_2.jpg\" /><br /><img src=\"http://public.bay.livefilestore.com/y1pG2QtVBjcXuB3aw3rs21bZPiDMHj2HUpuYIa872QajIaCYJKVac9BuoClxJCgPY-5yjeQpI7YpiMHB5jlyxUCQA/StarRating_Crystal_1.jpg\" /><br />\n<h4>Default</h4>\r<img src=\"http://public.bay.livefilestore.com/y1pmqP8dCnx63RcqxDTQuoBElQY9C2Z_WIiNjlmuaLd_L2eI-jWxDhMEA3qZ-_tkrg4VHfeouwnfmt1Wx5NQysAyA/StarRating_Default_2.jpg\" /><br /><img src=\"http://public.bay.livefilestore.com/y1pmqP8dCnx63SLhR3q_gzmfT9sa1HKmm679kzOqnQW_aeQfCsb57aKNPVkAN6SIuTjDUs2ta_9odInrS-Pwz4Eiw/StarRating_Default_1.jpg\" /><br />\n<h3>Points of Interest</h3>\r\nThis control use three javascript frameworks\n<ul><li><a href=\"http://jquery.com\">jQuery</a></li>\n<li><a href=\"http://jqueryui.com/\">jQuery.UI</a></li>\n<li><a href=\"http://orkans-tmp.22web.net/star_rating/\">Star Rating Widget</a></li></ul>\n<br /><b>Author:</b> Auguimar J&#250;nior / Bruno Kenj<br /><b>Email:</b> <a href=\"http://ajuniorf18@yahoo.com.br\">ajuniorf18@yahoo.com.br</a> / <a href=\"http://contato@brunokenj.net\">contato@brunokenj.net</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Rating,Rate,Star,Control,",
+  "LastEdited": "2009-11-18T12:31:22.1-08:00"
+}

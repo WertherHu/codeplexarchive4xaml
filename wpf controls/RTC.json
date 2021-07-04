@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RTC",
+  "Title": "DS3231 RTC",
+  "Description": "Firmware to control the real time clock IC from Maxim; DS3231SN.   Designed to run under Arduino bootloader.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Real time clock firmware based on the DS3231 RTC chip. Please ensure that you refer to datasheet, http://datasheets.maximintegrated.com/en/ds/DS3231.pdf Communication is via I2C using wire.h.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-21T04:38:30.91-07:00"
+}

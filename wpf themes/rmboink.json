@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rmboink",
+  "Title": "rmBoink",
+  "Description": "rmBoink provides sound notifications for NationStates Regional Message Board posts.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>&nbsp;</p>\r\n<h1><font size=\"5\">rmBoink</font></h1>\r\n<p><font size=\"5\">windows RMB sound alerts for <a href=\"https://nationstates.net/\" target=\"_blank\">\r\nNationStates</a></font></p>\r\n<p>rmBoink provides sound alerts every time someone in your NationStates region posts a message to the Regional Message Board. No NS&#43;&#43;? No always-open browser window? No worries. rmBoink sits quietly in the background on your computer and will play a sound\r\n to you every time your region has a new message on the RMB.</p>\r\n<h2>Features</h2>\r\n<ul>\r\n<li>Plays sound for any region's RMB on new message </li><li>No need to enter NS account information </li><li>Configurable interval for updates </li><li>Customizable .wav or .mp3 sound </li><li>Easy setup wizard and built-in instructions </li><li>Popups on desktop for messages (EXPERIMENTAL - may not work on some platforms)\r\n</li><li style=\"text-align:left\">Ignore nations (prevent them from causing a Boink) </li></ul>\r\n<p><img src=\"http://s17.postimg.org/4g4s27km7/rm_Boink_main_screen.png\" alt=\"\" width=\"504\" height=\"336\"></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,wpf,nationstates,api,windows,",
+  "LastEdited": "2015-08-13T00:03:47.157-07:00"
+}

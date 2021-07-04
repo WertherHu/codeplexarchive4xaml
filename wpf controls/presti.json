@@ -1,0 +1,9 @@
+{
+  "ProjectName": "presti",
+  "Title": "PreSti - The Neuroscience Stimuli Presentation Software",
+  "Description": "PreSti is stimuli delivery and experimental control program for neuroscience developed in C#, based on DirecX and NShapes framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PreSti is stimuli delivery and experimental control program for neuroscience developed in C&#35;, based on DirecX and NShapes framework.<br /><br /><b>Key features:</b>\n<ul><li>very simple way of making testing scenarios using graphs instead of a programming language.</li>\n<li>extensibility - it is possible to add advanced features and stimuli that can be used in graphical interface.</li>\n<li>open source license.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,DirectX,Neuroscience,NShape,Parallel port driver,",
+  "LastEdited": "2010-04-06T12:54:00.293-07:00"
+}

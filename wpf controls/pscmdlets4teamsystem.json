@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pscmdlets4teamsystem",
+  "Title": "PowerShell Cmdlets for Visual Studio Team System",
+  "Description": "PowerShell cmdlets to control and configure Visual Studio Team System components including build, reporting, testing, version control, and work item tracking.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PowerShell cmdlets to control and configure Visual Studio Team System components including build, reporting, testing, version control, and work item tracking.<br /><br /><b>Table of Contents</b><br /><a href=\"https://pscmdlets4teamsystem.codeplex.com/wikipage?title=Installation%20%2f%20Quick%20Start%20Guide&referringTitle=Home\">Installation &#47; Quick Start Guide</a><br /><a href=\"https://pscmdlets4teamsystem.codeplex.com/wikipage?title=User%20Guide&referringTitle=Home\">User Guide</a><br /><a href=\"https://pscmdlets4teamsystem.codeplex.com/wikipage?title=FAQ%20%2f%20Troubleshooting&referringTitle=Home\">FAQ &#47; Troubleshooting</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "powershell,TFS,VB.NET,Visual Studio 2008,",
+  "LastEdited": "2008-07-24T02:11:22.903-07:00"
+}

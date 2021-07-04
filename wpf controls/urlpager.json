@@ -1,0 +1,9 @@
+{
+  "ProjectName": "urlpager",
+  "Title": "UrlPager",
+  "Description": "UrlPager is a custom paging control for asp.net webform application,  It supports url routing and paging through url parameters.  UrlPager requires .Net Framework 3.5 sp1 or higher version.\n\nUrlPager是一个ASP.NET WebForm应用程序中通过url进行分页的分页控件，支持使用url路由来生成自定义的分页url。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />UrlPager is a custom paging control for asp.net webform application,  It supports url routing and paging through url parameters.  UrlPager requires .Net Framework 3.5 sp1 or higher version.<br /><br />UrlPager是一个ASP.NET WebForm应用程序中通过url进行分页的分页控件&#65292;支持使用url路由来生成自定义的分页url&#12290;<br /><br />This porject has been moved to : <a href=\"https://github.com/Webdiyer/UrlPager\">https://github.com/Webdiyer/UrlPager</a><br /><br />Online demo is available at <a href=\"http://en.webdiyer.com/urlpager\">http://en.webdiyer.com/urlpager</a><br /><br />Chinese version is available at <a href=\"http://www.webdiyer.com/controls/urlpager\">http://www.webdiyer.com/controls/urlpager</a><br /><br />在线演示地址：<a href=\"http://www.webdiyer.com/controls/urlpager\">http://www.webdiyer.com/controls/urlpager</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "paging control,pagination,asp.net pager,url paging,",
+  "LastEdited": "2015-06-09T20:44:44.34-07:00"
+}

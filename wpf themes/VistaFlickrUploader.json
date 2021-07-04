@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VistaFlickrUploader",
+  "Title": "Vista Flickr Uploader",
+  "Description": "A tool for uploading pictures to Flickr, specifically to be used in Windows Vista. Vista is capable of managing metadata (such as title, description and tags) inside picture files by storing it in an XMP section. (Extensible Metadata Platform, trademarked and controlled by Adobe)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Vista Flickr Uploader</b><br />A tool for uploading pictures to Flickr, specifically to be used in Windows Vista. Vista is capable of managing metadata (such as title, description and tags) inside picture files by storing it in an XMP section.<br />(<a href=\"http://en.wikipedia.org/wiki/Extensible_Metadata_Platform\">Extensible Metadata Platform</a>, trademarked and controlled by Adobe)<br />However, at the moment Flickr is not recognizing XMP sections and thus Vista managed pictures uploaded from the web or using the default Flickr uploader have empty titles, descriptions and tags.<br /><br /><b>Screenshots</b>\n<ul><li><img src=\"/projects/VistaFlickrUploader/9673226e-243a-4108-bd5c-95a86ad0264b\" alt=\"SelectionScreen.png\" title=\"SelectionScreen.png\" /></li>\n<li><img src=\"/projects/VistaFlickrUploader/9c1edf58-d308-47a1-b5cd-cbe9aca69e75\" alt=\"UploadScreen.png\" title=\"UploadScreen.png\" /></li></ul>\n<br /><b>Used technologies</b>\n<ul><li>.NET Framework 3.0 (<a href=\"http://www.netfx3.com\">http://www.netfx3.com</a>)</li>\n<li>Windows Presentation Framework (WPF) (<a href=\"http://wpf.netfx3.com\">http://wpf.netfx3.com</a>)</li>\n<li>FlickrNet API library (<a href=\"http://www.codeplex.com/FlickrNet\">http://www.codeplex.com/FlickrNet</a>)</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,flickr,Vista,WPF,.net 3.0,FlickrNet,XMP,flickr vista,multimedia,",
+  "LastEdited": "2010-10-13T12:40:52.363-07:00"
+}

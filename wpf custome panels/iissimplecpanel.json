@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iissimplecpanel",
+  "Title": "IIS Simple Control Panel",
+  "Description": "This utility is a small and simple controller for IIS Websites and Application Pools, it allows you to start, stop, or recycle IIS objects en masse.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>IIS Simple CPanel</h1>\r\nThis was an experiment for myself in using the  <b>Microsoft.Web.Administration</b> extension. This utility allows you to do the following:<br />\n<ul><li>Export a list of all sites and application pools</li>\n<li>Start or stop all available IIS websites with a single click</li>\n<li>Start, Stop, or Recycle all available IIS application pools with a single click</li>\n<li>Start or Stop specific websites</li>\n<li>Start, Stop, or Recycle specific Application Pools</li>\n<li>IISSCPanel automatically fetches all websites/app pools from IIS, allowing you to perform batch actions within 1 or 2 clicks</li>\n<li>Tiny stand-alone application 1x exectuable.</li></ul>\n\n<h2>Interface</h2>\r\n<img src=\"/projects/iissimplecpanel/216e40aa-5d39-4590-9619-6c55da789622\" alt=\"IISCPanel.png\" title=\"IISCPanel.png\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "IIS,Control Panel,Utility,Windows Server,Administration,Portable,",
+  "LastEdited": "2016-07-27T05:49:42.66-07:00"
+}

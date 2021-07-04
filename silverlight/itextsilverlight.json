@@ -1,0 +1,9 @@
+{
+  "ProjectName": "itextsilverlight",
+  "Title": "iTextSilverlight",
+  "Description": "A port of the PDF-library iTextSharp for Microsoft Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A port of the PDF-library iTextSharp for Microsoft Silverlight.<br /><br /><b>Notes</b><br /><br />For information how to use iTextSharp, visit <a href=\"http://itextpdf.com/\">http://itextpdf.com/</a>.<br /><br />With Image.GetInstance(WritableBitmap bitmap), it is possible to make a screenshot of a control and add it to PDF.<br />The constructor of WriteableBitmap allows the creation of an WriteableBitmap out of a Control.<br /><br />An example for this is provided in the source code.<br />Additionally i have provided an example on how to sign a PDF with help of iTextSilverlight. <br /><br /><b>Important:</b> If you want to use custom fonts, it is important that you set the &quot;Build Action&quot; to &quot;Embedded Resource&quot;.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-12T06:23:53.83-07:00"
+}

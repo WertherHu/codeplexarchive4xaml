@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ExcelBulkTransfer",
+  "Title": "Excel to SQL Server Database Bulk Transfer",
+  "Description": "Quick and simple WPF tool to allow users export data from an Excel spreadsheet to a SQL Server database table.\r\n\r\nProvided as is. But if you need any help let me know.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is not my finest work, but it&#39;s main purpose is to provide a quick and simple way to export Excel Worksheets into a SQL Server database table. If you find it useful, enjoy!<br /><br />You may need the Access Database engine (ACE)<br /> <br />See <a href=\"http://www.microsoft.com/download/en/details.aspx?id=13255\">http://www.microsoft.com/download/en/details.aspx?id=13255</a><br /><br />Provided as is. But if you need any help let me know.<br /><br /><img src=\"/projects/ExcelBulkTransfer/4f448d19-42de-44d5-8521-890dbf980148\" alt=\"bulk.jpg\" title=\"bulk.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF EXCEL EXPORT SQL,bulk copy,",
+  "LastEdited": "2012-04-09T15:22:50.377-07:00"
+}

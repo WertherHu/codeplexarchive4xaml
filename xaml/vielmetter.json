@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vielmetter",
+  "Title": "Power Plan Chooser",
+  "Description": "This is my first endeavor into a C# Windows application with XAML. The program sits in the notification area (task bar) and lets you quickly activate one of the three standard Windows 7 power plans. Much of the code was written by Murray Foxcroft at CodeProject.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is my first endeavor into a C&#35; Windows application with XAML. The program sits in the notification area &#40;task bar&#41; and lets you quickly activate one of the three standard Windows 7 power plans. Much of the code was written by Murray Foxcroft at CodeProject.<br />\n<h2>Features:</h2>\r\n    * Quickly switch between the three standard Windows power plans<br />\n<h2>Screen shot:</h2>\r<img src=\"http://davidvielmetter.com/wp-content/uploads/2010/03/ppc_scrnshot.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CodeProject,Murray Foxcroft,",
+  "LastEdited": "2010-03-19T12:59:26.38-07:00"
+}

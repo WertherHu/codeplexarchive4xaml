@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SampleVariableSizedWrapGridWP",
+  "Title": "Sample VariableSizedWrapGrid Windows Phone",
+  "Description": "This example gives an idea of ​​how to make the size of a list item dynamically. In this case a user control that has been created by VariableSizedWrapGrid kinn",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This example gives an idea of ​​how to make the size of a list item dynamically. In this case a user control that has been created by VariableSizedWrapGrid kinnara (https://github.com/Kinnara).<br /><br />Flickr is an API used to create this example. Each image is obtained dynamically displayed.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-07-23T10:05:32.5-07:00"
+}

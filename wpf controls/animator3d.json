@@ -1,0 +1,9 @@
+{
+  "ProjectName": "animator3d",
+  "Title": "Animator3D",
+  "Description": "3D Animation with WPF. This project contains two WPF products:\n1. An editor to create 3D animations using skeleton animation.\n2. A runtime library to use the animations in WPF applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />3D Animation with WPF. This project contains two WPF products&#58;<br />1. An editor to create 3D animations using skeleton animation.<br />2. A runtime library to use the animations in WPF applications.<br /><br /><b>Current Status</b><br />An initial upload has been added to source control. A demo and screenshots will be released shortly.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF 3D,WPF controls,3D Tools for WPF,3D,3D Graphics,",
+  "LastEdited": "2008-05-09T07:18:54.12-07:00"
+}

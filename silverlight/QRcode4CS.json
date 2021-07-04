@@ -1,0 +1,9 @@
+{
+  "ProjectName": "QRcode4CS",
+  "Title": "QR Code for C#",
+  "Description": "QR Code encoder library",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />QR Code encoder library<br /><br />Hi, I moved repository to Github <a href=\"https://github.com/consulgo/QrCode4cs\">https://github.com/consulgo/QrCode4cs</a>. Repository on CodePlex is not maintained anymore.<br />Over there I fixed a few code issues and added sample WPF application.<br /><br />It is simple library for the encoding of the qr codes (qrcode4cs uses only System and System.Collections.Generic). It is a translation of the <b>QRCode for JavaScript</b> <a href=\"https://github.com/jeromeetienne/jquery-qrcode/\">https://github.com/jeromeetienne/jquery-qrcode/</a>. Special thanks to Jerome Etienne for a blog post: <a href=\"http://notes.jetienne.com/2011/04/07/jquery-qrcode.html\">http://notes.jetienne.com/2011/04/07/jquery-qrcode.html</a>.<br /><br />Licensed under the original MIT license: <a href=\"http://www.opensource.org/licenses/mit-license.php\">http://www.opensource.org/licenses/mit-license.php</a><br /><br />Remember:<br />The word &quot;QR Code&quot; is registered trademark of <br /><b>DENSO WAVE INCORPORATED</b><br /><a href=\"http://www.denso-wave.com/qrcode/faqpatent-e.html\">http://www.denso-wave.com/qrcode/faqpatent-e.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,C# 4.0,.NET 4.0,QR Code Generator,Simple,QR Code,Barcode,",
+  "LastEdited": "2015-08-04T13:20:50.49-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "monogameccp",
+  "Title": "Monogame Custom Content Processor For WinRT",
+  "Description": "This project shows how to use Custom ContentProcessor with Monogame and Winrt in Visual Studio 2012.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project shows how to use Custom ContentProcessor with Monogame and Winrt in Visual Studio 2012.<br />This is simple example on how to setup Monogame Custom ContentProcessor using just Visual Studio 2012.<br /><br />Requirements:<br />1. Visual Studio<br />2. Windows Phone SDK<br />3. XNA 4<br />4. Monogame</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-01-08T13:32:42.27-08:00"
+}

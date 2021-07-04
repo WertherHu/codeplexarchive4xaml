@@ -1,0 +1,9 @@
+{
+  "ProjectName": "graphucks",
+  "Title": "Graphucks - Direct2D GUI Library",
+  "Description": "A Direct2D GUI library that can be embedded in other GUI platforms, like Win8 XAML applications (and soon desktop apps).\r\n\r\nThis is a work in progess!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Direct2D GUI library that can be embedded in other GUI platforms, like Win8 XAML applications &#40;and soon desktop apps&#41;.<br /><br />This is a work in progess&#33;<br /><br />Twitter: <a href=\"http://www.twitter.com/jmorrill\">http://www.twitter.com/jmorrill</a><br />Blog Post: <a href=\"http://jeremiahmorrill.wordpress.com/2013/02/06/direct2d-gui-librarygraphucks/\">http://jeremiahmorrill.wordpress.com/2013/02/06/direct2d-gui-librarygraphucks/</a><br /><img src=\"/projects/graphucks/25f900ee-d6cd-4408-b31d-de0acc528d11\" alt=\"screenshot.jpg\" title=\"screenshot.jpg\" /><br />This is a GUI library that uses Direct2D for rendering.  It is shamelessly inspired by WPF/XAML.  It doesn&#39;t look to replace mainstream GUIs, but to enhance them easily.  Right now, it only integrates in with Win8 XAML, but it can easily be made to work with desktop apps and possibly windows 7.<br /><br />This is a huge work in progress.  Nothing is more than 10% complete and nothing is correct :)<br /><br />There&#39;s rendering artifacts (mostly due to IRTs), incorrect layout rules, etc.  But shader effects seem to work well.<br /><br />Animation and bindings up soon...</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro,Direct2D,Direct3D,D2D,D3D,",
+  "LastEdited": "2013-02-06T13:59:02.753-08:00"
+}

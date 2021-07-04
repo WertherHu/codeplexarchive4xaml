@@ -1,0 +1,9 @@
+{
+  "ProjectName": "parttracker",
+  "Title": "PartTracker",
+  "Description": "This application will allow multiple users to keep track of parts, and to manage the hours used.\r\n\r\nBuild using SQLite, WPF, and C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This application will allow multiple users to keep track of parts, and to manage the hours used.<br /><br />Build using SQLite, WPF, and C&#35;<br /><br />When running the application for the first time:<br /><br />Create a database file in a location that everyone can access. <br />You can name it whatever you want. I recommend &quot;PartsTracker.sqlite&quot;<br /><br />When the application launches, browse to this file. The database will start empty.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-13T11:45:06.32-07:00"
+}

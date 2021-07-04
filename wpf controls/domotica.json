@@ -1,0 +1,9 @@
+{
+  "ProjectName": "domotica",
+  "Title": "DOMOTICA",
+  "Description": "A program to control the heating of your house.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nThis project is all about home automatisation with a arduino and a laptop.</p>\r\n<p>- temperature</p>\r\n<p>- humidity</p>\r\n<p>- brightness</p>\r\n<p>- motion detection</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-03-18T02:19:27.71-07:00"
+}

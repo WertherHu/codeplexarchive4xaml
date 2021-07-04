@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TraktSharp",
+  "Title": "TraktSharp",
+  "Description": "A portable .Net wrapper for Trakt.Tv API v2. Supports development on Windows, Windows Phone, Silverlight, Android, and iOS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A portable .Net wrapper for Trakt.Tv API v2. Supports development on Windows, Windows Phone, Silverlight, Android, and iOS.<br /><br /><b>Note:</b> <i>This project is in pre-alpha.</i>  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Portable,android,.NET 4,windows phone,iOS,Windows 8,trakt,Windows 8.1,xamarin,.Net Framework 4,trakt.tv,",
+  "LastEdited": "2015-01-10T02:14:16.76-08:00"
+}

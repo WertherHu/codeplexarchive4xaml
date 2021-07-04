@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bankeren",
+  "Title": "Bankeren",
+  "Description": "Bankeren is a norwegian cardgame similar to Oh hell! Written in C# using WPF, WCF and Caliburn.Micro",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Bankeren</h1>\rBankeren is a norwegian card game similar to <a href=\"http://en.wikipedia.org/wiki/Oh,_hell\">Oh, Hell!</a><br />You can read the specific rules <a href=\"https://bankeren.codeplex.com/wikipage?title=Rules&referringTitle=Home\">here</a><br /><br />The game is written in C# with .NET Framework 4.0. GUI is WPF and network communications is done with a WCF Duplex Service.<br />The solution consists of three projects:\n<ul><li>BankerenClient\n<ul><li>The WPF client application, which also can host games</li>\n<li>The service proxy</li></ul></li>\n<li>BankerenServer - A simple console application for dedicated hosting</li>\n<li>BankerenLib\n<ul><li>Game engine</li>\n<li>Server class for use in both client and server application</li>\n<li>WCF service interfaces and implementations</li></ul></li></ul>\n<br />In addition to .NET Framework, Caliburn.Micro is used for the client application.<br />Some features used from Caliburn.Micro:\n<ul><li>Screen and Conductor</li>\n<li>WindowManager</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,wcf,card game,MVVM,.NET 4.0,CaliburnMicro,game,",
+  "LastEdited": "2011-04-04T14:56:06.387-07:00"
+}

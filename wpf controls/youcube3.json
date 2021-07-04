@@ -1,0 +1,9 @@
+{
+  "ProjectName": "youcube3",
+  "Title": "YouCube 3",
+  "Description": "Simple 3D demo of my WPF Chomium WebBrowser control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple 3D demo of my WPF Chomium WebBrowser control.<br /><br />You&#39;ll also need AwesomiumWrapper and Cjc.ChromiumBrowser source from the associated WPF Chromium WebBrowser project: <a href=\"http://wpfchromium.codeplex.com/SourceControl/ListDownloadableCommits.aspx\">http://wpfchromium.codeplex.com/SourceControl/ListDownloadableCommits.aspx</a> (<a href=\"http://wpfchromium.codeplex.com\">http://wpfchromium.codeplex.com</a>).<br /><br />For details, see related post: <a href=\"http://chriscavanagh.wordpress.com/2009/08/27/wpf-3d-chromium-browser/\">http://chriscavanagh.wordpress.com/2009/08/27/wpf-3d-chromium-browser/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "browser,",
+  "LastEdited": "2009-12-07T07:34:14.85-08:00"
+}

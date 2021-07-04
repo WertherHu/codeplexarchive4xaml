@@ -1,0 +1,9 @@
+{
+  "ProjectName": "StyleCopViolationsCounter",
+  "Title": "StyleCop Violations Counter",
+  "Description": "List style cop errors from multiple solutions in a directory.\r\nSo you need not to open each and every solution in Visual Studio to check for errors.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project list outs style cop error from multiple solutions in a directory/sub-directory.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "StyleCop,",
+  "LastEdited": "2013-08-09T03:55:43.737-07:00"
+}

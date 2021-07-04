@@ -1,0 +1,9 @@
+{
+  "ProjectName": "twittermarquee",
+  "Title": "Twitter Marquee - Search for Tweets and show them as a marquee",
+  "Description": "Twitter Marquee is a little WPF program that searches Twitter for a keyword or hashtag and shows the result as a marquee control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Twitter Marquee is a little WPF program that searches Twitter for a keyword or hashtag and shows the result as a marquee control.<br /><br />The project is implemented by using event based components (EBCs). See the <i>doc</i> folder for architecture diagrams.<br /><br /><b>Syntax</b><br />Start the program by providing the hashtag on the command line: twitterband.exe #ccd<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-18T06:23:57.353-07:00"
+}

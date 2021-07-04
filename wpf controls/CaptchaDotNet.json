@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CaptchaDotNet",
+  "Title": "Captcha Control",
+  "Description": "Captcha Control (C#) allows users to add a captcha to an asp.net page. The control supports declarative settings of fontsize, font family, color, captcha length, background image, character set, success, error and buttons' text. Supports audio - reading out the captcha text.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nCaptcha Control (C#) allows users to add a captcha to an asp.net page. The control supports declarative settings of fontsize, font family, color, captcha length, background image, character set, success, error and buttons' text. Supports audio - reading out\r\n the captcha text.<br>\r\n<br>\r\nThe control is written using .NET 4.0 and Visual Studio 2010 but other versions of .NET are also supported. The declarative properties of the control should make it very easy for any one to use this. The control also supports reading out the captcha text. This\r\n feature helps in case someone cannot read the text.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CAPTCHA,ASP.NET,com,",
+  "LastEdited": "2011-03-12T23:19:46.183-08:00"
+}

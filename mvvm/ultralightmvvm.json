@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ultralightmvvm",
+  "Title": "UltraLight.mvvm Windows Phone 7 MVVM Framework",
+  "Description": "A lightweight (< 300 lines, < 25KB) framework for developing MVVM Silverlight applications with support for tombstoning on the Windows Phone 7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Ultra Light MVVM for Windows Phone 7</b><br /><br />A lightweight &#40;&#60; 300 lines, &#60; 25KB&#41; framework for developing MVVM Silverlight applications with support for tombstoning on the Windows Phone 7.<br /><br />Ultra<i>Light</i>.mvvm provides a quick, easy and light way to add the following features to your Windows Phone 7 applications: \n<ul><li>Commands</li>\n<li>Command binding for buttons (with parameters)</li>\n<li>Support for binding commands to application buttons / menu items on the application bar</li>\n<li>Dialogs, both notification and confirmation</li>\n<li>Messaging using the event aggregator publisher/subscriber model</li>\n<li>Service location</li>\n<li>Design-time friendly view models</li>\n<li>Tombstone-friendly view models with control hooks for tombstone events</li>\n<li>Decoupled navigation support from the view model</li>\n<li>Decoupled visual state support from the view model </li>\n<li>Back button interception on the view model</li>\n<li>Notify property changed using expressions instead of magic strings</li>\n<li>Dispatcher helper for UI thread access</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-14T07:09:11.323-08:00"
+}

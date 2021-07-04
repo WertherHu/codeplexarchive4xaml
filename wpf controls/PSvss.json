@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PSvss",
+  "Title": "Visual SourceSafe - PowerShell Maintenance Script",
+  "Description": "PSvss is a PowerShell script that performs regular maintenance activities on a Visual SourceSafe Database.  This script automates the routine Visual SourceSafe mainteance tasks. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PSvss is a PowerShell script that performs regular maintenance activities on a Visual SourceSafe Database.  This script automates the routine Visual SourceSafe mainteance tasks. <br /><br /><br />The basic flow is: \n<ol><li>Unshare the VSS share (Not Implemented yet) </li>\n<li>Lock the VSS Database </li>\n<li>ZIP the DATA folder</li>\n<li>Run the Analyze utility (Repeat if errors are found)</li>\n<li>Run the Archive utility </li>\n<li>Clean the temp directory </li>\n<li>Unlock the database </li></ol>\n<br />The script will also detect if users are logged in and it has an option to stop the maintenance tasks if users are logged in. <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "powershell,Source Control,favorite,Visual SourceSafe,SourceSafe,VSS,VSS PSL,",
+  "LastEdited": "2007-04-18T13:18:14.76-07:00"
+}

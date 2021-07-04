@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TDGenerator",
+  "Title": "Torrent Description Generator",
+  "Description": "A simple WPF application to generate a robust torrent description for movies in text or bbcode.\r\nIncludes file info, thumbs, imdb/RT links and poster.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project seeks to combine several available services into a more comprehensive package.<br /><br />When finished the project will provide the user the ability to open a video file and provide the name of a movie and have the app;<br />Pull all file data out, like aspect ratio, format, video and audio codec, bitrate, etc<br />Generate several thumbnails<br />Pull a poster image,<br />Pull a movie summary and top actors from themoviedb or imdb<br />Generate links for themoviedb, imdb, rottentomatoes etc<br />Upload images to tinypic or twitpic<br />Pull it all together into a well formed bbcode or plain text post for copying.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-19T03:53:03.603-07:00"
+}

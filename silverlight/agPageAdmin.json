@@ -1,0 +1,9 @@
+{
+  "ProjectName": "agPageAdmin",
+  "Title": "DotNetNuke agPageAdmin",
+  "Description": "The agPageAdmin module is a Silverlight based replacement for the core DotNetNuke Pages module which is located on the Admin menu.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The agPageAdmin module is a Silverlight based replacement for the core DotNetNuke Pages module which is located on the Admin menu.<br /><br />This project is being created in conjunction with the DotNetNuke Hackathon - &quot;Visual DotNetNuke&quot; that was hosted at the Capital DotNetNuke User Group on June 17th, 2010.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-17T17:31:01.653-07:00"
+}

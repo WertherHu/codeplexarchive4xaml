@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bwNotepadMetro",
+  "Title": "bwNotepad for Metro",
+  "Description": "a simple notepad for Win8 Metro",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWin8 Metro 用の簡易メモ帳<br>\r\na simple notepad for Win8 Metro</p>\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=bwnotepadmetro&DownloadId=378479\" alt=\"\" width=\"468\" height=\"290\"><br>\r\n<br>\r\n(Sorry, The following is written only in Japanese.)</p>\r\n<hr>\r\n<p>これは次の記事のサンプルコードの一つです(もう一つは、<a href=\"http://metrocontractsample.codeplex.com/\">MetroContractSample</a>)。</p>\r\n<blockquote>@IT 2012/05/11 掲載<br>\r\n<img src=\"http://www.atmarkit.co.jp/fdotnet/chushin/readyforwin8app_index/readyforwin8app_l.gif\" alt=\"\"><br>\r\n<strong><a href=\"http://www.atmarkit.co.jp/fdotnet/chushin/readyforwin8app_02/readyforwin8app_02_01.html\">特集：続・Windows 8開発に向けて準備しよう</a></strong><br>\r\n「コントラクト」でMetroスタイル・アプリのサンドボックスを乗り越える！<br>\r\n&nbsp;―― アプリを連携させる新しい仕組みを理解しよう！ ――</blockquote>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Metro,File Activation,Share Contract,Extended Splash,",
+  "LastEdited": "2012-05-13T21:09:09.53-07:00"
+}

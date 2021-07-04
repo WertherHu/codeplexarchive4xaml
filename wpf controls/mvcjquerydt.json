@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcjquerydt",
+  "Title": "Reusable MVC Partial View with JQuery Datatables",
+  "Description": "Reusable jQuery DataTables integrated with in a Partial View of MVC 4.0 is a reusable control/view written entirely in C# and JQuery, my aim was to create a MVC",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Reusable jQuery DataTables integrated with in a Partial View of MVC 4.0 is a reusable control/view written entirely in C# and JQuery, my aim was to create a MVC partial view which renders grid results (Data in table format with sorting and pagination enabled). I needed the control to very flexible/Dynamic so that it renders any number of columns.<br /><br />I want to thank JQuery DataTable developers (http://www.datatables.net/) for providing a very nice library.<br /><br />This code is compiled with the Microsoft Framework. NET 4.5 with MVC 4.0 with LINQ and I am using JQuery 2.1.1 and JQuery DataTables 1.10.1 ver (http://cdn.datatables.net/1.10.1/js/jquery.dataTables.min.js)<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "datatables,jquery,mvc,razor,partial view,.net mvc,jquery datatables,",
+  "LastEdited": "2014-07-29T12:06:14.943-07:00"
+}

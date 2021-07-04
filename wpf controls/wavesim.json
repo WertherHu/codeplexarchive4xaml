@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wavesim",
+  "Title": "Raindrop Animation in WPF",
+  "Description": "A small WPF application that implements an animation of raindrops falling on water, in 3D.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A small WPF application that implements an animation of raindrops falling on water, in 3D.<br /><br />This project contains all of the source code to go along with the following blog post:<br />  <a href=\"http://stuff.seans.com/2008/08/24/raindrop-animation-in-wpf/\">Raindrop Animation in WPF</a><br /><br />Sean Sexton<br /><a href=\"http://stuff.seans.com\">Sean&#39;s Stuff</a><br /><a href=\"mailto:sean@seans.com\">sean@seans.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Animation,Water Animation,",
+  "LastEdited": "2009-06-25T10:14:06.523-07:00"
+}

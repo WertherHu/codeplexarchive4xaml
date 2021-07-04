@@ -1,0 +1,9 @@
+{
+  "ProjectName": "odin",
+  "Title": "Odin",
+  "Description": "The goal of the project is to provide unit test runners for the Silverlight Unit Test Framework created by Jeff Wilcox / Microsoft.\n\nOriginally this project was called SilverlightRunners here on CodePlex - but a total rewrite and new branding caused a new project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The goal of the project is to provide unit test runners for the Silverlight Unit Test Framework created by Jeff Wilcox &#47; Microsoft.<br /><br />Originally this project was called SilverlightRunners here on CodePlex - but a total rewrite and new branding caused a new project.<br /><br />---<br /><br />From Norse Mythology:<br />Odin had sacrificed his eye in M&#237;mir&#39;s Well which granted him wisdom and the power to see into the future. M&#237;mir himself was said to have been the wisest of the gods</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Unit testing,ReSharper,Command Line,MSBuild,Silverlight NPE,",
+  "LastEdited": "2009-04-30T23:01:07.357-07:00"
+}

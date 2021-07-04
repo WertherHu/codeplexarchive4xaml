@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AiFramework",
+  "Title": "Adaptive Intelligence Open Source .NET Framework",
+  "Description": "This framework is the basis for all Adaptive Intelligence products and applications.  This project consists of three libraries: A base class and API library in Managed C++, a general use library in C#, and a Windows Forms Controls library in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This framework is the basis for all Adaptive Intelligence products and applications.  This project consists of three libraries&#58; A base class and API library in Managed C&#43;&#43;, a general use library in C&#35;, and a Windows Forms Controls library in C&#35;.<br /><br />For more on Adaptive Intelligence, see our website at:<br /><a href=\"http://www.adaptiveintelligence.net\">http://www.adaptiveintelligence.net</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".net 2.0,framework,C#,Utility,visual basic,windows forms,win 32 api,API,Network,TCP,UDP,ICMP,watch,AI,.NET,winforms,Library,Interesting,",
+  "LastEdited": "2008-03-06T10:57:01.53-08:00"
+}

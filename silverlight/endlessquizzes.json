@@ -1,0 +1,9 @@
+{
+  "ProjectName": "endlessquizzes",
+  "Title": "Endless Quizzes",
+  "Description": "Endless quizzes will be an application that allows anyone to create their own quiz and to play others, with high score & popularity rankings.\r\n\r\nIt will be programmed in C# as a Silverlight application with a db4o database, using healthy SOLID principles.\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Endless quizzes will be an application that allows anyone to create their own quiz and to play others, with high score &#38; popularity rankings.<br /><br />It will be programmed in C&#35; as a Silverlight application with a db4o database, using healthy SOLID principles.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-06-20T12:40:00.513-07:00"
+}

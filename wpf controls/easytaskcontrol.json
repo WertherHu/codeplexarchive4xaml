@@ -1,0 +1,9 @@
+{
+  "ProjectName": "easytaskcontrol",
+  "Title": "Easy Task Control",
+  "Description": "This is a Task Manager which users can create and manage their tasks. Users can send reports to someone by e-mail or save on disk. Also schedule a task to receive alerts. Each tasks can receive relationships or attachments or Effort statements.\nDownload your instalation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><i><b>Easy Task Control 4.1.0</b></i><br /><br />Easy Task Control is a easy and quickly way to manage your tasks getting a simple TreeView with possible groups to organize your projects and subjects.<br />Create your own groups or create through a Template which you can include some static tasks using as preview tasks to be in your new group.<br />You can get reports (detailed or analytic) from Pending, Solved or Overdue tasks and save on disk or send to someone by e-mail.<br /><br />With a very powerful schedule you can create schedules for your tasks and receive alerts to remember your duties. (This schedule can be configurable to play a sound or not and to define the time cicle to check alerts).<br /><br />In a very simple and complete shortcut window you will be allowed to format your own shortcuts if you don&#39;t like the default.<br /><br />The system is prepared to get your e-mail account configuration as a very simple and fast way to send your reports, this configuration is saved with a encrypted and safe password.<br /><br />To improve the user experience you can allow the system to send error report to me (Development) automaticaly and with this I&#39;ll be advised to fix the possible problems and release a new version for your convenience.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-25T17:21:43.147-07:00"
+}

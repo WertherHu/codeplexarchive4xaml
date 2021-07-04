@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfspermissions",
+  "Title": "TFS Permissions Viewer",
+  "Description": "View source control and work item permissions for TFS 2008 team project groups. Allows to view work item read and write permissions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The application allows you to view source control and work item permissions for TFS 2008/2010 team project groups. You can view work item read and write permissions which are not visible in the standard permission viewer.<br /><br /><img src=\"/projects/tfspermissions/c4f89e4a-bccc-49ca-9005-4d541c94332e\" alt=\"tfspermissions.jpg\" title=\"tfspermissions.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "tfs,",
+  "LastEdited": "2014-05-14T11:54:17.083-07:00"
+}

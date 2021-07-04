@@ -1,0 +1,9 @@
+{
+  "ProjectName": "becontrolcenter",
+  "Title": "BEControlCenter",
+  "Description": "BEControlCenter links technologies to deliver immerse control system for various external devices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />BEControlCenter links technologies to deliver immerse control system for various external devices.<br /><br />BEControlCenter is a project which link technologies to deliver immerse control system for various external devices (in example modified RC car, etc).<br /><br /><b>Some of planned features</b>:\n<ul><li>Easy to configure and use</li>\n<li>Customizable list of commands</li>\n<li>real-time (visual) feedback from both: controller and device</li>\n<li>Extendable via MEF plugins</li></ul>\n<br />BEControlCenter is part of BEControl project. More information can be found on my <a href=\"http://www.beetrootsoup.net\">beetrootSOUP</a> blog.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-25T06:11:54.48-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VSStringDebugVisualizer",
+  "Title": "Visual Studio String Debug Visualizer",
+  "Description": "Visual Studio Visualizer that display a split window of a String variable's value in both standard and hex values revealing hidden escape and control characters",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This Visual Studio 2012 Debug Visualizer will show the hex values of a given string and the text value in a split window, revealing what is otherwise hidden data.  This is useful when working, for example, with data that is read from a file that may have come from a *nix system and contains different line endings (CR vs CR/LF).<br /><blockquote><img src=\"https://www.codeplex.com/Download?ProjectName=vsstringdebugvisualizer&amp;DownloadId=729903\" /></blockquote>\nTo use this visualizer with other versions of Visual Studio, just change the Microsoft.VisualStudio.DebuggerVisualizers references to the version that aligns with your Visual Studio version.<br /><br />To install:\n<ol><li>Either compile the source -or- <a href=\"https://vsstringdebugvisualizer.codeplex.com/downloads/get/729904\">download</a> the executable.</li>\n<li>Copy the executable from the compiled source (&lt;home&gt;\\StringVisualizer\\bin\\Debug\\StringVisualizer.dll) or the download to &lt;MyDocuments&gt;\\Visual Studio 2012\\Visualizers</li>\n<li>Restart Visual Studio.</li></ol>\n<br />When debugging a project you can hover on a String variable and select &#39;Advanced String Visualizer&#39; from the spyglass icon in the tool-tip, or from the spyglass icon in the Locals or Autos windows.<br /><blockquote><img src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=vsstringdebugvisualizer&amp;DownloadId=729905\" /></blockquote></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-16T08:35:31.897-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLRPGMapEditor",
+  "Title": "Silverlight RPG Map Editor",
+  "Description": "This is a fork from the code for the book by Mike Snow, titled Silverlight Game Programming.  The goal of this project is to add functionality and improve upon the initial design Mr. Snow created.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a fork from the code for the book by Mike Snow, titled Silverlight Game Programming.  The goal of this project is to add functionality and improve upon the initial design Mr. Snow created.<br /><br /><br /><a href=\"http://code.msdn.microsoft.com/Silverlight/Release/ProjectReleases.aspx?ReleaseId=3029\">Original Source Code</a><br /><a href=\"http://www.amazon.com/Game-Programming-Silverlight-Michael-Snow/dp/1598639064/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1237171283&amp;sr=8-1\">Silverlight Game Programming Book</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,Silverlight 3,Silverlight,C#,rpg,Map Editor,",
+  "LastEdited": "2009-11-10T18:45:22.96-08:00"
+}

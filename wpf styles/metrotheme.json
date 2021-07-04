@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metrotheme",
+  "Title": "Silverlight Metro Theme",
+  "Description": "Metro Theme for Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Metro Theme for Silverlight.<br /><br /><b>Project Documentation</b><br />People seem to like the new Windows Phone 7 Metro Design. Unfortunately you cannot use this design in regular Silverlight Applications by default. Therefore I extracted the styles and templates, changed a few settings (e. g. some “HitTests” are disabled which we need for mouse users) and packed everything together in a single ResourceDictionary. To make usage easier I added implicit styles for Button, ToggleButton, CheckBox, RadioButton, PasswordBox, ProgressBar, TextBox, TextBlock, Slider, ScrollViewer and ListBox. There are still some things to do, but I hope it will make it easier for you, to use the Metro Design in regular Silverlight Applications. Use this project as starting point or just copy the ResourceDictionary MetroDesignResourceDictionary.xaml to your project. For the latter you need to make sure to correctly include the fonts referred by the ResourceDictionary (Segeo WP, Segeo WP Light, Segeo WP Semibold and Segeo WP Semilight).<br /><br /><b>Credits</b><br /><a href=\"http://wolter.biz\">Sascha Wolter</a> coder and coordinator of this project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Windows Phone,Theme,Design,Metro,Metro UI,Metro WPF,",
+  "LastEdited": "2010-05-19T01:32:52.763-07:00"
+}

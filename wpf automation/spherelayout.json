@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spherelayout",
+  "Title": "Sphere Layout Library",
+  "Description": "ItemsControl library targetting WPF, Silverlight for desktop and Silverlight for WP7, allowing to layout things on a 3d Sphere.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ItemsControl library targetting WPF, Silverlight for desktop and Silverlight for WP7, allowing to layout things on a 3d Sphere.<br /><br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:480px;width:880px;\"><param name=\"source\" value=\"http://www.simonferquel.net/blog/SampleApp.SL4.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,silverlight,windows phone,controls,3d,",
+  "LastEdited": "2011-03-17T09:52:01.027-07:00"
+}

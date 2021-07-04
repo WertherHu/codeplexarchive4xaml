@@ -1,0 +1,9 @@
+{
+  "ProjectName": "whileawaywpf",
+  "Title": "While You Were Away - WPF Screensaver",
+  "Description": "A WPF screensaver that you can use when you step away from your desk.  Co-workers can leave messages on the screen while enjoying a dynamic slideshow.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF screensaver that you can use when you step away from your desk.  Co-workers can leave messages on the screen while enjoying a dynamic slideshow.<br /><br />\n<h1>Introduction</h1>\rI had this idea a number of years ago when people used to leave messages for me on random scraps of people or on sticky notes.  Instead of using paper, why not let people leave messages on the screen while the screensaver is on.  This application shows a slideshow of your photos.  At the same time, there&#39;s a region for leaving messages behind.  An admin tool lets you indicate where you are, when you&#39;ll be back, and displays messages left for you.<br /><br />This code accompanies an <a href=\"http://blogs.msdn.com/coding4fun/archive/2010/02/28/9970627.aspx\">MSDN Coding 4 Fun article</a> published 2/28/2010.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-01T08:58:28.94-08:00"
+}

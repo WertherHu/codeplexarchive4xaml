@@ -1,0 +1,9 @@
+{
+  "ProjectName": "euphoria",
+  "Title": "euphoria : Behavior and Style Template Library for Windows Phone",
+  "Description": "euphoria's Behavior\r\n*OpenWebBrowserTaskBehavior\r\n*OpenMediaPlayerTaskBehavior\r\n\r\neuphoria's Style Template\r\n*VerticalHeaderPanoramaItemStyle",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=euphoria&DownloadId=303479\" alt=\"\" width=\"400\"></p>\r\n<p>euphoria is a collection of behaviors for Windows Phone(Mango) application developed in Silverlight.<br>\r\neuphoriaはSilverlightで開発するWindows Phone(Mango)アプリケーションのためのビヘイビア集です。</p>\r\n<p><strong><em>&nbsp;euphoria's Behavior</em></strong></p>\r\n<p><span style=\"color:#000000\">*SaveScreenShotAction</span><br>\r\n*OpenWebBrowserTaskBehavior<br>\r\n*OpenMediaPlayerTaskBehavior</p>\r\n<p><strong><em>euphoria's Style Template</em></strong></p>\r\n<p>*VerticalHeaderPanoramaItemStyle<br>\r\n<span style=\"color:#ff0000\">*(new)MetroRadioButtonStyle&nbsp;</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-01T15:53:28.08-08:00"
+}

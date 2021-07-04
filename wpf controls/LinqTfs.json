@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LinqTfs",
+  "Title": "LINQ-To-TFS",
+  "Description": "The implementation of a LINQ provider for querying the Work Item store and version control repository of Team Foundation Server.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The implementation of a LINQ provider for querying the Work Item store and version control repository of Team Foundation Server.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,",
+  "LastEdited": "2007-07-23T04:47:52.23-07:00"
+}

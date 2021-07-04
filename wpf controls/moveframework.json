@@ -1,0 +1,9 @@
+{
+  "ProjectName": "moveframework",
+  "Title": "Framework for Playstation Move on PC (Windows)",
+  "Description": "This framework gives you the possibility to use the Playstation Move on PC (Windows only).\r\n\r\nWith the Calibration Tool you can calibrate your device, so the framework can track it very accurate. You can test it as well with Calibration Tool.\r\n\r\nWith the Move Framework, you can integrate all the possibilities of motion tracking in your programs and games! It is developed in C++, but with a wrapper, you can use it almost everywhere.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2><a href=\"http://code.google.com/p/moveframework/\">The project is maintained here from now on!</a></h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ogre3D,Playstation Move,PS Move,motion control,sensor,move on pc,",
+  "LastEdited": "2011-12-15T22:38:51.603-08:00"
+}

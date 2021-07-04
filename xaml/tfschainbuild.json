@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfschainbuild",
+  "Title": "TFS Chain Build Template",
+  "Description": "TFS Chain Build provides a template that invoke other TFS builds from a pre-configured list. There is no need for any kind of customization beside of this XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TFS Chain Build provides a template that invoke other TFS builds from a pre-configured list. There is no need for any kind of customization beside of this XAML.<br />The project provides a basic TFS build workflow that creates a chain build. Chain build is one master build that queues other builds from a list that provided by the build process definition.<br /><br /><b>Build Definition:</b><br /><img src=\"/projects/tfschainbuild/71a08a91-5116-44a1-955c-7da11915224b\" alt=\"TFSChainBuildDefinitionPic.png\" title=\"TFSChainBuildDefinitionPic.png\" /><br /><br /><b>Log:</b><br /><img src=\"/projects/tfschainbuild/443fd5af-7bda-4cca-b227-b0419dc5e7a1\" alt=\"TFSChainBuildLogPic.png\" title=\"TFSChainBuildLogPic.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-01-07T23:41:39.227-08:00"
+}

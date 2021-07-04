@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fluentlyxml",
+  "Title": "Fluently-XML",
+  "Description": "Tired of the limitations of the built-in XML serializer in .NET?  Want to easily customize the serialization and deserialization process for your types?  Fluently-XML is a flexible serialization framework that gives .NET developers full control over serialization/deserialization.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Fluently-XML - Say Goodbye To XML Serialization Pain</h1>\rTired of the limitations of the built-in XML serializer in .NET&#63;  Want to easily customize the serialization and deserialization process for your types&#63;  Fluently-XML is a flexible serialization framework that gives .NET developers full control over serialization&#47;deserialization.<br />\n<h2>Getting Started</h2>\rA sample application is coming soon.  In the meantime, your best source of information is the unit tests or <a href=\"http://trycatchfail.com/blog\">http://trycatchfail.com/blog</a>. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-07T17:20:43.17-07:00"
+}

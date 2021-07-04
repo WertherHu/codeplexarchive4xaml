@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ListBoxWthCheckBoxes",
+  "Title": "Windows Phone 7 Silverlight ListBox with CheckBox Control",
+  "Description": "A Windows Phone 7 ListBox control, providing CheckBoxes for item selection when in \"Choose State\" and no CheckBoxes in \"Normal State\", like the built-in Email app, with nice transition.\nTo switch between states, set the \"IsInChooseState\" property.\nThe control inherits ListBox.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA Windows Phone 7 ListBox control, providing CheckBoxes for item selection when in &quot;Choose State&quot; and no CheckBoxes in &quot;Normal State&quot;, like the built-in Email app, with nice transition.<br>\r\nTo switch between states, set the &quot;IsInChooseState&quot; property.<br>\r\nThe control inherits ListBox.<br>\r\n<br>\r\n<strong>Screenshots</strong><br>\r\n<img title=\"CaptureNormalState.JPG\" src=\"http://i3.codeplex.com/download?ProjectName=ListBoxWthCheckBoxes&DownloadId=192253\" alt=\"CaptureNormalState.JPG\" width=\"150\"><br>\r\n<em>Normal State</em><br>\r\n<br>\r\n<img title=\"CaptureChooseState.JPG\" src=\"http://i3.codeplex.com/download?ProjectName=ListBoxWthCheckBoxes&DownloadId=192254\" alt=\"CaptureChooseState.JPG\" width=\"150\"><br>\r\n<em>ChooseState</em></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 7,ListBox,checkbox,Silverlight Controls,Silverlight 3,",
+  "LastEdited": "2010-12-30T05:30:00.85-08:00"
+}

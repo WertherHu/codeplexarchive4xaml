@@ -1,0 +1,9 @@
+{
+  "ProjectName": "whallatoolkit",
+  "Title": "Controls by",
+  "Description": "Soon",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWhallaToolkit is simple project dedicated for Windows Phone 7.1 and Windows Phone 8 projects.\r\n<br>\r\n<br>\r\n<strong>Feedback Controls for WP7/WP8</strong><br>\r\nhow to use:&nbsp;</p>\r\n<pre style=\"display:inline!important\"><code>FeedbackControl.<strong>Show(<span style=\"color:#a31515\">&quot;example@example.com&quot;</span>,<span style=\"color:#a31515\">&quot;Your App Name&quot;</span>);</strong></code></pre>\r\n<p><br>\r\n<img title=\"1.png\" src=\"/projects/whallatoolkit/80634339-ce99-4600-8f09-a1a0e9cc6edc\" alt=\"1.png\" height=\"400\" style=\"display:block; margin-left:auto; margin-right:auto\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-12T15:12:00.06-08:00"
+}

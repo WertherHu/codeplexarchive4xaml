@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfreportingengine",
+  "Title": "WPF Reporting Engine",
+  "Description": "Easy to Use, Straightforward reporting platform for WPF. Simply create a Xaml Template, then add any UserControl such as a chart or table.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Easy to Use, Straightforward reporting platform for WPF. Simply create a Xaml Template, then add any UserControl such as a chart or table.<br /><br />The community has given me so much through the years, its time to give back! Please find my totally free to use, abuse, sell and otherwise do whatever-you-please with code.<br /><br />This project is an elegantly simple reporting engine for WPF.<br /><br />Simply pass it a template UserControl, then pass it report elements. It takes care of all the of pagination and document generation for you. Then just chuck the output in a DocumentViewer and you are up and running!<br /><br />There is a sample file included in the source so you can see how it works.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-09-10T16:49:46.057-07:00"
+}

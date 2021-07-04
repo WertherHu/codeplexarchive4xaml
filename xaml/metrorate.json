@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metrorate",
+  "Title": "MetroRate",
+  "Description": "MetroRate is a control for displaying ratings with stars in Windows 8 WinRT Metro XAML apps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nMetroRate is a rating control for Windows 8 WinRT Metro XAML apps.</p>\r\n<p>It's a modified open source WPF control released on CodeProject:</p>\r\n<p><a href=\"http://sachabarbs.wordpress.com/\">Sacha Barber</a>: <a href=\"http://www.codeproject.com/Articles/45210/WPF-A-Simple-Yet-Flexible-Rating-Control\">\r\nhttp://www.codeproject.com/Articles/45210/WPF-A-Simple-Yet-Flexible-Rating-Control</a></p>\r\n<p>To download and install the project, use NuGet.</p>\r\n<p><a href=\"http://nuget.org/packages/MetroRate\"><img src=\"http://www.codeplex.com/Download?ProjectName=metrorate&DownloadId=381249\" alt=\"\"></a></p>\r\n<p><span style=\"color:#000000\"><strong>PM&gt; Install-Package MetroRate</strong></span><br>\r\n<br>\r\nMetroRate is released under Ms-PL. It's as-is. I am not responsible if something breaks.&nbsp;Enjoy!</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-20T10:23:49.433-07:00"
+}

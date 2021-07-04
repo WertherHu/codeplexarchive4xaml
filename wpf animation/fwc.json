@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fwc",
+  "Title": "FireworksCreator",
+  "Description": "Application to edit and display fireworks-like particle system animations. Developed using Qt and C++.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nApplication to edit and display fireworks-like particle system animations. Developed using Qt and C&#43;&#43;.<br>\r\n<br>\r\nShort-term goal is to have a simple GUI editor working and to display the animation (only graphics, no sound). Longer-term goals are advanced editing features (including real-time preview), sound support, more advanced graphics effects. The application is developed\r\n in spare time so do not expect very fast progress.</p>\r\n<p><span style=\"color:#000000\">Sorry but we don't have much time to develop this application, although there are plans about what features to include and how to implement it.</span></p>\r\n<p><span style=\"color:#000000\">See wiki page <a href=\"http://fwc.codeplex.com/wikipage?title=InstallCompile\">\r\nInstallCompile</a>&nbsp;for information about how to compile the source code.</span></p>\r\n<p><span style=\"color:#ff00ff\"><br>\r\n</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-13T11:40:48.55-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "d3future",
+  "Title": "Future of DynamicDataDisplay",
+  "Description": "This is project which will contain my changes in DynamicDataDisplay (dynamicdatadisplay.codeplex.com). I will seek for being consistent and compatible with DynamicDataDisplay.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong> <br>\r\nThis is project which will contain my changes in DynamicDataDisplay (<a href=\"http://dynamicdatadisplay.codeplex.com\">dynamicdatadisplay.codeplex.com</a>). I will seek for being consistent and compatible with DynamicDataDisplay.</p>\r\n<p><span style=\"font-size:medium\">Links</span></p>\r\n<p>Help me to improve DynamicDataDisplay - take a part in our survey: <a href=\"http://microsoft.cs.msu.su/Projects/Pages/D3Poll.aspx\" target=\"_blank\">\r\nhttp://microsoft.cs.msu.su/Projects/Pages/D3Poll.aspx</a></p>\r\n<p>News about DynamicDataDisplay development - Twitter at<span style=\"font-size:x-small\">\r\n</span><a href=\"http://twitter.com/DynamicDataDisp\" target=\"_blank\">http://twitter.com/DynamicDataDisp</a><span style=\"font-size:x-small\">.</span></p>\r\n<p>If you want to have in DynamicDataDisplay some feature that is currently missing, please use '<a href=\"http://d3future.codeplex.com/workitem/list/basic\" target=\"_blank\">Issue Tracker</a>' tab to introduce new feature or vote for existing one.</p>\r\n<p>DynamicDataDisplay wiki - <a href=\"http://microsoft.cs.msu.su/personal/thecentury/Public%20Documents/Wiki/D3.html\" target=\"_blank\">\r\nhttp://microsoft.cs.msu.su/personal/thecentury/Public%20Documents/Wiki/D3.html</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,chart,",
+  "LastEdited": "2011-02-21T02:21:12.303-08:00"
+}

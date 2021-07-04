@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sonority",
+  "Title": "Sonority",
+  "Description": "The beginnings of a Sonos client, written in C#, C++/CLI and WPF.\n\nMost of the middle tier is designed for WPF binding. The database (ESE/Jet Blue in-process db) caching layer schema is almost there. It will be merged in to provide faster library browsing and to allow Windows Search or Google Desktop Search to dredge the Sonos catalogue.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The beginnings of a Sonos client, written in C&#35;, C&#43;&#43;&#47;CLI and WPF.<br /><br />Most of the middle tier is designed for WPF binding. The database &#40;ESE&#47;Jet Blue in-process db&#41; caching layer schema is almost there. It will be merged in to provide faster library browsing and to allow Windows Search or Google Desktop Search to dredge the Sonos catalogue.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,sonos,c++/cli,ESE,Jet Blue,",
+  "LastEdited": "2007-09-17T17:08:14.973-07:00"
+}

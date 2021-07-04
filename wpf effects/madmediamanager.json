@@ -1,0 +1,9 @@
+{
+  "ProjectName": "madmediamanager",
+  "Title": "Mad Media Manager",
+  "Description": "Mad Media Manager is an open source WPF application for managing .iso files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Mad Media Manager is an open source WPF application for managing .iso files.<br /><br />The core technologies used are:<br />WPF<br />NHibernate<br />SQL Server Ce 4.0 CTP 1<br /><br />This project is still under development so check back.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,NHibernate,SQL Server CE,Event Management,MVVM,",
+  "LastEdited": "2010-09-16T19:34:12.137-07:00"
+}

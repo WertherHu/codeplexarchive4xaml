@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fotofly",
+  "Title": "Fotofly Photo Metadata Library",
+  "Description": "A comprehensive C# library for reading and writing metadata stored in jpg photos using WPF and the Windows Imaging Component. Includes support for Windows Live Photo Gallery People Tags, GPS Coordinates and most EXIF, XMP & IPTC properties. Also includes code Geotagging photos.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Fotofly has moved to https://github.com/taasss/fotofly</div><div class=\"ClearBoth\"></div>",
+  "TagList": "metadata,xmp,iptc,exif,wic,Geotagging,jpg,jpeg,WLPG,GPS,",
+  "LastEdited": "2013-11-11T20:38:38.97-08:00"
+}

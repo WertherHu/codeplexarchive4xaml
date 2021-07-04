@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HtmlExtractor",
+  "Title": "Silverlight HtmlExtractor",
+  "Description": " Extractor html text from webpage",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">1、\t基于Silverligh 4，也可以运行与其他.net程序。<br />2、\t无需部署、可以从服务器下载解析文件，并把结果传输到服务器<br />3、\t网页通过正则表达式解析。（以后会加入基于Html的解析方式）<br />4、\t处理方式灵活。<br />5、\t基于配置文件，不需要写解析代码。<br />6、\t解析结果输出到多种方式，内置对象、xml输出方式（功能有限）。支持自定义输出。<br />7、\t支持自定义解析规则<br />8、\t支持自定义解析处理器<br /><br /><a href=\"http://silverlightreader.limewebs.com/\">阅读器演示地址</a><br /><br /><a href=\"http://s-reader.limewebs.com/\">详细信息</a><br />blog<br /><a href=\"http://bluewater.cnblogs.com\">详细信息</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-06T06:00:59.06-07:00"
+}

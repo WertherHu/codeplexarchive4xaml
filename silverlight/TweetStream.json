@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TweetStream",
+  "Title": "TweetStream",
+  "Description": "A silverlight application that is 100% client side that uses the twitter streaming API",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A truely Client Side ONLY Silverlight Twitter app, no using proxies on a server. <br /><br />This will use new features in Silverlight 4<br /><br />- Elevated Out of Browser app<br />- New Network layer authentication<br />- HTML object<br />- Camera / Microphone<br />- etc (many other new features)<br /><br /><br />- running SL4 beta app can be found here : http://www.cynergysystems.com/blogs/blogs/jose.fajardo/TweetStream/TweetStream.html <br /><br /><a href=\"https://tweetstream.codeplex.com/wikipage?title=NOTE%20%3a%20I%20AM%20CURRENTLY%20REVVING%20THIS%20FOR%20VS2010%20RC&referringTitle=Home\">NOTE &#58; I AM CURRENTLY REVVING THIS FOR VS2010 RC</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-19T16:32:41.587-08:00"
+}

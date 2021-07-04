@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SimpleSiteMenu",
+  "Title": "SimpleSiteMenu - A nested SiteMap UL list",
+  "Description": "Simple nested UL/LI emitting composite web control which you can bind to a SiteMap provider.\r\n\r\nI have provided some basic CSS and jQuery scripts to style it into a tree view.\r\n\r\nCode has been derived from this sample http://bryantlikes.com/archive/2006/02/17/4839.aspx",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple nested UL&#47;LI emitting composite web control which you can bind to a SiteMap provider.<br /><br />I have provided some basic CSS and jQuery scripts to style it into a tree view.<br /><br />Code has been derived from this sample http&#58;&#47;&#47;bryantlikes.com&#47;archive&#47;2006&#47;02&#47;17&#47;4839.aspx<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,ASP.NET 3.5,sitemap,html,",
+  "LastEdited": "2011-04-19T09:22:53.903-07:00"
+}

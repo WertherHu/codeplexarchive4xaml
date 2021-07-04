@@ -1,0 +1,9 @@
+{
+  "ProjectName": "musicmonitor",
+  "Title": "MusicMonitor",
+  "Description": "WPF application that lists most recently created audio files in a folder, monitors for new files and inserts at the top of the list, double click to play tracks or folders using your default audio player. Meant to help keep track of recent music purchases / downloads.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF application that lists most recently created audio files in a folder, monitors for new files and inserts at the top of the list, double click to play tracks or folders using your default audio player. Meant to help keep track of recent music purchases &#47; downloads.<br /><br /><img src=\"/projects/musicmonitor/ffae9d64-750c-4111-b31e-d0e2c48f6cfa\" alt=\"screenshot.png\" title=\"screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-21T12:08:45.877-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "YAPPI",
+  "Title": "Yet Another Property Proxy Implementation",
+  "Description": "YAPPI simplifies construction of proxy|derived classes at runtime by implementing|overriding property access methods using user-provided delegates.\r\nYAPPI can help you to autoimplement properties in INotifyPropertyChanged-style or make some other template tasks.\r\nWritten in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b> <br>\r\nYAPPI simplifies construction of proxy|derived classes at runtime by implementing|overriding property access methods and routing calls to user-defined delegates.\r\n<br>\r\nYAPPI can help you to autoimplement properties in INotifyPropertyChanged-style or make some other template property implementation tasks.\r\n<br>\r\nWritten in pure C#. <br>\r\n<br>\r\n<b>Getting Started</b> <br>\r\n<ul>\r\n<li><a href=\"/wikipage?title=Hello%20World%20-%20Yappi%20style\">Hello World - Yappi style</a>\r\n</li><li><a href=\"/wikipage?title=Usage%20Scenarios\">Usage Scenarios</a> </li><li><a href=\"/wikipage?title=How%20Yappi%20Works\">How Yappi Works</a> </li><li><a href=\"/wikipage?title=Performance%20Considerations\">Performance Considerations</a>\r\n</li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Reflection,C# 4.0,Runtime Proxies,Reflection.Emit,",
+  "LastEdited": "2011-07-23T02:08:06.893-07:00"
+}

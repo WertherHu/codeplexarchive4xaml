@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharpface",
+  "Title": "#Face Facebook .Net Library",
+  "Description": "#Face is a slick library designed to easily work with Facebook, and to stay out of the way, while you code.  A lot of emphasis is placed on WPF and databinding.  Developed in VB.Net.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">&#35;Face is a slick library designed to easily work with Facebook, and to stay out of the way, while you code.  A lot of emphasis is placed on WPF and databinding.  Developed in VB.Net.<br />\n<h2>Notice:</h2>\rThis project is on hold until the Facebook OAuth2.0 APIs mature.  At this point in time, the API would require the user to log in (using the login window), every time the token expired (less than 2 hours).<br /><br />This project will be built from the ground up to support OAuth2.0, and the Social Graph interaction system.  It will contain several layers of interaction, up to a high-level class supporting databinding.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-24T00:55:44.093-07:00"
+}

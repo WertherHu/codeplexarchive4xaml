@@ -1,0 +1,9 @@
+{
+  "ProjectName": "clrizr",
+  "Title": "Clrizr",
+  "Description": "A set of less files that automatically define color shades and font colors for use in LESS CSS enabled web applications.  Code is located in /Styles/Clrizr/",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><b>Project Description</b><br>\r\n<br>\r\nClrizr is a quick weekend project I made that mimics online color theming sites such as kuler.adobe.com or colorschemedesigner.com.&nbsp; It’s main purpose was to initially tryout LESS CSS coding to get a hang for it, and to see what could be done with its\r\n features.&nbsp; LESS CSS allows for the declaration of constants in your CSS files, as well as functions to operate on colors to get information from them.&nbsp;\r\n</p>\r\n<p>The Clrizr code is the code that is based out of the /Styles/Clrizr/ directory.&nbsp; The application only has 1 page, a test page to show the current site css for various different items (fonts, colors).&nbsp; Please check the readme.txt file in the project\r\n root directory for more information.</p>\r\n<p>Please note that after you grab the source, you may have to unset the read-only flag on the \\styles\\colors.less file for the Change Primary Color tab to work!</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-01T19:46:32.277-08:00"
+}

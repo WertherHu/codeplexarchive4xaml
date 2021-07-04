@@ -1,0 +1,9 @@
+{
+  "ProjectName": "abpa",
+  "Title": "Application Behavior Patterns Analyzer",
+  "Description": "Set of tools designed to monitor and analyze behavior patterns of different applications running on typical desktop or server computer. Possible uses of such information include prediction of system services' use by running process in order to improve scheduling or resource management.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Set of tools designed to monitor and analyze behavior patterns of different applications running on typical desktop or server computer. Possible uses of such information include prediction of system services&#39; use by running process in order to improve scheduling or resource management.<br /><br /><a href=\"https://abpa.codeplex.com/wikipage?title=Tutorial&referringTitle=Home\">Tutorial</a><br /><br /><b>User Infromation</b><br /><a href=\"https://abpa.codeplex.com/wikipage?title=Installation&referringTitle=Home\">Installation</a><br /><a href=\"https://abpa.codeplex.com/wikipage?title=Configuration&referringTitle=Home\">Configuration</a><br /><br /><b>Dev Information</b><br /><a href=\"https://abpa.codeplex.com/wikipage?title=Setting%20Up&referringTitle=Home\">Setting Up</a><br /><a href=\"https://abpa.codeplex.com/wikipage?title=Data%20Flow&referringTitle=Home\">Data Flow</a><br /><a href=\"https://abpa.codeplex.com/wikipage?title=Major%20Components&referringTitle=Home\">Major Components</a><br /><a href=\"https://abpa.codeplex.com/wikipage?title=Doxygen&referringTitle=Home\">Doxygen</a><br /><a href=\"https://abpa.codeplex.com/wikipage?title=HowTo%27s&referringTitle=Home\">HowTo&#39;s</a><br /><br /><b>General Product Information</b><br /><a href=\"https://abpa.codeplex.com/wikipage?title=Registry%20Layout&referringTitle=Home\">Registry Layout</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "patterns,",
+  "LastEdited": "2008-08-21T01:01:54.42-07:00"
+}

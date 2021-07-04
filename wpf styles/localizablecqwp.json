@@ -1,0 +1,9 @@
+{
+  "ProjectName": "localizablecqwp",
+  "Title": "Localizable Content Query Web Part",
+  "Description": "The Localizable CQWB is a specialization of the built-in MOSS Content by Query WebPart. The class extends the base class web part by allowing resource file look up from XSLT, GUI based selection of header and item XSL style files, choosing additional fields.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Localizable CQWB is a specialization of the built-in MOSS Content by Query WebPart. The class extends the base class web part by allowing resource file look up from XSLT, GUI based selection of header and item XSL style files, choosing additional fields.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-14T07:48:25.543-07:00"
+}

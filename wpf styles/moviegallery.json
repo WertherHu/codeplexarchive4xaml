@@ -1,0 +1,9 @@
+{
+  "ProjectName": "moviegallery",
+  "Title": "Movie Gallery",
+  "Description": "All your movies listed in a nice styled Metro experience! It scans your chosen directories for various video files and looks up the metadata from IMDB before putting them all in a database.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>\r\n<h1>Project Description</h1>\r\n</b>\r\n<p>All your movies listed in a nice styled Metro experience! It scans your chosen directories for various video files and before putting them all in a database it looks up the metadata from IMDB.\r\n</p>\r\n<p>&#160;</p>\r\n<h1>Technical Information</h1>\r\n<p>To develop the application the following items are used:</p>\r\n<ul>\r\n<li>Visual C# </li><li>.NET 4.0 (Full) </li><li>Visual Studio 2010 </li><li>WPF </li><li><a href=\"http://www.theleagueofpaul.com/metro\">MahApps.Metro</a> </li><li><a href=\"http://mvvmlight.codeplex.com/\">MVVM Light Toolkit</a> </li><li>SQL Server CE 3.5 </li></ul>\r\n<p>&#160;</p>\r\n<h1>Application Requirements</h1>\r\n<p>So far known requirements to run the program:</p>\r\n<ul>\r\n<li>.NET 4.0 (Full) </li><li>Windows 7 (maybe Vista) </li></ul>\r\n<p>&#160;</p>\r\n<h1>Looks</h1>\r\n<p><a href=\"http://download.codeplex.com/Download?ProjectName=moviegallery&DownloadId=338124\"><img title=\"image\" border=\"0\" alt=\"image\" src=\"http://download.codeplex.com/Download?ProjectName=moviegallery&DownloadId=338125\" width=\"464\" height=\"311\" style=\"border-bottom:0px; border-left:0px; padding-left:0px; padding-right:0px; display:inline; border-top:0px; border-right:0px; padding-top:0px\"></a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-04T15:28:25.447-08:00"
+}

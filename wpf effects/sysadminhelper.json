@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sysadminhelper",
+  "Title": "Systems Administration Helper",
+  "Description": "Systems Administration Helper is a WPF program designed to help administrators who use ActiveDirectory or OpenAudit to perform tasks on their remote computers from one easy-to-use interface. Tasks include remote desktop, Wake on Lan, Ping, remote execute (PsExec) and copy files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Systems Administration Helper is a WPF program designed to help administrators who use ActiveDirectory or OpenAudit to perform tasks on their remote computers from one easy-to-use interface. Tasks include remote desktop, Wake on Lan, Ping, remote execute &#40;PsExec&#41; and copy files.<br /><br /><b>Details</b><br /><br />Systems Administration Helper is a WPF program designed to help administrators who use ActiveDirectory or OpenAudit to perform tasks on their remote computers from one easy-to-use interface. <br /><br />The following tasks can be accomplished for one or multiple computers:<br />\n<ul><li>remote desktop</li>\n<li>Wake on Lan</li>\n<li>Ping</li>\n<li>remote execute (PsExec) </li>\n<li>Copy files and folders</li></ul>\n<br /><b>Requirements</b><br /><br />You need to have either ActiveDirectory or OpenAudit installed in your network for the program to work. To configure the program just edit the app.config file.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-07-29T10:39:35.933-07:00"
+}

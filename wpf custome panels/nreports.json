@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nreports",
+  "Title": "NReports",
+  "Description": "NReports is a reporting library using RDL file format, compatible with SQL Reporting Services 2005.\r\n\r\nIt has began as a fork of the latest version 4.1 of fyiReporting (now defunct).\r\n\r\nSupports NET 3.5 (Windows) and Mono 2.6 or later (Linux).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />NReports is a reporting library using RDL file format, compatible with SQL Reporting Services 2005.<br /><br />It has began as a fork of the latest version 4.1 of fyiReporting &#40;now defunct&#41;.<br /><br />Supports NET 3.5 &#40;Windows&#41; and Mono 2.6 or later &#40;Linux&#41;.<br /><br /><br /><b>Features</b>\n<ul><li>Report viewer and designer using Windows Forms for a rendering (Windows Platform)</li></ul>\n\n<ul><li>Report viewer using Gtk and Cairo for a  rendering. (Linux Platform)</li></ul>\n\n<ul><li>Report viewer using WPF for a rendering (planned) </li></ul>\n\n<ul><li>ASP .NET report server and web control viewer</li></ul>\n<br /><b>Roadmap</b><br /><br />Major features planned, except bug fixing.<br />\n<ul><li>NReports 0.8.2 \n<ul><li>Add WPF/Silverlight report viewer</li>\n<li>Add radius border to report item</li></ul></li></ul>\n\n<ul><li>NReports 0.8.3\n<ul><li>Implement HTML report render using Canvas</li>\n<li>Add justified alignment</li></ul></li></ul>\n<br />\n<ul><li>NReports 0.9 \n<ul><li>Add a new report designer, based on the current one but with improved main form layout.</li></ul></li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Reporting,Reporting Services,mono,Linux,silverlight,.NET,C#,Windows Forms,WPF,ASP.NET,gnome,",
+  "LastEdited": "2011-02-14T12:20:28.953-08:00"
+}

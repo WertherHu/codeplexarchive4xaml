@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SSISDropIndex",
+  "Title": "Drop and Create indexes SSIS Task",
+  "Description": "This is a simple SSIS Control Flow Task which can be used to drop and re-create all non-primary key indexes associated with specified table.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>This SSIS control flow task allows developers to easily drop and create indexes associated with any given table which is especially useful for large data loads typically in data warehousing applications.<br>\r\n<br>\r\nIt is a widely adopted practice to drop all indexes relating to fact tables just be fore executing the load task and re-create them back just after load has completed. Doing this can is most cases improve loading performance especially if the table being loaded\r\n has a large number of indexes.<br>\r\n<br>\r\nThe task uses a ADO.Net connection to query the sys.indexes system table and construct the respective DROP INDEX and CREATE INDEX statements pertaining to the indexes associated with the specified table. These statement are stored internally within the task\r\n object as strings. The string containing CREATE INDEX statements can then be assigned to a package variable that can be later used within an Execute SQL task to re-create the indexes.<br>\r\n<br>\r\nA property editor user interface is available on the task that can be used by the developer to configure the task.</p>\r\n<p>See <em><a href=\"https://ssisdropindex.codeplex.com/documentation\">Documentation</a></em>&nbsp;tab for more details.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-31T03:29:39.383-07:00"
+}

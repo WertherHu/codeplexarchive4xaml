@@ -1,0 +1,9 @@
+{
+  "ProjectName": "piwik4msaf",
+  "Title": "Piwik for Microsoft Silverlight Analytics Framework",
+  "Description": "Piwik for Micorsoft Silverlight Analytics adds Piwik support to the MSAF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Project Description</h1>\r\n<p>Piwik for Microsoft Silverlight Analytics Framework is an Analytics Service for the\r\n<a href=\"http://msaf.codeplex.com/\">MSAF</a>. It's append basic support for the open source web analytics tool\r\n<a href=\"http://piwik.org\">Piwik</a>.</p>\r\n<h2>Supported Systems</h2>\r\n<table border=\"1\">\r\n<tbody>\r\n<tr>\r\n<td><span style=\"color:#808080\"><strong>Vendor</strong></span></td>\r\n<td><span style=\"color:#808080\"><strong>Silverlight 3</strong></span></td>\r\n<td><span style=\"color:#808080\"><strong>Silverlight 4</strong></span></td>\r\n<td><span style=\"color:#808080\"><strong>Silverlight 5</strong></span></td>\r\n<td><span style=\"color:#808080\"><strong>Windws Phone 7</strong></span></td>\r\n<td><span style=\"color:#808080\"><strong>Windows Phone 8&nbsp;</strong></span></td>\r\n</tr>\r\n<tr>\r\n<td><a href=\"http://www.piwik.org\" target=\"_blank\">Piwik</a></td>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td>&nbsp;</td>\r\n<td>X</td>\r\n<td>X</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-02T06:33:35.583-07:00"
+}

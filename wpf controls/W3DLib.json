@@ -1,0 +1,9 @@
+{
+  "ProjectName": "W3DLib",
+  "Title": "Wiimote 3D Library",
+  "Description": "Library to extracted three-dimension coordinates using Multiple Wiimotes\r\n for Developers, ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><b>Eng</b><br />A library for using a Two Nintendo Wii Remote (Wiimote) from .NET.<br /><br />Anytime you want to participate in the project, please e-mail <a href=\"https://w3dlib.codeplex.com/wikipage?title=bobhappy2000%40gmail.com&referringTitle=Home\">bobhappy2000&#64;gmail.com</a>. <br /><br />A lot better for the library, please advise.<br /><br />This project started life as an article for <a href=\"http://www.secmem.org\">http://www.secmem.org</a> website<br /><br /><a href=\"http://www.youtube.com/watch?v=SASF76Z86p0\">http://www.youtube.com/watch?v=SASF76Z86p0</a><br /><br /><b>Kor</b><br />본 프로젝트는 WiimoteLib 프로젝트의 Library를 이용하여 제작된 3차원 좌표 추출 라이브러리입니다.<br /><br />여러분들의 많은 관심 부탁드립니다.<br /><br />프로젝트 개발에 참여하고 싶으신 분은 bobhappy2000@gmail.com 으로 언제든지 연락주세요.<br /><br />이 프로젝트는 삼성소프트웨어 멤버십<a href=\"http://www.secmem.org\">http://www.secmem.org</a>의 과제로 진행된 작품입니다.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Wii,wiimote,3d,Library,awsome,bluetooth,cool,remote control,",
+  "LastEdited": "2009-07-16T13:44:06.253-07:00"
+}

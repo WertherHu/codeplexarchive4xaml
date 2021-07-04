@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stargamejava",
+  "Title": "StarGame - A space themed game",
+  "Description": "We're a team dedicated to bringing you hours of entertainment.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Welcome to StarGame</b> <br /><br />StarGame is a game made entirely out of Java, by a lone developer, we use very few libraries, here&#39;s a list of the ones we currently use:<br />\n<ul><li>TwitterAPI</li></ul>\n<br />We&#39;re currently changing our game in various ways, we even have a webpage dedicated to it, you can find it here:<br /><a href=\"http://connorwright.uk/stargame\">http://connorwright.uk/stargame</a><br /><br />(Download coming soon)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-12-30T15:41:21.653-08:00"
+}

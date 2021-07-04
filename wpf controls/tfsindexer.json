@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfsindexer",
+  "Title": "TFS Indexer for .pdb files",
+  "Description": "A simple NuGet package that, once installed on your project, will index source files of built .pdb file to their location on a TFS Version Control server.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>TFs Indexer for .pdb files</h1>\rA simple NuGet package that, once installed on your project, will index source files of built .pdb file to their location on a TFS Version Control server.<br /><br />This project is made for those who wish for an easy way to have their .pdb files with source indexed on TFS Source Control server, but do not have the resources for maintaining a build server up and running.<br /><br />If you find yourself in this situation, all you have to install TfsIndexer NuGet package to your projects; it will take care of the rest. For more information on TfsIndexer NuGet package, see <a href=\"https://www.nuget.org/Packages/TfsIndexer\">https://www.nuget.org/Packages/TfsIndexer</a><br /><br />It currently supports TFS 2012 and 2013, and should work with Visual Studio 2012 and 2013.<br /><br /><a href=\"https://tfsindexer.codeplex.com/wikipage?title=Debugging%20with%20indexed%20symbols&referringTitle=Home\">Don&#39;t forget to check out how to debug with indexed symbols</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-04-02T19:31:26.02-07:00"
+}

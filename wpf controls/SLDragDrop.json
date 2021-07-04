@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLDragDrop",
+  "Title": "Drag and drop in Silverlight",
+  "Description": "Attached is the module with drag and drop implementation. Sample implemented is for labels - same can be extended to custom controls or any Silverlight control.\n\nI have the runnable copy attached as well. You can check this out before looking into the code. (draganddrop.xap)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Attached is the module with drag and drop implementation. Sample implemented is for labels - same can be extended to custom controls or any Silverlight control.<br /><br />I have the runnable copy attached as well. You can check this out before looking into the code. &#40;draganddrop.xap&#41;<br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-15T04:04:17.867-07:00"
+}

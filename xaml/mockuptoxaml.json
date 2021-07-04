@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mockuptoxaml",
+  "Title": "Mockup to XAML",
+  "Description": "Convert Balsamiq Mockups to XAML.  This project supports BMML mockup control conversion using plugins.  A standard set of controls are included with the core application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Convert Balsamiq Mockups to XAML.  This project supports BMML mockup control conversion using plugins.  A standard set of controls are included with the core application.<br /><br /><br />The purpose of this project is to provide the Silverlight and WPF community the ability to convert a Balsamiq mockup file to XAML code.<br /><br />More information about Balsamiq Mockups can be found on the company&#39;s website:<br /><a href=\"http://www.balsamiq.com/\">http://www.balsamiq.com/</a><br />The developers of this project are in no way related to Balsamiq.<br /><br />Please refer to the <a href=\"http://mockuptoxaml.codeplex.com/documentation\">Documentation</a> section for information on creating plugins for the MockupToXaml application.<br />\n<h2>We need developers to help us out!</h2>\rPlease signup to be a developer, we could use your help.  Check out the Issue Tracker for some items you can take.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-25T18:43:45.983-07:00"
+}

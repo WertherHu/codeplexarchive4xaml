@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ozframework",
+  "Title": "OhZee Creative Framework",
+  "Description": "OhZee Creative Framework contains the base classes used by various applications by OhZee Creative, LLC. Most notably, it's used by OhZee Creative Controls.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is the framework that&#39;s currently used by OhZee Creative Controls.<br /><br />Install via NuGet: http://www.nuget.org/packages/OzFramework/<br /><br />Use at your own risk. Updates to this project may or may not happen.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-21T20:30:56.563-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "googleChartHelper",
+  "Title": "Google Chart API Helper",
+  "Description": "Controls to insert Google Charts to your web application.\n\nNo Javascript code to do. We do it for you !",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Google Chart API Helper is a Wrapper for Google Chart API, containing Custom Controls for ASP.Net applications.<br /><br />The first part is a <b>series of Classes to define you charts settings and DataSource</b>.<br />The next one is <b>WebControls</b> to embedded Google Charts in your web pages.<br /><br />Google Chart API Helper is wrapping Google API calls in a JQuery plugIn.<br /><br /><b>We offer 4 solutions to use Google Chart API Helper</b>\n<ul><li>Manual implementation : Add yourself the JQuery plugIn, call it providing the DataSource and Settings from Google Chart API Helper Classes</li>\n<li>Standard implementation: using one of the WebControls to set the options and the DataSource ... and that&#39;s all !</li>\n<li>Asynchronous implementation : use one of the WebControls and provide a Callback address (ashx) to get the DataSource and the Settings while the page is loaded</li>\n<li>WCF Implementation : Need manual implementation and binding the DataSource and Settings on the Callback result of the WCF/JSON method call.</li></ul>\n<br /><br />and don&#39;t forget to use JQuery 1.5 Library !<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "google api,chart,Ajax,",
+  "LastEdited": "2011-03-02T04:07:52.143-08:00"
+}

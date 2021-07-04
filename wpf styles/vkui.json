@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vkui",
+  "Title": "Vkontakte UI",
+  "Description": "Styles for Silverlight controls (as social network vkontakte.ru)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Styles for Silverlight controls &#40;as social network vkontakte.ru&#41;<br /><br />Проект представляет собой набор стилей для стандартных элементов Silverlight, делающих их похожими на элементы  соцсети vkontakte.ru<br /><br />Свежую версию всегда можно скачать тут <a href=\"http://vkui.codeplex.com/SourceControl/list/changesets\">http://vkui.codeplex.com/SourceControl/list/changesets</a><br /><br />Текущее состояние - альфа 0.1</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-10T08:39:39.17-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gmailmetronotifier",
+  "Title": "Gmail Metro Notifier",
+  "Description": "Gmail Metro Notifier leverages Windows 8 toast notifications to notify you whenever you receive an e-mail on your Gmail account.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Description</h1>\rGmail Metro Notifier leverages Windows 8 toast notifications to notify you whenever you receive an e-mail on your Gmail account.<br />\n<h1>Features</h1>\r<ul><li>Runs in the background, placing an icon in system tray.</li>\n<li>Checks for unread e-mails periodically.</li>\n<li>Browses to Gmail by selecting the toast or the tray icon.</li>\n<li>Can store credentials for future authentication attempts*</li>\n<li>Can write logs into Windows Event Log.</li></ul>\n*<b>WARNING:</b> By default, credentials are stored in plain text. Please head on to the documentation page to know how to disable this feature. Currently the application does not support saving credentials using encryption mechanisms.<br />\n<h1>Background</h1>\rThis project started as a personal one for covering a requirement: get new mail notifications from Gmail in Windows 8, no matter if I were at desktop or in a metro-style application.<br /><br />Although this is somehow covered by Windows 8 Mail app, its functionality is far behind from what I needed. That is how this project began.<br /><br />I use this project also to do some experiments such as better solution organisation, notification broker system or unit testing... That means that the project is a little bit over-engineered for such a simple task.<br /><br />Anyway, I encourage you to head on to the <a href=\"http://gmailmetronotifier.codeplex.com/SourceControl/BrowseLatest\">Source code</a>, have a look and improve it to meet your own needs.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-09T23:38:24.937-08:00"
+}

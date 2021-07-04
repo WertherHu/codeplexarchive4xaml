@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hostseditor",
+  "Title": "HostsEditor",
+  "Description": "Hosts Editor is small application for editing windows Hosts file. The hosts file is a computer file used to store information on where to find a node on a computer network. This file maps hostnames to IP addresses. The hosts file is used as a supplement to (or instead of) the domain name system on networks of varying sizes. Unlike DNS, the hosts file is under the control of the user who is using the computer.\n\nNow you can easyly add new nodes, without manual editing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Hosts Editor is small application for editing windows Hosts file. The hosts file is a computer file used to store information on where to find a node on a computer network. This file maps hostnames to IP addresses. The hosts file is used as a supplement to &#40;or instead of&#41; the domain name system on networks of varying sizes. Unlike DNS, the hosts file is under the control of the user who is using the computer.<br /><br />Now you can easyly add new nodes, without manual editing.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Editor,hosts,Small,HostsEditor,",
+  "LastEdited": "2008-04-17T15:46:43.087-07:00"
+}

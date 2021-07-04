@@ -1,0 +1,9 @@
+{
+  "ProjectName": "isdrone",
+  "Title": "IsDrone",
+  "Description": "Program to control Parrot Ar.Drone 2.0 for Microsoft Windows using a gamepad",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>IsDrone - client Parrot AR.Drone 2.0 for Windows.</b><br /><br /><br />isDrone is a program to control Parrot Ar.Drone 2.0 for Windows 8 (or 8.1) using a gamepad and overlay telemetry. To control Ar.Drone 2.0 must: \n<ul><li>computer (laptop, tablet ...) OS Windows + wifi </li>\n<li>gamepad </li></ul>\n<img src=\"/projects/isdrone/a1a0daa0-980e-4cb0-a1b2-5a1966783e87\" alt=\"Безымянный.png\" title=\"Безымянный.png\" /><br /><br />Features \n<ul><li>Full telemetry overlay on video (using directx ie no load on the processor) </li>\n<li>Sound notification about battery level </li>\n<li>Calculation of flight time, flight time remaining and the average flight time to the full accumulator </li>\n<li>4 Control modes: normal, hover, compass orientation mode (by pressing the fixed current direction of the magnetic axis with respect to the drone and land management in the future, all will occur on this route), with the ability to hover yaw </li>\n<li>Video-mode selection buttons gamepad (start recording and stop) </li>\n<li>Assignment-control buttons, gamepad sensitivity (up above where the wind is stronger and increased sensitivity)</li>\n<li>Output and change the setting all drone </li>\n<li>Record telemetry file and viewing trajectory</li></ul>\n<img src=\"/projects/isdrone/5de56405-1e42-47a1-8a56-e9e6e295605a\" alt=\"en.png\" title=\"en.png\" /><br />using Ruslan-B/AR.Drone https://github.com/Ruslan-B/AR.Drone</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Parrot AR Drone 2.0,Parrot AR Drone,Parrot,Drone,Ar Drone,quadrocopter,rc,Квадрокоптер,ар дрон,",
+  "LastEdited": "2014-07-21T11:44:48.657-07:00"
+}

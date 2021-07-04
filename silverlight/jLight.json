@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jLight",
+  "Title": "jLight",
+  "Description": "Interop between Silverlight and the javascript based on jQuery. The syntax used in Silverlight is as close as posible to the jQuery syntax.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Interop between Silverlight and the javascript based on jQuery. The syntax used in Silverlight is as close as posible to the jQuery syntax.<br /><br /><br />Examles of regular jQuery expressions:<br /><br />jQuery:      <br /><pre>    jQuery(&quot;span:last&quot;).offset({left : 10, top : 100}); \n    jQuery(&quot;div&quot;).css(&quot;border&quot;,&quot;3px solid red&quot;);\n</pre><br />jLight in Silvelight:  <br /><pre>    jQuery.Select(&quot;span:last&quot;).Offset(new {left = 10, top = 100 }); \n    jQuery.Select(&quot;div&quot;).Css(&quot;border&quot;,&quot;3px solid red&quot;);\n</pre><br /><br /><br />But, with jLight you can interop between C# and javascipt. The code below runs thru each textbox and adds its value to a textbox.<br /><pre>    jQuery.Select(&quot;input:text&quot;).Each((a, b) =&gt;\n                    {\n                        textBox1.Text += jQueryObject.FromObject(a).Val();\n                        return false;\n                    });\n</pre><br /><br />here&#39;s a demo of that interop. <a href=\"http://www.timmykokke.com/jlightdemos/jLightCssTutorialTestPage.html\">http://www.timmykokke.com/jlightdemos/jLightCssTutorialTestPage.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,jQuery,",
+  "LastEdited": "2010-07-27T07:33:50.167-07:00"
+}

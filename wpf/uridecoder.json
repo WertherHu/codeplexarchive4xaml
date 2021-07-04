@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uridecoder",
+  "Title": "URI Decoder",
+  "Description": "Decodes encoded URIs.",
+  "MovedLink": "https://github.com/shemarlindie/uridecoder",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Decodes encoded URIs.<br />\n<h2>Features</h2>\r<ul><li>Decodes encoded URIs.</li></ul>\n<br />Example:<br /><br /><b>http://example.com/q?%6b%65%79=%76%61%6c%75%65</b><br /><br /><u>becomes ...</u><br /><br /><b>http://example.com/q?key=value</b><br /><br /><u>...when decoded.</u><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,wpf,.net,uri,encode,decode,",
+  "LastEdited": "2014-06-28T15:43:57.96-07:00"
+}

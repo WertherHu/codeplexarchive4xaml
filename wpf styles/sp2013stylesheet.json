@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sp2013stylesheet",
+  "Title": "SharePoint 2013 Starter Stylesheet",
+  "Description": "This is a starter css to be used in the branding of a Sharepont 2013 publishing site, containing mainly the classes used for text styling.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n<br>\r\nThis&nbsp;project starts off as being a css file that skins the text&nbsp;of SharePoint 2013 publishing sites.<br>\r\nThe css is designed to reveal the classes that your css needs to access the text content (ONLY!) of your site. The purpose of the project is&nbsp;to be&nbsp;a starting point of your own Sharepoint stylesheet, at least for the text branding part.</p>\r\n<p>The css is commented so that you know which class(es) apply to which element/area of a SharePoint page.<br>\r\n<br>\r\nDownload the css if:<br>\r\n- you are working on branding a SharePoint 2013 site and need a css starting point<br>\r\n- you want to use a starter css that complies with best practices (aka not core.css)<br>\r\n<br>\r\n<strong>Preview:</strong></p>\r\n<p><img src=\"http://madalina.blog.com/files/2013/05/Capture1.jpg\" alt=\"starter preview\" width=\"720\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,SharePoint2013,css,branding,stylesheet,masterpage,starter,",
+  "LastEdited": "2013-05-30T02:37:50.867-07:00"
+}

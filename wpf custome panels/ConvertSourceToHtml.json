@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ConvertSourceToHtml",
+  "Title": "ConvertSourceToHtml",
+  "Description": "This is a standalone version of the popular Visual Studio plugin 'CopySourceAsHtml'. ConvertSourceToHtml replaces RTF code in your clipboard by HTML code that you can paste in your website or blog.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">ConvertSourceToHtml is a standalone version of the popular Visual Studio plugin <a href=\"http://copysourceashtml.codeplex.com/\">CopySourceAsHtml</a>. ConvertSourceToHtml was created for Visual Studio Express users because the Express editions do not support plugins. ConvertSourceToHtml replaces RTF code in your clipboard by HTML code that you can paste in your website or blog.<br /><br /><img src=\"/projects/ConvertSourceToHtml/c1f99d48-0f7b-4c03-9cda-b21bb30e5bc4\" alt=\"ConvertSourceToHtml&#32;window\" title=\"ConvertSourceToHtml&#32;window\" /><br /><br /><a href=\"http://bassem.qsh.eu/small-software-projects/convert-source-to-html\">Click here</a> to read an article about this project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,html,Visual Studio,Conversion,rtf,WPF,",
+  "LastEdited": "2009-10-17T20:01:16.573-07:00"
+}

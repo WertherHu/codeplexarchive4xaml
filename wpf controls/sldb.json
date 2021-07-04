@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sldb",
+  "Title": "Silverlight DiscussionBoard for SharePoint",
+  "Description": "SLDB is a Silverlight webpart that displaysys displas Sharepoinnd Discussions Boards in a Silverlight Treeview Control(Discussions the way they were meant to be!).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a SharePoint 3.0 webpart that uses a Silverlight treeview to display metadata about Sharepoint discussions and uses the htmlbridge to show the content of the discussion in a &lt;div&gt;on a sharepoint webpart page.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-01T05:29:38.76-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPF3DPhysics",
+  "Title": "WPF 3D Physics",
+  "Description": "Project to convert the Managed Bullet Physics library to use WPF instead of XNA.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Project to convert the Managed Bullet Physics library to use WPF instead of XNA.<br />This project is based on code from the Managed Bullet Physics Library (xnadevru).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,",
+  "LastEdited": "2012-03-22T08:43:15.133-07:00"
+}

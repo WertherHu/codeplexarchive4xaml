@@ -1,0 +1,9 @@
+{
+  "ProjectName": "curvemenu",
+  "Title": "CurveMenu",
+  "Description": "CurveMenu是一个菜单控件，可对其内部的子元素排出旋转的效果。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />nasa.wang<br /><a href=\"http://www.cnblogs.com/nasa/\">http://www.cnblogs.com/nasa/</a><br />2009.09.29<br /><br /><br /><b>简介：</b><br /><br />CurveMenu是一个菜单控件，可对其内部的图片排出旋转的效果。<br />项目地址：<a href=\"http://curvemenu.codeplex.com/\">http://curvemenu.codeplex.com/</a><br /><br />功能：\n<ol><li>曲率</li>\n<li>选中项</li>\n<li>间距</li>\n<li>中间间距</li>\n<li>中间放大率</li>\n<li>边缘变形率</li>\n<li>边缘透明率</li>\n<li>可调大小</li>\n<li>3DY轴旋转率</li>\n<li>文本间距</li>\n<li>是否启用文本</li>\n<li>是否循环</li></ol>\n<br /><b>更新：</b><br />\n<ol><li>at 09.09.02 创建项目。</li>\n<li>at 09.09.29 提交codeplex。</li>\n<li>at 09.10.12 完成封装，制作demo演示。</li></ol>\n<br /><b>使用：</b><br />使用很简单，添加dll引用为其绑定数据<br /><br />            data = new List&lt;CurveMenuPanel.ItemData&gt;();<br />            for (var i = 0; i &lt; 16; i++)<br />            {<br />                cmp.ItemData itemData = new cmp.ItemData();<br />                itemData.id = i;<br />                itemData.imageUri = &quot;img/&quot; + i.ToString() + &quot;.png&quot;;<br />                itemData.title = &quot;图片&quot; + i;<br />                data.Add(itemData);<br />            }<br /><br />            mainPage.itemDataList = data;<br />            mainPage.buildScreen();<br /><br /><b>Demo：</b><br /><a href=\"http://grmcac.com/silverlight/lab/CurveMenu/\">http://grmcac.com/silverlight/lab/CurveMenu/</a><br /><br /><br /><b>其他：</b><br /><br />我的Blog：<a href=\"http://www.cnblogs.com/nasa/\">http://www.cnblogs.com/nasa/</a><br /><br /><b>预览：</b><br /><img src=\"http://docs.google.com/File?id=df5kjk97_607fw7m26gn_b\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight Controls,",
+  "LastEdited": "2009-10-12T02:41:00.847-07:00"
+}

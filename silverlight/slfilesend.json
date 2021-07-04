@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slfilesend",
+  "Title": "Silverlight File Sender",
+  "Description": "The application provides a simple way to allow one person to send a file to another via Silverlight 3. An asp.net application which hosts the PollingDuplex service handles the communications between the two. The goal of the project is to make it more flexible and stable.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The application provides a simple way to allow one person to send a file to another via Silverlight 3. An asp.net application which hosts the PollingDuplex service handles the communications between the two. The goal of the project is to make it more flexible and stable.<br /><br />Here is a link to a working version: <a href=\"http://www.gmontrone.com/SLFileSend/SLFileSenderTestPage.aspx\">http://www.gmontrone.com/SLFileSend/SLFileSenderTestPage.aspx</a>  As this gets updated, I plan on updating the site with the latest build.  I&#39;m also thinking about creating an independent site for this as well.  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-04T08:57:15.52-07:00"
+}

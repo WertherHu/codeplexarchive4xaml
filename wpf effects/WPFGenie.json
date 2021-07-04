@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFGenie",
+  "Title": "WPFGenie",
+  "Description": "wpf game!\r\nWPF使用了DirectX作为图形渲染引擎，因此游戏性能的表现要强于GDI+，而且WPF内建的对动画的支持使得游戏的编写更加简化。\r\n\r\nWPF也提供3D图形的功能，不过3D的建模和动画比较复杂，这里先做一个2D的游戏引擎练练手。\r\n\r\n超级马里奥的游戏，就从这个游戏做。走动、跳跃、发射子弹、边界检查和场",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />wpf game&#33;<br />WPF使用了DirectX作为图形渲染引擎&#65292;因此游戏性能的表现要强于GDI&#43;&#65292;而且WPF内建的对动画的支持使得游戏的编写更加简化&#12290;<br /><br />WPF也提供3D图形的功能&#65292;不过3D的建模和动画比较复杂&#65292;这里先做一个2D的游戏引擎练练手&#12290;<br /><br />超级马里奥的游戏&#65292;就从这个游戏做&#12290;走动&#12289;跳跃&#12289;发射子弹&#12289;边界检查和场<br /><br /><br /><b>**Delete the following note before publishing **</b><br /><br />This project is currently in setup mode and only available to project coordinators and developers. Once you have finished setting up your project you can publish it to make it available to all CodePlex visitors.<br />1<br />There are three requirements before you publish:<br /><br />- Edit this page to provide information about your project<br />- Upload the initial source code for your project<br />- Add your project license<br />- Add summary to your project<br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-30T20:33:21.54-08:00"
+}

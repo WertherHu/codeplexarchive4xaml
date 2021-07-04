@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fancygrid",
+  "Title": "FancyGrid",
+  "Description": "A custom datagrid for WPF with support for real-time filtering, multisort, and themes. Compatible with MVVM and normal WPF binding.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>FancyGrid</h1>\r<i>A Filtering, Multisorting datagrid based on the vanilla one in WPF</i><br /><br />This is a mirror of my github project. It&#39;s slightly more up to date over there.<br /><a href=\"http://github.com/owen2/fancygrid\">http://github.com/owen2/fancygrid</a><br />\n<h2>Features</h2>\r\n<ul><li>Filtering\n<ul><li>Filter rows by any or all columns </li>\n<li>Filtering happens while you type</li>\n<li>Support for operators like ~ ! = &lt; &gt;</li></ul></li>\n<li>Multisort\n<ul><li>Sort by any set of columns</li>\n<li>Sort in any order</li>\n<li>Original collection is not modified.</li></ul></li>\n<li>Themes\n<ul><li>You can make your own themes.</li></ul></li>\n<li>Context Menus\n<ul><li>Attach extra items by simply setting a property</li></ul></li>\n<li>Decorators\n<ul><li>Hide Columns</li>\n<li>Rename Colums</li>\n<li>Use standard ComponentModel attributes on your presentation objects.</li></ul></li></ul>\n\n<h2>About</h2>\r\nI created this grid because there are a lot of grid that only have some of the functionality this one does, doesn&#39;t work well, or cost a lot of money. I put it on codeplex so that it might be useful to someone else. <br /><br />If you like this grid, please buy me a beer.<br /><a href=\"https://www.dwolla.com/hub/poptart911\">https://www.dwolla.com/hub/poptart911</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-11T08:59:20.877-07:00"
+}

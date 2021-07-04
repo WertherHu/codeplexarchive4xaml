@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fb2er",
+  "Title": "FB2er - a reader for FB2 electronic books. (.NET, WPF)",
+  "Description": "WPF based reader for FB2 electronic book format.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF based reader for FB2 electronic book format.<br /><br />Netbooks and tablets are finally making reading books on a PC a real alternative to paper books and e-ink based devices, and WPF&#39;s FlowDocumentReader is an &quot;ideal choice&quot; for a PC e-book reader. You will be able to change the font size and the layout of the book with great flexibility, and the typography is excellent.<br /><br />If you have some books in FB2(<a href=\"http://en.wikipedia.org/wiki/Fb2\">http://en.wikipedia.org/wiki/Fb2</a>) format, and would like to read them comfortably, you will enjoy this program.<br /><br />*Installation&quot;<br />If you&#39;re just interested in running the program, use the <a href=\"http://fb2er.s3.amazonaws.com/publish.htm\">http://fb2er.s3.amazonaws.com/publish.htm</a> ClickOnce installer.<br /><br /><i>Current state of the program</i><br />Basic functionality done, now to the bells and whistles. <br />Migrated to .NET 4 Client Profile and VS2010RC.<br />Deployed to ClickOnce.<br /><br /><i>Next steps</i><br />Complete testing with a comprehensive library of FB2 books.<br />Icon, splash screen, custom chrome, UI improvements.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,FB2,ebook,",
+  "LastEdited": "2010-03-03T08:18:00.133-08:00"
+}

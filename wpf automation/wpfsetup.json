@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfsetup",
+  "Title": "WPF Setup Wizard",
+  "Description": "A WPF implementation of a setup wizard for chaining multiple msi files implemented using the MVVM design pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>WPF Setup</b><br /><br />WPF Setup is a MSI setup bootstrapper capable of chaining multiple MSI files into a single setup wizard using the MVVM design pattern.  It is a work in progress, you can follow development on my blog: <a href=\"http://blog.douglasmendizabal.com/?p=19\">http://blog.douglasmendizabal.com/?p=19</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-02T16:33:36.213-07:00"
+}

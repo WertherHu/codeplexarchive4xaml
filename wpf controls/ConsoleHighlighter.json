@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ConsoleHighlighter",
+  "Title": "Console Highlighter",
+  "Description": "Hightlights Microsoft Windows Command prompt (cmd.exe) by outputting ANSI VT100 Control sequences to color the output. These sequences are not handled by cmd.exe, so there is a ANSI VT100 Colorizer project also included.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Hightlights Microsoft Windows Command prompt &#40;cmd.exe&#41; by outputting ANSI VT100 Control sequences to color the output. These sequences are not handled by cmd.exe, so there is a ANSI VT100 Colorizer project also included.<br /><br /><img src=\"/projects/ConsoleHighlighter/0220ad55-36da-4a81-ac2c-e056432e2eb9\" alt=\"Console&#32;Higlighter&#32;in&#32;Action\" title=\"Console&#32;Higlighter&#32;in&#32;Action\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-10T04:37:37.997-08:00"
+}

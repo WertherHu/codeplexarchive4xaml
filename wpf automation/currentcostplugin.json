@@ -1,0 +1,9 @@
+{
+  "ProjectName": "currentcostplugin",
+  "Title": "Current Cost plug-in for HouseBot",
+  "Description": "This plug-in will interface with cc128 current cost module and display in HouseBot automation software. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This plug-in will interface with cc128 current cost module and display in HouseBot automation software. <br /><br />Please note that it requires the c# wrapper to work found here: http://www.housebot.com/forums/viewtopic.php?f=4&amp;t=856395<br /><br />This plugin has only been tested with the C128 with software version CC128-v0.11<br /><br /><img src=\"/projects/currentcostplugin/69002984-66ea-4390-91e8-b915c8c8a672\" alt=\"CurrentCost.jpg\" title=\"CurrentCost.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-04-09T07:43:15.417-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "plato2d",
+  "Title": "Plato 2D Framework",
+  "Description": "Plato Windows Runtime App canvas oriented MVVM framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Plato Framework</b><br /><br />Plato is Windows Runtime App framework that facilitates Canvas based, data backed and rich content MVVM app development by providing useful patterns, interface declarations and common behaviours.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-19T05:47:48.73-07:00"
+}

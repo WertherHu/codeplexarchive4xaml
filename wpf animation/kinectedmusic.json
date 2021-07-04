@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinectedmusic",
+  "Title": "Kinected Music",
+  "Description": "KinectedMusic allows users to create music using Kinect.  It is developed in C#.\r\n\r\nThe libraries used are:\r\n\r\nBlueWave.Interop.Asio\r\nJacobi.Vst.Core\r\nJacobi.Vst.Interop\r\nKinectSDK (not included, http://research.microsoft.com/en-us/um/redmond/projects/kinectsdk/)\r\n\r\nI have recompiled some of these because there were some problems using them with my project.\r\n\r\nAlso it runs VSTs to play the sounds. (Not included yet)\r\n\r\nMore work to be done soon, a lot more work!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />KinectedMusic allows users to create music using Kinect.  It is developed in C&#35;.<br /><br />The libraries used are&#58;<br /><br />BlueWave.Interop.Asio<br />Jacobi.Vst.Core<br />Jacobi.Vst.Interop<br />KinectSDK &#40;not included, http&#58;&#47;&#47;research.microsoft.com&#47;en-us&#47;um&#47;redmond&#47;projects&#47;kinectsdk&#47;&#41;<br /><br />I have recompiled some of these because there were some problems using them with my project.<br /><br />Also it runs VSTs to play the sounds. &#40;Not included yet&#41;<br /><br />More work to be done soon, a lot more work&#33;<br /><br />This is a project I am doing for my thesis.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "kinect,music,vst,asio,wpf,Microsoft,gesture,nui,",
+  "LastEdited": "2011-05-13T22:58:31.28-07:00"
+}

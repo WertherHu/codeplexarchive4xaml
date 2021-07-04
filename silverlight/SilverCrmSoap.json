@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverCrmSoap",
+  "Title": "Silverlight CRM SOAP Library",
+  "Description": "SilverCrmSoap is a library built using the methods in the walkthrough to use the SOAP Endpoint for Web Resources with Silverlight to simplify Silverlight development for CRM 2011, providing a set of tools to make writing SOAP based Silverlight applicaiton for CRM easier and quick",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverCrmSoap is a library built using the methods in the walkthrough to use the SOAP Endpoint for Web Resources with Silverlight to simplify Silverlight development for CRM 2011, providing a set of tools to make writing SOAP based Silverlight applicaiton for CRM easier and quick<br /><br />The SilverCrmSoap Library contains 3 helpers, the <a href=\"https://silvercrmsoap.codeplex.com/wikipage?title=XrmHelper&referringTitle=Home\">XrmHelper</a>, the <a href=\"https://silvercrmsoap.codeplex.com/wikipage?title=FormHelper&referringTitle=Home\">FormHelper</a>, and the <a href=\"https://silvercrmsoap.codeplex.com/wikipage?title=SoapHelper&referringTitle=Home\">SoapHelper</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-25T08:10:23.847-07:00"
+}

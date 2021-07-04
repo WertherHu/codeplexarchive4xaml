@@ -1,0 +1,9 @@
+{
+  "ProjectName": "themeoverride",
+  "Title": "Theme Override Orchard module",
+  "Description": "This Orchard module adds configuration to the admin page that lets override the styling of the current theme (works with tenants too).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This Orchard module adds configuration to the admin page that lets override the styling of the current theme &#40;works with tenants too&#41;.<br />\n<h2>This repository has moved to GitHub. Please visit the new repository at <a href=\"https://github.com/Lombiq/Orchard-Theme-Override\">https://github.com/Lombiq/Orchard-Theme-Override</a>.</h2>\r<h2>The CodePlex page is not maintained anymore, but still here for historical reference. </h2>\r\nFeatures:\n<ul><li>Adds a configuration to Themes settings to specify styles that can override the theme&#39;s</li>\n<li>Works in a multi-tenant environment too, so you can provide tenants customization for their theme</li></ul>\n<br /><b>Commercial-grade support for this module is available through <a href=\"http://lombiq.com/\">Lombiq Technologies</a>.</b><br /><br />The module is also available for <a href=\"http://dotnest.com/\">DotNest</a> sites.<br /><br />You can install the module from the <a href=\"http://gallery.orchardproject.net/List/Modules/Orchard.Module.Piedone.ThemeOverride\">Gallery</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-11-28T09:45:09.163-08:00"
+}

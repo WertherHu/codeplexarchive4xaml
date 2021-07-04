@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bpm2",
+  "Title": "bpm2",
+  "Description": "- drag-drop workflow designer (currently using a 3rd party godiagram tool, will change to silverlight in bpm project)\n- backend job dispatcher/workflow engines",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />- drag-drop workflow designer &#40;currently using a 3rd party godiagram tool, will change to silverlight in bpm project&#41;<br />- backend job dispatcher&#47;workflow engines<br /><br /><img src=\"/projects/bpm2/da9a237b-a44f-4711-a50d-6fff61cb1b21\" alt=\"slice&#32;1.png\" title=\"slice&#32;1.png\" /><br /><br />Please see the following user guide for brief introduction: <a href=\"/projects/bpm2/dfe1dc08-cd47-416b-bb79-6186a35b6758\">bpm.chm</a><br /><br />Here is setup file <a href=\"http://cid-152c668624a34e93.skydrive.live.com/browse.aspx/.Public?uc=1\">http://cid-152c668624a34e93.skydrive.live.com/browse.aspx/.Public?uc=1</a>.<br /><br />Note: I am moving BPM to web using silverlight, next release won&#39;t happen until later this year.  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-06T08:29:06.417-08:00"
+}

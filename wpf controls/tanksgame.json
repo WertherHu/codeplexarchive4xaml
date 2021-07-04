@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tanksgame",
+  "Title": "XNA Tanks Game",
+  "Description": "Terrain render with Quadtree, Level of Detail control and Drawable Game Components with Animation Controller",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Tanks Game</h1>\r\nAnother stupid XNA game where some tanks try to destroy another tanks.<br /><br />Some terrain, some tanks, some explosions, a lot of smoke, you know.<br /><br /><i>Thanks to Clyde Coulter and his <a href=\"http://www.codeplex.com/quadtreeload\">Quadtreeload Component</a>. It was my terrain component base</i><br /><br /><i>And thanks too to <a href=\"http://www.riemers.net/\">Riemer&#39;s XNA tutorials</a> and his <a href=\"http://www.riemers.net/eng/Tutorials/XNA/Csharp/series4.php\">4th series XNA tutorial</a></i><br /><br />This is my developer&#39;s blog: <a href=\"http://devagame.blogspot.com/\">devagame</a><br /><br />I upload the complete source code for free download and use<br /><br />First view:<br /><br /><img src=\"/projects/tanksgame/50632b0e-7005-498b-b17d-002a314ea82c\" alt=\"5thRelease1.PNG\" title=\"5thRelease1.PNG\" /><br /><br /><img src=\"/projects/tanksgame/8acee5cb-d3be-4040-ad41-ebe7e13ccd23\" alt=\"5thRelease2.PNG\" title=\"5thRelease2.PNG\" /><br /><br /><img src=\"/projects/tanksgame/0671a614-a27f-416b-94f3-2df9edcee1b0\" alt=\"5thRelease3.PNG\" title=\"5thRelease3.PNG\" /><br /><br />I hope you like</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,game,XNA,game components,Visual Studio,Physics,Animation,XNA Game Studio,BSP,",
+  "LastEdited": "2010-01-02T16:29:03.663-08:00"
+}

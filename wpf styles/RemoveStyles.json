@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RemoveStyles",
+  "Title": "Remove Styles",
+  "Description": "Excel addin to remove all custom styles from a workbook. support.microsoft.com/kb/213904",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Remove Styles</b><br />Excel AddIn to remove all custom styles<br /><br />See the following KB article for more information on removing styles to avoid the <b>Too many different cell formats</b> alert.<br /><br /><b>You receive a &quot;Too many different cell formats&quot; error message in Excel</b><br /><a href=\"http://support.microsoft.com/kb/213904\">http://support.microsoft.com/kb/213904</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-17T11:48:38.133-08:00"
+}

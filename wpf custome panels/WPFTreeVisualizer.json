@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFTreeVisualizer",
+  "Title": "WPF Tree Debugger Visualizer",
+  "Description": "A debugger visualizer to view the Windows Presentation Foundation logical and visual tree of dependency objects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rA debugger visualizer to view the Windows Presentation Foundation logical and visual tree of dependency objects.<br />\n<h2>WPF Element Tree</h2>\rFor a more in-depth overview of the Element Tree in WPF I suggest you take a look at the following article <a href=\"http://msdn2.microsoft.com/en-us/library/ms753391.aspx\">http://msdn2.microsoft.com/en-us/library/ms753391.aspx</a>.<br />\n<h2>Screenshots</h2>\r<img src=\"/projects/WPFTreeVisualizer/61c31024-bb1a-466a-b182-da2f3f47ed36\" alt=\"VisualTree.JPG\" title=\"VisualTree.JPG\" /><br /><img src=\"/projects/WPFTreeVisualizer/5e23918e-1328-4aab-ad63-0ae297028b04\" alt=\"LogicalTree.JPG\" title=\"LogicalTree.JPG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2007-05-30T07:58:46.477-07:00"
+}

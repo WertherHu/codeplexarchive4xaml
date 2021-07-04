@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RadioComeback",
+  "Title": "Radio Comeback™",
+  "Description": "Radio days are Back!\r\n\r\nLive FM radio stations online for Free!\r\n\r\nRadio Comeback™ Project is a free open-source desktop radio player based on WPF, MVC4 and RavenDB",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Radio days are Back&#33;<br /><br />Live FM radio stations online for Free&#33;<br /><br />Radio Comeback&#8482; Project is a free open-source desktop radio player based on WPF, MVC4 and RavenDB<br /><br /><img src=\"/projects/RadioComeback/0704ffb3-226f-4f55-9a33-205e68d88da2\" alt=\"TinyRadio.jpg\" title=\"TinyRadio.jpg\" /><br />\n<h1>Requirements</h1>\r<ul><li>Internet Connection</li>\n<li>Microsoft .NET Framework 4 Client Profile</li></ul>\n\n<h1>Installation</h1>\r\n<ul><li><a href=\"http://radiocomeback.codeplex.com/downloads/get/clickOnce/TinyRadio.application\">http://radiocomeback.codeplex.com/downloads/get/clickOnce/TinyRadio.application</a></li></ul>\n\n<h1>Contact</h1>\r\n<ul><li><a href=\"http://www.AlonAmsalem.com\">http://www.AlonAmsalem.com</a></li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,radio,RavenDB,mvc4,Tiny Radio,Metro,",
+  "LastEdited": "2015-04-12T06:07:34.113-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "colorpickr",
+  "Title": "Color picker control for Silverlight",
+  "Description": "Color picker is a custom Silverlight control that makes it easy to add color picking functionality to the Silverlight projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Color picker is a custom Silverlight control that makes it easy to add color picking functionality to the Silverlight projects.<br /><br />Read this blog post for more information and a demo: <a href=\"http://youpvp.com/blog/post/Color-picker-control-for-Silverlight.aspx\">http://youpvp.com/blog/post/Color-picker-control-for-Silverlight.aspx</a><br /><br />Install NuGet package: <a href=\"http://www.nuget.org/List/Packages/ColorPickr\">http://www.nuget.org/List/Packages/ColorPickr</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-10T00:29:12.223-07:00"
+}

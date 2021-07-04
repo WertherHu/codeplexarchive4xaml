@@ -1,0 +1,9 @@
+{
+  "ProjectName": "invinitools",
+  "Title": "Invini.Tools",
+  "Description": "This project contains some useful WPF converters, markup extensions and other classes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>SUMMARY</h1>\r\n<p>This project contains some WPF converters, markup extensions and other classes. The main purpose of these tools is to be used in other Invini projects but some of the classes are so universal that may be found useful on your daily work.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-10T06:26:55.32-08:00"
+}

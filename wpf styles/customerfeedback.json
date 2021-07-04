@@ -1,0 +1,9 @@
+{
+  "ProjectName": "customerfeedback",
+  "Title": "DNN Customer Feedback",
+  "Description": "DotNetNuke Module allows customers to make suggestions as well as vote and provide comments ( in the style of UserVoice and StackOverflow ). This module is developed using an inline script model.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DotNetNuke Module allows customers to make suggestions as well as vote and provide comments &#40; in the style of UserVoice and StackOverflow &#41;. This module is developed using an inline script model.<br /><br /><u>Summary View:</u><br /><br /><img src=\"/projects/customerfeedback/2b2536a1-ef38-4d67-8211-ada7da7ac430\" alt=\"customerfeedback.png\" title=\"customerfeedback.png\" /><br /><br /><u>Details View:</u><br /><br /><img src=\"/projects/customerfeedback/db95c888-f523-40f7-8453-61adcd3dacfb\" alt=\"customerfeedback2.png\" title=\"customerfeedback2.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DNN,Customer Feedback,User voice,Uservoice,Voting,Stackoverflow,",
+  "LastEdited": "2010-10-15T11:04:20.107-07:00"
+}

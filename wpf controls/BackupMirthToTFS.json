@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BackupMirthToTFS",
+  "Title": "Backup Mirth To TFS",
+  "Description": "You're a developer managing a handful of Mirth Connect HL7 integration servers. You want to ensure that your servers are under change control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Overview</strong></p>\r\n<p><strong>&nbsp;</strong>Your Mirth servers should be under source control. They're code after all.</p>\r\n<p><br>\r\n<br>\r\nLots more to come as I get this project uploaded and cleaned up:</p>\r\n<p>&nbsp;</p>\r\n<ul>\r\n<li>source refactoring </li><li>prerequisites </li><li>installation </li><li>walkthrough </li><li>configuration tweaks </li><li></li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-05T13:26:36.497-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LimitlessLightSwitch",
+  "Title": "LimitlessLightSwitch - Control your LimitlessLED bulbs",
+  "Description": "LimitlessLightSwitch is a windows phone application that allows the user to control LimitlessLED RGBW lightbulbs with their mobile device.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />LimitlessLightSwitch is a windows phone application that allows the user to control LimitlessLED RGBW lightbulbs with their mobile device.<br /><br /><br /><b>Additional Information</b><br />LimitlessLED bulbs are 2.4GHz RF-controlled light bulbs, that, in combination with a wifi-bridge, can be controlled by this application. It makes use of a connector library, which can be found under related projects.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Limitless,LED,wrapper,Light,Controller,Windows Phone,",
+  "LastEdited": "2014-02-04T12:30:40.8-08:00"
+}

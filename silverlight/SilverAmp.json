@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverAmp",
+  "Title": "SilverAmp",
+  "Description": "A media player to demonstrate lots of new Silverlight 4 features. Running out of browser and reading files from the MyMusic folder are two of them. It is using MEF to load extensions. \n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A media player to demonstrate lots of new Silverlight 4 features. Running out of browser and reading files from the MyMusic folder are two of them. It is using MEF to load extensions. <br /><br /><br /><br /><img src=\"http://www.timmykokke.com/SilverAmp/silveramp01.png\" /><br /><br /><img src=\"http://www.timmykokke.com/SilverAmp/silveramp02.png\" alt=\"Toast\" title=\"Toast\" /><br />\n<hr />\nI ported TagLib# to Silverlight to read the ID3 tags from the mp3 files. More info about that <a href=\"http://developer.novell.com/wiki/index.php/TagLib_Sharp\">here</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,silverlight 4,",
+  "LastEdited": "2010-05-21T05:34:55.337-07:00"
+}

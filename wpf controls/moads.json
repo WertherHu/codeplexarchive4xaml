@@ -1,0 +1,9 @@
+{
+  "ProjectName": "moads",
+  "Title": "MoAds Win Phone 7 Custom Ad Control with AdMob support",
+  "Description": "MoAds is a custom Silverlight control for Win Phone 7 for showing ads from different service providers including AdMob.\r\n\r\nMoAds has support for serving custom ads and is highly \"Blendable\".",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br /><b>MoAds</b> is a custom Silverlight control for <b>Win Phone 7</b> for showing ads from different service providers including <b>AdMob</b>.<br /><br /><b>MoAds</b> has support for serving <u>custom ads</u> and is highly &quot;Blendable&quot;.<br />\n<h2>Custom Styles, Animation and Templates</h2>\r\n<img src=\"/projects/moads/e73642ae-461b-4486-9513-8ce141ff9817\" alt=\"MoAds-AdMobTest.png\" title=\"MoAds-AdMobTest.png\" /><br /><br /><pre>\n&lt;moad:AdDisplay\n                Height=&quot;70&quot;\n                VerticalAlignment=&quot;Top&quot;\n                Foreground=&quot;White&quot;\n                RefreshSeconds=&quot;30&quot;&gt;\n                &lt;moad:AdDisplay.AdAdapter&gt;\n                    &lt;moad:AdMobAdapter\n                        PublisherId=&quot;YourPublisherId&quot;\n                        CookieString=&quot;SomeCookieString&quot;\n                        AdKeywords=&quot;Money Fame Glory&quot;\n                        UseTestMode=&quot;True&quot;/&gt;\n                &lt;/moad:AdDisplay.AdAdapter&gt;\n            &lt;/moad:AdDisplay&gt;\n</pre><br /><br />This project was created by <a href=\"http://jacob4u2.blogspot.com\">Jacob Gable</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,ads,",
+  "LastEdited": "2010-08-28T11:08:35.673-07:00"
+}

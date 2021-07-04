@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cprp",
+  "Title": "CodePlex Release Publisher for CruiseControl.NET",
+  "Description": "A publisher for CruiseControl.NET that wraps the CodePlex API to submit a release. In some cases, a publisher may be a better candidate then using MSBuild task because the CodePlex API requires a user name and password to submit the release. The ccnet.config file usually wont be controlled by CodePlex Source Control but the MSBuild script usually is.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project is now part of <a href=\"http://codeplex.com/ccnetplugins\">CC.NET Community Plugins</a> and all future development and releases will take place there</h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CCNet,CCNetConfig,CC.NET,MSBuild,CruiseControl.NET,codeplex,CCNet Config,publisher,CruiseControl,",
+  "LastEdited": "2008-04-30T05:11:57.123-07:00"
+}

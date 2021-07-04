@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simpleAI",
+  "Title": "Simple AI Engine for XNA",
+  "Description": "Simple AI Engine for XNA featuring: gridded maps, A* pathfinding, pathfollowing, behaviours",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple AI Engine for XNA featuring&#58; gridded maps, A&#42; pathfinding, pathfollowing, behaviours<br /><br />Video showing three formation in action:<br /><a href=\"http://video.google.pl/videoplay?docid=-3968694590892783723#\">http://video.google.pl/videoplay?docid=-3968694590892783723#</a><br /><br />SimpleAI is an Artificial Inteligence SDK for XNA based projects.<br /><br />Most recent change list 4289:<br /> - Added groups of actors,<br /> - Added dynamic avoidance for stay-in-formation behaviour<br /><img src=\"/projects/simpleAI/47a3b39d-c8c1-470f-a08e-db32c217d7a2\" alt=\"formation.jpg\" title=\"formation.jpg\" /><br /><br /><br /><br />Currently SimpleAI features:<br />   - A* pathfinding for gridded maps.<br />   - Extendable behaviour based logic.<br />   - Behaviours: find path, follow path, goto, stay in formation.<br />   - custom motion controllers for moving actors and user character<br />   - Simplyfied rendering engine <br />   - Debug graphs for Garbage Collection and FPS stats.<br />   - Static and dynamic line batches<br />   - Camera implementation<br />   - Game framework for testing purpouses.<br /><br />This project is still in early development stage.<br /><br /><img src=\"/projects/simpleAI/1ba36553-7a98-40db-bbac-ec7bef991486\" alt=\"goto_beh.jpg\" title=\"goto_beh.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,AI,engine,game,A*,behaviour,logic,SDK,watch,XNA AI,bDownload,",
+  "LastEdited": "2010-05-21T13:13:41.963-07:00"
+}

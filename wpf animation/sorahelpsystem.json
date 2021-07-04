@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sorahelpsystem",
+  "Title": "Sora Help System",
+  "Description": "Aimed at providing an uniform way of accessing and displaying help content from any wpf based application",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Aimed at providing an uniform way of accessing and displaying help content from any wpf based application<br /><br />With Sora Help System, you have access to a Help File Editor allowing you to write your help content and then a Help Viewer. You can also display help content directly in your application by adding the HelpContentViewer control from Sora.HelpSystem.UI.WPF.dll.<br /><br /><img src=\"http://download.codeplex.com/download?ProjectName=sorahelpsystem&amp;DownloadId=156207\" /><br /><br />For more informations about the release, please visit :<br /><a href=\"http://www.codeproject.com/KB/WPF/authoringhelpwpf.aspx\">Authoring help file for WPF using Word 2007-2010 (Codeproject)</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-11T23:38:46.007-07:00"
+}

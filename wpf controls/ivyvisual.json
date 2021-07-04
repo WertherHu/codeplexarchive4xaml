@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ivyvisual",
+  "Title": "Integrate Apache Ivy in Visual Studio with the IvyVisual plugin",
+  "Description": "IvyVisual for Visual Studio is a minimal port of the IvyDE for Eclipse.\n\nIt solves the issue with refering to compiled dependencies and instead linkes the source projects files, to be able to test multiple modules compiling before commiting this to the source control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rIvyVisual for Visual Studio is a minimal port of the IvyDE for Eclipse.<br /><br />It solves the issue with refering to compiled dependencies and instead linkes the source projects files, to be able to test multiple modules compiling before commiting this to the source control.<br />\n<h1>Features</h1>\r<ul><li>Auto resolve ivy dependencies on a solution startup</li>\n<li>Auto unresolve ivy dependencies on a solution close</li></ul>\n\n<ul><li>Invoke resolve of ivy dependencies from a solutions context menu</li>\n<li>Invoke unresolve of ivy dependencies from a solutions context menu</li></ul>\n\n<h1>External links </h1>\r\n<ul><li><a href=\"http://ant.apache.org/ivy/ivyde/\">Apache IvyDE</a></li></ul>\n\n<h1>Special thanks to</h1>\r\nTimothy Bingaman for the work with the Ivy plugin at hudson and for all the discussions we had!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-13T11:44:51.74-08:00"
+}

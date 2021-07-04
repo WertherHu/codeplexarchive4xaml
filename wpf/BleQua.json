@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BleQua",
+  "Title": "BleQua",
+  "Description": "PL: Program sieciowy BleQua jest multi-komunikatorem.\r\nEN: Network program BleQua is multicomunicator.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Comunicator <b><i>&quot;BleQua&quot;</i></b></h1>\r\n<b>Project Description</b><br />PL&#58; Program sieciowy BleQua jest multi-komunikatorem.<br />EN&#58; Network program BleQua is multicomunicator.<br /><br /><b>PL:</b> Komunikator pozwalający na rozmowę z ludźmi bez względu na sieć w jakiej się znajdują. Lekki i przenośny.<br /><b>EN:</b> Messenger allows you to chat with people, regardless of the network in which they are. Lightweight and portable.<br /><br /><b>PL:</b> Wymagania systemowe znajdują się na zakładce dokumentacja.<br /><b>EN:</b> System Requirements is in Documentation tab.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Jabber,API,WPF,XMPP,.NET 4.0,C# 4.0,Comunicator,GG,",
+  "LastEdited": "2012-02-21T11:48:24.563-08:00"
+}

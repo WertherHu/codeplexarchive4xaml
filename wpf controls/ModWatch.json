@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ModWatch",
+  "Title": "ModWatch",
+  "Description": "A collection of AJAX .Net extender controls that will notify the client if they are leaving the page and there is unsaved data on the form.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Welcome to ModWatch.</b><br />ModWatch is a collection of AJAX .Net Extender Controls that easily allow a web developer to track changes that are made by the client and notify the client if they attempt to leave the page prior to saving.<br /><br />The goal of ModWatch is to provide a method of tracking changes on the client in a way that is easy to implement, and minimizes (or eliminates) the need to write custom javascript.<br /><br />For details about setting up and using the ModWatch framework, download the source code from the Releases tab, and view the WebTest project.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,ASP.NET,Ajax,ASP.NET Ajax,Server Controls,Extenders,",
+  "LastEdited": "2008-05-26T12:57:04.97-07:00"
+}

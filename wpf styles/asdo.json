@@ -1,0 +1,9 @@
+{
+  "ProjectName": "asdo",
+  "Title": "Asdo Controls and Helpers for WPF",
+  "Description": "AsdoLib help to create WPF TabControl that will be work as Chrome.\r\nAsdoLib is developed with Visual Studio 2010 and Expression Blend 4.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />AsdoLib help to create WPF TabControl that will be work as Chrome.<br />AsdoLib is developed with Visual Studio 2010 and Expression Blend 4.<br /><br /><br />The Lib is based on retired project ChromeTabControl. Both libs contain some components that help to create an application that look like the Chrome.<br /><img src=\"/projects/asdo/663cedca-497b-4b6c-8e41-2deda557ed66\" alt=\"shift2.png\" title=\"shift2.png\" /><br /><br />AsdoLib helps to create ListBox with manual sorting of items.<br /><img src=\"/projects/asdo/32b1de9a-6b32-4fae-be0f-809e0d597632\" alt=\"shift1.png\" title=\"shift1.png\" /><br /><br /><i><b>AsdoLib</b></i> contains follow components:\n<ul><li><b>SwipePanel</b>, it is a stack panel that supports swiping. It can use in templates of TabControl and ListBox.</li>\n<li><b>DragDropHelper</b>, it is a helper that support drag-n-drop out of a window.</li></ul>\nAlso, this Lib contains a lot of samples of using those components in styles, templates and code.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,Tab Control,panel,DragDrop,Drag And Drop,",
+  "LastEdited": "2012-01-19T05:07:15.18-08:00"
+}

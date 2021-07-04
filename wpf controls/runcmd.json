@@ -1,0 +1,9 @@
+{
+  "ProjectName": "runcmd",
+  "Title": "RunCmd  - a simple WPF MVVM based batch file editor",
+  "Description": "RunCmd is basically a simple windows batch file editor or  commandline helper utility. We can create/edit batch files and test them using RunCmd.\r\n\r\n\r\nRunCmd is ba",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>RunCmd</b><br />{Windows batch files creator/commandline helper utility.}<br /><br />RunCmd is basically a simple windows commandline helper utility. We can create/edit batch files and test them using RunCmd.<br /><br />RunCmd is basically a simplest MVVM implementation in WPF - using no external MVVM Frameworks - all homebrew basic utilities needed to implement MVVM Pattern - collected on as needed basis.<br /><br />RunCmd can also be a kickstart project for most simple MVVM implementation when we want only essentials inside our app with no external dependency.<br /><br />This project is currently in setup mode and only available to project coordinators and developers. Once you have finished setting up your project you can publish it to make it available to all CodePlex visitors.<br /><br /><a href=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=runcmd&amp;DownloadId=926840\">Preview (RunCmd_2_nov_2014.jpg)</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-11-03T03:34:47.913-08:00"
+}

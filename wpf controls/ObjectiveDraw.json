@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ObjectiveDraw",
+  "Title": "Objective Draw",
+  "Description": "The Objective Draw is a vector graphics editor tool. It allows to create documents and draw on them vector primitives. For acceleration of drawing it uses custom control library based on Microsoft Managed DirectX.Direct3D For document storage it uses the Cerebrum object oriented database management system [url:http://www.codeplex.com/Cerebrum].",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br />The Objective Draw is a vector graphics editor tool. It allows to create documents and draw on them vector primitives. For acceleration of drawing it uses custom control library based on Microsoft Managed DirectX.Direct3D. For document storage it uses the Cerebrum object oriented database management system <a href=\"http://www.codeplex.com/Cerebrum\">http://www.codeplex.com/Cerebrum</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DirectX,Direct3D,Cerebrum,rad,MDX,2D,Editor,",
+  "LastEdited": "2008-05-14T12:33:14.047-07:00"
+}

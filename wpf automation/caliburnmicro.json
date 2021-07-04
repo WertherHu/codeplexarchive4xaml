@@ -1,0 +1,9 @@
+{
+  "ProjectName": "caliburnmicro",
+  "Title": "Caliburn.Micro: Xaml Made Easy",
+  "Description": "A small, yet powerful framework designed for WPF, Silverlight, WP7 and WinRT/Metro which supports architectures based on MVVM (Presentation Model), MVP and MVC.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>This project has moved to github for v2.0</b></h1>\r<h1><a href=\"https://github.com/Caliburn-Micro\">https://github.com/Caliburn-Micro</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,WPF,WP7,MVVM,MVC,MVP,Behavior,caliburn,Application Model,Model First,Model-View-ViewModel,Presentation Layer,Presentation Model,Presenter First,User Interface,View Model,Windows Phone 7,Framework,wp71,WinRT,Metro,c# mvvm,C#,WP8,XAML,PCL,",
+  "LastEdited": "2014-04-26T12:33:52.75-07:00"
+}

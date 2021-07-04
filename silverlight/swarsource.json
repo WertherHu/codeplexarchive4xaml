@@ -1,0 +1,9 @@
+{
+  "ProjectName": "swarsource",
+  "Title": "Silverlight + WCF + Castle ActiveRecord",
+  "Description": "SWAR是一个简单的购物系统Demo，在此系统中可以了解Xaml、WCF、ActiveRecord的简单使用方法。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">本系统刻意使用ActiveRecord来作为数据访问基础，由于ActiveRecord的实体类不能序列化，无法在WCF中传输，所以引用了数据传输对象（DTO）。这样就可以清楚的看到使用充血模型的ORM带来的繁琐。当然，并不是说Castle ActiveRecord不好，只是所用的场合不太适合。所以，如果大家在做实际项目时，应该尽量选择贫血模型，推荐使用NHibernate，因为这样可以使开发简化。<br /><br />另外，代码中使用的全是异步操作，而且没有代码注释，所以代码读起来可能很麻烦，请见谅！<br /><br />在下一个版本发布时，会加上代码注释，另外也会加入一些Silverlight的绚丽、动感效果！<br /><br />登录用户名和密码均为123</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-10T23:09:39.22-07:00"
+}

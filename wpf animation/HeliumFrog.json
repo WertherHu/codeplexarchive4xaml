@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HeliumFrog",
+  "Title": "Helium Frog Animator",
+  "Description": "Here is the Source code for the Helium Frog Animator. It is released under the GNU General Public Licence. The software enables stop motion animation on a PC with a connected webcam. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Project Description</b></h1>\r\nThis is the development site for the Helium Frog Animator. The software enables stop motion animation on a Windows PC including frame capture, avi creation, onionskinning, exposure sheet, Chroma Keying and Rotoscoping. A frame editor is also included in the Software.<br />The program is fully functioning and currently has had in excess of 7000 downloads from <a href=\"http://www.HeliumFrog.com\">www.HeliumFrog.com</a>. It is used in schools in countries such as Canada, Portugal and the UK for stop motion projects.<br /><br />We are currently looking to get a team together to improve and expand the software so that it will be the Free software of choice for budding stop motion animators.<br /><br />The program is written in Visual Basic 6 and released under the GNU General Public Licence.<br /><br />Future tasks are as follows:-<br />a) Translating the software from VB6 to VB.net. This should be a managable task and enable the use of C# modules in the software.<br />b) Developing modules in C# to add additional features such as support for Digital SLR cameras (Canon, Nikon etc.)<br />c) Translation to a full C# program and improving reliability of the code.<br />d) Developing a cross platform version for use on Linux and Mac<br />\n<h1><b>Screenshot</b></h1>\r<img src=\"http://www.heliumfrog.net63.net/Helium_Frog/helium_frog_index/heliumfrogscreenshot04.jpg\" alt=\"Helium Frog Screenshot\" title=\"Helium Frog Screenshot\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-04-25T14:30:21.647-07:00"
+}

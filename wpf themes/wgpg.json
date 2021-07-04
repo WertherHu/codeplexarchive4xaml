@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wgpg",
+  "Title": "Wgpg - Windows User Interface for Gpg",
+  "Description": "Wgpg is a user interface for Gpg developed in C# .Net 4.\r\n\r\nI don't have time to continue the development of this software. So, if you have good knowledges in WPF/Xaml and want to continue this software, you are welcome !\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Wgpg is a user interface for Gpg developed in C&#35; .Net 4.<br /><br />I don&#39;t have time to continue the development of this software. So, if you have good knowledges in WPF&#47;Xaml and want to continue this software, you are welcome &#33;<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Gpg,User Interface,C#,.NET 4.0,",
+  "LastEdited": "2011-08-21T00:56:41.7-07:00"
+}

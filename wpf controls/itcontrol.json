@@ -1,0 +1,9 @@
+{
+  "ProjectName": "itcontrol",
+  "Title": "iTunesContorol",
+  "Description": "iTunesで再生中の曲情報を表示したり、iTunesの再生中の曲をコントロールしたりできるソフトです。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\niTunesを操作するソフトです</p>\r\n<p>Windows XP Home Edititon SP3にて動作確認</p>\r\n<p>.Net Framework 3.5 インストール必須</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "iTunes,Control,Windows,",
+  "LastEdited": "2012-06-29T01:46:29.017-07:00"
+}

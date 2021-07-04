@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cssaimbot",
+  "Title": "Counter Strike Source External Radar",
+  "Description": "A fully written in C# and WPF external radar for counter strike source.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Counter Strike Source External Radar</b><br />This is an external radar for CSS fully written in C# and uses WPF for UI.<br />It reads the positions of players from hl2.exe memory.<br /><br />if you have any question expect &#39;radar not working on my computer&#39;! you can use discussion section.<br />if radar wont work on your computer, then you should play for some minutes and try again and if it did not detect again should restart the game and if not detect again, seems it cannot detect the information of players on your computer and hopefully will detect them in next versions. Download full source code from <a href=\"https://cssaimbot.codeplex.com/SourceControl/latest\">here</a><br /> this is example image of radar:<br /><br /><a href=\"/projects/cssaimbot/5c2f6858-5ea4-420d-8b41-4707dfe053ef\">Large Image</a><br /><a href=\"https&#58;&#47;&#47;www.codeplex.com&#47;Download&#63;ProjectName&#61;cssaimbot&#38;DownloadId&#61;1473475\"><img src=\"/projects/cssaimbot/5c2f6858-5ea4-420d-8b41-4707dfe053ef\" alt=\"radar\" title=\"radar\" /></a><br /><br />Know issues:\n<ul><li>Only for dust2 map for now!</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-07-14T11:14:50.55-07:00"
+}

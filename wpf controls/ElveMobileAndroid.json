@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ElveMobileAndroid",
+  "Title": "Elve Mobile for Android",
+  "Description": "Elve Mobile for Android provides a rich visual touch screen interface for controlling your Elve home automation and control system as well as viewing system information.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nElve Mobile for Android provides a rich visual touch screen interface for controlling your Elve home automation and control system as well as viewing system information.<br>\r\n<br>\r\nUser's can use one of the touch screen interfaces provided with the Elve system or can create their own, or use touch screen interfaces that have been created by other users.<br>\r\n<br>\r\nElve Mobile for Android is available in <a title=\"Google Play\" href=\"https://play.google.com/store/apps/details?id=com.codecoretechnologies.elvemobile\">\r\nGoogle Play</a>.<br>\r\n<br>\r\nThe Elve Moble for Android is a thin client application. This means that it is only responsible for displaying touch screen interfaces and sending user interactions such as screen touches or mouse clicks to the Touch Service. The Touch Service processes user\r\n interactions, monitors dynamic screen changes and sends screen updates to the Touch Screen Viewer Lite application.<br>\r\n<br>\r\nTouch screen interfaces can be created and edited with the Touch Screen Builder application, or imported from other user systems.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-10T18:04:31.273-07:00"
+}

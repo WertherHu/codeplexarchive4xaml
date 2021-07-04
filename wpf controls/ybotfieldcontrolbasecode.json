@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ybotfieldcontrolbasecode",
+  "Title": "YBOT Field Control - Base Code",
+  "Description": "It uses a windows pc to communicate to DS2408 1-wire nodes, can-bus nodes, and xbee arduino nodes. It is used to control field lights as well and receive input ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">YBOT Field Control Base Code - Used to as template for games.<br /><br /><br />It uses a windows pc to communicate to DS2408 1-wire nodes, can-bus nodes, and xbee arduino nodes. It is used to control field lights as well and receive input from the field. It is also used to switch on the game controllers, game timing, and scoring.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-09-09T13:26:28.627-07:00"
+}

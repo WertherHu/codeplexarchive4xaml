@@ -1,0 +1,9 @@
+{
+  "ProjectName": "realSL",
+  "Title": "Real Silverlight controls",
+  "Description": "Some handy controls for all your Silverlight applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Real Silverlight controls is a control libray for Silverlight 4.<br />On this moment it is in b&#233;ta phase and includes 2 controls:<br /><br />- IPhone (like) switchbutton<br />- Synchronous scrolling DataGrid<br />- Self validating DatePicker<br /><br />For more infomation about the control, please visit my blog: http://reynaerta.wordpress.com/<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,silverlight 4,Silverlight Controls,Silverlight control,xaml,C#,Datepicker,DataGrid,switchbutton,",
+  "LastEdited": "2012-04-06T02:47:34.58-07:00"
+}

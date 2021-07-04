@@ -1,0 +1,9 @@
+{
+  "ProjectName": "controlstore",
+  "Title": "Central ActiveX control store",
+  "Description": "An example on how to implement a central ActiveX store, which allows organizations to consolidate all ActiveX controls in a single location for further deployment.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An example on how to implement a central ActiveX store, which allows organizations to consolidate all ActiveX controls in a single location for further deployment.<br /><br />This implementation allows to fulfill the suggested ActiveX Installer Service best practices available at <a href=\"http://technet.microsoft.com/en-us/library/cc721964(v=WS.10).aspx\">http://technet.microsoft.com/en-us/library/cc721964(v=WS.10).aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-24T02:34:03.913-07:00"
+}

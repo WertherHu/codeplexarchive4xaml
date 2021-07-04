@@ -1,0 +1,9 @@
+{
+  "ProjectName": "librarypress",
+  "Title": "LibraryPress",
+  "Description": "This is WordPress base project for books library management system, using combination of plugin and theme. This project will be complete system for librarians. \r\nI name this project as LibraryPress to reflect WordPress.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>LibraryPress Library Management System</b><br />{project:WordPress based Library Management System}<br /><br /><br /><b>**This is first ever library management system based on WordPress Platform **</b><br /><br />This project is started by WordPress Plugins and Theme developer from Myanmar. This project is only in initial development and needs help from PHP and Javascript Programmers, WordPress Developers to fulfill the project&#39;s final goals.<br />Currently this system can store books list in WordPress database.<br />Can search by Title, Book ID, category, publisher and can manage which book is available or rented. Who is rented which book.<br /><br /><br />Furture Road Maps:<br /><br />- To make 100% managable in quick edit screen for Books loan management.<br />- To Customize WP admin dashboard to be a control panel for library.<br />- And many more to come.<br /><br />Additional information on this project is available here: <a href=\"http://librarypress.codeplex.com/wikipage?title=Home\">LibraryPress Library Management System</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-23T18:47:58.653-07:00"
+}

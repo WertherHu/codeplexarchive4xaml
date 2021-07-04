@@ -1,0 +1,9 @@
+{
+  "ProjectName": "flashWP",
+  "Title": "Flash Web Part for SharePoint 2007",
+  "Description": "Flash Animation Web Part for SharePoint 2007",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Flash Animation Web Part for SharePoint 2007<br /><br /><img src=\"/projects/flashWP/becd0164-af07-4437-954d-c9d91fdeb05d\" alt=\"flashWebPart.jpg\" title=\"flashWebPart.jpg\" /><br /><br />a dedicated web part for rendering Flash animation in SharePoint 2007, you will need to specify SWF file URL, width and height<br /><br />Read more: <a href=\"http://www.devexpert.net/blog/pt/blog/SharePoint-2007-Flash-Animation-Web-Part.aspx\">http://www.devexpert.net/blog/pt/blog/SharePoint-2007-Flash-Animation-Web-Part.aspx</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,SharePoint 2007,MOSS,MOSS 2007,WebPart,",
+  "LastEdited": "2009-05-19T04:24:10.2-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PSVA",
+  "Title": "PowerShellVisioAutomation",
+  "Description": "A PowerShell Module for working with Visio via COM. Tested on PowerShell V3 but should be compatable with V2.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A PowerShell Module for working with Visio via COM. Tested on PowerShell V3 but should be compatable with V2.<br /><br /><b>No DLL required. pure COM!</b><br /><br /><b>Problems have been seen with working with items NOT created via code specifically with Select-visShape</b><br /><br /><br />Build on PowerShell V3 with Visio 2013 but should be friendly with V2 and several version lower of Visio.<br /><br /><br />Currently provides basic functionality as well as some custom functions to present data (for example Attach-visShape, there is a demo file for this)<br /><br /><b>Note</b>: There is a VERB warning for the use of Attach. I might change the way the functions are named to help them make more sense.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "powershell,visio,automation,windows powershell,module,snappin,",
+  "LastEdited": "2013-03-11T21:25:58.99-07:00"
+}

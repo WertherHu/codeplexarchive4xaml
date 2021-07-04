@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tcntemplate",
+  "Title": "The Collective Network Silverlight Template",
+  "Description": "The Collective Network Silverlight Template is a silverlight template that is designed as a starting point for the development of line of business applications that requires access control for users.\r\n\r\nThis project is currently in development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Collective Network Silverlight Template is a silverlight template that is designed as a starting point for the development of line of business applications that requires access control for users.<br /><br />This project is currently in development.<br /><br />System requirements are;\n<ul><li>Silverlight 5</li>\n<li>Microsoft SQL 2008 R2</li>\n<li>Visual Studio 2010</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-02T22:24:10.72-08:00"
+}

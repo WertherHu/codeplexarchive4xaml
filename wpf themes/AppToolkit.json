@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AppToolkit",
+  "Title": "AppToolkit",
+  "Description": "WPF Converters, MVVM base classes and common dialogs.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Converters, MVVM base classes and common dialogs.<br /><br />In the project I try to manage common functionality that I reuse across several projects. This includes some MVVM base classes, services and control/dialogs.<br />The toolkit bases on .NET 4 and contains WPF specific parts.<br /><br />Feel free to have a peek.<br /><br />Mario</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-31T05:12:30.177-07:00"
+}

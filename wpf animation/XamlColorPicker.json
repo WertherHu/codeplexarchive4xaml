@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlColorPicker",
+  "Title": "Programmer's Color Picker for C# and WPF",
+  "Description": "Wybór koloru dla programisty C# i WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">To nie jest kolejny program, pozwalający na chaotyczny wyb&#243;r z koła barw - on pozwala wybrać <b>konkretną barwę</b>.<br /><br /><img src=\"/projects/XamlColorPicker/998223db-694e-4cb5-9ef7-62fe192cb19d\" alt=\"ColorPicker1.png\" title=\"ColorPicker1.png\" /><br /><br />New: <br />Creations of:<br />Tworzenie kolor&#243;w:<br />Complement, Monochrome, Triadic, Analogous, SplitComplement<br /><br /><br />Program umożliwia wyb&#243;r koloru spośr&#243;d istniejących: zar&#243;wno standardowych Windows, jak i podanych na Wikipedii <a href=\"http://en.wikipedia.org/wiki/List_of_colors\">List of colors</a> kolor&#243;w dobrze znanych - og&#243;łem ponad <b><u>tysiąc</u></b> kolor&#243;w.<br /><br />Prgram kopiuje do Schowka:\n<ul><li>kod definiujący koloru w C#</li>\n<li>definicję Color w XAML dla WPF</li>\n<li>definicję Brush w XAML dla WPF</li>\n<li>definicję gradientu liniowego lub radialnego w XAML dla WPF</li></ul>\n\n<hr />\n<br />This is not just another program, allowing the chaotic selection from the color wheel - it allows you to select a <b>existing , specific</b> color.<br /><br />The program allows you to choose the color of the existing ones: both standard Windows and listed on Wikipedia <a href=\"http://en.wikipedia.org/wiki/List_of_colors\">List of colors</a> well-known colors - total over a <b><u>thousand</u></b> colors.<br /><br />Prgram copies to the clipboard:\n<ul><li>the code that defines the color in C #</li>\n<li>definition of Color in XAML for WPF</li>\n<li>definition of Brush  in XAML for WPF</li>\n<li>definition of a linear or radial gradient in XAML for WPF</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-20T11:19:37.91-07:00"
+}

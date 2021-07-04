@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sltemplates",
+  "Title": "Silverlight Control Templates",
+  "Description": "Replace the default look of Silverlight controls with animated templates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Replace the default look of Silverlight controls with animated templates.<br /><br />This project provides you with ready-to-use templates for your Silverlight projects.<br /><br /><a href=\"http://www.aweil.fr/sct/\">See the samples for yourself.</a><br /><br />It currently features templates for the following types of controls:\n<ul><li>Button (5 templates: pen, accelerator, card reader, emergency button, sliding button)</li>\n<li>ProgressBar (1 template: speed gauge)</li></ul>\nYou can expect this list to grow (see below).<br /><br />All the templates are provided as XAML resource dictionnaries for easy inclusion in your projects. Those include the XAML source code.<br /><br /><b>Some background info</b><br />I build those templates as samples during my Silverlight trainings. My students choose an item in the room and I create it as a template.<br />As such, I should publish new templates frequently.<br /><br /><b>My Silverlight training</b><br /><a href=\"http://www.aweil.fr/Formations--Silverlight-4.aspx\">Silveright 4 training</a> includes using Visual Studio 2010 and Expression Blend 4, and is available for developers, designers or project managers.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Expression Blend,Visual Studio 2010,XAML,XAML templates,Mirshahreza,",
+  "LastEdited": "2011-05-31T10:52:18.097-07:00"
+}

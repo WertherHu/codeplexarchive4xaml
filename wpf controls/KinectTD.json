@@ -1,0 +1,9 @@
+{
+  "ProjectName": "KinectTD",
+  "Title": "Kinect: Tower Defence",
+  "Description": "Kinect: Tower Defence is a 2D tower defence game programmed in C# using the XNA Framework, played on the PC.\r\n\r\nIt will make use of the Kinect hardware and motion tracking to add more fun to how the game is controlled and played.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Project Description</h1>\r\n<p>Kinect: Tower Defence is a 2D tower defence game programmed in C# using the XNA Framework, played on the PC.<br>\r\n<br>\r\nIt will make use of the Kinect hardware and motion tracking to add more fun to how the game is controlled and played.</p>\r\n<h1>Use of the Kinect</h1>\r\n<p>The Kinect being used in development is currently a Kinect for Xbox 360 and <strong>\r\nNOT</strong> a Kinect for Windows. It is our intention to get hold of a Kinect for Windows and begin work with that as well as testing with the Kinect for Xbox 360</p>\r\n<h1>Prototype Game</h1>\r\n<p><img title=\"Menu.png\" src=\"http://i3.codeplex.com/Download?ProjectName=kinecttd&DownloadId=354685\" alt=\"Menu.png\"><br>\r\nThe prototype of the game will be based on &quot;Three things&quot; assigned by a third party. The things have been assigned and here is what the team have been awarded:</p>\r\n<ol>\r\n<li>Word Processor </li><li>Fruitcake </li><li>Wildcard (can be whatever we want) </li></ol>\r\n<p><br>\r\n<br>\r\nThis should make for an interesting looking game (available Sunday).</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "kinect,XNA,XNA Game Studio,C#,game,tower defence,",
+  "LastEdited": "2012-03-18T08:53:20.923-07:00"
+}

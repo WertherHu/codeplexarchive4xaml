@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spcomds",
+  "Title": "A SharePoint Client Object Model Demo in Silverlight",
+  "Description": "This demo shows how to utilize the SharePoint 2010 Foundation's Client Object Model within a Silverlight application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>SharePoint provides for the processing of list items in addition to the standard forms and the possibility\r\n<br>\r\nbe deposited to your own needs customized input and view screens. Among them, we <br>\r\nAdjustments via the SharePoint Designer and InfoPath. A flexible approach in our view offers the\r\n<br>\r\nUsing Silverlight Controls, which easily via the standard Silverlight Web Part <br>\r\ncan be integrated and hosted in SharePoint document libraries. In this article we show\r\n<br>\r\nthe implementation of an individual form, which allows a non-existing values <br>\r\nLookup when creating the elements in the consumer list to add dynamically without the\r\n<br>\r\nEntry form must be abandoned.<br>\r\n<br>\r\nAuthors:<br>\r\n<br>\r\nChristian Hofmeister and Randy Mathes from Moving Targets Consulting GmbH (http://www.mtc-berlin.com)<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-12T04:31:54.92-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "acploganalyzer",
+  "Title": "ACP Log Analyzer",
+  "Description": "ACP Log Analyzer provides a quick and easy mechanism for generating a report on your ACP-based astronomical observing activities. \r\n\r\nDeveloped in Microsoft Visual Studio 2010 using C#, the .NET Framework version 4 and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ACP Log Analyzer provides a quick and easy mechanism for generating a report on your ACP-based astronomical observing activities. <br /><br />Developed in Microsoft Visual Studio 2010 using C&#35;, the .NET Framework version 4 and WPF.<br /><br /><b>Background</b><br />This utility application is soley of use to those using the ACP <a href=\"http://acp.dc3.com/\">http://acp.dc3.com/</a> (Astronomer&#39;s Control Panel) suite, by DC-3 Dreams. <br /><br />ACP Log Analyzer makes it easy to find out, for example, what your average pointing error is when slewing to objects, what your avergage FWHM is, how many plate solves failed, how many times an auto-focus run succeeded/failed, etc. This can be done for a single log or for many hundreds, and you can view summarized information about each log and/or overall results for the entire set of log files. <br /><br /><img src=\"http://rarcher.net/_images/acplaHead.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,",
+  "LastEdited": "2012-04-05T11:32:54.387-07:00"
+}

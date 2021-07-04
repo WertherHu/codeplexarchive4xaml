@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ContentEditExtender",
+  "Title": "Content Edit Extender for Ajax.Net",
+  "Description": "This Ajax.Net Control Extender provides in-place editing on a web page and can send client-side text changes back to a Web Service or HTTP Handler to be saved. This simple function makes it great for inobtrusively adding content managment (CMS) functionality to any website.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This Ajax.Net Control Extender provides in-place editing on a web page and can send client-side text changes back to a Web Service or HTTP Handler to be saved. This simple function makes it great for inobtrusively adding content managment &#40;CMS&#41; functionality to any website.<br /><br />To enter edit mode, double-click to text you wish to edit. A textbox will appear in-place with the text you wish to edit. Edit the text and, hit the enter button (or, tab off) to save the text back to the Web service or HTTP handler. When in edit mode, pressing the escape key will exit edit mode and restore the original text.<br /><br />The control has beginEditing and endEditing events for data validation and authorization capabilities.<br /><br />The control is written in C# with the 3.5 BCL and uses the AjaxControlToolkit. A sample project is included to quickly demonstrate the core functionality.<br /><br />Thanks,<br />Bill Davidsen</div><div class=\"ClearBoth\"></div>",
+  "TagList": "AJAX Control Toolkit,AjaxControlToolkit,panel,div,content edit,Control Extender,ajax,ajax.net,extender,.NET 3.5,ASP.NET 3.5,cms,editor,Edit Control,Content Management,",
+  "LastEdited": "2011-12-22T19:25:37.203-08:00"
+}

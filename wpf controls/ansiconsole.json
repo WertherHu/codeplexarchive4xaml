@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ansiconsole",
+  "Title": "ANSI Console User Control",
+  "Description": "Custom console control for .NET Winforms",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>ANSI Console User Control</h1>\r\nThis is a user control that you can place on a Winform application, which will provide an ANSI console.  if you have looked for console libraries or controls, then this project is for you. <br /><br /><img src=\"/projects/ansiconsole/e8c5dbdf-f142-4b36-93e6-57eb4370969c\" alt=\"ansi1.png\" title=\"ansi1.png\" /><br />\n<h2>Features:</h2>\r\n<ul><li>Easy to use, drag/drop control to a form</li>\n<li>Direct placement of cursor, or standard printing with scroll</li>\n<li>Most ANSI escape codes implemented</li>\n<li>Actual codepage 437 font featuring the extended character set</li>\n<li>Load and display ansi text files</li></ul>\n\n<h2>Methods:</h2>\r\n<ul><li>Write(string text)</li>\n<li>ReadLine()</li>\n<li>Goto(int row, int column)</li>\n<li>Clear()</li>\n<li>CharAt(int row, int column, char c)</li>\n<li>ReadFile(string path)</li></ul>\n<br />Events:<br />\n<ul><li>TextChanged</li>\n<li>AnsiCursorLocationRequest</li></ul>\n\n<h2>To Do:</h2>\r\n<ul><li>Scroll up capability</li>\n<li>Select / Copy / Paste capability</li>\n<li>Cursor key movement</li>\n<li>Unit tests would be handy...</li></ul>\n\n<h2>Latest update:</h2>\r\n9/4/2012 - Project initiated<br />9/9/2012 - Uploaded source to TFS, removed the download.  The previous download has been removed so that I could move the code into a usercontrol library.  <br />9/23/2012 - Fixed major bug in handling the extended characters.  Also, ANSI interpreter works much better.  Also updated the sample telnet client.  (Still some bugs, but its usable now).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-23T14:10:28.42-07:00"
+}

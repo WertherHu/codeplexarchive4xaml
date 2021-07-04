@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightRTL",
+  "Title": "Silverlight Hebrew & Arabic Language Support",
+  "Description": "Bidirectional input support for Silverlight. Custom extension with classes, allows correct Hebrew and Arabic input and output for Silverlight controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Due to <a href=\"http://www.silverlight.net/getstarted/silverlight-4-beta/\">full RTL support in Silverlight 4</a> we will not maintain this project anymore. Huge respect for all contributers</h1>\r\n<ul><li><a href=\"http://www.justinangel.net/\">Justin-Josef Angel</a> for first implementation for Silverlight 1.1</li>\n<li><a href=\"http://itaibh.blogspot.com/\">Itai Bar-Haim</a>: For Building the <a href=\"http://sourceforge.net/projects/nbidi/\">NBiDi Library</a>.  A .Net implementation of the BiDi (Bi-Directional) algorithm.</li>\n<li>Yasser Makram and <a href=\"http://santeon.com\">Santeon</a>: For partially implementing Arabic NBiDi support, Arabic QA and some controls.</li>\n<li><a href=\"http://khason.net\">Tamir Khason</a>: Which is me</li>\n<li><a href=\"http://blogs.microsoft.co.il/blogs/alex_golesh\">Alex Golesh</a>: Silverlight 3 RTW Adoptation</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Hebrew,Arabic,RTL,globalization,UX,Persian Silverlight,",
+  "LastEdited": "2009-11-18T11:10:20.53-08:00"
+}

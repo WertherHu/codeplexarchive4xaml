@@ -1,0 +1,9 @@
+{
+  "ProjectName": "issuetracker",
+  "Title": "IssueTracker 3.5",
+  "Description": "The Issue Tracker enables project teams to keep track of outstanding issues, assigned owners, history and related issues through a Web-based interface.\n\nFeatures\nCreate Projects\n-Define project name and description \n-Create issue categories and custom fields \n-Add project members and permissions \n\nCreate and Track Issues\n- Assign issue owners and add notes \n- Track issue status, related issues and history \n- Query and sort issues using a boolean search \n\nTechnologies and Design Approaches Demonstrated\n- Best practices for building applications in .NET 3.5 based on S+S vision\n- Multi frontend support: WPF, ASP.NET, Windows Mobile, VSTO",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Issue Tracker enables project teams to keep track of outstanding issues, assigned owners, history and related issues through a Web-based interface.<br /><br />Features<br />Create Projects<br />-Define project name and description <br />-Create issue categories and custom fields <br />-Add project members and permissions <br /><br />Create and Track Issues<br />- Assign issue owners and add notes <br />- Track issue status, related issues and history <br />- Query and sort issues using a boolean search <br /><br />Technologies and Design Approaches Demonstrated<br />- Best practices for building applications in .NET 3.5 based on S&#43;S vision<br />- Multi frontend support&#58; WPF, ASP.NET, Windows Mobile, VSTO<br /><br />Please come here for more info<br /><a href=\"http://patrickyong.net\">http://patrickyong.net</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-11-27T22:09:09.53-08:00"
+}

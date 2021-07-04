@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Cellz",
+  "Title": "Cellz",
+  "Description": "Functional Silverlight Spreadsheet written in F# and bound to the DataGrid control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Functional Silverlight Spreadsheet written in F&#35; and bound to the DataGrid control.<br /><br />Interact below:<br /><br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:300px;width:512px;\"><param name=\"source\" value=\"http://trelford.com/Cellz.Units.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"initParams\" value=\"type=application/x-silverlight-2\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe><br /><br />Supports  decimal, string and boolean literals, cell references and formulas with operators and functions e.g.\n<ul><li>Hello World</li>\n<li>1234.5</li>\n<li>= 1 + 1</li>\n<li>= A1</li>\n<li>= SUM(A1:E1)</li>\n<li>= IF(1+1=2,true,false)</li></ul>\n<br />The Cellz project utilizes <a href=\"https://cellz.codeplex.com/wikipage?title=Automated%20Acceptance%20Tests&referringTitle=Home\">Automated Acceptance Tests</a> to check for regressions.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "F#,parser,Spreadsheet,Silverlight,fsharp,Export To Excel,Excel Export,DataGrid,AST,",
+  "LastEdited": "2013-04-04T06:59:06.16-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "elvetouch",
+  "Title": "Elve Touch Screen Viewer Lite",
+  "Description": "Elve Touch Screen Viewer Lite provides a rich visual touch screen interface for controlling your Elve home automation system and viewing system information.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Elve Touch Screen Viewer Lite provides a rich visual touch screen interface for controlling your Elve home automation system and viewing system information.<br /><br />User&#39;s can use one of the touch screen interfaces provided with the Elve system or can create their own, or use touch screen interfaces that have been created by other users.<br /><br />The Touch Screen Viewer Lite application is a thin client application. This means that it is only responsible for displaying touch screen interfaces and sending user interactions such as screen touches or mouse clicks to the Touch Service. The Touch Service processes user interactions, monitors dynamic screen changes and sends screen updates to the Touch Screen Viewer Lite application.<br /><br />A touch screen hardware device is NOT required, a mouse and normal monitor can also be used.<br /><br />Touch screen interfaces can be created and edited with the Touch Screen Builder application, or imported from other user systems.<br /><br />The Touch Screen Viewer Lite application is is capable of running on multiple machines at the same time. Review your user license to see if this feature is available to your installation.<br /><br />This open source branch of Elve Touch Screen Viewer Lite is slightly different from the one included with Elve.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-30T22:54:24.427-07:00"
+}

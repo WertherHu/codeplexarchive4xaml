@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UsernameAvailability",
+  "Title": "Username Availability Validator",
+  "Description": "The Username Availability Validator is an ASP.NET server control which provides asynchronous indication of username availability, for use in new user registration functionality.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>Project Description</h3>\r\nThe Username Availability Validator is an ASP.NET server control which provides asynchronous indication of username availability, for use in new user registration functionality.<br /><br />Features include:\n<ul><li>Choice of automatic validation of the username’s availability as the user types it or validation </li>\n<li>Based on BaseValidator, so Page.IsValid and the ValidationSummary control function correctly.</li>\n<li>Flexible choice of validating against either the ASP.NET MembershipProvider or any custom authentication store, via user customized web service or page method.</li></ul>\n<br /><b>Read Control <a href=\"https://usernameavailability.codeplex.com/documentation?referringTitle=Home\">Documentation</a></b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,validator,UAV,Encosia,ASP.NET Ajax,",
+  "LastEdited": "2009-01-02T07:50:56.467-08:00"
+}

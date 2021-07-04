@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openfolderdialog",
+  "Title": "WPF.Dialogs",
+  "Description": "OpenFolderDialog is a WPF dialog created to allow a user to select folders in WPF applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Many Windows Forms controls have equivalent WPF controls, but some Windows Forms controls have no equivalents in WPF. For example, there is <b>no equivalent control</b> of the <b>FolderBrowserDialog</b>.<br /><br />See <a href=\"http://msdn.microsoft.com/en-us/library/ms750559%28v=vs.110%29.aspx\">Windows Forms Controls and Equivalent WPF Controls</a> article for more information.<br /><br /><b>OpenFolderDialog</b> is a WPF dialog based on FolderBrowserDialog sources created by Microsoft Corp. It was created to allow a user to select folders in applications created with WPF technology.<br /><br />Now developers <b>do not need to add references to the System.Windows.Forms</b> only in order to add FolderBrowserDialog to a WPF project. Only small library can be referanced now to use folder browsing capability.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF Folder Dialog,",
+  "LastEdited": "2014-10-30T01:31:45.723-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "csmic",
+  "Title": "CS-MIC - C# Math Input Control",
+  "Description": "CS-MIC is a .NET library written in C# designed to give developers easy access to expression parsing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rCS-MIC is a .NET library written in C# designed to give developers easy access to expression parsing. For many developers, there is no need to involve complicated settings and formats. With few exposed methods and objects, CS-MIC makes basic expression solving as simple as possible with as little logic required from developers as possible. In fact, one can pull a value with only one line of code.<br />\n<h1>Powered by Nuget</h1>\rCS-MIC can be loaded into your project through the <a href=\"https://www.nuget.org/packages/csmic\">Nuget Gallery</a>.<br />\n<h1>Offical Homepage</h1>\rThe official homepage for CS-MIC can be found at <a href=\"http://cs-mic.com\">http://cs-mic.com</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,math,parser,parsing,interpreter,script,scripting,",
+  "LastEdited": "2013-10-19T21:53:19.947-07:00"
+}

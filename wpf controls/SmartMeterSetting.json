@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SmartMeterSetting",
+  "Title": "SmartMeterParamSetting",
+  "Description": "Thread WPF UDP",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />this Project is in C#4.0,WPF Create UI.<br /><br />this Demo Create By:Winahriman<br /><br />This project is mainly used for the China State Grid smart meter to set parameters.The project&#39;s advantage is that you can choose to open any thread, at the same time show a thread, WPF UI data binding.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-27T19:06:42.627-07:00"
+}

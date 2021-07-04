@@ -1,0 +1,9 @@
+{
+  "ProjectName": "panningtile",
+  "Title": "Panning Tile Control for Windows Phone 7",
+  "Description": "The panning tile control mimics the functionality of the Windows Phone 7 music tile: Photos and text slowly pan, scroll and fade. It can be used inside of any WP7 Silverlight app.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The panning tile control mimics the functionality of the Windows Phone 7 music tile&#58; Photos and text slowly pan, scroll and fade. It can be used inside of any WP7 Silverlight app.<br /><br />The control exposes properties that allow developers to change the behavior of the control, including:\n<ul><li>Mulitple animation directions (left, right, up, down, zoom)</li>\n<li>Duration of animations</li>\n<li>Text for scrolling marque</li></ul>\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-20T07:18:36.553-07:00"
+}

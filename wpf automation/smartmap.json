@@ -1,0 +1,9 @@
+{
+  "ProjectName": "smartmap",
+  "Title": "SmartMap",
+  "Description": "SmartMap (C# cross-platform) is a procedural style map creation utility mainly for the Axiom 3D rendering engine. Included is a GDI+ 2D world editor with graphical features and soon your choice of renderer and scene manager to create your preferred world perspective.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"http://www.starportmedia.com/pics/SmartMapBanner01.jpg\" /><br /><br /><b>Project Description</b><br />SmartMap &#40;C&#35; cross-platform&#41; is a procedural style map creation utility mainly for the Axiom 3D rendering engine. Included is a GDI&#43; 2D world editor with graphical features and soon your choice of renderer and scene manager to create your preferred world perspective.<br />\n<ul><li>WALL RECOGNITION</li>\n<li>NAVIGATION</li>\n<li>AUTO-MOLD TERRAIN</li>\n<li>CITY AND STRUCTURE CREATION</li>\n<li>TERRAIN DEFORMATION</li></ul>\n<a href=\"https://smartmap.codeplex.com/wikipage?title=SMARTMAP%20DESIGN%20AND%20UML&referringTitle=Home\">SMARTMAP DESIGN AND UML</a><br /><img src=\"http://www.starportmedia.com/pics/SmartMapPreviews.jpg\" /><br /><br />Created and managed by - Mark V Madsen<br />- Let me know how I am doing. <br />- Would you need this converted to a C++ or C++/Open Framework?</div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,Mapping,intelligence,AI,graph,automation,graphics,quickgraph,Procedural Content,axiom,power collections,Simulation,map maker,",
+  "LastEdited": "2014-08-11T20:08:53.243-07:00"
+}

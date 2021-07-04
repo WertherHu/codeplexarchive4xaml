@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rdrx",
+  "Title": "rdrx",
+  "Description": "A Google Reader style rss feed reader that can be deployed to Microsoft Azure.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nA Google Reader style rss feed reader that can be deployed to Microsoft Azure.</p>\r\n<h2>A long time ago in galaxy far away ...</h2>\r\n<p>Google use to have a pretty awesome feed reader called Google Reader <a href=\"https://en.wikipedia.org/wiki/Google_Reader\">\r\nhttps://en.wikipedia.org/wiki/Google_Reader</a>. It was closed by Google in 2013, and while many have tried to replace it, nobody has come quite close.<br>\r\n<br>\r\nThis project is me trying to do this ... maybe not recreate exactly ... but to create something like it.</p>\r\n<p>&nbsp;</p>\r\n<h2>Pages</h2>\r\n<ul>\r\n<li><a href=\"https://rdrx.codeplex.com/wikipage?title=Experiments\">Experiments</a><br>\r\n<ul>\r\n<li>Explains the various experiments in the Experiments folder of the root directory.\r\n</li></ul>\r\n</li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-01-10T16:58:44.177-08:00"
+}

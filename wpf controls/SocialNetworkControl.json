@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SocialNetworkControl",
+  "Title": "Asp Social Network Controls (Facebook, Twitter etc)",
+  "Description": "This project exposes Social Netwok Server Controls that allow an ASP.NET web site developer to incorporate in \r\ntheir site interaction with the Social Netowrk.\r\nCurrently the project contains the following:\r\n1.\tFacebook 'Like' button.\r\n2.\tTwitter 'tweet' button.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project exposes Social Netwok Server Controls that allow an ASP.NET web site developer to incorporate in <br />their site interaction with the Social Netowrk.<br />Currently the project contains the following&#58;<br />1.&#9;Facebook &#39;Like&#39; button.<br />2.&#9;Twitter &#39;tweet&#39; button.<br /><br /><br /><b>Facebook example</b><br /><img src=\"/projects/SocialNetworkControl/c762782f-ed75-4b36-9ae9-3d014c9be3b6\" alt=\"fa.png\" title=\"fa.png\" /><br /><br /><br /><b>Twitter example</b><br /><img src=\"/projects/SocialNetworkControl/39ccb505-3f83-4210-ade6-93f9ad663037\" alt=\"fa1.png\" title=\"fa1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "social networking,ASP.NET,asp.net controls,asp.net control,",
+  "LastEdited": "2010-10-17T07:12:56.423-07:00"
+}

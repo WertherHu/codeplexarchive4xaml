@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jquerygriddialog",
+  "Title": "jquery Grid/Dialog framework",
+  "Description": "An object-oriented Javascript framework that abstracts grid and dialog controls.\r\n\r\nWith this framework, it makes it easy to provide AJAX-based data entry and updates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>**NOTE: This project is not under active development. &nbsp;However it does provide very basic examples of Javascript OO - it's certainly not perfect but may give some new developers food for thought **</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Project Description</strong><br>\r\nAn object-oriented Javascript framework that abstracts grid and dialog controls.<br>\r\n<br>\r\nWith this framework, it makes it easy to provide AJAX-based data entry and updates.</p>\r\n<p>The framework is set up to provide master-detail editing; the master is handled through post-back (not shown or handled) and the detail is rendered as a jquery DataTable (<a href=\"http://www.datatables.net/\">http://www.datatables.net/</a>).</p>\r\n<p>Editing/Adding new rows is handled by the framework and opens the relevant dialog (rendered via colorbox -&nbsp;<a href=\"http://colorpowered.com/colorbox/\">http://colorpowered.com/colorbox/</a>).</p>\r\n<p>Rows are added and edited using the jQuery DataTables API. &nbsp;The data is sent in JSON format to the server via an AJAX post. &nbsp;Only that corresponding row is refreshed, saving on data transfer.</p>\r\n<p><strong>** this is not an out of the box solution. &nbsp;Example Controllers and HTML is provided, but you will need to provide your own server-side logic to save/get the data. **</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Keep an eye on my blog at <a href=\"http://www.binaryforge-software.com/blog\">binaryforge-software.com/wpblog</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-10T15:09:09.093-07:00"
+}

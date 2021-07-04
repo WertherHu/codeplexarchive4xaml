@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BM",
+  "Title": "Breadcrumb.Metro",
+  "Description": "The Breadcrumb project is a WPF control project that implements a Breadcrumb control in 3 available themes (Generic, Metro Light, and Metro Dark).",
+  "MovedLink": "https://github.com/Dirkster99/bm",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Breadcrumb project is a WPF control project that implements a Breadcrumb control in 3 available themes &#40;Generic, Metro Light, and Metro Dark&#41;.<br /><br />This project implements an open source Breadcrumb control developed by <b>lycj</b>.<br />\n<h1>BreadcrumbRootDropDown</h1>\r<img src=\"/projects/BM/b4dc80e9-9776-4a5e-8e33-8e0942cc3661\" alt=\"BreadcrumbRootDropDown.png\" title=\"BreadcrumbRootDropDown.png\" /><br />\n<h1>BreadcrumbComputerDropDown</h1>\r<img src=\"/projects/BM/c2713c46-9ac3-482d-a4b4-c6cd63f82ec4\" alt=\"BreadcrumbComputerDropDown.png\" title=\"BreadcrumbComputerDropDown.png\" /><br />\n<h1>BreadcrumbFolderDropDown</h1>\r<img src=\"/projects/BM/96430a46-06fa-4abc-8d3d-b521bc3f8fc9\" alt=\"BreadcrumbFolderDropDown.png\" title=\"BreadcrumbFolderDropDown.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-21T14:33:15.72-07:00"
+}

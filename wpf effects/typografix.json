@@ -1,0 +1,9 @@
+{
+  "ProjectName": "typografix",
+  "Title": "TypograFix",
+  "Description": "HTML re-processing script for typographic beautification. Written in C#.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><span style=\"color:#ff0000\">This project is hosted on <a href=\"http://bitbucket.org/nesteruk/typografix/\">\r\nBitBucket</a> and is NOT UPDATED on CodePlex.</span></h1>\r\n<p><br>\r\n<strong>Project Description</strong><br>\r\nHTML re-processing script for typographic beautification. Written in C#.<br>\r\n<br>\r\n<br>\r\n<strong>Features</strong></p>\r\n<p>&nbsp;</p>\r\n<ul>\r\n<li>Stand-alone WPF application. Useful for preparing HTML materials for publication (e.g., on CodeProject).\r\n</li><li><del>BlogEngine.net extension. Prettifies your blog posts.</del> Decided that BlogEngine.net is not a good blogging platform and supporting it is pointless :(\r\n</li></ul>\r\n<p><br>\r\n<img title=\"TypograFix1.jpg\" src=\"http://i3.codeplex.com/Download?ProjectName=typografix&DownloadId=59510\" alt=\"TypograFix1.jpg\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "HTML,HTML Editor,c#,wpf,typography,BlogEngine.NET,",
+  "LastEdited": "2011-09-11T03:59:31.937-07:00"
+}

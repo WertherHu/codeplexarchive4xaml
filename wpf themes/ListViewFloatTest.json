@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ListViewFloatTest",
+  "Title": "ListViewItem Float Test",
+  "Description": "WPF testing ground for development of a \"floating\" listviewitem (preeettty)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF testing ground for development of a &#34;floating&#34; listviewitem &#40;preeettty&#41;<br /><br />The aim of this project is to find out the best way to &quot;float&quot; a ListViewItem from one ListView to another. The code is purely for test purposes and allowing people on stackoverflow to access the code (as well as acquaint me with using CodePlex.<br /><br />I will also upload examples of the behavior I am trying to accomplish when I get the chance</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-02T06:20:30.613-07:00"
+}

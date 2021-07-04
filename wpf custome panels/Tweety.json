@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Tweety",
+  "Title": "Tweety - Twitter Client",
+  "Description": "A simple twitter client designed to be quick and easy to use.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>A twitter client written in c# and WPF, with a clean simple interface.<br>\r\n<br>\r\nFunctionality at the moment:</p>\r\n<p>Show the users timeline including retweets.<br>\r\nChecks automatically for new tweets.<br>\r\nAlert box for new tweets.<br>\r\nUpdate the user's status.<br>\r\n<br>\r\n<img title=\"Tweety.PNG\" src=\"http://i3.codeplex.com/download?ProjectName=Tweety&DownloadId=98003\" alt=\"Tweety.PNG\"><br>\r\n<br>\r\n</p>\r\n<p><strong>Update </strong>- Latest version now works with the new twitter authentication. New setup program is under &quot;Downloads&quot;.</p>\r\n<p>&nbsp;</p>\r\n<p>Suggestions, bugs, contributions are welcome!</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,WPF,.NET 3.5,twitter,Visual Studio 2008,xml,Twitter API,",
+  "LastEdited": "2012-02-05T05:02:06.667-08:00"
+}

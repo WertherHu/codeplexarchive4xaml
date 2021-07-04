@@ -1,0 +1,9 @@
+{
+  "ProjectName": "orchardmetrojs",
+  "Title": "Orchard Metro JS library",
+  "Description": "Metro JS is a JavaScript plugin for jQuery developed to easily enable Metro interfaces on the web.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nMetro JS is a JavaScript plugin for jQuery developed to easily enable Metro interfaces on the web, created by\r\n<a href=\"http://drewgreenwell.com/\">Drew Greenwell</a>.</p>\r\n<p><strong>Try it</strong><br>\r\nYou can download the original package from the <a href=\"http://www.drewgreenwell.com/projects/metrojs#download\">\r\nproject website</a>, where you can also &quot;<a href=\"http://www.drewgreenwell.com/projects/metrojs#fiddleAround\">fiddle around</a>&quot; with it.<br>\r\n<br>\r\n<strong>Metro JS for Orchard<br>\r\n</strong>Metro JS is also available for <a href=\"http://orchardproject.net\">Orchard</a> as a base module for developing further modules. You can get it from it's Orchard Gallery page (not yet created!) or through downloading or cloning this repository.</p>\r\n<p><strong>Get started<br>\r\n</strong>To start using Metro JS in your own Orchard module or theme, you just have to add the following lines of code to your view:</p>\r\n<p><code>@{<br>\r\n&nbsp;&nbsp;&nbsp; Script.Require(&quot;jQuery&quot;).AtHead();<br>\r\n&nbsp;&nbsp;&nbsp; Script.Require(&quot;MetroJS.Script&quot;).AtHead();<br>\r\n&nbsp;&nbsp;&nbsp; Style.Require(&quot;MetroJS.Style&quot;).AtHead();<br>\r\n}</code></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-09T06:14:47.353-07:00"
+}

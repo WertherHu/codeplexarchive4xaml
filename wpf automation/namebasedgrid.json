@@ -1,0 +1,9 @@
+{
+  "ProjectName": "namebasedgrid",
+  "Title": "Name-Based Grid",
+  "Description": "Name-Based Grid is a WPF grid panel that uses arbitrary names rather than integer indices to refer to columns and rows.",
+  "MovedLink": "https://github.com/fhaag/namebasedgrid",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rName-Based Grid is a WPF grid panel that uses arbitrary names rather than integer indices to refer to columns and rows.<br /><br />\n<h2>Primary Features</h2>\r<ul><li>Use comprehensible names for columns and rows rather than incomprehensible indices.</li>\n<li>Define column and row spans by supplying names of the first and the last column/row, rather than by counting columns/rows.</li>\n<li>Define repeatedly used column or row spans as virtual columns/rows.</li>\n<li>Bind column and/or row definitions to a source IEnumerable (since v0.10).</li></ul>\n\n<h2>Name-Based Grid on Other Sites</h2>\r<ul><li><a href=\"http://www.openhub.net/p/namebasedgrid\">OpenHub</a></li>\n<li><a href=\"http://www.nuget.org/packages/NameBasedGrid/\">NuGet</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Controls,Grid,Layout,.NET,",
+  "LastEdited": "2015-06-06T13:33:49.38-07:00"
+}

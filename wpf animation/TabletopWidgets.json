@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TabletopWidgets",
+  "Title": "TabletopWidgets",
+  "Description": "A generalized widget set library that includes pie menus and dialogue boxes tuned to the tabletop environment by providing arbitrary text orientation and easy gesture based rotation of widgets and passing of widgets to others across the table.\r\n\r\nWill support both XNA and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A generalized widget set library that includes pie menus and dialogue boxes tuned to the tabletop environment by providing arbitrary text orientation and easy gesture based rotation of widgets and passing of widgets to others across the table.<br /><br />Will support both XNA and WPF.<br /><br />This library is a set of UI widgets commonly used on Tabletop surfaces.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-09-07T07:34:02.687-07:00"
+}

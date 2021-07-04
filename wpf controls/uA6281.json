@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uA6281",
+  "Title": "μA6281.NET .NET Micro Library for LED Controller Chip",
+  "Description": "The μA6281.NET library makes it easier for .NET Micro Framework developers to control devices based on the Allegro A6281 LED controller. You no longer need to put together your own SPI code to control a daisy-chain of A6281 devices.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The μA6281.NET library makes it easier for .NET Micro Framework developers to control devices based on the Allegro A6281 LED controller. You no longer need to put together your own SPI code to control a daisy-chain of A6281 devices.<br /><br /><b>Requirements</b><br />Microsoft Visual Studio 2010<br />Microsoft .NET Micro Framework v4.1<br /><br />The <a href=\"http://3-Channel Constant Current LED Driver with Programmable PWM Control\">Allegro A6281</a> 3-Channel Constant Current LED Driver with Programmable PWM Control is an inexpensive controller for RGB LEDs.  A few companies have made complete boards using this chip and a RGB LED.  <br /><br />Found so far:<br /><br />- <a href=\"http://www.brilldea.com/product_PolkaDOT51.html\">Brilldea PolkaDOT-51</a><br />- <a href=\"http://macetech.com/blog/node/54\">Macetech ShiftBrite</a> (also <a href=\"http://docs.macetech.com/doku.php/megabrite\">MegaBrite</a> and <a href=\"http://docs.macetech.com/doku.php/shiftbar\">ShiftBar</a>)<br /><br />I&#39;m creating sample applications for the <a href=\"http://www.netduino.com/\">NetDuino</a> and <a href=\"http://www.ghielectronics.com/product/113\">USBizi</a> boards.<br /><br />Planned:<br />-Sample application for Netduino<br />-More preprogrammed patterns</div><div class=\"ClearBoth\"></div>",
+  "TagList": "netmf,micro framework,c#,.NET Micro Framework,",
+  "LastEdited": "2010-09-04T11:39:04.69-07:00"
+}

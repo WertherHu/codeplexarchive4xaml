@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HtmlInWP7",
+  "Title": "HtmlInWP7",
+  "Description": "HtmlInWP7 is a small project which shows how to create a html file, save in isolated storage and show in webbrowser. Needs help to show the image through html in webbrowser.\r\nthis project is develped in Silverlight 4 \r\n(Windows Phone 7)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />HtmlInWP7 is a small project which shows how to create a html file, save in isolated storage and show in webbrowser. Needs help to show the image through html in webbrowser.<br />this project is develped in Silverlight 4 <br />&#40;Windows Phone 7&#41;<br /><br />HtmlInWP7 is a small demo in WP7 to show how to create a html file and store in Isolated Storage and show the html content in webbrowser control.<br /><br />but i m not able to show image in it.<br />Please, have a look on this project and suggest what should i do to show image as html content in webbrowser control in WP7.<br /><br />thanks.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-24T01:32:59.02-07:00"
+}

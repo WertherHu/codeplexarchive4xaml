@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nsptiles",
+  "Title": "nSPTiles",
+  "Description": "nSPTiles is an easy to use JavaScript library for Windows style live tiles for SharePoint with numerous styling options and an admin GUI. http://nsptiles.js.org",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>nSPTiles</h1>\r\n<p><strong>nSPTiles</strong> is an easy to use JavaScript library for Windows style live tiles for SharePoint with numerous styling options and an admin GUI.</p>\r\n<p>Check <a title=\"http://nsptiles.js.org/\" href=\"http://nsptiles.js.org/\">http://nsptiles.js.org/</a>&nbsp;for the most up to date information.</p>\r\n<p><img src=\"https://cloud.githubusercontent.com/assets/83817/8892362/e50bd494-3322-11e5-9b36-fb0aebf98a1d.PNG\" alt=\"\" width=\"438\" height=\"312\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sharepoint,tiles,live tiles,windows,",
+  "LastEdited": "2015-08-13T19:12:07.633-07:00"
+}

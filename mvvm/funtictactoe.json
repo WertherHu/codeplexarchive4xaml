@@ -1,0 +1,9 @@
+{
+  "ProjectName": "funtictactoe",
+  "Title": "fun : 'tic -> 'tac -> 'toe",
+  "Description": "Fun(ctional) Tic-Tac-Toe is an addictive variation of Tic-Tac-Toe with a timed countdown twist.  The engine and view models are written in F# while the front end is implemented in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Fun&#40;ctional&#41; Tic-Tac-Toe is an addictive variation of Tic-Tac-Toe with a timed countdown twist.  The engine and view models are written in F&#35; while the front end is implemented in C&#35;.<br /><br />F# is one of my favorite languages though I do not get to use it on a daily basis.  I wrote this game today for fun just to keep my F# skills sharp.  Browse the code to see some of the elegance of F#.<br /><br /><span class=\"codeInline\">&gt; let rec ``fun`` (a:&#39;tic) (b:&#39;tac) : &#39;toe = ``fun`` a b</span><br /><span class=\"codeInline\">fun : &#39;tic -&gt; &#39;tac -&gt; &#39;toe</span><br /><br />Give the game a try and let the addictive <i>infinite</i> fun begin.<br /><br /><img src=\"/projects/funtictactoe/8bface52-a47b-4248-9b33-ca7eb04f3759\" alt=\"fun-tic-tac-toe.png\" title=\"fun-tic-tac-toe.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "F#,Functional,game,tic tac toe,C#,AI,MVVM,",
+  "LastEdited": "2011-12-26T22:08:37.16-08:00"
+}

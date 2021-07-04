@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DesignPatternEngine",
+  "Title": "Design Pattern Engine",
+  "Description": "Design Pattern Engine makes it easier for designers and programmers to employ design patterns in their projects using diagrams and visuals, which automatically generates the code based on the flow. It is developed in C# and WPF using Prism Composite Application Architecture.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Design Pattern Engine makes it easier for designers and programmers to employ design patterns in their projects using diagrams and visuals, which automatically generates the code based on the flow. It is developed in C&#35; and WPF using Prism Composite Application Architecture.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-02T06:15:51.53-07:00"
+}

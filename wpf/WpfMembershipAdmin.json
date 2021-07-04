@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfMembershipAdmin",
+  "Title": "WPF Membership API Management Studio",
+  "Description": "A lightweight WPF UI wrapper around the ASP.NET membership API for managing users and roles.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A lightweight WPF UI wrapper around the ASP.NET membership API for managing users and roles.<br /><br />\n<h1>Main Features</h1>\r<ul><li>Add Roles</li>\n<li>Remove Roles</li>\n<li>Add New Users</li>\n<li>Remove Users</li>\n<li>Manager User Role Memberships</li>\n<li>Retrieve User Passwords</li>\n<li>Reset User Passwords</li></ul>\n\n<h1>Tools</h1>\r<ul><li>Generate User Passwords</li>\n<li>Generate Aspnet_RegSql command</li>\n<li>Generate an SQL Script of all user / role mappings</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Membership,",
+  "LastEdited": "2009-03-19T07:41:57.017-07:00"
+}

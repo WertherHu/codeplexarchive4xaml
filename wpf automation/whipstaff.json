@@ -1,0 +1,9 @@
+{
+  "ProjectName": "whipstaff",
+  "Title": "Whipstaff",
+  "Description": "Whipstaff is a PoC library for designing a common UI library leveraging WPF, ReactiveUI and DHGMS Data Manager.  It is written in C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Whipstaff is a PoC library for designing a common UI library leveraging WPF, ReactiveUI and DHGMS Data Manager.  It is written in C&#35;<br /><br /><br />Whipstaff is a proof of concept around designing a common way of loading and handling a UI application (much like Job Helper is designed around batch processes).  The concept is aimed towards enterprise development and reducing the amount of code reproduced whilst ensuring a reasonable amount of power and functionality in terms of group policy, system integrity checks, operating system versioning, etc.<br /><br />As a concept it is aimed at leveraging:\n<ul><li>WPF</li>\n<li>.NET4</li>\n<li>ReactiveUI</li>\n<li>WPF NotifyIcon</li>\n<li>DHGMS Data Manager</li>\n<li>XUnit</li>\n<li>AvalonDock</li>\n<li>Multiple Monitors</li>\n<li>Group Policy and \\ or Customer Policy Provider</li>\n<li>Support for features in Windows 8 (Desktop mode only) with graceful degradation to features of older operating systems where necessary</li>\n<li>Application Restart and Recovery</li>\n<li>System Integrity Checks to aid in Information Security</li>\n<li>Accessibility taking into account:\n<ul><li>Colour Blindness</li>\n<li>Dyslexia</li></ul></li></ul>\n<br />This project is in an early stage so the design and \\ or underlying libraries implementations may be volatile at points.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-10T13:00:06.617-08:00"
+}

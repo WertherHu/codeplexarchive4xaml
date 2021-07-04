@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PerceptualGallery",
+  "Title": "Perceptual Gallery",
+  "Description": "This project is developed using Intel Perceptual Computing SDK. This application is Gesture based Gallery. It is developed using Dot net framework 4.5 and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project is using Perceptual Computing SDK for development. It is developed with WPF C# technology.  You need Dot Net Framework 4.5 and Perceptual Computing SDK to execute this project.<br /><br />This is initial start of this project. your inputs are highly appreciated.<br /><br />Video Demo : <a href=\"http://www.youtube.com/watch?v=5bdSKaP0AnM\">http://www.youtube.com/watch?v=5bdSKaP0AnM</a><br /><br /><b>Note : I have used Intel Perceptual Computing SDK Version 1.5.10343.0(Which is not latest version). For those who would like to use latest version either they have to wait for some time or they can download source and they can modify code to make it compatible with latest SDK version. Although there won&#39;t be any major changes.</b><br /><br />Thanks<br />Amit Gajjar</div><div class=\"ClearBoth\"></div>",
+  "TagList": "PerceptualComputing,WPF,GestureRecognition,Gesture,",
+  "LastEdited": "2014-02-17T22:40:00.04-08:00"
+}

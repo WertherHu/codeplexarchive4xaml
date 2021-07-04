@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ZXingWP7",
+  "Title": "ZXing port to Silverlight for Windows Phone 7",
+  "Description": "The port of ZXing library to Silverlight for Windows Phone 7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>This is a port of the <a href=\"http://code.google.com/p/zxing/\" target=\"_blank\">\r\n<strong>ZXing</strong></a> library to <strong>Silverlight for Windows Phone 7</strong>. At the moment the ported version is\r\n<strong>7.1</strong>. I know that<strong> ZXing 2.0</strong> is already available. So, the port of the newest version is planned as well.<br>\r\nThe changes that were done to adapt <strong>ZXing</strong>'s <strong>C#</strong> code to\r\n<strong>Silverlight</strong> are described in details in the following article - <a title=\"Silverlight for Windows Phone 7: How to use ZXing 7.1 in Silverlight\" href=\"http://dotnetfollower.com/wordpress/2011/11/silverlight-for-windows-phone-7-how-to-use-zxing-7-1-in-silverlight-2/\" target=\"_blank\">\r\nSilverlight for Windows Phone 7: How to use ZXing 7.1 in Silverlight</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "zxing,Silverlight,Windows Phone 7,",
+  "LastEdited": "2012-08-03T19:36:29.103-07:00"
+}

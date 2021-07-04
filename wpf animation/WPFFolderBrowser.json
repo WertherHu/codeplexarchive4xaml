@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFFolderBrowser",
+  "Title": "WPF Native Folder Browser",
+  "Description": "Use the Windows Vista / Windows 7 Folder Browser Dialog from your WPF projects, without any additional dependencies.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Use the Windows Vista &#47; Windows 7 Folder Browser Dialog from your WPF projects, without any additional dependencies.<br /><br /><br /><b>Remarks</b><br /><br />This project was adapted from the Vista Bridge sample on MSDN <a href=\"http://msdn2.microsoft.com/en-us/library/ms756482.aspx\">http://msdn2.microsoft.com/en-us/library/ms756482.aspx</a>. Basically, I did only the following:<br />\n<ul><li>Get the example to run under .Net 4.0 .</li>\n<li>Add the FOS_PICKFOLDER option to the initialization code of the OpenFileDialog.</li>\n<li>Add members to set an initial folder and to set the initial text of the file name TextBox.</li>\n<li>Remove members that did not apply to the FolderBrowser dialog.</li>\n<li>Remove unused code and dependencies.</li>\n<li>Rename public classes and namespaces.</li></ul>\n<br />As a result, the WPFFolderBrowserDialog class can now be used out of the box in WPF projects, much like the Microsoft.Win32.OpenFileDialog class, which actually lacks only a way to set the FOS_PICKFOLDER option in order to support this scenario (<i>I still hope that some day some one will add this possibility and make this project obsolete!</i>).<br /><br />Actually, everybody could do this by themselves, but since it took me roughly a day to figure out how to do it, I thought I&#39;d share the result with the community...</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,wpf folder browser,",
+  "LastEdited": "2011-08-02T11:30:39.03-07:00"
+}

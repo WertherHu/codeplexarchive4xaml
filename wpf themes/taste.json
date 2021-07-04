@@ -1,0 +1,9 @@
+{
+  "ProjectName": "taste",
+  "Title": "Taste : state machines made easy",
+  "Description": "Taste is a lightweight state machine implementation for .NET.\r\nIts main purpose is to simplify the implementation of complex ViewModels in WPF and Silverlight applications, where the code to execute, the commands to enable and their effects depend on the current state of the View.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>What is Taste?</b><br />Taste is a lightweight state machine implementation for .NET.<br />Its main purpose is to simplify the implementation of complex ViewModels in WPF and Silverlight applications, where the code to execute, the commands to enable and their effects depend on the current state of the View.<br /><br /><b>How does it work?</b><br />The documentation is currently in progress. In the meantime, please take a look at the <a href=\"http://taste.codeplex.com/releases/view/68376#DownloadId=250001\">Silverlight Demo</a> for an example of use!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-15T11:18:15.023-07:00"
+}

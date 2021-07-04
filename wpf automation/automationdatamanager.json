@@ -1,0 +1,9 @@
+{
+  "ProjectName": "automationdatamanager",
+  "Title": "Test Automation Data Manager",
+  "Description": "MVC4 application with SQLServer 2008 back end to manage test automation data.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MVC4 application with SQLServer 2008 back end to manage test automation data.<br /><br /><br />This is an initial version, implementation outside the development environment is untested. The usual caveats apply - use at your own risk etc. <br /><br />The project is in active development and will be changing as I refine and improve on it.<br /><br />The compiled application and full source code are available in the source code section.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-07-17T11:13:02.237-07:00"
+}

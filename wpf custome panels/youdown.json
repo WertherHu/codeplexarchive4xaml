@@ -1,0 +1,9 @@
+{
+  "ProjectName": "youdown",
+  "Title": "YouDown",
+  "Description": "Configurable YouTube video downloader. \r\nAllows to import lists of videos from a text file or your YouTube favorites.\r\nDeveloped in C# and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project moved!</h1>\r\n<h2>New location <a href=\"http://youdown.kristjanrang.eu\">here</a></h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "YouTube,download,downloader,C#,WPF,MVVM,https://www.youtube.,",
+  "LastEdited": "2014-03-29T13:06:20.113-07:00"
+}

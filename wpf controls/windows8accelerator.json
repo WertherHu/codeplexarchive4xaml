@@ -1,0 +1,9 @@
+{
+  "ProjectName": "windows8accelerator",
+  "Title": "Windows 8 Accelerator",
+  "Description": "A set of components and controls to accelerate your Windows 8 and Windows Phone 8 application development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>DISCLAIMER:</b> This is not a Microsoft official SDK and there are no guarantees. Use it at your own risk. It&#39;s a set of sample components that provides one different approach to implement common Windows 8 and Windows Phone 8 features.<br /><br /><b>Project Description</b><br />A set of components and controls to accelerate your Windows 8 and Windows Phone 8 application development.<br /><br /><b>Download</b><br />Please use Nuget to get the latest version.<br /><a href=\"http://nuget.org/packages/Windows8Accelerator\">http://nuget.org/packages/Windows8Accelerator</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-07T06:23:56.49-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssisdynamicwcf",
+  "Title": "SSIS Dynamic WCF Proxy Task",
+  "Description": "A control Flow components that permits to connect to a WCF Service dynamically and executes an [OperationContract]/Method dynamically.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h5><strong>SSIS Dynamic WCF ServiceContract/OperationContract Method Invoker -&#160; Control Flow Component</strong></h5>\r\n<p>As the name says it, this &quot;Control Flow&quot; custom component that can be used to call a n OperationContract of a WCF ServiceContract Dynamically without generating a proxy object with the classics tools.</p>\r\n<ul>\r\n<li>System requirements:\r\n<ul>\r\n<li>Microsoft Visual Studio 2010 </li></ul>\r\n</li></ul>\r\n<p>Please take a look at the <a href=\"http://ssisdynamicwcf.codeplex.com/documentation\">\r\ndocumentation</a> page to see how you can use it.</p>\r\n<p>So here we are. I've done minimal cleanup, and the code isn't perfect (and there are few comments – using GhostDog) but I could not find anything similar online, and I thought the best thing to do would be to share the code today instead of waiting to polish\r\n it before sharing it.</p>\r\n<p>The initial public release is online so everyone should be able to download the code to use (and tweak) on their own.</p>\r\n<p><strong>Note:</strong> I'd really appreciate any feedback on whether you think the project isn't feasible, whether you'd like to use it if it were more mature, and that sort of thing. Leave comments or email me at\r\n<a href=\"mailto:cosmin.vlasiu@gmail.com\">cosmin.vlasiu@gmail.com</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wcf,ssis,ssis wcf,WCF Dynamic Proxy,",
+  "LastEdited": "2011-06-24T02:19:37.847-07:00"
+}

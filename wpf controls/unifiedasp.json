@@ -1,0 +1,9 @@
+{
+  "ProjectName": "unifiedasp",
+  "Title": "UnifiedASP",
+  "Description": "UnifiedASP is a web-application framework for ASP.Net 2. 0 that we use internally at The Data Pros. Training our new-hires on this framework usually doubles their productivity in the first 30 days. Its flexible, fast, and does not use MVC.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />UnifiedASP is a web-application framework for ASP.Net 2. 0 that we use internally at The Data Pros. Training our new-hires on this framework usually doubles their productivity in the first 30 days. Its flexible, fast, and does not use MVC.<br /><br /><b>Resources</b><br />Extensive documentation, video tutorials, examples, and our weblog are available on the <b>companion site <a href=\"http://www.UnifiedASP.net\">http://www.UnifiedASP.net</a></b>.<br /><br /><b>What It Contains</b><br />\n<ul><li>Data-access layer pattern/base class that simplifies interacting with a SQL 2005 database</li>\n<li>Extended GridView control with simplified support for sorting, paging, and CSS Styling</li>\n<li>Extended TextBox control with built in validation. No more TextBoxes and Validators</li>\n<li>Base classes for Pages that expose session, permissions, user tracking</li>\n<li>Simple User Authentication and Authorization modules. Requirements vary a lot in our apps so these are simple but the foundation we build upon.</li></ul>\n<br /><b>Planning</b>\n<ul><li>We&#39;re soft-launching this to colleagues to get their feedback. We would welcome your feedback as well on any issues you find.</li>\n<li>This first release is in VB.Net</li>\n<li>A C# version will be released in April or May &#39;09.</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "framework,Data Access Layer,Data Access,Controls,",
+  "LastEdited": "2009-04-23T11:04:23.907-07:00"
+}

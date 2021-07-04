@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mapcontrol",
+  "Title": "MapControl for WM6",
+  "Description": "Simple map control which using static maps from Bing/Google Maps",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple map control which using static maps from Bing&#47;Google Maps<br /><br />Actualy it&#39;s using only Bing Maps (Google Maps license permit static maps only with web page).<br /><br /><b>Features</b><br />\n<ul><li>using Bing Static Maps</li>\n<li>cache for map&#39;s tiles</li>\n<li>event handlers</li>\n<li>marker and abstract class for creating custom map elements</li></ul>\n<br /><b>Special thanks:</b><br />\n<ul><li>GeoFramework <a href=\"http://geoframework.codeplex.com/\">http://geoframework.codeplex.com/</a></li>\n<li>GeoGraphical.net <a href=\"http://code.google.com/p/geographical-dot-net/\">http://code.google.com/p/geographical-dot-net/</a></li>\n<li>&quot;Alphablending with NETCF&quot; <a href=\"http://blogs.msdn.com/b/chrislorton/archive/2006/04/07/570649.aspx\">http://blogs.msdn.com/b/chrislorton/archive/2006/04/07/570649.aspx</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-01T02:28:09.013-07:00"
+}

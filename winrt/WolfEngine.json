@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WolfEngine",
+  "Title": "Wolf Engine",
+  "Description": "Wolf is an open source game engine that is used on Microsoft WinRT platforms(based DirectX) and Android(based on openGL ES and NDK),and it is adapted for a rang",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The <b>Wolf Engine</b> is the next generation of <b><a href=\"https://persianengine.codeplex.com/\">Persian Game Engine</a></b> which is a cross-platform game engine created by <b><a href=\"http://pooyaeimandar.com\">Pooya Eimandar</a></b>.<br />\n<h1><b>Project moved to <a href=\"https://github.com/PooyaEimandar/Wolf.Engine\">gitHub</a></b></h1>\r\nWant to stay updated, kindly follow <b><a href=\"https://twitter.com/WolfSource_io\">@WolfSource.io</a> on Twitter</b>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DirectX,openGL ES,Windows Phone,WinRT,C++,Game Engine,Wolf Engine,Pooya Eimandar,پویا ایماندار,Pooya Imandar,Pooya,Windows Store,Direct3D,Direct2D,3D,2D,Framework,game development,graphics,",
+  "LastEdited": "2016-07-28T01:44:08.037-07:00"
+}

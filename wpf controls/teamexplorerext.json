@@ -1,0 +1,9 @@
+{
+  "ProjectName": "teamexplorerext",
+  "Title": "Team Explorer Extensions",
+  "Description": "Team Explorer Extensions are a collection of extensions to the Team Explorer pane in Visual Studio 2012 and Visual Studio 2013 (e.g. Auto Associate Merge)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Team Explorer Extensions</b><br />Team Explorer Extensions are a collection of extensions to the Team Explorer pane in Visual Studio 2012 and Visual Studio 2013 &#40;e.g. Auto Associate Merge&#41;<br />For information about this extension, go to the Visual Studio Gallery for it:<br /><a href=\"http://visualstudiogallery.msdn.microsoft.com/b54d49ea-ce4a-4fd6-8ba9-35f464f15575\">http://visualstudiogallery.msdn.microsoft.com/b54d49ea-ce4a-4fd6-8ba9-35f464f15575</a><br /><br />I&#39;m looking for ideas to add to the Team Explorer Extensions and others to contribute to turn this into a suite of extensions for Team Explorer 2012 and 2013.<br /><br />Some enhancements coming to the <b>Auto Associate Merge Extension</b>:\n<ol><li>Discard changeset on merge</li>\n<li>Settings page for allowing policy overrides and workspace location to use (SCE or Pending Changes)</li>\n<li>Link to changeset details</li>\n<li>Merge from a specific folder instead of root only</li>\n<li>Check permissions before attempting merge</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "tfs,team explorer,visual studio,source control,merge,changeset,extension,alm,",
+  "LastEdited": "2014-01-20T19:24:41.513-08:00"
+}

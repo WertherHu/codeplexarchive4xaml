@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tsfime",
+  "Title": "TSFIME",
+  "Description": "this is a project to create a Wubi IME for windows 8. we want it can run under Windows 8 style UI",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Chinese IME project</b><br />this project is to build a IME framework for Chinese IME, especial WuBi. we will support Win8 metro<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TSF,IME,",
+  "LastEdited": "2013-03-26T18:27:24.32-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmt4",
+  "Title": "MVVM T4",
+  "Description": "T4 Templates for generating view models, and views for WPF, Silverlight, Windows Phone using T4 Toolbox and MVVM Light",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />T4 Templates for generating view models, and views for WPF, Silverlight, Windows Phone using T4 Toolbox and MVVM Light<br />\n<h2>Now on Nuget! Type in &quot;Install-Package MVVMT4&quot;</h2>\r\nGenerates your view model, view and view code behind for you. Saves you a bunch of time while creating views.<br /><br />Version 2.1: Added support for using without view model locator (wpf/silverlight) for situations like MEF while retaining design mode. Added ModelBase for models/Non-mvvm-light view model locator.<br /><br />Version 2.0: Conforms to StyleCop rules, and optional Autofac/Ninject/StructureMap/Unity/Simple IOC DI container for ViewModels.<br /><br /><br /><br />Follow me on twitter <a href=\"http://twitter.com/rickrat\">http://twitter.com/rickrat</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "T4,WPF,WPF MVVM,",
+  "LastEdited": "2012-01-15T15:31:40.367-08:00"
+}

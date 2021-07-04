@@ -1,0 +1,9 @@
+{
+  "ProjectName": "act30930umbraco",
+  "Title": "Ajax Control Toolkit 30930 for Umbraco",
+  "Description": "This is a modified version of the Ajax Control Toolkit version 30930 for Umbraco, to use next to Umbraco's ACT version.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a modified version of the Ajax Control Toolkit version 30930 for Umbraco, to use next to Umbraco&#39;s ACT version.<br /><br />Btw. The assembly and namespace are called AjaxControlToolkit3030930, this should be 30930, but it doesn&#39;t matter because it works ;-)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-05T08:55:53.98-08:00"
+}

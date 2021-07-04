@@ -1,0 +1,9 @@
+{
+  "ProjectName": "isis",
+  "Title": "Isis",
+  "Description": "Isis is a control panel for ASP.NET applications that allows easy visibility into the application's assemblies (debug or not), logging, errors, cache, session, performance counters, and more.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><a href=\"http://NimblePros.com/\"><img style=\"border:none;\" src=\"http://lakequincy.com/images/creatives/temp/634250017535159694.png\" alt=\"NimblePros\" title=\"NimblePros\" /></a><br /><b>Project Description</b><br />Isis is a control panel for ASP.NET applications that allows easy visibility into the application&#39;s assemblies &#40;debug or not&#41;, logging, errors, cache, session, performance counters, and more.<br /><br />For updates on Twitter, follow <a href=\"http://twitter.com/aspnetisis\">@aspnetisis</a>.<br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.<br /><br />Install the latest version using NuGet <a href=\"http://www.nuget.org/Packages/Packages/Details/isis-0-1\">Isis in NuGet Gallery</a>:<br /><b>Install-Package isis</b><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-28T16:29:44.177-08:00"
+}

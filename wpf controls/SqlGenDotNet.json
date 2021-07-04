@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SqlGenDotNet",
+  "Title": "SqlGen.Net",
+  "Description": "This is a library written in F# for use from C# and other .Net languages for constructing dynamic SQL programatically without having to emit strings directly.\n\nBecause the library creates a semantic model before emitting any SQL, you can also perform analysis of the SQL before executing it, allowing the user to easily traverse the SQL semantic tree to perform tasks such as access control and validation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a library written in F&#35; for use from C&#35; and other .Net languages for constructing dynamic SQL programatically without having to emit strings directly.<br /><br />Because the library creates a semantic model before emitting any SQL, you can also perform analysis of the SQL before executing it, allowing the user to easily traverse the SQL semantic tree to perform tasks such as access control and validation.<br /><br />There will be a link here shortly to a blog post that gives an overview of how to use SqlGen.Net.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-02-21T17:04:21.937-08:00"
+}

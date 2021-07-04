@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TMDBWrapper",
+  "Title": "The Movie DB Wrapper",
+  "Description": "This is a wrapper for the web service being provided by The Movie Db (TMDb). This is being developed for .Net 4.0 and Silverlight 4.\r\n\r\nTMDb Information: \r\nWebsite: http://www.themoviedb.org/ \r\nWebservice API: http://api.themoviedb.org/\r\n\r\nIn order to use this wrapper you must first request an API key from TMDb ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a wrapper for the web service being provided by The Movie Db (TMDb). This is being developed for .Net 4.0 and Silverlight 4.<br /><br />TMDb Information: <br />Website: http://www.themoviedb.org/ <br />Webservice API: http://api.themoviedb.org/<br /><br /><i>In order to use this wrapper you must first request an API key from TMDb</i><br /><br /><br /><b>Note: Project has basic functionality only </b><br /><br />Working Queries Include:<br />*Movie.search<br />*Movie.getInfo<br />*Movie.ImdbLookup<br />*Movie.Browse<br />*Person.Search<br />*Person.getInfo</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-28T14:58:24.807-07:00"
+}

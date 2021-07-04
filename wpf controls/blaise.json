@@ -1,0 +1,9 @@
+{
+  "ProjectName": "blaise",
+  "Title": "Blaise Editor",
+  "Description": "Blaise Editor is a simplistic IDE for Free Pascal with syntax colouring, automatic identation, error parsing etc. It uses the ScintillaNet editing control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Blaise Editor is a simplistic IDE for Free Pascal with syntax colouring, automatic identation, error parsing etc. It uses the ScintillaNet editing control.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-06-18T07:14:43.28-07:00"
+}

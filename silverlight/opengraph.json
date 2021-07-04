@@ -1,0 +1,9 @@
+{
+  "ProjectName": "opengraph",
+  "Title": "OpenGraph .NET",
+  "Description": "A C# client for the Facebook Graph API.  Supports desktop, web, ASP.NET MVC, and Silverlight connections and real-time updates.\n\nPLEASE NOTE: I discovered an issue with Post objects last night and have uploaded a new version, 0.9.1.1. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A C&#35; client for the Facebook Graph API.  Supports desktop, web, ASP.NET MVC, and Silverlight connections and real-time updates.<br /><br />PLEASE NOTE&#58; I discovered an issue with Post objects last night and have uploaded a new version, 0.9.1.1. <br /><br />Pre-release documentation is currently available at <a href=\"http://robpaveza.net/opengraph.net/docs/\">http://robpaveza.net/opengraph.net/docs/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-21T13:36:55.363-07:00"
+}

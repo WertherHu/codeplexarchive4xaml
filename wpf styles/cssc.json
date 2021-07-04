@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cssc",
+  "Title": "CSS Compiler",
+  "Description": "CSS Compiler CSSC makes development of CSS styles easier for developers and programmers. It uses a simplified CSS syntax to allow for easy creation of frameworks and pluggins. It is written in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CSS Compiler CSSC makes development of CSS styles easier for developers and programmers. It uses a simplified CSS syntax to allow for easy creation of frameworks and pluggins. It is written in C&#35;.<br /><br /><b>Summary</b><br />The CSSC is a simple CSS compiler that takes a CSS like syntax to optimize the creation of CSS files. We are currently working on the desired syntax for for the CSSC files. For more information about this, please visit the documentation section of the site.<br /><br /><b>Goals</b>\n<ul><li>Simplify CSS creation and pluggin deployment.</li>\n<li>Decouple html from their CSS frameworks such as styles in tags for blueprint.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-25T14:00:50.97-08:00"
+}

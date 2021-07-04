@@ -1,0 +1,9 @@
+{
+  "ProjectName": "skypehistory",
+  "Title": "Skype history manager",
+  "Description": "<project name> lets you view and delete messages without having to install Skype",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Program allows you to edit the message history Skype.<br /><br /><a href=\"https://skypehistory.codeplex.com/wikipage?title=How%20to%20remove%20hessage%20history%3f&referringTitle=Home\">How to remove hessage history&#63;</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SQLite,C#,WPF,",
+  "LastEdited": "2012-01-13T13:42:58.71-08:00"
+}

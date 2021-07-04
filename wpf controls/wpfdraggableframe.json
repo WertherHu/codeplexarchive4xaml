@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfdraggableframe",
+  "Title": "WPF Draggable Extended Window Frame Demo",
+  "Description": "A sample WPF application, written in C#, demonstrating window dragging behavior on extended non-client window frame regions of a window.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A sample WPF application, written in C&#35;, demonstrating window dragging behavior on extended non-client window frame regions of a window.<br /><br />The code in this project is a companion to the following Q&amp;A on Stack Overflow:<br /><a href=\"http://stackoverflow.com/q/5493149/106224\">How do I make a WPF window movable by dragging the extended window frame?</a><br /><br /><b>Getting the Code</b><br />Visit the <b>Source Code</b> tab to download the latest revision, then open it in Visual Studio, and build and run it.<br /><br />As it&#39;s a very simple demo application, it&#39;ll remain unchanged much of the time, except for improving documentation, fixing bugs and typos, etc.<br /><br /><b>Notes</b><br />The sample includes the necessary P/Invokes for extending non-client regions into the client area; however their implementation is not essential to the sample, which is only concerned with hit-tests on the frame area versus the substitute &quot;client area&quot;. That means you can either use my implementation or roll your own. For details, look in the main window&#39;s code-behind file, <span class=\"codeInline\">MainWindow.xaml.cs</span>.<br /><br />All code in this sample project is distributed under the MIT license, which can be found in <span class=\"codeInline\">license.txt</span>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-29T17:55:30.81-07:00"
+}

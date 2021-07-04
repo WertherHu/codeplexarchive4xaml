@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rwlodarcmsdnblog",
+  "Title": "Robert's MSDN Blog Code",
+  "Description": "This project contains code that I've placed on my blog at http://blogs.msdn.com/rwlodarc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rThis project contains code that I&#39;ve placed on my blog at http&#58;&#47;&#47;blogs.msdn.com&#47;rwlodarc.<br />\n<h2>Project includes:</h2>\r<ul><li>Converting WPF BitmapSource to/from GDI+ Bitmap </li>\n<li>Walking metadata using WPF Imaging classes</li>\n<li>Using WPF InPlaceBitmapMetadataWriter</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF Imaging,WIC,Imaging,metadata,Exif,XMP,IPTC,IIM,JPEG,PNG,TIFF,GIF,",
+  "LastEdited": "2009-11-02T10:38:54.043-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kdgSQCsolver",
+  "Title": "KDG's  Statistical Quality Control Solver",
+  "Description": "This tool will include methods that can solve sample standard deviation, sample variance, median, mode, moving average, percentiles, margin of error, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The purpose of this project is to facilitate a tool for the basic concepts of Quality Engineering. Quality has become a major business strategy and is utilize successfully to improve quality and their productivity. Statistical methods are widely known and use for quality improvement. <br /><br />This tool will include methods that can solve sample standard deviation, sample variance, median, mode, moving average, percentiles, margin of error, central limit theorem, capability Index, analysis of variation, (ANOVA), confidence Intervals, permutations and combinations. <br /><br />The program will be accompanied with, pareto charts, histograms, box plot, scatter charts, bell curve, distribution and pie charts. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-01-23T12:06:00.27-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shoozla",
+  "Title": "Shoozla",
+  "Description": "Very simple and powerful application that helps you to find the cover for your mp3.\r\nIt searchs the images of your music files whitin LASTFM website (account needed) or PLAYME,com\r\nAll the images are saved into the mp3's ID3 tags!\r\n\r\nThe search algorithm tryies to find the exact cover in this order:\r\n- ARTIST NAME + ALBUM NAME\r\n- ARTIST NAME + SONG TITLE\r\n- ARTIST NAME\r\n\r\nYou can also use the application from the command line, or create a scheduled task to search for covers periodically.\r\n\r\nWPF Application developed in C# following a MVVM design pattern.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Very simple and powerful application that helps you to find the cover for your mp3.<br />It searchs the images of your music files whitin LASTFM website &#40;account needed&#41; or PLAYME,com<br />All the images are saved into the mp3&#39;s ID3 tags&#33;<br /><br />The search algorithm tryies to find the exact cover in this order&#58;<br />- ARTIST NAME &#43; ALBUM NAME<br />- ARTIST NAME &#43; SONG TITLE<br />- ARTIST NAME<br /><br />You can also use the application from the command line, or create a scheduled task to search for covers periodically.<br /><br />WPF Application developed in C&#35; following a MVVM design pattern.<br /><br />How does it work? see <a href=\"http://www.youtube.com/watch?v=50Vo8DXjyZE\">http://www.youtube.com/watch?v=50Vo8DXjyZE</a><br /><br />It works only witn Mp3 files and Windows 7<br />It connects to gianlucabertelli.eu for statistic pourpose</div><div class=\"ClearBoth\"></div>",
+  "TagList": "mp3,music,library,wpf,c#,last.fm,cover art,artwork,covers,",
+  "LastEdited": "2012-05-01T04:37:37.813-07:00"
+}

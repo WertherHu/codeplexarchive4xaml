@@ -1,0 +1,9 @@
+{
+  "ProjectName": "madhur",
+  "Title": "SharePoint - Silverlight Projects",
+  "Description": "This project contains SharePoint or Silverlight controls developed by me.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Silverlight Organization Chart for SharePoint</strong></p>\r\n<p>If you would like to support the development of this and my other projects, please visit:&nbsp;<a href=\"http://www.madhur.co.in/donate/\">http://www.madhur.co.in/donate/</a></p>\r\n<p>It is a silverlight Chart control which&nbsp;retrieves&nbsp;data from the SharePoint list.</p>\r\n<p>See Full Screenshot: <a href=\"http://download.codeplex.com/Download?ProjectName=madhur&DownloadId=319392\">\r\nScreen 1</a> | <a href=\"http://download.codeplex.com/Download?ProjectName=madhur&DownloadId=319393\">\r\nScreen 2</a>&nbsp;| <a href=\"http://www.madhur.co.in/silverdemo/Index.html\">Live Demo with Sample Data</a></p>\r\n<p><strong>Features</strong></p>\r\n<ul>\r\n<li>Collapse/Expand of Nodes </li><li>Reset Root anywhere within the Org Chart </li><li>Root can be permanently set in web part through parameters </li><li>Optionally draws dotted line based on input data. </li></ul>\r\n<p>See, <strong>Documentation </strong>tab for more details.</p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=madhur&DownloadId=319393\" alt=\"\"></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://download.codeplex.com/Download?ProjectName=madhur&DownloadId=319392\" alt=\"\"></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&#65279;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,silverlight 4,Organization chart,Sharepoint,SharePoint 2010,OrgChart,",
+  "LastEdited": "2011-12-29T06:36:12.08-08:00"
+}

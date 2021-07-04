@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rssfeedreader",
+  "Title": "RSS Feed Reader  for Windows 8",
+  "Description": "La aplicación RSS Feed Viewer for Windows 8 implementa un lector de RSS para una única fuente de datos que se integra con los servicios de Windows 8.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2>Project Description</h2>\r\n<p>RSS Feed Reader for Windows 8 implements a RSS reader that is integrated with Windows 8 and its user experience.</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=rssfeedreader&DownloadId=533049\" alt=\"\" width=\"622\" height=\"351\"></p>\r\n<h2>Objectives</h2>\r\n<p><a href=\"http://www.icinetic.com\">Icinetic </a>has created this project with two objectives in mind:</p>\r\n<ol>\r\n<li>To serve as a &quot;ready-to-deploy&quot; template for making RSS reader apps.\r\n<p>Follow the instructions in the <a href=\"http://rssfeedreader.codeplex.com/documentation\">\r\ndocumentation</a> to customize and deploy your app.</p>\r\n</li><li>To help you learn how to build Windows Store Apps.\r\n<p>This project covers:</p>\r\n<ul>\r\n<li>Asynchronous programming. </li><li>Use of FlipView control </li><li>Use of Semantic Zoom control. </li><li>Implementation of Search contract. </li><li>Implementation of Share contract. </li><li>Creation of a local cache using SQLite. </li><li>Live Tile customization. </li><li>Snapped and Fill view. </li></ul>\r\n</li></ol>\r\n<p>For more information visit our websites at <a href=\"http://www.icinetic.com\">Icinetic\r\n</a>and <a href=\"http://www.radarc.net\">Radarc </a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows 8,Metro,Metro UI,RSS Reader,RSS,xaml,SQLite,",
+  "LastEdited": "2012-12-07T03:59:44.89-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Toast8",
+  "Title": "Toast8",
+  "Description": "Toast8 - A remote controller for media apps on Windows 8+.\r\nShow notifications and control Spotify using global hotkeys\r\nCopyright Peter Nylander 2014",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Toast8 - A remote controller for media apps on Windows 8&#43;.<br />Show notifications and control Spotify using global hotkeys<br />Copyright Peter Nylander 2014<br /><br />Uses SpotifyWebHelper to control and get information from Spotify. This includes starting/stopping playback, changing songs, retrieving album art and reacting to current status of the player.<br /><br />I am in no way affiliated with Spotify, this is just my own pet project.<br /><br />Inspiration and idea for project from:<br />Toastify - https://toastify.codeplex.com/<br />http://cgbystrom.com/articles/deconstructing-spotifys-builtin-http-server/<br />http://stackoverflow.com/questions/10123804/retrieve-cover-artwork-using-spotify-api<br />http://www.fjun.com/websvn/filedetails.php?repname=software&amp;path=%2Ftrunk%2FPC%2FIR-Receiver<u>HID%2FIR-Receiver</u>HID%2FSpotifyRemote.cs&amp;rev=2275&amp;sc=1<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-16T13:54:04.61-07:00"
+}

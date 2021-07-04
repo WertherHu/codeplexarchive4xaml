@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MBPM",
+  "Title": "Mailbox Permissions Manager",
+  "Description": "Allows administrators to remotely view and manage permissions for any folder in a mailbox, as well as manage delegates.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Mailbox Permissions Manager</b><br />Allows administrators to remotely view and manage permissions for any folder in a mailbox, as well as manage delegates.<br /><br />If you&#39;ve ever been asked to give someone access to an inbox with several hundred subfolders, or found yourself having to log in to a shared mailbox account just to give a new user access to the calendar this program can help.<br /><br /><b>Important - please read the documentation before using to make sure you have the pre-requisites.</b><br /><br /><b>Features</b>\n<ul><li>Easily see which users or groups have what permissions to any folder in a mailbox.</li>\n<li>Add, remove or change permissions with one click.</li>\n<li>Apply permissions to a folder and all subfolders below it.</li>\n<li>View, add, update or remove delegates of a mailbox.</li>\n<li>Tabbed, resizeable interface.</li>\n<li>Works with on premises Exchange server or Office365.</li></ul>\n<br /><img src=\"/projects/MBPM/b7913fa1-b055-4b10-9c98-1b69e967b26a\" alt=\"Screenshot&#32;2015-01-15&#32;11.42.08.png\" title=\"Screenshot&#32;2015-01-15&#32;11.42.08.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,Exchange,C#,WPF,PowerShell,",
+  "LastEdited": "2015-01-15T08:45:24.707-08:00"
+}

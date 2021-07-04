@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tplhelper",
+  "Title": "Task Parallel Library Helper",
+  "Description": "TPLHelper is a helper library for standardising program behaviour and control. Aimed at batch processing leveraging the Task Parallel Library in .NET 4.0. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TPLHelper is a helper library for standardising program behaviour and control. Aimed at batch processing leveraging the Task Parallel Library in .NET 4.0. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-27T12:29:27.99-07:00"
+}

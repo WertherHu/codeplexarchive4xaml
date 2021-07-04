@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tmdotnet",
+  "Title": "Thats-Me Dot Net API",
+  "Description": "Thats-Me Dot Net API is a library which implements the Thats-Me.ch API for the Dot Net Framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Thats-Me Dot Net API</h1>\n<div class=wikidoc>Thats-Me Dot Net API is a library which implements the Thats-Me.ch API for the Dot Net Framework.<br><br><strong>Take a look at the <a href=\"/wikipage?title=Roadmap&referringTitle=Home\">Roadmap</a></strong></div>\n<hr>\n<h2>News</h2>\n<h3>Send messages with the API - 09.09.2010</h3>\n<p><a href=\"http://vimeo.com/14764665\">Thats Me Dot Net API Messageboard Example</a> from <a href=\"http://vimeo.com/nexpose\">Nexpose</a> on <a href=\"http://vimeo.com\">Vimeo</a>.</p>\n<h3>Download our Sample Project - 27.08.2010</h3>\n<div class=wikidoc>-&gt; <a href=\"http://tmdotnet.codeplex.com/releases/view/51364\">Milestone 2 R2 WPF Example Alpha</a><br><br><img title=\"greenshot_2010-08-27_23-46-42.png\" src=\"http://i3.codeplex.com/download?ProjectName=tmdotnet&DownloadId=146284\" alt=\"greenshot_2010-08-27_23-46-42.png\"></div>\n<hr>\n<h2>Joining the Team</h2>\n<div class=wikidoc>To prevent spambots from spamming our list we ask you introduce yourself to join.<br>To contact us simply head over to <a href=\"http://nexpose.ch\">our website<span>&nbsp;</span></a> or write us <a href=\"mailto:florian@nexpose.ch\">an email.</a>&nbsp;</div>\n<h2>Recent Links</h2>\n<div class=wikidoc>\n<ul>\n<li><a href=\"http://nexpose.ch\">Nexpose.ch</a></li>\n<li><a href=\"http://thats-me.ch\">Thats-Me.ch</a></li>\n<li><a href=\"http://thats-me.ch/tm-gruppen/TM_API_jetzt\">Thats-Me.ch - API Gruppe</a></li>\n</ul>\n</div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "API,Thats-Me,TM,Thats-Me.ch,Nexpose,Interface,WPF,HtmlAgilityPack,",
+  "LastEdited": "2010-09-10T00:02:19.913-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WinFormNumberBox",
+  "Title": "Numeric input controls for Windows.Forms",
+  "Description": "A control-library that provides (Windows.Forms) controls to input numerical values. Providing a better user experience over MaskedTextbox when entering numbers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A control-library that provides &#40;Windows.Forms&#41; controls to input numerical values. Providing a better user experience over MaskedTextbox when entering numbers.<br />\n<h1>Why</h1>\rI needed a &quot;textbox&quot; to input numerical values. The MaskedTextBox is not user friendly enough for entering numbers, specially money entering is hard for the end-user.<br /><br />These control let the user enter a number, but does at no point allow illegal characters to be entered (or pasted) into the control.<br />\n<h2>What does this mean:</h2>\rThe user cannot enter non-numerical characters into the IntBox/MoneyBox. They are simply ignored. However, if it is legal to enter a decimal or thousand seperator (dot or comma), they are allowed.<br /><br />Also in the MoneyBox the currenty symbol ($ or €, etc) is allowed, but only on the correct location.<br /><br />I think, this gives the user the best experience.<br />\n<h1>See also</h1>\r<ul><li><a href=\"https://winformnumberbox.codeplex.com/wikipage?title=Implementation%20Details&referringTitle=Home\">Implementation Details</a></li>\n<li><a href=\"http://www.vantslot.be/gertdotnet\">My Blog</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,.NET 2.0,C#,winforms,Controls,TextBox,Windows Forms,Return 2010,",
+  "LastEdited": "2008-05-23T16:41:18.13-07:00"
+}

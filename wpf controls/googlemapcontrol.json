@@ -1,0 +1,9 @@
+{
+  "ProjectName": "googlemapcontrol",
+  "Title": "Ajax Enabled GoogleMap ASP.NET Control",
+  "Description": "Use GoogleMap API on server side with ajax support",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"http://www.codeproject.com/KB/webforms/GoogleMap/playroute.gif\" /><br /><br /><br />GoogleMap API is probably the most well known (web based) map api that is currently in use. Basically, it provides a javascript interface to be used at any platform. Thus, having basic javascript knowledge is enought to use&amp;handle this API. However, those who are not familiar with handling javascript (or generally client scripting) are tend to use&amp;handle components&amp;objects that provide the target functionality. In the case of using this API on some web pages, it seemed to me more proper to create a web control that I could handle on server side. For that reason I implemented a drag and drop style <a href=\"https://googlemapcontrol.codeplex.com/wikipage?title=ASP.NET%20web&referringTitle=Home\">ASP.NET web</a> control. VS2005 <a href=\"https://googlemapcontrol.codeplex.com/wikipage?title=and%20.NET%202.0&referringTitle=Home\">and .NET 2.0</a> is used as development platform but –of course- the control can be used at higher platforms.<br /><br />...<br /><br /><i>continued at:</i><br /><a href=\"http://www.codeproject.com/KB/webforms/GoogleMap.aspx\">http://www.codeproject.com/KB/webforms/GoogleMap.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-12T12:08:47.863-07:00"
+}

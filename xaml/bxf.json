@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bxf",
+  "Title": "Bxf (Basic XAML Framework)",
+  "Description": "Basic Xaml Framework (Bxf) is a simple, streamlined set of UI components designed to demonstrate the minimum framework functionality required to make MVVM work well while leveraging the Visual Studio 2010 XAML designer (\"Cider\"). Bxf works with Silverlight, WPF and WP7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Basic Xaml Framework &#40;Bxf&#41; is a simple, streamlined set of UI components designed to demonstrate the minimum framework functionality required to make MVVM work well while leveraging the Visual Studio 2010 XAML designer &#40;&#34;Cider&#34;&#41;. Bxf works with Silverlight, WPF and WP7.<br /><br />The Bxf download includes the framework binaries, along with sample application code for WPF, Silverlight and Windows Phone.<br /><br />Bxf was used in some Microsoft Tech Ed demos, available at <br /><a href=\"http://www.lhotka.net/Article.aspx?id=389bb59d-2760-4309-aee2-f55a976ef100\">http://www.lhotka.net/Article.aspx?id=389bb59d-2760-4309-aee2-f55a976ef100</a><br /><br />Bxf is discussed as part of this video<br /><a href=\"http://www.lhotka.net/files/MvvmIntro.wmv\">http://www.lhotka.net/files/MvvmIntro.wmv</a><br /><br />The CSLA .NET SimpleNTier sample uses Bxf. It is the Samples\\Net\\cs\\SimpleNTier folder in the Samples download<br /><a href=\"http://www.lhotka.net/cslanet/download.aspx\">http://www.lhotka.net/cslanet/download.aspx</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "xaml,WPF,MVVM,Silverlight,WP7,wp7dev,",
+  "LastEdited": "2010-11-03T08:36:26.753-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CodeFirstTemplate",
+  "Title": "Code First Template Generator",
+  "Description": "The tool will  generate the .cs code files from the control property excel , created by Control property generator tool.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />\n<ol><li>This is available as a Visual Studio Add in.</li>\n<li>This tool which will  generate the .cs code files from the control property excel , created by Control property generator tool. (<a href=\"http://controlpropertygenerator.codeplex.com/\">http://controlpropertygenerator.codeplex.com/</a>).</li>\n<li>The .cs page files will have definition of all the controls and their identification. </li>\n<li>A separate .cs page file gets created for each sheet in the excel.</li>\n<li>The .cs files can then be included in the project by first making them visible via click of &quot;Show All Files&quot; icon on the project.</li>\n<li>This will ease the job of the coder as the control will now be directly available in code and they will now just have to focus on business logic only.</li></ol>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "code first,automation,template generation,control page file,control property too,",
+  "LastEdited": "2014-01-09T08:32:46.42-08:00"
+}

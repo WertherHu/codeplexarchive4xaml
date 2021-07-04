@@ -1,0 +1,9 @@
+{
+  "ProjectName": "playlistcopy",
+  "Title": "PlaylistCopy",
+  "Description": "Sample WPF application that copies music files from playlist (M3U and PLS supported) to destination folder. Project created to try MEF and Fody.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>PlaylistCopy</h1>\rMoved to GitHub: https://github.com/pwasiewicz/playlistcopy</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-09T06:40:55.88-08:00"
+}

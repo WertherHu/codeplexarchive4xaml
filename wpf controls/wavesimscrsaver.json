@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wavesimscrsaver",
+  "Title": "Writing a Screen Saver in WPF",
+  "Description": "An example of writing an animated 3D screen saver in WPF.  The screen saver plays an animation of raindrops falling on water.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An example of writing an animated 3D screen saver in WPF.  The screen saver plays an animation of raindrops falling on water.<br /><br /><br />This project contains all of the source code to go along with the following blog post:<br />  <a href=\"http://stuff.seans.com/2008/09/01/writing-a-screen-saver-in-wpf/\">Writing a Screen Saver in WPF</a><br /><br />Sean Sexton<br /><a href=\"http://stuff.seans.com\">Sean&#39;s Stuff</a><br /><a href=\"mailto:sean@seans.com\">sean@seans.com</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Screen Saver,Animated Water,animation,C#,",
+  "LastEdited": "2009-06-25T05:48:59.513-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ExchangeControl",
+  "Title": "ExchangeControl",
+  "Description": "Open Source control panel for Exchange 2007, utilizing HMC 4.5 and MPS Web Services.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rOpen Source control panel for Exchange 2007, utilizing HMC 4.5 and MPS Web Services.<br /><br />Be sure and subscribe to email replies in the &quot;discussions&quot;.  As you know there are many facets to HMC and MPS, so you never know when you might be able to contribute!<br /><br /><b>Please Note</b> - The source code is an empty C# web app.  Open to discussion on starting with a blank site or sampleprovisioningui...<br />\n<h2>Get Involved</h2>\rSign up with codeplex and post your desired participation level, area of expertise, and any information relevant to the cause.  We will send you a confirmation soon after.  You may also contact the project owner through &quot;codeplex contact feature&quot;.<br />\n<h3>Testers</h3>\rNothing to test yet, but we&#39;ll alert you as releases become available.<br />\n<h3>Designers</h3>\rUI for Front-End web application.  <br />\n<h3>Developers</h3>\rC# developers of all skill levels are welcome to participate.<br />\n<h3>Technical Writers</h3>\rDetails, Details, Details<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-07-30T07:37:38.84-07:00"
+}

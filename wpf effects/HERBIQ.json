@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HERBIQ",
+  "Title": "HERB.IQ",
+  "Description": "Windows Form Application that stores data in encrypted XML files to track the progress of plants, nutrient levels, environment, smoke effects, strain characteristics for breeding, etc.  Output to single file with embedded images like a pdf file or some open format to show others.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h4>Main site is at&nbsp;<a href=\"http://herbiq.net\">http://herbiq.net</a></h4>\r\n<p>Mirrors are both here and on sourceforge</p>\r\n<p>source code is hosted on sourceforge --&gt;&nbsp;<a href=\"https://sourceforge.net/projects/herbiq/\">https://sourceforge.net/projects/herbiq/</a></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "cannabis,marijuana,journal,c#,windows,growers,grow manager,horticulture,growroom,",
+  "LastEdited": "2016-09-25T09:37:56.833-07:00"
+}

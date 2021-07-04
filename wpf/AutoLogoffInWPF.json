@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AutoLogoffInWPF",
+  "Title": "Auto logoff on user inactivity in WPF application",
+  "Description": "Implementation of Auto logoff using hooking approach on user inactivity in WPF Application",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Implementation of Auto logoff using hooking approach on user inactivity in WPF Application<br /><br />Here Auto Logoff feature has been implemented like the following: System logouts automatically when an operator is inactive for his Auto logoff time. This feature has been implemented as sliding, that is the timer is restarted when the user activities such as mouse clicks and keyboard entries is occurred. <br /><br />I have published a new article on this on CodeProject;<br /><a href=\"http://www.codeproject.com/KB/WPF/AutologoffWPF.aspx\">http://www.codeproject.com/KB/WPF/AutologoffWPF.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Auto logoff,User inactivity,",
+  "LastEdited": "2009-10-09T10:29:14.437-07:00"
+}

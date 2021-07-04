@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DNNDefaultCSS",
+  "Title": "DotNetNuke Default.css Redux",
+  "Description": "Rework of the default.css style sheet to regain control outside the upgrade path.  Each version pertains to the corresponding DotNetNuke version.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Rework of the default.css style sheet to regain control outside the upgrade path.  Each version pertains to the corresponding DotNetNuke version.<br /><br />Each section of the default CSS document has been separated for greater control over updates.  For most, an upgrade will involve replacing one or two files while the rest remain untouched and up to date.<br /><br />Parts that are intrusive are not included by default.  These are file that set how basic HTML tags look and behave.  They can be included by removed the comment tags.<br /><br />Once a site is launched, use the <a href=\"http://www.dotnetnuke.com/Resources/Blogs/EntryId/3311/First-Look-JS-CSS-File-Combining-and-Versioning-Enhancements-coming-in-DotNetNuke-6-2.aspx\">Client Resource Management</a> to combine all the files in to a single request along with the other CSS resources on the site.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotNetNuke,default.css,",
+  "LastEdited": "2013-02-22T09:04:25.177-08:00"
+}

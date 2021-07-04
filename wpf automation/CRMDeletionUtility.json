@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CRMDeletionUtility",
+  "Title": "CRM Deletion Utility",
+  "Description": "Takes a FetchXML query and command line based deletion job based on that. It is great for scheduling and automation. \r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Takes a FetchXML query and command line based deletion job based on that. It is great for scheduling and automation. <br /><br /><br />Takes a FetchXML query and command line based deletion job based on that. It is great for scheduling and automation. <br /><br />Future release would ideally add multi-threading for faster performance.<br /><br />Read the readme file in the bin/debug folder for documentation on how to use.  <br /><br /><b></b><b></b>Do not blame me if you delete something you don&#39;t want to delete, Whatever records your query returns will be deleted using this utility****<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-04-08T07:14:35.943-07:00"
+}

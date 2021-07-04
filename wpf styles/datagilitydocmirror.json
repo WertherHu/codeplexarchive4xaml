@@ -1,0 +1,9 @@
+{
+  "ProjectName": "datagilitydocmirror",
+  "Title": "SharePoint Document Library Mirroring",
+  "Description": "In the style of SourceSafe's Shadow Folders, Document Library Mirroring uses the SharePoint audit log to mirror changes to document libraries to a designated location on the file system.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />In the style of SourceSafe&#39;s Shadow Folders, Document Library Mirroring uses the SharePoint audit log to mirror changes to document libraries to a designated location on the file system.<br /><br />Further details as to the aims of the proect and an overview of the implementation can be found here: <a href=\"http://datagility.wordpress.com/2010/10/06/docmirror/\">http://datagility.wordpress.com/2010/10/06/docmirror/</a><br /><br />Update: The current version is the SharePoint 2010 port of the project.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-15T08:05:00.38-08:00"
+}

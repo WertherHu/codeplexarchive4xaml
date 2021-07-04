@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cmnavigation",
+  "Title": "Caliburn Micro Silverlight Navigation",
+  "Description": "Caliburn Micro Silverlight Navigation adds navigation to Caliburn Micro UI Framework by applying the ViewModel-First principle. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">I couldn&#39;t find a suitable solution for navigation in caliburn micro framework (or i’m unaware of one) so i decided to roll my own out with the following basic features:<br /><br />1. Supports deeplinking<br />2. Easy setup<br />3. IOC agnostic<br /><br />The solution comes with a really simple sample application which explains how you can set it up. To have it set up on your application you need to do following things:<br /><br />1. Include the Caliburn.Micro.Navigation project<br />2. In the AppBootstraper part, you need to add the navigation conventions (see the AppBootstrapper of the sample app)<br />3. Register viewmodels with navigation names (i used autofac, also see sample app)<br />4. In the shellView, replace ContentControl with Frame control and set CaliburnContentLoader as a contentLoader<br />5. Have the ShellViewModel inherit from NavigationConductor instead of Conductor<br /><br />And i think that’s about it. To have DeepLinking enabled, use the INavigationAware interface on the particular screen.<br /><br />Contributed by  <a href=\"http://www.run80.net\">Bruno Samardzic</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-06T13:33:18.11-08:00"
+}

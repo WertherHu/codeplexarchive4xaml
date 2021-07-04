@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightLocalize",
+  "Title": "Silverlight Localization",
+  "Description": "This project shows how to add localization to a Silverlight application",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project shows how to implement localization using resource files within a Silverlight application in a few simple steps.<br /><br />To learn how to implement the below steps in details or to ask a question about this project visit here: <a href=\"http://www.silverlighttips.com/?tag=/localization\">http://www.silverlighttips.com/?tag=/localization</a>.<br /><br />Here is a quick summary of what needs to be done to add localization using .resx (Resource file):<br /><br />1. Adding a resource file (.resx) to your Silverlight project<br />2. Add a Resources namespace and a static resource<br />3. Replace the hardcoded text with Static Resources<br />4. Update the .csproj file of your Silverlight project<br />5. add InitParameters to the Silverlight control<br />6. Update App.xaml.cs<br /><br />For more posts related to this project or other subjects visit <a href=\"http://www.silverlighttips.com/\">SilverlightTips.com</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-17T02:05:48.143-07:00"
+}

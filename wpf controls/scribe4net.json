@@ -1,0 +1,9 @@
+{
+  "ProjectName": "scribe4net",
+  "Title": "scribe4net",
+  "Description": "*Scrive4net* is a simple serializer for test scenarios, which provides human readability and full control over serialization depth and fields.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br /><b>Scrive4net</b> is a simple serializer for test scenarios, in contrast to traditional serializers which are used for object persistance to HDD or over network connections, no thought was given to deseirialization back to the original object (as this was not the intention), the main concern here was human readability and full control over serialization.<br />The need it fills is getting an object into text form so it can be compared to the standard / preapproved object, or to approve it as the standard object.<br />\n<ul><li>The output string is as human readable as can be, and comes with built in formatting.</li>\n<li>Output is deterministic = the same object will produce the same output string every time. (for string diffing)</li>\n<li>Produces a simple ToString value for primitive types (including string and date)</li>\n<li>Produces a xml / json representation of an object including all properties</li>\n<li>Opt in &amp; opt out support</li>\n<li>Depth limitation support</li>\n<li>Handles List / Array &amp; Dictionary properties (IEnumerable &amp; IDictionary)  </li>\n<li>Complience with standard xml &amp; json formats is provided so deserialization into a wroking object model is easy.</li>\n<li>Supports serializing properties and fields of any object</li>\n<li>Full control over which types of members to serialize (public / nonPublic / static / instance)</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-04-01T02:28:41.82-07:00"
+}

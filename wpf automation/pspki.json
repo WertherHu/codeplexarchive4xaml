@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pspki",
+  "Title": "Public Key Infrastructure PowerShell module",
+  "Description": "This module is intended to simplify certain PKI management tasks by using automation with Windows PowerShell.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>The project is permanently moved to <a href=\"https://github.com/Crypt32/PSPKI\">\r\nGitHub</a>!</h1>\r\n<hr>\r\n<p style=\"text-align:center\">The following technologies and products were used to design this module:</p>\r\n<div style=\"text-align:center\">\r\n<p><a href=\"http://www.microsoft.com/en-us/server-cloud/windows-server/2008-r2-trial.aspx\"><img title=\"Windows Server 2008 R2\" src=\"/projects/pspki/2faad4b6-e40b-4e06-becf-7a8c500dd197\" alt=\"\"></a>\r\n<a href=\"http://www.microsoft.com/net/download\"><img title=\".NET Framework\" src=\"/projects/pspki/7ce7a582-80cf-4c41-935b-01269219cde0\" alt=\"\"></a>\r\n<img title=\"Windows PowerShell\" src=\"/projects/pspki/2c50c5f1-95d7-4804-887c-cf5a40bd90b7\" alt=\"\">\r\n<a href=\"http://powergui.org/downloads.jspa\"><img title=\"PowerGUI Script Editor\" src=\"/projects/pspki/fc56dd13-3b40-47d1-a6ec-13d257b939aa\" alt=\"\"></a>\r\n<a href=\"http://www.advancedinstaller.com\"><img title=\"Packaged with Advanced Installer\" src=\"/projects/pspki/09f5f0dd-7bda-4b87-ab25-66802b994e8b\" alt=\"\"></a></p>\r\n</div>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "PKI,ADCS,Certificate Services,AD CS,PowerShell,ca,certificate,",
+  "LastEdited": "2017-06-29T13:00:28.677-07:00"
+}

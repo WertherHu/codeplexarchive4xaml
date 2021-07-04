@@ -1,0 +1,9 @@
+{
+  "ProjectName": "geolocationusb",
+  "Title": "Windows 8 Gelocation API sample for built-in and USB based GPS devices",
+  "Description": "Windows 8 Gelocation API sample for built-in and USB based GPS devices",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windows 8 Gelocation API sample for built-in and USB based GPS devices<br /><br /><br />This sample demonstrates the use of geolocation api in Windows 8. The code also explicitly suggest api to choose most accurate gps input (Which may be built in GPS as well as USB based GPS Antenna) . </div><div class=\"ClearBoth\"></div>",
+  "TagList": "GPS,Geolocation,USB,PositionAccuracy,DPE,Ashish Thapliyal,Windows 8,WinRT,",
+  "LastEdited": "2013-08-15T10:56:26.757-07:00"
+}

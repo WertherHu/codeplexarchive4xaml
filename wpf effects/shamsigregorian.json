@@ -1,0 +1,9 @@
+{
+  "ProjectName": "shamsigregorian",
+  "Title": "Shamsi to Gregorian",
+  "Description": "Features:\n*Convert Shamsi date to Gregorian date.\n*Convert Gregorian date to Shamsi date.\n*Show current Shamsi and Gregorian date.\n\nRequirement:\n*You need .NET framework 3.5 to install this program",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Features:</h1>\r<ul><li>Convert Shamsi date to Gregorian date.</li>\n<li>Convert Gregorian date to Shamsi date.</li>\n<li>Show current Shamsi and Gregorian date.</li></ul>\n\n<h1>Requirement:</h1>\r<ul><li>You need .NET framework 3.5 to install this program</li></ul>\n\n<h1>Screen Shots:</h1>\r\n<img src=\"http://i28.tinypic.com/2djomt.jpg\" /><br /><br /><img src=\"http://i30.tinypic.com/343p3si.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "calendar,C#,shamsi,Hijri,WPF,Persian,Iran,Farsi,Gregorian,Convert,Miladi,",
+  "LastEdited": "2009-08-31T21:01:12.143-07:00"
+}

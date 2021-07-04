@@ -1,0 +1,9 @@
+{
+  "ProjectName": "s7sourcecontrol",
+  "Title": "S7 Source Control",
+  "Description": "A repository for S7DiffMerge, a custom application for comparing and merging S7 PLC projects",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>S7 Source Control</b><br /><br />This project is a custom application used to more easily integrate S7 PLC projects into source control platforms. SVN has been chosen as the primary integration focus. The program acts as an SVN custom diff and merge tool on the &quot;block&quot; layer of S7 projects. It enables a PLC program development team to quickly see who modified what blocks and to merge different branches of PLC program development.<br /><br />The project has major dependencies on the open-source project DotNetSiemensPLCToolBoxLibrary on CodePlex by CodePlex user jogibear9988 here:<br />http://siemensplctoolboxlib.codeplex.com/<br /><br />In addition the project also has major dependencies on the Siemens Command Interface type library that Siemens distributes to developers who need to automate programming tasks. The complete description of the STEP 7 command interface is available on the STEP 7 CD in the &quot;Manuals&quot; directory.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-28T14:45:37.417-07:00"
+}

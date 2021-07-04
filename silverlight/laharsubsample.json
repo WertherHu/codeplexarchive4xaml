@@ -1,0 +1,9 @@
+{
+  "ProjectName": "laharsubsample",
+  "Title": "Laharsub Silverlight Sample",
+  "Description": "A Silverlight sample of Laharsub",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Silverlight sample of Laharsub<br /><br />This project is a Silverlight sample of use of Laharsub messaging server.<br /><br />Additional information on Laharsub project is available here: <a href=\"http://laharsub.codeplex.com/\">Laharsub Project</a>.<br /><br />I hope this simple sample helps others Silverlight developers.<br /><br />Make sure to use the last Laharsub version : <a href=\"http://laharsub.codeplex.com/SourceControl/changeset/changes/aefc91ad70cf\">changeset aefc91ad70cf</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-10T03:54:10.057-08:00"
+}

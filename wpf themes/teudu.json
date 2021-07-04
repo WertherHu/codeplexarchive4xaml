@@ -1,0 +1,9 @@
+{
+  "ProjectName": "teudu",
+  "Title": "Teudu: A Kinect Driven Visual Communication System",
+  "Description": "An attempt to leverage the Kinect in NUI for an interactive, metro-styled info-display with live-tiles (ala Windows Phone).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nAn attempt to leverage the Kinect in NUI for an interactive, metro-styled info-display with live-tiles (ala Windows Phone).</p>\r\n<p>It was originally&nbsp;a <a href=\"http://www.cmu.edu/information-systems\">Carnegie Mellon University Information Systems\r\n</a>Capstone project, and has since evolved into a public contribution. We hope the world will build new and exciting info-displays on top of this platform.</p>\r\n<p><img src=\"http://vivekrpai.com/img/Teudu/TeuduMain.jpg\" alt=\"\" width=\"543\" height=\"407\"></p>\r\n<p>Video of implementation:<br>\r\n<a href=\"http://www.youtube.com/watch?v=nj70tTkVIXM\">http://www.youtube.com/watch?v=nj70tTkVIXM</a></p>\r\n<p>Project history:<br>\r\n<a href=\"http://www.vivekrpai.com/Projects/Teudu.html\">http://www.vivekrpai.com/Projects/Teudu.html</a></p>\r\n<p>Original team:</p>\r\n<ul>\r\n<li>Miki Bentz </li><li>Shruti Kataria </li><li>Harold Kim </li><li>Vivek Pai </li><li>Dr. Raja Sooriamurthi (advisor) </li><li>Brian Yee </li></ul>\r\n<p><strong>NOTE</strong>: There are two projects in the repository: TeuduPrototype and Teudu.InfoDisplay.\r\n<strong>TeuduPrototype</strong> was the early prototype project that was used to explore the domain.\r\n<strong>Teudu.InfoDisplay </strong>is the real, working project.&nbsp;We are&nbsp;working on getting rid of the prototype project to eliminate any confusion.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "kinect,Kinect SDK,nui,Metro,WPF,MVVM,.NET 4.0,Information Systems,interactive,interface,natural interaction,",
+  "LastEdited": "2014-06-15T13:33:41.913-07:00"
+}

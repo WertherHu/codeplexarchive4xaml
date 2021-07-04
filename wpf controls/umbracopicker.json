@@ -1,0 +1,9 @@
+{
+  "ProjectName": "umbracopicker",
+  "Title": "Umbraco Single Item Picker+Multiple Items Picker",
+  "Description": "Extention to the Umbraco, needs to pick:\n   - Content pages,\n   - Media items,\n   - File System Objects,\n   - Member Items\n\nin more \"better way\"\nadditionally control returns not only item name(title) but also extended information (path, icon).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nExtention to the Umbraco, needs to pick:<br>\r\n- Content pages,<br>\r\n- Media items,<br>\r\n- File System Objects,<br>\r\n- Member Items<br>\r\n<br>\r\nin more &quot;better way&quot;<br>\r\nadditionally control returns not only item name(title) but also extended information (path, icon).<br>\r\n<br>\r\n<img src=\"http://www.codeplex.com/download?ProjectName=umbracopicker&DownloadId=186724\" alt=\"\"></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>There is another picker, which needs to generate [List of child items -links etc].</p>\r\n<p>Multiple items picker:</p>\r\n<p>&nbsp;&nbsp; - sorted (drag and drop&#43;buttons)</p>\r\n<p>&nbsp;&nbsp; - editable</p>\r\n<p>&nbsp;&nbsp; - selected item will be selected in the picker</p>\r\n<p>&nbsp;&nbsp; - new item will start from specific node (predefined) and last element will be selected - more quicker way to fill data</p>\r\n<p><img src=\"http://download.codeplex.com/download?ProjectName=umbracopicker&DownloadId=187754\" alt=\"\"></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>documentation contains more information...</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "umbraco content,umbraco,Umbraco extensions,umbraco package,picker,content picker,multi picker,multi,",
+  "LastEdited": "2010-12-17T07:37:38.137-08:00"
+}

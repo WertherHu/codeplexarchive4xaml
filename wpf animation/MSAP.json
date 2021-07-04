@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MSAP",
+  "Title": "MSAP for WPF (another MVVM for WPF)",
+  "Description": "MSAP is an application framework based on the pattern MVVM. It aims to structure and organize the development of a WPF application type Browser Application (XBAP). To do this he introduces models for (ViewModels VM) which allow to organize the application module, service, page.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MSAP is an application framework based on the pattern MVVM. It aims to structure and organize the development of a WPF application type Browser Application &#40;XBAP&#41;. To do this he introduces models for &#40;ViewModels VM&#41; which allow to organize the application module, service, page.<br /><br />Le framework  MSAP est un framework applicatif bas&#233; sur le pattern MVVM. Il a pour but de structurer et d’organiser le d&#233;veloppement d’une application WPF de type Browser application (XBAP). Pour ce faire il introduit des mod&#232;les de vue (ViewModels VM) qui permettent d’organiser l’application en module, service, et actions. <br /><br />La version actuelle supporte uniquement le mode Browser application (XBAP) en Full Trust<br /><br />Modele static de classe (UML).<br /><img src=\"/projects/MSAP/4edbcb20-ae52-45f9-b293-a3c949aeeec2\" alt=\"composition.jpg\" title=\"composition.jpg\" /><br /><br />L&#39;application exemple en xBap WPF.<br /><br /><img src=\"/projects/MSAP/aa8f5be3-f064-4b98-ae0f-b73abcebbebe\" alt=\"screenShot.jpg\" title=\"screenShot.jpg\" /><br /><br />Mon blog : <a href=\"http://fberton.blogspot.com\">http://fberton.blogspot.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,XBAP,WPF MVVM,WPF frameworks,",
+  "LastEdited": "2010-11-19T05:04:47.823-08:00"
+}

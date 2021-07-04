@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFFSharp",
+  "Title": "Custom WPF Controls in F#",
+  "Description": "This project is to give users non trivial examples of custom WPF controls in F#.\n\nThe code is a translation of the excellent book “WPF Control Development Unleashed: Building Advanced User Interfaces” written by Pavan Podila and Kevin Hoffman.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This is a translation of SAMS WPF Control Development Unleashed: Building Advanced User Interfaces written by Pavan Podila, and Kevin Hoffman to F#. I picked this book for translation as it covers many advanced topics that other books shy away from. I have been a reader of Pavan Podila’s blog Pixel in Gene for some time, and I have also been waiting for a book dedicated advanced UIs, so when I heard that he was coming out with such a book I knew it was going to be exactly what I needed.<br /><br />The aim behind this project is to serve as an extensive collection non trivial examples of WPF/F# UI. As I introduce people to F#, one thing I am constantly asked is; can it do GUI?. Now I can say yes, … well sort of. So far I have only translated 3,500 lines of F# code, and I am still not finished.<br /><br />I’m doing this primarily as a learning experience and as a forcing function. I have already learned a lot about WPF and F#, and I plan on continuously improving the code as I learn more. Other contributions to the project would be very welcome, and if you spot mistakes or know of any better implementations please don’t hesitate to let me know.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF controls,F#,WPF,WPF 3D,WPF Control,",
+  "LastEdited": "2009-11-08T23:39:07.77-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tortoisehg",
+  "Title": "TortoiseHg",
+  "Description": "Mirror of the main TortoiseHg project at http://tortoisehg.bitbucket.org/",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Mirror of the main TortoiseHg project at  <a href=\"http://tortoisehg.bitbucket.org/\">http://tortoisehg.bitbucket.org/</a><br /><br />Use <a href=\"https://hg01.codeplex.com/tortoisehg\">https://hg01.codeplex.com/tortoisehg</a><br /><br />To clone the repository enter:<br />hg clone https://hg01.codeplex.com/tortoisehg</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Mercurial,Version Control,Hg,",
+  "LastEdited": "2010-03-08T16:23:46.933-08:00"
+}

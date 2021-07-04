@@ -1,0 +1,9 @@
+{
+  "ProjectName": "filemonlite",
+  "Title": "File Monitor Lite",
+  "Description": "File Monitor Lite monitors files selected by wildcard and make backups each time any file is modified. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>File Monitor Lite</b><br />Small utility used to monitor one or more files in a directory (multiple files by wildcard path) and to backup each one on every change to a selected backup location.<br /><br /><img src=\"/projects/filemonlite/5db1656f-9849-4c5e-9945-4b927c64ffe4\" alt=\"screenshot1.png\" title=\"screenshot1.png\" /><br /><br />Modifying (and leaving) any text field will start the file system watcher for the selected files and subsequent backup operations if any change was detected.<br />By default the backup process will start 1000 milliseconds after the detection and this may be configured to allow different delays (for long saves, for example 3DSMax).<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "file monitor,filesystemwatcher,backup,BACKUP AUTOMATION,",
+  "LastEdited": "2012-05-08T11:41:56.503-07:00"
+}

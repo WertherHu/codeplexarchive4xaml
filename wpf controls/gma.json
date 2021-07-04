@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gma",
+  "Title": "Global Machine Access",
+  "Description": "The project provides an intuitive interface computer control via the command line window. \r\n\r\nFeatures: \r\n\r\n- Login, logout, change password. \r\n- Execute commands in",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\n<br>\r\nThe project provides an intuitive interface computer control via the command line window.\r\n<br>\r\n<br>\r\nFeatures: <br>\r\n<br>\r\n- Login, logout, change password. <br>\r\n- Execute commands in cmd. <br>\r\n- To listen on port.</p>\r\n<p>Update 18/5/2014</p>\r\n<p>- File transfer.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-18T08:27:50.077-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPRateField",
+  "Title": "Sharepoint Rate Field Type",
+  "Description": "Sharepoint field type to rate elements from 1 to 5, representing the rating with stars in list view. It can be use to rate knowledge base articles or any other article or item. This project is in C#, i try to do the same with VB but doesn't work, if some one wants to try it please tell me, I don't know where is the problem.\n\nSome of the base code was taken from the project \"SharePoint 2007 WCM Field Controls\". Thanks.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Sharepoint field type to rate elements from 1 to 5, representing the rating with stars in list view. It can be use to rate knowledge base articles or any other article or item. This project is in C&#35;, i try to do the same with VB but doesn&#39;t work, if some one wants to try it please tell me, I don&#39;t know where is the problem.<br /><br />Some of the base code was taken from the project &#34;SharePoint 2007 WCM Field Controls&#34;. Thanks.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MOSS webparts,",
+  "LastEdited": "2008-02-14T01:59:20.17-08:00"
+}

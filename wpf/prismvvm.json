@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prismvvm",
+  "Title": "PRISMvvM",
+  "Description": "MvvM guidance and framework built on top of the PRISM framework.  Makes it easier for developers to properly utilize PRISM to achieve best practices in creating a Silverlight project with MVVM.\n\nSponsored and written by: http://www.architectinginnovation.com",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Extensions to the Microsoft PRISM framework</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,.NET 2.0,.NET 3.5,.NET 4.0,C#,CAB,Composite,CompositeWPF,Framework,Library,MVVM,Prism,Silverlight,Silverlight 4,WPF,WPF frameworks,",
+  "LastEdited": "2011-02-18T07:55:36.927-08:00"
+}

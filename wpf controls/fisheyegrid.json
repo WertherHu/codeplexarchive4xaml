@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fisheyegrid",
+  "Title": "Silverlight Fisheye Grid Control",
+  "Description": "Silverlight control for representing items in a grid that renders them with a fisheye lens effect.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />When the mouse is moved over the grid, the items transform (scale &amp; translate) to a fisheye lens effect. Items under the cursor become larger while those farther away become progressively smaller.<br /><br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:500px;width:800px;\"><param name=\"source\" value=\"http://home.cogeco.ca/~fwaris/FlickrFEGTest.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe><br /><br />Live Sample: <a href=\"http://hosting.objectpeddler.com/FegTest.html\">http://hosting.objectpeddler.com/FegTest.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight Controls,Silverlight NPE,",
+  "LastEdited": "2009-12-13T11:15:33.353-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WFControls",
+  "Title": "WFControls",
+  "Description": "WFControls is a small set of Windows Forms Controls developed in C# targeting Visual Studio 2008 and .NET 3.5.\r\n\r\nThe intent ist to create some reusability to some small custom controls that otherwise would have to be recreated per project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WFControls is a small set of Windows Forms Controls developed in C&#35; targeting Visual Studio 2008 and .NET 3.5.<br /><br />The intent ist to create some reusability to some small custom controls that otherwise would have to be recreated per project.<br /><br />ATTENTION:<br />The Controlls are far from finished and the Code is sparely documented!!<br /><br />Status:<br />- Finished<br />                MaskedTextBox<br />- Halfway finished<br />                CollapsibleControl<br />- All others are still under severe development<br />                </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-18T09:34:09.707-07:00"
+}

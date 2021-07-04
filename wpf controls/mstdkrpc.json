@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mstdkrpc",
+  "Title": "Microsoft Studios Tools Development Kit RPC",
+  "Description": "Microsoft Studios Tools Development Kit RPC lets you control remote applications running on Xbox One, Windows, or Windows Runtime from a C# desktop application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>The RPC (Remote Procedure Call) library is a part of the MSTDK (Microsoft Studios Test Development Kit) suite. RPC allows you to remotely interact with your title for test automation and other custom tooling specific to your title. To use RPC, you create\r\n hooks in your server code; then, you call these hooks from your client code (e.g.: .NET-based test tools). What those hooks are and how they affect your game is entirely up to you.</p>\r\n<p>Besides hooks used to interact with your title, RPC also supports event notification. Clients can subscribe to an event then wait for the server to notify the event handler when that event occurred on the server. Events are executed asynchronously and are\r\n used to receive information about an event from the server.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Automation,RPC,",
+  "LastEdited": "2015-01-29T16:18:41.067-08:00"
+}

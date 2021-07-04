@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TileEditor",
+  "Title": "TileEditor - A WPF Dungeon Mapper",
+  "Description": "TileEditor will be a tile-based (sic) map-editor aimed at making the live of tabletop DM's more easy. It's main inspiration is the new tools Wizards of the Coast plan to release. TileEditor will be less sophisticated at least, since it's second main purpose is to strengthen my WPF skills :)\n\nNevertheless I hope this will eventually become a tool that's usefull to other DM's.\n\nFeatures:\n* Tilebase map-editor\n* Custom tilesets can be loaded\n* Furniture, landscaping object and monsters can be placed on the map\n* Maps can be printed on many scales\n\nAnd what not...\n\nCheers,\nRuben",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TileEditor will be a tile-based &#40;sic&#41; map-editor aimed at making the live of tabletop DM&#39;s more easy. It&#39;s main inspiration is the new tools Wizards of the Coast plan to release. TileEditor will be less sophisticated at least, since it&#39;s second main purpose is to strengthen my WPF skills &#58;&#41;<br /><br />Nevertheless I hope this will eventually become a tool that&#39;s usefull to other DM&#39;s.<br /><br />Features&#58;<br />&#42; Tilebase map-editor<br />&#42; Custom tilesets can be loaded<br />&#42; Furniture, landscaping object and monsters can be placed on the map<br />&#42; Maps can be printed on many scales<br /><br />And what not...<br /><br />Cheers,<br />Ruben<br /><br /><img src=\"/projects/TileEditor/957c017f-aba7-46af-bf06-ebe5aaff048c\" alt=\"TileEditor01.png\" title=\"TileEditor01.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-09-11T13:25:14.77-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLColorWheel",
+  "Title": "Silverlight Color Wheel",
+  "Description": "The Silverlight Color Wheel is a simple component built in Silverlight to allow the user to select colors. These colors are available for use in your application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Silverlight Color Wheel is a simple component built in Silverlight to allow the user to select colors. These colors are available for use in your application.<br /><br />This Silverlight color wheel, when complete, will be a silverlight control with the following abilities:\n<ul><li>Can be skinned</li>\n<li>Can store multiple colors</li>\n<li>Throws event on selection</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-05-06T12:40:12.847-07:00"
+}

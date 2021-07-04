@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uComponents",
+  "Title": "uComponents",
+  "Description": "A collaborative project for creating components for Umbraco including data types, XSLT extensions, controls and more.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>We have moved!</h1>\r\n<h2>The new home of the <a href=\"https://github.com/uComponents/uComponents\">uComponents repository is now on GitHub</a>.</h2>\r\n<h2>The uComponents package downloads are still available from <a href=\"http://our.umbraco.org/projects/backoffice-extensions/ucomponents\">Our Umbraco</a> and <a href=\"http://www.nuget.org/packages/uComponents\">NuGet</a></h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "umbraco,datatypes,xslt,",
+  "LastEdited": "2014-01-21T06:03:18.697-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slrest",
+  "Title": "WCF REST Extensions for Silverlight",
+  "Description": "Access RESTful POX and JSON web services using the WCF methodology you know and love.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Access RESTful POX and JSON web services using the WCF methodology you know and love.<br /><br /><b>Features</b>\n<ul><li>Custom client side binding for connecting to RESTful services from Silverlight</li>\n<li>Custom attributes for annotating Contract interface w/ HTTP Methods and URL Templates</li>\n<li>Serialization support for JsonSerializable, XmlSerializer types, and IXmlSerializable implementation.</li></ul>\n<br /><b>Status</b><br />This project is currently a feature complete v1 beta. There is certainly more that could be done, but I&#39;m looking for feedback or community contributions to determine future direction.<br /><br /><b>Todo</b>\n<ul><li>Improve code sharing potential between Silverlight front end and full .Net 3.5 back end.</li>\n<li>Add support for common authentication scenarios</li></ul>\n<br /><b>Contribution</b><br />Anybody interested in contributing should send me a message or email (sflanker at hotmail dot com), I&#39;ll happily add you as a contributor.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-13T18:36:22.89-07:00"
+}

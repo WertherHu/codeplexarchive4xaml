@@ -1,0 +1,9 @@
+{
+  "ProjectName": "YSGetLatest",
+  "Title": "YSGetLatest",
+  "Description": "Graphic user interface for Team Foundation Server (TFS) command tf with request get. The YSGetLatest simplifies getting last version from TFS. The application allows getting last source code for set of folders. The application allows browsing command execution log.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Graphic user interface for Team Foundation Server &#40;TFS&#41; command tf with request get. The YSGetLatest simplifies getting last version from TFS. The application allows getting last source code for set of folders. The application allows browsing command execution log.<br /><br />I work in a big project. We use Team Foundation Server (TFS) as Concurrent Versions System (CVS). The project has many branches. Each branch has many folders (solutions).<br />I start each morning with getting latest source code from TFS. The Visual Studio 2010 has very good opportunities to work with TFS but I can&#39;t perform get latest for set of folders: either all folders in a branch or folder by folder.<br />The YSGetLatest allows to perform get latest for set of folders.<br /><br /><b><a href=\"https://ysgetlatest.codeplex.com/documentation?referringTitle=Home\">Documentation</a></b><br /><br /><b>Screen Shot</b><br /><br /><img src=\"/projects/YSGetLatest/703e09b3-0970-44d0-9ae7-1ecf6e5a9d26\" alt=\"Project.jpg\" title=\"Project.jpg\" /><br /><br /><a href=\"http&#58;&#47;&#47;www.softpedia.com&#47;progClean&#47;YSGetLatest-Clean-198200.html\"><img src=\"/projects/YSGetLatest/3bb25c57-e98e-4d6f-b723-432cae5e6f28\" alt=\"Softpedia&#32;Free&#32;Award\" title=\"Softpedia&#32;Free&#32;Award\" /></a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,Source Control,GUI,C#,.NET 4.0,GET,Latest,CVS,",
+  "LastEdited": "2011-10-19T13:07:21.153-07:00"
+}

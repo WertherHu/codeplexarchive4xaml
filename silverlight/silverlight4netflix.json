@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlight4netflix",
+  "Title": "Silverlight 4 Netflix Browser",
+  "Description": "Demonstrates using a WCF Data Client in Silverlight 4 to browse movie titles with the Netflix OData API announced at MIX 10.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Demonstrates using a WCF Data Client in Silverlight 4 to browse movie titles with the Netflix OData API announced at MIX 10.<br /><br /><b>Requirements</b><br />To run the project you will need to have the Silverlight 4 RC, Silverlight 4 SDK, and Visual Studio 2010 RC.<br />You can try the application at: <a href=\"http://christopherdeweese.com/Silverlight4Netflix/Default.html\">http://christopherdeweese.com/Silverlight4Netflix/Default.html</a><br /><br />For more information about OData: <a href=\"http://www.odata.org\">http://www.odata.org</a><br />For more information about Silverlight 4:  <a href=\"http://silverlight.net/\">http://silverlight.net/</a><br />For more information about the NetFlix OData API: <a href=\"http://developer.netflix.com/blog/read/Announcing_the_OData_Catalog_API_Preview\">http://developer.netflix.com/blog/read/Announcing_the_OData_Catalog_API_Preview</a><br /><br /><img src=\"http://christopherdeweese.com/images/netflix_primary_api_logo1.png\" /> <img src=\"http://christopherdeweese.com/images/plus.png\" /> <img src=\"http://www.odata.org/images/OData-logo.png\" /><br /><br /><b>Application Screenshot</b><br /><img src=\"http://christopherdeweese.com/images/Silverlight4NetflixBrowser_Zombies.png\" /><br /><br /><b>Known Issues</b><br />-Titles are not in alphabetical order<br />-Some Genres do not load any titles - This may be a limitation of the preview API<br />-It&#39;s not that pretty.  First crack at a Silverlight App &gt;&gt;Chris</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-20T09:03:15.373-07:00"
+}

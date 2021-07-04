@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cbnet",
+  "Title": "Crystalbyte Networking for Silverlight",
+  "Description": "This project is a simple implementation of some missing networking classes from the SL runtime including TcpClient, NetworkStream and several important socket layer encryptions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is a simple implementation of some missing networking classes from the SL runtime including TcpClient, NetworkStream and several important socket layer encryptions.<br /><br />We&#39;ve implemented the NetworkStream class, the TcpClient class and tested both successfully.<br />The next part on the agenda is the SSLStream class, unfortunately this will be a tough one.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "NetworkStream,Silverlight,TcpClient,network,",
+  "LastEdited": "2010-10-20T16:13:20.567-07:00"
+}

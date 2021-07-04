@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WebFormsExtender",
+  "Title": "WebForms.ControlExtender",
+  "Description": "WebForms.ControlExtender simplify the creation of components which extend (or adds) their own properties to other controls or components in the Visual Studio ASP.NET designer.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rWebForms.ControlExtender simplify the creation of components which extend (or adds) their own properties to other controls or components in the Visual Studio ASP.NET designer.<br />\n<h1>Quickstart</h1>\rWebForms.ControlExtender is available on <a href=\"http://nuget.codeplex.com/\">NuGet</a>. After installing <a href=\"http://nuget.codeplex.com/releases/view/64974\">NuGet Package Manager extension</a> for VS.NET 2010, you can reference WebForms.ControlExtender in your project in VS.NET 2010 by either \n<ul><li>using Add Library Package Reference menu (right click References &gt; Add Library Package Reference) or </li>\n<li>Package Manager Console (Tools &gt; Library Package Manager &gt; Package Manager Console). </li></ul>\nIf you use the latter approach, type this to the command-line: <br /><br /><div style=\"color:Black;background-color:White;\"><pre>\r\nInstall<span style=\"color:Gray;\">-</span>Package WebForms.ControlExtender\r\n</pre></div>\n<h1>Hands on</h1>\rFollow the tutorial in the <a href=\"http://webformsextender.codeplex.com/documentation\">Documentation</a> section.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,WebForms,Extenders,",
+  "LastEdited": "2011-10-21T07:59:45.7-07:00"
+}

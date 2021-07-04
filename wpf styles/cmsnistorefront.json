@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cmsnistorefront",
+  "Title": "Store Front",
+  "Description": "Welcome to store front this is going to built for the community by the community im sick of not having a word press style system in asp.net form for developers ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Store front asp.net csharp open source e-commerce platform built for mobiles first </h2>\r\nWelcome to store front this is going to built for the community by the community im sick of not having a word press style system in asp.net form for developers to build upon<br /><br />It will be built using asp.net web forms. Why not razor I feel wile razor is good it does have its limitations if the community feels strong enough I will make a razor version but for now lets build on what we no.<br /><br />I will be using EF 4.5 throughout this project as their is no need for other third party or mappers when the tools already exist in .net. <br /><br />One feature I am really wanting to implement and i am hopping that the community will help me is a drag and drop form builder  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-06-16T10:38:19.077-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharepad",
+  "Title": "SharePad Reference Application for SharePoint Products and Technologies",
+  "Description": "SharePad is a reference application demonstrating Microsoft Office-style SharePoint integration techniques. This application illustrates the use of the Front Page RPC calls exposed by SharePoint among other SharePoint integration APIs. \r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SharePad is a reference application demonstrating Microsoft Office-style SharePoint integration techniques. This application illustrates the use of the Front Page RPC calls exposed by SharePoint among other SharePoint integration APIs. <br /><br /><br /><br /><b>Note</b>: This was a direct port from the SharePad GotDotNet workspace <a href=\"http://www.gotdotnet.com/workspaces/sharepad\">http://www.gotdotnet.com/workspaces/sharepad</a> and source code was not changed as part of the migration.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,document upload,FPRPC,",
+  "LastEdited": "2007-06-04T10:28:48.52-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "openrposmetro",
+  "Title": "OpenRPOS Metro",
+  "Description": "The \"Metro\" (Windows 8 User Interface) version of OpenRPOS.\r\n\r\nThis is the \"front-of-the-house\" of the point-of-sale, used by servers primarily for taking orders.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Note that this project will be deleted shortly.  The OpenRPOS projects have been consolidated into a single &quot;Well Done&quot; project.  Please follow us at this address:<br /><br /><a href=\"https://welldone.codeplex.com/\">https://welldone.codeplex.com/</a><br /><br /><br /><b>Project Description</b><br />The &quot;Metro&quot; (Windows 8 User Interface) version of OpenRPOS.<br /><br />This is the &quot;front-of-the-house&quot; of the point-of-sale, used by servers primarily for taking orders. <br />OpenRPOS (Open Restaurant Point of Sale - <a href=\"http://openrpos.com\">http://openrpos.com</a> ) is a fully open source system designed to provide restaurateurs the opportunity to leverage upon their internal IT staff, reducing overall costs and creating an environment that encourages collaboration with an emphasis on continuous process improvement, leading to a higher quality POS system for the restaurant industry.<br /><br /><img src=\"/projects/openrposmetro/a208bc36-81d9-4cef-a570-7dcfb46888fb\" alt=\"openrposmetro.jpg\" title=\"openrposmetro.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "point of sale,restaurant,pos,",
+  "LastEdited": "2015-03-08T18:26:57.353-07:00"
+}

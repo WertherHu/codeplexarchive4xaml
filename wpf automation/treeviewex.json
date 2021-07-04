@@ -1,0 +1,9 @@
+{
+  "ProjectName": "treeviewex",
+  "Title": "TreeViewEx",
+  "Description": "A TreeView which supports, unlike the standard tree in WPF, multiple selection and is a little better stylable.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A TreeView which supports, unlike the standard tree in WPF, multiple selection and is a little better stylable.<br /><br /><br /><img src=\"/projects/treeviewex/a0942b12-e8a1-4fd8-b177-64821bb419a9\" alt=\"W7StyleSample.jpg\" title=\"W7StyleSample.jpg\" /><br /><br />Selection is can be done by selection rectangle.<br /><br /><img src=\"/projects/treeviewex/d0fd30d3-fb9f-4c66-9ae7-4879fa01618b\" alt=\"SelectionRectangle.jpg\" title=\"SelectionRectangle.jpg\" /><br /><br />It has also the well known edit functionality.<br /><br /><img src=\"/projects/treeviewex/91e4f890-4bd1-4e95-b996-5e04b08dcc7d\" alt=\"EditTextBox.jpg\" title=\"EditTextBox.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-17T06:33:08.04-07:00"
+}

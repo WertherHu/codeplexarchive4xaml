@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cropimage",
+  "Title": "Image Crop, Resize, Quality, And Upload Control",
+  "Description": "OWDARO Image Cropper is one of the small components developed and used by OWDARO in their CMS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1 style=\"text-align:center\"><span style=\"text-decoration:underline\"><strong>OWDARO Image Cropper</strong></span></h1>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align:center\"><span style=\"text-decoration:underline\"><strong><img src=\"https://m.ak.fbcdn.net/sphotos-e.ak/hphotos-ak-xpf1/t1.0-9/10410714_10204250070916513_1009257655358010617_n.jpg\" alt=\"\" width=\"659\" height=\"580\"></strong></span></p>\r\n<p style=\"text-align:left; padding-left:30px\"><span style=\"text-decoration:underline\">Features:</span></p>\r\n<ol>\r\n<li>Crop </li><li>Resize </li><li>Quality </li><li>Maintain Aspect Ratio or Free Selection Cropping </li><li>jCrop Plugin </li><li>FancyBox Plugin </li><li>Upload Control </li><li>Show Web image(display images by using the url of images stored somewhere else)\r\n</li><li>Database Add/Save Feature </li><li>Store Images Locally and there references on server </li><li>Easy Integration with any Database Table </li><li>Assign the ImageID to load the image </li><li>Get the ImageID after Upload of new Image </li><li>ASP.Net Ajax &amp; Entity Framework Based </li><li>Responsive Design </li><li>FREE FOR EVER </li></ol>\r\n<p>&nbsp;</p>\r\n<p>Author: Mohammed Kamran Azam</p>\r\n<p>Email: kamran@owdaro.com</p>\r\n<p>Website:&nbsp;<a href=\"http://www.owdaro.com\" target=\"_blank\">www.owdaro.com</a></p>\r\n<p style=\"text-align:left\">&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "control,upload,Image,resize,scale,dot net,Crop,asp.net,quality,jcrop,",
+  "LastEdited": "2014-07-01T22:30:33.203-07:00"
+}

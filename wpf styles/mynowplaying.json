@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mynowplaying",
+  "Title": "My Now Playing to Twitter",
+  "Description": "A Simple Program that can get what user is playing in Winamp and send a status to Twitter.\nIt's wrote in VB.Net but some source code is port of MiniTwitter(http://minitwitter.codeplex.com)and uses tagLib-sharp library(https://github.com/mono/taglib-sharp)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Simple Program that can get what user is playing in Winamp and send a status to Twitter.<br />It&#39;s wrote in VB.Net but some source code is port of MiniTwitter&#40;http&#58;&#47;&#47;minitwitter.codeplex.com&#41;and uses tagLib-sharp library&#40;https&#58;&#47;&#47;github.com&#47;mono&#47;taglib-sharp&#41;<br /><br />Now only Winamp and iTunes is supported, and <a href=\"http://code.google.com/p/twip/\">TWIP4</a> T mode is not supported.<br /><br /><b><a href=\"https://mynowplaying.codeplex.com/releases/view/63788\">DOWNLOAD Main Program</a> And <a href=\"https://mynowplaying.codeplex.com/releases/view/63578\">Plugins</a></b><br /><br /><b>Target Next</b><br />*Inner IronPython/IronRuby support for Geeks^_^</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MEF,Twitter,VB.NET,",
+  "LastEdited": "2011-04-04T08:37:48.89-07:00"
+}

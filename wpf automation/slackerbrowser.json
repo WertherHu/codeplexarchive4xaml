@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slackerbrowser",
+  "Title": "SlackerBrowser - Very Simple Winform Browser in WPF App",
+  "Description": "Simple web browser project for those interested in more control of the user experience.  All in under 100 lines of code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">I recently required a custom locked down web browser for use in a virtual desktop environment.  I&#39;m sharing it for those who can use and expand on it.<br /><br />It is a WPF app that uses integrated Winform WebBrowser control; WPF version of WebBrowser does not have the WebBrowserShortcutsEnabled property, and I didn&#39;t want to write keypress monitor to disable browser shortcuts.<br /><br />The complete source is in less than 100 lines of code.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-02-02T23:38:11.48-08:00"
+}

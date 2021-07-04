@@ -1,0 +1,9 @@
+{
+  "ProjectName": "threedworld",
+  "Title": "ThreeDWorld",
+  "Description": "ThreeDWorld is a 3D game engine based on Microsoft's new Xna support in Silverlight 5. Engine features include an extendable content pipeline, bitmap and font sprites, 3D sprites, DeleD importer and Quake2 MD2 importer. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ThreeDWorld is a 3D game engine based on Microsoft&#39;s new Xna support in Silverlight 5. Engine features include an extendable content pipeline, bitmap and font sprites, 3D sprites, DeleD importer and Quake2 MD2 importer. <br /><br /><b>System Requirements</b>\n<ul><li>Silverlight 5 Development Tools</li>\n<li>Xna Game Studio 4.0</li></ul>\n<br /><b>View Online Demo  at ...</b><br /><a href=\"http://www.mcnamara-consulting.com/ThreeDDemo/DemoTestPage.html\">http://www.mcnamara-consulting.com/ThreeDDemo/DemoTestPage.html</a><br /><i>(Requires Silverlight 5 Developer runtime)</i><br /><br /><b>View and Download tutorials at ...</b><br /><a href=\"http://www.mcnamara-consulting.com/ThreeDWorldTutorials/Tutorials.html\">http://www.mcnamara-consulting.com/ThreeDWorldTutorials/Tutorials.html</a><br /><i>(Requires Silverlight 5 Developer runtime)</i><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "XNA,Silverlight,silverlight 5,Xna Silverlight 3D,Xna 3D Game Engine,Quake 2 Silverlight,3D Sprites,Xna 3D Sprites,Font Sprites,Bitmap Sprites,Silverlight 5 Engine,Silverlight DeleD,Xna DeleD,",
+  "LastEdited": "2011-10-03T16:06:05.157-07:00"
+}

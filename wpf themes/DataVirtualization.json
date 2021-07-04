@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DataVirtualization",
+  "Title": "WPF Data Virtualization",
+  "Description": "Component for displaying and interacting a large data set in WPF application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Component for displaying and interacting a large data set in WPF application.<br /><br /><b>Although looks alike, this solution is totally different from Vincent Van Den Berghe&#39;s! (<a href=\"http://bea.stollnitz.com/files/52/DataVirtualization.pdf\">http://bea.stollnitz.com/files/52/DataVirtualization.pdf</a>, <a href=\"http://bea.stollnitz.com/blog/?p=344\">http://bea.stollnitz.com/blog/?p=344</a>)</b><br /><br />[image:DataVirtualization.JPEG]<br /><br /><b>Introduction</b><br /><br />In a typical WPF + WCF LOB application, displaying and interacting a large data set is not a trivial task. While several posts on internet forums discuss data virtualization, none of them has all the following:\n<ul><li>Selection, sorting and filtering works well as if all data are stored locally;</li>\n<li>Data loading as needed, in a separate thread, without blocking the UI;</li>\n<li>Visual feedback when data is loading; if failed, user can retry the last failed attempt.</li></ul>\n<br />This highly reusable component resolves all the above issues. For a complete description and user&#39;s guide, please visit <a href=\"http://www.devzest.com/blog/post/WPF-Data-Virtualization.aspx\">http://www.devzest.com/blog/post/WPF-Data-Virtualization.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Data Visualization,Tools,Toolkit,Library,",
+  "LastEdited": "2010-04-22T02:18:13.01-07:00"
+}

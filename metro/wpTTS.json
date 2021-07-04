@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpTTS",
+  "Title": "WP7 Text-to-Speech Tool & Translation Library",
+  "Description": "Windows Phone Text-to-Speech (wpTTS) produces speech from text strings. wpTTS also provides real-time translation between a select list of languages. (AppID required.)\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nWindows Phone Text-to-Speech (wpTTS) produces speech from text strings. wpTTS also provides real-time translation between a select list of languages. (AppID required.)</p>\r\n<p>This code does work on Windows Phone 7.5 (Mango).&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TTS,Text To Speech,WP7,WP,windows phone,Windows Phone 7,Mango,Windows Phone 7.5,Metro,",
+  "LastEdited": "2012-03-08T12:03:17.097-08:00"
+}

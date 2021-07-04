@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PayPal",
+  "Title": "Simple PayPal",
+  "Description": "Simple connection and Controls to make those PayPal payment easier",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple connection and Controls to make those PayPal payment easier<br /><br />I created this simple set of controls to make it easier to add PayPal simple buttons, all you need is a PayPal account and the buttons can point to allow you to make payment.<br /><br />Please feel free to test out the BuyNow button in to my account b_avery@yahoo.com, all funds welcome.<br /><br />Currently I am only adding features as and when I need them, but feel free to make comments or requests in the Discussions and Issue Tracker sections<br /><br />Other sources worth look at are : <br /><br /><br />Use of the PayPal payment system in ASP.NET <a href=\"http://www.codeproject.com/KB/aspnet/UsePayPalPaymentInASPNET.aspx\">http://www.codeproject.com/KB/aspnet/UsePayPalPaymentInASPNET.aspx</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "paypal,",
+  "LastEdited": "2008-09-12T05:11:22.097-07:00"
+}

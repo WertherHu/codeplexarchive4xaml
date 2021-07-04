@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GlobalizationTools",
+  "Title": "GlobalizationTools",
+  "Description": "Simple way to globalize and localize language files based on resource file (resx). Easy to use by translators to translate all languages needed in our software. Directly modify resource files, no install required by developers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple way to globalize and localize language files based on resource file &#40;resx&#41;. Easy to use by translators to translate all languages needed in our software. Directly modify resource files, no install required by developers.<br /><br /><b>Technology</b>\n<ul><li>Entirely made with wpf and model-view viewmodel, it&#39;s a good sample about how to use a model base on view, viewmodel and data hierarchy.</li>\n<li>It use a command binding technology implemented in the viewmodel.</li></ul>\n<br /><b>The future</b>\n<ul><li>Add versionning technology</li>\n<li>Add language translation technology like google translation</li>\n<li>Add other user needs</li>\n<li>Add WPF Localization Extension in reference directory</li></ul>\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "language,C#,.NET 4.0,WPF,Resources,resx,localization,",
+  "LastEdited": "2011-04-11T15:36:38.44-07:00"
+}

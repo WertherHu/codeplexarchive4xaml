@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mentalmath",
+  "Title": "mentalmath",
+  "Description": "WPF/C#-based Modern UI style application for improving skills of mental arithmetics",
+  "MovedLink": "https://github.com/steto-scope/mentalmath",
+  "HomeWiki": "<div class=\"wikidoc\">mentalmath is a small WPF-application in Modern UI style intended to improve your skills of mental  arithmetics. <br /><br />Have it the easy...<br /><img src=\"/projects/mentalmath/0264db1d-ac10-4edd-b792-9ccc3ecc1d25\" alt=\"mentalmath3.png\" title=\"mentalmath3.png\" /><br /><br />...or the harder way!<br /><img src=\"/projects/mentalmath/d0fadc14-c7bc-405a-a742-dbbe42d45d49\" alt=\"mentalmath.png\" title=\"mentalmath.png\" /><br /><br /><br />Solve equations with up to 5 Operands and see the ratio of your answers. Need more challenge? Just activate the countdown</div><div class=\"ClearBoth\"></div>",
+  "TagList": "arithmetics,math,maths,expressions,equations,mental arithmetics,",
+  "LastEdited": "2013-12-12T11:19:57.64-08:00"
+}

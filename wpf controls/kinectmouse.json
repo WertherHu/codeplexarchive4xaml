@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinectmouse",
+  "Title": "Kinect Mouse Cursor",
+  "Description": "Kinect Mouse Cursor is a demo application that uses the Kinect for Windows SDK and its skeletal tracking features to allow a user to use their hands to control the Windows mouse cursor.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Kinect Mouse Cursor is a demo application that uses the Kinect for Windows SDK and its skeletal tracking features to allow a user to use their hands to control the Windows mouse cursor.<br /><br /><b>Updated for Kinect for Windows SDK v1.0!</b><br /><br /><img src=\"/projects/kinectmouse/d46742be-bc33-4476-a7e9-33b1eb799a66\" alt=\"cursor.png\" title=\"cursor.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-01T05:03:29.433-08:00"
+}

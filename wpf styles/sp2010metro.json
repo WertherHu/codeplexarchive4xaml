@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sp2010metro",
+  "Title": "SharePoint 2010 Metro UI",
+  "Description": "Need a Windows 8 Metro style UI landing page? SharePoint 2010 Metro Masterpage and Css!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis project spawned from the desire to have a little funky landing page for a SharePoint 2010 site.</p>\r\n<p>We are planning a few iterations of this project. For now there are 4 files.</p>\r\n<ul>\r\n<li>MetroUI Master Page </li><li>MetroUI Css </li><li>MetroUI Layout page </li><li>Zip file of Metro Icons and background image </li></ul>\r\n<p>&nbsp;</p>\r\n<p>More info:</p>\r\n<p>This was a collaborative effort to help launch Project Aware (more info on that Project later).&nbsp; Three folks had a part in this UI's construction:</p>\r\n<ol>\r\n<li>Erik Akers - <a href=\"http://www.erikakers.com\">http://www.erikakers.com</a> @erikakers\r\n</li><li>Cathy Dew - <a href=\"http://www.sharepointcat.com\">http://www.sharepointcat.com</a> @catpaint1\r\n</li><li>Eric Harlan - <a href=\"http://www.ericharlan.com\">http://www.ericharlan.com</a> @ericharlan\r\n</li><li>Paul Schaeflein - <a href=\"http://www.schaeflein.net/blog/default.aspx\">http://www.schaeflein.net/blog/default.aspx</a> - @PaulSchaeflein\r\n</li></ol>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=sp2010metro&DownloadId=420266\" alt=\"\" width=\"650\" height=\"291\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint 2010,Metro UI,Metro,Master Page,SharePoint Branding,",
+  "LastEdited": "2012-07-05T18:33:10.42-07:00"
+}

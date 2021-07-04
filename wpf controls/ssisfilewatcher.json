@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssisfilewatcher",
+  "Title": "SSIS File Watcher Task (Custom component)",
+  "Description": "This SSIS Custom Control Flow Component File Watcher Task project provides file/directory monitoring utilities with loggin and task processing support. The applications have multiple configuration options.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This SSIS Custom Control Flow Component File Watcher Task project provides file/directory monitoring utilities with loggin and task processing support. The applications has multiple configuration options.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-18T15:35:57.177-07:00"
+}

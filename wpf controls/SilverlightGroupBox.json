@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightGroupBox",
+  "Title": "SilverlightGroupBox",
+  "Description": "Custom groupbox control for silverlight 3.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Custom groupbox control for silverlight 3.<br /><br /><br />This is a Silverlight3 GroupBox control with following customizable property.<br /><br />1. Header<br />2. HeaderCornerRadius<br />3. HeaderBorderThickness<br />4. HeaderBorderBrush<br />5. HeaderBackGround<br /><br />In Header you can put your own control like TextBox , TextBlock etc.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-31T03:42:27.95-08:00"
+}

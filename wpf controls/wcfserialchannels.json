@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wcfserialchannels",
+  "Title": "WCF Serial Port Transport Channels",
+  "Description": "This project is aimed at creating serial port channels using WCF channel model. Several device control protocols are based on serial port and a consistent programming framework like WCF channel benefits in standardizing the design of such channels.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis project is aimed at creating serial port channels using WCF channel model. Several device control protocols are based on serial port and a consistent programming framework like WCF channel benefits in standardizing the design of such channels.</p>\r\n<p>Please download source <a href=\"http://wcfserialchannels.codeplex.com/SourceControl/list/changesets\">\r\nhere</a>.</p>\r\n<p>Also please refer to <a href=\"http://wcfserialchannels.codeplex.com/documentation\">\r\ndocumentation</a>&nbsp;to setup virtual com ports.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-28T19:20:47.983-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MyBusinessNET",
+  "Title": "MyBusiness.NET - The .NET OpenSource ERP - System",
+  "Description": "MyBusiness.NET is a .NET OpenSource ERP - System developed in C# using Microsoft Visual Studio LightSwitch Beta 2",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2><b>Project Description</b></h2>\rMyBusiness.NET is a .NET OpenSource ERP - System developed in C&#35; using Microsoft Visual Studio LightSwitch Beta 2<br />\n<h2>LightSwitch and MyBusiness.NET</h2>\r\nWhat is the right architecture of an ERP system? This is a good question, we have tried many ways, tools and patters but the effort to design and implement this in a complex software system is very high. Fortunately have we tried LightSwitch a we think LightSwitch gives us a simpler and faster way to create high-quality business applications like MyBusiness.NET.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,SQL Server,WPF,ERP,Entity Framework,Prism,CompositeWPF,WCF,ADO.NET,LINQ,OpenSource ERP,yyg2004,business,",
+  "LastEdited": "2011-03-16T01:54:12.23-07:00"
+}

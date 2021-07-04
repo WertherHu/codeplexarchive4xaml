@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MyDock",
+  "Title": "MyDock internals",
+  "Description": "MyDock internals is a collection of code for working with Silverlight from unmanaged code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">MyDock internals is a collection of helper code for working with Silverlight in C++ which I created while developing MyDock. More information on MyDock is located on <a href=\"http://alexezh.googlepages.com\">http://alexezh.googlepages.com</a><br />\n<h2>PathConvert.js </h2>\rConverts path mini language to geometry objects<br />\n<h2>Delegate.h</h2>\rHelper class for event handlers for SL events<br />\n<h2>Disp.zip</h2>\rContains helpers for accessing SL object model and an updated version of Delegates.h</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2009-01-11T13:55:03.34-08:00"
+}

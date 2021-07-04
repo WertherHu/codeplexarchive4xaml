@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ccnetwp7",
+  "Title": "Cruse Control .Net WP7 Client using Caliburn Micro",
+  "Description": "This is a Cruise Control .NET Windows Phone 7 client. My aim it to bring funcionaly of CCTray to WP7 using Live Tiles and Server Notifications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a Cruise Control .NET Windows Phone 7 client. My aim it to bring funcionaly of CCTray to WP7 using Live Tiles and Server Notifications.<br />\n<h1>Project Goal</h1>\rIntent is to create a Windows Phone 7 client and monitoring &amp; notification service for Cruise Control.Net <a href=\"http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET\">http://confluence.public.thoughtworks.org/display/CCNET/Welcome+to+CruiseControl.NET</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-01T14:11:17.897-07:00"
+}

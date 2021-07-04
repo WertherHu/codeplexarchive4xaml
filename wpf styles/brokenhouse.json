@@ -1,0 +1,9 @@
+{
+  "ProjectName": "brokenhouse",
+  "Title": "Brokenhouse WPF Control Suite",
+  "Description": "The Brokenhouse Control Suite is library that provides a rich set of controls for the Windows Presentation Foundation (WPF). It provides a full featured transition control as well as WPF replacements for the standard windows Wizards and Task dialogs.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Brokenhouse Control Suite is library that provides a rich set of controls for the Windows Presentation Foundation &#40;WPF&#41;. It provides a full featured transition control as well as WPF replacements for the standard windows Wizards and Task dialogs.<br /><br /><br />I have recently moved this project onto git hub <a href=\"https://github.com/gatter/wpf-controls\">https://github.com/gatter/wpf-controls</a> with the aim or restarting development to support newer versions of Visual Studio.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-03T13:41:11.177-07:00"
+}

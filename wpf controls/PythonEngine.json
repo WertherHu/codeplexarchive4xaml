@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PythonEngine",
+  "Title": "PythonEngine",
+  "Description": "PythonEngine is an engine for building and executing python scripts from a web application. It includes:\r\n1. script datasource & database schema;\r\n2. script engine, with an in-memory cache of compiled code;\r\n3. controls to add script from web applications.\r\nIt was used, in an older version, on a production environment for years.\r\nIt uses unity for building instances.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><span style=\"color:#008080\">&nbsp;</span><a href=\"http://www.crismaitalia.it\"><img src=\"http://download.codeplex.com/Download?ProjectName=pythonengine&DownloadId=382429\" alt=\"powered by crisma\"></a></p>\r\n<h3><span style=\"color:#008080\"><strong>Python Engine</strong></span></h3>\r\n<p>PythonEngine is an engine for building and executing python scripts from a web application. It includes:</p>\r\n<p>1. script datasource &amp; database schema;<br>\r\n2. script engine, with an in-memory cache of compiled code;<br>\r\n3. controls to add script from web applications.<br>\r\nIt was used, in an older version, on a production environment for years.<br>\r\nIt uses unity for building instances.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-05-24T10:10:10.88-07:00"
+}

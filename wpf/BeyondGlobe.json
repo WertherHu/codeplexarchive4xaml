@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BeyondGlobe",
+  "Title": "Dev-wow 桌面地图服务(Map Service Of China)V2.3",
+  "Description": "这是基于silverlight技术的制作的中国各大城市地图查询的vista边栏(gadget)\nIt is silverlight-based gadget that can provide map sevice of China!Enjoy it!\n\n\n联系方式:jinkeep@gmail.com\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />这是基于silverlight技术的制作的中国各大城市地图查询的vista边栏&#40;gadget&#41;<br />It is silverlight-based gadget that can provide map sevice of China&#33;Enjoy it&#33;<br /><br /><br />联系方式&#58;jinkeep&#64;gmail.com<br /><br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Gadget WPF Ajax,Silverlight,",
+  "LastEdited": "2007-10-29T09:21:49.823-07:00"
+}

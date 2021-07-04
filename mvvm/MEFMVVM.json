@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MEFMVVM",
+  "Title": "MEF MVVM",
+  "Description": "A simple Model-View-ViewModel (MVVM) implementation using Silverlight 4 and the Managed Extensibility Framework (MEF). ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple Model-View-ViewModel &#40;MVVM&#41; implementation using Silverlight 4 and the Managed Extensibility Framework &#40;MEF&#41;. <br /><br />Companion links: \n<ul><li>Silverlight 4, MEF and MVVM: loading different “MEF Modules” in the same Container - <a href=\"http://www.davidezordan.net/blog/?p=2025\">http://www.davidezordan.net/blog/?p=2025</a></li>\n<li>Slides and Code from my Silverlight 4 – MEF webcast - <a href=\"http://www.davidezordan.net/blog/?p=1902\">http://www.davidezordan.net/blog/?p=1902</a></li>\n<li>Silverlight 4, MEF and MVVM: MEFModules, Dynamic XAP Loading and Navigation Applications - <a href=\"http://www.davidezordan.net/blog/?p=1734\">http://www.davidezordan.net/blog/?p=1734</a></li>\n<li>Silverlight 4, MEF and MVVM: EventAggregator, ImportingConstructor and Unit Tests - <a href=\"http://www.davidezordan.net/blog/?p=1733\">http://www.davidezordan.net/blog/?p=1733</a></li>\n<li>Experiments using MEF, MVVM and Silverlight 4 – Part 1-6 - <a href=\"http://www.davidezordan.net/blog/?p=1663\">http://www.davidezordan.net/blog/?p=1663</a></li></ul>\n<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-13T13:58:32.36-08:00"
+}

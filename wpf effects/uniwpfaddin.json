@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uniwpfaddin",
+  "Title": "Dynamics NAV UniWPF Addin",
+  "Description": "This project is Addin control for Microsoft Dynamics NAV 2009, allowing developers to put WPF controls directly to NAV page.",
+  "MovedLink": "https://github.com/kine/NAV_UniWPF_Addin",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is Addin control for Microsoft Dynamics NAV 2009, allowing developers to put WPF controls directly to NAV page.<br />This project is Addin control for Microsoft Dynamics NAV 2009, allowing developers to put WPF controls directly to NAV page. These WPF controls are defined by XAML passed into the addin, allowing developers to subscribe for WPF events of these addins and set/get properties of these controls.<br /><br />This addin could be used e.g. for creating touchscreen controls directly inside NAV page and many other things.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Dynamics NAV,Navision,WPF,Addin,",
+  "LastEdited": "2012-08-25T08:51:06.477-07:00"
+}

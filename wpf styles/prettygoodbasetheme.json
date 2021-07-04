@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prettygoodbasetheme",
+  "Title": "Pretty Good Base Theme Orchard Theme",
+  "Description": "PGBT is an Orchard theme that aims to provide a set of common markup and styling so other themes can easily inherit from it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PGBT is an Orchard theme that aims to provide a set of common markup and styling so other themes can easily inherit from it.<br />\n<h2>This repository has moved to GitHub. Please visit the new repository at <a href=\"https://github.com/Lombiq/Pretty-Good-Base-Theme\">https://github.com/Lombiq/Pretty-Good-Base-Theme</a>.</h2>\r<h2>The CodePlex page is not maintained anymore, but still here for historical reference. </h2>\r\nAlmost everything is taken from the core and The Theme Machine shape templates and stylesheets (credit goes to the Orchard Team!), refactored, reorganized and enhanced.<br /><br />See <a href=\"https://github.com/Lombiq/Pretty-Good-Bootstrap-Base-Theme\">Pretty Good Bootstrap Base Theme</a> for a Twitter Bootstrap-based theme serving similarly as a base theme.<br /><br /><b>Commercial-grade support for this theme is available through <a href=\"http://lombiq.com/\">Lombiq Technologies</a>.</b><br /><br />You can install the theme from the <a href=\"http://orchardproject.net/gallery/List/Themes/Orchard.Theme.Piedone.PrettyGoodBaseTheme\">Orchard Gallery</a>.<br />Please make sure to read the <a href=\"https://prettygoodbasetheme.codeplex.com/documentation?referringTitle=Home\">Documentation</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-11-28T05:17:37.23-08:00"
+}

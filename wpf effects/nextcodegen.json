@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nextcodegen",
+  "Title": "Next Code Generator",
+  "Description": "Next.CodeGen project is a simple application generator that offers a command line interface in order to help developers create WPF applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nNext.CodeGen project is a meta-model based application generator. It offers a command line interface and Visual Studio 2010 Add-in in order to help developers :</p>\r\n<ul>\r\n<li>Generate Schema from SQL Server DataBases. </li><li>Generate forms and user controls based on Schema (Bindings, Relations between tables, integration with ADO.NET Entity Framework and LinQ To SQL.\r\n</li><li>Generate a fully customized user interface (With Menu logic, navigation logic, etc.).\r\n</li></ul>\r\n<p>Next.CodeGen offers a logical separation separation between different layers(Core, Common Controls, Presentation, Models, etc.).</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": ".net project,",
+  "LastEdited": "2013-01-28T00:11:06.083-08:00"
+}

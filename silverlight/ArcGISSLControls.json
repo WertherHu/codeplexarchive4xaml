@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ArcGISSLControls",
+  "Title": "ArcGIS Silverlight Controls",
+  "Description": "ArcGISSLControls is a set of ArcGIS Silverlight controls that is built on top of the ArcGIS Silverlight SDK, it is developed in C# programming language.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>ArcGISSLControls</strong> is a set of ArcGIS Silverlight controls that is built on top of the ArcGIS Silverlight SDK, it is developed in C# programming language.</p>\r\n<p>I've developed these controls as part of my everyday work on ArcGIS Silverlight SDK.</p>\r\n<p>Controls include:<br>\r\n1- Mapping Toolbar<br>\r\n2- Drawing Toolbar<br>\r\n3- Measure Toolbar<br>\r\n4- Identify Results Panel<br>\r\n5- Table Of Contents<br>\r\n<br>\r\nThis project is based on my Silverlight Light controls.</p>\r\n<p>This is a screenshot of these controls in action</p>\r\n<p><img src=\"http://files.alkumait.net/el.png\" alt=\"\" width=\"730\" height=\"645\"></p>\r\n<p>Click <a href=\"http://alkumait.net/hostedprojects/arcgisslcontrols/ELTesterTestPage.html\" target=\"_blank\">\r\nhere</a> to see a sample.</p>\r\n<p>I hope you find these controls useful.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-10T01:17:36.073-07:00"
+}

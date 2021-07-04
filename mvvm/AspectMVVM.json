@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AspectMVVM",
+  "Title": "AspectMVVM",
+  "Description": "A simple Aspected Oriented Programming (AOP) MVVM library.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">AspectMVVM<br /><br />This is an Aspect Oriented Programming implementation of an MVVM library for WPF. <br /><br />It is depends on PostSharp.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-23T20:40:11.707-08:00"
+}

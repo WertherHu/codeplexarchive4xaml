@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silvervnc",
+  "Title": "SilverVNC 1.0",
+  "Description": "This project is a Silverlight VNC Viewer. It requires Silverlight 4.0 and works in Out of Browser with full-trust.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>SilverVNC 1.0.3755.0</b><br />This project is a Silverlight VNC Viewer. It requires Silverlight 4.0 and works in Out of Browser with full-trust.<br /><br />This project is currently in beta.<br /><br /><img src=\"http://www.silverlightplayground.org/image.axd?picture=vnc_thumb.jpg\" /><br /><br />For additional information please refer to <a href=\"http://www.silverlightplayground.org/post/2010/03/15/SilverVNC-a-VNC-Viewer-with-Silverlight-40-RC.aspx\">http://www.silverlightplayground.org/post/2010/03/15/SilverVNC-a-VNC-Viewer-with-Silverlight-40-RC.aspx</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "VNC,Silverlight,",
+  "LastEdited": "2010-04-12T16:19:21.97-07:00"
+}

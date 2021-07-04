@@ -1,0 +1,9 @@
+{
+  "ProjectName": "beholdtv",
+  "Title": "Beholder BeholdTV tuner API",
+  "Description": "This is unofficial Beholder BeholdTV tuner API for C# developers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Overview</h1>\n<p>This project provides managed API for BeholdTV tuners Remote Control. And small example of usage.<br>Project is based on BeholdTV.dll library.</p>\n<h1>Important note</h1>\n<p>I'm not a native english speaker, so please feel free to correct my english on this page. :)</p></div><div class=\"ClearBoth\"></div>",
+  "TagList": "beholder,beholdtv,tv tuner,remote control,",
+  "LastEdited": "2010-10-05T05:19:36.47-07:00"
+}

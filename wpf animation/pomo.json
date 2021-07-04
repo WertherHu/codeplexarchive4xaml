@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pomo",
+  "Title": "Pomo",
+  "Description": "\"Pomo\" (as in \"Pomodoro\") is a simple task timer written in WPF and C#.  Its features will be expanded to include logging and audible alarms and its design refactored to implement the MVVM pattern.  Its initial design is inspired by KeepFocused (http://keepfocused.codeplex.com/).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />&#34;Pomo&#34; &#40;as in &#34;Pomodoro&#34;&#41; is a simple task timer written in WPF and C&#35;.  Its features will be expanded to include logging and audible alarms and its design refactored to implement the MVVM pattern.  Its initial design is inspired by KeepFocused &#40;http&#58;&#47;&#47;keepfocused.codeplex.com&#47;&#41;.<br /><br /><img src=\"/projects/pomo/fd6eb5f3-4b7c-4066-a9b0-2ccccd2a1a9d\" alt=\"stopped.jpg\" title=\"stopped.jpg\" /><br /><br /><a href=\"http://pomo.codeplex.com/documentation\">More Screenshots and Usage</a><br /><br />For more information about The Pomodoro Technique, visit <a href=\"http://www.pomodorotechnique.com\">the official website</a>.<br /><br />Love it?  Hate it?  I would appreciate any comments, reviews, or other feedback!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "pomodoro,pomo,Pomodoro tool,Timer,",
+  "LastEdited": "2010-10-20T09:31:00.867-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "layout",
+  "Title": "Layout Designer",
+  "Description": "A prototype WPF/Silverlight UI layout designer. Works with basic panels (StackPanel and Grid). Built entirely using drag-n-drop. XAML can be copied to clipboard. Built with Silverlight 4 and runs in the browser.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A prototype WPF&#47;Silverlight UI layout designer. Works with basic panels &#40;StackPanel and Grid&#41;. Built entirely using drag-n-drop. XAML can be copied to clipboard. Built with Silverlight 4 and runs in the browser.<br /><br />Live Preview: <a href=\"http://layout.osenkov.com\">http://layout.osenkov.com</a><br /><br />Screenshot:<br /><img src=\"http://www.osenkov.com/layout/screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Layout,Designer,Silverlight,Undo,ui designer,Mirshahreza,",
+  "LastEdited": "2010-07-07T11:57:28.777-07:00"
+}

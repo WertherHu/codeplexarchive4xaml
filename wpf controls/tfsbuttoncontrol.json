@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfsbuttoncontrol",
+  "Title": "Re-Usable Button Control for TFS Work Item Definitions",
+  "Description": "Provides a button control for use in TFS work item tracking.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Button Control for TFS Work Item Tracking</h2>\rProvides a button control for use in TFS work item tracking.<br /><br /><b>Overview</b><br /><br />This project provides a re-usable button control that can be included in your TFS work item type definitions.<br /><br />Examples of where you might use the control:<br />\n<ul><li>Invoke a web service that retrieves some data needed by the work item</li>\n<li>Launch some custom UI to interact with TFS or perform other tasks (e.g. the screen shot below shows custom UI that is launched by the button to create a linked code review work item and corresponding shelveset for a bug).</li></ul>\n<br /><img src=\"/projects/tfsbuttoncontrol/fa2c8495-77b4-46d4-9deb-4d322cd61f6c\" alt=\"WitButtonSample.png\" title=\"WitButtonSample.png\" /><br /><br />Please see <a href=\"http://blogs.msdn.com/b/jschaffe/archive/2012/05/04/a-re-usable-button-control-for-tfs-work-item-definitions.aspx\">http://blogs.msdn.com/b/jschaffe/archive/2012/05/04/a-re-usable-button-control-for-tfs-work-item-definitions.aspx</a> for additional information.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,tfs 2010,TFS WorkItem Tools,Work Item,workitem,Work Item Tracking,Workitem Tracking,work items,control,Controls,Button,",
+  "LastEdited": "2012-05-08T09:33:55.047-07:00"
+}

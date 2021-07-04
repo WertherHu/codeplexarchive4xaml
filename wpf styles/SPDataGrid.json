@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPDataGrid",
+  "Title": "GridView in sharepoint style",
+  "Description": "A .NET Web Control which has featrues like the data grid in sharepoint.\nIncluding sorting, paging, filtering and search.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">A custom User Control which inherits from GridView(System.Web.UI.WebControls.GridView), has the gridview style like sharepoint. The developer manipulates this control like a stand .net web control; with some extend properties setting for filtering, sorting, paging and mulitSelecting. <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-12-01T23:04:25.907-08:00"
+}

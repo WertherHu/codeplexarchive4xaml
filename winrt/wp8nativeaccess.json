@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wp8nativeaccess",
+  "Title": "WP8 Native Access",
+  "Description": "Win32 API wrappers for Windows Phone 8. Intended to be used in WP8 WinRT apps. Includes FileSystem and Registry projects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>WP8 Native Access is a project to create general-purpose Windows Phone 8 application components, written in C&#43;&#43;, that can access the Win32 APIs and can be used&nbsp;with .NET applications.</p>\r\n<p>Currently, the project supports access to file system APIs, and registry APIs, and some process APIs. Process / thread / environment support is growing rapidly. Because this project does not contain any way to elevate permissions, access to much of the system\r\n (for example, write access to the registry) will currently fail with ERROR_ACCESS_DENIED.</p>\r\n<p>These functions are written in C&#43;&#43; and call the Win32 APIs directly. They operate synchronously and should not throw exceptions. Each API includes a return value which indicates an error state. To call the functions asynchronously, they should be wrapped\r\n in asynchronous functions or called using asynchronous invocation.</p>\r\n<p>Building these libraries will require linking against native Windows Phone libraries that are not part of the standard SDK. The needed libraries can be extracted from the phone (see the related\r\n<a href=\"https://wp8webserver.codeplex.com/\">https://wp8webserver.codeplex.com/</a>&nbsp;project) and then converted into .LIB files for the linker. Additionally, the standard Win8 header files should be used (via additional include path or via copying the\r\n needed ones to the WP8 include path) when an unavailable header is requested.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-08-27T04:01:32.42-07:00"
+}

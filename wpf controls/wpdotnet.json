@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpdotnet",
+  "Title": "Wordpress .NET",
+  "Description": "WPDotnet is a library to ease the Wordpress integration with ASP.NET.\n\nSome Server controls are implemented.\nIf you don't want to use them, you can just use the classes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPDotnet is a library to ease the Wordpress integration with ASP.NET.<br /><br />Some Server controls are implemented.<br />If you don&#39;t want to use them, you can just use the classes.<br /><br /><br /><b>Work in progress</b><br /><br />for now the menu is working <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-18T09:22:39.58-08:00"
+}

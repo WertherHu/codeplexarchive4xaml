@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azureblobwpf",
+  "Title": "Azure Blob Client",
+  "Description": "A Azure Blob client written in WPF 4.0.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Azure Blob client written in WPF 4.0.<br /><br /><b>Features</b>\n<ul><li>Nested folders</li>\n<li>Multiple accounts</li>\n<li>Browse with CDN</li>\n<li>Upload and download with sub-folders</li>\n<li>Drag and drop from File Explorer</li></ul>\n<br /><b>A sample snapshot</b><br /><br /><img src=\"http://azureblobwpf.codeplex.com/download?DownloadId=130448\" /><br /><br /><b>Todos</b>\n<ul><li>Cache control</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-16T06:47:56.107-07:00"
+}

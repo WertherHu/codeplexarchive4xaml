@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ts2000",
+  "Title": "TS2000 Control",
+  "Description": "Control your Kenwood TS-2000 radio using this application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Control your Kenwood TS-2000 radio using this application.<br /><br />TS2000 Control is an open source project for the control of your Kenwood TS-2000 radio. It may also work for other models (untested).   It is meant to make the most commonly used functions easily accessible, not necessarily to manage the one million functions that the radio is capable of.  It is in a very early stage of development at this time.  Please join the Discussions forum and let me know your experience with the application, features requests, and bug reports!<br /><br />Requires .NET 4.5 Framework<br /><br />Edit the config file for your radio settings.<br /><br />For the latest updates, please get the source code.  Releases will be generated once features are fully debugged and stable.<br /><br />Updates:<br />6/27/14 - Added FM mode support for VHF. <br />7/5/14 - Many additions:\n<ul><li>Favorites list</li>\n<li>Repeaters list</li>\n<li>Main volume</li>\n<li>Band selection via buttons, will place you in the middle of the band</li>\n<li>UTC clock</li></ul>\n<br /><img src=\"/projects/ts2000/eca7944d-b7cc-4b7a-9c98-dbe14a4e83f9\" alt=\"Capture.png\" title=\"Capture.png\" /><br /> </div><div class=\"ClearBoth\"></div>",
+  "TagList": "ham radio,radio,amateur radio,kenwood,",
+  "LastEdited": "2014-07-05T15:27:12.027-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightdatabase",
+  "Title": "Silverlight offline database",
+  "Description": "This project is about creating an offline database storage in Silverlight to persist data when user is offline. It consists of a sample of how to build a simple local database in Silverlight using Isolated Storage and LINQ.\n\nPlease share  your thoughts regarding additional features you would like to see and suggestions for improving this.\n\n\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is about creating an offline database storage in Silverlight to persist data when user is offline. It consists of a sample of how to build a simple local database in Silverlight using Isolated Storage and LINQ.<br /><br />Please share  your thoughts regarding additional features you would like to see and suggestions for improving this.<br /><br /><br /><br />If you want more information about this you can read this <a href=\"http://infosysblogs.com/microsoft/2008/08/silverlight_offline_database_s.html#more\">article</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,",
+  "LastEdited": "2008-08-10T22:16:41.173-07:00"
+}

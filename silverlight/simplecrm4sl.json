@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simplecrm4sl",
+  "Title": "Simple CRM 4 Silverlight Application",
+  "Description": "A simple demonstration of code that can be used to connect to CRM 4 via Windows Integrated or IFD authentication modes, and via HTTP or HTTPS.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple demonstration of code that can be used to connect to CRM 4 via Windows Integrated or IFD authentication modes, and via HTTP or HTTPS.<br /><br />For instructions on assembling the project, visit my blog post describing the process at: <a href=\"http://crmentropy.blogspot.com/2011/07/silverlight-and-crm-4-continued.html\">http://crmentropy.blogspot.com/2011/07/silverlight-and-crm-4-continued.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-06T02:33:23.197-07:00"
+}

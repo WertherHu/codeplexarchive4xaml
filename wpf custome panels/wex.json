@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wex",
+  "Title": "WPF Extensibility Hacks (WEX)",
+  "Description": "WPF Extensibility Hacks",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Some time back, I posted about the Silverlight Extensibility hacks Preview 2.0. I did a quick port of the code base to WPF under the name WEX or WPF Extensibility hacks, and now you have the goodness in .NET 3.5 + VS 2008<br /><br />Click <a href=\"https://wex.codeplex.com/wikipage?title=http%3a%2f%2famazedsaint.blogspot.com%2f2010%2f01%2fwpf-extensibility-hacks-preview-1-few.html&referringTitle=Home\">http&#58;&#47;&#47;amazedsaint.blogspot.com&#47;2010&#47;01&#47;wpf-extensibility-hacks-preview-1-few.html</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-24T02:44:36.18-08:00"
+}

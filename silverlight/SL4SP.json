@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SL4SP",
+  "Title": "Silverlight Blueprint for SharePoint",
+  "Description": "Last Updated: June 6, 2008",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Silverlight 2 RTM Blueprint for SharePoint</b><br /><br />The Silverlight Blueprint for Sharepoint is now in RTM  Code for the version which works with Silverlight 2 Beta 2 is also available at <a href=\"http://www.codeplex.com/SL4SP/Release/ProjectReleases.aspx?ReleaseId=16420\">http://www.codeplex.com/SL4SP/Release/ProjectReleases.aspx?ReleaseId=16420</a>.<br /><br />The updated release of the Silverlight Blueprint for SharePoint is a little different from the original blueprints as with this release we&#39;ve created a set of self-contained samples that using the blueprint methodology you can deploy to your SharePoint site to test out the Silverlight applications. The goal of the blueprints is to give you some guidance on how to integrate Silverlight applications with SharePoint. There are many possibilities here, and we&#39;ve put together just a few to get you started. <br /><br />Note: Make sure you amend the web.config file in the root folder of your SharePoint site to allow for your Silverlight application. We discuss this and provide a link to a sample web.config file, in the FAQ document located on the Beta 2 Releases tab.<br /><br />I added the last of the RTM files today, the colleague viewer and the custom navigation, along with a Beta 2 to RTM change document. You can also access the Beta 2 samples should you need them from the Releases tab. <br /><br />For more information about Software-plus-Services Blueprints please visit out main landing page on Channel9: <a href=\"http://channel9.msdn.com/blueprints\">http://channel9.msdn.com/blueprints</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MOSS,Silverlight,blueprint,MOSS & Silverlight,",
+  "LastEdited": "2009-01-08T11:27:57.277-08:00"
+}

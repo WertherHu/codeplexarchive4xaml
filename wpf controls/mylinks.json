@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mylinks",
+  "Title": "My Links Menu for SharePoint 2010",
+  "Description": "This control closely mimics the \"My Links\" menu from SharePoint 2007. In addition to listing a user's My Links and site memberships, it can also leverage SharePoint search to display a list of all sites the user has access to. Please see the documentation for installation instructions and for more information about using the search functionality.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This control closely mimics the &#34;My Links&#34; menu from SharePoint 2007. In addition to listing a user&#39;s My Links and site memberships, it can also leverage SharePoint search to display a list of all sites the user has access to. Please see the documentation for installation instructions and for more information about using the search functionality.<br /><br /><img src=\"http://i1258.photobucket.com/albums/ii535/randyh720/My%20Links%20Menu/menu1.png\" /><br /><br /><img src=\"http://i1258.photobucket.com/albums/ii535/randyh720/My%20Links%20Menu/addlink.png\" /><br /><br /><img src=\"http://i1258.photobucket.com/albums/ii535/randyh720/My%20Links%20Menu/managelinks.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "toolset,sharepoint,eval,KAV,FACC,",
+  "LastEdited": "2012-02-20T20:07:23.67-08:00"
+}

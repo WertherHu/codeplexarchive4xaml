@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BioApprovalWorkflow",
+  "Title": "Bio Approval Workflow",
+  "Description": "Bio Approval Workflow, aka Secure Purchase Order System (SPOS), consists of a WPF client using the Windows 7 Biometric Service API. The client interfaces with a back-end database to implement a secure purchase order approval system. PO approval requires a valid fingerprint scan.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Bio Approval Workflow, aka Secure Purchase Order System &#40;SPOS&#41;, consists of a WPF client using the Windows 7 Biometric Service API. The client interfaces with a back-end database to implement a secure purchase order approval system. PO approval requires a valid fingerprint scan.<br />\n<ul><li>For more information, please see the whitepaper: <a href=\"/projects/BioApprovalWorkflow/ba241330-c4bd-48ec-b16b-d1b41bc6b676\">Implementing_a_Biometric_Approval_Workflow.pdf</a>. </li>\n<li>Please also see this blog post series: <a href=\"http://www.jwsecure.com/dan/?cat=40\">http://www.jwsecure.com/dan/?cat=40</a>.</li></ul>\n<br />Please note: the Visual Studio solution and project files assume that the latest Win 7 SDK and DDK are installed in the default locations. If your environment is different, update those settings accordingly, or the solution won&#39;t build. We recommend running the project from within Visual Studio 2008 Professional, since SPOS uses SQL Express by default.<br /><br />Here&#39;s a screenshot:<br /><img src=\"/projects/BioApprovalWorkflow/9cc7d4d5-0849-472a-b3b1-02db64c2f4f6\" alt=\"SPOS-Screenshot.jpg\" title=\"SPOS-Screenshot.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-06-29T12:38:54.42-07:00"
+}

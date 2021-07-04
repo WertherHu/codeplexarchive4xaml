@@ -1,0 +1,9 @@
+{
+  "ProjectName": "smalltune",
+  "Title": "SmallTune",
+  "Description": "SmallTune is an audioplayer with a long tradition, being completely rewritten and redesigned by now.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>SmallTune</b> is a simple Audioplayer with a long tradition, which gets redesigned and renewed by now. It uses a SQLite - Database for fast searching and offers a pretty cool interface, designed by Bart Ebbekink (<a href=\"http://www.bartebbekink.nl/\">http://www.bartebbekink.nl/</a>)<br /><br /><img src=\"/projects/smalltune/011370d4-af96-4e82-ad61-a4e517b0830b\" alt=\"smalltune_design.jpg\" title=\"smalltune_design.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Audio Player,WPF,Music Player,C#,flac,mp3,opus,",
+  "LastEdited": "2012-09-15T08:59:01.96-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "08capture",
+  "Title": "Type08ScreenCapture",
+  "Description": "Type08ScreenCapture brings Windows 8-like desktop capture function to Windows 7. If you type [Windows]+[PrintScreen], it capture a main display area and save the bitmap to your picture folder. It's developed in  C#/WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nType08ScreenCapture brings Windows 8-like desktop capture function to Windows 7. If you type [Windows]&#43;[PrintScreen], it capture a main display area and save the bitmap to your picture folder. It's developed in C#/WPF.<br>\r\n<br>\r\n<br>\r\n<strong>**Delete the following note before publishing **</strong><br>\r\n<br>\r\nThis project is currently in setup mode and only available to project coordinators and developers. Once you have finished setting up your project you can publish it to make it available to all CodePlex visitors.<br>\r\n<br>\r\nThere are three requirements before you publish:<br>\r\n<br>\r\n- Edit this page to provide information about your project<br>\r\n- Upload the initial source code for your project<br>\r\n- Add your project license<br>\r\n<br>\r\nAdditional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">\r\nProject Startup Guide</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-22T21:39:12.353-07:00"
+}

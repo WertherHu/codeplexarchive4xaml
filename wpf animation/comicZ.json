@@ -1,0 +1,9 @@
+{
+  "ProjectName": "comicZ",
+  "Title": "ComicZ",
+  "Description": "comicvine, comics, services, rest, windows mobile 7, wpf, windows 7",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />comicvine, comics, services, rest, windows mobile 7, wpf, windows 7<br /><br /><br />A simple c# class that requests some data from Comic Vine services <a href=\"http://api.comicvine.com/documentation/\">http://api.comicvine.com/documentation/</a> and returns an xml file, at least in this first release. We&#39;re planning to implement also JSon, etc...<br /><br />For istance a simple use of this class can be shown by this VB.NET code, the response of the REST services is saved in an xml file:<br /><br />        Dim comic = New <b>ComicVine</b>(ComicVine.Resources.Issue)<br />        comic.Issue = New <b>MaruJan.Services.ComicVine.Issue</b>(ComicId)<br /><br />        Dim srWriter As New StreamWriter(ComicId + &quot;.xml&quot;)<br /><br />        srWriter.Write(comic.response)<br />        srWriter.Flush()<br />        srWriter.Close()</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-18T06:36:38.443-07:00"
+}

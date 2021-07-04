@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SwyishChess",
+  "Title": "Swyish Chess",
+  "Description": "Chess Application built using C# and WPF",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Welcome to the Swyish Chess Project Homepage!</p>\r\n<p><img src=\"http://www.namedquery.com/data/images/chess.png\" alt=\"Chess Screen shot\" width=\"500\" height=\"371\"></p>\r\n<p>&nbsp;</p>\r\n<p>This project was created while I was learning C# and WPF.</p>\r\n<p><br>\r\nThe application is mostly functional, but there are still several design issues and game logic issues need to be resolved. I will be posting the issues as I find them.<br>\r\n<br>\r\nFeel free to join, suggest ideas, add features and commit patches!&nbsp;</p>\r\n<p><br>\r\n<span style=\"font-size:10pt\">&nbsp;</span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Chess,C#,WPF,Board,Game,Board game,",
+  "LastEdited": "2013-11-21T07:07:18.467-08:00"
+}

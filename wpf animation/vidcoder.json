@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vidcoder",
+  "Title": "VidCoder",
+  "Description": "VidCoder is a DVD/Blu-ray ripping and video transcoding application. It uses HandBrake for the encoding engine, but has a revamped and easy to use UI written in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><a href=\"http://vidcoder.net/\">VidCoder has moved to vidcoder.net !</a></h1>\r\n<h1><a href=\"https://github.com/RandomEngy/VidCoder\">Source is now hosted on GitHub.</a></h1>\r\nCodeplex was nice while it was being maintained, but I have had to answer one too many CAPTCHAs. I&#39;ll keep up old releases but I won&#39;t be posting anything more here. See you on the flip side!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,dvd,video,multimedia,Blu-ray,video encoder,encoding,.NET,.NET 4.0,transcoding,x264,Great small project,Version 32 bits than,",
+  "LastEdited": "2015-11-30T22:54:08.727-08:00"
+}

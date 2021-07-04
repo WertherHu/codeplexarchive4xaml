@@ -1,0 +1,9 @@
+{
+  "ProjectName": "quickuit",
+  "Title": "QuickUIT",
+  "Description": "QuickUIT, short for 'Quick User Interface Testing', is an API for testing applications based on the Microsoft UI Automation framework. QuickUIT provides a simple, object-oriented interface for finding and interacting with automation elements.  It is developed in C#. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />QuickUIT, short for &#39;Quick User Interface Testing&#39;, is an API for testing applications based on the Microsoft UI Automation framework. QuickUIT provides a simple, object-oriented interface for finding and interacting with automation elements.  It is developed in C&#35;. <br /><br /><b>Features</b>\n<ul><li>Object-oriented API </li>\n<li>Matching by regular expressions</li>\n<li>Automatic synchronization code  </li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-21T12:40:52.373-07:00"
+}

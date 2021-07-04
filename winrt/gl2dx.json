@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gl2dx",
+  "Title": "GL2DX (OpenGL to DirectX Wrapper Library)",
+  "Description": "GL2DX is a wrapper library that allows you to build your OpenGL app for WinRT.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nGL2DX is a wrapper library that allows you to build your OpenGL app for WinRT. It implements a small subset of the OpenGL API by re-routing them to their DirectX equivalents. This allows you to re-use your existing drawing code on WinRT without having to replace\r\n it with DirectX. This project uses the MIT license, which is a very permissive license, so feel free to use it and extend it and include it in your commercial products.</p>\r\n<p>If you would like more tips on porting a mobile app to Windows 8, check out <a href=\"http://andrewgarrison.com/blog/porting-an-ios-app-to-windows-8/\">\r\nthis blog article</a>.</p>\r\n<p><strong>Features</strong></p>\r\n<ul>\r\n<li>Converts your OpenGL function calls into DirectX equivalents </li><li>Includes a sample project that demonstrates how to use OpenGL code and a XAML UI\r\n</li><li>Uses a permissive license so that you can extend the library to meet your needs\r\n</li></ul>\r\n<p>Screenshot of the sample app that shows how to mix OpenGL and XAML UI elements:</p>\r\n<p><img src=\"http://i.imgur.com/6B7yg.png\" alt=\"\" width=\"250\" height=\"250\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-08T09:02:24.74-08:00"
+}

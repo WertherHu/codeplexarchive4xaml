@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ObservableCollection",
+  "Title": "WPF ObservableCollection",
+  "Description": "WPF ObservableCollection Idle use.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>This artical show you how to ideally use of ObservableCollection with WPF.<br>\r\n<br>\r\nHere I am showing some simple Insert, Update and Delete option using LINQ Query and that would be using the entities.<br>\r\nSo the simply Create </p>\r\n<pre>ObservableCollection</pre>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<p></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-16T06:22:10.433-07:00"
+}

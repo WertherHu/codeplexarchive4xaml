@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvccrud",
+  "Title": "ASP.Net MVC Crud with JqGrid",
+  "Description": "CRUD automation for .Net MVC 1.0.  Generic classes and interfaces to use for create, edit, delete, details and list in MVC.\n\nCreate a controllers and repositories in as little as 1 line!\n\nNow includes auto generation of JqGrid !!!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CRUD automation for .Net MVC 1.0.  Generic classes and interfaces to use for create, edit, delete, details and list in MVC.<br /><br />Create a controllers and repositories in as little as 1 line&#33;<br /><br />Now includes auto generation of JqGrid &#33;&#33;&#33;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "mvc,",
+  "LastEdited": "2009-04-28T01:22:45.083-07:00"
+}

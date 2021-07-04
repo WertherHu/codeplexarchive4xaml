@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mediaautomator",
+  "Title": "MediaAutomator",
+  "Description": "This project was created in order to provide an automation for media files (videos, music, etc)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nThis project was created in order to provide an automation for media files (videos, music, etc)<br>\r\n<br>\r\nThis program was started with the ideia to organize downloads and move recognized files to\r\n<a title=\"XBMC Media Center\" href=\"http://xbmc.org\" target=\"_blank\">XBMC</a> libraries.<br>\r\n<br>\r\nBy running this program, it will analyse files contained in the &quot;directory to scan&quot; and will move the known files to their corresponing directories (movies, tv shows, etc).<br>\r\n<br>\r\nAt the moment the first goal is to support organizing movies and tv shows.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-30T04:36:00.62-07:00"
+}

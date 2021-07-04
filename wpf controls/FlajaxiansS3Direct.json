@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FlajaxiansS3Direct",
+  "Title": "Flajaxian Direct S3 Amazon Service Uploader",
+  "Description": "Flajaxian Direct S3 Amazon Service Uploader is adapter for the Flajaxian FileUploader .NET web control designed for direct (no post back to server) asynchronous file upload to an Amazon Service of multiple files at the same time, without a page post back and with a progress bar.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Flajaxian Direct S3 Amazon Service Uploader is adapter for the Flajaxian FileUploader .NET web control designed for direct &#40;no post back to server&#41; asynchronous file upload to an Amazon Service of multiple files at the same time, without a page post back and with a progress bar.<br /><br />Requires: <a href=\"http://www.codeplex.com/FlajaxianFileUpload\">http://www.codeplex.com/FlajaxianFileUpload</a> (also free and open source)<br /><br />Web Site: <a href=\"http://www.Flajaxian.com\">http://www.Flajaxian.com</a> <br />Docs: <a href=\"http://flajaxian.com/flajaxian.com/DirectAmazonUploader1.0Help.html\">http://flajaxian.com/flajaxian.com/DirectAmazonUploader1.0Help.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Flajaxian Direct S3,file upload,anazon,s3,",
+  "LastEdited": "2009-10-30T17:08:24.453-07:00"
+}

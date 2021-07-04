@@ -1,0 +1,9 @@
+{
+  "ProjectName": "workflowautomation",
+  "Title": "Workflow Automation (for Dynamics CRM 2011)",
+  "Description": "Workflow Automation for Dynamics CRM 2011 allows user to automate or schedule workflow execution via Windows Task Scheduler. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">CRM Workflow is great feature that it is configurable and also smart. In fact, it is so smart it is capable of detecting infinite workflow execution. Quite often, we see the need to configure a workflow to re-execute itself at the end of its process either by simply updating a field which the workflow is tracking on or start itself as child workflow. However, CRM is smart enough to detect this infinite execution after about 5-6 executions then eventually terminates it.<br /><br />Below is a typical example scenario when you would need to create an infinite workflow.<br />You would like to automatically generate appointment (or task, email) reminder based on certain date field value, eg. one month after Last Appointment Created. You then create a workflow to execute on field value change of Last Appointment Created. Once the appointment has been created, you would then update the Last Appointment Created field to current date and time, therefore, trigger the same workflow.<br /><br />Hence the purpose of Workflow Automation is a workaround to the above limitation and allow user to automate or schedule workflow execution.<br /><br />Typically, user will manually create and configure the workflow within Dynamics CRM. The workflow must be configured executable on demand. Rather than setting up the workflow triggers in the workflow itself, user creates a scheduled task via Task Scheduler to execute the workflow via Workflow Automation.<br /><br />Please visit the Downloads section for binary files, source code and setup guides.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CRM 2011,workflow,",
+  "LastEdited": "2011-11-10T21:11:41.543-08:00"
+}

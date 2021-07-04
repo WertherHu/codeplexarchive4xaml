@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PythagoreanTheorem",
+  "Title": "Pythagorean Theorem in WPF",
+  "Description": "This project shows off using the Pythagorean Theorem in a simple drawing WPF Application.  \r\nMeasuring the distance between 2 objects in WPF can easily be achieved using this approach.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">simple example of using Pythagorean Theorem in WPF.  Using this to calculate the distance between 2 UIElements in WPF<br /><br /><br /><img src=\"/projects/PythagoreanTheorem/ade44333-34f1-4846-a08e-01bd3e99f317\" alt=\"capture.png\" title=\"capture.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-10-24T08:21:31.78-07:00"
+}

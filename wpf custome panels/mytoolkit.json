@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mytoolkit",
+  "Title": "MyToolkit for .NET",
+  "Description": "MyToolkit is a set of .NET libraries containing lots of useful classes for various .NET platforms like WinRT (Universal apps), Windows Phone and WPF. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>The project has been <a href=\"https://github.com/MyToolkit/Core\">moved to GitHub</a>. </h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,Toolkit,YouTube,MVVM,WinRT,Windows Phone,wpf,",
+  "LastEdited": "2015-06-01T12:29:27.887-07:00"
+}

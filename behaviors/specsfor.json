@@ -1,0 +1,9 @@
+{
+  "ProjectName": "specsfor",
+  "Title": "SpecsFor - Yet Another BDD Framework For .NET",
+  "Description": "SpecsFor is another Behavior-Driven Development framework that focuses on ease of use for *developers* by minimizing testing friction.  ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>SpecsFor now has an official homepage. &nbsp;Be sure to check it out at\r\n<a href=\"http://specsfor.com\">SpecsFor.com</a>!</strong></p>\r\n<p><strong>If you're looking for the project site, <a href=\"https://github.com/MattHoneycutt/SpecsFor\">\r\ncheck it out</a>, it's over at Github!</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Testing,TDD,BDD,nunit,",
+  "LastEdited": "2012-02-09T20:03:53.18-08:00"
+}

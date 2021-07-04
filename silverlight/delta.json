@@ -1,0 +1,9 @@
+{
+  "ProjectName": "delta",
+  "Title": "delta",
+  "Description": "Delta is a difference tool for large files.  Delta will have several clients, including AJAX and Silverlight.  You can view differences in a scrollable view using jQuery or download the difference reports.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Delta is a difference tool for large files.  Delta will have several clients, including AJAX and Silverlight.  You can view differences in a scrollable view using jQuery or download the difference reports.<br /><br /><br /><b>Features</b>\n<ul><li>Compare Engine</li>\n<li>jQuery Enabled Data View for ASP.NET</li>\n<li>Diff Report Templates and Generation</li>\n<li>Sample Harness</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "diff,compare tool,",
+  "LastEdited": "2010-02-04T21:36:55.01-08:00"
+}

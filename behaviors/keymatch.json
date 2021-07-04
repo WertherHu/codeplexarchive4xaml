@@ -1,0 +1,9 @@
+{
+  "ProjectName": "keymatch",
+  "Title": "MC+A Custom Keymatch Onebox C#",
+  "Description": "This OneBox module mimics the Google Search Appliance's built-in KeyMatch functionality. By using this instead of the built-in KeyMatch feature, you can customize the C# Service implementation to provide alternative behavior that better suites your needs.  Based on http://code.google.com/p/custom-keymatch-onebox/ from Google.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This OneBox module mimics the Google Search Appliance&#39;s built-in KeyMatch functionality. By using this instead of the built-in KeyMatch feature, you can customize the C&#35; Service implementation to provide alternative behavior that better suites your needs.  Based on http&#58;&#47;&#47;code.google.com&#47;p&#47;custom-keymatch-onebox&#47; from Google.<br /><br /><br />This project is maintained by http://www.mcplusa.com. Should you require support with this library or in customizing the Google Search Appliance, please contact <a href=\"http://www.mcplusa.com\">MC+A</a> at: sales at mc plus a.com<br /><br />This project is neither affiliated to nor sponsored by Google&#174;. Google&#174;, and Google Search Appliance™ are registered trademarks of Google Inc. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "GSA,Google Appliance,Keymatch,Google Mini,",
+  "LastEdited": "2013-06-02T20:29:23.357-07:00"
+}

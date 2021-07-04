@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rjnorwich",
+  "Title": "Basic 3 Tarot Card Game",
+  "Description": "A three-handed card game simulation using a tarot deck. Developed in Windows Presentation Foundation using Visual Studio 2010 and Expression Blend.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A three-handed card game simulation using a tarot deck. Developed in Windows Presentation Foundation using Visual Studio 2010 and Expression Blend.<br /><br /><img src=\"http://rjnorwich.files.wordpress.com/2010/10/b3toptions.jpg\" /><br />Read more at my blog post: <a href=\"http://rjnorwich.wordpress.com/2010/12/21/basic-3-tarot-card-game/\">http://rjnorwich.wordpress.com/2010/12/21/basic-3-tarot-card-game/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,game,card game,tarot,",
+  "LastEdited": "2011-05-18T12:41:55.643-07:00"
+}

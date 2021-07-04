@@ -1,0 +1,9 @@
+{
+  "ProjectName": "metroprogresscontrol",
+  "Title": "Metro Character Progress Control",
+  "Description": "A Metro Character Progress Control",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>A Metro Character Progress Control</h1>\r\n<p>The Progress Control could be used in following platforms:</p>\r\n<ul>\r\n<li>Windows 8 (WinRT) </li><li>Windows Phone 8 (WP8) </li><li>Silverlight 5 (SL5) </li><li>WPF (WPF4.5) </li></ul>\r\n<p>Available in Nuget; <a href=\"https://nuget.org/packages/CharacterProgressControl/\">\r\nClick Here</a></p>\r\n<h1>The Following are the screenshots of the Control</h1>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2013/05/progress-control-demo.png\" alt=\"Demo\" width=\"800\" height=\"600\"></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2013/05/progress-control-elements.png\" alt=\"Control Elements\" width=\"718\" height=\"537\"></p>\r\n<p>&nbsp;</p>\r\n<p>Here is an example of control usage in xaml:</p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://diptimayapatra.files.wordpress.com/2013/05/progress-control-usage.png\" alt=\"control usage\" width=\"437\" height=\"223\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Modern UI,Metro,WinRT,Windows 8,Windows8,Silverlight,Silverlight 5,Silverlight5,WPF,WPF 4.5,Progress Control,Vertical Progress,Custom Control,WP8,SL5,Windows Phono 8,A Metro Character Pr,",
+  "LastEdited": "2013-05-30T00:42:33.4-07:00"
+}

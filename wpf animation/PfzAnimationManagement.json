@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PfzAnimationManagement",
+  "Title": "Pfz.AnimationManagement",
+  "Description": "A .NET animation library that supports both declarative and imperative animations, capable of creating from simple animation to entire games.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A .NET animation library that supports both declarative and imperative animations, capable of creating from simple animation to entire games.<br /><br /><br />This library was first presented in codeproject <a href=\"http://www.codeproject.com/Articles/634353/Fluent-and-Imperative-Animations\">http://www.codeproject.com/Articles/634353/Fluent-and-Imperative-Animations</a> and it is actually the best place to understand its usage.<br /><br />It is still missing an article, but you can see a Shoot em Up game made with this library for Silverlight 5 at <a href=\"http://paulozemek.azurewebsites.net/ShootEmUpTestPage.2013_10_10.html\">http://paulozemek.azurewebsites.net/ShootEmUpTestPage.2013_10_10.html</a> and for WPF at <a href=\"http://paulozemek.azurewebsites.net/ShootEmUp_WpfRelease.2013_10_10.zip\">http://paulozemek.azurewebsites.net/ShootEmUp_WpfRelease.2013_10_10.zip</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Silverlight,Declarative,Imperative,Animation,Fluent API,Frame based,Frame-by-frame,Time based,Games,",
+  "LastEdited": "2013-10-16T08:47:36.517-07:00"
+}

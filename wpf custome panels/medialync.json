@@ -1,0 +1,9 @@
+{
+  "ProjectName": "medialync",
+  "Title": "Media Lync",
+  "Description": "A small WPF application which broadcasts the song you are currently playing in Microsoft Zune Player for Windows as your personal note in Microsoft Lync 2010.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rA small WPF application which broadcasts the song you are currently playing in Microsoft Zune Player for Windows as your personal note in Microsoft Lync 2010.<br />\n<h2>Project Status</h2>\rThis project is still in development and therefore has no release as yet. A release is expected Summer 2011, however if you can&#39;t wait that long feel free to download the source for yourself and follow the <a href=\"https://medialync.codeplex.com/wikipage?title=Pre-release%20guide&referringTitle=Home\">Pre-release guide</a><br />\n<h2>Project Dependencies</h2>\rPlease note that this project depends on the following codeplex projects:\n<ul><li>Zune - Now Playing (<a href=\"http://znp.codeplex.com\">http://znp.codeplex.com</a>)</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,.NET 4.0,Lync,Zune,WPF,",
+  "LastEdited": "2011-07-05T14:28:21.71-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ScreenManager",
+  "Title": "Screen Manager",
+  "Description": "Module for configure containers in multiple screens and manage them. Use multiple screens at a simple mode.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nModule for configure containers in multiple screens and manage them.</p>\r\n<p>Use this library to:</p>\r\n<ul>\r\n<li><span style=\"font-size:10pt\">Turn on/off screens</span> </li><li><span style=\"font-size:10pt\">Detect display connected in your device</span> </li><li><span style=\"font-size:10pt\">Use Model View View-Model pattern to show your views in your different screens</span>\r\n</li></ul>\r\n<p style=\"padding-left:90px\"><img src=\"http://lh5.ggpht.com/-Mt_pCMn0aKk/UinLyBF3DqI/AAAAAAAAAM8/7WLY3wq-QOs/image_thumb%25255B7%25255D.png?imgmax=800\" alt=\"screen Manager\" width=\"332\" height=\"280\" style=\"vertical-align:middle\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Screen,MVVM,WPF,Multiple screen,multiple monitor,",
+  "LastEdited": "2013-09-07T10:57:09.387-07:00"
+}

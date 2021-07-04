@@ -1,0 +1,9 @@
+{
+  "ProjectName": "proxytoggleWPF",
+  "Title": "ProxyToggleWPF",
+  "Description": "Proxy ToggleWPF is a simple utility that makes turning your proxy settings on and off a breeze\r\n\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Proxy Toggle WPF</b><br />===========<br /><br />Proxy Toggle WPF is a simple utility that makes turning your proxy settings on and off a breeze. The UI helps your end users determine the state of their proxy settings. <br /><br />Key Points<br />\n<ul><li>It can help decrease the amount of Service Desk calls from non-technical users who are having trouble connecting to WiFi.</li></ul>\n\n<ul><li>It&#39;s useful for when travelling outside of your internal network (Home, Hotel, Starbucks, etc), ProxyToggle can help to reach those Hotel WiFi sign-in pages without suffering a redirect to an unreachable home page (:/). </li></ul>\n \n<ul><li>Best of all, when you return to your company&#39;s internal network you can restore your <i>saved</i> proxy settings to the Registry with a flick of the switch!</li></ul>\n<br />Utilizes the excellent <a href=\"https://proxytogglewpf.codeplex.com/wikipage?title=ToggleSwitchControl&referringTitle=Home\">ToggleSwitchControl</a> (https://github.com/ejensen/toggle-switch-control) &amp; <a href=\"https://proxytogglewpf.codeplex.com/wikipage?title=ModifyRegistryLibrary&referringTitle=Home\">ModifyRegistryLibrary</a> (http://www.codeproject.com/Articles/3389/Read-write-and-delete-from-registry-with-C)<br /><br />Easily configurable through the included App.config. Built with WPF &amp; C#</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Registry,proxy server,toggle,proxy,.NET,",
+  "LastEdited": "2014-06-24T07:22:47.13-07:00"
+}

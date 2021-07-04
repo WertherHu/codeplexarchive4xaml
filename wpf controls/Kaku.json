@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Kaku",
+  "Title": "Kaku by wifi",
+  "Description": "The projects purpose:\r\nMake your phone a part of your house hold by being able to control certail elektric devices with your phone such as, light, electric curta",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Kaku by wifi<br /><br />The projects purpose:<br />Make your phone a part of your house hold by being able to control certail elektric devices with your phone such as, light, electric curtains and everything else thats plugged into power outlets.<br /><br />Project summery:<br />The dutch &quot;klik aan klik uit&quot; (in english Click on Click Off) Or Kaku in short is a home domotica system thats fairly cheap to install. This software (in first instance for windowphone) will give you te ability to control your kaku controllers with your own phone. The phone uses your wifi connection in your home to connect to the Mbed controller wich gives you the ability to switch on or switch of certain devices at home. <br /><br />Klik aan Klik uit (Kaku):<br />For more information about kaku visit the following website:<br />Dutch: <a href=\"http://www.klikaanklikuit.nl/home/\">http://www.klikaanklikuit.nl/home/</a><br /><br />Mbed controller:<br />The mbed controller converts a wifi signal send from the phone to a RF signal used by kaku. The module scematics will be available here soon. Also, for the lazy people around i will sell some of the modules at a price that is not yet determined but will be around 40$ to 60$<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-25T02:25:13.297-07:00"
+}

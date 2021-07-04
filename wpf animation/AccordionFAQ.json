@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AccordionFAQ",
+  "Title": "Accordion FAQ",
+  "Description": "This is a very simple javascript (jQuery) and css that will make it very easy for you to create what is called an Accordion FAQ with nice sliding animation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Hi everyone.<br /><br />This is a very simple javascript (jQuery) and css that will make it easy for you to create what is called an Accordion FAQ.<br /><br />This is the type of FAQ that has all the questions listed and once you click on one, the answer slides below pushing everything down.<br /><br />My initial aim was to have it as plain as possible so it can be used on all kinds of websites and CMSs and I also wanted to be able to create a long list of FAQ without writing much markup with classes, styles etc. Just simple copy paste of the question and answer.<br /><br />So enjoy and if you find a way to make it even better please share what you have come up with.<br /><br />Feel free to talk with me about anything.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-08T15:45:30.547-08:00"
+}

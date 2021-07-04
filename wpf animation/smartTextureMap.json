@@ -1,0 +1,9 @@
+{
+  "ProjectName": "smartTextureMap",
+  "Title": "smartTextureMap",
+  "Description": "Maps the faces in texture map generated from Blender with letters to allow identify them in 3D image and agile the texture process.",
+  "MovedLink": "https://github.com/MGODOY-BR/smartTextureMap/wiki",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><strong>The life is too short to spend it&nbsp;fixing&nbsp;texture maps</strong></h1>\r\n<ul>\r\n<li>Identify if a face was mapped by 3D modeler in upside-down&nbsp;quickyly and react inverting the texture, instead of handle with the model\r\n</li><li>Reduce the travels between 3D modeler and&nbsp;photo editor </li><li>Concentrate in what is important: avoid to make seams and organize texture map to models less important\r\n</li><li>Be able to create windows batch files&nbsp;to convert&nbsp;how many files as you want it.\r\n</li></ul>\r\n<p>&nbsp;<img src=\"/projects/smartTextureMap/2f785a2a-c162-4209-867f-78de0a8ab4c1\" alt=\"\" width=\"530\" height=\"409\"><img src=\"/projects/smartTextureMap/e7f8ea95-f354-46bb-b042-0d4f06861e0d\" alt=\"\" width=\"480\" height=\"234\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "blender,3D model,texture map,game design,animation,unity,texture,smartSprite,",
+  "LastEdited": "2016-12-04T06:40:52.773-08:00"
+}

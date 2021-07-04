@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sqlwindow",
+  "Title": "SQLWindow",
+  "Description": "SQLWindow is simple database debugging and maintenance tool, which uses WPF and data binding",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>SQLWindow</b><br />SQLWindow is simple database debugging and maintenance tool, which uses WPF and data binding<br /><br />This simple tool has two main purposes:\n<ul><li>Provide a basic database operations by executing custom SQL queries (and even fetching some results!).</li>\n<li>Show example on binding data in .NET WPF.</li></ul>\n<br />You can use it as standalone application to connect to database and ALTER CONSTRAINT, DROP TRIGGER or INSERT VALUES, etc.<br />On the other hand, if you develop database-oriented application, you can easily embed SQLWindow into your project as a reference.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sql,tool,debugging,wpf,binding,example,",
+  "LastEdited": "2013-04-17T05:27:24.627-07:00"
+}

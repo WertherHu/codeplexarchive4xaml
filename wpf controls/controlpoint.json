@@ -1,0 +1,9 @@
+{
+  "ProjectName": "controlpoint",
+  "Title": "ControlPoint",
+  "Description": "Open Source Home Control System.\r\n\r\n.Net based\r\nAbility to run on Mono 1.2 (Synology)\r\nNetdunio",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nOpen Source Home Control System.<br>\r\n<br>\r\n.Net based with support for running in a Mono 1.2 environment (Synology)<br>\r\n<strong></strong></p>\r\n<p><strong>Hardware Platforms</strong></p>\r\n<p>The aim is to support a number of low cost single computers such as Netdunio, BeagleBoard XM/BeagleBone and Raspberry PI&nbsp;as the central control unit.<br>\r\n<br>\r\n<strong>Goals</strong><br>\r\n<br>\r\nTo create an opensource home control system, that is flexible enough to run multiple protocols and lightweight enough to run on embedded devices.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-06-28T04:26:03.58-07:00"
+}

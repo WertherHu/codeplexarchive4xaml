@@ -1,0 +1,9 @@
+{
+  "ProjectName": "imagin",
+  "Title": "Imagin.NET",
+  "Description": "Imagin.NET is a library written in C# that contains an assortment of WPF controls and utilities intended to extend the default .NET tool set. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Imagin.NET is a library written in C# that provides common WPF controls and utilities.</p>\r\n<h1>GitHub</h1>\r\n<p><a href=\"https://github.com/imagin-tech/Imagin.NET\">https://github.com/imagin-tech/Imagin.NET</a></p>\r\n<h2>Issues</h2>\r\n<p><a href=\"https://github.com/imagin-tech/Imagin.NET/issues\">https://github.com/imagin-tech/Imagin.NET/issues</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,.NET,Windows,",
+  "LastEdited": "2017-01-08T01:54:34.347-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CCTW",
+  "Title": "Databinding Toolkit for Word",
+  "Description": "This project facilitates the development of data enabled documents inside Microsoft Office Word 2007 by presenting a custom task pane that can be used to create mappings between content controls and custom XML data files inside the Office document.\nThis project is similar to the Content Control Toolkit, with the main difference being the Word host application used for this project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Welcome to the home of the Databinding Toolkit for Microsoft Office Word 2007. This project provides you with an application-integrated interface for mapping content controls to custom XML data files as well as other operations revolving around custom XML in Word. You will find this project similar to the Content Control Toolkit hosted on Codeplex at <a href=\"http://www.codeplex.com/dbe\">http://www.codeplex.com/dbe</a> with the main difference being the integration inside Microsoft Word versus an external application. <br /><br />This project uses Visual Studio Tools for Office v3 as well as Windows Presentation Foundation to provide a rich and intuitive interface for performing custom XML related tasks. As a result you require the .NET 3.5 to run the code. <br /><br /><img src=\"/projects/CCTW/3799d49d-e591-4e50-8149-b3550d658a39\" alt=\"CCTW.jpg\" title=\"CCTW.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Lamia,",
+  "LastEdited": "2007-12-15T13:18:49.183-08:00"
+}

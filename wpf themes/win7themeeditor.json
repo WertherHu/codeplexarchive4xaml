@@ -1,0 +1,9 @@
+{
+  "ProjectName": "win7themeeditor",
+  "Title": "Win7主题生成器（樱茶幻萌组专用）",
+  "Description": "本程序用于生成 *.theme 文件和相关文件（壁纸，指针，图标，声音等）。只要你用VSB做好了*.msstyles文件，选好了图标壁纸等，程序自动将整个主题连同相关文件生成到系统主题目录！方便大家制作出自己的主题，不用再编辑里面的诸多代码了。很方便，高手新手都很适合！",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>樱茶幻萌组Windows7主题生成器</b><br />\n<h2><b>最新版请到官方网站下载：</b></h2>\r<h2><b><a href=\"http://win7themeeditor.sinaapp.com/\">http://win7themeeditor.sinaapp.com/</a></b></h2>\r\n本程序用于生成 &#42;.theme 文件和相关文件&#65288;壁纸&#65292;指针&#65292;图标&#65292;声音等&#65289;&#12290;只要你用VSB做好了&#42;.msstyles文件&#65292;选好了图标壁纸等&#65292;程序自动将整个主题连同相关文件生成到系统主题目录&#65281;方便大家制作出自己的主题&#65292;不用再编辑里面的诸多代码了&#12290;很方便&#65292;高手新手都很适合&#65281;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-02T21:24:40.743-07:00"
+}

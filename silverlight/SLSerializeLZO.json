@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLSerializeLZO",
+  "Title": "Binary Serialization and Compression for Silverlight",
+  "Description": "This project ports two useful libraries to Silverlight:  1. An adapted version of Alt.Serializer enables binary serialization, and 2. A modified version of MiniLZO provides compression.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project ports two useful libraries to Silverlight&#58;  1. An adapted version of Alt.Serializer enables binary serialization, and 2. A modified version of MiniLZO provides compression.<br /><br />Original Alt.Serializer by neocognitron (http://www.codeproject.com/KB/cs/AltSerializer.aspx)<br />Original LZO .NET port by Astaelan (http://www.codeproject.com/KB/recipes/managedlzo.aspx)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Serialization,",
+  "LastEdited": "2009-05-15T19:26:06.813-07:00"
+}

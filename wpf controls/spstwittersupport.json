@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spstwittersupport",
+  "Title": "motion10 SharePoint Twitter Status Notes Control",
+  "Description": "Change the normal SharePoint Status control to the motion10 SharePoint Twitter Status Notes Control and you can send your tweets to Twitter!\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThe motion10 SharePoint Twitter Status Notes Control allow users to update their status in SharePoint and sends the message&nbsp;automatically to Twitter.</p>\r\n<ul>\r\n<li>View the <a href=\"http://erwinkoens.wordpress.com/2011/01/31/motion10-sharepoint-twitter-status-notes-control/\">\r\nblog post</a>. </li><li>View the <a href=\"http://sharepoint2010tweet.codeplex.com/documentation\">documentation</a>.\r\n</li><li>Download the&nbsp;<a href=\"http://sharepoint2010tweet.codeplex.com/releases/\">SharePoint Solution&nbsp;Package</a>.\r\n</li><li>Download the <a href=\"http://sharepoint2010tweet.codeplex.com/SourceControl/list/changesets#\">\r\nSource Code</a>. </li></ul>\r\n<p>&#65279;<img src=\"http://erwinkoens.files.wordpress.com/2011/01/tweet.png\" alt=\"\" width=\"742\" height=\"326\"></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-31T11:29:51.923-08:00"
+}

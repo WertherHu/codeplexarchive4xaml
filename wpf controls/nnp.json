@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nnp",
+  "Title": "Niko Neko Pureya",
+  "Description": "Niko Neko Pureya is a simple media player designed for people who watch a series of videos (anime, drama etc). Since my main concern was an easy to use media player, I created AniPlayer X in VB.NET and later on ported the code to Niko Neko Pureya in C# using Microsoft's WMP ActiveX Control. It's very simple to use and it looks moderately good. And hopes that you'll enjoy it as well ^_^",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Niko Neko Pureya has been superseded by <a href=\"http://bakamplayer.netii.net/index.php\">Baka MPlayer</a></h1>\r<a href=\"http&#58;&#47;&#47;bakamplayer.netii.net&#47;index.php\"><img src=\"/projects/nnp/84edbfeb-5887-4bdb-a3c9-33a9ea14d6ac\" alt=\"Baka&#32;MPlayer\" title=\"Baka&#32;MPlayer\" /></a>\n<h2>Baka MPlayer is the new mplayer2 based media player that I am working on and it uses a lot less memory and cpu cycles than Niko Neko Pureya.</h2>\r<h2>Totally rewritten for speed and efficiency, you should seriously check it out!</h2>\r<h1>Main Website: <a href=\"http://bakamplayer.netii.net/\">http://bakamplayer.netii.net/</a></h1>\r<h1>Git: <a href=\"https://github.com/godly-devotion/Baka-MPlayer\">https://github.com/godly-devotion/Baka-MPlayer</a></h1>\r<hr />\n<h1>Niko Neko Pureya Description</h1>\rNiko Neko Pureya is a simple media player designed for people who watch a series of videos &#40;anime, drama etc&#41;. Since my main concern was an easy to use media player, I created AniPlayer X in VB.NET and later on ported the code to Niko Neko Pureya in C&#35; using Microsoft&#39;s WMP ActiveX Control. It&#39;s very simple to use and it looks moderately good. And hopes that you&#39;ll enjoy it as well &#94;_&#94;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,player,anime,niko,neko,pureya,anime player,nnp,media player,",
+  "LastEdited": "2012-03-18T13:12:52.837-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "restfulrias",
+  "Title": "RESTful RIA Templates",
+  "Description": "RESTful RIA Templates is a small library of T4 code generation templates that make it easy to create RESTful WCF web services as well as consuming jQuery and Silverlight client proxies using JSON and XML respectively.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />RESTful RIA Templates is a small library of T4 code generation templates that make it easy to create RESTful WCF web services as well as consuming jQuery and Silverlight client proxies using JSON and XML respectively.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "RESTful,webservice,",
+  "LastEdited": "2009-10-07T06:05:10.707-07:00"
+}

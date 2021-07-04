@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xnaWinRT",
+  "Title": "XNA for Windows 8(Windows RT).",
+  "Description": "Officially there is no support for XNA Game Studio in Windows 8(WinRT). So this is a light weight XNA Framework made using the .NET 4.5 and Metro Style APIs and",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Windows 8/.NET 4.5/WinRT are Microsoft's latest development frameworks for Windows 8. However Windows Phone 7 which supported XNA and silverlight gained a lot of popularity and hence alot of developers. Silverlight is very similar to WPF, currently used\r\n in WinRT. However XNA Game Studio is Officially not supported by&nbsp;Microsoft. This has led to developers migrating to DirectX which is a unmanaged and a extensively large development framework for Games.</p>\r\n<p>With this, Officially there is no support for XNA Game Studio in Windows 8(WinRT). So this is a light weight XNA Framework made using the .NET 4.5 and Metro Style APIs and is the most basic and crude form of XNA for Windows 8. More development is in Progress.\r\n Help is appreciated. <br>\r\n<br>\r\nThis project is handled and managed by Team GreenPoison for Imagine Cup. For official announcements and updates please visit the website:<br>\r\n<a title=\"Website\" href=\"http://rushabh.greenpoison.org.in\" target=\"_blank\">http://rushabh.greenpoison.org.in</a></p>\r\n<p>The above code also includes and example for explanation and understanding.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-26T04:35:08.213-07:00"
+}

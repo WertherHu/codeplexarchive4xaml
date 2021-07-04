@@ -1,0 +1,9 @@
+{
+  "ProjectName": "chimerasuite",
+  "Title": "Chimera - Automated Testing Suite",
+  "Description": "Chimera is an automated testing suite, intended to simplify and automate system and tests deployment. Oriented around the MVC architecture, it has web based UI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Chimera is an automated testing suite, intended to simplify and automate system and tests deployment. Oriented around the MVC architecture, it has web based UI.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,mvc,automation,wcf,service,testing,",
+  "LastEdited": "2013-11-04T04:36:17.14-08:00"
+}

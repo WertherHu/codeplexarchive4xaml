@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lammesofthsm",
+  "Title": "Hierarchical State Machine Compiler",
+  "Description": "This projects helps you to easily create and generate hierarchical state machine in .NET.\r\nStates, transitions, conditions, action, states inheritance\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>this project moved to <a href=\"https://github.com/bnogent/lammesoftHSM\">https://github.com/bnogent/lammesoftHSM</a></p>\r\n<p>Go to <a href=\"http://www.lammesoft.com\">http://www.lammesoft.com</a>&nbsp;....</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "code generation,Code Generator,generator,State Machine,hierarchical,Transition,silverlight 4,knockoutjs,javascript,Java,",
+  "LastEdited": "2012-11-05T05:34:50.097-08:00"
+}

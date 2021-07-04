@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fileupload",
+  "Title": "File Upload",
+  "Description": "This is a silverlight 4 app, it used for upload files with progress bar.\r\nYou can download it and run it directly.\r\n这是个silverlight 4.0 程序, 就一个上传功能,支持断点续传,多文件同时上传",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">New version has been updated to the Silverlight 5 and add a pause and resume uploading features.<br /><br />新版本已更新至silverlight 5, 并添加了暂停与继续上传功能;<br /><br />添加单个文件上传<br />\n<hr />----------------------------------------------------------------------------------------------------------------------<br />this is a silverlight app, it used for upload files with progress bar.<br /><br />you can download and run it directly;<br /><br />demo: http://fileupload.sitecloud.cytanium.com/<br /><br />这是个silverlight 4.0程序, 就一个上传文件功能,支持断点续传,多文件同时上传<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "upload file,multifile upload,silverlight,silverlight 文件上传,大文件上传,续传,",
+  "LastEdited": "2014-02-06T18:07:59.23-08:00"
+}

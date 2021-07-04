@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tui",
+  "Title": "TUI - a Text User Interface Windows Library for .net",
+  "Description": "TUI is a Control library which provides Elements for creating a Windows-Based-User-Interface on System.Console. It contains Controls like Windows, Textboxes, Comboboxes and ListViews. It is completely Object-Orientated, so that you can easily derive your own Custom-Controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TUI is a Control library which provides Elements for creating a Windows-Based-User-Interface on System.Console. It contains Controls like Windows, Textboxes, Comboboxes and ListViews. It is completely Object-Orientated, so that you can easily derive your own Custom-Controls.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-06T10:45:53.607-08:00"
+}

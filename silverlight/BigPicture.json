@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BigPicture",
+  "Title": "BigPicture™",
+  "Description": "A sample Silverlight 2.0 beta 1 application utilizing Microsoft's Deep Zoom technology along with Vertigo's Big Picture™ mouse interaction handing code (as seen in the Hard Rock Memorabilia application)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>What is Vertigo BigPicture™?</h1>\rMicrosoft’s Silverlight Deep Zoom doesn’t give you any mouse wheel support. Vertigo extracted the mouse-handling from their BigPicture™ technology to share with everyone. What you get:\n<ul><li>Mouse interactions in C# managed code, including mouse wheel support</li>\n<li>Cross-browser compatible with Firefox 2 and beta 3, IE7, and Safari (both Windows and Mac)</li>\n<li>Cross-domain support, with support for embedded applications and CDN hosting scenarios</li>\n<li>Multiple instance support: more than one MultiScaleImage in a page or application supported (with multiple wrapper instances)</li>\n<li>Correct detection of MultiScaleImage instance boundaries, regardless of Silverlight instance positioning (including tables, margins, etc)</li></ul>\n\n<h2>Quick Links</h2>\r<ul><li><a href=\"http://www.vertigo.com/BigPicture/BigPicture.html\">Play with a live sample</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight Demo,Silverlight,",
+  "LastEdited": "2008-04-01T10:04:50.027-07:00"
+}

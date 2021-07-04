@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WBEXEmbedded",
+  "Title": "WriteableBitmapEx for Windows Embedded",
+  "Description": "WriteableBitmapEx for Windows Embedded Compact 7 and Silverlight for Windows Embedded. Requires XAML In The Hand for managed code development.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WriteableBitmapEx for Windows Embedded Compact 7 and Silverlight for Windows Embedded. Requires XAML In The Hand for managed code development.<br /><br /><br />See the original <a href=\"http://writeablebitmapex.codeplex.com/\">WriteableBitmapEx</a> project for details. This fork contains all the functionality in the Silverlight version of that project. It also contains a modified version of the Windows Phone Performance Sample designed to support a variety of Windows Embedded devices.<br />\n<h2>Support</h2>\rPlease post any questions to our <a href=\"http://wbexembedded.codeplex.com/discussions\">discussion forum</a>.<br />\n<h2>Blog</h2>\r<a href=\"http://peterfoot.net\">Peter&#39;s Blog</a><br /><br /><a href=\"http&#58;&#47;&#47;inthehand.com\"><img src=\"/projects/WBEXEmbedded/dc95ce1e-931e-469b-b558-5d45eb17613c\" alt=\"In&#32;The&#32;Hand&#32;Ltd\" title=\"In&#32;The&#32;Hand&#32;Ltd\" /></a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Windows Embedded CE,.Net Compact,xaml,",
+  "LastEdited": "2012-10-14T12:22:26.587-07:00"
+}

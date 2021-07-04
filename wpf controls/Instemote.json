@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Instemote",
+  "Title": "Instemote",
+  "Description": "Instemote is a free and open source Insteon home lighting control system remote for Windows Phone and Windows!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Instemote is a free and open source Insteon client for Windows Phone and Windows. <br /><br />Features\n<ul><li>Cortana Integration</li>\n<li>Roaming Data</li>\n<li>Geo Fence light control</li>\n<li>Fast and easy to use!</li>\n<li>More soon!</li></ul>\n<br />This is my first attempt at a universal app; I hope this project can serve as a simple reference for Windows Phone 8.1 features.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,cortana,geo fence,",
+  "LastEdited": "2014-05-05T09:01:06.493-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vietbando",
+  "Title": "Map Viet Nam",
+  "Description": "Control Map VietNam",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Giới thiệu</strong><br>\r\nControl Map VietNam<br>\r\n<br>\r\n</p>\r\n<div>\r\n<div id=\"rightcontent\" style=\"padding-left:60px\"><img src=\"http://www.vietbando.com/Maps/API/images/slogan.gif\" alt=\"\"></div>\r\n<div>Hướng dẫn c&aacute;ch d&ugrave;ng Vietbando Maps API Để sử dụng Vietbando Maps API trước hết bạn phải&nbsp;<a href=\"http://www.vietbando.com/Maps/API/apiregister.aspx\">đăng k&yacute; dịch vụ</a>&nbsp;(miễn ph&iacute; 100%) để c&oacute; được 1 kh&oacute;a\r\n API.&nbsp;<br>\r\nSau khi nhận được kh&oacute;a, bạn sử dụng kh&oacute;a API theo c&aacute;ch sau (v&iacute; dụ kh&oacute;a API l&agrave;:&nbsp;<strong>ABCDEFG</strong>)</div>\r\n<div id=\"rightcontent\">\r\n<p>&nbsp;<a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</p>\r\n</div>\r\n</div>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-14T18:07:17.54-08:00"
+}

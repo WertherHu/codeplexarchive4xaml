@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CameraToJpegFiles",
+  "Title": "Camera to Jpeg Files",
+  "Description": "This is a WPF app that is based on DirectShow. It takes the input from a web camera and turns it into a sequence of JPEG images. I need this for another project but I thought I might share this part anyway in case anyone needs similar solution.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a WPF app that is based on DirectShow. It takes the input from a web camera and turns it into a sequence of JPEG images. I need this for another project but I thought I might share this part anyway in case anyone needs similar solution.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DirectShow,Video,",
+  "LastEdited": "2010-08-30T00:09:17.15-07:00"
+}

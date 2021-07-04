@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ScriptAnnotations",
+  "Title": "ScriptAnnotations",
+  "Description": "ScriptAnnotations allows MVVM frameworks, like Knockoutjs, to leverage DataAnnotations for unobtrusive JQuery / MVC style validation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ScriptAnnotations allows MVVM frameworks, like Knockoutjs, to leverage DataAnnotations for unobtrusive JQuery &#47; MVC style validation.<br /><br />ScriptAnnotations is a JsonConverter that serializes JSON, with data annotation meta-data embedded, so you can write validation logic on the server and render it on the client.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Data Annotations,JSON,JSON.NET,JavaScript,Serialization,Knockoutjs,knockout,MVC,MVVM,WebApi,REST,Ajax,",
+  "LastEdited": "2014-04-18T20:39:10.54-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MetroIoc",
+  "Title": "MetroIoc - a simple WinRT IoC container",
+  "Description": "A WinRT port of the MicroIoc container...\r\n\r\nMetroIoc is a native WinRT Inversion of Control container, for use in Metro style apps.\r\n\r\nCheck the license for usage rights of this project",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nmetroioc is a native WinRT inversion of control container, for use in Metro style apps on WinRT for Windows 8.<br>\r\n<br>\r\nCheck the license for usage rights of this project<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<strong>--Breaking changes to the API--</strong><br>\r\n<br>\r\nthe <span class=\"codeInline\">ILifeCycle </span>interface has been replaced by <span class=\"codeInline\">\r\n_IRegistration </span>. This is used in an identical fashion, so previously<br>\r\n<br>\r\n</p>\r\n<pre>    container.Register&lt;IFoo, Foo&gt;(new SingletonLifecycle());\n</pre>\r\n<p><br>\r\n<br>\r\nhas been replaced by<br>\r\n<br>\r\n</p>\r\n<pre>    container.Registration&lt;IFoo, Foo&gt;(new Singleton());\n</pre>\r\n<div>\r\n<p>&nbsp;</p>\r\n</div>\r\n<p>Download the latest nuget package available at <a href=\"https://nuget.org/packages/metroioc\">\r\nnuget.org</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-10-01T03:48:22.91-07:00"
+}

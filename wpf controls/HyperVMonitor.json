@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HyperVMonitor",
+  "Title": "Hyper-V Monitor Gadget",
+  "Description": "Hyper-V Monitor Gadget for Windows Sidebar that lists Hyper-V servers and their VM's. Supports status information and controlling them directly from the gadget.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Hyper-V Monitor Gadget for Windows Sidebar that lists Hyper-V servers and their VM&#39;s. Supports status information and controlling them directly from the gadget.<br /><br /><img src=\"http://www.codeplex.com/download?ProjectName=hypervmonitor&amp;DownloadId=216490\" /><br /><br /><br />Original project homepage and author: <a href=\"http://mindre.net/Article/hyperv_monitor_gadget_for_windows_sidebar\">Tore Lervik</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Hyper-V,Gadget,Monitor,",
+  "LastEdited": "2011-03-12T06:31:45.727-08:00"
+}

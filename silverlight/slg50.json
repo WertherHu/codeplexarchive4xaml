@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slg50",
+  "Title": "Silverlight 5 Property Grid",
+  "Description": "Visual Studio Style PropertyGrid for Silverlight 5.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\n<h2>Project Description</h2>\r\nVisual Studio Style PropertyGrid for Silverlight 5.<br />\n<ul><li>Built against the <b>Silverlight 5.0</b></li>\n<li>Component Model\n<ul><li>Includes a complete Type Descriptor implementation</li>\n<li>Component Model Attributes (like password and parenthesis)</li>\n<li>Type Converters</li></ul></li>\n<li>UI enhancements\n<ul><li>Keyboard navigation and shortcuts</li>\n<li>Collection Editors</li>\n<li>Multiline String Editor</li>\n<li>Many more editors included</li></ul></li>\n<li>TODO: Finish documentation</li></ul>\n\n<h2>Project review</h2>\r\nWe were looking for a VS Style Property Grid and came across the SLPropertyGrid from Denis Vuyka <a href=\"http://slpropertygrid.codeplex.com/\">Original Article</a> which was perfect, but didn&#39;t like the standard SL Layout, so this is a result of our UI modifications. It no longer uses DataTemplates but custom ContentControls making it easy to customize and taylor to suite anyone&#39;s needs.<br /><br /><br /><b>New Look</b><br /><img src=\"/projects/slg50/a36d2315-27cc-4936-bded-dad8604e55d4\" alt=\"slg50-01.png\" title=\"slg50-01.png\" /><br /><br /><b>Search Bar and Sorting</b><br /><img src=\"/projects/slg50/4d86acfe-1b89-48a1-b8c1-263e6e740290\" alt=\"slg50-02.png\" title=\"slg50-02.png\" /><br /><br /><br /><b>Collection Editor</b><br /><img src=\"/projects/slg50/06bcf872-38d8-422e-95d0-f5fc010a2b74\" alt=\"slg50-03.png\" title=\"slg50-03.png\" /><br /><br /><br /><b>Color Editor</b><br /><img src=\"/projects/slg50/80a3b872-75e8-421a-a752-ea073984c7c3\" alt=\"slg50-04.png\" title=\"slg50-04.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-01-28T17:04:06.19-08:00"
+}

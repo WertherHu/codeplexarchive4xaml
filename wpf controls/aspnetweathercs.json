@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspnetweathercs",
+  "Title": "A FREE and SIMPLE ASP.NET weather control you can customize (C#)",
+  "Description": "This is a weather control originally written by Leon Amarant in VB. I converted it to C# for my own use. I am providing it here for others to use but I do not support it in any way. \n\nHis original VB version can be found here:\nhttp://www.codeplex.com/aspnetweather",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>*** This project no longer works. Weather.com has discontinued their free weather feed. Feel free to learn how it works and convert it to use a different feed. ***</p>\r\n<p>This is a weather control originally written by Leon Amarant in VB. I converted it to C# for my own use. I am providing it here for others to use but I do not support it in any way.\r\n<br>\r\n<br>\r\nHis original VB version can be found here:<br>\r\nhttp://www.codeplex.com/aspnetweather</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "weather,User Control,weather.com,feed,xml,",
+  "LastEdited": "2011-11-07T13:59:36.4-08:00"
+}

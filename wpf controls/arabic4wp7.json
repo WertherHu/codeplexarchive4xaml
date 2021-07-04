@@ -1,0 +1,9 @@
+{
+  "ProjectName": "arabic4wp7",
+  "Title": "Arabic Library For WP7",
+  "Description": "This project provides a few features to support Arabic development on Windows Phone 7. \n1. Right-to-left controls.\n2. Keyboard that is hooked to these controls.\n3. Arabic engine that connects the letters and render them properly.\nCode should be ported easily to other languages.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Arabic 4 WP7<br /><br />This project provides controls for developing Arabic applications easily for Windows Phone 7. <br />It provides custom right-to-left controls that render arabic text properly and a keyboard that can be hooked to these controls to receive Arabic input. <br />It also includes some sample applications that use these controls.<br /><br />If you want to contribute, please join. We need developers/testers!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-16T12:37:04.533-08:00"
+}

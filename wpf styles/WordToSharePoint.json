@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WordToSharePoint",
+  "Title": "Word To SharePoint (Transform Word Documents to MOSS / WSS)",
+  "Description": "A SharePoint Feature for easy conversion of Word 2007 documents to Sharepoint/MOSS. The solution also extracts, transfers and re-links images to a selected ImageLibrary, includes styles, tables, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A SharePoint Feature for easy conversion of Word 2007 documents to Sharepoint&#47;MOSS. The solution also extracts, transfers and re-links images to a selected ImageLibrary, includes styles, tables, etc.<br /><br /><br /><img src=\"/projects/WordToSharePoint/e583960b-c64f-4e78-b3fb-cbe845889cf0\" alt=\"WordToSharePoint.JPG\" title=\"WordToSharePoint.JPG\" /><br /><br />Produces:<br /><br /><img src=\"/projects/WordToSharePoint/2a953199-3d4c-4846-b770-fed5bbd73504\" alt=\"result.JPG\" title=\"result.JPG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Word,Sharepoint,Translation,transformation,transfer,MOSS,Word to Sharepoint,wiki,Microsoft Office,Docx,",
+  "LastEdited": "2009-08-31T17:13:23.11-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "responsivetheme",
+  "Title": "Orchard Responsive Theme Machine",
+  "Description": "A responsive version of the Orchard CMS \"Theme Machine\" which is commonly used as a starting point for building custom themes. Supports many resolutions.",
+  "MovedLink": "https://github.com/planettelexinc/responsivethememachine",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>by <a href=\"http://www.planettelex.com\">Planet Telex</a></h2>\rA responsive version of the Orchard CMS &#34;Theme Machine&#34; which is commonly used as a starting point for building custom themes. Supports many resolutions.<br /><br /><img src=\"http://www.planettelex.com/Media/Default/products/orchard-cms-theme-machine-responsive/screenshot.png\" /><br />\n<h1><a href=\"http://responsivetheme.planettelex.net\">View Live Demo</a></h1>\r\n<h2>Requirements:</h2>\r<ul><li>Orchard CMS 1.6 - 1.8</li></ul>\n\n<h2>Resolutions:</h2>\r\n<ul><li>Base (All devices)</li>\n<li>Mobile devices (iPhone, Android phones)\n<ul><li>Portrait view (320px screen width)</li>\n<li>Landscape view (480px screen width)</li></ul></li>\n<li>Small tablets like Kindle Fire, Nook, etc. (600px screen width)</li>\n<li>Large Tablet devices in portrait like iPad, Android tablets (768px screen width)</li>\n<li>Large Tablets in Landscape/Laptop computers (1004px screen width)</li>\n<li>Desktop computers (1280px screen width)</li>\n<li>Widescreens (1400px screen width)</li></ul>\n\n<h2>Quick Start:</h2>\r\n<ol><li><a href=\"https://responsivetheme.codeplex.com/downloads/get/634105\">Download the latest package</a> and install it on an Orchard CMS instance.</li>\n<li>Go to &quot;Themes&quot; in the Orchard admin menu and click the &quot;Set Current&quot; button under &quot;The Theme Machine Responsive&quot;.</li>\n<li>Rename and modify to suit your custom design.</li></ol>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-03-31T21:06:04.25-07:00"
+}

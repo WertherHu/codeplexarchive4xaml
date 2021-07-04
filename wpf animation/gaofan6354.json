@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gaofan6354",
+  "Title": "MyHandsCursor 1.0",
+  "Description": "MyHandsCursor is a demo application that uses the Kinect for Windows SDK 1.7 .",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MyHandsCursor is a demo application that uses the Kinect for Windows SDK 1.7 .<br /> <br />MyHandsCursor is a demo application that uses the Kinect for Windows SDK 1.7 and its skeletal tracking features to allow a user to use their hands to control the Windows mouse cursor.<br /><br />Updated for Kinect for Windows SDK v1.7!<br />\n<ul><li>MOUSE MOVE </li>\n<li>MOUSE LEFTDOWN </li>\n<li>MOUSE LEFTUP </li>\n<li>MOUSE RIGHTDOWN </li>\n<li>MOUSE RIGHTUP   </li></ul>\n<br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Kinect,Mouse,Cursor,Touch,C#,WPF,",
+  "LastEdited": "2013-06-18T03:37:47.307-07:00"
+}

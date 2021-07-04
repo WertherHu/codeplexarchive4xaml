@@ -1,0 +1,9 @@
+{
+  "ProjectName": "highlighteditor",
+  "Title": "Highlight Syntax Editor",
+  "Description": "Syntax Editor is text editor for displaying text content that need extra formatting (text highlighting). It is completely written in C#.\r\n\r\nWith this text editor, you can make use of one of the predefined highlight styles, like C# or Java, or create your own custom syntax.\r\n\r\nSyntax Editor features rich set of properties which makes it easy to adjust this component's look to fit your forms. It also exposes all significant properties one editor should have like caret position, undo operation, clipboard operations, etc. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Syntax Editor is text editor for displaying text content that need extra formatting &#40;text highlighting&#41;. It is completely written in C&#35;.<br /><br />With this text editor, you can make use of one of the predefined highlight styles, like C&#35; or Java, or create your own custom syntax.<br /><br />Syntax Editor features rich set of properties which makes it easy to adjust this component&#39;s look to fit your forms. It also exposes all significant properties one editor should have like caret position, undo operation, clipboard operations, etc. <br /><br /><b>Note</b><br />Hello, people. Here is the piece of code I&#39;ve been working on couple years ago, trying to improve my knowledge of .NET platform. Feel free to use this code for your own work or for educational purpose. This is initial upload, therefore you may notice a number of things missing - hopefully, you&#39;ll understand the circumstances under which this was developed.<br /><br />The project was initially developed for .NET Framework 1.1, as Visual Studio 2003 project.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "editor,syntax highlight,C#,",
+  "LastEdited": "2011-07-09T02:12:24.75-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "soapics",
+  "Title": "SOAPI.CS",
+  "Description": "Soapi.CS is a C# wrapper with full coverage of the Stack Overflow API. \n\nSoapi.CS is intuitive, fully documented and runs on .Net 3.5/4.0, Silverlight 3/4, Windows Phone 7 and Mono",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Soapi.CS is a C&#35; wrapper with full coverage of the Stack Overflow API. <br /><br />Soapi.CS is intuitive, fully documented and runs on .Net 3.5&#47;4.0, Silverlight 3&#47;4, Windows Phone 7 and Mono<br /><br />For now, see <a href=\"http://stackapps.com/questions/386\">http://stackapps.com/questions/386</a> for more info.<br /><br />codeplex keeps messing up the repo and making it impossible to check in.<br />\n<h3>source is @ <a href=\"http://bitbucket.org/bitpusher/soapi.cs\">http://bitbucket.org/bitpusher/soapi.cs</a></h3></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Stackoverflow,",
+  "LastEdited": "2010-09-05T12:24:22.397-07:00"
+}

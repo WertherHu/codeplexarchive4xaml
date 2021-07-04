@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFObjectTreeView",
+  "Title": "WPF Object Tree view project",
+  "Description": "This project is based on Zachary Yates stackoverlow answer.\r\n\r\nA great tool to display any .net object in a tree view.\r\n\r\nhttp://stackoverflow.com/questions/3668802",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project is based on Zachary Yates stackoverlow answer.<br /><br />A great tool to display any .net object in a tree view.<br /><br /><a href=\"http://stackoverflow.com/questions/3668802/looking-for-an-object-graph-tree-view-control-for-wpf\">http://stackoverflow.com/questions/3668802/looking-for-an-object-graph-tree-view-control-for-wpf</a><br /><br />I just copied and build the project so it&#39;ll be downloadable and easily used for the benefit of all.<br /><br />Enjoy.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-26T00:07:15.587-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fxcgui",
+  "Title": "FXC GUI",
+  "Description": "FXC GUI is simple GUI for Microsoft DirectX Effect Compiler (fxc.exe). ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>FXC GUI</h1>\r<b>FXC GUI</b> is a GUI for Microsoft DirectX FX Compiler. Instead of using Command line you can use GUI and compile your shaders easily. <br /><br /><b>Why author created this?</b><br />As many of you may know Microsoft started to support DirectX in Windows Store applications and in Windows Phone applications. However, they miss some of the main classes to compile shaders dynamically.<br /><br /><b>Do I have to use it if I am developing games?</b><br />No, you don&#39;t have to. If you like you can still compile shaders using command line, or any other way that is possible. To read more about command line interface head to <a href=\"http://msdn.microsoft.com/en-us/library/windows/desktop/bb509710(v=vs.85).aspx\">http://msdn.microsoft.com/en-us/library/windows/desktop/bb509710(v=vs.85).aspx</a><br /><br /><b>Is it free?</b><br />FXC GUI is totally free and open source. You can use it without even giving credit.<br /><br /><b>Can I change the layout/code?</b><br />YES, you can. I will even like that you will create patch and publish it.<br /><br /><b>What&#39;s next?</b><br />I am planning to write Visual Studio add-in so compile shader option will appear in the context menu.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "FXC,Game Development,Shaders,GUI,Compiler,DirectX,",
+  "LastEdited": "2014-02-07T03:01:17.363-08:00"
+}

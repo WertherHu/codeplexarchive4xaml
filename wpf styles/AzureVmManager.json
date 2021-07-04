@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AzureVmManager",
+  "Title": "Azure VM Manager",
+  "Description": "Azure Vm Manager is a desktop-style GUI application build with Windows Presentation Foundation. It is intended to provide a convent  way to manage AzureVMs.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The Azure VM manager will give Windows Azure Virtual Machine users a GUI for:\n<ul><li>Stopping and starting Windows Services VMs</li>\n<li>Viewing SQL Databases Running on Windows Azure VMs</li>\n<li>Stoping and starting VMs on a schedule</li>\n<li>Attaching a data disk to a VM.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-04-28T16:52:58.797-07:00"
+}

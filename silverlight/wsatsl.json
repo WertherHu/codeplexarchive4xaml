@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wsatsl",
+  "Title": "ASP.Net/MVC Web Site Administration Tool",
+  "Description": "The Web Site Administration Tool is a simple tool which allows to manage Users, Roles, Profiles of your ASP.Net or ASP.Net MVC application. This is a Silverlight client connected to a set of WCF services which expose Membership, Authorization and Personalization APIs.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Web Site Administration Tool is a simple tool which allows to manage Users, Roles, Profiles of your ASP.Net or ASP.Net MVC application. This is a Silverlight client connected to a set of WCF services which expose Membership, Authorization and Personalization APIs.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-24T22:19:06.23-08:00"
+}

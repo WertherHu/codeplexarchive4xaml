@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cwuavltreedemo",
+  "Title": "CWU Animated AVL Tree Tutorial",
+  "Description": "This is a silverlight demo of a self-balancing AVL tree. On the original team were CWU undergraduates Eric Brown, Barend Venter, Nick Rushton, Arryan Ghazanfarpour, George Wanjiru, Kevin Hall, and Andrew Rose. We want to make the source available to help other students learn.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a silverlight demo of a self-balancing AVL tree. On the original team were CWU undergraduates Eric Brown, Barend Venter, Nick Rushton, Arryan Ghazanfarpour, George Wanjiru, Kevin Hall, and Andrew Rose. We want to make the source available to help other students learn.<br /><br />Please help yourself to the source code. If you just want to see the demo, the latest version should be up and running at http://avltutorial.info/<br /><br />Alternatively, grab the release in the downloads sections and open the included HTML file in your favorite browser.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-17T22:11:55.193-07:00"
+}

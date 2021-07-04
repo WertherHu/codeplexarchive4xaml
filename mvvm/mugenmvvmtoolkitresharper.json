@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mugenmvvmtoolkitresharper",
+  "Title": "Mugen MVVM Toolkit ReSharper plugin",
+  "Description": "ReSharper plugin for Mugen MVVM Toolkit.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Introduction</h2>\rMugen MVVM Toolkit ReSharper is a ReSharper plugin that helps with development in the following fields:\n<ul><li>The ability to automatically implement the <b>IView</b> interface.</li>\n<li>The ability to navigate from <b>view</b> to <b>view model</b> and from <b>view model</b> to <b>view</b>. By now, ReSharper plugins are not able to register hotkeys after installation (because of VS integration issues). You can assign keyboard shortcut manually by using VisualStudio&#39;s Tools - Options - Environment - Keyboard dialog, just find &quot;ReSharper_GoToViewViewModel&quot; action.</li>\n<li>The ability to add design data context (<b>d:DataContext</b>) depending on the <b>ViewModel</b> or <b>PageViewModel</b> attribute.</li>\n<li>Make classes to inherits from classes that marked by <b>BaseViewModel</b> attribute.</li>\n<li>Make classes to implements the interfaces that marked by <b>BaseView</b> attribute.</li>\n<li>The ability to auto-complete and validate model properties.</li>\n<li>The ability to wrap a <b>view model</b> to a custom wrapper.</li>\n<li>The ability to auto-implement the <b>ICloseableViewModel</b> and <b>INotifyViewModelClosing</b> interfaces.</li>\n<li>Expose model properties as view model ones.</li>\n<li>Analyzer for <b>Task</b> members that was not handled by using the <b>WithBusyIndicator</b> method.</li>\n<li>Check for arguments using the <b>Should</b> class.</li>\n<li>Analyzers for specific cases based on Toolkit.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-10-28T09:24:38.76-07:00"
+}

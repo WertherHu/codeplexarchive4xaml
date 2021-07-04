@@ -1,0 +1,9 @@
+{
+  "ProjectName": "riacrm",
+  "Title": "RiaCRM",
+  "Description": "RiaCRM is an Silverlight Frontend for Microsoft Dynamics CRM 4.0 to combine the power of rich client applications with the power of Dynamics CRM. All customizations, permissions etc. set in CRM are supported by the RiaCRM UI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />RiaCRM is an Silverlight Frontend for Microsoft Dynamics CRM 4.0 to combine the power of rich client applications with the power of Dynamics CRM. All customizations, permissions etc. set in CRM are supported by the RiaCRM UI.<br /><br /><br />Initial Release: Build on top of Silverlight 2 RTM and standard user controls.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,crm,CRM 4.0,CRM 4.0 Accelerators,RIA,",
+  "LastEdited": "2008-12-01T04:53:03.997-08:00"
+}

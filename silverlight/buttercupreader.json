@@ -1,0 +1,9 @@
+{
+  "ProjectName": "buttercupreader",
+  "Title": "ButtercupReader",
+  "Description": "ButtercupReader is a Silverlight application that can display and read digital books in DAISY format. ButtercupReader includes lots of examples of accessibility features including colour usage, zooming, UIAutomation, gestures, self-voicing and more.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ButtercupReader is a Silverlight application that can display and read digital books in DAISY format. ButtercupReader includes lots of examples of accessibility features including colour usage, zooming, UIAutomation, gestures, self-voicing and more.<br /><br />The first public release of ButtercupReader has been deployed to <a href=\"http://www.buttercupreader.net\">http://www.buttercupreader.net</a>.<br /><br />There&#39;s also a blog <a href=\"http://www.buttercupreader.net/blog\">http://www.buttercupreader.net/blog</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Accessibility,",
+  "LastEdited": "2009-09-17T03:06:32.88-07:00"
+}

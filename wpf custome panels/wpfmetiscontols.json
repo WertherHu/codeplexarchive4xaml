@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfmetiscontols",
+  "Title": "WpfMetisControls",
+  "Description": "Here will be published controls for image processing like splitting images, deskewing, finding content area.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Here will be published controls for image processing like splitting images, deskewing, finding content area.<br /><br /><br />I&#39;m planning to publish here my controls. It will be 3 of them: Split Control, Deskew Control, Content control.<br /><br />Split control:<br /><img src=\"/projects/wpfmetiscontols/c7f3b4a4-a39b-4333-b8c7-950cb8bdaf5d\" alt=\"view.png\" title=\"view.png\" /><br />Sample app:<br /><a href=\"/projects/wpfmetiscontols/d3f82b9a-815d-46d0-ae61-a0eeb3e2a9c8\">Example.7z</a><br /><br />Split control is providing opportunity to show/change middle line on image which contains two sub-images. This control is using three parameters: Middle, Theta (angle of the line), Size of the image (parameter is possibly redundant, maybe will be removed).<br /><br />I hope that somebody will check my code for improvements or help with developing controls.<br />I&#39;ve chosen great ZoomControl from <a href=\"http://wpfextensions.codeplex.com/\">http://wpfextensions.codeplex.com/</a> as base control for all my UserControls.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,C#,C# 4.0,WPF Custom Control,WPF 4.0,",
+  "LastEdited": "2012-01-13T13:50:45.887-08:00"
+}

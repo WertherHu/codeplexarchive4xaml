@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sticklove",
+  "Title": "Stick Love",
+  "Description": "Stick Love,based on ASP.NET, Ajax,Silverlight technology and Azure Services Platform, helps you to express your mind with simple stick drawings.\nYou can simply share your masterpiece with  friends by a url address.\nWhat's more,Playback feature is supported!\nhttp://y.cloudapp.net",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Stick Love,based on ASP.NET, Ajax,Silverlight technology and Azure Services Platform, helps you to express your mind with simple stick drawings.<br />You can simply share your masterpiece with  friends by a url address.<br />What&#39;s more,Playback feature is supported&#33;<br />http&#58;&#47;&#47;y.cloudapp.net<br /><br /><br /><b>Stick Love</b> is a cloud based software - also sometimes called software as a service.<br /><br />We use following technologies:\n<ul><li>ASP.NET 3.5</li>\n<li>ASP.NET AJAX</li>\n<li>LINQ</li>\n<li>Silverlight 2.0</li>\n<li>Windows Azure</li>\n<li>SQL Data Services</li></ul>\n<br />You can play with it right now!  <b><a href=\"http://Y.cloudapp.net\">http://Y.cloudapp.net</a></b><br />Some demos here: (demos may help you to get a quick view of our Stick Love project.)\n<ul><li><a href=\"http://y.cloudapp.net/v.aspx?d=3882205000000\">http://y.cloudapp.net/v.aspx?d=3882205000000</a></li>\n<li><a href=\"http://y.cloudapp.net/v.aspx?d=3275062198262\">http://y.cloudapp.net/v.aspx?d=3275062198262</a></li></ul>\n(Add some comments to these demos if you wish. o(∩_∩)o)<br />\n<h2>Screenshots</h2>\r<img src=\"/projects/sticklove/4ca650eb-dd3f-4977-b58a-e882d28128dd\" alt=\"1.jpg\" title=\"1.jpg\" /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "sds,Azure,.NET Service,SQL Data Services,",
+  "LastEdited": "2009-04-24T10:29:01.81-07:00"
+}

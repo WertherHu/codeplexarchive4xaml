@@ -1,0 +1,9 @@
+{
+  "ProjectName": "central",
+  "Title": "Central",
+  "Description": "This a WPF project that implements PRISM with MEF as the IoC. This is an IDE  with a modern UI where developers can run and centralize all their different apps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Central </b><br /><br />This a WPF project that implements PRISM with MEF as the IoC. This is an IDE  with a modern UI where developers can run and centralize all their different apps.<br /><br />This project is currently in beta and a Nuget Package is being created to speed up the implementation of apps using Central framework.<br /><br /><img src=\"/projects/central/23150968-68ad-44ae-99cd-dd04d50016ad\" alt=\"Untitled.png\" title=\"Untitled.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Prism,MEF,AvalonDock for WPF,AvalonDock,Elysium,",
+  "LastEdited": "2012-10-22T09:07:04.877-07:00"
+}

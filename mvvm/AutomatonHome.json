@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AutomatonHome",
+  "Title": "Automaton Home",
+  "Description": "Automaton is a home automation software built with a n-Tier, MVVM pattern utilzing WCF, EF, WPF, Silverlight and XBAP.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Automaton is a home automation software built with a n-Tier, MVVM pattern utilzing WCF, EF, WPF, Silverlight and XBAP.<br /><br /><br /><b>DEAD PROJECT</b><br /><i>Obviously this project repository has not been updated in (I can&#39;t believe it) 6 years.  I&#39;ve since moved on to modern options for home automation, where a lot less code is required and obviously... ew WPF and SOAP!  Ya, I still have Automaton Home, but not this code base</i><br /><br /><br />Automaton is my pet project which  I&#39;m using as a spring board to learn MVVM patterns for WPF, with SOA using STE and EF4.<br />It&#39;s purpose is Home Automation.  For the moment, I&#39;m using an Insteon PLC from SmartLabs and their software service called SDM to interface with it.  I hope to expand support for additional Controllers and eliminate SDM requirement in the future.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-10-05T13:32:25.15-07:00"
+}

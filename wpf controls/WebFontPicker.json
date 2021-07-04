@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WebFontPicker",
+  "Title": "OpenSource.Web.FontPicker",
+  "Description": "This is a web based font picker control for ASP.NET . It has been designed to be the same as the Windows font picker dialog. Now it only works in IE.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a web based font picker control for ASP.NET . It has been designed to be the same as the Windows font picker dialog. Now it only works in IE.<br /><br />I am creating a complex web project. During this, I created some useful components and I thought it&#39;s good to share them with others. this is one of them. The others will be coming soon.<br />Surly it has so many lacks and I need your help to improve it. So feel free to send me bug reports and suggestions. I&#39;ll be happy if you can fix the bugs yourself and send me the source code.<br />Thanks.<br /><i>Mahmood Dehghan</i><br /><i>8/12/2007</i><br /><br />Other projects are :\n<ul><li>WebToolbar : <a href=\"http://www.codeplex.com/WebToolbar\">http://www.codeplex.com/WebToolbar</a></li>\n<li>Web ColorPicker</li>\n<li>CompressedList</li>\n<li>RTF Writer</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET Control,",
+  "LastEdited": "2007-08-18T01:01:13.273-07:00"
+}

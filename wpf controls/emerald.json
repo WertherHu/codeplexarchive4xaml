@@ -1,0 +1,9 @@
+{
+  "ProjectName": "emerald",
+  "Title": "Emerald",
+  "Description": "Emerald is an ASP.NET forum web application.\n\nThe project goal is to provide a fully operational forum with decent functionality using the latest Microsoft technologies.\n\nIt is developed in C#/ASP.NET 3.5 and using the latest AJAX controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Emerald is an ASP.NET forum web application.<br /><br />The project goal is to provide a fully operational forum with decent functionality using the latest Microsoft technologies.<br /><br />It is developed in C&#35;&#47;ASP.NET 3.5 and using the latest AJAX controls.<br /><br /><b>Note</b><br />This project is a relaunch of a previous alpha project (<a href=\"http://www.codeplex.com/myforum\">http://www.codeplex.com/myforum</a>) abandoned due to a lack of time. MyForum will be deleted as soon as the first release of Emerlad will be on the rails.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,LINQ,ASP.NET,C#,AJAX Control Toolkit,N-Tier,Forum,",
+  "LastEdited": "2009-02-16T02:16:46.097-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "campaint",
+  "Title": "CamPaint .NET",
+  "Description": "CamPaint - web-camera capture or open file from disk and paint over with Microsoft Ink Tools. Software is adapted for touch screen interface. Developed with VB.NET and WPF, uses Framework 4.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CamPaint - web-camera capture or open file from disk and paint over with Microsoft Ink Tools. Software is adapted for touch screen interface. Developed with VB.NET and WPF, uses Framework 4.<br /><br /><b>Useful code samples:</b>\n<ul><li>WPF and UI animation, camera view and capture, file drag and drop, .NET Ink tools, color capture, image file saving</li></ul>\n<br /><img src=\"http://farm7.static.flickr.com/6056/6241214578_fe7e8627f9_z.jpg\" /><br /><br /><img src=\"http://farm7.static.flickr.com/6180/6241214800_cabfa95aa0_z.jpg\" /><br /><br /><b>Basic features</b>:\n<ul><li>web-camera image capture</li>\n<li>painting over</li>\n<li>image saving</li></ul>\n<br /><b>Version 1.2 new features</b>:\n<ul><li>drag-and-drop images to application</li>\n<li>window move support</li>\n<li>few interface and file saving fixes</li></ul>\n<br /><b>Future versions features</b>: \n<ul><li>picture emailing (facebooking, twittering), </li>\n<li>better brush selection interface, </li>\n<li>drag-out for save file, </li>\n<li>save/load ink strokes, </li>\n<li>desktop image capture </li></ul>\n<br /><img src=\"http://farm6.static.flickr.com/5186/5678955643_d70e86e3ae_z.jpg\" /><br /><br /><img src=\"http://farm6.static.flickr.com/5225/5679515602_991816d35a_z.jpg\" /><br /><br /><img src=\"http://farm6.static.flickr.com/5227/5679515552_be6d9a2b10_z.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-06T06:06:44.233-08:00"
+}

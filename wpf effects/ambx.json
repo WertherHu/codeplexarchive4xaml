@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ambx",
+  "Title": "amBX For VB.net",
+  "Description": "A pure VB.net library for accessing the objects that make up the amBX pc ambience effects controller API.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A pure VB.net library for accessing the objects that make up the amBX pc ambience effects controller API.<br /><br /><br />To run this project you&#39;ll need to install the amBX driver system, downloadable at <a href=\"http://www.ambx.com\">http://www.ambx.com</a>.<br /><br />You&#39;ll also want to get the amBX developer SDK, at <a href=\"http://developer.ambx.com\">http://developer.ambx.com</a>.<br /><br />If you don&#39;t have an actual amBX device, you can use the Virtual amBX Test Device (part of the SDK) to visualize the effects you&#39;re generating. Not quite the same as the real thing, but it works.<br /><br />Be aware that the test project is compiled as an x86 project (32bit). If you compile it as x64 or &quot;Any CPU&quot;, the resulting executable will likely not run under a 64bit os (I haven&#39;t tried it, but with all the low-level stuff going on, a failure wouldn&#39;t surprise me).<br /><br />Please let me know if you have any questions, comments, suggestions, etc.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-09T08:56:16.293-08:00"
+}

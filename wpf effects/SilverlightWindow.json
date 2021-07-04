@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightWindow",
+  "Title": "Silverlight Window",
+  "Description": "Silverlight Window helps you to simulate the WPF Window behavior in  Microsoft Windows Explorer. It supports Drag&Drop, Resize, Maximize&Minimize and some other features. And you can design WallPaper, StartMenu, TaskBar, TrayArea for the \"Explorer\".",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Window helps you to simulate the WPF Window behavior in  Microsoft Windows Explorer. It supports Drag&#38;Drop, Resize, Maximize&#38;Minimize and some other features. And you can design WallPaper, StartMenu, TaskBar, TrayArea for the &#34;Explorer&#34;.<br /><br /><br />This project can help silverlight developers to implement WPF window features, there is an &quot;Explorer&quot; to manage all forms.<br /><br />The explorer supports:<br />- Wallpaper<br />- Desktop Shortcut<br />- Taskbar<br /><br /><br />The form supports:<br />- Title<br />- Icon<br />- TrayArea Icon<br />- Drag&amp;Drop<br />- Resize<br />- Maximise&amp;Revert&amp;Minimize<br />- Some other features of WPF Window class</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Windows,Silverlight Window,",
+  "LastEdited": "2009-08-07T22:22:19.14-07:00"
+}

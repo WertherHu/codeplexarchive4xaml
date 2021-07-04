@@ -1,0 +1,9 @@
+{
+  "ProjectName": "NextDocsCorp",
+  "Title": "LifeInSharepoint Modern UI Update",
+  "Description": "Modern UI theme to build on top of Sharepoint 2010",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Modern UI theme to build on top of Sharepoint 2010<br /><br />This project is built upon https://lifeinsharepoint.codeplex.com/.  It provides a Modern UI interface that can be applied to Sharepoint 2010. It adds functionality on top of the LifeInSharepoint project to provide more customization options to the end user.  This includes adding a separate .css file in the Style Library in Sharepoint so that users can more easily change the colors of the theme beyond initial three colors provided. It removes the color options in configuration page that the original project had and sets default values for the common layout elements. It also has other small changes to the sizes of UI components with other general bug fixes as well. <br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-02T11:36:34.22-07:00"
+}

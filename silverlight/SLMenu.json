@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SLMenu",
+  "Title": "Silverlight Menu Control",
+  "Description": "This is a cutom silverlight menu control.  It's very simple to use and can save you ton of time making your own menu control.\n\nThe download contains a full documentation on how to use it.\n\n*New: added support for nested menus.*",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a cutom silverlight menu control.  It&#39;s very simple to use and can save you ton of time making your own menu control.<br /><br />The download contains a full documentation on how to use it.<br /><br />&#42;New&#58; added support for nested menus.&#42;<br /><br /><br />The control is skinnable. You can see a demo here: <a href=\"http://mher.info/SLMenu\">http://mher.info/SLMenu</a><br /><br /><img src=\"http://mher.info/SLMenu/screen.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight Controls,Silverlight,",
+  "LastEdited": "2011-11-14T08:51:53.95-08:00"
+}

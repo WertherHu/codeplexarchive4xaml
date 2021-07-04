@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gpcmpi",
+  "Title": "cloudMPI: A framework for MPI-style applications on Azure cloud platform",
+  "Description": "MPI for Azure cloud platform",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Message Passing Interface (MPI) has been the predominant standardized system for writing parallel and distributed applications. However, while MPI has been the software system of choice for traditional parallel and distributed computing platforms such as large compute clusters and Grid, MPI is not the system of choice for cloud platforms. The primary reason for this is the requirement for low latency high bandwidth network capabilities of the underlying system. Prior studies suggest that the message latency of cloud platforms could be as much as 35X slower than that of an infiniband-connected cluster\\cite{zhai2011} for popular MPI implementations. Interestingly, most of the cloud vendors provide APIs to access cloud resources in an efficient manner different than how an MPI implementation would avail those resources. In this paper we present cloudMPI, a framework for Windows Azure cloud platform that allows application developers to write MPI-like applications without sacrificing the performance. Our framework design leverages the APIs offered by the platform to maintain the performance yet abstracts the complexities of learning the intricacies of the cloud platform. An application developer familiar with MPI could easily port existing MPI applications to the Azure cloud platform with minimum code changes. We compare the performance of cloudMPI framework against the same application from geographic information system and sciences (GIS) domain written using Azure APIs to demonstrate the efficient performance and programmer productivity aspects. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-04-04T18:04:32.087-07:00"
+}

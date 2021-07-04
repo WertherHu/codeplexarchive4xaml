@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Solitaire",
+  "Title": "Solitaire",
+  "Description": "Solitaire engine primarily intended for extension to various types of card games. Rudimentary drawing in WPF. Current version adds smoother animations.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Solitaire program with engine for adding soltiaire games. <br />Drawing done completely in WPF, but it should be simple to abstract to other drawing engines.<br />Done completely in C#.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-10-16T09:46:24.017-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xslt",
+  "Title": "XSLTWebControl",
+  "Description": "XSLTWebControl is a custom asp.net control that generates a dynamic UI based on XSLT to display XML data and let users edit it.\r\nIt is developed in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">XSLTWebControl is and ASP.NET custom control developed to give developer possibility to use XSLT to make dynamic user interface. It more possibilties than just displaying an html block. user can enter data and the control can return it back to server during post-backs.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-05T20:55:39.29-07:00"
+}

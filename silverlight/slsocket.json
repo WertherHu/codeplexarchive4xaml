@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slsocket",
+  "Title": "Windows Phone Socket Library",
+  "Description": "Silverlight socket library for use with Windows Phone 7 Mango. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight socket library for use with Windows Phone 7 Mango. <br /><br />This is a simple socket library to help people who want to use the TCP/IP services made available in Mango. In its current state, it is not much more than the code found in the MSDN tutorial. A lot of work has been planned for this, so keep checking back for more versions.<br /><br /><b>NOTE:</b> UDP support will be in the next update.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-07T10:02:35.99-07:00"
+}

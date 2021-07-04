@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spconfigdbreader",
+  "Title": "SharePoint Configuration Database Reader",
+  "Description": "The application for reading SharePoint configuration database:\r\n1. View the class hierarchy.\r\n2. Viewing the hierarchy of objects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The application for reading SharePoint configuration database&#58;<br />1. View the class hierarchy.<br />2. Viewing the hierarchy of objects.<br /><br /><img src=\"/projects/spconfigdbreader/43fed288-03cd-4ad5-9381-0180ee5eca18\" alt=\"Classes.PNG\" title=\"Classes.PNG\" /><br /><br /><img src=\"/projects/spconfigdbreader/6bfdfb3e-afda-431b-934f-93e5d2f0d7bb\" alt=\"Objects.PNG\" title=\"Objects.PNG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,SharePoint 2013,SharePoint,SharePoint 2010,SharePoint Tools,",
+  "LastEdited": "2016-03-08T11:08:10.07-08:00"
+}

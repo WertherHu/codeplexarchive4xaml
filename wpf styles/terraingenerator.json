@@ -1,0 +1,9 @@
+{
+  "ProjectName": "terraingenerator",
+  "Title": "Procedural 2D terrain generator",
+  "Description": "Small application used for procedurally generating a terrain for a one-level 2D tilemap.\r\n\r\nMakes use of \"ant\" style algorithms for randomly generating the terrain.\r\n\r\nIt's made in VB.NET: Idea is for others to reproduce the algorithms in their language / game engine of choice.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Small application used for procedurally generating a terrain for a one-level 2D tilemap.<br /><br />Makes use of &#34;ant&#34; style algorithms for randomly generating the terrain.<br /><br />It&#39;s made in VB.NET&#58; Idea is for others to reproduce the algorithms in their language &#47; game engine of choice.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-26T03:52:17.68-08:00"
+}

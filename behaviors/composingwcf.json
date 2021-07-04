@@ -1,0 +1,9 @@
+{
+  "ProjectName": "composingwcf",
+  "Title": "Composing Wcf",
+  "Description": "Basic library providing a service host and service behavior capable of utilizing MEF for runtime composition of WCF SOAP and REST web services.  Library provides composing Hosts and Host Factories for standard ServiceHost types, as well as WebServiceHost (RESTful).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Easy MEF composition for both SOAP and REST WCF services.</b><br /><br />Simply put, Composing WCF is nothing more than a host, host factory, instance provide, and service behavior that does all of the composition heavy lifting for WCF services.<br /><br />Included in the source solution:\n<ul><li>WcfComposition source code - providing REST and SOAP composition services</li>\n<li>Unit Tests - gotta test the code...</li>\n<li>Self- hosting console demo.</li>\n<li>IIS Hosted SOAP demo (though the REST implementation is not a huge change).</li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-08T21:44:37.537-08:00"
+}

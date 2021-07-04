@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MVVM",
+  "Title": "Model View ViewModel AdventureWorks",
+  "Description": "This is a sample starter kit for Visual Studio 2008, which exposes the pattern MVVM (Model View ViewModel) using WPF, C# 3.5 and Linq to SQL as the data repository.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Model View ViewModel AdventureWorks starter kit.</h2>\r\n<b>Author</b> : Raffaeu (Raffaele Garofalo)<br />               MCAD, MCSD, MCTS<br /><b>Blog</b> : <a href=\"http://blog.raffaeu.com\">http://blog.raffaeu.com</a><br /><br /><b>Description:</b><br /><br />This project is a WPF Visual Studio 2008 solution that shows how to build a RIA application with WPF and Linq to SQL, using the common patterns like MVVM (Model View ViewModel) and more.<br />If you want to follow the complete tutorial you can go to my web site: <a href=\"http://blog.raffaeu.com\">http://blog.raffaeu.com</a>.<br />If you need more information about the MVVM model, please go here: <a href=\"http://msdn.microsoft.com/en-us/magazine/dd419663.aspx\">http://msdn.microsoft.com/en-us/magazine/dd419663.aspx</a><br /><br /><b>The pattern</b><br /><br /><img src=\"http://blog.raffaeu.com/Images/blog_raffaeu_com/WindowsLiveWriter/WPFandVMMVtutorial01TheDataModel_F169/image.png\" /><br /><br /><b>Prerequisites</b>:<br />\n<ul><li>Visual Studio 2008 SP1 </li>\n<li>SQL Server Express 2008</li>\n<li>WPF basic design knowledge (Layout, Data binding, Template and Style)</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,",
+  "LastEdited": "2009-06-07T09:52:40.383-07:00"
+}

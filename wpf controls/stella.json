@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stella",
+  "Title": "Stella",
+  "Description": "Stella ayuda a mejorar tu negocio permitiendote tener un control total sobre los movimientos de la empresa. No necesitas nada mejor que esto. Desarrollado en C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Descripci&#243;n del proyecto</b><br />Stella ayuda a mejorar tu negocio permitiendote tener un control total sobre los movimientos de la empresa. No necesitas nada mejor que esto. Desarrollado en C&#35;.<br /><br />Stella es un sistema desarrollado en C# 2010 con el fin de facilitar la administraci&#243;n y la toma de decisiones para peque&#241;as y medianas empresas. Consiste b&#225;sicamente de dos m&#243;dulos principales:<br />1.- Sistema de ventas<br />2.- Control de stock<br />Stella analiza la informaci&#243;n recabada de estos dos m&#243;dulos y genera un resumen de la empresa mensualmente, para as&#237; generar un mapa global del negocio, y ayudar a la toma de decisiones.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-05T17:50:35.36-08:00"
+}

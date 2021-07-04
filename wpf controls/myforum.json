@@ -1,0 +1,9 @@
+{
+  "ProjectName": "myforum",
+  "Title": "MyForum",
+  "Description": "MyForum is yet another forum web application. But this one differs from others in several points.\n\n- It's well organised in an n-tier architecture\n- It's written in C#/ASP.NET 3.5 and using the latest AJAX controls\n- It's using a Linq To Sql data layer\n- It's designed with CSS Friendly Adapters\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MyForum is yet another forum web application. But this one differs from others in several points.<br /><br />- It&#39;s well organised in an n-tier architecture<br />- It&#39;s written in C&#35;&#47;ASP.NET 3.5 and using the latest AJAX controls<br />- It&#39;s using a Linq To Sql data layer<br />- It&#39;s designed with CSS Friendly Adapters<br /><br /><br /><b>This project will be deleted soon, please redirect to Emerlad (http://www.codeplex.com/emerald) if you look after a forum web application</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "forum,MyForum,",
+  "LastEdited": "2009-02-16T01:48:06.217-08:00"
+}

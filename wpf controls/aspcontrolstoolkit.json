@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspcontrolstoolkit",
+  "Title": "ASP.Net MVC Controls Toolkit",
+  "Description": "This is open-source project for asp.net mvc controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nASP Controls Toolkit is a complete set of advanced server controls for ASP.NET&nbsp;<span>MVC.</span><br>\r\n<br>\r\nProject conains:</p>\r\n<ul>\r\n<li>accordian control </li><li>autocomplete control </li><li>datepicker control </li><li>window control </li><li>progressbar control </li><li>slider control </li><li>tabs control </li><li>splitter control </li><li>plot control with line, bars and pie charts </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-24T01:02:20.35-07:00"
+}

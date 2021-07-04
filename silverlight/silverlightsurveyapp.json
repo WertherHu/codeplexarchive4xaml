@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightsurveyapp",
+  "Title": "Silverlight Survey Application",
+  "Description": "A Silverlight-based online survey system. Designed for the academic community to perform research, especially psychological research, the code can be adapted to a variety of uses.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Silverlight-based online survey system. Designed for the academic community to perform research, especially psychological research, the code can be adapted to a variety of uses.<br /><br />This is a Silverlight based, academic survey tool. It allows for multiple conditions, automatically notifies participants, and allows downloading of data to Microsoft Excel. To see a sample of the application, go to <a href=\"http://www.modernresearch.org/ps/samples.aspx\">http://www.modernresearch.org/ps/samples.aspx</a>. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-11T18:05:24.117-08:00"
+}

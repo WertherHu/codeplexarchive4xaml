@@ -1,0 +1,9 @@
+{
+  "ProjectName": "eflforlua",
+  "Title": "Easing Library For Lua",
+  "Description": "Easing For Lua is a Library which brings easing effects to let you create realistic animations using Lua Programming Langage",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Easing For Lua</b> is a Library written in Lua wich brings you lots of easing effects you can use to animate almost everything.<br />These effects are based on <a href=\"http://robertpenner.com/easing\">Robert Penner&#39;s Easing equations</a>.<br />Animations can be based on time, or any other thing, like a number of steps.<br /><br /><u><b>Credits goes to:</b></u><br />\n<ul><li><a href=\"http://coderepos.org/share/browser/lang/javascript/jstweener/trunk/\">Yuichi Tateno&#39;s JavaScript Port of Tweener class</a></li>\n<li><a href=\"https://github.com/kikito/tween.lua\">Kikito&#39;s Tween Class</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Easing,tweening,tween,animation,",
+  "LastEdited": "2011-07-25T01:02:59.517-07:00"
+}

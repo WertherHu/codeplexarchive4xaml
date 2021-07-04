@@ -1,0 +1,9 @@
+{
+  "ProjectName": "3DChess",
+  "Title": "WPF 3D Chess Game",
+  "Description": "A WPF (Windows Presentation Foundation) 3D chess game.\n\nSupports AI or \"player vs. player\" game modes. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF &#40;Windows Presentation Foundation&#41; 3D chess game.<br /><br />Supports AI or &#34;player vs. player&#34; game modes. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "game,WPF 3D,Chess,WPF,3d,",
+  "LastEdited": "2008-04-10T10:14:09.56-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "omswater",
+  "Title": "OMS.Water - Bootstrapper",
+  "Description": "Water is a  prerequisite bootstrapper and installer chainer based on WiX Burn. With Water you can easily create sophisticated WPF bootstrapper applications with modern UI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2><strong>OMS.Water - Bootstrapper</strong></h2>\r\n<p>OMS.Water is a prerequisite bootstrapper and installer chainer based on WiX Burn. With OMS.Water you can easily create sophisticated WPF bootstrapper applications with modern UI.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WiX,Windows Installer,MSI,bootstrapper,Installer,MVVM,Burn,Windows InstallerXml,Managed bootstrapper,prerequisite,installer chainer,WPF,WPF Bootstrapper,.NET 4.0,.NET 3.5,Windows,C#,",
+  "LastEdited": "2012-02-22T00:58:30.437-08:00"
+}

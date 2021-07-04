@@ -1,0 +1,9 @@
+{
+  "ProjectName": "drawingcubeinwpf",
+  "Title": "Drawing a Cube in WPF",
+  "Description": "Example of simple 3D graphics in WPF, showing how to draw a cube.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Example of simple 3D graphics in WPF, showing how to draw a cube.<br /><br /><br /><br />This project contains all of the source code to go along with the following blog post:<br />  <a href=\"http://stuff.seans.com/2008/08/13/drawing-a-cube-in-wpf/\">Drawing a Cube in WPF</a><br /><br />Sean Sexton<br /><a href=\"http://stuff.seans.com\">Sean&#39;s Stuff</a><br /><a href=\"mailto:sean@seans.com\">sean@seans.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,3D Graphics,Cube,",
+  "LastEdited": "2009-06-26T09:18:03.073-07:00"
+}

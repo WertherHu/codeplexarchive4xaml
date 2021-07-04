@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HvRcontrol",
+  "Title": "Hyper-v Replication control",
+  "Description": "PowerShell scripts helping managing Hyper-v Replication",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PowerShell scripts helping managing Hyper-v Replication<br /><br /><br />Scripts helping in managing Hyper-v Replication feature.<br /><br />currently available:\n<ul><li>resume-BrokenReplication - force resume replication for all machines</li>\n<li>send-ReplicationReport (obsolete)</li>\n<li>prepare-ReplicationReport - flexible script to prepare report and check on current replication stats</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "hyper-v,replication,",
+  "LastEdited": "2015-06-29T15:56:06.81-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ysutils",
+  "Title": "YS Utils",
+  "Description": "The library contains set of useful classes which may solve common tasks for different applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The library contains set of useful classes which may solve common tasks for different applications.<br /><br />YSUtils library contains reusable classes.<br /><br /><a href=\"http://ysutils.codeplex.com/documentation\">Documentation</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 3.5,C#,utility,Library,WPF,Controls,control,xml,save,load,",
+  "LastEdited": "2010-03-12T04:45:30.753-08:00"
+}

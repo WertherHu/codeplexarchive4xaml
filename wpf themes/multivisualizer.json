@@ -1,0 +1,9 @@
+{
+  "ProjectName": "multivisualizer",
+  "Title": "Multivalued visualizer",
+  "Description": "This application visualizes the multi-valued surfaces.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><strong>&nbsp;</strong>This application visualizes the multi-valued surfaces.</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=multivisualizer&DownloadId=465318\" alt=\"\"></p>\r\n<p>For example:&nbsp;</p>\r\n<p>We have a set of experimental points.</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=multivisualizer&DownloadId=465319\" alt=\"\"></p>\r\n<p>Loop indicates the presence of ambiguity.</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=multivisualizer&DownloadId=465320\" alt=\"\"></p>\r\n<p>Points are given as simple unsorted list.&nbsp;Program handles and visualizes them as surface.</p>\r\n<p><img src=\"http://www.codeplex.com/Download?ProjectName=multivisualizer&DownloadId=465321\" alt=\"\">&nbsp;<img src=\"http://www.codeplex.com/Download?ProjectName=multivisualizer&DownloadId=465322\" alt=\"\"></p>\r\n<p>How to use:</p>\r\n<ol>\r\n<li>Import points or open binary file with handled points </li><li>Expand &quot;Surface&quot; and choose rendering mode </li></ol>\r\n<p><span>Program released with support of 3D. You can rotate, scale, translate using mouse.&nbsp;</span></p>\r\n<p>Also you can:</p>\r\n<ul>\r\n<li>Save or load handled points to binary file </li><li>Save a working surface as Jpeg images </li><li>Change front and background brushes </li><li>Change axis extensions </li><li>Change mouse sensitivity </li></ul>\r\n<p><strong>Notice: </strong>For tests this program you can click tab &quot;Tests&quot; and select figure.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,3d,multi,visualization,",
+  "LastEdited": "2012-08-02T07:09:18.7-07:00"
+}

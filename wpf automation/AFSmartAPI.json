@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AFSmartAPI",
+  "Title": "AF.SmartAPI",
+  "Description": "The AF.SmartAPI is Development automation framework which can reduce development effort up to 40%",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Introduction</h1>\r\nSmart API is a Development automation framework which can reduce development effort up to 40%.<br />With the use of Smart API, developer do not need to write code for Business &amp; Data access layer. The framework contain both the layer in built. The Business layer of the SmartAPI have in-built implementation of AF.DataValidator component which can handle all static data validation. <br /><br />The framework can be used in any Dot net projects. <br /><br /><img src=\"https://s6.postimg.org/i9giytfsx/Effort.png\" /><br />\n<h2>Limitation</h2>\r\nThe in-built Data access layer of SmartAPI use AF.DataAccessor to connect database. The AF.DataAccessor only support Sql server. Hence, SmartAPI is compatible with sql server only.<br />\n<h2>How to get</h2>\rInstall nuget package AF.SmartAPI or alternately download the assembly from this site.<br />\n<h2>Implementation Guide</h2>\rCheck out documentation tab for step by step implementation guide<br /><br /><b>If you have any comments or suggestions, Please write to : skc.chy@gmail.com with subject line : AF.SmartAPI</b><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-02-09T01:25:37.207-08:00"
+}

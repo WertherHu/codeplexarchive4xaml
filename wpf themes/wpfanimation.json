@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfanimation",
+  "Title": "Extended WPF Animation",
+  "Description": "Extended WPF Animation",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/wpfanimation/1d6acda6-b6cf-40d2-87fd-17adb90a56b4\" alt=\"Logo.png\" title=\"Logo.png\" /><br /><br />Extended WPF Animation is a simple extension for WPF&#39;s FrameworkElement, following these step so that you can enjoy it :D<br /><br />1.Define your storyboard in XAML.<br /><img src=\"/projects/wpfanimation/5cbe1347-1de0-4135-9db7-6ad76973995d\" alt=\"00.png\" title=\"00.png\" /><br /><br />2.Call extension by storyboard&#39;s key name then finished!<br /><img src=\"/projects/wpfanimation/2c2dd8c4-8c2b-4e98-ba59-0e4d83a1b724\" alt=\"01.png\" title=\"01.png\" /><br /><br />Extra usage. Do something when animation completed.<br /><img src=\"/projects/wpfanimation/5eb75ea3-6dfa-473b-9cbe-30adea1cce66\" alt=\"02.png\" title=\"02.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-01-01T08:40:21.64-08:00"
+}

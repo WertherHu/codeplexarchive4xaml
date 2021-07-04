@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfiphone",
+  "Title": "WPFiPhone - Accurate Imitation of the iPhone with the power of WPF",
+  "Description": "WPFiPhone is an accurate imitation of the iPhone OS completely written in WPF.\r\n\r\nThe demo app is developed in C# (with the .NET Framework 4.0). All GUI-Elements are implemented as WPF Controls so it is possible to use them separately.\r\n\r\nI am still refactoring the source code. The source code will be available soon ...\r\n\r\nUp until that time check out the executable .... (Downloads ->Planned)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPFiPhone is an accurate imitation of the iPhone OS completely written in WPF.<br /><br />The demo app is developed in C&#35; &#40;with the .NET Framework 4.0&#41;. All GUI-Elements are implemented as WPF Controls so it is possible to use them separately.<br /><br />I am still refactoring the source code. The source code will be available soon ...<br /><br />Up until that time check out the executable .... &#40;Downloads -&#62;Planned&#41;<br /><br /><img src=\"/projects/wpfiphone/41a4c223-275e-4431-9070-b18ba815bd46\" alt=\"WPFiPhone&#32;-&#32;Screenshot&#32;2.png\" title=\"WPFiPhone&#32;-&#32;Screenshot&#32;2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-02-07T15:46:19.99-08:00"
+}

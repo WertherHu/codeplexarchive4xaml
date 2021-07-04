@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinectmap",
+  "Title": "Using the Microsoft Kinect to control GoogleMap",
+  "Description": "The project is a WPF application that uses Microsoft Kinect to control google maps.\r\n\r\nFeel free to learn WPF MVVM pattern and Kinect development from it!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The project is a WPF application that uses Microsoft Kinect to control google maps.<br /><br />Feel free to learn <b>WPF MVVM</b> pattern and <b>Kinect development</b> from it!<br /><br /><br />Guests, reviewers and contributors are welcome :-)<br /><br /><br />Sample screen:<br /><img src=\"/projects/kinectmap/adbd3a2e-aee8-4566-9046-09e3243c6e06\" alt=\"Capture.PNG\" title=\"Capture.PNG\" /><br /><br /><br />List of available moves:\n<ul><li>Zooming by using SwipeIn? and SwipeOut?.</li>\n<li>Moving map by using left hand.</li>\n<li>Setting flag by doing right hello.</li>\n<li>Joining flags by joining hands.</li>\n<li>Moving map by head.</li>\n<li>Disable and enable head control by hand over head.</li>\n<li>Disable and enable left hand control by left hello posture.</li></ul>\n<br />Other features:\n<ul><li>Skeleton is displayed as one moves</li>\n<li>Log box available</li>\n<li>Record/play your moves using buttons from the bottom-left panel.</li></ul>\n<br /><br />Please make sure you read the <a href=\"https://kinectmap.codeplex.com/wikipage?title=Prerequisites%20and%20installation&referringTitle=Home\">Prerequisites and installation</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Kinect,Microsoft,WPF,Google,Map,",
+  "LastEdited": "2014-02-05T07:25:39.42-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kharaPOS",
+  "Title": "KharaPOS",
+  "Description": "KharaPOS is an Exemplar application for Silverlight 4, WCF RIA Services and .NET Framework 4.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />KharaPOS is an Exemplar application for Silverlight 4, WCF RIA Services and .NET Framework 4.<br /><br /><br />The goal of KharaPOS is to demonstrate the .NET 4 stack in use within a &quot;real world&quot; scenario. In order to build the app you need to install VS2010 Ultimate RC, Silverlight 4 RC and an available SQL Server 2008 Instance</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,wcf ria services,Enterprise,Mirshahreza,",
+  "LastEdited": "2010-03-15T10:02:42.433-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PrismInteractionLack",
+  "Title": "The Prism architecture lack for the Interactions!",
+  "Description": "The Prism architecture lack for the Interactions!\r\n(Silverlight)\r\nThe defect opens a popups more then once and creates memory leaks.\r\nExample of the lack here.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Prism architecture lack for the Interactions&#33;<br />&#40;Silverlight&#41;<br />The defect opens a popups more then once and creates memory leaks.<br />Example of the lack here.<br /><br />The leaks are created by making a strong reference to a thrown views through implicit event subscribtion.<br /><br />Workaround: Clean the DataContext on a control Unload event (For example by setting the DataContext to the null)<br /><br />Scenario: You have changeble Views for one ViewModel. You create new viewы for the same view model object.<br /><br /><b>Live example:</b><br /><a href=\"http://it3xl.ru/Resources_For_External/codeplex/prisminteractionlack/PrismInteractionLack.Web/\">The Prism Interaction Lack - work example</a>\n<hr />\nTo download and run the example by yourself click on the &quot;SOURCE CODE&quot; tab above and then click the &quot;Download&quot; link under the tabs.<br />At the downloaded archive will be the Visual Studio 2010 solution with a Silverlight project.<br />Run it and follow the simple instructions on a window.\n<hr />\n<b>The example&#39;s screenshort:</b><br /><img src=\"http://it3xl.ru/Resources_For_External/codeplex/prisminteractionlack/PrismInteractionLack.Web/view.jpg\" /><br /><br />it3xl.com</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-07-06T02:39:41.257-07:00"
+}

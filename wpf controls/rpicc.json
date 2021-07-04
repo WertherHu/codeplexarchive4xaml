@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rpicc",
+  "Title": "Raspberry Pi Control Center",
+  "Description": "A GTK+ based Raspberry Pi Control Center. Made to be simple and fast",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A GTK&#43; based Raspberry Pi Control Center. Made to be simple and fast\n<h1>RaspberryPi Control Center - RPICC</h1>\rThis project will help newcomers, with managing and monitoring Rasbperry Pi, using GTK+ made GUI. <br />Technologies used in project:\n<ul><li>Linux system calls</li>\n<li>SFML 2.1</li>\n<li>C++11</li></ul>\n<br />Program features:\n<ul><li>Monitoring CPU and probably GPU usage.</li>\n<li>Memory comsumption</li>\n<li>Monitor VCC of Raspberry Pi</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "RPI C++,C++,GTK+,RaspberryPi,ARM,Linux,",
+  "LastEdited": "2014-11-14T06:16:09.06-08:00"
+}

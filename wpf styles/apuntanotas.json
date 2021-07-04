@@ -1,0 +1,9 @@
+{
+  "ProjectName": "apuntanotas",
+  "Title": "Apunta Notas",
+  "Description": "Apunta notas is just a note taking program that I created to learn WPF.\n\nNow you can write everything you need to remember or tell somebody. Or you can learn how to use MVVM light by looking at the code!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Apunta notas is just a note taking program that I created to learn WPF.<br /><br />Now you can write everything you need to remember or tell somebody. Or you can learn how to use MVVM light by looking at the code&#33;<br /><br /><img src=\"http://www.foxandxss.net/stuff/Codeplex/ApuntaNotas/ApuntaNotas.JPG\" /><br /><br />As you can see it is a simple but pretty Note Taking App.<br /><br />You can:<br />\n<ul><li>Create categories with different colors.</li>\n<li>Create notes.</li>\n<li>Delete notes and categories.</li>\n<li>Change the note&#39;s category.</li></ul>\n<br />The app is localized in:<br />\n<ul><li>English</li>\n<li>Spanish</li>\n<li>German</li></ul>\n<br />If you want to send a translation, send me a message :)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,Notes,MVVM Light Toolkit,",
+  "LastEdited": "2013-01-20T07:06:17.037-08:00"
+}

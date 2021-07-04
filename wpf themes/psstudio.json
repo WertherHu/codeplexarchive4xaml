@@ -1,0 +1,9 @@
+{
+  "ProjectName": "psstudio",
+  "Title": "PowerShell Studio",
+  "Description": "A community fork of the Cmdlet Designer source released from Microsoft. More information will be forthcoming on features, roadmap etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>PowerShell Studio</b><br />A community fork of the Cmdlet Designer source released from Microsoft. More information will be forthcoming on features, roadmap etc.<br /><br /><img src=\"/projects/psstudio/e0f4d6a7-977c-42b3-bb11-03cbad5b386b\" alt=\"cmdlet_designer.png\" title=\"cmdlet_designer.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "powershell,cmdlet,designer,module,WPF,clickonce,",
+  "LastEdited": "2010-01-26T20:05:47.42-08:00"
+}

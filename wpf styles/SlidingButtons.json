@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SlidingButtons",
+  "Title": "Sliding Doors Button Adapter",
+  "Description": "This project gives you an adapter for asp buttons which utilizes the sliding doors technique and includes some styles that you can easily customize to suit your needs",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project gives you an adapter for asp buttons which utilizes the sliding doors technique and includes some styles that you can easily customize to suit your needs<br /><br />The adapter that you can find <a href=\"http://www.delphicsage.com/home/blog.aspx?d=239&amp;title=Convert_Your_ASP:Button_Controls_to_Sliding_Doors_Styled_Button_Elements_\">here</a> gives us a great start towards having asp buttons stylized using the sliding doors technique. But, his approach requires the page developer to include all of the css and images in order to make the adapter work. Wouldn&#39;t it be nice if that was all packaged away in a class library?<br /><br />That&#39;s what the Sliding Doors Button Adapter does for you. In addition to re-rendering the asp button as shown in the above article, I include some default button styles, found on <a href=\"http://msforge.net/blogs/janko/archive/2008/01/31/make-fancy-buttons-using-css-sliding-doors-technique.aspx\">this page</a>. By altering the CssClass property of the asp button, the page developer gets not only the new button format, but also the required css and images.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-09-21T22:51:30.02-07:00"
+}

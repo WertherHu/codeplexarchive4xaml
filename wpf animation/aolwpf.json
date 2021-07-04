@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aolwpf",
+  "Title": "AOL Instant Messenger for WPF",
+  "Description": "I am trying to create a nicely designed interface and client for AIM written in .NET 3.0 using WPF. There is a new SDK from AOL that allows easy access to their network so the backend is mostly already done for us.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />I am trying to create a nicely designed interface and client for AIM written in .NET 3.0 using WPF. There is a new SDK from AOL that allows easy access to their network so the backend is mostly already done for us.<br /><br />I am trying to collect a group of programmers that would be interested in making a Windows AOL Client written in .NET 3.0 using WPF and the new AOL SDK. Please message me if you are interested. Anyone is welcome.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows,WPF,.net 3.0,aol,aim,instant messenger,Messenger,",
+  "LastEdited": "2007-05-08T17:53:44.867-07:00"
+}

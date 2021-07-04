@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fswebtools",
+  "Title": "FSharp.WebTools",
+  "Description": "The F# Web Tools augment the F# distribution with tools to author homogeneous client/server/database web applications in one type-checked project. The modal distinctions between client and server are checked through the use of F# workflows, and LINQ can be used for database access. In the first version, parts of the application are dynamically served as JavaScript. Planned extensions include serving client-side portions as Silverlight code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The F&#35; Web Tools augment the F&#35; distribution with tools to author homogeneous client&#47;server&#47;database web applications in one type-checked project. The modal distinctions between client and server are checked through the use of F&#35; workflows, and LINQ can be used for database access. In the first version, parts of the application are dynamically served as JavaScript. Planned extensions include serving client-side portions as Silverlight code.<br /><br /><b>More information about the project</b>\n<ul><li><a href=\"http://tomasp.net/blog/fswebtools-intro.aspx\">F# Web Tools: &quot;Ajax&quot; applications made simple</a> - Blog | TomasP.Net</li>\n<li><a href=\"http://tomasp.net/academic/articles/fswebtools/\">Rich client/server web applications in F#</a> - Paper submitted to the ML Workshop</li>\n<li><a href=\"http://tomasp.net/academic/articles/fswebtools/fswebtools_v1.pdf\">Ajax-style Client/Server Programming with F#</a> - Slides from the presentation at MSR Cambridge</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "fsharp,F#,web,",
+  "LastEdited": "2014-04-29T07:07:43.13-07:00"
+}

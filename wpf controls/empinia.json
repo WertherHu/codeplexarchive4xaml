@@ -1,0 +1,9 @@
+{
+  "ProjectName": "empinia",
+  "Title": "Empinia",
+  "Description": "Empinia is a plugin-framework for the development of Windows-GUI-applications. It uses .NET and is written in C#. It provides an infrastructure making applications extendible by plugins. \n\nYou can find us at http://www.empinia.org",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Empinia is a plugin-framework for the development of Windows-GUI-applications. It uses .NET and is written in C&#35;. It provides an infrastructure making applications extendible by plugins. <br /><br />You can find us at http&#58;&#47;&#47;www.empinia.org<br /><br />Empinia is the result of a cooperation between the ifu Hamburg GmbH and the University of applied Science FHTW Berlin, Study Programme Industrial Environmental Informatics. <br /><br />Please find further information, documentation and downloads at <a href=\"http://www.empinia.org\">http://www.empinia.org</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "GUI,C#,Plugin,architecture,development,GUI-applications,extensibility,framework,plug-in,extensions,Domain Model,Domain Modeling,IOC,Inversion of Control,microkernel/windsor,castleproject,castle windsor,",
+  "LastEdited": "2009-01-05T08:21:48.583-08:00"
+}

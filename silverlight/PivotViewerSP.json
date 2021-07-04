@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PivotViewerSP",
+  "Title": "Pivot Viewer for SharePoint",
+  "Description": "Pivot Viewer for sharepoint est une solution SharePoint qui permet de rendre les items d'une liste dans le controle Pivot Viewer Silverlight. Pour cela il suffit juste de selectionner la liste que vous voulez rendre dans le Silverlight Pivot Viewer",
+  "MovedLink": "",
+  "HomeWiki": "\r\n<p>Want to be Beta Tester/ Envie d'&ecirc;tre un beta testeur:</p>\r\n<p>Email: <a href=\"mailto:xvanneste@xvanneste.com\">xvanneste@xvanneste.com</a>&nbsp;</p>\r\n<p>Aidez le projet</p>\r\n<p><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DR3WLHC3XEY56\"><img src=\"https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif\" border=\"0\" alt=\"\"></a></p>\r\n<h1>Exemple</h1>\r\n<p><a href=\"http://blog.xvanneste.com/Pages/Pivot%20Viewer.aspx\">http://blog.xvanneste.com/Pages/Pivot%20Viewer.aspx</a></p>\r\n<h1>Version 2.5 release:</h1>\r\n<div class=\"wikidoc\">Added feature:</div>\r\n<div class=\"wikidoc\">\r\n<ul>\r\n<li>Three Layer </li><li>Web Admin Page </li><li>Action Button </li><li>Search Center </li><li>Site Data Query </li><li>Logo </li><li>Add Thumbnail Extender for SharePoint Support </li><li>Add Metadata Term Store Support </li><li>Add BMP/WMF/DOC/PPT/GIF support </li><li>Two versions (Foundation/Server) </li></ul>\r\n</div>\r\n<p><img src=\"http://download.codeplex.com/download?ProjectName=pivotviewersp&DownloadId=260460\" alt=\"\"></p>\r\n",
+  "TagList": "Sharepoint,SharePoint 2010,silverlight 4,Silverlight,PivotViewer,",
+  "LastEdited": "2011-07-19T02:08:00.01-07:00"
+}

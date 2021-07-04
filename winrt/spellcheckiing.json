@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spellcheckiing",
+  "Title": "Spell Checking (C#, VB, HTML5/JavaScript)",
+  "Description": "This implements WINRT component wrapper over C++ SpellChecker library which can be used for basic spelling checks and providing suggestions in Window Store App ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Spell Checking (C#, VB, HTML5/JavaScript)</b><br /><br /><br />This implements WINRT component wrapper over C++ SpellChecker library which can be used for basic spelling checks and providing suggestions in Window Store App irrespective of Store App Language.<br /><br />Please visit link below for more details on usage<br /><br /><a href=\"http://code.msdn.microsoft.com/windowsapps/SpellChecker-C-9cbafc40\">http://code.msdn.microsoft.com/windowsapps/SpellChecker-C-9cbafc40</a><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-06T10:09:02.477-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfklip",
+  "Title": "WpfKlip",
+  "Description": "WpfKlip is a light clipboard utility similar to Klipper form KDE.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Current Version 0.8.7</h1>\r\n<b>Project Description</b><br />WpfKlip is a light clipboard utility similar to Klipper form KDE.<br /><br /><b>Screenshots</b><br />Main window<br /><img src=\"http://www.dead-trickster.com/image.axd?picture=2009%2f6%2fCapture.26.PNG\" alt=\"Main window\" title=\"Main window\" /><br /><br /><b>Version 0.9 goodies</b><br />All hidden settings will be reflected on the settings window<br />Plugins system<br /><br /><a href=\"https://twitter.com/dead_trickster\">Stay tuned!</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Clipboard,",
+  "LastEdited": "2011-02-20T15:54:00.733-08:00"
+}

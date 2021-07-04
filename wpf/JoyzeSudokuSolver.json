@@ -1,0 +1,9 @@
+{
+  "ProjectName": "JoyzeSudokuSolver",
+  "Title": "JoyzeSudokuSolver",
+  "Description": "WPF app that solves sudoku puzzles.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />WPF app that solves sudoku puzzles.<br /><br />Originally used as an exercise in learning VS2008, C# and WPF. Targets .NET 3.5 client release.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,sudoku,",
+  "LastEdited": "2008-09-21T08:17:13.367-07:00"
+}

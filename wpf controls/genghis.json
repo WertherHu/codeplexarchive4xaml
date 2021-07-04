@@ -1,0 +1,9 @@
+{
+  "ProjectName": "genghis",
+  "Title": "The Genghis Project",
+  "Description": "Genghis is a set of extensions built on top of .NET and integrated with WinForms to provide application-level services in the same flavor as the Microsoft Foundation Classes. Genghis gets its name as the functional heir to Attila, a similar set of functionality built on top of ATL",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Genghis is a set of extensions built on top of .NET and integrated with WinForms to provide application-level services in the same flavor as the Microsoft Foundation Classes. Genghis gets its name as the functional heir to Attila, a similar set of functionality built on top of ATL.<br /><br />Please see <a href=\"http://www.genghisgroup.com\">http://www.genghisgroup.com</a> for more information.<br /><br />The current build (0.8) includes a full reconciliation with features that existed in the .NET 1.x version.  </div><div class=\"ClearBoth\"></div>",
+  "TagList": "winforms,Framework,Windows Forms,WinForms Controls,Win Controls,useful .NET classes ,control,Genghis,winform,",
+  "LastEdited": "2007-08-24T16:05:46.917-07:00"
+}

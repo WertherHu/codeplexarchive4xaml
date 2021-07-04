@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WinPad",
+  "Title": "WinPad",
+  "Description": "Control Mouse with GamePad",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>WinPad is a programm to control mouse with the GamePad<br>\r\n<br>\r\n<br>\r\nMouve Mouse with the&nbsp;<strong>left Joystick</strong>,left click with&nbsp;<strong>Y</strong>&nbsp;and right click with&nbsp;<strong>B</strong><br>\r\n<br>\r\nand change mouse speed with&nbsp;<strong>1 left and right</strong><br>\r\n<br>\r\n<br>\r\nChange Window Visibility with&nbsp;<strong>A</strong></p>\r\n<p>&nbsp;</p>\r\n<p>Created with Visual Sudio 2013 Community and OpenTK</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-08-16T02:47:30.717-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "multipointcontrols",
+  "Title": "MultipointControls",
+  "Description": "A collection of controls that applied Windows Multipoint Mouse SDK. Windows Multipoint Mouse SDK enable app to have multiple mice interact simultaneously. See more : http://www.microsoft.com/multipointmouse",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A collection of controls that applied Windows Multipoint Mouse SDK. Windows Multipoint Mouse SDK enable app to have multiple mice interact simultaneously. See more &#58; http&#58;&#47;&#47;www.microsoft.com&#47;multipointmouse<br /><br /><b>The first version: 05/2010</b>\n<h4>Related project:</h4>\r<ul><li><b>Windows Multipoint Mouse SDK</b>. See more: <a href=\"http://www.microsoft.com/multipointmouse\">http://www.microsoft.com/multipointmouse</a></li></ul>\n<h3>Currently contains:</h3>\r<ul><li><b>MultipointInkCanvas</b> : a canvas that enable user to draw stroke on</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-27T10:13:37.307-07:00"
+}

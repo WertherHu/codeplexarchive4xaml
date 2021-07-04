@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sortlargefile",
+  "Title": "SortLargeFile",
+  "Description": "A file based merge sort algorithm implemented in .Net C# taking advantage of controlled parallel execution using TPL.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Sort Large Files in .Net 1</h1>\r\n<h2>Uses File Based Merge Sort - Leveraging Parallel Execution 2</h2>\r\n<ol><li><b>Logic implemented in one class named Largefile</b></li>\n<li><b>Manages Gigabyte files in a few seconds</b></li></ol>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "File Merge Sort,.Net File Sort,Large File Sort,Disk Based Sort,",
+  "LastEdited": "2016-10-05T08:07:24.773-07:00"
+}

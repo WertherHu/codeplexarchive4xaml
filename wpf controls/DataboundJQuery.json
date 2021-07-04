@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DataboundJQuery",
+  "Title": "Creating Databound jQuery plugins for ASP.NET",
+  "Description": "Using asp.net to create a dynamic webservice to support the jQuery jqGrid control as a databound server control.  \nDeveloped in C# and Javascript.  Designed to remove excessive extra coding to add rows to gridview control.\nShort time to fully developed control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Using asp.net to create a dynamic webservice to support the jQuery jqGrid control as a databound server control.  <br />Developed in C&#35; and Javascript.  Designed to remove excessive extra coding to add rows to gridview control.<br />Short time to fully developed control.<br /><br />An attempt to use the fantastic jqGrid control as a databound server control.  Functionality is currently incomplete as the Insert and Delete commands are not functioning.<br />Required:  Experienced jqGrid developer for help with the javascript settings, experienced AJAX developer to help with callbacks and postings to the webservice.<br /><br />Download and compile the project, then add server control to an ASPX page and set data.  Currently only supports SQLDataSource.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-21T08:06:19.973-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FoNetParser",
+  "Title": "XSL-FO Parser",
+  "Description": "This Project hosts numerous styles sheets for converting to and from XSL-FO.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This Project hosts numerous styles sheets for converting to and from XSL-FO.<br /><br />\n<h2>Current Supported Formats:</h2>\r\n<b>XSL-FO to RTF</b>\n<ul><li>FO Page Parsing</li>\n<li>FO Table, Header, Footer, columns, background color</li>\n<li>bold</li>\n<li>Italic</li>\n<li>Underline</li>\n<li>FO Block</li>\n<li>FO Inline</li>\n<li>Text Align</li>\n<li><b>ADDED - List Items</b> </li></ul>\n<br /><b>XHTML to XSL-FO</b>\n<ul><li>List Items</li>\n<li>Tables</li>\n<li>Headings</li>\n<li>Some Font settings</li>\n<li>a few more which is to many to mention</li></ul>\n<br />I will publish more examples and progress on <a href=\"http://www.polemus.net\">http://www.polemus.net</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-09T07:04:32.833-07:00"
+}

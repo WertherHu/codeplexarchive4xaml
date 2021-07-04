@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfconverters",
+  "Title": "WPF Converters",
+  "Description": "A set of generic WPF binding converters that can be leveraged by most any WPF application.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>This project has moved to <a href=\"https://github.com/kentcb/WPFConverters\">GitHub</a></h1></div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,binding,converters,C#,converter,Silverlight,Data Binding,NuGet,xaml,",
+  "LastEdited": "2015-01-07T23:15:30.387-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "autocompletelookupax",
+  "Title": "SharePoint autocomplete lookup field with AJAX",
+  "Description": "Taking my inspiration from Jan Tielen's control http://www.codeplex.com/smarttools/Wiki/View.aspx?title=Autocomplete%20Text%20Field, I decided to build my own with the difference that\n\n- The field is a lookup field (derived from SPFieldLookup)\n- You don't need to install the ASP.NET AJAX Framework\n\nI did it that way because in some environments, it's often tricky to change the production system by installing the AJAX framework and/or some service packs. This component embedds \"manual\" AJAX calls towards the SharePoint Web Service so that you don't need to install anything special to make it working.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Update</b> : all my projects are now available at a single URL =&gt; <a href=\"http://www.codeplex.com/sptoolbasket\">http://www.codeplex.com/sptoolbasket</a><br />If you want to see how the system looks like now, you can have a look at the manual. This project is only maintained because of the existing discussions. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "useful,",
+  "LastEdited": "2009-01-31T10:33:58.39-08:00"
+}

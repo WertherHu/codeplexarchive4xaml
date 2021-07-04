@@ -1,0 +1,9 @@
+{
+  "ProjectName": "commandlinemedia",
+  "Title": "Command Line Media Controller",
+  "Description": "This application provides a command line interface for issuing basic media controls to most media player applications.",
+  "MovedLink": "https://github.com/InvalidCastEx/CommandLineMedia",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rThis application provides a command line interface to control almost any media player application that supports being controlled by a media keyboard. While it does not let you pick an individual song or playlist it does allow you to access the basic controls of the media player including play, pause, stop, next track, previous track, mute, volume up and volume down.<br />\n<h2>Why?</h2>\rThis application was primarily designed for use with <a href=\"http://www.voiceattack.com\">Voice Attack</a> to allow for hands free control of your music and as such you will find a sample Voice Attack Profile included with the release.<br />\n<h2>Usage</h2>\r<pre>\nclmcontrol &lt;Process Name&gt; [-p] [-pp] [-pa] [-s] [-vm] [-mvm] [-vu] [-mvu] [-vd] [-mvd] [-nt] [-pt] [-?]\n</pre><br />For additional usage details see the <a href=\"https://commandlinemedia.codeplex.com/documentation?referringTitle=Home\">documentation page</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-16T13:34:45.963-07:00"
+}

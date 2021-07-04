@@ -1,0 +1,9 @@
+{
+  "ProjectName": "namaalert",
+  "Title": "ニコ生アラート",
+  "Description": "ニコニコ生放送(http://live.nicovideo.jp/)の放送開始を通知する無料のツールです。",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>ニコ生アラート</h1>\r\nニコ生アラートとは、ニコニコ生放送（<a href=\"http://live.nicovideo.jp\">http://live.nicovideo.jp</a>）で放送中の番組を通知するツールです。<br />2009年1月から開発・公開しています。開発を手伝ってくれる方も募集中です。<br /><br /><b>ダウンロード</b>は右の「Download」から。上の「Downloads」からは別のバージョン等も参照できます。<br /><b>自動更新バージョン</b>は、<a href=\"http://namaalert.jp/download\">http://namaalert.jp/download</a> からインストールできます。<br /><b>サポート</b>は下記のコミュニティの掲示板でしています。<br /><br />作者(5zj)がオーナーのコミュニティ「プログラミング生放送」はこちら（ニコ生アラート含めてプログラミングの放送をしています）。<br /><a href=\"http://ch.nicovideo.jp/community/co9320\">http://ch.nicovideo.jp/community/co9320</a><br /><br />サウンドファイルがないって人はニコニコモンズに公開されている方がいるので、それを使いましょう。<br /><a href=\"http://www.niconicommons.jp/search/%E3%83%8B%E3%82%B3%E7%94%9F%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88\">http://www.niconicommons.jp/search/%E3%83%8B%E3%82%B3%E7%94%9F%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88</a><br /><br />ニコ生アラート（βa）<br /><br /><img src=\"/projects/namaalert/6a4d8dda-1b59-4312-87e7-56002baa03a7\" alt=\"NamaAlert_09-09-26_2.png\" title=\"NamaAlert_09-09-26_2.png\" /><br /><br />\n<h2>動作環境</h2>\r<ul><li>Windows XP(SP3推奨)、Windows Vista(SP2推奨)、Windows 7</li>\n<li>.NET Framework 3.5 SP1</li></ul>\n\n<h2>開発について</h2>\rソースコードおよびコンパイル済みのオブジェクトコードについては、ライセンスに基づいた上で自由に改変・配布等ができます。<br />が、不具合修正や機能追加等は本プロジェクトへぜひ反映お願いします。<a href=\"https://namaalert.codeplex.com/wikipage?title=開発の参加について&referringTitle=Home\">開発の参加について</a><br />\n<ul><li>ライセンス参考訳: <a href=\"http://www.microsoft.com/japan/opensource/licenses.mspx\">http://www.microsoft.com/japan/opensource/licenses.mspx</a></li></ul>\n\n<h2>参考資料</h2>\r<a href=\"https://namaalert.codeplex.com/wikipage?title=コーディング規約&referringTitle=Home\">コーディング規約</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ニコニコ動画,ニコニコ生放送,WPF,VB.NET,.NET 3.5,",
+  "LastEdited": "2009-09-25T09:41:40.91-07:00"
+}

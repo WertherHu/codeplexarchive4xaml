@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aXelerateSL3D",
+  "Title": "aXelerate Silverlight 3D",
+  "Description": "Axelerate Silverlight 3D is a C# 3D Engine by software for Silverlight 2.0 emulating closely as posible to WPF Media3D.\nUse System.Windows.Shapes to render the 3D models in triangle base. This engine support flat lighting system for SolidColorBrush and GradientBrush's.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Axelerate Silverlight 3D is a C&#35; 3D Engine by software for Silverlight 2.0 emulating closely as posible to WPF Media3D.<br />Use System.Windows.Shapes to render the 3D models in triangle base. This engine support flat lighting system for SolidColorBrush and GradientBrush&#39;s.<br />I maked this engine for my company <a href=\"http://www.axelerate.com\">aXelerate Inc</a> because we want to create 3D Charts. But other projects like Kit3D don&#39;t have the necesary elements that we need, like XAML support and flat lights.<br />This engine is still generic and probably we go to continue adding functionality as we need for our projects (unless until Microsoft release the silverlight 3.0 with real 3D). Betwen I hope that this project can be usefull for the comunity and for give ideas to other projects.<br />All the source code is c# and is available for download and use.<br /><br />Requirements:<br />Microsoft Visual Studio to compile the code. <br />Silverlight 2.0 SDK.<br /><br />If you want see it running you can go to <a href=\"http://www.axelerate.com/SilverlightSamples/Silverlight3D/\">axelerate website</a><br /><br /><img src=\"http://content.screencast.com/users/toducs/folders/Jing/media/b45224db-8d92-4766-be54-4f9b73b939c7/2008-12-04_1357.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,3D,Silverlight 2.0,silverlight 3d,Silverlight Controls,aXelerate Silverligh,",
+  "LastEdited": "2008-12-04T19:04:10.36-08:00"
+}

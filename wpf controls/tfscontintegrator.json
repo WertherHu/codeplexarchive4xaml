@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tfscontintegrator",
+  "Title": "TFS Continuous Integrator",
+  "Description": "TFS Continuous Integrator extends Team Foundation Server 2005 to support continuous integration by triggering a build when a check-in occurrs at a specific location.\n\nThe tool works by monitoring the version control store for changes, then once identified pulling down configurati",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Welcome</h1>\rWelcome to the TFS Continuous Integrator project homepgage, to see what this project is all about please refer to our project description.\n<h2>Project Description</h2>\rTFS Continuous Integrator extends Team Foundation Server 2005 to support continuous integration by triggering a build when a check-in occurrs at a specific location.<br /><br />The tool works by monitoring the version control store for changes, then once identified pulling down configurati\n<h2>Positions Vacant</h2>\rIf you would like to help out with this project, please visit our <a href=\"https://tfscontintegrator.codeplex.com/wikipage?title=Positions%20Vacant&referringTitle=Home\">Positions Vacant</a> page.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,TFS Plug-in,",
+  "LastEdited": "2007-12-19T02:36:26.433-08:00"
+}

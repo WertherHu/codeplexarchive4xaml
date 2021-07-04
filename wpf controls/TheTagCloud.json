@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TheTagCloud",
+  "Title": "The tag cloud",
+  "Description": "A tag cloud implementation for ASP.NET and ASP.NET MVC applications. The generic nature of the implementation makes it easy to use either in a ASP.NET or ASP.NET MVC application. The code is written in C# 3.0 using some of the latest language features like Linq, object initializers and Lambda expressions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A tag cloud implementation for ASP.NET and ASP.NET MVC applications. The generic nature of the implementation makes it easy to use either in a ASP.NET or ASP.NET MVC application. The code is written in C&#35; 3.0 using some of the latest language features like Linq, object initializers and Lambda expressions.<br /><br /><b>Screenshot</b><br />The following example is captured by using the tag cloud with tag data from CodePlex.<br /><img src=\"/projects/TheTagCloud/e1b9c9fe-41ce-45f2-b574-59671b8cee44\" alt=\"TagCloud.jpg\" title=\"TagCloud.jpg\" /><br /><br /><b>Code example</b><br />The following code can be used in a aspx file to render a tag cloud. In this example we provide a dictionary of weighted tags along with some settings on how we want our tags to get generated.<br /><img src=\"/projects/TheTagCloud/93de6317-f240-4369-8e84-4c3fe3454ab0\" alt=\"TagCloudCode.jpg\" title=\"TagCloudCode.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "LINQ,ASP.NET,C#,Reflection,C# 3.0,tagging,Tag,control,Cloud,TagCloud,ASP.NET MVC,ASP.NET 3.5,tag cloud,",
+  "LastEdited": "2008-09-24T10:27:59.103-07:00"
+}

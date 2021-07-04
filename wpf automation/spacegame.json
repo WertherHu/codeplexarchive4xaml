@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spacegame",
+  "Title": "WPF 2D Space Multiplayer Game",
+  "Description": "Simple 2D Space Game with Multiplayer.\nGame was made using WPF and c#.\nNetwork will be realease using udp winSockets and irc protocol.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Simple 2D  Multiplayer Space Game<br />Game was made using WPF,Sdl.net and c#.<br />Network will be realease using udp winSockets and irc protocol.<br />For more information visit at my blog: <a href=\"http://dorumonstr.blogspot.com/\">http://dorumonstr.blogspot.com/</a><br /><img src=\"/projects/spacegame/cb4dd7c0-bab8-4b4c-847a-0d994f2a82b0\" alt=\"Clipboard-2.png\" title=\"Clipboard-2.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-07-21T01:07:45.277-07:00"
+}

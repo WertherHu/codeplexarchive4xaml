@@ -1,0 +1,9 @@
+{
+  "ProjectName": "browserdotnet",
+  "Title": "Browser.NET",
+  "Description": "Browser.NET is a 100% native web browser control / application. This is an ambitious project, and is open to all contributors.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Browser.NET is a 100&#37; native web browser control &#47; application. This is an ambitious project, and is open to all contributors.<br /><br />The goal: A 100% native .NET browser control.<br /><br />The reason: Interop with native browsers is awkward, and does not give the same level of control and reliability that can be achieved with a native browser.<br /><br />The reality: Writing a browser engine is a huge undertaking. Javascript, plug-ins, and simply dealing with the HTML spec are all projects in their own right. Where possible, existing libraries will be integrated. For example, an html rendering library already exists on codeplex.<br /><br />The pitch: I can&#39;t do this alone. Contact me if you&#39;d like to help. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-07-23T18:05:45.013-07:00"
+}

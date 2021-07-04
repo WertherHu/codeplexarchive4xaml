@@ -1,0 +1,9 @@
+{
+  "ProjectName": "quakephone8",
+  "Title": "Quake for Windows Phone 8",
+  "Description": "Port of Quake (glQuake) to Windows Phone 8 (Direct3D 11)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Port of Quake &#40;glQuake&#41; to Windows Phone 8 &#40;Direct3D 11&#41;<br /><br /><b>Quake Engine for Windows Phone 8</b><br /><br />This project brings the &quot;Quake Engine&quot; from id Software to Windows Phone 8.<br /><br />This is not my project. I just uploaded it <a href=\"https://quakephone8.codeplex.com\">here</a> and on GitHub so that more people get aware that there is a Windows Phone 8 port of the <a href=\"https://github.com/id-Software/Quake\">Quake Engine</a>. The orginial thread &quot;<a href=\"http://social.msdn.microsoft.com/Forums/en-US/wphowto/thread/1e3e54fa-bcab-4f8f-ad83-61ef88a4ad91\">glQuake d3d11 - winphone 8 port release</a>&quot; could be found at <a href=\"http://social.msdn.microsoft.com/Forums/en-US/wphowto/thread/1e3e54fa-bcab-4f8f-ad83-61ef88a4ad91\">Windows Phone Dev Center</a>.<br /><br />All credit for this wonderful project goes to <i><a href=\"http://social.msdn.microsoft.com/profile/jmarshall23/\">jmarshall23</a></i> at the <a href=\"http://developer.windowsphone.com/\">Windows Phone Dev Center</a> for porting the <a href=\"https://github.com/id-Software/Quake\">Quake Engine</a> to Windows Phone 8 and <i><a href=\"http://www.idsoftware.com/\">id Software</a></i> for making the source of <i>Quake</i> available under the <a href=\"http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt\">GNU General Public License (GPL) v2</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,WindowsPhone,Windows Phone 8,WP8,WindowsPhone8,Quake,glQuake,winQuake,",
+  "LastEdited": "2013-01-06T16:14:40.29-08:00"
+}

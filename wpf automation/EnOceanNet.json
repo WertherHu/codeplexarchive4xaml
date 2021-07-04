@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EnOceanNet",
+  "Title": "EnOceanNet",
+  "Description": "EnOceanNet is at .NET API for the Thermokon STC-Ethernet transceiver, that is based on the TCM 120 EnOcean module. The source code is written i C#.\n\nThe API operates in TCP server mode and supports multiple transceivers simultaneously.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rEnOceanNet is at .NET API for the Thermokon STC-Ethernet transceiver, that is based on the TCM 120 EnOcean module. The source code is written i C&#35;.<br /><br />The API operates in TCP server mode and supports multiple transceivers simultaneously.<br />\n<h2>Samples</h2>\rSee the source code for samples.<br />\n<ul><li><b>Discovery</b> - Find transievers on the LAN.</li>\n<li><b>ChangeSettings</b> - Update transiever settings.</li>\n<li><b>Receive</b> - Receive sensor data.</li>\n<li><b>ReceiveVerbose</b> - Receive sensor data with more detailed output to the console.</li>\n<li><b>Send</b> - Send and receive sensor data.</li></ul>\n<br /><br />\n<hr />\nEnOcean &#174; and the EnOcean logo are registered trademarks of EnOcean GmbH. Thermokon &#174; and the Thermokon logo are registered trademarks of Thermokon Sensortechnik GmbH. All other product or service names are the property of their respective owners.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "EnOcean,Building Automation,Home Automation,",
+  "LastEdited": "2010-01-21T04:57:21.13-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cloudy",
+  "Title": "Cloudy - Online Storage Library",
+  "Description": "The goal of Cloudy is to be an online storage library to enable access for the most common storage services : DropBox, Skydrive, Google Docs, Azure Blob Storage and Amazon S3.\n\nIt'll work in .NET 3.5 and up, Silverlight and Windows Phone 7 (WP7).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The goal of Cloudy is to be an online storage library to enable access for the most common storage services &#58; DropBox, Skydrive, Google Docs, Azure Blob Storage and Amazon S3.<br /><br />It&#39;ll work in .NET 3.5 and up, Silverlight and Windows Phone 7 &#40;WP7&#41;.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Storage,Online,Cloud Computing,",
+  "LastEdited": "2011-01-12T16:39:35.457-08:00"
+}

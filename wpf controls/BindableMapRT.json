@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BindableMapRT",
+  "Title": "BindableMapRT",
+  "Description": "C# Wrapper to enable databinding for the BingMap control for WinRT",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">BindableMapRT are C# wrappers around Microsoft BingMap control for WinRT to make databinding in XAML possible.<br /><br />for example:<br /><pre>\n&lt;Maps:BindableMap x:Name=&quot;MapControl&quot; ShapeLayers=&quot;{Binding ShapeLayers}&quot; Credentials=&quot;&quot; /&gt;\n</pre><br /><br />And not only binding with the basic properties but also an itemssource available to bind with:<br /><pre>\n&lt;Maps:BindableMap DataTemplateSelector=&quot;{StaticResource ItemTemplateSelector}&quot; ItemsSource=&quot;{Binding Items}&quot; /&gt;\n\n&lt;DataTemplate x:Key=&quot;ItemTemplate&quot;\n                Maps:LocationAwareDataTemplate.LatitudePath=&quot;Latitude&quot;\n                Maps:LocationAwareDataTemplate.LongitudePath=&quot;Longitude&quot;&gt;\n                &lt;Grid Width=&quot;50&quot; Height=&quot;50&quot; Background=&quot;Black&quot;&gt;\n                    &lt;TextBlock Text=&quot;{Binding Title}&quot; Foreground=&quot;Red&quot; /&gt;\n                &lt;/Grid&gt;\n            &lt;/DataTemplate&gt;\n</pre></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-11T01:10:54.11-07:00"
+}

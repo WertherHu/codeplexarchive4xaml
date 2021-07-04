@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspnettwoway",
+  "Title": "Asp.NET Two-Way DataBind Controls",
+  "Description": "These controls have the same capabilities the Windows Forms controls have. With them you can use the two-way databind funcionalities. To use these funcionalities it's easy like Windows Forms is.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />These controls have the same capabilities the Windows Forms controls have. With them you can use the two-way databind funcionalities. To use these funcionalities it&#39;s easy like Windows Forms is.<br /><br />After I have searched a lot for Two-Way DataBind controls in Asp.Net I couldn&#39;t found them. So I start to creat my own controls. And after I have used them I liked the result.<br />I think they are very generic for all uses in the moment and easy to use.<br />Who has already use the DataBindings of the Windows Forms won&#39;t has problem to use the controls.<br />Look the follow example:<br /><br /><pre>\nclass AClass\n{\n      public int AProperty{get;set;}\n}\n\npublic APage : Page\n{\n      AClass c = new AClass();\n      public void Page_Load{object sender, EventArgs e)\n      {\n            // here the c.AProperty has the default value 0\n            this.txtTwoWay.DataBindings.Add(&quot;Text&quot;, c, &quot;AProperty&quot;);\n\n            // execute the DataBind of the all controls from the page\n            this.ExecuteDataBinds();\n      }\n\n      public void button1_Click(object sender, EventArgs e)\n      {\n             this.ExecuteDataBinds();\n             // here the c.AProperty has the value that the txtTwoWay Text is filled\n      }\n}\n</pre><br /><br />Feel free to use and comments.<br />Thanks.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-02-03T17:47:23.947-08:00"
+}

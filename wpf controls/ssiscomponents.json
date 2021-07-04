@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ssiscomponents",
+  "Title": "SSIS Control Flow Task Components",
+  "Description": "This page will presets you a brief introduction of some SSIS Custom Components that can help you in your SSIS developements.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This page will presets you a brief introduction of some SSIS Custom Components that can help you in your SSIS developments.\r\n<p><a href=\"http://download.codeplex.com/Download?ProjectName=ssiscomponents&DownloadId=275099\"><img title=\"ssis\" border=\"0\" alt=\"ssis\" src=\"http://download.codeplex.com/Download?ProjectName=ssiscomponents&DownloadId=275100\" width=\"579\" height=\"402\" style=\"border-bottom:0px; border-left:0px; display:inline; border-top:0px; border-right:0px\"></a>\r\n</p>\r\n<ul>\r\n<li>Dynamic WCF Task – <a href=\"http://ssisdynamicwcf.codeplex.com\">http://ssisdynamicwcf.codeplex.com</a>\r\n<br>\r\n</li><li>Bulk Export Task - <a href=\"http://ssisbulkexport.codeplex.com/\">http://ssisbulkexport.codeplex.com/</a>\r\n<br>\r\n</li><li>Dynamic WebService Task - <a href=\"http://ssisdynamicws.codeplex.com/\">http://ssisdynamicws.codeplex.com/</a>\r\n<br>\r\n</li><li>SFTP Task – <a href=\"http://ssissftp.codeplex.com\">http://ssissftp.codeplex.com</a>\r\n<br>\r\n</li><li>SSRS Report Generator - <a href=\"http://ssisreportgenerator.codeplex.com/\">http://ssisreportgenerator.codeplex.com/</a>\r\n<br>\r\n</li><li>Execute Assembly Task – <a href=\"http://ssisassembly.codeplex.com\">http://ssisassembly.codeplex.com</a>\r\n<br>\r\n</li><li>Download File Task - <a href=\"http://ssisdownloadfiletask.codeplex.com/\">http://ssisdownloadfiletask.codeplex.com/</a>\r\n<br>\r\n</li><li>Encoding File Task - <a href=\"http://ssisencodefiletask.codeplex.com/\">http://ssisencodefiletask.codeplex.com/</a>\r\n</li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-08-29T02:43:03.82-07:00"
+}

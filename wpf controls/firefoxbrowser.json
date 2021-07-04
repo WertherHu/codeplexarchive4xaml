@@ -1,0 +1,9 @@
+{
+  "ProjectName": "firefoxbrowser",
+  "Title": "Firefox Embedded Browser",
+  "Description": "A control to embed Firefox's Web-Browser in a program. It requires Firefox be installed but other then that, its all self contained!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A control to embed Firefox&#39;s Web-Browser in a program. It requires Firefox be installed but other then that, its all self contained&#33;<br />\n<h4>About</h4>\rThis is a simple control aimed at making life easier when you need a web browser program and you don&#39;t want to use Microsoft&#39;s shitty Web-browser control. Everyone who isn&#39;t a dumbass loves Firefox and now you can make everyone happy by using Firefox!<br />\n<h4>Notes</h4>\r<ul><li>Based off <a href=\"http://geckofx.org\">Skybound&#39;s Gecko FX</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "firefox,c#,C# 3.5,Embedded,Embed,Web,Web Browser,C# 3.0,",
+  "LastEdited": "2009-10-06T21:41:41.93-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CleanSVG",
+  "Title": "CleanSVG",
+  "Description": "CleanSVG allows the user to reduce the size of SVG documents or SVG images to allow for faster transmission on the Web. Options are available to tune these settings to include precision setting, element trimming and class and style creation. The tool can also run in batch mode.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><img src=\"http://download.codeplex.com/Download?ProjectName=cleansvg&DownloadId=296576\" alt=\"sweep\" width=\"96\" height=\"96\">Welcome to the CleanSVG Project</h1>\r\n<p>We hope that the community will find this tool useful for modifying SVG files for production. The tool has many options as indicated in the project description below. See the\r\n<a href=\"http://cleansvg.codeplex.com/documentation\">Documentation </a>section for more details on how to use CleanSVG.<br>\r\n<br>\r\n<strong>Project Description</strong><br>\r\nCleanSVG allows the user to reduce the size of SVG documents or SVG images to allow for faster transmission on the Web. Options are available to tune these settings to include precision setting, element trimming and class and style creation. The tool can also\r\n run in batch mode.<br>\r\n<br>\r\n</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-10-25T12:38:24.483-07:00"
+}

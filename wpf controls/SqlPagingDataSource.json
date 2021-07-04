@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SqlPagingDataSource",
+  "Title": "Custom Paging for SqlDataSource",
+  "Description": "The SqlDataSource control does not support paging on the database server, instead it pulls all records from the database every time the Select method is executed (unless caching is enabled). Paging is implemented by the gridview and other data controls by filtering the in-memory dataset. This approach is not very efficient with large datasets.\n\nThis conrol inherits from the SqlDataSource control and adds a few properties to allow the paging to be handled by the database server so that only the records needed for the current page are pulled from the database server. An example of the SQL code for such a stored procedure can be found at http://aspnet.4guysfromrolla.com/articles/031506-1.aspx \n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The SqlDataSource control does not support paging on the database server, instead it pulls all records from the database every time the Select method is executed &#40;unless caching is enabled&#41;. Paging is implemented by the gridview and other data controls by filtering the in-memory dataset. This approach is not very efficient with large datasets.<br /><br />This conrol inherits from the SqlDataSource control and adds a few properties to allow the paging to be handled by the database server so that only the records needed for the current page are pulled from the database server. An example of the SQL code for such a stored procedure can be found at http&#58;&#47;&#47;aspnet.4guysfromrolla.com&#47;articles&#47;031506-1.aspx <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SQL Server,Cache,",
+  "LastEdited": "2008-07-23T07:51:04.487-07:00"
+}

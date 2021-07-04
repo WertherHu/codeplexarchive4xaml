@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slmodalwizard",
+  "Title": "Modal Window in Silverlight",
+  "Description": "This article shows how to implement a class that enables a modal display of any UserControl derived control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This article shows how to implement a class that enables a modal display of any UserControl derived control.<br /><br /><br /><b>Background</b><br />My first implementation of ModalControl class required that you derive your controls from it in order for them to be displayed <br />modally. That works very well, and it is the most complete and easy to use implementation. But, Expression Blend designer window <br />does not display controls that are not derived directly from UserControl, so we lose all the nice design features of Blend.<br /><br />That made me think how else I could achieve the same behaviour without losing designing with Blend. <br />After some thinking, I realised that aggregation must be the solution.<br /><br /><b>Features of the ModalControl Class</b><br />•Modal display of any UserControl derived control<br />•Dragging of the hosted control<br />•Centering the hosted control when the browser is resized<br />•Hosted control is prevented from being dragged outside the browser&#39;s window<br /><br />Original publication may be found here <a href=\"http://www.codeproject.com/KB/silverlight/slmodal.aspx?msg=3023026#xx3023026xx\">Modal Window in Silverlight</a><br /><br />Additional information on starting a new project is available here: <a href=\"http://www.codeplex.com/Wiki/View.aspx?ProjectName=CodePlex&amp;title=CodePlex%20Project%20Startup%20Guide\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Modal,dialog,window,Silverlight,Silverlight 2.0,Silverlight Controls,Wizard,easy,Silverlight NPE,",
+  "LastEdited": "2009-04-30T06:20:40.883-07:00"
+}

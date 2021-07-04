@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pnppubsub",
+  "Title": "patterns & practices: Prism Event Aggregator",
+  "Description": "The Prism library provides loosely coupled pub/sub events using the Event Aggregator pattern. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Prism library provides loosely coupled pub&#47;sub events using the Event Aggregator pattern. <br /><br />The Event Aggregator is a portable class library that runs on .NET 4.0 or higher, Silverlight 5, Windows Phone 8, and Windows Store apps (Windows 8) and higher. <br /><br />For samples that use the event aggregator see the Event Aggregation QuickStart or Stock Trader RI from the <a href=\"https://compositewpf.codeplex.com/releases/view/117297\">Prism for WPF download</a> or AdventureWorks Shopper RI from the <a href=\"http://aka.ms/prism-winrt-code\">Prism for the Windows Runtime download</a>.<br />\n<h1>Where to get Event Aggregator Binaries</h1>\r<ul><li><b>NuGet packages:</b>  <a href=\"https://www.nuget.org/packages/Prism.PubSubEvents/\">Prism.PubSubEvents</a></li></ul>\n<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Prism,p&p,patterns & practices,PCL,Windows Store,Windows 8,Windows Phone,WPF,",
+  "LastEdited": "2014-02-04T15:27:23.483-08:00"
+}

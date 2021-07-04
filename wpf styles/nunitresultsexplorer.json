@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nunitresultsexplorer",
+  "Title": "NUnit Results Explorer",
+  "Description": "NUnit Results Explorer allows the viewing of NUnit XML result files.\n\nIt is written in C#/WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />NUnit Results Explorer allows the viewing of NUnit XML result files.<br /><br />It is written in C&#35;&#47;WPF.<br /><br />It currently targets NUnit 2.5.7.<br /><br />NUnit Results Explorer is still under initial development, but the current source base <i>should</i> work reasonably.<br /><br />Please see the <a href=\"https://nunitresultsexplorer.codeplex.com/documentation?referringTitle=Home\">documentation</a> to find out how to get started.<br /><br /><img src=\"/projects/nunitresultsexplorer/96402e0c-2b0f-4b92-a81d-21332261bef1\" alt=\"nunitresults.jpg\" title=\"nunitresults.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "nunit,.NET 4.0,C#,WPF,xml,",
+  "LastEdited": "2010-09-24T14:10:52.687-07:00"
+}

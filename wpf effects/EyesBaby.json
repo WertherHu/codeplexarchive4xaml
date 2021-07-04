@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EyesBaby",
+  "Title": "EyesBaby",
+  "Description": "a.EyesBaby using c# Winform developmeng project\nb.With an eye protection method,regularly reminded,Windows prospect of application of function such as regulator.EyesBaby hava window drag and zoom,and pictures control character,Windows foreground window fade in effect etc.Function",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Info</b><br /><br />a.EyesBaby using c&#35; Winform developmeng project<br />b.With an eye protection method,regularly reminded,Windows prospect of application of function such as regulator.EyesBaby hava window drag and zoom,and pictures control character,Windows foreground window fade in effect etc.Function<br /><br /><b>Intro</b>\n<ul><li>1.    选择眼保方法 \n<ul><li>a.设定某一种提醒眼保方法后，定时提醒功能会根据指定方法即时显示。</li>\n<li>b.6种眼保方法</li></ul></li></ul>\n<b>眼珠运动法</b><br />头向上下左右旋转时，眼珠也跟着一起移动。<br /><b>眨眼法</b><br />头向后仰并不停的眨眼，使血液畅通。眼睛轻微疲劳时，只要做2~3次眨眼运动即可。<br /><b>热冷敷交替法</b><br />一条毛巾浸比洗澡水还要热一点的热水，另一条毛巾浸加了冰块的冷水，先把热毛巾放在眼睛上约五分钟，然后再放冷毛巾五分钟。<br /><b>眼睛体操</b><br />中指指向眼窝和鼻梁间，手掌盖脸来回摩擦五分钟。然后脖子各项左右慢慢移动，接着闭上双眼，握拳轻敲后颈部十下。<br /><b>看远看近法</b><br />看远方三分钟，再看手掌1~2分钟，然后再看远方。这样远近交换几次，可以有效消除眼睛疲劳。<br /><b>黑屏</b><br />黑屏能对保护眼睛更有益。<br />\n<ul><li>2.    定时提醒功能\n<ul><li>a.时长设定</li></ul></li></ul>\n设定提醒间隔时长.图中设置每隔30分钟提醒1分钟时间.<br />\n<ul><li>b.是否强制模式</li></ul>\n是强制模式，显示提示方法时将以全屏方式呈现。如果不是强制模式，将以自动调节方式，同时还可以拖拽提醒窗口，滑动滚动轴可以调整窗口大小。<br />\n<ul><li>c.倒计时显示及任务栏通知         </li></ul>\n倒计时显示功能可查看当前距休息/工作的时长，以秒为单位。任务栏通知功能将在倒计时休息十秒前通知用户。<br />\n<ul><li>d.手动显示/隐藏</li></ul>\n可以自由调整显示或隐藏提醒窗口。双击任务栏托盘图标可以手动启用显示/隐藏<br /> \n<ul><li>3.Windows前景调节器功能\n<ul><li>a.启动Windows前景调节功能，可自定义设置屏幕颜色(推荐使用浅淡颜色)。</li></ul></li></ul>\n\n<ul><li>b. 设置屏幕颜色</li></ul>\n图中默认设置为微软推荐使用背景.<br />\n<ul><li>4.自动更新功能</li></ul>\n启动眼保程序后，系统会自动检查是否有新版本。发现新版本后会自动下载并更新软件。<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "EyesBaby,眼保程序,Winform,C#,",
+  "LastEdited": "2010-01-15T00:48:13.95-08:00"
+}

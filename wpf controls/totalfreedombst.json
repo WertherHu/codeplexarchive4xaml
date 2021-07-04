@@ -1,0 +1,9 @@
+{
+  "ProjectName": "totalfreedombst",
+  "Title": "TotalFreedom Bootstrap MVC",
+  "Description": "This is a small library that allows to use C# classes and helpers to include some of bootstrap controls and components to a MVC page.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>TotalFreedom Bootstrap MVC library</b><br />This is a small library that allows to use C&#35; classes and helpers to include some of bootstrap controls and components to a MVC page.<br /><br /><b>Benefits</b>\n<ul><li>The most important is that you find most of errors on compile time, without testing a page. Significantly decrease testing time and increase quality</li>\n<li>Second, if you try to use some of the element out of valid scope, an exception will be thrown, will let you immediately see what and where went wrong. Therefore decrease testing time and increase quality</li>\n<li>No need to manage div id&#39;s, no worries if you did typo and struggle to find what is wrong. Helper methods allow to inject javascript methods to manipulate underlining objects</li>\n<li>Templates that generate names of your partial files, no need to type directory and file names. Just use generated constants</li></ul>\n<br />You can see demo of features and samples of source code at <a href=\"http://totalfreedomllc.com/mvcbst\">http://totalfreedomllc.com/mvcbst</a><br /><br />The library is available as a NuGet package from <a href=\"https://nuget.org/packages/TotalFreedomBST/\">https://nuget.org/packages/TotalFreedomBST/</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "bootstrap mvc,asp.net bootstrap,bootstrap,asp.net mvc,",
+  "LastEdited": "2013-03-22T22:22:49.597-07:00"
+}

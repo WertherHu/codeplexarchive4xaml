@@ -1,0 +1,9 @@
+{
+  "ProjectName": "QTscenarist",
+  "Title": "QTscenarist",
+  "Description": "QTscenarist makes it easier for Synfig animation to create Synfig movies.\r\nYou can write scenaries and create your movie with it.\r\nIt's developed in QT. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />QTscenarist makes it easier for Synfig animation to create Synfig movies.<br />You can write scenaries and create your movie with it.<br />It&#39;s developed in QT. <br /><br /><br /><i>Howto:</i><br />You write script and open it in SIFscenarist. It creates files and directories to work.<br /><br /><u><b>V. 0.0.1</b></u><br />Only initial version (pre-alpha)<br /><br /><i><b>V. 0.1.1</b></i><br /><i>planned - just working</i><br /><br /><i><b>V. 0.8.1</b></i><br /><i>planned - division on 2 files - GUI and render module</i><br /><br /><br /><i>Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Synfig,scripting,Scenario,screenplay,",
+  "LastEdited": "2012-06-22T20:48:46.793-07:00"
+}

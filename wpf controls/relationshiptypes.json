@@ -1,0 +1,9 @@
+{
+  "ProjectName": "relationshiptypes",
+  "Title": "Inversion of Control (IoC) Relationship Types",
+  "Description": "An implementation of the principles described in http://nblumhardt.com/2010/01/the-relationship-zoo/ that stand independent of any IoC container.\r\n\r\nContainer-specific support is provided where possible.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An implementation of the principles described in http&#58;&#47;&#47;nblumhardt.com&#47;2010&#47;01&#47;the-relationship-zoo&#47; that stand independent of any IoC container.<br /><br />Container-specific support is provided where possible.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-18T16:00:50.037-07:00"
+}

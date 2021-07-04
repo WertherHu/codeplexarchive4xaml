@@ -1,0 +1,9 @@
+{
+  "ProjectName": "t4ef",
+  "Title": "Visual Studio 2010 T-4 Templates for Logical Layers",
+  "Description": "This open source project includes a set of T-4 templates to enable you to build logical layers (i.e. DAL/BLL) with just few clicks! The logical layers implemented here are  based on Entity Framework 4.0, ASP.NET Web Form Data Bound control friendly and fully unit testable.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This open source project includes a set of T-4 templates to enable you to build logical layers &#40;i.e. DAL&#47;BLL&#41; with just few clicks&#33; The logical layers implemented here are  based on Entity Framework 4.0, ASP.NET Web Form Data Bound control friendly and fully unit testable.<br /><br />In this open source project you will get Entity Framework 4.0 based T-4 templates for following types of logical layers:\n<ul><li><b>Data Access Layer:</b> Entity Framework 4.0 provides excellent ORM data access layer. It also includes support for T-4 templates, as built-in code generation strategy in Visual Studio 2010, where we can customize default structure of data access layer based on Entity Framework. default structure of data access layer has been enhanced to get support for mock testing in Entity Framework 4.0 object model.</li>\n<li><b>Business Logic Layer:</b> ASP.NET web form based data bound control friendly business logic layer, which will enable you few clicks to build data bound web applications on top of ASP.NET Web Form and Entity Framework 4.0 quickly with great support of mock testing.</li></ul>\n<br /><img src=\"http://weblogs.asp.net/blogs/ashraful/Capture_thumb_3EED71B3.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "t-4,T4,T4 Templates,ASP.NET 4.0,Entity Framework 4.0,Entity Framework,Entity,code generation,Code Generator,Visual Studio 2010,Visual Studio,Template,",
+  "LastEdited": "2011-01-12T12:29:41.737-08:00"
+}

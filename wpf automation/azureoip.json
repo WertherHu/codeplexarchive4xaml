@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azureoip",
+  "Title": "Windows Azure Integration Pack for System Center Orchestrator",
+  "Description": "This project is intended to provide full automation capabilities with Windows Azure by using the Windows Azure REST API.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is intended to provide full automation capabilities with Windows Azure by using the Windows Azure REST API.<br /><br /><b>Feature Requests</b><br />This project is starting off small with new features getting added along the way. If you would like to influence the development path of the project, submit your feature requests into <a href=\"https://azureoip.codeplex.com/discussions\">discussions</a>.<br /><br /><b>Version History</b>\n<ul><li>1.0 - 10th Feb 2014 - Support for SQL Database Server</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-02-10T14:32:43.01-08:00"
+}

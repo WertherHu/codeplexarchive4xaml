@@ -1,0 +1,9 @@
+{
+  "ProjectName": "splaunch",
+  "Title": "SPLaunch (PowerShell remoting automation)",
+  "Description": "Wrapper to automate PowerShell remoting. Two CSV files hold target server names and shortcut cmdlets so you can easily mix and match to run without typing much.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Description</h2>\rWrapper to automate PowerShell remoting. Two CSV files hold target server names and shortcut cmdlets so you can easily mix and match to run without typing much.<br />\n<h2>MOVED TO GITHUB</h2>\r <a href=\"https://github.com/spjeff/splaunch\">https://github.com/spjeff/splaunch</a><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,powershell,remoting,",
+  "LastEdited": "2016-04-13T10:49:22.963-07:00"
+}

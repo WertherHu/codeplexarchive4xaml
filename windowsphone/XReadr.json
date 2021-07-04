@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XReadr",
+  "Title": "Windows Phone 7 -  XReadr - A simple Google Reader App",
+  "Description": "XReadr is a simple Windows Phone 7 app using Google Reader API.\r\nIt already has login, browse and mark it as read function here.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />XReadr is a simple Windows Phone 7 app using Google Reader API.<br />It already has login, browse and mark it as read function here.<br /><br /><br />XReadr is simple Windows Phone 7 App which using Google Reader API.<br /><br />It also has follow function:<br /><br />1. Login page which using HttpWebRequest<br /><img src=\"/projects/XReadr/91f40039-84af-420c-8de5-c21c990dc1cf\" alt=\"XReadr.jpg\" title=\"XReadr.jpg\" /><br /><br />2. Browse Unread Labels<br /><img src=\"/projects/XReadr/322a2719-4901-4c43-a280-d99d7b2baa17\" alt=\"XReadr2.jpg\" title=\"XReadr2.jpg\" /><br /><br />3. Browse every news on Label<br /><img src=\"/projects/XReadr/f1280ec9-0312-4a3b-8d5b-bd3a5c9f22c1\" alt=\"XReadr3.jpg\" title=\"XReadr3.jpg\" /><br /><br /><br />I also put the first draft of source code, I hope it could help all of you which want to write more Windows News App here.<br /><br />More implementation detail about how Windows Phone to use Google Reader API, please refer my blog here:<br /><a href=\"http://www.evanlin.com/blog/archives/001138.html\">http://www.evanlin.com/blog/archives/001138.html</a> <br /><a href=\"http://www.evanlin.com/blog/archives/001139.html\">http://www.evanlin.com/blog/archives/001139.html</a><br /><br />It  write by Traditional Chinese, feel free to ask me via English.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WindowsPhone,JSON,google reader,",
+  "LastEdited": "2012-05-06T11:58:23.733-07:00"
+}

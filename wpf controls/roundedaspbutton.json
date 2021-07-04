@@ -1,0 +1,9 @@
+{
+  "ProjectName": "roundedaspbutton",
+  "Title": "Sliding Doors Asp:Button Adapter for SharePoint 2010",
+  "Description": "This project extends Sliding Doors Button Adapter project, with some improvements and compatibles with Microsoft SharePoint 2010.\r\n\r\nDetails:\r\n- Overrides Asp:Button.Render() with <button /> instead of <input />\r\n- Uses an custom .adapter in app_browser-folder\r\n- Handles button:hover and button[disabled] (css)\r\n- Compatible with: IE8+, FF, Chrome\r\n- Deployed with SPJobDefinition\r\n\r\nThanks to:\r\n- Sliding Doors Button Adapter project: http://slidingbuttons.codeplex.com/\r\n- Wictor Wilén and his book: SharePoint 2010 Web Parts in Action",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project extends the <a href=\"http://slidingbuttons.codeplex.com/\">Sliding Doors Button Adapter</a> project with some improvements. It is now also compatible with Microsoft SharePoint 2010.<br /><br />Details:<br />- Overrides Asp:Button.Render() with &lt;button /&gt; instead of &lt;input /&gt;<br />- Uses an custom .adapter in app_browser-folder<br />- Handles button:hover and button[disabled] (css)<br />- Compatible with: IE8+, FF, Chrome<br />- Deployed with SPJobDefinition<br /><br />Thanks to:<br />- <a href=\"http://slidingbuttons.codeplex.com\">Sliding Doors Button Adapter project</a><br />- <a href=\"http://www.manning.com/wilen/\">Wictor Wil&#233;n and his book: SharePoint 2010 Web Parts in Action</a><br /><br />Examples:<br /><img src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=roundedaspbutton&DownloadId=316284\" alt=\"316284\" title=\"316284\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,SharePoint 2010,css,rounded button,ASP.NET Control,Adapters,",
+  "LastEdited": "2011-12-18T13:44:55.363-08:00"
+}

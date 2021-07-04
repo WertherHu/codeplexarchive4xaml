@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WpfFeeCalculation",
+  "Title": "WPF Fee Calculation",
+  "Description": "WPF reactive user experience, WCF server",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Responsive Wpf user Experience sample</b><br />WPF reactive user experience, WCF server<br /><br /><br />This is a sample program to give a more responsive user experience. It has been cut down just to show the concepts. <br /><br />Data is received from the WCF server for three items<br />1) portfolios are only updated once at the opening of the calculation view.<br />2) price cut off are populated on button press<br />3) the spreadsheet data is triggered to get the data and a button is enabled once the data has arrived.<br /><br />This also shows how to use the MVVM pattern for a non WPF component. <br /><br />This uses the concept introduced in <a href=\"https://wpffeecalculation.codeplex.com/wikipage?title=http%3a%2f%2fmsdn.microsoft.com%2fen-us%2fmagazine%2fdd419663.aspx&referringTitle=Home&ANCHOR#id0090030\">http&#58;&#47;&#47;msdn.microsoft.com&#47;en-us&#47;magazine&#47;dd419663.aspx</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-02T00:00:41.04-07:00"
+}

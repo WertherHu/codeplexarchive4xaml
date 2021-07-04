@@ -1,0 +1,9 @@
+{
+  "ProjectName": "myphotoalbum",
+  "Title": "Xml Driven Silverlight Photo Album",
+  "Description": "This is very simple to deploy silverlight photo album which is completely driven by xml data file and images.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>XML Driven Silverlight Photo Album</h2>\r\nThis is very simple to setup xml driven photo album. All you need to do is upload your photos and place xap file, simple html file to host xap file and data.xml files to your web site. Data.xml should contain list of your images with their titles and descriptions. After that you should have something like on the image below. Image viewer has some nice scroll and zoom features. Full screen mode and hiding menu are also supported.<br /><br />See live version <a href=\"http://asyrovprog.host22.com/album/Default.html\">here &gt;&gt;</a><br /><br /><br /><img src=\"/projects/myphotoalbum/981e84a9-f306-4c75-83c5-da95b9cd8815\" alt=\"Silverlight&#32;Photo&#32;Album\" title=\"Silverlight&#32;Photo&#32;Album\" /><br />\n<h2>See my other projects:</h2>\rSilverlight timeline: <a href=\"http://timeline.codeplex.com\">http://timeline.codeplex.com</a><br />Xml Driven Silverlight Photo Album: <a href=\"http://myphotoalbum.codeplex.com\">http://myphotoalbum.codeplex.com</a><br />\n<h2>Contact Me</h2>\rIf you interested in custom development based on the program please <a href=\"http://www.linkedin.com/pub/andrew-syrov/17/580/5b5\">contact me at LinkedIn</a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "silverlight,c#,photo,album,Photo Album,",
+  "LastEdited": "2014-05-05T16:13:35.73-07:00"
+}

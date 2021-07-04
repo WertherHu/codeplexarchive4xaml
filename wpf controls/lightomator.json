@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lightomator",
+  "Title": "Enough light-o-mator",
+  "Description": "Control your Netduino powered RGB LEDs using this Windows Phone 8 app and Netduino .NET Microframework code.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>LIGHT-O-MATOR</h1>\rControl your living room RGB LED lights remotely using this Windows Phone 8 app and <a href=\"http://netduino.com/\">Netduino</a> powered control.<br /><br /><a href=\"http&#58;&#47;&#47;www.enough.de&#47;products&#47;treats\"><img src=\"/projects/lightomator/79466be2-2e9f-4acf-827d-61b0fa94dba1\" alt=\"Enough&#32;Software\" title=\"Enough&#32;Software\" /></a><br />An <a href=\"http://www.enough.de/products/treats\">Enough Software</a> project.<br /><br /><img src=\"/projects/lightomator/21481bd7-6951-4d43-a3cd-194b5a3b7d2b\" alt=\"WP_multiple_save.png\" title=\"WP_multiple_save.png\" /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "windows phone,Netduino,LED,Bluetooth,.NET Micro Framework,",
+  "LastEdited": "2013-10-17T12:49:34.313-07:00"
+}

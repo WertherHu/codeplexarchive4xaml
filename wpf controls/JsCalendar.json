@@ -1,0 +1,9 @@
+{
+  "ProjectName": "JsCalendar",
+  "Title": "Javascript Calendar",
+  "Description": "Javascript Calendar without any server side postbacks.\nIt has a simple javascript file and a images folder to hold related images.\n\nA Sample html file demonstrating the usage of the javascript based calendar control is also added. This can be used with simple Html, Asp, Asp.Net ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Javascript Calendar without any server side postbacks.<br />It has a simple javascript file and a images folder to hold related images.<br /><br />A Sample html file demonstrating the usage of the javascript based calendar control is also added. This can be used with simple Html, Asp, Asp.Net 2.0, 3,5, 4.0 or any jsp pages too.<br /><br />While using Asp.Net the ClientId needs to be passed  to the function .<br />\n<h1>Sample Usage:</h1>\r\n&lt;input type=&quot;text&quot; id=&quot;txtDate&quot; onclick=&quot;fnPopUpCalendar(txtDate,txtDate,&#39;dd/mm/yyyy&#39;)&quot;/&gt;<br /><br /><b>onclick=&quot;fnPopUpCalendar(ImageId,AssociatedTextBoxId, Format of display like &#39;dd/mm/yyyy&#39;)&quot; </b><br />*ImageId - this is the Id of the Image control, If we have a image control next to the textbox , on click of which the calendar should appear. If no image available pass the textbox id.<br />*AssociatedTextBoxId - Id of the Textbox control which will receive the date selected by this control<br />*Format of display  - The format  the selected date should display as , it may be dd/mm/yy or mm/dd/yy or dd/mm/yyyy</div><div class=\"ClearBoth\"></div>",
+  "TagList": "javascript,calendar,",
+  "LastEdited": "2010-03-02T02:24:06.803-08:00"
+}

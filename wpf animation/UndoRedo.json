@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UndoRedo",
+  "Title": "UndoRedo",
+  "Description": "UndoRedo functions to only INotifyPropertyChanging support class",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Features</b>\n<ul><li>Easy way to undo and redo changes objects properties.</li>\n<li>Minimum requirements to use.</li>\n<li>No additional programming more than INotifyPropertyChanging support.</li></ul>\n<br /><b>Functions</b>\n<ul><li>Any changes to all properties of all elements of the collection will be stored in the undo system.</li>\n<li>No additional programming in custom class more than support changing notification.</li></ul>\n<br /><b>Requirements for user-defined type</b>\n<ul><li>Use notification before changing the properties to use in the undo system.</li>\n<li>Derived from ObservableCollection&lt;T&gt;, where T: INotifyPropertyChanging.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,wpf,undo,redo,memento,changing,property,notifying,",
+  "LastEdited": "2014-07-21T22:57:08.923-07:00"
+}

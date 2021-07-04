@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azurewpfcontrols",
+  "Title": "WPF Controls for Windows Azure",
+  "Description": "The purpose of this project is to share basic WPF controls and helpers for integrating with Windows Azure for development purposes.  Why these controls when free or 3rd party controls are already available?  The key difference is \"for development purposes\" - not intended for PROD",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The purpose of this project is to share basic WPF controls and helpers for integrating with Windows Azure for development purposes.  Why these controls when free or 3rd party controls are already available&#63;  The key difference is &#34;for development purposes&#34; - not intended for PROD<br /><br />For example, all CloudBlob items show in the TreeView, including the special &quot;$$$.$$$&quot; files.  A production app should mask these away.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure Storage,Azure,WPF,TreeView,",
+  "LastEdited": "2010-07-20T08:43:54.013-07:00"
+}

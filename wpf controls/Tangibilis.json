@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Tangibilis",
+  "Title": "Bixas.Tangibilis",
+  "Description": "A framework to manipulate wpf via touch table interface, wiimote or any device on top of the TUIO protocol",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A framework to manipulate wpf via touch table interface, wiimote or any device on top of the TUIO protocol<br /><br /><br />References:\n<ul><li><a href=\"http://tuio.lfsaw.de\">The TUIO protocol</a></li></ul>\n<br />How to use? <br />You must use visual studio 2008 to build sources.<br />You must have a tuio compatible device (multitouch table, wiimote with tuio wrapper, tuisimulator, ...) </div><div class=\"ClearBoth\"></div>",
+  "TagList": "wpf,Touch,TUIO,",
+  "LastEdited": "2008-05-15T13:26:11.51-07:00"
+}

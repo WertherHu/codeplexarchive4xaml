@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PersianSilverlight",
+  "Title": "Persian Support for Silverlight 2.0",
+  "Description": "This a project to support Persian language in Microsoft Silverlight 2.0",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br /><i><b>Please be aware that Silverlight 4.0 has added BiDi support which means it now supports right to left languages such as Persian therefore you do not need this project anymore to be able to create Persian supported Silverlight apps</b></i><br /><br /><b>Project Description</b><br />This is a project to support Persian language in Microsoft Silverlight 2.0<br /><br />As everybody knows Silverlight 2.0 does not support right to left languages. Therefore the first issue that every developer who desire to write applications in RTL languages should deal with it, is to find a way to solve this problem. I am aware that a similar project is running to support Arabic and Hebrew languages in Silverlight. The name of this project is &quot;Silverlight 2.0 Hebrew &amp; Arabic Language Support&quot; and it is available in codeplex, too. However my project is not as professional as their project, it might be useful. I am the only developer of this project. You can add your comments here or at <a href=\"http://daneshmandi.spaces.live.com\">http://daneshmandi.spaces.live.com</a><br /><br />This project includes a library which you can use it to convert Persian raw text to a formatted Persian string that can be showed correctly in Silverlight 2.0.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight 2.0,Silverlight Controls,xaml,Persian,Farsi,RTL,Right to Left,Arabic,Hebrew,Persian support,Farsi support,WPF,Silverlight 2,C#,.NET 3.5,LINQ,library,Visual Studio 2008,MyList.SilverLight,localization,",
+  "LastEdited": "2010-03-03T03:47:35.043-08:00"
+}

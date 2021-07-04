@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GaugeThis",
+  "Title": "GaugeThis Progress Bar",
+  "Description": "GaugeThis will (eventually) be an open source collection of highly customizable WinForm UI controls. This particular progress bar control utilizes various GDI drawing techniques. It is developed in VB.NET.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />GaugeThis will &#40;eventually&#41; be an open source collection of highly customizable WinForm UI controls. This particular progress bar control utilizes various GDI drawing techniques. It is developed in VB.NET.<br /><br />The GaugeThis Progress Bar uses the DrawBorder3D method of the Grapics object to allow the standard control boder styles, as well as some custom styles and a rounded-corner bitmap background.  It is fully GDI drawn, and it has many features that are lacking in the .NET common controls version, including:\n<ul><li>Ability to overlay text, value, and completion percentage</li>\n<li>Ability to control gradient pattern and colors</li>\n<li>Ability to control segment and gap width</li>\n<li>Ability to control background color (except with rounded corners... coming soon), forecolor, font, etc.</li></ul>\n<br /><img src=\"/projects/GaugeThis/340eeeb6-b431-49f5-94fa-d9279719a2cf\" alt=\"samples.png\" title=\"samples.png\" /><br /><br /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Winforms,Controls,Progress Bar,GDI,Gauge,",
+  "LastEdited": "2009-08-28T09:18:07.44-07:00"
+}

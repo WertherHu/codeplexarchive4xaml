@@ -1,0 +1,9 @@
+{
+  "ProjectName": "readyapps",
+  "Title": "ReadyApps.Net",
+  "Description": "ReadyApps.Net allows the easy expansion of existing ASP.NET web sites with pre-built custom controls such as a wiki control for hybrid content management.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ReadyApps.Net allows the easy expansion of existing ASP.NET web sites with pre-built custom controls such as a wiki control for hybrid content management.<br /><br />This project is currently under development. See the <a href=\"https://readyapps.codeplex.com/wikipage?title=Release%20Increments&referringTitle=Home\">Release Increments</a> page for more details on each increment.<br /><br />Suggestions for additional controls can be submitted in <a href=\"https://readyapps.codeplex.com/discussions/361992\">Suggestions for Additional Controls</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,ASP.NET 4.0,.NET 4.0,Custom Controls,wiki,CMS,",
+  "LastEdited": "2012-07-04T12:43:04.323-07:00"
+}

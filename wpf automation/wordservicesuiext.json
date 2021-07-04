@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wordservicesuiext",
+  "Title": "Word Services UI Extensions",
+  "Description": "Provides SharePoint UI integration components required for implementing Save As functionality for documents on server side using Word Automation Services, also Conversion Status monitoring which is integrated into Central administration site using a custom action",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Provides SharePoint UI integration components required for implementing Save As functionality for documents on server side using Word Automation Services, also Conversion Status monitoring which is integrated into Central administration site using a custom action<br /><br /><br />Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start%20a%20Project\">Project Startup Guide</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-21T19:41:58.063-07:00"
+}

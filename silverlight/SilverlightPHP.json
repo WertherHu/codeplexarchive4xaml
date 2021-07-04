@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightPHP",
+  "Title": "Embedding Silverlight in PHP",
+  "Description": "Sample PHP code demonstrating how to embed Silverlight content in a PHP application. The project also contains step-by-step instructions on how to create a new PHP web page and embed Silverlight content using Microsoft Expression Web 2.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Summary</h1>\rThis tutorial demonstrates how to include existing Silverlight content and streaming Silverlight content into a PHP web page.  The third part contains step by step instructions on how to use Micorosoft&#39;s Expression Web 2 to create PHP pages, embed a Silverlight control and deploy to an existing site.  These examples include a Silverlight control created using Microsoft&#39;s Expression Blend.\n<h1>Overview</h1>\rThe overall goal of this project is to demonstrate how PHP applications can take advantage of Microsoft technologies. Silverlight is an example of one element of the Microsoft platform which can be easily integrated into PHP web sites and open source web applications. \n<h1>Project Solution</h1>\r The code for this project includes sample HTML markup and PHP script to create HTML markup used to embed Silverlight content. <br />\n<h1>Contributors</h1>\r<h4>Project Sponsor</h4>\r<ul><li><a href=\"http://www.microsoft.com/interop\">Microsoft</a></li></ul>\n<h4>Project Team</h4>\r<ul><li><a href=\"http://www.accenture.com\">Accenture</a></li>\n<li><a href=\"http://www.avanade.com\">Avanade</a></li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "PHP,Silverlight,Tutorial,",
+  "LastEdited": "2010-08-10T11:30:28.45-07:00"
+}

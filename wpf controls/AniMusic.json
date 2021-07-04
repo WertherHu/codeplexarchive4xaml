@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AniMusic",
+  "Title": "AniMusic Player",
+  "Description": "AniMusic Player is a spin off music player from AniPlayer, but more music centric. It is very simple and easy to use & learn. And best of all, its developed using the easy to understand Visual Basic .NET using Microsoft's WMP ActiveX Control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>AniMusic Player has been superseded by <a href=\"http://bakamplayer.netii.net/index.php\">Baka MPlayer</a></h1>\r<a href=\"http&#58;&#47;&#47;bakamplayer.netii.net&#47;index.php\"><img src=\"/projects/AniMusic/9048c995-ae23-4f0c-808b-552873f4f648\" alt=\"Baka&#32;MPlayer\" title=\"Baka&#32;MPlayer\" /></a>\n<h2>Baka MPlayer is the new mplayer2 based media player that I am working on and it uses a lot less memory and cpu cycles than AniMusic Player. It also looks a lot nicer.</h2>\r<h2>Totally rewritten for speed and efficiency, you should seriously check it out!</h2>\r<h1>Main Website: <a href=\"http://bakamplayer.netii.net/\">http://bakamplayer.netii.net/</a></h1>\r<h1>Git: <a href=\"https://github.com/godly-devotion/Baka-MPlayer\">https://github.com/godly-devotion/Baka-MPlayer</a></h1>\r<hr />\n<h1>AniMusic Player Description</h1>\rAniMusic Player is a spin off music player from AniPlayer, but more music centric. It is very simple and easy to use &#38; learn. And best of all, its developed using the easy to understand Visual Basic .NET using Microsoft&#39;s WMP ActiveX Control.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "anime,Music,Music Player,AniMusic,AniMusic Player,",
+  "LastEdited": "2012-04-01T06:13:31.683-07:00"
+}

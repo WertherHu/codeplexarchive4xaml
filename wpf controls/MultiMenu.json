@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MultiMenu",
+  "Title": "MultiMenu ASP.NET Cascading Menu WebControl",
+  "Description": "MultiMenu is an N-level cascading menu WebControl written on the .NET 2.0/3.5 BCL. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MultiMenu is an N-level cascading menu WebControl written on the .NET 2.0&#47;3.5 BCL. <br /><br />MultiMenu is an extremely robust server control with the following features:<br />\n<ul><li>Horizontal, vertical, and context  display modes</li>\n<li>Full keyboard support</li>\n<li>Works with Netscape 6.0 (and greater), Internet Explorer 5.5 (and greater), Safari, FireFox 1.0 (and greater), and JAWS</li>\n<li>508 Compliant</li>\n<li>XML configurable </li>\n<li>CSS stylesheet driven </li>\n<li>Full Design Time Support</li></ul>\nFull source code is available along with serveral examples covering all features of the menu.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,DHTML,ASP.NET 2.0,Server Controls,webcontrol,webcontrols,Menu Controls,menu,cross browser,cascading menu,Context Menu,DHTML Menu,keyboard support,xml configuration,database support,",
+  "LastEdited": "2015-06-22T10:48:18.947-07:00"
+}

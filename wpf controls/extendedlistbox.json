@@ -1,0 +1,9 @@
+{
+  "ProjectName": "extendedlistbox",
+  "Title": "ListBox Extender",
+  "Description": "ExtendedListBox provides an ASP.Net extender to the ListBox control. This extender use AJAX framework to build a user friendly multiple selection behavior.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ExtendedListBox provides an ASP.Net extender to the ListBox control. This extender use AJAX framework to build a user friendly multiple selection behavior.<br /><br /><b>Screenshots</b><br /><br />Without ExtendedListBox:<br /><img src=\"/projects/extendedlistbox/9c7dd9fe-e8c8-48de-a172-8f37267d845c\" alt=\"extendedlistbox_disabled.PNG\" title=\"extendedlistbox_disabled.PNG\" /><br /><br />With ExtendedListBox:<br /><img src=\"/projects/extendedlistbox/1adfd7b4-aa14-4b86-98d9-acae5b3e81c8\" alt=\"extendedlistbox_enabled.PNG\" title=\"extendedlistbox_enabled.PNG\" /><br />\n<h2>Features</h2>\r<ul><li>Can be attached to any ListBox control, databound or not</li>\n<li>Supports attached ListBox&#39;s AutoPostback value</li>\n<li>Buttons to select one, many or all values</li>\n<li>Multiple selection of values</li>\n<li>Default style provided</li>\n<li>Custom styling based on CSS classes</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ajax extenders,ajax,ria,ASP.NET,webcontrols,",
+  "LastEdited": "2008-12-04T02:38:25.607-08:00"
+}

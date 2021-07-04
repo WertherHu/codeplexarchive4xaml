@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MetroToolbox",
+  "Title": "MetroToolbox",
+  "Description": "A library of useful tools for developer metro apps on windows rt.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A library of useful tools for developer metro apps on windows rt.<br /><br /><br />Not much here yet, so far the library includes:\n<ul><li>An implementation of attached behaviors &amp; triggers/actions</li></ul>\n<br /><i>Note</i>\n<ul><li>We currently require the Reactive Extensions 2.0 Beta</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "winrt,",
+  "LastEdited": "2012-06-28T07:54:05.66-07:00"
+}

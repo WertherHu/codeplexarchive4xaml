@@ -1,0 +1,9 @@
+{
+  "ProjectName": "responsivepgbt",
+  "Title": "Responsive Pretty Good Base Theme Orchard Theme",
+  "Description": "Responsive PGBT is a responsive Orchard theme that aims to provide a set of common markup and styling so other themes can easily inherit from it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Responsive PGBT is a responsive Orchard theme that aims to provide a set of common markup and styling so other themes can easily inherit from it.<br />\n<h2>This repository has moved to GitHub. Please visit the new repository at <a href=\"https://github.com/Lombiq/Responsive-Pretty-Good-Base-Theme\">https://github.com/Lombiq/Responsive-Pretty-Good-Base-Theme</a>.</h2>\r<h2>The CodePlex page is not maintained anymore, but still here for historical reference. </h2>\r\nThe theme extends <a href=\"http://prettygoodbasetheme.codeplex.com/\">Pretty Good Base Theme</a> with responsive properties taken from <a href=\"http://responsivetheme.codeplex.com/\">The Theme Machine Responsive theme</a> so credit goes to the Planet Telex team!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-12-10T04:02:12.857-08:00"
+}

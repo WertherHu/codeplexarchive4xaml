@@ -1,0 +1,9 @@
+{
+  "ProjectName": "touchmind",
+  "Title": "TouchMind",
+  "Description": "TouchMind is a Mind Map editor that uses the latest technologies to evaluate. Currently it uses Direct2D, HLSL, DirectWrite, Multi Touch, Ribbon Framework, Shell Lib and TSF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TouchMind is a tree node map editor.<br /><br />TouchMind is the project to evaluate the latest Windows technologies.  Currently, the following technologies are used:\n<ul><li>C++ 14</li>\n<li>Direct2D</li>\n<li>HLSL (using Direct2D&#39;s Direct3D interoperability)</li>\n<li>DirectWrite</li>\n<li>Multi Touch</li>\n<li>Ribbon Framework</li>\n<li>Shell Library (Jump list)</li>\n<li>TSF (Text Services Framework)</li>\n<li>XPS Printing</li>\n<li>MUI (Multilingual User Interface)</li>\n<li>Windows Animation</li></ul>\nTouchMind works on Windows 10/8/7 and Vista(with Platform Update).<br /><br /><b>Update: We&#39;ve converted the project file to a Visual Studio 2015 project.</b><br /><br /><img src=\"/projects/touchmind/10cf6c0b-e19d-4496-8875-5b835b695ce1\" alt=\"screenshot1\" title=\"screenshot1\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Direct2D,Direct3D,DirectWrite,HLSL,Ribbon; Windows 7,c++,Multitouch,TSF,jumplists,XPS,MUI,Ribbon,Mind Map,Animation,",
+  "LastEdited": "2015-09-21T22:50:50.917-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "timetogo",
+  "Title": "Time To Go",
+  "Description": "A little handy app that shows you how long you've got left until stuff.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Everyone&#39;s done a count down app right, well here&#39;s my effort.<br /><br />This is actually version 2.0, the first one I developed in VB.Net in WinForms during a rather quiet summer afternoon at one of my jobs whilst I was in Melbourne, Australia in 2006. I couldn&#39;t believe how excited everyone got about it. No work was done that afternoon, and for the rest of the day the only thing my mates did was yell out how long it was until home time, or the weekend, or their birthday, or Christmas, or how long ago they were born, or how long until they quit, or...you get the idea :)<br /><br />Well this one is just more of the same, but this time it&#39;s done in WPF, and using some design patterns, and will hopefully be a rather nice and most definitely over engineered bit of software.<br /><br />I&#39;m going to be developing this for some time, so check back for updates often.<br /><br />Chris.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,xaml,MVVM,",
+  "LastEdited": "2009-01-19T14:00:08.17-08:00"
+}

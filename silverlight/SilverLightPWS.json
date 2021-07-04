@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverLightPWS",
+  "Title": "SilverLight Personal WebSite",
+  "Description": "A personal website template using SilverLight in C#. The purpose of which it to use and integrate various MS technologies into a funky UI.\nFunctionality: photos, videos, bio/about, links, blogs, fileshare etc.   \nTools: Expression Blend, VS 2008 SP1 w/ TFS client, t-SQL, C#",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A personal website template using SilverLight in C&#35;. The purpose of which it to use and integrate various MS technologies into a funky UI.<br />Functionality&#58; photos, videos, bio&#47;about, links, blogs, fileshare etc.   <br />Tools&#58; Expression Blend, VS 2008 SP1 w&#47; TFS client, t-SQL, C&#35;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-28T08:31:19.977-08:00"
+}

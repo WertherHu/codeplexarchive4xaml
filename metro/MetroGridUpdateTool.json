@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MetroGridUpdateTool",
+  "Title": "MetroGridUpgradeTool",
+  "Description": "Use this tool to help you migrate from the Metro Grid free version to the Metro Grid paid version. It will search your entire farm for tiles and export to CSV.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rUse this tool to help you migrate from the Metro Grid free version to the Metro Grid paid version. It will search your entire farm for tiles and export to CSV.<br /><br />Product URL: <a href=\"http://www.amrein.com/apps/page.asp?Q=5827\">http://www.amrein.com/apps/page.asp?Q=5827</a><br />\n<h2>Details</h2>\r<ul><li>.NET 3.5 console executable, runs in your SP2010 or later SharePoint Farm.</li>\n<li>Must run on Central Administration Server, with admin account.</li>\n<li>Iterates through every Web Application and Site Collection to find saved Metro Grid tile information, this information is saved in site collection root site property bag.</li>\n<li>Exports saved tile information to CSV in current EXE directory.</li>\n<li>Tile information can be used to build new tiles for Paid version.  Tile information has changed a little, but can be sanitized to make it work.  CSV cannot be directly imported into paid version, but should make migration process a little less painful.</li>\n<li>Web part properties are NOT exported, this information was used to set global tile width.</li>\n<li>Web part loads tiles based on matching the web part ID (saved as a web part property).  Exported tiles will not show web part page urls, but will show the site collection url and the web part ID.  You can manually match the tiles to the web part page if needed.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-04-30T09:31:41.22-07:00"
+}

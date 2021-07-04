@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VisibilityControl",
+  "Title": "VisiblityControl – An Alternative to Converters",
+  "Description": "A templated content control hosting to remove the pain of using the BooleanToVisibilityConverter. The property IsTrue determines what is shown.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">VisibilityControl - An Alternative to Converters for WinRT applications.<br /><br />Binaries available at: <a href=\"http://nuget.org/packages/VisibilityControl\">http://nuget.org/packages/VisibilityControl</a><br /><br />How to use it: <a href=\"http://w8isms.blogspot.com/2012/08/visiblitycontrol-alternative-to.html\">http://w8isms.blogspot.com/2012/08/visiblitycontrol-alternative-to.html</a><br /><br />How it works: <a href=\"http://w8isms.blogspot.com/2012/08/visibilitycontrol-design.html\">http://w8isms.blogspot.com/2012/08/visibilitycontrol-design.html</a><br />.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-25T13:40:42.023-07:00"
+}

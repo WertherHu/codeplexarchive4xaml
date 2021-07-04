@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mapserviceapi",
+  "Title": "Map Service API",
+  "Description": "A Silverlight 2.0 Library to control map services such as Google Maps and Microsoft Virtual Earth with minimal JavaScript",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A Silverlight 2.0 Library to control map services such as Google Maps and Microsoft Virtual Earth with minimal JavaScript<br /><br /><br />This is work in progress. I plan to focus on getting the Google map functionality including Google Earth 3d to a good point before I go back and implement the Virtual Earth stuff.<br />\n<h2>Currently working</h2>\r<b>Google</b>\n<ul><li>Marker</li>\n<li>OnMapClick</li>\n<li>OnMapViewChange</li>\n<li>OnMapZoom</li>\n<li>OnShapeClick</li>\n<li>Map types Satellight, Hybrid, Street</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 2.0,api,google maps,Virtual Earth,GIS,gps,Mapping,",
+  "LastEdited": "2008-06-19T21:42:26.503-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stone",
+  "Title": "Stone - Carputer Frontend",
+  "Description": "Frontend for carputer/carpc written in C#.\n\nIt includes:\n- Radio\n- Gps based on openstreetmaps (www.openstreetmaps.org)\n- Bluetooth phone control\n- mp3 player\n- dix, video player\n- skin support\n...\n\nUse Visual studio 2008 to give your contribute!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Frontend for carputer&#47;carpc written in C&#35;.<br /><br />It includes&#58;<br />- Radio<br />- Gps based on openstreetmaps &#40;www.openstreetmaps.org&#41;<br />- Bluetooth phone control<br />- mp3 player<br />- dix, video player<br />- skin support<br />...<br /><br />Use Visual studio 2008 to give your contribute&#33;<br /><br />Help us to develop a completely FREE open source frontend for Carputers!<br /><br />Stone Alpha 9 video preview: <a href=\"http://www.youtube.com/watch?v=bLm2H99bhOw\">http://www.youtube.com/watch?v=bLm2H99bhOw</a> <br /><br />Don&#39;t know what is a carputer? <br />Go to:<br /><br />http://en.wikipedia.org/wiki/Carputer<br />http://www.mp3car.com/vbulletin/<br />http://guino.home.insightbb.com/roadrunner.html<br />http://www.digital-car.co.uk/<br />http://wiki.openice.org/<br />http://www.carputer.it</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-11T07:12:54.04-08:00"
+}

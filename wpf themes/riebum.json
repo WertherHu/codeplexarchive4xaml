@@ -1,0 +1,9 @@
+{
+  "ProjectName": "riebum",
+  "Title": "Riebum CMS",
+  "Description": "This is a CMS  developed using ASP.NET MVC 4 and Entity Framework 6 and has the following main features: multi tenancy, plugin system theming, versioning,...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>This CMS is developed using ASP.NET MVC 5 and Entity Framework 6 and has the following main features:</p>\r\n<ul>\r\n<li>multi tenancy </li><li>plugin system for easy extension </li><li>custom themes support </li><li>integrated content versioning </li><li>multilingual content possible </li></ul>\r\n<p>The sources of this project are hosted in GitHub:&nbsp;<a href=\"https://github.com/chrfin/Riebum\">https://github.com/chrfin/Riebum</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-10-19T05:48:23.097-07:00"
+}

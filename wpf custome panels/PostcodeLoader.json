@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PostcodeLoader",
+  "Title": "Postcode Load Utility",
+  "Description": "A WPF utility to load the UK Post Office postcode files to a SQL Server database table.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A WPF utility to load the UK Post Office postcode files to a SQL Server database table.<br /><br />This project uploads the Post Office PAF files (not supplied) to a SQL Server Database<br /><br />For an explanation of what a post code is, please see <a href=\"http://en.wikipedia.org/wiki/Postal_codes_in_the_United_Kingdom\">http://en.wikipedia.org/wiki/Postal_codes_in_the_United_Kingdom</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "PostCodeLoad,",
+  "LastEdited": "2009-07-21T06:55:51.693-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "johnnyui",
+  "Title": "JohnnyUI",
+  "Description": "A control suite of Unity3D components being made.\r\n\r\n(Currently only PieChart and Date are available)\r\n- Pie/Donut/Line/Bar/Area Chart\r\n- Human Map\r\n- US Map",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A control suite of Unity3D components being made.<br /><br />&#40;Currently only PieChart and Date are available&#41;<br />- Pie&#47;Donut&#47;Line&#47;Bar&#47;Area Chart<br />- Human Map<br />- US Map<br /><br /><br />How to Use:<br /><br />Create a new Unity3D project and bring in the Assets and ProjectSettings into your project, then run the Main Scene for an example.<br /><br />In your own project drag in a JohnnyUIPieChart to an empty GameObject, define a TextMesh to use as a font template, and set the various parameters. You can either attach the pie values as objects at design time or implement at run time.<br /><br />The scene will give warnings about cleaning up leaked meshes this is only because I have the editor update in Unity every time you change something, and it generates a dynamic Mesh object. Afaik the warning can be safely ignored.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-09-14T13:55:14.567-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "advgencontact",
+  "Title": "AdvGen Contact Manager",
+  "Description": "This project is a simple contact manager which is using wpf.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis is a simple contact management&nbsp;system. Moreover, it supports the export format of<a href=\"https://play.google.com/store/apps/details?id=com.advgen.contactexport\"> AdvGen Contact</a><br>\r\nSo you can import the contact from your android phone. Moreover, we are aiming to create a MVC Framework for WPF in this project.</p>\r\n<p><img src=\"/projects/advgencontact/e7ab3e2c-3d0e-4b64-9707-b6446ba7befb\" alt=\"Interface\" width=\"730\" height=\"396\"></p>\r\n<p>Started by <a href=\"http://www.advgen.com\">AdvanGeneration - A Brisbane Web Development Company</a>,</p>\r\n<p><strong>Our friends' link:</strong></p>\r\n<p><strong><a title=\"August 21 Florist - Delivery to Brisbane Suburbs\" href=\"http://www.august21florist.com/\" target=\"_blank\">August 21 Florist - Delivery to Brisbane Suburbs</a></strong></p>\r\n<p>Their software funds us our open source projects</p>\r\n<p><a href=\"http://www.advgen.com/advgen-sql-backup\" target=\"_blank\">AdvGen SQL Backup</a></p>\r\n<p><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z3N7X6RJKAV6L\"><img src=\"https://www.paypalobjects.com/en_AU/i/btn/btn_buynowCC_LG.gif\" alt=\"\" border=\"0\">\r\n<img src=\"https://www.paypalobjects.com/en_AU/i/scr/pixel.gif\" alt=\"\" width=\"1\" height=\"1\" border=\"0\"></a></p>\r\n<p>This project is developed by the developers of AdvGen. The one of their funding source is from selling software online.&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVC,style,Controls,",
+  "LastEdited": "2016-02-25T04:19:34.693-08:00"
+}

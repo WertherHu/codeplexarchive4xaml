@@ -1,0 +1,9 @@
+{
+  "ProjectName": "paletteselectors",
+  "Title": "Krypton Palette Selectors",
+  "Description": "A small C# control library that allows for simplified palette selection and management.  It makes use of and relies on Component Factory's excellent Krypton Toolkit.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A small C&#35; control library that allows for simplified palette selection and management.  It makes use of and relies on Component Factory&#39;s excellent Krypton Toolkit.<br /><br /><b>About Krypton Toolkit</b><br /> <a href=\"http://www.componentfactory.com/product?id=3\">Krypton Toolkit</a> is a set of free windows forms controls developed by <a href=\"http://www.componentfactory.com\">Component Factory</a>.<br /><br />See the <a href=\"https://paletteselectors.codeplex.com/documentation?referringTitle=Home\">documentation</a> page for more information.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "krypton,ComponentFactory,",
+  "LastEdited": "2010-02-19T09:58:07.823-08:00"
+}

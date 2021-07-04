@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Navegar",
+  "Title": "Navegar (Navigation pour WPF, WinRT and Universal Application Plateform",
+  "Description": "Navigation inspirée de Windows 8 pour WPF, pour MVVM Light et SimpleIoc. Navigation avec une approche ViewModel First pour les applications Modern UI (WinRT)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h4>D&eacute;sormais retrouvez le projet Navegar sur :</h4>\r\n<h4>- <a href=\"https://github.com/mplessis/navegar\">GitHub </a>(https://github.com/mplessis/navegar)</h4>\r\n<h4>- et toujours sur&nbsp;<a href=\"https://www.nuget.org/packages/Navegar/\">Nuget</a> (https://www.nuget.org/packages/Navegar/) pour le package d'installation.</h4>\r\n<p>Ce projet ne sera plus mis &agrave; jour sur CodePlex.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,MVVM Light Toolkit,MVVM,SimpleIoC,Navigation,WinRT,Modern UI,WP8,WP81,Universal Apps,MVVMLIGHT,UAP,",
+  "LastEdited": "2015-01-29T05:03:51.18-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FaceStyleEyedropperForSolidEdge",
+  "Title": "FaceStyle Eyedropper For SolidEdge",
+  "Description": "Displays the face style name in the status bar.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1>Eyedropper For Solid Edge<strong>&nbsp; &nbsp;</strong><strong><a title=\"LMGi\" href=\"http://www.tlmgi.com\" target=\"_blank\"><img src=\"http://download-codeplex.sec.s-msft.com/Download?ProjectName=pathtracerforse&DownloadId=1428704\" alt=\"LMGi\" width=\"127\" height=\"55\"></a></strong></h1>\r\n<p><br>\r\nDisplays the face style name as previously applied by the Part Painter<br>\r\n<br>\r\n</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Solid Edge,",
+  "LastEdited": "2015-09-28T08:31:02.563-07:00"
+}

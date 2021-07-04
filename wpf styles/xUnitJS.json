@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xUnitJS",
+  "Title": "xUnit.js",
+  "Description": "xUnit.js is an xUnit style framework for javascript, designed to facilitate writing unit tests in a style familiar to C# programmers. It includes an engine API, a script-engine agnostic console runner, a cross-browser GUI runner, and a mechanism to attribute tests declaratively.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />xUnit.js is an xUnit style framework for javascript, designed to facilitate writing unit tests in a style familiar to C&#35; programmers. It includes an engine API, a script-engine agnostic console runner, a cross-browser GUI runner, and a mechanism to attribute tests declaratively.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-29T13:26:31.57-07:00"
+}

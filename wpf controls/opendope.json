@@ -1,0 +1,9 @@
+{
+  "ProjectName": "opendope",
+  "Title": "OpenDoPE Word developer Add-In",
+  "Description": "A word add-In for authoring OpenDoPE compliant document assembly templates.  OpenDoPE uses Open XML (the ISO-standard Microsoft Word docx file format), and especially, its content control databinding architecture.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This is an Add-In for Microsoft Word for authoring <i>OpenDoPE compliant</i> document assembly templates.   &quot;OpenDoPE&quot; stands for Open Document Processing Environment.<br /><br />OpenDoPE uses Open XML (the ISO-standard Microsoft Word docx file format), and especially, its content control databinding architecture, to provide a <b>standardised</b> and <b>open format</b> for document automation.<br /><br />This Add-In is an open source tool for creating a suitable input docx.  You can download a binary from <a href=\"http://www.opendope.org/downloads/authoring-advanced/setup.exe\">http://www.opendope.org/downloads/authoring-advanced/setup.exe</a><br /><br />Once you have a suitable input docx, at processing time, you inject your XML data, to create a resulting instance docx.  There are open source tools for doing that as well.  For more information, please see <a href=\"http://www.opendope.org\">http://www.opendope.org</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-10T16:20:54.987-07:00"
+}

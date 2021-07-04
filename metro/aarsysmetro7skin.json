@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aarsysmetro7skin",
+  "Title": "DNN Metro7 style Skin package",
+  "Description": "Enhanced Metro 7 style Skin Package for DNN Platform.  This skin is based on the skin of Ali Nawaz Metro7 and was converted to a Visual Studio Project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>We moved the Project to Github.&nbsp; You can found us now at <a title=\"Moved to Github\" href=\"https://github.com/aarsys/aarsysmetro7skin\" target=\"_blank\">\r\nhttps://github.com/aarsys/aarsysmetro7skin</a>!</strong></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Project Description</strong><br>\r\nEnhanced Metro 7 style Skin Package for DNN Platform. This skin is based on the skin of Ali Nawaz Metro7 and was converted to a Visual Studio Project.<br>\r\n<br>\r\n<br>\r\nAn Metro7 style DNN Skin package with 4 colors for DNN Platform (Dotnetnuke) 6 and above. This Skin is based on the Metro7 Skin provided from Ali Nawaz that was originally made for DNN 5.\r\n<br>\r\n<br>\r\nA new Version of the Metro7 Skin Package for DNN Platform 7.1.x supporting the new jQuery and jQuery UI is released on 09/27/2013, please use the older Version for older DNN Platform Version you can find on the download page.<br>\r\n<br>\r\nThe Metro7 Skin package is designed to support WP7 (Windows Phone 7), a later implementation of the DNN Platform&nbsp;mobile API for a better Browser recognition and Font substitution is on the roadmap.<br>\r\n<br>\r\n<br>\r\nIf any want to contribute into this project, please contact me in the Discussions.<br>\r\nPlease leave us a review so that we know what you are thinking about this project.<br>\r\n<br>\r\n<a href=\"http://www.aarsys.de\">http://www.aarsys.de</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DNN,DotNetNuke,DotNetNuke Skins,aarsys,Metro,Metro7,",
+  "LastEdited": "2017-04-06T17:17:14.75-07:00"
+}

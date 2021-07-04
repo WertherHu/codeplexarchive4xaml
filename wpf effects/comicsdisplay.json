@@ -1,0 +1,9 @@
+{
+  "ProjectName": "comicsdisplay",
+  "Title": "ComicsDisplay",
+  "Description": "Comics Display is a very simple yet efficient CBR/CBZ viewer. It has been developed as an F# application example for WPF (and for need of the author).\r\n\r\nIt simply associates the viewer to the extensions and shows you using Fish eye (without anim yet) comics.\r\n\r\nHope you'll enjoy it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Comics Display is a very simple yet efficient CBR&#47;CBZ viewer. It has been developed as an F&#35; application example for WPF &#40;and for need of the author&#41;.<br /><br />It simply associates the viewer to the extensions and shows you using Fish eye &#40;without anim yet&#41; comics.<br /><br />Hope you&#39;ll enjoy it.<br /><br />Compilation notes: you&#39;ll need DotNetZip and NUnrar libraries for compiling the projects and you can find them in the binaries you can download.<br /><br />Known issues: without scroll wheel mouse (or emulator) you can&#39;t zoom. Not all RAR formats are supported by nunrar library.<br /><br /><img src=\"/projects/comicsdisplay/0630923a-b9e7-4585-b687-d7eb83ebf4cf\" alt=\"Screenshot.png\" title=\"Screenshot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-05T13:12:50.897-08:00"
+}

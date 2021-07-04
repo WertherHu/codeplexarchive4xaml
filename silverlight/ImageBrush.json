@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ImageBrush",
+  "Title": "Using Silverlight ImageBrush and BitmapImage to draw an image",
+  "Description": "This project demonstrates how to use ImageBrush to fill area of shapes like rectangle or ellipse with an image.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project demonstrates how to use ImageBrush and BitmapImage to fill area of shapes like rectangle or ellipse with an image.<br /><br />Summary:<br /><br />1. create an Uri pointing to an image<br />2. create a new instance of BitmapImage and assign your Uri to it<br />3. create a new instance of ImageBrush and assign your created BitmapImage to its ImageSource value<br />4. using .Fill method on your Rectangle control fill the entire rectangle with your ImageBrush.<br /><br />Too see the working version of this project and also for details of above steps visit: <a href=\"http://silverlighttips.com/?tag=/imagebrush\">http://silverlighttips.com/?tag=/imagebrush</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-28T12:34:47.037-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "yijing",
+  "Title": "I Ching",
+  "Description": "A simple utility for generating the hexagrams of the I Ching.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h3>Project Description</h3>\r\n<p>A simple utility for generating the <a href=\"http://en.wikipedia.org/wiki/I_Ching#Structure\" target=\"_blank\">\r\nhexagrams</a> of the <a href=\"http://en.wikipedia.org/wiki/I_Ching\" target=\"_blank\">\r\nI Ching</a>.</p>\r\n<p><img title=\"Screenshot\" border=\"0\" alt=\"image\" src=\"http://download.codeplex.com/Download?ProjectName=yijing&DownloadId=320335\" width=\"590\" height=\"550\" style=\"border-bottom:0px; border-left:0px; padding-left:0px; padding-right:0px; display:inline; border-top:0px; border-right:0px; padding-top:0px\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,MVVM,C#,.NET 4.0,CaliburnMicro,",
+  "LastEdited": "2011-12-31T19:35:40.623-08:00"
+}

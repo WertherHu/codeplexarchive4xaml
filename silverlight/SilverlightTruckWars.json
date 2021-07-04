@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightTruckWars",
+  "Title": "Silverlight TruckWars",
+  "Description": "TruckWars is a simple SilverLight real-time-strategy game.  For each level, you control various trucks (and other vehicles), and use them to push down all the green buttons. Enemy trucks will try to stop you.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />TruckWars is a simple SilverLight real-time-strategy game.  For each level, you control various trucks &#40;and other vehicles&#41;, and use them to push down all the green buttons. Enemy trucks will try to stop you.<br /><br />The intent is to have a system of interacting objects where the whole is more that the sum of the parts. For example, units can move, attack, push, carry, grow, heal, crush, and even clone. The board includes various blocks - like open space, water, and stop blocks - to allow for different strategy. There is usually several ways to solve each board.<br /><br />You can play the latest game online at <a href=\"http://timstall.dotnetdevelopersjournal.com/silverlight__truck_wars_strategy_game.htm\">http://timstall.dotnetdevelopersjournal.com</a><br /><br /><img src=\"/projects/SilverlightTruckWars/ecf4a8cd-9d0f-4e8f-94b8-a82fe6a002df\" alt=\"truckwars_screenshot_1_2.jpeg\" title=\"truckwars_screenshot_1_2.jpeg\" /><br /><br />The intent is that eventually developers can easily create their own boards and creatures. (See: <a href=\"https://silverlighttruckwars.codeplex.com/wikipage?title=MakeNewCreature&referringTitle=Home\">MakeNewCreature</a> or <a href=\"https://silverlighttruckwars.codeplex.com/wikipage?title=MakeNewBoard&referringTitle=Home\">MakeNewBoard</a> )<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight Game,Silverlight,",
+  "LastEdited": "2007-11-17T12:43:41.15-08:00"
+}

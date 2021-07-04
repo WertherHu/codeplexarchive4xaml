@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vehiclecontroller",
+  "Title": ".NET GPS Vehicle Controller",
+  "Description": "This project allows the connection to a GPS unit transmitting NMEA data on the serial port and displaying the current position on Google Earth.\r\n\r\nThere are also logging capabilities and control gauges for visual feedback on GPS data.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project allows the connection to a GPS unit transmitting NMEA data on the serial port and displaying the current position on Google Earth.<br /><br />There are also logging capabilities and control gauges for visual feedback on GPS data.<br />\n<h3>Screenshots</h3>\r<table><tr><td> <img src=\"/projects/vehiclecontroller/e5472263-b6be-40ac-afd2-dd135210da48\" alt=\"smallscreenshot.jpg\" title=\"smallscreenshot.jpg\" /> </td><td> <img src=\"/projects/vehiclecontroller/c6a3ff70-d391-4e9e-826c-7ef9533643cb\" alt=\"smallscreenshotge.jpg\" title=\"smallscreenshotge.jpg\" /> </td></tr>\n<tr><td> <a href=\"/projects/vehiclecontroller/83474620-7583-4e74-b261-ab37ccb1abf6\">Gauges View &#40;.jpg&#41;</a> </td><td> <a href=\"/projects/vehiclecontroller/ecaee598-f4e6-474b-8378-124b0f3bb6ac\">Google Earth View &#40;.jpg&#41;</a> </td></tr></table><br />\n<h3>External Controls and Images used</h3>\r<ul><li>Gauges from: <a href=\"http://www.codeplex.com/polymon\">PolyMon Controls</a></li>\n<li>Icons from: <a href=\"http://FamFamFam Silk Icons:http://www.famfamfam.com/lab/icons/silk/\">FamFamFam Silk Icons:http://www.famfamfam.com/lab/icons/silk/</a></li></ul>\n<br />\n<h3>Known Issue(s)</h3>\r<ul><li>The current version does not have proper logging for NMEA data.  The non-Google Earth version has text logging for GPS NMEA data.</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-06-17T21:06:08.813-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "demos",
+  "Title": "one day one demo",
+  "Description": "Demos while learning, developing .NET programming skills, e.g. C#, Winform, WPF, WCF, ASP.NET, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Summary</h1>\rOne day one demo, is a project which contains all demos in daily learning or working.<br />\n<h1>Details</h1>\r\n<ul><li><a href=\"https://demos.codeplex.com/wikipage?title=Binding%20an%20object%20list%20with%20DataGridView&referringTitle=Home\">Binding an object list with DataGridView</a></li>\n<li><a href=\"https://demos.codeplex.com/wikipage?title=Create%20unit%20test%20for%20code%20in%20Visual%20Studio&referringTitle=Home\">Create unit test for code in Visual Studio</a></li></ul>\n\n<h1>References</h1>\r\n<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-11-30T01:20:48.787-08:00"
+}

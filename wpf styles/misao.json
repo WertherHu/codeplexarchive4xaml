@@ -1,0 +1,9 @@
+{
+  "ProjectName": "misao",
+  "Title": "MISAO",
+  "Description": "MISAO is a presentation tool.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">MISAO は、2008年から開発・公開している発表者のためのプレゼンツールです。<br />Twitter などから取得したメッセージを、スライド上（スクリーン上）に、ニコニコ動画のコメント風に表示します。<br />Ver. 5 から CodePlex に移行しました。<br /><br /><img src=\"/projects/misao/a747ad5c-35e4-4e7d-848e-548d9a47db9a\" alt=\"misao.png\" title=\"misao.png\" /><br /><br /><b>動作環境</b>\n<ul><li>Windows 7 Home Premium 以上 (Windows Aero の有効推奨）</li>\n<li>.NET Framework 4</li>\n<li>それなりのスペック</li></ul>\n<br /><b>説明</b>\n<ul><li><a href=\"https://misao.codeplex.com/documentation?referringTitle=Home\">documentation</a></li></ul>\n<br /><b>Mac ver.</b><br /><a href=\"https://dl.dropbox.com/u/3837193/misao/misao.html\">https://dl.dropbox.com/u/3837193/misao/misao.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ニコニコ動画,ニコニコ生放送,WPF,VB.NET,IRC,Twitter,presentation,presentation tool,",
+  "LastEdited": "2012-12-04T06:11:46.413-08:00"
+}

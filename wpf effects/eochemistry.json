@@ -1,0 +1,9 @@
+{
+  "ProjectName": "eochemistry",
+  "Title": "EffectOfChemistry",
+  "Description": "印象化学\r\nEffect of Chemistry.NET",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>印象化学 Effect of Chemistry</b><br /><br />*印象化学 简介<br />印象化学是一个为中学生量身定做,用.NET平台的C#语言写成的GUI程序,旨在帮助中学生记忆元素周期表,化合价等内容.<br /><br />*印象化学 授权<br /><b></b>印象化学 程序<br />印象化学使用GPLv2开放源代码,其衍生作品也必须开放源代码并使用GPLv2协议.<br /><b></b>印象化学 文档<br />印象化学的文档(包括但不限于程序使用的XML文档,帮助文档)使用GFDL(GNU自由文档许可协议)发布</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-08-18T01:47:22.783-07:00"
+}

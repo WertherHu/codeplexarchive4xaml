@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OfficeToolbox",
+  "Title": "Office Toolbox",
+  "Description": "SharePoint Forms allows site users to get greater control of your New/Edit/Display forms and their fields for show/hide and also field validations (server-side).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">SharePoint Forms allows site users to get greater control of your New&#47;Edit&#47;Display forms and their fields for show&#47;hide and also field validations &#40;server-side&#41;.<br />\n<h2>SharePoint Lists - Form Settings</h2>\rForm Settings allows you to modify default New, Edit, and Display Forms. You can show/hide specific fields across all form types; mark select ones to be in read-only mode while editing an item in a list.<br /><a href=\"http://weblogs.asp.net/sharadkumar/archive/2008/07/29/how-to-customize-sharepoint-forms-part-2.aspx\">http://weblogs.asp.net/sharadkumar/archive/2008/07/29/how-to-customize-sharepoint-forms-part-2.aspx</a><br /><br /><img src=\"/projects/OfficeToolbox/868346b8-b36b-4b61-b8c4-1294bdb27c05\" alt=\"FormSettings.png\" title=\"FormSettings.png\" /><br /><br /><img src=\"/projects/OfficeToolbox/2fa5eabd-983c-4253-9a66-eae5fe03f8da\" alt=\"FormSettings2.png\" title=\"FormSettings2.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,Sharepoint Tools,SharePoint 2007,Office 2007,Sharepoint Apps,forms,",
+  "LastEdited": "2008-07-28T22:12:04.12-07:00"
+}

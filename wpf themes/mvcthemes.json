@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcthemes",
+  "Title": "MVC Themes",
+  "Description": "This project makes it easy implementing themes for your ASP.NET MVC web application.\r\n\r\nUsing the DependencyResolver, the basic theme engine can be made to work exactly as you need it to.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rThis project makes it easy implementing themes for your ASP.NET MVC web application.<br /><br />Using the DependencyResolver, the basic theme engine can be made to work exactly as you need it to.<br />\n<h2>Demo site</h2>\r<a href=\"http://mvcthemes.creativeminds.dk\">http://mvcthemes.creativeminds.dk</a><br />\n<h2>Documentation</h2>\rTake a look <a href=\"http://mvcthemes.codeplex.com/documentation\">http://mvcthemes.codeplex.com/documentation</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET MVC,Theme,",
+  "LastEdited": "2011-09-03T12:32:52.527-07:00"
+}

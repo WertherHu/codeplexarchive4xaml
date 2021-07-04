@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mRadio",
+  "Title": "mRadio",
+  "Description": "mRadio is a minimalistic webradio player that utilizes WMPlib.\r\n\r\nUses:\r\nhttps://github.com/MahApps/MahApps.Metro\r\nhttp://json.codeplex.com/\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nmRadio is a minimalistic webradio player that utilizes WMPlib.</p>\r\n<p>3 German stations are predefined.</p>\r\n<p>When adding a station you should target a m3u oder wpl (actually anything that the WMP would accept as a source)</p>\r\n<p>The streams are saved in the user folder under AppData\\Roaming\\mRadio\\streams.json</p>\r\n<p><br>\r\nUses:<br>\r\nhttps://github.com/MahApps/MahApps.Metro<br>\r\nhttp://json.codeplex.com/<br>\r\n<br>\r\n<img src=\"http://cephalomanus.de/mrad1.jpg\" alt=\"\" width=\"261\" height=\"270\"></p>\r\n<p>&nbsp;</p>\r\n<p><img src=\"http://cephalomanus.de/mrad2.jpg\" alt=\"\" width=\"632\" height=\"248\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "radio,webradio,C# 4.0,wmplib,Metro UI,WPF,",
+  "LastEdited": "2012-03-04T13:25:40.44-08:00"
+}

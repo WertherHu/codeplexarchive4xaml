@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dop",
+  "Title": "DynamicObjectProxy",
+  "Description": "DOP (Dynamic Object Proxy) é uma biblioteca que permite que qualquer método de qualquer objeto possa ser interceptado através de um proxy dinâmico. Ao interceptar um método, pode-se decorar o objeto, alterando ou recuperando informações sobre o seu comportamento. Extremamente útil para logs, verificações de transações, etc.\r\n\r\nDOP (Dynamic Object Proxy) is a library that contains classes that makes it possible that any method of any object can be intercepted by a dynamic proxy. By intercepting a method, you can decorate the objects, or retrieving information about changing your behavior. Extremely useful for logs, transaction verification, etc..",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DOP &#40;Dynamic Object Proxy&#41; &#233; uma biblioteca que permite que qualquer m&#233;todo de qualquer objeto possa ser interceptado atrav&#233;s de um proxy din&#226;mico. Ao interceptar um m&#233;todo, pode-se decorar o objeto, alterando ou recuperando informa&#231;&#245;es sobre o seu comportamento. Extremamente &#250;til para logs, verifica&#231;&#245;es de transa&#231;&#245;es, etc.<br /><br />DOP &#40;Dynamic Object Proxy&#41; is a library that contains classes that makes it possible that any method of any object can be intercepted by a dynamic proxy. By intercepting a method, you can decorate the objects, or retrieving information about changing your behavior. Extremely useful for logs, transaction verification, etc..</div><div class=\"ClearBoth\"></div>",
+  "TagList": "proxy pattern,interception,Dynamic,Decorator,Decoration,DLR,realproxy,ImpromptuInterface,Aspect Oriented,logging,transaction,interface,duck typing,duck casting,",
+  "LastEdited": "2012-06-08T01:35:16.067-07:00"
+}

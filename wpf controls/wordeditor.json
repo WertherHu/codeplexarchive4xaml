@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wordeditor",
+  "Title": "WordEditor.  A Word Editor for Windows, and an extended RichTextBox control.",
+  "Description": "This is a word editor that can be used as a stand alone word processor, or added to an existing project.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><br />This project is currently in beta mode, but it is stable, and most of the functions work.  It is a full richt text editor, with print controls, a find/replace form, and a very nice format class, that allows formatting of multiple styles in selected text, without overwriting existing formats. <br /><br />This editor provides a drop down box for selecting the fonts that are installed and usable.  Drop down menus for  SelectionColor and SelectionBackcolor are also provided.<br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Rich Text Editor,",
+  "LastEdited": "2010-02-21T23:57:22.793-08:00"
+}

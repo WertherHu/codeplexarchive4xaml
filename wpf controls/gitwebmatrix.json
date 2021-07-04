@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gitwebmatrix",
+  "Title": "Git for WebMatrix",
+  "Description": "Git for WebMatrix a WebMatrix Extension that allows users to access Git Source Control functions from WebMatrix 2.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Git for WebMatrix a WebMatrix Extension that allows users to access Git Source Control functions from WebMatrix 2.<br /><br /><b>Installation</b>\n<ul><li>Install Git for WebMatrix from Extension Gallery</li>\n<li>Restart WebMatrix after installed Git for WebMatrix</li></ul>\n<br /><b>Initialize Git Repository</b><br /><img src=\"/projects/gitwebmatrix/b4ceec33-6156-401b-8756-b1e1cfee4787\" alt=\"git-webmatrix-4.png\" title=\"git-webmatrix-4.png\" /><br /><br /><b>Commit Changes</b><br /><img src=\"/projects/gitwebmatrix/ea8f4056-9e3c-46d8-8628-752d84e9e9fa\" alt=\"git-webmatrix-4-1.png\" title=\"git-webmatrix-4-1.png\" /><br /><img src=\"/projects/gitwebmatrix/ff118465-2eb9-46d3-ada1-2ac3ba3202e0\" alt=\"git-webmatrix-4-2.png\" title=\"git-webmatrix-4-2.png\" /><br /><br /><b>View Git File Status/Undo File Changes</b><br /><img src=\"/projects/gitwebmatrix/ce1be64d-cd6b-4969-a4ae-715e245ec883\" alt=\"git-webmatrix-4-3.png\" title=\"git-webmatrix-4-3.png\" /><br /><br /><b>View Git Log/History/Braches</b><br /><img src=\"/projects/gitwebmatrix/7cad870c-7bb5-4b9d-a0ce-56237bee5483\" alt=\"git-webmatrix-4-4.png\" title=\"git-webmatrix-4-4.png\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Git,WebMatrix,WebMatrix Extension,",
+  "LastEdited": "2012-06-19T07:08:21.653-07:00"
+}

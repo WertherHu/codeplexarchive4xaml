@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stereoscopy",
+  "Title": "Silverlight Stereoscopy (3D)",
+  "Description": "Stereoscopy (3D) with Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Stereoscopy &#40;3D&#41; with Silverlight.<br /><br /><b>Project Documentation</b><br />Find a German tutorial at <a href=\"http://www.wolter.biz/2010/05/17/stereoskopisches-3d-im-web-mit-silverlight-oder-flash/\">http://www.wolter.biz/2010/05/17/stereoskopisches-3d-im-web-mit-silverlight-oder-flash/</a>.<br /><br />Thanks to <a href=\"http://www.stereomaker.net/galleries/\">Masuji Suto</a> for the sample images.<br /><br /><b>Credits</b><br /><a href=\"http://wolter.biz\">Sascha Wolter</a> coder and coordinator of this project.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,3D,PixelShader,HLSL,C#,Stereoscopy,XAML,Effect,Visual Studio,",
+  "LastEdited": "2010-07-12T00:54:27.61-07:00"
+}

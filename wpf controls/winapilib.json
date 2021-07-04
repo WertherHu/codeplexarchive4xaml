@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winapilib",
+  "Title": "Windows API Interop Library",
+  "Description": "A collection of interop code in C# for the Windows API. Key exported methods, constants and structures defined. Some extension methods for WinForms controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A collection of interop code in C&#35; for the Windows API. Key exported methods, constants and structures defined. Some extension methods for WinForms controls.<br /><br />Think of this a PInvoke library for key Windows API calls. Intended to be used by pulling needed source code files out of the library and not as a compiled assembly. All classes are marked &quot;internal&quot;.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-30T11:38:20.343-07:00"
+}

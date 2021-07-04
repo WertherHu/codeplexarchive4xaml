@@ -1,0 +1,9 @@
+{
+  "ProjectName": "swp",
+  "Title": "SWPEditor: A Simple Word Processor",
+  "Description": "It allows paging, printing and text formatting (bold, underline, italics, font size, space between lines and paragraphs, font color and selection, cut, copy and paste).\r\nIt includes a windows forms control, and a simple user interface using that control.  It is written in .NET.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />It allows paging, printing and text formatting &#40;bold, underline, italics, font size, space between lines and paragraphs, font color and selection, cut, copy and paste&#41;.<br />It includes a windows forms control, and a simple user interface using that control.  It is written in .NET.<br /><br /><b>Project Brief</b><br /><br />The project is composed by the following binaries:<br /><br /><b>SWPEditor</b> is the project that generates the text editor executable.<br /><b>SWPEditorControl</b> contains the Windows Forms Control, and a Form that can be used as a user interface.<br /><b>SWPEditorBase</b>  has the base functionality (it is written in spanish, but it can be translated to english in the future).<br /><br />The project is alpha. Suggestions will be appreciated.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-09T22:10:41.76-07:00"
+}

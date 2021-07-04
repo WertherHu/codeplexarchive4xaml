@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WebPartator",
+  "Title": "Sharepoint WebPartator",
+  "Description": "Generator of WebParts based on classic ASP.net usercontrols.\nAllows web developers to easily create WebParts by compiling web projects.\n\nWebPartator uses AOP to weave at post-build time WebParts that are wrappers of the user controls you have created in your web project.\n\nThanks to Jb Evain (http://evain.net/blog) for his help to use Mono.Cecil the library used to inject WebParts into your assembly and to Renaud Comte (http://blogs.codes-sources.com/themit) for his ideas that will be implemented very soon.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Generator of WebParts based on classic ASP.net usercontrols.<br />Allows web developers to easily create WebParts by compiling web projects.<br /><br />WebPartator uses AOP to weave at post-build time WebParts that are wrappers of the user controls you have created in your web project.<br /><br />Thanks to Jb Evain &#40;http&#58;&#47;&#47;evain.net&#47;blog&#41; for his help to use Mono.Cecil the library used to inject WebParts into your assembly and to Renaud Comte &#40;http&#58;&#47;&#47;blogs.codes-sources.com&#47;themit&#41; for his ideas that will be implemented very soon.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Sharepoint,SharePoint 2007,Sharepoint Tools,WebPart,WebPartator,",
+  "LastEdited": "2008-03-31T12:51:45.947-07:00"
+}

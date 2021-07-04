@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightKinect",
+  "Title": "Silverlight Kinect Demos",
+  "Description": "This is a set of demos that show how to integrate Kinect into your Silverlight applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a set of demos that show how to integrate Kinect into your Silverlight applications.<br /><br />We are using the OpenNI libraries and drivers. Microsoft are yet to release there drivers and framework.<br /><br />Please see this blog post that describes in more detail these samples. <a href=\"https://silverlightkinect.codeplex.com/wikipage?title=http%3a%2f%2fadvertboy.wordpress.com%2f2011%2f04%2f10%2fsilverlight-kinect-apps-of-tomorrow%2f&referringTitle=Home\">http&#58;&#47;&#47;advertboy.wordpress.com&#47;2011&#47;04&#47;10&#47;silverlight-kinect-apps-of-tomorrow&#47;</a><br /><br />quick vid of Silverlight responding to the Kinect : <a href=\"http://www.youtube.com/watch?v=_Ypp4hzg6Fo?hd=1\">http://www.youtube.com/watch?v=_Ypp4hzg6Fo?hd=1</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-09T19:26:50.483-07:00"
+}

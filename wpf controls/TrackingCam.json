@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TrackingCam",
+  "Title": "TrackingCam",
+  "Description": "Application featuring:\r\n- Video input and display\r\n- Position tracking (for speaker)\r\n- Camera PTZ control\r\n- Digital video zoom (onto speaker)",
+  "MovedLink": "https://github.com/Zoomicon/TrackingCam/wiki",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Application featuring&#58;<br />- Video input and display<br />- Position tracking &#40;for speaker&#41;<br />- Camera PTZ control<br />- Digital video zoom &#40;onto speaker&#41;<br /><br />Technologies:<br />\n<ul><li>Video input and display</li>\n<li>Camera PTZ control</li></ul>\n - Foscam MJPEG &amp; HD (H.264/RTSP) IP Cameras - <a href=\"http://FoscamController.codeplex.com\">http://FoscamController.codeplex.com</a><br /> - Kinect for Xbox 360 &amp; Kinect for Windows (KfW) v1 - <a href=\"http://github.com/birbilis/Vitruvius\">http://github.com/birbilis/Vitruvius</a><br />\n<ul><li>Position tracking</li></ul>\n- Kinect Audio Positioning - <a href=\"http://github.com/birbilis/KinectAudioPositioning\">http://github.com/birbilis/KinectAudioPositioning</a><br />- Ubisense - <a href=\"http://UbisensePositioning.codeplex.com\">http://UbisensePositioning.codeplex.com</a><br /><br />for finding video stream URL and for PTZ control may also consider ONVIF sometime in the future (<a href=\"http://www.onvif.org\">http://www.onvif.org</a> - possibly use code from OnvifDeviceManager - <a href=\"http://sourceforge.net/projects/onvifdm\">http://sourceforge.net/projects/onvifdm</a>) <br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Smart Classroom,",
+  "LastEdited": "2015-11-16T00:54:57.18-08:00"
+}

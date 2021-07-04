@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webdriverwrapper",
+  "Title": "Web Driver Wrapper",
+  "Description": "Web Driver Wrapper (formerly Webinator) is a c# library that provides a wrapper around WebDriver and WatiN.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Web Driver Wrapper &#40;formerly Webinator&#41; is a c&#35; library that provides a wrapper around WebDriver and WatiN.<br /><br />Now with <a href=\"https://webdriverwrapper.codeplex.com/wikipage?title=LINQ-to-DOM&referringTitle=Home\">LINQ-to-DOM</a> capabilities.<br /><br />This project is approaching beta status; it is usable, and at this point fairly stable - the API is not likely to change much, if at all.<br /><br />Please refer to the following guides to get started:\n<ul><li><a href=\"https://webdriverwrapper.codeplex.com/wikipage?title=30%20Second%20Guide&referringTitle=Home\">30 Second Guide</a></li>\n<li><a href=\"https://webdriverwrapper.codeplex.com/wikipage?title=5%20Minute%20Guide&referringTitle=Home\">5 Minute Guide</a></li></ul>\nThe following open-source libraries are included and conform to their respective licenses:\n<ul><li><a href=\"http://code.google.com/p/css2xpath/\">CSS2XPath</a></li></ul>\nIf you will be developing Web Driver Wrapper (formerly Webinator) please refer to the <a href=\"https://webdriverwrapper.codeplex.com/wikipage?title=Developer%20Guide&referringTitle=Home\">Developer Guide</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WebDriver,Selenium2,C#,automation,",
+  "LastEdited": "2016-01-29T07:25:18.353-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "inceditor",
+  "Title": "IncEditor",
+  "Description": "IncEditor is an editor which is a little better than Notepad. It is built in WPF using the MVVM Design Pattern and Managed Extensibility Framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Project Description</h2>\rIncEditor is an editor which is a little better than Notepad. It is built in WPF using the MVVM Design Pattern and Managed Extensibility Framework.<br /><br />\n<h2>Why another editor?</h2>\r\nThe main reason for building this editor is education. I strongly believe that you learn by doing something. So, before I could call myself an expert in WPF or MVVM or MEF, I thought I could start a project and learn it along the way. I hope, this would benefit those who are dying to learn the awesome three: WPF, MVVM and MEF!<br />\n<h2>What are you going to use?</h2>\r\nSimply the awesome trio, that I believe will be at the core of all future Windows applications:\n<ul><li>Windows Presentation Framework (WPF)</li>\n<li>Model-View-ViewModel (MVVM) Design Pattern</li>\n<li>Managed Extensibility Framework (MEF)</li></ul>\n\n<h2>What are the expected features?</h2>\r\n<ol><li>Basically, an editor <b>worse</b> than Notepad!</li>\n<li>Plugins to make it far <b>better</b> than Notepad!</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-17T07:37:49.96-07:00"
+}

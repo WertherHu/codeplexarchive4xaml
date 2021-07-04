@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ConcurrentCache",
+  "Title": "Concurrent Cache",
+  "Description": "ConcurrentCache is a smart output cache library extending OutputCacheProvider.\nIt consists of in memory, cache files and compressed files modes and can help you control your ASP.NET OutputCache by switching modes at runtime depending on your server’s workload.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ConcurrentCache is a smart output cache library extending OutputCacheProvider.<br />It consists of in memory, cache files and compressed files modes and can help you control your ASP.NET OutputCache by switching modes at runtime depending on your server&#8217;s workload.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "caching,ASP.NET,MVC,cache,.NET 4.0,",
+  "LastEdited": "2010-06-05T00:38:13.053-07:00"
+}

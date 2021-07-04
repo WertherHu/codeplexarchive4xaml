@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TweNet",
+  "Title": "TweNet",
+  "Description": "This application is a Twitter Client writen with .NET Tecnologies",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><p><strong>TweNet<br></strong>TweNet &eacute; twitter client, onde voc&ecirc; pode ler os tweets de quem voc&ecirc; segue, publicar novos tweets, checar perfil de outros usu&aacute;rios dentre outra funcionalidades.<br><br><strong>**Delete the following note before publishing **</strong><br><br>This project is currently in setup mode and only available to project coordinators and developers. Once you have finished setting up your project you can publish it to make it available to all CodePlex visitors.<br><br>There are three requirements before you publish:<br><br>- Edit this page to provide information about your project<br>- Upload the initial source code for your project<br>- Add your project license<br><br>Additional information on starting a new project is available here: <a href=\"http://codeplex.codeplex.com/wikipage?title=Start a Project\">Project Startup Guide</a>.</p></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,twitter,",
+  "LastEdited": "2010-10-10T08:55:49.197-07:00"
+}

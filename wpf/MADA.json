@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MADA",
+  "Title": "Multiple Authorship Detection Automation",
+  "Description": "The System to detect multiple authorship automatically is being created as a means of primarily detecting plagiarism in forged/outsourced documents through computer aided statistical analysis.\n\nThis project is being developed using C# with VSTO and WPF for UI",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The System to detect multiple authorship automatically is being created as a means of primarily detecting plagiarism in forged&#47;outsourced documents through computer aided statistical analysis.<br /><br />This project is being developed using C&#35; with VSTO and WPF for UI<br /><br />This project while being developed for the purpose of checking for multiple authorship can also be applied in several other fields. \n<ol><li>Style Consistency for writers</li>\n<li>Disputed authorship of documents</li>\n<li>Forensics</li></ol>\n<br />This project is largely experimental and looks at a variety of ways in which authorship can be attributed. It is in no way a system that can be used as a definitive means of gathering information although in the future it will be more reliable as it goes through its development iterations.<br /><br />The basis on which the project is currently being developed is a study called Stylometry which is the practice of attempting to quantify an authors writing style so that it may be analysed on a statistical basis. While this practice is still highly disputed their have been a large number of cases where it has succeeded. Given that, it is not clear if the system will work in successfully identifying if a document has been authored by multiple people.<br /><br />More details on stylometry and its application in this project will be added later.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-10T10:20:14.493-07:00"
+}

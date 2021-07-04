@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tams",
+  "Title": "TestApi MicroSoft (TAMS) PowerShell eXtensions",
+  "Description": "This is a PowerShell implementation of TestApi.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a PowerShell implementation of TestApi.<br /><br />This projects aims to provide test engineers with easily accessible calls to TestApi.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "TAMS,STUPS,TMX,TestApi,PowerShell,C#,software testing,automation,",
+  "LastEdited": "2013-02-21T21:16:56.927-08:00"
+}

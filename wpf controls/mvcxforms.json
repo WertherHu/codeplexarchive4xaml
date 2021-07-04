@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcxforms",
+  "Title": "ASP.NET MVC XForms",
+  "Description": "ASP.NET MVC XForms is a simple, strongly-typed, extensible UI framework based on the W3C XForms spec. It provides a base set of form controls that allow updating of any complex model object, even complex nested lists. It uses clean, semantic HTML and a fluent, lamba-based API.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />ASP.NET MVC XForms is a simple, strongly-typed, extensible UI framework based on the W3C XForms spec. It provides a base set of form controls that allow updating of any complex model object, even complex nested lists. It uses clean, semantic HTML and a fluent, lamba-based API.<br /><br />For more information and tutorials, <a href=\"http://www.joncurtis.co.uk\">see my blog</a><br /><br />If you have any feedback please comment here or <a href=\"mailto:jon@joncurtis.co.uk\">contact me directly</a><br /><br /><img src=\"/projects/mvcxforms/77c799fa-8637-4f25-9597-576e7ba78f5d\" alt=\"livenation_logo.png\" title=\"livenation_logo.png\" /><br /><a href=\"http://www.livenationinternational.com/\">http://www.livenationinternational.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "cool,MVC,ASP.NET,forms,aspnetmvc,xforms,ASP.NET MVC,",
+  "LastEdited": "2008-12-02T15:31:27.167-08:00"
+}

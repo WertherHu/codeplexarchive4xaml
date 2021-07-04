@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BoxStarter",
+  "Title": "BoxStarter (now on Github)",
+  "Description": "Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>BoxStarter has moved to <a href=\"https://github.com/mwrock/boxstarter\">github</a></h1>\r\nHere is where you will find the most up to date boxstarter content:\n<ul><li>Documentation <a href=\"http://boxstarter.org\">http://boxstarter.org</a></li>\n<li>Source Code <a href=\"https://github.com/mwrock/boxstarter\">https://github.com/mwrock/boxstarter</a></li>\n<li>Issues: <a href=\"https://github.com/mwrock/boxstarter/issues\">https://github.com/mwrock/boxstarter/issues</a></li>\n<li>Discussions: <a href=\"https://groups.google.com/forum/#!forum/boxstarter\">https://groups.google.com/forum/#!forum/boxstarter</a></li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "build,automation,powershell,webpi,chocolatey,Developer Tools,scripting,NuGet,Configuration,cool,",
+  "LastEdited": "2014-09-15T02:28:01.703-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ReorderGrid",
+  "Title": "Reorderable GridView",
+  "Description": "ReorderGrid is patterned after the ASP.NET AJAX Toolkit ReorderList control, except that it's a Gridview.  The ReorderGrid inherits from Gridview.\n\nIt's not even remotely functional yet..  I'm just trying to get the drag and drop to work right, let alone think about postback.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project is my miserably failed attempt to inherit from GridView and apply the patten which is found is the source code of the ReorderList on the AjaxToolKit.  I put a lot of time into it and I thought I&#39;d just publish it here just in case someone with more brains than me (which might be a lot of people) might know why my approach is so messed up and how we might accomplish a reorderable gridview, which keeps all the functionality of the famous Microsoft GridView while adding the ability to reorder rows with an asynchronous postback to the server updating an integer column which indicates the ordering of the table rows.<br /><br />Presently, I&#39;m just trying to get the drag and drop to work.  I haven&#39;t even given much thought to the question of postback to server.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "reorder,ajax,gridview,",
+  "LastEdited": "2009-12-08T13:40:19.857-08:00"
+}

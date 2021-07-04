@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AdvancedListBox",
+  "Title": "Advanced ListBox",
+  "Description": "Winforms ListBox control supporting highlighting parts of items based on a filter, sorting, filtering, and automatic multi-column resizing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project goal was to add simple highlighting of letters in listbox items based on a filter. Additional features include, multi-column autosizing, list sorting, list filtering, and auto-selection of items based on the filter.<br /><br />This project also includes a tool for demoing and testing the library.<br /><br /><img src=\"/projects/AdvancedListBox/e2041887-59d7-4e8f-9511-4a6b118bb83e\" alt=\"Demo.png\" title=\"Demo.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-03-05T17:44:45.04-08:00"
+}

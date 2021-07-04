@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfsplitbutton",
+  "Title": "WPF SplitButton Control",
+  "Description": "WPF SplitButton Control is a missing control in WPF from the Windows Form days. The control allows you to display an image and text and rearrange the order of the text and image. It also allows you to provide a list of items, acting as a combobox and button.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The current release contains the following features:<br />\n<ul><li>Split button composed of a combo box and a button</li>\n<li>Can contain image and text, text or image</li>\n<li>Can place the image and text in different positions, image before text, text before image,  image above text and text above image</li>\n<li>Can show just text, just the image or image and text</li>\n<li>Lookless control, so theme can be customized</li></ul>\n<br />I just created this for fun, hope someone finds it useful</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,Controls,WPF controls,Button,Splitbutton,.NET,.NET 3.5,",
+  "LastEdited": "2009-04-29T02:53:44.8-07:00"
+}

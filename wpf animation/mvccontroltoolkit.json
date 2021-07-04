@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvccontroltoolkit",
+  "Title": "Mvc Compatible Ajax Control Toolkit",
+  "Description": "The major focus of this project is to establish a set extension methods that allow the Ajax Control Toolkit to be used within an MVC Web Application.\n\nNone of us miss the postback model, nor the viewstate garbage, but I do miss the calendar, masked edit control, validator popout and several other controls found in the Ajax Control Toolkit.\n\nHaving said that, I will be trying to release at least 3 controls per week. My intention is that beta 1 will include all items that do not contain child elements and will have limited to no support for animations. Animations will be added for Beta 2 and then a nice work around for child controls...but of course, this idea will most like change as time goes on.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The major focus of this project is to establish a set extension methods that allow the Ajax Control Toolkit to be used within an MVC Web Application.<br /><br />None of us miss the postback model, nor the viewstate garbage, but I do miss the calendar, masked edit control, validator popout and several other controls found in the Ajax Control Toolkit.<br /><br />Having said that, I will be trying to release at least 3 controls per week. My intention is that beta 1 will include all items that do not contain child elements and will have limited to no support for animations. Animations will be added for Beta 2 and then a nice work around for child controls...but of course, this idea will most like change as time goes on.<br /><br /><b>Interested in contributing?</b><br />If you are interested in contributing just send me an email.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ajax,Ajax ControlToolkit,MVC,AJAX Control Toolkit,Ajax Extensions,MVC Framework,asp.net mvc ajax ,",
+  "LastEdited": "2008-09-17T16:49:42.423-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hv",
+  "Title": "gKodes.HexView a .net/mono Hex View Control in C#",
+  "Description": "gKodes.HexView is an Custom control developed in C# for viewing content in Hexadecimal format as displayed by a hex editor. The control is compactable with both Microsoft .net and Mono Runtimes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rgKodes.HexView is an Custom control developed in C&#35; for viewing content in Hexadecimal format as displayed by a hex editor. The control is compactable with both Microsoft .net and Mono Runtimes.<br />\n<h2>Features</h2>\r<ul><li>Allows selection of data</li>\n<li>Highlight both Hex &amp; Text view simultaneously</li>\n<li>View offsets in hex or in decimal</li>\n<li>Variable length of hex value 8, 16, 32 bytes</li>\n<li>Automatic resize to match editor&#39;s view</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-29T03:49:19.703-07:00"
+}

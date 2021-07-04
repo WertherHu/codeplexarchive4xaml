@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WPFRichTextEditor",
+  "Title": "WPF Rich Text Editor English Fork",
+  "Description": "Rich Text Editor Library project translated to English.\r\n\r\nA full featured editor capable of various fonts, images, lists, columns etc and saves as html.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Fork of WPF Rich Text Editor Library<br /><br />http://wpfricheditorlibrary.codeplex.com/<br /><br /><br />This project seems to be stalled and I got no response from the project leader. I&#39;ve done the following changes/tests:<br /><br />    Translated into English. Might have missed some but I think it is completely english now.<br />    Formatted code: lined up XAML tags so they don&#39;t go over normal line length with reasonable &lt;14pt font<br />    Confirmed code compiles in .Net 4.0 <br /><br />I&#39;m using a modified version of this control to offer a rich text editor which I&#39;m then binding to a database backend (editor has a this.HTML option that you can pipe off to a varchar). Very handy tool.<br /><br />Hope you find it useful.<br /><br />Below is a snapshot of the current version:<br /><br /><img src=\"/projects/WPFRichTextEditor/d61d96c5-a891-40e1-b433-6dbfa9b109c1\" alt=\"Rich&#32;Text&#32;Editor&#32;snap.jpg\" title=\"Rich&#32;Text&#32;Editor&#32;snap.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-12T19:39:29.37-08:00"
+}

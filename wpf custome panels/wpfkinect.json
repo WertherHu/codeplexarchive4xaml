@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfkinect",
+  "Title": "WPF Kinect User Controls",
+  "Description": "WPF Kinect User Control project provide simple Tilt and Skeleton Tracking Parameter Controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1><br>\r\n<strong>WPF Kinect User Control</strong></h1>\r\n<p><br>\r\nCurrent release contains two Kinect related UI WPF Controls to simplify developers live:</p>\r\n<p>- <strong>Kinect tilt control</strong> - provides ability to tilt the controller up and down using Slidebar,</p>\r\n<p>-<strong> Kinect smoothing parameters</strong> - provides ability to set advanced parameters for the skeleton tracking, see\r\n<a href=\"http://msdn.microsoft.com/en-us/library/jj131024.aspx\">http://msdn.microsoft.com/en-us/library/jj131024.aspx</a>&nbsp;for details.</p>\r\n<p>&nbsp;</p>\r\n<p>The controls are designed to minimize the amount of the code and time to start working with. All you need is to instantiate in XAML code, set few parameters and ... that's it. Both controls require&nbsp;<strong>KinectSensor</strong> object instantiated in\r\n the code-behind, bound to its' dependency properties.</p>\r\n<p>Sample ColorStream solution is provided, explaining how to use controls, see <strong>\r\nWpfKinectUserControlSample</strong> solution in download section.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-31T01:57:58.71-07:00"
+}

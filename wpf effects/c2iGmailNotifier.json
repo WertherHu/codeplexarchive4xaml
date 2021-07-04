@@ -1,0 +1,9 @@
+{
+  "ProjectName": "c2iGmailNotifier",
+  "Title": "c2iGmailNotifier for Windows 7",
+  "Description": "This small application advise you when you receive email on your Google Gmail account. Full Windows 7 integration.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This small application advise you when you receive email on your Google Gmail account. Full Windows 7 integration.<br /><br /><b>New version: 1.1.0.0 (11/8/09):</b> Check update at start and play sound. <br /><b>Version: 1.0.0.1 (10/29/09):</b> Adding transparency.<br /><br /><br />You can find more information about this project on c2i.fr: <a href=\"http://www.c2i.fr/c2iGmailNotifier\">http://www.c2i.fr/c2iGmailNotifier</a><br /><br /><img src=\"/projects/c2iGmailNotifier/caca75ff-4ae5-4a93-89b6-9340d596db10\" alt=\"c2iGMailNotifier0.jpg\" title=\"c2iGMailNotifier0.jpg\" /><br /><br /><img src=\"/projects/c2iGmailNotifier/ba05ad06-0af5-4623-af8c-be86cb32f020\" alt=\"c2iGMailNotifier1.jpg\" title=\"c2iGMailNotifier1.jpg\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows 7,WPF,Google,Gmail,MVVM,",
+  "LastEdited": "2009-11-08T03:22:25.56-08:00"
+}

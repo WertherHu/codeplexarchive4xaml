@@ -1,0 +1,9 @@
+{
+  "ProjectName": "uADRoles",
+  "Title": "Umbraco Active Directory Role Provider",
+  "Description": "Active Directory Role Provider for umbraco membership (and sample user control)\r\n\r\nWith this role provider, a user control and some IIS configuration you can do seamless authentication (no login prompt) onto your umbraco site and user the Active Directory roles insider umbraco.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nActive Directory Role Provider for umbraco membership (and sample user control)<br>\r\n<br>\r\nWith this role provider, a user control and some IIS configuration you can do seamless authentication (no login) onto your umbraco site and user the Active Directory roles insider umbraco.<br>\r\n<br>\r\n<strong>How to use the provider</strong></p>\r\n<p><span style=\"color:#ff0000\"><strong>read the <a href=\"http://uadroles.codeplex.com/documentation\">\r\ndocumentation</a>&nbsp;very very carefully. this is a very experimental installation\r\n</strong></span></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-16T13:55:30.393-08:00"
+}

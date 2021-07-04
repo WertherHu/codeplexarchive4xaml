@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mtcms",
+  "Title": "Marblestech CMS",
+  "Description": "The Marblestech CMS, is a PHP content management system with themes, plugins and an auto-updater! Check out the newest CMS here!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Welcome</strong><br>\r\nWelcome to the Marblestech CMS project page, The Marblestech CMS is a PHP-based content management system, Created by Daniel Mace.</p>\r\n<p></p>\r\n<hr>\r\n<p></p>\r\n<p><strong>NEWS : UPDATE 1.4 - BRINGS NEW UPDATER FUNCTION!</strong></p>\r\n<hr>\r\n<p><strong>Features</strong></p>\r\n<ul>\r\n<li><span style=\"font-size:10pt\">Themes</span> </li><li><span style=\"font-size:10pt\">Plugins</span> </li><li><span style=\"font-size:10pt\">Auto-Updater</span> </li><li><span style=\"font-size:10pt\">SEO Friendly</span> </li><li><span style=\"font-size:10pt\">100% Free</span> </li><li><span style=\"font-size:10pt\">Sercure</span> </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "CMS,php,content,management,system,updater,mysql,database,free,PHP CMS,marblestech,automatic,",
+  "LastEdited": "2013-03-29T09:21:37.663-07:00"
+}

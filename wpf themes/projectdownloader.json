@@ -1,0 +1,9 @@
+{
+  "ProjectName": "projectdownloader",
+  "Title": "Project Downloader",
+  "Description": "Project Downloader is a simple  download manager built using C# and WPF. It currently supports HTTP downloads and can also download YouTube videos.",
+  "MovedLink": "https://github.com/shemarlindie/projectdownloader",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Project Downloader is a simple  download manager built using C&#35; and WPF. It currently supports HTTP downloads and can also download YouTube videos.<br /><br /><br />Technologies Used:\n<ul><li>Microsoft .NET Framework 4.5</li>\n<li>Windows Presentation Foundation (WPF) - UI</li>\n<li>C# (with use of Asynchronous Programming &amp; Regular Expressions)</li></ul>\n\n<h2>Features:</h2>\r<ul><li>Download pause / resumption.</li>\n<li>YouTube video downloads (in various resolutions and formats)</li></ul>\n\n<h2>Requirements:</h2>\r<ul><li>.NET Framework 4.5 or later: <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40773\">http://www.microsoft.com/en-us/download/details.aspx?id=40773</a></li></ul>\n<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "download,downloader,youtube,c#,wpf,",
+  "LastEdited": "2014-06-28T15:20:20.697-07:00"
+}

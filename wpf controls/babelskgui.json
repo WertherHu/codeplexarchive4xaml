@@ -1,0 +1,9 @@
+{
+  "ProjectName": "babelskgui",
+  "Title": "Babel Obfuscator Stack Decoder",
+  "Description": "A simple WPF application to de-obfuscate Babel Obfuscator stack trace using XML map file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple WPF application to de-obfuscate Babel Obfuscator stack trace using XML map file.<br /><br />Babel Obfuscator protect software components realized with Microsoft .NET Framework in order to protect intellectual property and makes reverse engineering difficult.<br /><br />Babel can be downloaded at:<br /><br />http://www.babelfor.net<br /><br />To build the source you need to download and install NAnt<br /><br />http://nant.sourceforge.net/<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-03-23T06:37:09.373-07:00"
+}

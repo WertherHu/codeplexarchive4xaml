@@ -1,0 +1,9 @@
+{
+  "ProjectName": "azuredesktop",
+  "Title": "Azure desktop",
+  "Description": "Projekt si klade za cíl vytvoření desktopového uživatelského rozhraní pro přístup k datovým službám a úložištím, které jsou poskytovány a spravovány službou Azure. Aplikace tak bude vhodná především pro administraci zdrojů a jejich prohlížení, zároveň by měla sloužit jako učební ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Projekt si klade za c&#237;l vytvořen&#237; desktopov&#233;ho uživatelsk&#233;ho rozhran&#237; pro př&#237;stup k datov&#253;m služb&#225;m a &#250;ložišt&#237;m, kter&#233; jsou poskytov&#225;ny a spravov&#225;ny službou Azure. Aplikace tak bude vhodn&#225; předevš&#237;m pro administraci zdrojů a jejich prohl&#237;žen&#237;, z&#225;roveň by měla sloužit jako učebn&#237; <br /><br />Bližš&#237; informace o postupu při v&#253;voji Azure desktop WPF aplikace je možn&#233; zjistit na blogu <a href=\"http://jirava.net/blog/Archive/sketchflow-azure-desktop.aspx\">http://jirava.net/blog/Archive/sketchflow-azure-desktop.aspx</a><br />\n<h2>Byla publikov&#225;na druh&#225; verze Sketchflow s n&#225;vrhem UI.</h2>\rTato verze již obsahuje všechny komponenty, kter&#233; by měl <i>Azure desktop</i> obsahovat. Z&#225;roveň byla přid&#225;na testovac&#237; data, tak aby byl naznačen postup při pr&#225;ci s t&#237;mto manažerem dat pro Azure. Data neodpov&#237;daj&#237; realitě, proto mějte s t&#237;mto stavem shov&#237;vavost.<br /><br />Samozřejmě st&#225;le budu r&#225;d, pokud mi zašlete vaše připom&#237;nky k UI na uvedenou adresu. <b>Připom&#237;nky</b>, kter&#233; se mi sejdou do <b>p&#225;tku 25.9.2009</b> se pak pokus&#237;m <b>zapracovat</b> do fin&#225;ln&#237; verze aplikace určen&#233; pro spr&#225;vu dat na cloudu Azure.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "azure,WPF,desktop,",
+  "LastEdited": "2009-09-22T01:22:21.627-07:00"
+}

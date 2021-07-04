@@ -1,0 +1,9 @@
+{
+  "ProjectName": "adusermanager",
+  "Title": "Active Directory User Manager",
+  "Description": "Tool to easily manage domain users in Active Directory.\nAllows to easily add and manage user accounts in Windows Domain.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Tool to easily manage domain users in Active Directory.<br />Allows to easily add and manage user accounts in Windows Domain.<br /><br /><br />This release has followin features:<br />\n<ul><li>Easy search for user accounts with sorting and filtering.</li>\n<li>Easy account creation.</li>\n<li>Account editing</li>\n<li>Custom attributes editing</li>\n<li>Password change for account</li>\n<li>Lock/Unlock specific account</li></ul>\n<br />In upcoming version it&#39;s planned to add support for managing Exchange mailboxes.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Active Directory,management,domain,Users,User Account Control,",
+  "LastEdited": "2010-02-09T00:09:07.76-08:00"
+}

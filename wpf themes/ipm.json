@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ipm",
+  "Title": "A Simple Demo of Industrial Process Monitoring System based on .NET & Arduino",
+  "Description": "The demo show some key points of .NET\r\n  1 .NET WPF \r\n  2  WCF\r\n  3 Sinverlight\r\n  4 ADO.Net\r\n The demo is a good sample for learing .NET and developing  process monitoring system. The demo get temperture from Arduinot  It is also a good Arduin sample.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The demo show some key points of .NET<br />1 WPF <br />2 WCF<br />3 Silverlight<br />4 ADO.Net<br />The demo is a simple sample for learing .NET and developing industrial process monitoring system. The demo get temperture from Arduino through serial port. It is also a sample of Arduino project.<br /><br />Software ;<br />  1 VS 2010<br />  2 .Net 4.0<br />  3 Silverlight 4.0<br />  4 Silverlight Toolkit <br />  5 WPF Toolkit<br />Hardware:<br />  1 Arduino Uno<br />  2 LM35 Precision Centigrade Temperature Sensors  <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-06-18T09:50:43.153-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "deletefiles",
+  "Title": "Delete any type of files",
+  "Description": "This is a small utility which can be used to delete any type of file from any directory (and it's sub-directories) based on their modified date.\n\nYou can control all settings via app.config and DeleteFile.config files.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a small utility which can be used to delete any type of file from any directory (and it&#39;s sub-directories) based on their modified date.<br /><br />You can control all settings via app.config and DeleteFile.config files.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-26T19:28:27.73-08:00"
+}

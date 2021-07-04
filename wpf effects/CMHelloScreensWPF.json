@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CMHelloScreensWPF",
+  "Title": "Caliburn Micro Hello Screens WPF Built with CM 2.0.2.0",
+  "Description": "This is a WPF build of the Caliburn Micro Hello Screens sample.\r\nI only updated it to work with the current latest CM 2.0.2.0.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This a build in WPF of the Caliburn Micro HelloScreens Sample built with the current latest CM 2.0.2.0 <br /><br />It was based on a conversion made here : http://caliburnmicro.codeplex.com/discussions/238918<br /><br />I&#39;ve only ported it to the newest CM version.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CM,Caliburn.Micro,C#,WPF,Sample,",
+  "LastEdited": "2015-03-25T05:59:28.297-07:00"
+}

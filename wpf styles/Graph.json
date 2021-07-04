@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Graph",
+  "Title": "Line-Graph Drawing Component for WPF",
+  "Description": "This component allows you to draw lines between UI elements in a WPF application. Those lines and the UI elements are organized as graphs to configure that",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\r<h2>What is it all about?</h2>\r... TBD ...<br /><br /><a href=\"https://plus.google.com/u/0/111620423197570109841?rel=author\">Thomas Gysser</a> | <a href=\"http://www.advadev.de\">www.advadev.de</a> | <a href=\"http://advadev.blogspot.de\">advadev.blogspot.de</a><br /><i>... <b>adva</b>nced <b>dev</b>elopment</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Line,graph,.Net,Attached Properties,custom control,",
+  "LastEdited": "2013-09-23T00:07:08.467-07:00"
+}

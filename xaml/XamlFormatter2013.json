@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XamlFormatter2013",
+  "Title": "Xaml Formatter for VS 2013",
+  "Description": "Xaml Formatter for VS 2013 is a fork of Xaml Markup Styler Visual Studio 2012 Extension repackaged for VS 2013 preview.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Xaml Format for VS 2013</b> is a fork of <a href=\"https://xamlstyler.codeplex.com/\">Xaml Markup Styler Visual Studio 2012 Extension</a> redone for Visual Studio 2013. There are no plans currently to change the operation of the extension.<br /><br />If you want to reward the writer, go to <a href=\"https://xamlstyler.codeplex.com/\">his page</a>, and look for a donate link, or give the tool a nice review.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Xaml,Formatter,VS12,Visual Studio 2013,Extension,",
+  "LastEdited": "2013-09-04T20:38:14.193-07:00"
+}

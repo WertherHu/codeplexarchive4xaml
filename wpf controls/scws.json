@@ -1,0 +1,9 @@
+{
+  "ProjectName": "scws",
+  "Title": "SCWS",
+  "Description": "SCWS - XML web service for Microsoft System Center Operations Manager (AKA SCOM / OpsMgr).  Developed in C# and .Net 3.5 with Visual Studio 2010.\n\nCan be used to get information on MonitoringObjects and to control maintenance mode.   Ideal for integration with SCCM / ConfigMgr.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SCWS - XML web service for Microsoft System Center Operations Manager &#40;AKA SCOM &#47; OpsMgr&#41;.  Developed in C&#35; and .Net 3.5 with Visual Studio 2010.<br /><br />Can be used to get information on MonitoringObjects and to control maintenance mode.   Ideal for integration with SCCM &#47; ConfigMgr.<br /><br />The following methods are provided by the web service:<br />\tGetAllMonitoringClasses<br />\tGetMMReasons<br />\tGetMonitoringObectId<br />\tGetMonitoringObjectInfo<br />\tGetObjectsInMM<br />\tMMStartByGroupName <br />\tMMStartByMonitoringObjectId<br />\tMMStartByWindowsComputerName<br />\tMMStopByGroupName<br />\tMMStopByMonitoringObjectId<br />\tMMStopByWindowsComputerName<br />\tQueryMonitoringObjectsByClassName<br /><br /><br /><b>See the downloads page for the web service and the web service clients</b><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "web service,web services,OpsMgr,system center,Operations Manager,maintenance mode,",
+  "LastEdited": "2011-12-13T02:36:44.193-08:00"
+}

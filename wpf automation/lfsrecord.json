@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lfsrecord",
+  "Title": "LFS Record",
+  "Description": "LFS Record is a camera animation and video recording tool for Live for Speed users.\nIt doesn't replace programs like Fraps 100%, but in most cases you'll find LFS Record allows a lot more freedom and control.\nIt's developed in C# using WPF .net 4 (VS2010).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />LFS Record is a camera animation and video recording tool for Live for Speed users.<br />It doesn&#39;t replace programs like Fraps 100&#37;, but in most cases you&#39;ll find LFS Record allows a lot more freedom and control.<br />It&#39;s developed in C&#35; using WPF .net 4 &#40;VS2010&#41;.<br /><br />Binary download currently only available via : <a href=\"http://www.lfsforum.net/showthread.php?t=72001\">http://www.lfsforum.net/showthread.php?t=72001</a> (see bottom of the first post)<br /><br />Developers downloading the source will also need to pull the InSim.Net source : <a href=\"http://insimdotnet.codeplex.com/SourceControl/list/changesets\">http://insimdotnet.codeplex.com/SourceControl/list/changesets</a> as this is currently part of the project file.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-04-25T20:39:34.547-07:00"
+}

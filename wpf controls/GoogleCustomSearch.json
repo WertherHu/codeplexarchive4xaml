@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GoogleCustomSearch",
+  "Title": "Google Custom Search (Site Search)",
+  "Description": "This custom ASP.Net control allows you to quickly implement an internal search engine in your public website using Google Custom Search / Google Site Search.\nIt embeds the search page in your site, and displays search results in your own layout using XSLT transformations.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/GoogleCustomSearch/7e4f7601-3616-45a2-a034-40a472c6f99e\" alt=\"custom_search_sm.gif\" title=\"custom_search_sm.gif\" /><br /><br /><b>Project Description</b><br />This custom ASP.Net control allows you to quickly implement an internal search engine in your public website using Google Custom Search &#47; Google Site Search.<br />It embeds the search page in your site, and displays search results in your own layout using XSLT transformations.<br /><br />More information about Google Custom Search:<br /><a href=\"http://www.google.com/coop/cse/\">http://www.google.com/coop/cse/</a><br /><br /><br /><br /><img src=\"/projects/GoogleCustomSearch/7b2b63ee-76b6-438c-a9b6-f982ac0a460a\" alt=\"logo_orbit_120_black.gif\" title=\"logo_orbit_120_black.gif\" /><br />Orbit One is a software development agency located in Ghent, Belgium.<br />We specialize in internet facing websites, intranet and extranet applications.<br />We use technologies such as ASP.Net, SharePoint, Umbraco and Microsoft Dynamics CRM.<br /><a href=\"http://www.orbitone.com\">http://www.orbitone.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "google search,search engine,ASP.NET Control,",
+  "LastEdited": "2011-01-15T12:25:54.557-08:00"
+}

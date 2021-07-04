@@ -1,0 +1,9 @@
+{
+  "ProjectName": "googleoauth2",
+  "Title": "Google OAuth2",
+  "Description": "Google OAuth2 is a small library that uses the WebBrowser control in order to do simple authentication with a Google account.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Google OAuth2</b><br />Google OAuth2 is a small library that uses the WebBrowser control in order to do simple authentication with a Google account.<br /><br /><br /><b>Features</b>\n<ul><li>Login with Google account</li>\n<li>Get user info(id, name, email)</li></ul>\n<br />Download Google OAuth2 from CodePlex or install using  <a href=\"https://www.nuget.org/packages/GoogleOAuth2/\">NuGet</a><br /><br /><a href=\"https&#58;&#47;&#47;www.nuget.org&#47;packages&#47;GoogleOAuth2&#47;\"><img src=\"/projects/googleoauth2/33e0dacb-e978-4e56-9db5-d8f9dc907deb\" alt=\"Nuget\" title=\"Nuget\" /></a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "google oauth2,windows phone 8,",
+  "LastEdited": "2013-09-14T21:35:27.737-07:00"
+}

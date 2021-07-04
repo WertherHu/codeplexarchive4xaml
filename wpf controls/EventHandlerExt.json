@@ -1,0 +1,9 @@
+{
+  "ProjectName": "EventHandlerExt",
+  "Title": "Raise events controlled",
+  "Description": "This is an example of raising you events controlled (with exception handling)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an example of raising you events controlled &#40;with exception handling&#41;<br /><br />Exceptions should be handeled, but sometimes it&#39;s better to not interrupt the eventhandler invocationlist.<br />This is an extension that shows how you can extend an EventHandler&lt;&gt; (this can be used on other delegates also)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-03T04:44:27.753-07:00"
+}

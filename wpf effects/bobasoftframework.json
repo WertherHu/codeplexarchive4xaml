@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bobasoftframework",
+  "Title": "Bobasoft Framework",
+  "Description": "Contains own light IoC, many helpers and extensions. Also in Presentation project, useful converters, actions, base view model implementation",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Bobasoft Framework</b><br /><br /><b>Update: 05/12/12</b> v0.5.2 is available. Also added wpf example project<br /><br /><br />About:<br /><br />This is set of helpful classes.<br /><br />Includes:<br />IoC + lightweight dependency resolver implementation (not external libraries needed)<br /><br />For Xaml:<br />- set of converters:<br />     VisibilityConverter<br />     EnumConverter<br />     DateTimeConverter<br />- ModelBase class<br />- ObservableObject<br />- Command<br />- ObservableDictionary<br /><br />Tags: helpers, ioc, azure, sl, mongodb</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Silverlight,Azure,",
+  "LastEdited": "2012-05-18T13:48:26.993-07:00"
+}

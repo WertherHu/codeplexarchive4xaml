@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gmaplist",
+  "Title": "Google Map WebPart from SharePoint List",
+  "Description": "Google Map WebPart from SharePoint List. Simple and Clean. More Control Over the Map. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Google Map WebPart from SharePoint List. Simple and Clean. Enjoy it..... Don't forget to rate this.<br>\r\n<br>\r\nI am looking for a developer who can help me in implementing more functionality with this Google map Web part.\r\n<a href=\"https://www.codeplex.com/site/login?RedirectUrl=http%3a%2f%2fgmaplist.codeplex.com%2fwikipage%3frequestToJoin%3dtrue\">\r\nJoin me.[</a><br>\r\n<br>\r\nInstallation Steps</p>\r\n<ul>\r\n<li>Create your Sharepoint Custom List with following Fields (&quot;Google Map List&quot;) - Title of the list\r\n<ul>\r\n<li>Title(Single Line Text) </li><li>Latitude(Single Line Text) </li><li>Longitude(Single Line Text) </li><li>Description(You can have rich Text Box) </li><li>IsCenter(Make Map Center Based Your Selection - case sensitive Fields Name) </li></ul>\r\n</li><li>Install WSP into WSS 3 or SharePoint 2007 Or Later version. </li><li>Create Your google map key to your domain. </li><li>Attach Google Map Webpart into your page. </li><li>Configure your Field Names in Google Map Webpart Configuration. </li></ul>\r\n<p><br>\r\nFull Documdation Will be Released on Comming 29 Jan 2010. <br>\r\n<br>\r\nif you found any issue, Please report http://gmaplist.codeplex.com/WorkItem/List.aspx</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Google Map,WebPart,Custom Web Parts,",
+  "LastEdited": "2011-02-10T22:05:22.6-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "caprice",
+  "Title": "Caprice: Engineering Adaptive Privacy",
+  "Description": "Caprice is a tool aimed at supporting software engineers in the design of applications that appropriately adapt their behaviour to mitigate privacy threats. This tool helps provide software engineers design-time insight on the functional behaviour of a system and the associated runtime context changes that can threaten privacy.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Caprice is a tool aimed at supporting software engineers in the design of applications that appropriately adapt their behaviour to mitigate privacy threats. This tool helps provide software engineers design-time insight on the functional behaviour of a system and the associated runtime context changes that can threaten privacy.<br /><br /><b>Core features:</b>\n<ul><li> Identifies the contextual properties that have to be monitored in order to detect context changes that might threaten privacy. </li>\n<li>Reasons over a history of agent interactions to discover privacy threats. </li>\n<li>Suggests possible threat mitigation action based on the severity of discovered threat. </li></ul>\n<b><a href=\"https://caprice.codeplex.com/documentation?referringTitle=Home\">Documentation</a></b>,  <b><a href=\"https://caprice.codeplex.com/wikipage?title=User%20Manual&referringTitle=Home\">User Manual</a></b>,  <b><a href=\"https://caprice.codeplex.com/wikipage?title=Installation%20Instructions&referringTitle=Home\">Installation Instructions</a></b><br /><br /><img src=\"/projects/caprice/81133178-e0e7-454e-a651-7a8aae6e92b4\" alt=\"Capturexxyyz.PNG\" title=\"Capturexxyyz.PNG\" /><br />(<b>NOTE:</b> This tool is made available for review and testing purpose only.)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "PbD,Engineering Privacy,Tool,Research,",
+  "LastEdited": "2012-05-15T06:17:25.803-07:00"
+}

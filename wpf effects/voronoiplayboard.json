@@ -1,0 +1,9 @@
+{
+  "ProjectName": "voronoiplayboard",
+  "Title": "Voronoi PlayBoard",
+  "Description": "I write this program to make an artwork.\r\nExport to autocad and then cut a steel layer  with a plasma cnc machine.\r\nI hope that will be usefull for you guys.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Voronoi poligon generator</b><br /><br />The program generate seedpoints in diferent patterns (brick, honeycomb, spiral, circular)<br />then alow to generate de Voronoi graph and the Delauny triangulation.<br /><br />The goal is that it can generate the poligons and save<br />like a <b>SVG</b> file (Scalable Vector Graphic) or generate<br />a <b>SCR</b> file to run in Autocad.<br /><br />In the internet we see many programs to generate Voronoi graph<br />but it dont permit to generate the poligons.<br /><br />To compute the Fortune Algorithm<br />we use the dll FortuneVoronoi.dll from<br />https://code.google.com/p/fortune-voronoi/<br /><br /><br />The program is writed in C# and WPF.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Voronoi Polygon wpf,",
+  "LastEdited": "2014-12-28T14:38:20.36-08:00"
+}

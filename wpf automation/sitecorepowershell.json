@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sitecorepowershell",
+  "Title": "Sitecore PowerShell Console",
+  "Description": "PowerShell environment for Sitecore allowing to apply complex modifications, manipulate sites, files and items and perform content analysis & reports.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project moved to Github</b><br /><a href=\"http://github.com/SitecorePowerShell/Console\">New Location on Github</a><br /><br />For further development please follow us on our <a href=\"http://github.com/SitecorePowerShell/Console\">Github Project</a>. If you have any issues with the PowerShell Console module, please report them in our <a href=\"http://github.com/SitecorePowerShell/Console/issues\">Github Issue Tracker</a>.<br /><br />I hope you enjoy the module!<br /><br /><a href=\"http://blog.najmanowicz.com/\">​Adam Najmanowicz</a> - <a href=\"http://www.cognifide.com/\">​Cognifide</a> </div><div class=\"ClearBoth\"></div>",
+  "TagList": "powershell,sitecore,console,scripting,script,automation,cms,content,",
+  "LastEdited": "2013-08-14T17:42:24.733-07:00"
+}

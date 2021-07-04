@@ -1,0 +1,9 @@
+{
+  "ProjectName": "iopv",
+  "Title": "IO Performance Verifier",
+  "Description": "IO Performance verifier is for verifying IO from fx SAN/NAS in a virtualized environment on Windows servers. Useful to verify SLA or configuration change effect",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>IO Performance Verifier</b><br />IO Performance verifier is for verifying IO from fx SAN&#47;NAS in a virtualized environment on Windows servers. Useful to verify SLA or configuration change effect<br />With servers running on virtualized machines with SAN/NAS it is very difficult to test if a SAN/NAS can take the pressure put on the server and when it breaks.<br /><br />An additional problem can be to have a reliable way to retest when configurations have been changed.<br /><br />This project is making the assumption that there is a somewhat linear increase in the IO for what pressure you put on the server fx a server in a production system handling 1.000 items a minute has a 1/10 the IO pressure of a server handling 10.000 items.<br /><br />This linearity is used to take a pressure recorded at a production or test server handling 100 items per minute and using that to scale the IO pressure to 10.000 items per minute to test if the SAN/NAS can handle it.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-06-02T12:22:19.45-07:00"
+}

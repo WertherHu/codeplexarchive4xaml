@@ -1,0 +1,9 @@
+{
+  "ProjectName": "synchro",
+  "Title": "Synchro",
+  "Description": "VB.NET software to synchronize folders. The control included can be reused in other applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />VB.NET software to synchronize folders. The control included can be reused in other applications.<br /><br />Source code includes the CGAnimation project <a href=\"http://www.codeproject.com/KB/miscctrl/CGAnimation.aspx\">http://www.codeproject.com/KB/miscctrl/CGAnimation.aspx</a> by Martin Cook and a VB.NET translation of the Command Line Arguments Parser <a href=\"http://www.codeproject.com/KB/recipes/command_line.aspx\">http://www.codeproject.com/KB/recipes/command_line.aspx</a> by R. Lopes.<br /><br />An article about Synchro is available on CodeProject <a href=\"http://www.codeproject.com/KB/cpp/Synchro.aspx\">http://www.codeproject.com/KB/cpp/Synchro.aspx</a>.<br /><br /><br />The installer setup file (.aip) is for Advanced Installer. The .ail file is the associated language file for French setup.<br />The documentation has been built by Sandcastle Help File Builder from the .shfb file. The file obtained is in /Help.<br />/Help.fr and /Help.eng contain necessary files to build compiled HTML help with HTML Help Workshop. .chm resulting files must be put into /App/bin (English version) and /App/bin/fr (French version). To do so, first build the solution in Visual Studio to create /App/bin folder, change the targets in HTML Help workshop and then compile the help files.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-05-20T05:51:39.443-07:00"
+}

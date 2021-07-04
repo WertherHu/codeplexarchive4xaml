@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gifsilverlight",
+  "Title": "Silverlight Gif Animation Control",
+  "Description": "Gif Animation Control for Silverlight",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h1 id=\"ctl00_ArticleTitle\">GIF Animation Control for Silverlight</h1>\r\n<h1>Project Description</h1>\r\n<p>Gif Control for Silverlight is a library, which provides functionality for loading and animate from gif format.<br>\r\n<br>\r\nAt the moment the library is able to load the gif format. Please have a look at the sample demo and select a image which should be displayed.</p>\r\n<p>I would very happy for a comment with the image attached, which you used for testing.<br>\r\n<br>\r\n<br>\r\n&nbsp;</p>\r\n<h1>Howto's</h1>\r\n<ul>\r\n<li><a href=\"https://gifcontrolsilverlight.codeplex.com/wikipage?title=How%20to%20Use%20Gif%20Control\">Loading Gif Image</a>\r\n</li></ul>\r\n<h1>&nbsp;</h1>\r\n<h1>&nbsp;</h1>\r\n<h1>About the Author</h1>\r\n<p>My name is Sulaiman Obaidat a Software Engineer from Jordan. I am the author of the Gif Animation Control library. I am also interested in web,mobile and windows development and I studied computer science.</p>\r\n<p><br>\r\nYou can contact me at the following:</p>\r\n<p>Email address <a href=\"mailto:sleman_obaidat@hotmail.com\">sleman_obaidat@hotmail.com</a></p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Gif,C#,Gif Animation,",
+  "LastEdited": "2014-06-18T10:16:04.07-07:00"
+}

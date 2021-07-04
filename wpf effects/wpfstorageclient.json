@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfstorageclient",
+  "Title": "WPF C# Storage Client for Azure",
+  "Description": "This is a C# WPF client using the Azure StorageClient SDK sample to upload files to Azure Blob storage. It includes account management, file upload, file delete. \n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a C&#35; WPF client using the Azure StorageClient SDK sample to upload files to Azure Blob storage. It includes account management, file upload, file delete. <br /><br />\n<h2>How it works:</h2>\rDownload the source code and build the project. Run the program and switch to the account management tab. On the account management tab you should click new and add your Azure azure storage account info. This includes your shared key and your account name. Choose save. After you have saved your account info switch back to the Browser tab and choose the newly added account from the drop down. In the left hand column the list of container should appear. When you select a container the blobs within the container should appear.<br />\n<h2>Known Issues:</h2>\rIf you delete the account xml file then the application will not run. Simply copy the empty one from the source directory to the bin directory.<br />Right now you can not queue uploads. I am working on the code for multiple selection of the files and hopefully will have it done soon.<br />\n<h2>Remarks:</h2>\rThis is really just a work in project. I have a lot of cleanup todo, but it does the trick. I know I was simply looking for a way to get my files up an into the blob store. This fills the bill. I will continue to work on it as I get time.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,Azure Storage,WPF,",
+  "LastEdited": "2009-08-02T06:14:35.947-07:00"
+}

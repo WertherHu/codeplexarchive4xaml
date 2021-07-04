@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sonic",
+  "Title": "Sonic",
+  "Description": "A build process for the deployment process of professional grade web applications.\n\nIt controls the execution of a number of external tools used to compact, compress, and tidy web site files. Examples include HTMLTidy, CSSTidy, and the YUICompressor.\n\nIt also combines files (CSS, JS, for example) into a single file and updates references in the site to the newly combined file. This reduces the number of HTTP requests and improves performance.\n\nCaching assets is also a major issue with web apps, so Sonic can rename selected files within the site to include a datestamp postfix, and update all references to the new postfixed filename. This ensures the resource will be re-downloaded next time the page is accessed.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A build process for the deployment process of professional grade web applications.<br /><br />It controls the execution of a number of external tools used to compact, compress, and tidy web site files. Examples include HTMLTidy, CSSTidy, and the YUICompressor.<br /><br />It also combines files &#40;CSS, JS, for example&#41; into a single file and updates references in the site to the newly combined file. This reduces the number of HTTP requests and improves performance.<br /><br />Caching assets is also a major issue with web apps, so Sonic can rename selected files within the site to include a datestamp postfix, and update all references to the new postfixed filename. This ensures the resource will be re-downloaded next time the page is accessed.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-02-12T12:08:21.417-08:00"
+}

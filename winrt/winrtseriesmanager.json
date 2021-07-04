@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winrtseriesmanager",
+  "Title": "WinRT Series Manager",
+  "Description": "Series Manager provides you with a huge collection of series from TheTVDB and allows you to stay up to date with your most favorite ones via notifications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Series Manager for Windows 8.1</strong></p>\r\n<p>Series Manager provides you with a huge collection of series metadata delivered by&nbsp;TheTVDB.com. Currently the app is designed for the Windows 8 look and is running with the WinRT and .NET Framework. The entire source code is written in C# and makes\r\n use of a customized MVVM Framework called &quot;<a href=\"https://mvvmrt.codeplex.com/\" target=\"_blank\">WinRT MVVM Framework</a>&quot;.</p>\r\n<p>Series Manager currently allows you to:</p>\r\n<ul>\r\n<li>Search for series </li><li>View series metadata (overview, actors, seasons and episodes, ...) </li><li>Informes you about new episodes (today, this week, this month, this year) </li><li>Badge Notification (Counter of how many episodes currently unwatched) </li><li>Browse a huge collection of Fanarts of each series and\r\n<ul>\r\n<li>Save Fanarts to the harddrive </li><li>Set as lockscreen </li><li>Set as series Background </li></ul>\r\n</li><li>Snapping (Windows 8.1 variable size snapping) </li><li>Use it for free!! </li></ul>\r\n<p>I'm developing this app since March 2013 together with two of my friends. Due to the fact that there is still a lot of work, I'm searching for new developers who wanna join programming and together creating an awesome app.</p>\r\n<p>Requirements:</p>\r\n<ul>\r\n<li>Windows 8 and Windows 8.1 (WinRT) knowledge </li><li>MVVM Framework knowledge </li><li>Time :D </li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-12-05T05:17:37.61-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "GSPTV",
+  "Title": "Get SharePoint to Validate",
+  "Description": "Purpose of this project\n• To get SharePoint 2007 to validate according to W3C XHTML 1.0 Strict.\n• Google-optimize SharePoint to gain the best search ranking.\n• Enhanced accessibility.\n• Makes it possible for SharePoint to follow the American regulation 508 and the Danish regulation based on WCAG AA.\n• Better control over the HTML output of SharePoint, to ease the frontend development process.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Project Description</b></h1>\rPurpose of this project<br />&#8226; To get SharePoint 2007 to validate according to W3C XHTML 1.0 Strict.<br />&#8226; Google-optimize SharePoint to gain the best search ranking.<br />&#8226; Enhanced accessibility.<br />&#8226; Makes it possible for SharePoint to follow the American regulation 508 and the Danish regulation based on WCAG AA.<br />&#8226; Better control over the HTML output of SharePoint, to ease the frontend development process.<br />\n<ul><li>Note This project targets publicweb and will not change the master page and layout files into semantic html!</li></ul>\n\n<h3>What is on the TO-DO list.</h3>\r<ul><li>The navigation control is not fully developed.</li>\n<li>Remove the Pages from the url</li></ul>\n\n<h3>Bug Fix:</h3>\r<ul><li><a href=\"https://gsptv.codeplex.com/workitem/1151\">Replace writer.WriteLine(stringBuilder.ToString()); with writer.Write(stringBuilder.ToString()); in GSPTV_RichImageField</a></li>\n<li><a href=\"https://gsptv.codeplex.com/workitem/3946\">Error deploying compat.browser file</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "validate,W3C XHTML,508,WCAG,Google-optimize,MOSS,SharePoint,",
+  "LastEdited": "2011-05-11T23:31:20.28-07:00"
+}

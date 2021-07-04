@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TFSWorkItemTracker",
+  "Title": "TFS WorkItem Tracker",
+  "Description": "TFS WorkItem Tracker helps developers to focus on their tasks and control their progression.\r\nIt also helps Project Manager to visualize developments progression",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>TFS WorkItem Tracker helps developers to focus on their tasks and control their progression.</b><br />It also helps Project Manager to visualize developments progression in real time.<br />Another goal of this tool is to control workitem association to changesets.<br /><br /><b>Features</b> :<br />\t1) List workitems and filter by state, area and iteration paths <br />\t2) Control timing on workitem progression<br />\t3) Visualize changesets associated to workitems<br />\t4) Associate workitems to changesets<br />\t5) Visualize performances by days<br /><br /><i>This version is only compatible with <b>Visual Studio 2012</b></i><br /><br /><b>Important : This code and information are provided &quot;as is&quot; without warranty of any kind, either expressed or implied.</b><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "TFS,WorkItem,Visual Studio,Team Foundation,VS2012,performances,Project management,ChangeSet,",
+  "LastEdited": "2013-05-01T10:30:27.447-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "viewmonad",
+  "Title": "View Monad",
+  "Description": "Working with multi-threads in WPF and Silverlight is quite annoying. This API provides a type safe solution based on monads for safer and simpler WPF/Silverlight multi-threading",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Working with multi-threads in WPF and Silverlight is quite annoying. This API provides a type safe solution based on monads for safer and simpler WPF&#47;Silverlight multi-threading<br /><br /><br /><a href=\"http://sadekdrobi.com/2009/06/26/a-monad-in-c-for-simplifying-wpf-multi-threading-for-a-more-responsive-gui/\">http://sadekdrobi.com/2009/06/26/a-monad-in-c-for-simplifying-wpf-multi-threading-for-a-more-responsive-gui/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-06-28T05:34:01.827-07:00"
+}

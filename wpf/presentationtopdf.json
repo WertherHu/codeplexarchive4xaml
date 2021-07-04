@@ -1,0 +1,9 @@
+{
+  "ProjectName": "presentationtopdf",
+  "Title": "Presentation To PDF",
+  "Description": "A simple ppt / pptx to PDF converter that converts PowerPoint presentations in batch.",
+  "MovedLink": "https://github.com/shemarlindie/presentationtopdf",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple ppt &#47; pptx to PDF converter that converts PowerPoint presentations in batch.<br /><br /><img src=\"https://b17d59da903759b551adb392d60e89ee43088d36.googledrive.com/host/0B3-i5Xt15LcdN0ZGMzZ6RmhrMWM/presentation_to_pdf\" /><br />\n<h1>Details</h1>\r<hr />\n<h2>Built with:</h2>\r<ul><li>C#</li>\n<li>WPF</li></ul>\n\n<h2>Features:</h2>\r<ul><li>MS PowerPoint presentations (ppt &amp; pptx) to PDF.</li>\n<li>MS Word documents (doc &amp; docx) to PDF</li>\n<li>Batch conversion.</li></ul>\n\n<h2>Requirements:</h2>\r<ul><li>Microsoft Office (PowerPoint needed)</li>\n<li>Microsoft&#39;s .NET Framework 4.5 or later (comes with most Windows systems)</li></ul>\n\n<h2>Links:</h2>\r<ul><li>.NET Framework: <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40773\">http://www.microsoft.com/en-us/download/details.aspx?id=40773</a></li></ul>\n<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,WPF,PowerPoint,PDF,ppt,pptx,ppt to pdf,presentation to pdf,pdf conversion,doc to pdf,",
+  "LastEdited": "2014-11-27T04:48:51.24-08:00"
+}

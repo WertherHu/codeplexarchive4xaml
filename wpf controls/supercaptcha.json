@@ -1,0 +1,9 @@
+{
+  "ProjectName": "supercaptcha",
+  "Title": "SuperCaptcha for MVC",
+  "Description": "Custom captcha control for MVC",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n<br>\r\nSuperCaptcha is a .net library&nbsp;with a&nbsp;captcha control in it. This is similar to Google's reCaptcha&nbsp;but does not have any public key, private key concept.<br>\r\n<img src=\"/projects/supercaptcha/2506c232-b754-474c-8d21-b999c93315f4\" alt=\"captcha\" width=\"375\" height=\"216\"></p>\r\n<p>The current version of the library has the following features implemented in it</p>\r\n<ul>\r\n<li>Refresh captcha </li><li>Listen captcha ( text-to-speech conversion) </li><li>Support for model binding </li><li>Configurable captcha length </li><li>Culture support (English and Spanish) </li><li>Validation support </li></ul>\r\n<p>Future versions will target on,</p>\r\n<ul>\r\n<li>Configuring Css and Images. </li><li>Support for few more language cultures </li></ul>\r\n<p><br>\r\nDownload and Usage instruction is given in Documentation section.<br>\r\nYou can find a&nbsp;sample solution '<strong>SuperCaptcha.TestClient</strong>' that uses this library in the download package.<br>\r\n<br>\r\nNuget Package is also available for SuperCaptcha.<br>\r\n<br>\r\n<img src=\"/projects/supercaptcha/8166d5f2-81b4-4604-8cf6-1764c5af2c03\" alt=\"nuget package for super captcha\" width=\"728\" height=\"76\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVC,Captcha,C#,Custom Captcha,MVC 4 Captcha,",
+  "LastEdited": "2014-06-04T14:28:36.25-07:00"
+}

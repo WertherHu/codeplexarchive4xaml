@@ -1,0 +1,9 @@
+{
+  "ProjectName": "winrtclipboard",
+  "Title": "WinRT Clipboard",
+  "Description": "WinRT Clipboard simply allows you to share from any Windows App to your personal clipboard or to share what is already on your clipboard with another App.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>WinRT Clipboard</h1>\rWinRT Clipboard simply allows you to share from any Windows App to your personal clipboard or to share what is already on your clipboard with another App.<br /><br />Simply install Clipboard from the app store and start sharing!<br /><a href=\"http://apps.microsoft.com/webpdp/app/clipboard/d12111fe-bfa8-4050-96c1-c6571e1f3230\">http://apps.microsoft.com/webpdp/app/clipboard/d12111fe-bfa8-4050-96c1-c6571e1f3230</a><br />\n<h2>Share your Clipboard with apps</h2>\r<img src=\"/projects/winrtclipboard/98875879-fa49-4c7b-a8a5-097614f7a657\" alt=\"Screen2.png\" title=\"Screen2.png\" /><br />\n<h2>Share from apps right to your Clipboard</h2>\r<img src=\"/projects/winrtclipboard/6c151831-7ce8-4cb1-b125-5aaa159a1868\" alt=\"Screen4.png\" title=\"Screen4.png\" /><br /><br />\n<ul><li>See our <a href=\"https://winrtclipboard.codeplex.com/wikipage?title=Privacy&referringTitle=Home\">Privacy</a> Information</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-09-10T12:52:57.107-07:00"
+}

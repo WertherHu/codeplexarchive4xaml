@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfkb",
+  "Title": "WPF Touch Screen Keyboard",
+  "Description": "WPF Touch Screen Keyboard is a re-usable control and toolkit for anyone developing a touch screen application in WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Touch Screen Keyboard is a re-usable control and toolkit for anyone developing a touch screen application in WPF.<br /><br />As it stands the project was purpose built to be able to define keyboard layouts in code and only needed one style. I&#39;m currently refactoring the project so that you will be able to define a ControlTemplate and Styles for the keys and try to make life easy for defining different keyboard layouts and interaction.  I&#39;ll also be providing some more comprehensive and useful default keyboard controls you can use right out of the box. Keep an eye out for the next version!  In the meantime if the control is styled appropriately for you it has been tested and is production ready.<br /><br /><img src=\"/projects/wpfkb/b514f558-0883-40a0-b65d-62479958125f\" alt=\"WpfKb&#32;Test&#32;Client\" title=\"WpfKb&#32;Test&#32;Client\" /><br />\n<h2>History</h2>\rThis project was started as part of a proof of concept for a commercial touch screen WPF application that will be commissioned soon. After looking at a few of the other Keyboard offerings available I decided to write and open-source this project as a chance to give back to the community and to learn control development in WPF. I hope it helps someone out there!<br />\n<h2>Comments and Contributions</h2>\rFeel free to comment, log issues/suggestions, or even better contribute to the project!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,Keyboard,Projects,",
+  "LastEdited": "2009-12-22T20:19:01.123-08:00"
+}

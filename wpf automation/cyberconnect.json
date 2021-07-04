@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cyberconnect",
+  "Title": "CyberConnect",
+  "Description": "CyberConnect is an API for working with INSTEON, X10, and Z-Wave technologies that will run on .NET 4.5, 4.0, and .NETMF 4.3 - .NETMF 4.1",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>NOTE: Currently being developed. The goal of making the code available on CodePlex is to inspire and help others with similar problems in hopes of building .NET APIs and SDKs for embedded systems available to hobbyist developers.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Project Description</strong><br>\r\nCyberConnect is an API for working with INSTEON technologies that will run on .NET 4.5, 4.0, and .NETMF 4.3 - .NETMF 4.1 if and when completed.</p>\r\n<p><strong>Project Updates</strong><br>\r\nUpdates are available at <a href=\"http://blog.psibernetic.com/category/csharp/cyberconnect/\">\r\nhttp://blog.psibernetic.com/category/csharp/cyberconnect/</a></p>\r\n<p><strong>Notes</strong><br>\r\nCyberConnect is primarily written using C#, but may include other CLS compliant languages such as F# for certain components. (Does not at this time.)</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Home,Automation,Home Automation,C#,CLS Compliant,INSTEON,Z-Wave,X10,.NET Micro Framework,",
+  "LastEdited": "2013-09-27T08:28:28.477-07:00"
+}

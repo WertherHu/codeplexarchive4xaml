@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vnotify",
+  "Title": "VNotify - .NET AppNotifications Library",
+  "Description": "VNotify provides a fully managed interface to the AppNotifications service, making it easy to send out push notifications from a .NET application to an iPhone. Target iPhones must have the third-party AppNotifications service installed and enabled. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />VNotify provides a fully managed interface to the AppNotifications service, making it easy to send out push notifications from a .NET application to an iPhone. Target iPhones must have the third-party AppNotifications service installed and enabled. <br /><br /><img src=\"/projects/vnotify/6b64bd6f-1cad-4c08-866a-0e265cd9b17b\" alt=\"DebugVNotifyDemo.png\" title=\"DebugVNotifyDemo.png\" /><br /><br /><b>Requirements</b>\n<ul><li>iPhone</li>\n<li>AppNotifications Application (Available Through App Store)</li>\n<li>.NET Framework 3.5</li></ul>\n<br /><img src=\"/projects/vnotify/d9d06dea-4504-4d4d-bc56-3bdfeda5aab1\" alt=\"highlights.png\" title=\"highlights.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "iphone,AppNotifications,Library,WPF,",
+  "LastEdited": "2009-11-18T09:40:28.807-08:00"
+}

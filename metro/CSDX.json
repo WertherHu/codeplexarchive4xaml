@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CSDX",
+  "Title": "DX11 (Win 7 & Win 8 Metro) import for C#",
+  "Description": "This project is a simple wrapper of DirectX 11 interfaces to .NET Library. Now, only Direct3D 11 is imported.\r\n本项目是DX11的一个简单的.NET包装，当前只完成了D3D11。\r\nWin7, Win8 Metro",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is a simple wrapper of DirectX 11 interfaces to .NET Library. Now, only Direct3D 11 is imported.<br />本项目是DX11的一个简单的.NET包装&#65292;当前只完成了D3D11&#12290;<br />Win7, Win8 Metro<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,C#,DirectX,Direct3D,DX11,D3D11,",
+  "LastEdited": "2013-02-05T08:04:33.963-08:00"
+}

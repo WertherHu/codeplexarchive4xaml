@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sldigitallogicsim",
+  "Title": "Digital Logic Simulator in Silverlight",
+  "Description": "This project is a basic simulator for digital logic circuits. It includes a variety of gates (AND, OR, XOR, NAND, NOR, NOT), JK and D type flip-flops, a pulse generator, logic high and low levels, wires, and switches.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is a basic simulator for digital logic circuits. It includes a variety of gates &#40;AND, OR, XOR, NAND, NOR, NOT&#41;, JK and D type flip-flops, a pulse generator, logic high and low levels, wires, and switches.<br /><br />You can view a running version of this project here:<br /><a href=\"https://sldigitallogicsim.codeplex.com/wikipage?title=http%3a%2f%2fkenwatts.blogspot.com%2f2008%2f08%2fdigital-logic-simulator-in-silverlight.html&referringTitle=Home\">http&#58;&#47;&#47;kenwatts.blogspot.com&#47;2008&#47;08&#47;digital-logic-simulator-in-silverlight.html</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Digital,Simulator,Logic,Silverlight,DigitalLogicSim,",
+  "LastEdited": "2008-09-16T07:30:21.703-07:00"
+}

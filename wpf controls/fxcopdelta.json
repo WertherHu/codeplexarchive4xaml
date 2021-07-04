@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fxcopdelta",
+  "Title": "FxCop Delta",
+  "Description": "A custom check-in policy for Visual Studio Team System that runs FxCop rules before performing a check-in.",
+  "MovedLink": "https://github.com/thesourcerer/fxcopdelta",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A custom check-in policy for Visual Studio Team System that runs FxCop rules before performing a check-in.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "FxCop,Visual Studio,Team System,Source Control,Check-in Policy,Debug Symbols,C#,Team Foundation,Changeset,",
+  "LastEdited": "2008-02-26T04:47:34.673-08:00"
+}

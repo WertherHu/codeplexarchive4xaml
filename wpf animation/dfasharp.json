@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dfasharp",
+  "Title": "DFA#",
+  "Description": "DFA# is project that was created to provide a way to facilitate the design and simulation of Deterministic finite state automatons as well as to provide library",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>DFA#</h1>\r<h2>Deterministic Finite State Automatons #</h2>\r\nIs a project created with the purpose to built a fully functional library that can simulate a <b>deterministic finite automaton</b> and to provide simple but useful apps that can use the library to facilitate the <i>design</i> and <i>debugging</i> of an automaton as well as run <i>simulations</i> with it.<br /><br />This project is composed by 3 sub-projects:\n<ul><li>DFASimulation <i>(The library dll)</i></li>\n<li>DFAConsoleApplication <i>(A demo CLI Application for the library)</i></li>\n<li>DFAGuiApplication <i>(A fully functional dfa building &amp; simulating application)</i></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DFA,NFA,Automata,.NET,C#,WPF,Graph,deterministic,finite,state,Simulation,",
+  "LastEdited": "2013-05-14T07:27:59.72-07:00"
+}

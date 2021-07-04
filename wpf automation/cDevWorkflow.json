@@ -1,0 +1,9 @@
+{
+  "ProjectName": "cDevWorkflow",
+  "Title": "cDevWorkflow",
+  "Description": "cDevWorkflow is a next generation Workflow-BPM product for .net developers",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />cDevWorkflow is a next generation Workflow-BPM product for .net developers<br /><br /><br />cDevWorkflow provides the following Workflow-BPM features<br />*Graphical web based drag and drop designer<br />*High performance workflow engine<br />*Engine supports distributed processing and fail-over processing<br />*Enterprise Service bus for processing events<br />*Business intelligence dashboard<br />*Full .Net API and Web-service API<br />*Build and use your own custom steps uisng .net<br />*Supports .net framework 4.0+<br />*Runs on Microsoft SQL Server, MySQL, Oracle databases<br /><br />For more information visit www.cDevWorkflow.com <a href=\"http://www.cDevWorkflow.com\">http://www.cDevWorkflow.com</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "workflow,bpm,process,automation,flow,",
+  "LastEdited": "2014-11-11T14:00:19.587-08:00"
+}

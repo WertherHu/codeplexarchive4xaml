@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightpdfprint",
+  "Title": "silverlight PDF Printer",
+  "Description": "silverlight PDF Printer is a Silverlight library that makes it easier for developers to create PDF files on the client side.\r\n\r\nsilverlight PDF Printer is based on silverPDF\r\n(http://silverpdf.codeplex.com/)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />silverlight PDF Printer is a Silverlight library that makes it easier for developers to create PDF files on the client side.<br /><br />silverlight PDF Printer is based on silverPDF<br />&#40;http&#58;&#47;&#47;silverpdf.codeplex.com&#47;&#41;<br /><br />This Project sponsored by The Structural Engine<br /><a href=\"http://structuralengine.cloudapp.net/wordpress/?p=171\">http://structuralengine.cloudapp.net/wordpress/?p=171</a><br /><br /><b>Sample Cord</b><br />&quot;PrintPreview&quot; is this project&#39;s class<br /><br /><pre>   private void button1_Click(object sender, RoutedEventArgs e)\n   { \n            PrintPreview pdfPrt = new PrintPreview();\n            pdfPrt.NewPage();\n            pdfPrt.PrtTxt(1, this.text1.Text);\n\n            ChildWindow PrintPreview = new ChildWindow();\n            PrintPreview.Content = pdfPrt;\n            PrintPreview.Width = pdfPrt.Width;\n            PrintPreview.Height = pdfPrt.Height;\n            PrintPreview.Title = &quot;Print Preview&quot;;\n            PrintPreview.Show();\n   }\n</pre><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-07-20T00:13:12.733-07:00"
+}

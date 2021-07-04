@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MyAjaxControlToolkit",
+  "Title": "MyAjaxControlToolkit",
+  "Description": "Some new ASP.NET AJAX controls based on AjaxControlToolkit.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Some new ASP.NET AJAX controls based on AjaxControlToolkit:<br />\n<ul><li><b>ButtonMenu</b>: based on &#39;PopupExtender&#39; permitts to show a popup on button&#39;s click (<a href=\"https://myajaxcontroltoolkit.codeplex.com/wikipage?title=ButtonMenu%20page&referringTitle=Home\">ButtonMenu page</a>);</li>\n<li><b>TimerExtender</b>:  permitts to reset the timer control associated and adds a client tick event (<a href=\"https://myajaxcontroltoolkit.codeplex.com/wikipage?title=TimerExtender%20page&referringTitle=Home\">TimerExtender page</a>);</li>\n<li><b>SideBar</b>: a sidebar with slide panel (pinnable) (<a href=\"https://myajaxcontroltoolkit.codeplex.com/wikipage?title=SideBar%20page&referringTitle=Home\">SideBar page</a>);</li>\n<li><b>Splitter</b>: a splitter control <i>[in development]</i> (<a href=\"https://myajaxcontroltoolkit.codeplex.com/wikipage?title=Splitter%20page&referringTitle=Home\">Splitter page</a>);</li></ul>\n<br /><b>Prerequisites</b>\n<ul><li><b>AjaxControlToolkit</b>: you can download lastest release here: <a href=\"http://www.codeplex.com/AtlasControlToolkit/\">http://www.codeplex.com/AtlasControlToolkit/</a></li></ul>\n<br />Please report any problem or suggestion using the <b>Issue Tracker</b>.<br />Thanks</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET 2.0,ASP.NET,ASP.NET Ajax,ASP.NET 3.5,ASP.NET Control,AJAX Control Toolkit,Ajax ControlToolkit,TimerExtender,ButtonMenu,SliderPanel,SideBar,Controls,AJAX,control library,",
+  "LastEdited": "2008-02-27T23:58:02.24-08:00"
+}

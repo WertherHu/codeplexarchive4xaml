@@ -1,0 +1,9 @@
+{
+  "ProjectName": "xapexplorer",
+  "Title": "silverlight xap explorer",
+  "Description": "browses xap files in way very similar to how HTML browsers display html web content. Primary purpose of this app is to create flexible application gui where mutiple different applications (from various xap and locations) can display and even cooperate together.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nbrowses xap files similar to, how HTML browser displays html web content. Primary purpose of this app is to create flexible application gui where mutiple different applications (from various xap and locations) can display and even cooperate together.</p>\r\n<p>Loaded/running applications can communicate using messaging system. Main advantage of such is, that no one application should inherit from another to communicate. Pure .NET types are used for communication ObservableCollection as command queue (can raise\r\n event for communication) and Dictionary that shares common variables across all applications.</p>\r\n<p>To make communication even more simple XapExplorer contains JSON serializer and deserializer class that can translate commands (json strings) into .NET objects and back. Advantage of JSON is, that it don't care of source of serialized data (where xaml does...)</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,xap,explorer,tab browsing,browser,",
+  "LastEdited": "2011-12-15T14:35:33.023-08:00"
+}

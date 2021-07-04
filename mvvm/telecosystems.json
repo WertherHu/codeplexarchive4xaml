@@ -1,0 +1,9 @@
+{
+  "ProjectName": "telecosystems",
+  "Title": "WCF RIA Services (+ PRISM + MVVM) LoB Application",
+  "Description": "WCF RIA Services sample LoB application (case study) built on PRISM with Entity Framework Model. It's a simple application for a fictive company Teleco Systems. Sample shows how to create Modular Silverlight applications with PRISM (Composite App Library) and WCF RIA Services.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WCF RIA Services sample LoB application &#40;case study&#41; built on PRISM with Entity Framework Model. It&#39;s a simple application for a fictive company Teleco Systems. Sample shows how to create Modular Silverlight applications with PRISM &#40;Composite App Library&#41; and WCF RIA Services.<br /><br />You can read more about this project on my blog <a href=\"http://bachelorthesis.zdechovan.com/wcf-ria-services-mvvm-prism-lob-application-introduction/\">http://bachelorthesis.zdechovan.com/wcf-ria-services-mvvm-prism-lob-application-introduction/</a>.<br /><br />Part of my bachelor thesis is implementation of modular business silverlight application build upon MVVM (Separated presentation) pattern and WCF RIA Services (simplifies the development of n-tier RIA solutions).</div><div class=\"ClearBoth\"></div>",
+  "TagList": "wcf ria services,RIA Services,Prism,MVVM,Entity Framework,",
+  "LastEdited": "2010-04-13T13:47:58.773-07:00"
+}

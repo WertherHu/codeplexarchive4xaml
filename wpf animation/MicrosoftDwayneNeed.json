@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MicrosoftDwayneNeed",
+  "Title": "Microsoft.DwayneNeed",
+  "Description": "Samples and reusable code for accomplishing interesting scenarios in WPF.  In depth discussions of these topics can be found on my blog, at [url:http://blogs.msdn.com/DwayneNeed].",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">This project contains samples and reusable code for accomplishing interesting scenarios in WPF.  All of the samples will (eventually) be included in the single DemoApp click-once download.  <br /><br />Currently, this project demonstrates<br />\n<ol><li>Rendering UI on multiple threads.</li>\n<li>Snapping bitmaps to the pixel grid.</li>\n<li>Writing a customize bitmap source.</li>\n<li>Decoding IEEE floating point numbers.</li>\n<li>Mitigating &quot;airspace&quot; issues in WPF applications.</li></ol>\n<br />In depth discussions of these topics can be found on my blog, at <a href=\"http://blogs.msdn.com/DwayneNeed\">http://blogs.msdn.com/DwayneNeed</a>.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-27T21:24:06.707-08:00"
+}

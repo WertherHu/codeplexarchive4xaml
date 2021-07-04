@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wayformat",
+  "Title": "WayFormat",
+  "Description": "This standalone windows client application color formats the source code snippets in C, C++, C#, HTML, ASP, ASPX, XML,XAML, JScript, Java Script, Visual Basic, VB.Net, SQL, TSQL, PL/SQL and MSH (code name Monad) to style sheet enabled HTML code for publishing on a web site or in a blog. The tool has option to display line numbers, provide alternate line background color, and embed CSS.\n\nThis tool is just a desktop user interface to the powerful open source code provided by Manoli and available as a web tool at http://www.manoli.net/csharpformat/. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This standalone windows client application color formats the source code snippets in C, C&#43;&#43;, C&#35;, HTML, ASP, ASPX, XML,XAML, JScript, Java Script, Visual Basic, VB.Net, SQL, TSQL, PL&#47;SQL and MSH &#40;code name Monad&#41; to style sheet enabled HTML code for publishing on a web site or in a blog. The tool has option to display line numbers, provide alternate line background color, and embed CSS.<br /><br />This tool is just a desktop user interface to the powerful open source code provided by Manoli and available as a web tool at http&#58;&#47;&#47;www.manoli.net&#47;csharpformat&#47;. <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-02-18T21:17:03.103-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wizardframework",
+  "Title": "Neovolve Wizard UI Framework",
+  "Description": "The Neovolve wizard framework provides a wizard implementation to be used in any .Net 2.0 application. The framework contains the wizard form that can host any wizard page derived user control. The framework contains several wizard pages for common wizard actions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Neovolve Wizard UI Framework</b><br />The Neovolve wizard framework provides a wizard implementation to be used in any .Net 2.0 application. The framework contains the wizard form that can host any wizard page derived user control. The framework contains several wizard pages for common wizard actions.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "winforms,Wizard,",
+  "LastEdited": "2006-11-21T15:24:15.92-08:00"
+}

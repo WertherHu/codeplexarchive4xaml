@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinecttranslation",
+  "Title": "Kinect Translation Tool: From Sign Language to spoken text and vice versa",
+  "Description": "Software System Component\r\n1.\tKinect SDKver.1.7 for the Kinect sensor.\r\n2.\tWindows 7 standard APIs- The audio, speech, and media APIs in Windows 7",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Software System Component<br />1.&#9;Kinect SDKver.1.7 for the Kinect sensor.<br />2.&#9;Windows 7 standard APIs- The audio, speech, and media APIs in Windows 7<br /><br /><br />This project was aimed to help the hearing-impaired people to communicate with common people effectively by simply using their sign language. By utilizing Microsoft Kinect technology, the hearing-impaired people only need to stand in front of the Kinect camera and begin to deliver their message by using sign language. The Kinect Sign Language should translate the sign language into written and spoken languages. Vice versa, normal people may directly reply using their common spoken language that is easily translated into written language along with its animated 3D sign language gestures. <br /><br />You can use this code or any original or modified portion of it in any project that you like. We only ask that you keep the authors&#39; names in the copyright notice because a lot of thought and effort went into this.<br /><br />See my teaser below :<br /><a href=\"https://www.youtube.com/watch?v=xjbatLX7q-k\">https://www.youtube.com/watch?v=xjbatLX7q-k</a><br /><a href=\"https://www.youtube.com/watch?v=xN9f06jlsIQ\">https://www.youtube.com/watch?v=xN9f06jlsIQ</a><br /><br />This is how it looks like<br /><img src=\"http://oi62.tinypic.com/28cokfn.jpg\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "kinect,sign language,speech recognition,3d animation,motion capture,",
+  "LastEdited": "2014-10-24T07:57:31.727-07:00"
+}

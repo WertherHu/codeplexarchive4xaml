@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CCHearts",
+  "Title": "CC.Hearts Screen Saver",
+  "Description": "A complete screensaver that draws pretty hearts. Supports all standard screensaver functionality (preview window, options, multi-monitor).\n\nWritten in C# utilizing .NET 4.0 and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3><b>Project Description</b></h3>\rA complete screensaver that draws pretty hearts. Supports all standard screensaver functionality &#40;preview window, options, multi-monitor&#41;.<br /><br />Written in C&#35; utilizing .NET 4.0 and WPF.<br />\n<h3><b>Features</b></h3>\r<ul><li>Renders hearts in random location that fall down the screen</li>\n<li>Configurable\n<ul><li>Target FPS</li>\n<li>Maximum Hearts</li>\n<li>Heart Scale</li>\n<li>Status info (FPS / heart count)</li></ul></li></ul>\n\n<h3><b>Screenshots</b></h3>\r<b>Mini Preview</b><br /><br /><img src=\"/projects/CCHearts/30f3f07f-08fa-4e34-82b9-87556ad23119\" alt=\"Mini&#32;Preview\" title=\"Mini&#32;Preview\" /><br /><br /><b>Main Display</b><br /><br /><img src=\"/projects/CCHearts/beb4b5b6-10eb-493e-b873-e126ff0d036f\" alt=\"Main&#32;Display\" title=\"Main&#32;Display\" /><br /><br /><b>Settings</b><br /><br /><img src=\"/projects/CCHearts/e55fca69-706a-4e16-a833-0e4a49e99e70\" alt=\"Settings\" title=\"Settings\" /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET,WPF,Screensaver,screen saver,C#,",
+  "LastEdited": "2010-06-07T08:50:16.103-07:00"
+}

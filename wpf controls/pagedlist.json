@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pagedlist",
+  "Title": "PagedList",
+  "Description": "PagedList makes it easier for .Net developers to write paging code. It allows you to take any List<T> and by specifying the page size and desired page index, select only a subset of that list. PagedList also provides properties that are useful when building UI paging controls.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Source Code Has Moved!</h1>\r\nFor installation instructions and other information about how to use the PagedList library, please visit our GitHub page:<br /><br /><b>Source Code &amp; Instructions on GitHub:</b><br /><a href=\"http://github.com/TroyGoode/PagedList\">http://github.com/TroyGoode/PagedList</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET MVC,Paging,.NET,.NET 3.5,ASP.NET,ASP.NET 3.5,collections,Generics,LINQ,",
+  "LastEdited": "2010-10-06T11:05:28.373-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hakascsseditor",
+  "Title": "CSS Editor",
+  "Description": "The application changes the style of text in the textarea acording to the style of css that is typed into the textarea.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The application changes the style of text in the textarea acording to the style of css that is typed into the textarea.<br />ASP.NET MVC CSS editor.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-04-29T10:07:46.497-07:00"
+}

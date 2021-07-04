@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SquatSimulator",
+  "Title": "Squat Simulator",
+  "Description": "This project is an example of using of the Model Toolkit. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />This project is an example of usage of the product  <a href=\"http://www.modeltoolkit.com/\">Transas Model Toolkit</a> .  Project contains a simple WPF UI: just one screen, divided into instructor&#39;s, student&#39;s and shared parts.  <a href=\"http://www.modeltoolkit.com/\">Transas Model Toolkit</a> is not included, so to keep this project in working state, the model wrapper class is changed with stub (do not expect physical behavior!). The original model wrapper class is also included into the project sources (please look at ModelExamples\\Emulator.original ). <br />Please see details at <a href=\"http://www.modeltoolkit.com/squat-simulator-development/\">blog post</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "C++ CLI,C#,WPF,",
+  "LastEdited": "2013-11-22T00:33:41.477-08:00"
+}

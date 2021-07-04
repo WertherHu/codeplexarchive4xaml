@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SL5BasicCalculator",
+  "Title": "SL5 Basic Calculator",
+  "Description": "The project is a basic calculator control developed in Silverlight 5, feel free to include in your projects.\r\n\r\nHowever CODE is AS/IS without any guarantee and warantee . use at your own risk(Source code included.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The project is a basic calculator control developed in Silverlight 5, feel free to include in your projects.<br /><br />However CODE is AS&#47;IS without any guarantee and warantee . use at your own risk&#40;Source code included.<br /><br /><b>Usage Summary</b><br />Just Include ucCalculator.xaml file in your project and use this control as usercontrol any where around your projects.<br /><br /><b>Version 1.0.0.2: Released 13-March-2012</b><br /> Changes<br />  * added functionality of Squre-root, Power<br />  * Now added Cumulative inputs support, earlier it limited to one operation only<br />  * Different colored button for different functionality.<br /><br /><img src=\"/projects/SL5BasicCalculator/a8ff35cf-9364-459d-a749-4f8f06d4bfad\" alt=\"un2.jpg\" title=\"un2.jpg\" /><br /><br /><b>First Version</b><br /><img src=\"/projects/SL5BasicCalculator/ae26f5af-d1ed-4b3d-9715-b7d19d4189e2\" alt=\"Untitled.jpg\" title=\"Untitled.jpg\" /><br /><br /><b>Additional Notes</b><br />the code is written in c# with silverlight 5 as frontend. you can use this silverlight control in your project. if you find any defect or bug feel free to report it.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "calculator,Silverlight,silverlight 5,Silverlight Controls,",
+  "LastEdited": "2012-03-13T06:32:28.267-07:00"
+}

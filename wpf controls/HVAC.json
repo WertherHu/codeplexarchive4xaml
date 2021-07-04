@@ -1,0 +1,9 @@
+{
+  "ProjectName": "HVAC",
+  "Title": "HVAC Control and Zoning System",
+  "Description": "Use your computer as the thermostat for your HVAC system. This C# project allows you control the hardware to keep an unlimited number heating/cooling zones at a comfortable level. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Use your computer as the thermostat for your HVAC system. This C&#35; project allows you control the hardware to keep an unlimited number heating&#47;cooling zones at a comfortable level. <br /><br />Frustrated by the uncomfortable temperature differences between the rooms in my home where some rooms are too hot while the others are too code, and inspired by <a href=\"http://diy-zoning.sourceforge.net\">The DIY Zoning Project</a>, I decided to install temperature sensors, servo controlled dampers, and write software to control each room&#39;s temperature independently.<br /><br /><b>Highlights</b>\n<ul><li>Unlimited zones</li>\n<li>Hardware independant\n<ul><li>Can use inexpensive 1-Wire temperature sensors and servo controllers</li>\n<li>Support single or multi-stage HVAC systems</li></ul></li>\n<li>Auto-change over from heating / cooling modes</li>\n<li>Supports remote interfaces using WCF (WindowsMobile sample available)</li></ul>\n<br /><b>Sample Interface</b><br /><img src=\"/projects/HVAC/f6c94673-1c1a-49bd-b9f4-176f68298cb7\" alt=\"controller.png\" title=\"controller.png\" /><br /><br /><a href=\"https://hvac.codeplex.com/wikipage?title=Getting%20Started&referringTitle=Home\">Getting Started</a><br /><br /><a href=\"https://hvac.codeplex.com/wikipage?title=Hardware&referringTitle=Home\">Hardware</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "servo,SSC32,1-Wire,",
+  "LastEdited": "2008-12-23T07:36:53.13-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "knockoutplus",
+  "Title": "Knockout+",
+  "Description": "Extensions library for http://knockoutjs.com/ including:\r\n-general purpose custom bindings\r\n-custom binding for popular front-end frameworks\r\n-observable extenders",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b><a href=\"http://knockoutjs.com/\">Knockout</a> extensions library</b></h1>\r\n<h2>Includes:</h2>\r<ul><li>general purpose custom bindings</li>\n<li>custom observable extenders</li>\n<li>custom bindings for jQuery UI (drag, drop)</li>\n<li>custom bindings for <a href=\"http://getbootstrap.com/\">Boostrap</a> front-end framework (icon, modal, dateValue)</li>\n<li>custom bindings for <a href=\"http://metroui.org.ua/\">Metro UI CSS 2.0</a> front-end framework (in progress)</li>\n<li>and many many more...</li></ul>\n<h2>More info on <a href=\"http://blog.coderiseventures.com/\">Coderise Ventures Blog</a>.</h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "knockout,knockoutjs,mvvm,javascript,jquery,",
+  "LastEdited": "2014-02-17T07:55:56.703-08:00"
+}

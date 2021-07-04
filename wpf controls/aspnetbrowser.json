@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspnetbrowser",
+  "Title": "ASP.NET, TinyMCE integration with  asp.net image browser plugin",
+  "Description": "Although integrating the tinyMCE wysywig control into an asp.net page is relatively easy, it doesn't have a working upload image plugin. \r\n\r\nFor some strange reason, the advimage plugin doesn't have an upload image button.\r\n\r\nTo resolve this, I created my own asp.net upload image manager plugin. (aspnetbrowser)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Although integrating the tinyMCE wysywig control into an asp.net page is relatively easy, it doesn&#39;t have a working upload image plugin. <br /><br />For some strange reason, the advimage plugin doesn&#39;t have an upload image button.<br /><br />To resolve this, I created my own asp.net upload image manager plugin. &#40;aspnetbrowser&#41;</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-09-02T08:15:13.92-07:00"
+}

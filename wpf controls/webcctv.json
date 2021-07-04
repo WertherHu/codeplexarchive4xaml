@@ -1,0 +1,9 @@
+{
+  "ProjectName": "webcctv",
+  "Title": "C# MVC3 Web CCTV",
+  "Description": "The WEB CCTV project allows a remote connection & control of video cameras.\r\nIf a PTZ camera (Pelco-D, Visca, etc) is connected, a full pan/tilt/zoom/preset/etc command interface is available.\r\n\r\nSImple webcams (including Kinect) can also be used.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The WEB CCTV project allows a remote connection &#38; control of video cameras.<br />If a PTZ camera &#40;Pelco-D, Visca, etc&#41; is connected, a full pan&#47;tilt&#47;zoom&#47;preset&#47;etc command interface is available.<br /><br />SImple webcams &#40;including Kinect&#41; can also be used.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-01-04T05:33:45.92-08:00"
+}

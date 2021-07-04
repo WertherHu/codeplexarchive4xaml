@@ -1,0 +1,9 @@
+{
+  "ProjectName": "windows7renderer",
+  "Title": "Windows 7 ToolStrip Renderer",
+  "Description": "An Explorer-like theme for ToolStrip and MenuStrip",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An Explorer-like theme for ToolStrip and MenuStrip<br /><br /><img src=\"/projects/windows7renderer/5e50a545-e6f9-42ff-9f3e-370c80e95014\" alt=\"windows7renderer.jpg\" title=\"windows7renderer.jpg\" /><br /><br /><b>Example</b><br /><span class=\"codeInline\"> toolStrip1.Renderer = Antiufo.Controls.Windows7Renderer.Instance; </span><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-15T02:52:40.62-07:00"
+}

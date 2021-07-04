@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightumbraco",
+  "Title": "Silverlight for Umbraco",
+  "Description": "Silverligt web site skin for umbraco CMS",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverligt web site skin for umbraco CMS<br /><br /><br />This project is an silverlight extension/package for the Umbraco CMS system.<br /><br />Screen dump:<br /><br /><img src=\"/projects/silverlightumbraco/a00c0ae0-43a2-4fbc-b737-60b570a4a5af\" alt=\"SilverlightExampleWebsite_small.gif\" title=\"SilverlightExampleWebsite_small.gif\" /><br /><br />How to install:<br />\n<ul><li>After installing umbraco, click the &quot;Launch Umbraco&quot; button at the bottom of the Web installation complete page. If for any reason you have already closed this, simply navigate to your domain and add /umbraco to the end of it. </li>\n<li>Login to Umbraco (yourwebsitename/umbraco) using &quot;admin&quot; for the username, and the password you setup during the Web install. </li>\n<li>Once you are logged in, click the &quot;Developer&quot; section at the bottom of the page. </li>\n<li>Right click on the &quot;Macro&quot; folder and select &quot;Import Package&quot;. </li>\n<li>In the Import Package dialogue, click the link that says &quot;Upload a package file&quot;. </li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "umbraco,Umbraco extensions,umbraco CMS,Umbraco exten silv,Umbraco Silverlight,",
+  "LastEdited": "2008-10-09T03:35:06.193-07:00"
+}

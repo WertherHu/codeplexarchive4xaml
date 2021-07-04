@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kerbaledit",
+  "Title": "KerbalEdit - Take control of your KSP data!",
+  "Description": "Reference application powered by KerbalData. It is built as both an example for developers of KerbalData and as a complete KSP data manager app for end users.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>What is Kerbal Edit?</b><br />KerbalEdit is a Reference application based upon the KerbalData  (https://kerbaldata.codeplex.com). It is a fully usable<br />end user application with source to give other developers a guide in thier own KerbalData Applications.<br /><br /><img src=\"http://i.imgur.com/4oc17iP.png\" /><br /><br />KerbalEdit allows you to:<br />\n<ul><li>Load/Edit/Save KSP Save, Craft (both global and under a specific save), Part and game settings.</li>\n<li>Scan a KSP install for all available data files</li>\n<li>Import/Export Files to your game quickly</li>\n<li>Automatically backs up changed files, keeps a copy of original data to restore live object.</li>\n<li>Save Development Time : Time Savings</li>\n<li>Do simple popular actions\n<ul><li>Clear all debris and unknown items from a save</li>\n<li>Put any craft currently in game (on the pad or in orbit) in orbit around any body</li>\n<li>Refuel any or all craft in your save with a single command (fills any resource to max)</li>\n<li>more to come (looking for suggestions)...</li></ul></li></ul>\n<br />Want to make your own app using KSP data? <a href=\"http://kerbaldata.codeplex.com/\">KerbalData makes it easy!</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "KerbalData,KSP,KerbalSpaceProgram,C#,.NET,Reference,Kerbal,",
+  "LastEdited": "2013-02-19T10:28:36.827-08:00"
+}

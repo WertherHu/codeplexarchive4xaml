@@ -1,0 +1,9 @@
+{
+  "ProjectName": "knob",
+  "Title": "Rotating Knob control",
+  "Description": "The c# programming language lacks a default WPF knob control. The following is a general purpose knob control. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The c&#35; programming language lacks a default WPF knob control. The following is a general purpose knob control. <br /><br /><img src=\"/projects/knob/e5725dff-08ad-4aba-811f-2ae0bf9c2a72\" alt=\"Screenshot&#32;2015-12-06&#32;05.00.05.png\" title=\"Screenshot&#32;2015-12-06&#32;05.00.05.png\" /><br /><br />I&#39;ve noticed there is no default knob in C# and no apparent or easy to use knob controls on the web, so I made one, 5 years ago. The code is relatively basic, but you can adapt it to your project. An example project is included.<br /><br /><br /><br />The code is released under BSD license.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-12-06T04:08:10.57-08:00"
+}

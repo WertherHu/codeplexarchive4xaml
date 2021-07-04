@@ -1,0 +1,9 @@
+{
+  "ProjectName": "FileZillaConfig",
+  "Title": "FileZilla Server Config File Editor",
+  "Description": "A simple program for editing FileZilla Server config file.\r\n\r\nA co-worker manages a Filezilla FTP server on Windows Server 2008.  He would like to give a few people the ability to add/delete users and to grant rights for various download subfolders.  He showed me the steps he has to go through to perform the tasks listed above, and felt it could be error-prone for others.  So he gave me the config file (\"FileZilla Server.xml\") as a template to build this application for him.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple program for editing FileZilla Server config file.<br /><br />A co-worker manages a Filezilla FTP server on Windows Server 2008.  He would like to give a few people the ability to add&#47;delete users and to grant rights for various download subfolders.  He showed me the steps he has to go through to perform the tasks listed above, and felt it could be error-prone for others.  So he gave me the config file &#40;&#34;FileZilla Server.xml&#34;&#41; as a template to build this application for him.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C# 4.0,WPF,xml,Binding,xaml,",
+  "LastEdited": "2012-05-14T00:20:57.403-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ScrewTurnHelper",
+  "Title": "ScrewTurn Helper",
+  "Description": "Silverlight app makes it easier to convert different sources to ScrewTurn Wiki markup syntax. \r\n\r\nOne-click format of csv/tab delimited tables, csharp/pascal/tsql sources. All you need is a couple of copy/paste activity.\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight app makes it easier to convert different sources to ScrewTurn Wiki markup syntax. <br /><br />One-click format of csv&#47;tab delimited tables, csharp&#47;pascal&#47;tsql sources. All you need is a couple of copy&#47;paste activity.<br /><br /><br />To see in action (don&#39;t forget to bookmark!), <a href=\"http://kalegin.com/ScrewTurnHelper/\">go here</a><br /><br />the <a href=\"http://www.screwturn.eu\">Screwturn</a> is open-source wiki library written on .Net technology. Syntax is quite similar to MeadiaWiki, but slightly differ, giving the project ticket to raise.<br /> <br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-10-27T04:17:57.837-07:00"
+}

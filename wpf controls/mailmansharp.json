@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mailmansharp",
+  "Title": "MailmanSharp",
+  "Description": "A C# library for configuration and manipulation of Mailman mailing lists by controlling the admin web interface.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>This project has moved to GitHub: <a href=\"https://github.com/asherber/MailmanSharp\">https://github.com/asherber/MailmanSharp</a></h3>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-12-25T19:03:10.87-08:00"
+}

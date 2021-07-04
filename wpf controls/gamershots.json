@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gamershots",
+  "Title": "GamerShots.com Screenshot Capture",
+  "Description": "Windows application written in C# Asp.NET.  Captures the default screen with \"Print Screen\" key or with user input.  Navigates with a WebBrowser control to Login and Upload pages from gamershots.com.  Once logged in the user can upload the fresh screenshot jpg to their account.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Windows application written in C&#35; Asp.NET.  Captures the default screen with &#34;Print Screen&#34; key or with user input.  Navigates with a WebBrowser control to Login and Upload pages from gamershots.com.  Once logged in the user can upload the fresh screenshot jpg to their account.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-03-01T11:36:11.663-08:00"
+}

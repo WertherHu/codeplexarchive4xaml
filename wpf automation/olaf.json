@@ -1,0 +1,9 @@
+{
+  "ProjectName": "olaf",
+  "Title": "olaf",
+  "Description": "olaf makes it easier for manual qa testers to use selenium web-driver by defining their test case flows in excel spreadsheets.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>olaf is an attempt to make selenium web-driver available to general qa testers without understanding of complex programming knowledge.</p>\r\n<p>olaf stands for <strong>o</strong>rien<strong>l</strong>abs <strong>a</strong>utomation\r\n<strong>f</strong>ramework. While this is essentially a wrapper around selenium web-driver, it includes rich features such as database validations, implicit frames handling, A/B testing, windows handling, integration to test management tools such as Microsoft\r\n Test Manager, xStudio, Quality Center and more in future releases. Execution capabilities are local workstation, remote web-driver or saucelabs cloud hosting.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Selenium2,selenium,WebDriver,test automation,API Testing,qtp,qa automation,Framework,FREE,",
+  "LastEdited": "2012-03-12T09:43:49.54-07:00"
+}

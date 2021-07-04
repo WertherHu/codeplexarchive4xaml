@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sourcediff",
+  "Title": "Asp Dot Net MVC Source Text Diff Compare",
+  "Description": "this project purpose is to create javascript popup that will compare files content like in bitbucket or any other source control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Asp.Net MVC Source Text Differences Compare<br /><br />this project purpose is to create javascript popup that will compare files content like in bitbucket or any other source control.<br /><br />i came across a need to compare 2 text files (xml) that was uploaded by a workflow,<br />after upload we wanted to review the files and edit them.<br /><br />initially the file was downloaded, modified and uploaded to the same location while overwriting the old one.<br /><br />we wanted to improve that by being able to review the text file, edit it, compare diffs and save them, and maybe while were at it verify the modified file is a valid xml and some other security issues and logic issues to prevent mistakes.<br /><br />i dont have much time to work on that, but i thought, hey, it seems like something a lot of people would want...<br /><br />so enjoy and contribute.<br /><br />i used code from:<br /><a href=\"https://github.com/arnab/jQuery.PrettyTextDiff\">Pretty Text Diff</a> - for the text compare<br /><a href=\"https://github.com/blueimp/jQuery-File-Upload\">jQuery File Upload</a> - for the file upload<br /><a href=\"http://codemirror.net/\">Code Mirror</a> - for the xml editor<br /><a href=\"http://pdfobject.com/\">PDFObject</a> - for the pdf div<br /><br />for just the code editor style you can use:<br /><a href=\"http://codemirror.net/demo/merge.html\">Code Mirror Merge</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-12T02:00:52.563-07:00"
+}

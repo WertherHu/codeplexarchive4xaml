@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mightymousemvc",
+  "Title": "Mighty Mouse MVC",
+  "Description": "Mighty Mouse MVC is a sample WinForms application that demonstrates how developers can build applications based on the Model View Controller pattern. It's developed with Visual Studio 2008 in the C# programming language.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Mighty Mouse MVC is a sample WinForms application that demonstrates how developers can build applications based on the Model View Controller pattern. It&#39;s developed with Visual Studio 2008 in the C&#35; programming language.<br /><br /><br /><b>Overview</b><br /><br />Mighty Mouse MVC is an exercise intended to:<br /><br />1. Demonstrate the Model View Controller design pattern in a very simple way.<br />2. Act as a sort of &quot;Hello World&quot; MVC application.<br />3. Demonstrate the use of user controls and WinForms in an MVC application.<br />4. Show how MVC components can function in separate assemblies.<br /><br />What Mighty Mouse MVC is NOT:<br /><br />- It&#39;s not a very useful real world application. (unless your really bored and want to feed a virtual mouse).<br />- It&#39;s not an MVC framework nor is it built using any MVC framework.<br />- It&#39;s not a demonstration of a cool GUI.<br /><br /><b>Contents</b><br /><br />Might Mouse MVC consists of 5 Visual Studio 2008 projects inside one solution.<br /><br /><b>Purpose</b><br /><br />Mighty Mouse MVC is my first MVC application and I wanted to use CodePlex to get feedback on my design and code strategies.<br /><br /><b>Help Wanted</b><br /><br />I would like to see a better View built for Mighty Mouse MVC. The current user control is very lame. Anyone wanting to show off their UI abilities is welcome to send me their code...</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVC,Model View Control,Samples,",
+  "LastEdited": "2010-01-28T12:32:55.233-08:00"
+}

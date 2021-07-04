@@ -1,0 +1,9 @@
+{
+  "ProjectName": "anlp",
+  "Title": "ANLP - Another .NET Lexer Parser",
+  "Description": "This project aims to have a lexer/parser working in Silverlight and help people to write their own grammar and make the lexer/parser available in Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project aims to have a lexer&#47;parser working in Silverlight and help people to write their own grammar and make the lexer&#47;parser available in Silverlight.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Lexer,parser,parser generator,parser grammar,Nicolas Penin,Silverlight,",
+  "LastEdited": "2010-12-18T04:48:39.917-08:00"
+}

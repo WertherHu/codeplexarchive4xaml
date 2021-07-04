@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dynamix",
+  "Title": "Dynamix",
+  "Description": "Exsense Dynamix is a simple, fast, free and easy content management system to create small web sites.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Exsense Dynamix is a simple, fast, free and easy content management system to create small web sites.<br /><br />Exsense Dynamix created by Exsense Software.<br />Exsense Software web site: <a href=\"http://www.exsense-software.com\">http://www.exsense-software.com</a><br /><br /><br />Exsense Dynamix implemented in two sections named <b>Dynamix CMS</b> and <b>Dynamix Admin</b>.<br /><b>Dynamix CMS</b> is a web application and responsed to display content to user.<br /><b>Dynamix Admin</b> is control panel and responsed to manage contents.<br /><br />Dynamix CMS is a web application in PHP or ASP.NET versions and Dynamix Admin is a desktop application in Microsoft.NET Framework or Mono Framework versions.<br /><br />By Exsense Dynamix you achieve a web site and you can manage it from desktop environment by rich desktop application.<br /><br />Exsense Dynamix home page: <a href=\"http://www.exsense-software.com/software/index.php?software=dynamix\">http://www.exsense-software.com/software/index.php?software=dynamix</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,.NET 4.0,CMS,php,developforthisone,",
+  "LastEdited": "2014-01-18T05:12:42.473-08:00"
+}

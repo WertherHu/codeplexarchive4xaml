@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netduinoledcontrol",
+  "Title": "Netduino LED Control",
+  "Description": "The Netduino LED Control classes provide a mechanism for controlling multiple LEDs using the Netduino family of boards.\r\n\r\nThese classes allow multiple LEDs to be controlled by using external hardware such as 74HC595 shift registers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThe Netduino LED Control classes provide a mechanism for controlling multiple LEDs using the Netduino family of boards.<br>\r\n<br>\r\nThese classes allow multiple LEDs to be controlled by using external hardware such as 74HC595 shift registers.</p>\r\n<p><strong>Example of a Running Cube</strong></p>\r\n<p>Here is an example of the LED Control classes controlling and 8x8x8 LED cube in action\r\n<a title=\"8x8x8 LED cube blog post\" href=\"http://blog.mark-stevens.co.uk/?p=263\">\r\nhere</a>.</p>\r\n<p><strong>Building a Cube</strong></p>\r\n<p>You can find instructions for building a cube in the <a title=\"Building an LED Cube\" href=\"http://wiki.netduino.com/LEDCube.ashx\">\r\nNetduino Wiki</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Netduino,Netduino Mini,LED,cube,",
+  "LastEdited": "2011-09-11T00:21:22.93-07:00"
+}

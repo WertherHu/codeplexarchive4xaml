@@ -1,0 +1,9 @@
+{
+  "ProjectName": "smartTooltip",
+  "Title": "Silverlight Tooltip with smart positioning",
+  "Description": "As well as demonstrating how to create a simple Tooltip control for your application, this project also shows how to get/set the absolute position of a control in your application even if it is not a Canvas control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">As well as demonstrating how to create a simple Tooltip control for your application, this project shows how to get/set the absolute position of a control in your application even if it is not a Canvas control.<br /><br />for complete details of this project visit <a href=\"http://silverlighttips.com/?tag=/tooltip\">http://silverlighttips.com/?tag=/tooltip</a>.<br /><br />Please note that Silverlight 3.0 has a built in tooltip feature, however I have created this project to demonstrate hot to use your xaml with all it&#39;s controls and layout as a tooltip, and more importantly how to adjust the position of this xaml manually according to your design and layout. This could be helpful if you want to position a control (i.e. Grid) from the code. </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-09-17T07:06:58.947-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinectskeletonrecorder",
+  "Title": "Kinect Skeleton Recorder",
+  "Description": "Records and shows XBox 360 Kinect skeleton data using windows forms.  Saves the data as XML that can be read by other applications for use in animation.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nRecords and shows XBox 360 Kinect skeleton data using windows forms. Saves the data as XML that can be read by other applications for use in animation.</p>\r\n<p style=\"padding-left:60px\"><img src=\"/projects/kinectskeletonrecorder/eb57f4fa-9f3c-4ced-853f-0fb580669c81\" alt=\"Application Screenshot\" width=\"500\" height=\"498\"></p>\r\n<p>The goal of this application is an XML file that lists the joint locations that can be used somewhere else. &nbsp;A very simple demonstration of this used to animate a WebGL page using Three.js can be found here:</p>\r\n<p><a href=\"http://www.teddunsford.com/Animate/index.html\">http://www.teddunsford.com/Animate/index.html</a></p>\r\n<p>It takes a second to load because I am not doing anything sophisticated for this page, like hiding the xml through server requests that return, for instance, json objects. &nbsp;Instead, I just use the Anim.js javascript to parse the XML file directly. &nbsp;While\r\n slow and inelegant, it serves as a basic demonstration that everyone can see the source for for parsing the joint XML file using javascript.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "kinect,recorder,animation,windows forms,xml,serialization,Tracking,C#,Pose,Skeleton,",
+  "LastEdited": "2013-06-30T19:53:28.46-07:00"
+}

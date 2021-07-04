@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WP7GameFramework",
+  "Title": "WP7GameFramework",
+  "Description": "A Framework to help you to quickly develop games for Windows Phone 7 by providing basic functionality common to (casual) games.\n\nThe framework provides controls to manage a game's menu, scores (including persistent highscores), lives, a timer, game loop with collision, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\n[English Version below]</p>\r\n<p>Dennis Sasse (Microsoft) hat zusammen mit mir (Oliver Scheer) in den letzten Wochen ein Framework f&uuml;r die leichte Erstellung von Casual Games erstellt. Damit ist es m&ouml;glich sehr schnell Spiele zu erstellen, in dem es dem Entwickler die Arbeit f&uuml;r\r\n Standard-Funktionen abnimmt, wie z.B. Punkte z&auml;hlen, Zeit messen, Leben verwalten. Dieses Video gibt einen Einstieg in das Framework. Wer Lust hat an diesem Framework mitzuentwickeln ist herzlich willkommen.</p>\r\n<p>Eine Vorstelllung des Framework ist in diesem Video zu sehen: <a href=\"http://channel9.msdn.com/Blogs/TheOliver/Windows-Phone-7-Game-Framework\">\r\nhttp://channel9.msdn.com/Blogs/TheOliver/Windows-Phone-7-Game-Framework</a></p>\r\n<p>Viel Spa&szlig;, <br>\r\nOliver</p>\r\n<p>*English Version*</p>\r\n<p>A Framework to help you to quickly develop games for Windows Phone 7 by providing basic functionality common to (casual) games.<br>\r\n<br>\r\nThe framework provides controls to manage a game's menu, scores (including persistent highscores), lives, a timer, game loop with collision, etc.</p>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Phone 7,silverlight 4,",
+  "LastEdited": "2011-01-13T07:04:55.52-08:00"
+}

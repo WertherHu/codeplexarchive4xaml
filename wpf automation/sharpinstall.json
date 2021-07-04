@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sharpinstall",
+  "Title": "Sharp Install",
+  "Description": "SharpInstall provides Managed interfaces to the MSI (Windows Installer) Automation model. Now MSI Installers (databases) can be created in managed code like C#, Boo etc",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SharpInstall provides Managed interfaces to the MSI &#40;Windows Installer&#41; Automation model. Now MSI Installers &#40;databases&#41; can be created in managed code like C&#35;, Boo etc<br /><br /><br /><b>More information coming soon</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MSI installer,Installer,",
+  "LastEdited": "2009-11-19T03:19:45.987-08:00"
+}

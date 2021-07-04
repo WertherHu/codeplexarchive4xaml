@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wittytwitter",
+  "Title": "Witty Twitter",
+  "Description": "Witty is a free, open source Twitter client for Windows powered by the Windows Presentation Foundation (WPF). ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Witty is a free, open source Twitter client for Windows powered by the Windows Presentation Foundation &#40;WPF&#41;. <br /><br />Hi! I&#39;m moving this over from Google Code now that CodePlex supports ClickOnce. Patches and contributors wanted!<br /><br /><b>Proposed short term roadmap</b>\n<ol><li><del>Implement OAuth</del></li>\n<li><del>Set up ClickOnce using CodePlex</del></li>\n<li>Get MEF set up</li>\n<li>Convert Twitter library to use Hammock</li>\n<li>Look at Silverlight OOB</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "twitter,WPF,@aoaoa05545,",
+  "LastEdited": "2010-10-18T01:30:04.58-07:00"
+}

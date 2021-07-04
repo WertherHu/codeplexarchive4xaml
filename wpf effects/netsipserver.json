@@ -1,0 +1,9 @@
+{
+  "ProjectName": "netsipserver",
+  "Title": "NetSIPServer",
+  "Description": "A SIP Server written in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>NetSIPServer</b><br /><br />The NetSIPServer is a Server to connect SIP Phones to this Server.<br />\n<h1>Technologies and Software:</h1>\r<ul><li>C# (3.5)</li>\n<li>.Net Framework 3.5</li>\n<li>Microsoft SQL Server 2008</li>\n<li>Microsoft SQL Server Reporting Services 2008</li>\n<li>Asterisk (<a href=\"http://www.asterisk.org/\">http://www.asterisk.org/</a>)</li>\n<li>Microsoft Visual Studio 2008</li>\n<li>Microsoft Silverlight</li>\n<li>Microsoft ASP.NET (3.5)</li>\n<li>Office Communications Server (OCS)</li>\n<li>Windows PowerShell</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,NET,.NET,wcf,SIP,VoIP,server,webservices,Services,Asterisk,ASP.NET,Silverlight,Client,WPF,Windows Forms,Reporting Services,SQL,SQL Server,SQL Server 2008,Framework,OCS,",
+  "LastEdited": "2009-06-25T22:02:50.07-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfdetailsview",
+  "Title": "WPF DetailsView",
+  "Description": "DetailsView control for Windows Presentation Foundation similar to detailsview in webforms.\r\n\r\nIt's designed to be, easy to use, fully customizable, with advanced features like FieldGenerator that allows to add custom logic to field generation, for example role-based security rules.\r\nSupports both, read-only and edit mode.\r\n\r\nIdeal for master-detail scenarios\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DetailsView control for Windows Presentation Foundation similar to detailsview in webforms.<br /><br />It&#39;s designed to be, easy to use, fully customizable, with advanced features like FieldGenerator that allows to add custom logic to field generation, for example role-based security rules.<br />Supports both, read-only and edit mode.<br /><br />Ideal for master-detail scenarios<br /><br /><br /><b>Features</b>\n<ul><li>Automatic field generation from DataContext object or specifying fields in XAML</li>\n<li>Binding to anonymous types</li>\n<li>Customizable CellTemplates</li>\n<li>CellTemplateSelector which selects DataTemplates based on DataType</li>\n<li>Option to write your own field generation logic, based on metadata, or whatever.</li></ul>\n<br /><img src=\"/projects/wpfdetailsview/9698f4f4-5e29-4822-a415-6c1b5fe06d7d\" alt=\"DetailsViewScreenShot.png\" title=\"DetailsViewScreenShot.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,DetailsView,FormView,DataForm,",
+  "LastEdited": "2011-05-24T13:50:11.893-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dbainventory",
+  "Title": "DBA Inventory",
+  "Description": "DBA Inventory is a SQL Server based project to help inventory, manage, control, and report on a large SQL Server infrastructure without requiring agents on the target. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nDBA Inventory is a SQL Server based project to help inventory, manage, control, and report on a large SQL Server infrastructure without requiring agents on the target.</p>\r\n<p>With the proliferation of SQL Server databases throughout organizations, keeping track of where those databases are, what systems they reside on, who is reponsible for them, and monitoring their trends can become a nightmare. This project offers a professionally\r\n designed database along with appropriate stored procedures to record and keep this data up to date.&nbsp; The design philosophy is to not require any additional objects on the target servers, instances, or databases, yet after seeding a minimum of server and\r\n instance information maintain a schuled update of databases throught the organization.</p>\r\n<p>SSRS reporting is a major component of the project&nbsp;where by the data is exposed to a wider audience (read management) and permits quick answers to complex questions.</p>\r\n<p>The project also contains a minimal amount of SSIS packages that&nbsp;perform the scheduled updates.</p>\r\n<p>The final component is a GUI to enable what manual data entry is required and to more easily control the application as a whole.</p>\r\n<p><strong><br>\r\n</strong></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-23T15:48:14.58-08:00"
+}

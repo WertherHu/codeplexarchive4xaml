@@ -1,0 +1,9 @@
+{
+  "ProjectName": "imperium",
+  "Title": "Imperium Home Automation Libraries",
+  "Description": "A set of home automation libraries written in .NET. Currently supports two X10 controllers.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A set of home automation libraries written in .NET. Currently supports two X10 controllers.<br /><br />Several years ago I released an X10 library at <a href=\"http://brian.vallelunga.com/code/x10/\">http://brian.vallelunga.com/code/x10/</a>. Due to heavy demand, I have opened the project and source to the community under the new name, Imperium.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-08-13T19:31:02.537-07:00"
+}

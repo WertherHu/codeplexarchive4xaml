@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ExcelRefresher",
+  "Title": "Excel and PowerPivot Refresh Suite",
+  "Description": "A command line utility for refreshing Excel data, as well as a Windows service which monitors and periodically refreshes a folder of Excel files.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A command line utility for refreshing Excel data, as well as a Windows service which monitors and periodically refreshes a folder of Excel files.<br /><br />This project was created to help businesses that primarily use Excel for reporting, but are not yet ready to adopt SharePoint. It provides a Windows service which will periodically refresh the data connections in one or more Excel files.\n<h2>Command Line Highlights:</h2>\r<ul><li>Support for PowerPivot cubes, OLEDB and ODBC data connections.</li>\n<li>Support for saving workbooks using date-naming conventions (i.e. creating archives)</li></ul>\n\n<h2>Service Highlights:</h2>\r<ul><li>Supports parallel, prioritized refreshing of reports, with automatic archiving.</li>\n<li>Support for PowerPivot cubes, OLEDB and ODBC data connections.</li>\n<li>Supports a variety of reporting schedules (hourly, daily, day-of-week, weekly, monthy).</li>\n<li>Automatically bypasses Excel files that are locked (i.e. being viewed by someone) .</li>\n<li>Simple management console for administering the service.</li></ul>\n<br />For an installation and configuration guide, <a href=\"https://excelrefresher.codeplex.com/wikipage?title=installation&referringTitle=Home\">click here</a>.<br />For help with configuration, <a href=\"https://excelrefresher.codeplex.com/wikipage?title=Configuration&referringTitle=Home\">click here</a>.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Excel,PowerPivot,Refresh,Reports,Automation,Windows Service,",
+  "LastEdited": "2013-03-07T03:07:06.303-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "eventsocket",
+  "Title": "FreeSwitch EventSocket",
+  "Description": "FreeSWITCH is an open source ip pbx  available from: http://www.freeswitch.org.\n\nThis is a event socket implementation that allows you to control most aspects of FreeSWITCH.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">New version: <a href=\"https://github.com/jgauffin/griffin.networking/tree/master/Source/Protocols/FreeSWITCH\">https://github.com/jgauffin/griffin.networking/tree/master/Source/Protocols/FreeSWITCH</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-08-27T01:53:39.557-07:00"
+}

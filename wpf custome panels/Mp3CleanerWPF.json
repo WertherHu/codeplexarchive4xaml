@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Mp3CleanerWPF",
+  "Title": "Mp3CleanerWPF",
+  "Description": "New version of Mp3Cleaner: WPF, multithreading, Windows Phone Albums.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Mp3CleanerWPF</b><br />New version of Mp3Cleaner&#58; WPF, multithreading, Windows Phone Albums.<br /><br /><b>New version:</b><br /><b>- support for Windows Phone collections (one button!),</b><br />- faster (multithreading),<br />- nicer (WPF).<br /><br />Mp3Cleaner is used to &quot;clean up&quot; and organize the music files external and internal (tags) information - in easy way.<br />Despite the name, supports most types of music files (flac, wma, wav .... ogg, …), it uses the tagLib library.<br /><br />And now the most important - in most cases, performs his work without user intervention. Only drop file or directory on it, push &lt;Clean&gt;, push &lt;Write&gt;. That&#39;s all!<br /><br />Mp3Cleaner służy do łatwego i szybkiego &quot;doprowadzania do porządku&quot; plik&#243;w muzycznych - ich nazw i tag&#243;w.<br />Wbrew swej nazwie obsługuje wiele typ&#243;w plik&#243;w (flac, wma, wav .... ogg, …), a to dzięki użyciu biblioteki tagLib.<br /><br />Najważniejsze - w większości przypadk&#243;w radzi sobie sam, bez użytkownika. Tylko trzeba na niego przeciągnąć plik lub katalog z plikami, nacisnąć &lt;Czyść&gt; i &lt;Zapisz&gt;. I to koniec pracy!<br /><br /><img src=\"/projects/Mp3CleanerWPF/118e3dfb-5282-41d6-a709-2f190fa5f29f\" alt=\"mp3cleanerwpf.gif\" title=\"mp3cleanerwpf.gif\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-04-03T06:05:13.183-07:00"
+}

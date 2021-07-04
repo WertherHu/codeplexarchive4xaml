@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AzureSQL",
+  "Title": "Windows Azure SQL",
+  "Description": "This site contains tutorials and samples for Windows Azure: SQL Database, Cloud Services, Storage, Activity Directory /Access Control Service, and OData.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis site&nbsp;contains tutorials and samples for Windows Azure.</p>\r\n<ul>\r\n<li>SQL Database </li><li>Cloud Services\r\n<ul>\r\n<li>See <a href=\"http://azuresql.codeplex.com/releases/view/100469\">Migrate a WCF Data Service to Windows Azure\r\n</a>for a step by step guide to publish and consume a Windows Azure WCF Data Service connected to an Azure SQL Database using Azure Access Control Service claims-based authentication.\r\n</li></ul>\r\n</li><li>Storage </li><li>Activity Directory /Access Control Service\r\n<ul>\r\n<li>See <a href=\"http://azuresql.codeplex.com/releases/view/100469\">Migrate a WCF Data Service to Windows Azure\r\n</a>which describes how to setup user name and password claims-based authentication.\r\n</li></ul>\r\n</li><li>Virtual Machines\r\n<ul>\r\n<li>See <span style=\"font-size:10pt; color:black\"><a href=\"http://azuresql.codeplex.com/releases/view/100469\">Use PowerShell to Create Windows Azure Virtual Machines with SQL Server BI</a>.</span>\r\n</li></ul>\r\n</li><li>OData on Windows Azure </li></ul>\r\n<p>&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-05-13T10:09:42.337-07:00"
+}

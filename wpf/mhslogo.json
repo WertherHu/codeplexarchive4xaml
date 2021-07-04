@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mhslogo",
+  "Title": "MhsLogo - LOGO parser in C# WPF MVVM",
+  "Description": "Small subset of LOGO with MVVM WPF UI",
+  "MovedLink": "https://github.com/strongmindsmhs/MhsLogo",
+  "HomeWiki": "<div class=\"wikidoc\"><h3>Project Description</h3>\r\nThis C# project is an example on using LL(1) parsing techniques to create a small <a href=\"http://en.wikipedia.org/wiki/Logo_(programming_language)\">LOGO</a> parser, which translates simple LOGO programming constructs to executable drawing instructions for interpretation in a MVVM WPF UI.<br /><br />The project is the output of a small mini blog series:<br />Part 1: <a href=\"http://blog.strongminds.dk/post/2012/11/30/Writing-a-small-parser-interpreter-(Part-1).aspx\">Scanner</a><br />Part 2: <a href=\"http://blog.strongminds.dk/post/2012/12/07/Writing-(Part-2-Parser).aspx\">Parser</a><br />Part 3: <a href=\"http://blog.strongminds.dk/post/2013/01/19/Writing-a-small-parser-interpreter-(Part-3-Semantic-processing-and-simple-WPF-MVVM-UI).aspx\">Semantics and UI</a><br /><br /><b>Project open to participation - please chip in!</b><br /><br /><img src=\"/projects/mhslogo/df135f5c-0eb4-465c-a841-871ee1ecf9be\" alt=\"MhsLogoDemo.jpg\" title=\"MhsLogoDemo.jpg\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Parsing,Logo,MVVM,C#,",
+  "LastEdited": "2013-02-28T10:29:06.657-08:00"
+}

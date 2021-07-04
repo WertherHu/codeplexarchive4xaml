@@ -1,0 +1,9 @@
+{
+  "ProjectName": "myrtille",
+  "Title": "A native HTML4 / HTML5 Remote Desktop Protocol client",
+  "Description": "Myrtille is a simple way to connect remote desktops from a web browser, without any plugin, extension or configuration.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Myrtille is a simple way to connect remote desktops and applications from a web browser, without any plugin, extension or configuration.<br /><br />For the end user, there is just need for a browser. Server side, it uses the .NET (C#) framework and the RDP protocol through an HTTP(S) gateway.<br /><br />It features HTML4 and HTML5, file transfer and WebP compression.<br /><br />Demo: <a href=\"https://www.youtube.com/watch?v=l4CL8h0KfQ8\">https://www.youtube.com/watch?v=l4CL8h0KfQ8</a><br />Website: <a href=\"http://cedrozor.github.io/myrtille\">http://cedrozor.github.io/myrtille</a><br />Repository: <a href=\"https://github.com/cedrozor/myrtille\">https://github.com/cedrozor/myrtille</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "remote control,HTML5,HTML4,freerdp,remote desktop,remote connect,remote access,open source,",
+  "LastEdited": "2017-07-30T04:54:43.227-07:00"
+}

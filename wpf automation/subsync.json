@@ -1,0 +1,9 @@
+{
+  "ProjectName": "subsync",
+  "Title": "SubSync",
+  "Description": "SubSync watches your media folders and automagically downloads their subtitles on your preferred languages!",
+  "MovedLink": "https://github.com/everton-agner/subsync-win",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>SubSync MIGRATED TO GITHUB:</h2>\r<h4><a href=\"https://github.com/everton-agner/subsync-win\">https://github.com/everton-agner/subsync-win</a></h4>\r\n<h3><b>All releases were taken out of CodePlex, so please grab them from GitHub instead</b></h3></div><div class=\"ClearBoth\"></div>",
+  "TagList": "video,automation,subtitle,media,download,movies,series,",
+  "LastEdited": "2017-04-30T19:59:04.127-07:00"
+}

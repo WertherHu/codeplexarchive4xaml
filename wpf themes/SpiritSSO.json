@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SpiritSSO",
+  "Title": "Spirit Single Sign On System",
+  "Description": "SpiritSSO provide solution open source Single Sign On and Authentication System in .NET. Main features is Cross-Domain Single Sign On, Multi-programing language support (Client API for ASP.NET, PHP, JAVA v...v) , Security, Distributed Clustering and customize theme of login form.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SpiritSSO provide solution open source Single Sign On and Authentication System in .NET. Main features is Cross-Domain Single Sign On, Multi-programing language support &#40;Client API for ASP.NET, PHP, JAVA v...v&#41; , Security, Distributed Clustering and customize theme of login form.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SSO,Cross domain,Authentication,Distributed,",
+  "LastEdited": "2009-05-18T05:51:02.68-07:00"
+}

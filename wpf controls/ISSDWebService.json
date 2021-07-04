@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ISSDWebService",
+  "Title": "Information Système & Shell à distance",
+  "Description": "Un web service qui permet d'avoir des informations sur le système et de lancer de commande (terminal) à distance.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Un web service qui permet d&#39;avoir des informations sur le syst&#232;me et de lancer de commande &#40;terminal&#41; &#224; distance.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Java,Web Services,WPF,tomcat,cmd,",
+  "LastEdited": "2010-05-22T22:45:47.677-07:00"
+}

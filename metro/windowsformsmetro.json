@@ -1,0 +1,9 @@
+{
+  "ProjectName": "windowsformsmetro",
+  "Title": "Windows Forms Metro",
+  "Description": "This project aims to create a library of controls & templates of Windows 8 Metro Style UI elements, for those who still using/loves windows forms.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project aims to create a library of controls &#38; templates of Windows 8 Metro Style UI elements, for those who still using&#47;loves windows forms.<br /><br /><b>Requeriments</b>\n<ul><li>A system running Windows with .NET Framework 2.0</li></ul>\n<br /><b>Contents</b>\n<ul><li>Basic form template</li>\n<li>ToggleSwitch</li>\n<li>ToggleTrackBar</li>\n<li>StatusStrip</li>\n<li>ToolTip</li>\n<li>Shortcut</li>\n<li>Tile</li>\n<li>RibbonTab</li>\n<li>Notices</li>\n<li>TextBox</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-03-11T12:43:16.627-07:00"
+}

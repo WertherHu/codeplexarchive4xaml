@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SPJsLib",
+  "Title": "SharePoint Script",
+  "Description": "JavaScript Libs for SharePoint 2007, based on jQuery. \nPart I. Access sharepoint list using ajax (through web services), add, update, remove and query list items.\nPart II. Control sharepoint list forms (new and edit), hide, readonly the field, get/set the field value, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />JavaScript Libs for SharePoint 2007, based on jQuery. <br />Part I. Access sharepoint list using ajax &#40;through web services&#41;, add, update, remove and query list items.<br />Part II. Control sharepoint list forms &#40;new and edit&#41;, hide, readonly the field, get&#47;set the field value, etc.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,javascript,jQuery,",
+  "LastEdited": "2009-02-02T08:29:47.527-08:00"
+}

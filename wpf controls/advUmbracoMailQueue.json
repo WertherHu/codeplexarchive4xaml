@@ -1,0 +1,9 @@
+{
+  "ProjectName": "advUmbracoMailQueue",
+  "Title": "Advanced mail queue for Umbraco",
+  "Description": "This is an advanced mail handler for the Umbraco CMS. \nThe system sends out mails based on a database queue system.\nThe system can be used anywhere, not just in Umbraco. The C# user web controls can be used as examples of how to deploy the admin interface elsewhere.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is an advanced mail handler for the Umbraco CMS. <br />The system sends out mails based on a database queue system.<br />The system can be used anywhere, not just in Umbraco. The C&#35; user web controls can be used as examples of how to deploy the admin interface elsewhere.<br />\n<h3>*** NB - This is a project in its Alpha stage, do not use in production! ***</h3>\r\nThe project was initially inspired by this article and has since evolved:<br /><a href=\"http://www.15seconds.com/Issue/030714.htm\">http://www.15seconds.com/Issue/030714.htm</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "smtp,umbraco,SQL Server,ASP.NET,",
+  "LastEdited": "2009-08-01T15:30:32.287-07:00"
+}

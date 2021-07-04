@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PaginatedCollection",
+  "Title": "Paginated ObservableCollection",
+  "Description": "PaginatedObservableCollection can be used at places where you wanted to show data in a paginated manner.  This is a special ObservableCollection which keeps the original collection inside and always exposes a subset of the collection based on some properties",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />PaginatedObservableCollection can be used at places where you wanted to show data in a paginated manner.  This is a special ObservableCollection which keeps the original collection inside and always exposes a subset of the collection based on some properties<br /><img src=\"/projects/PaginatedCollection/71f15436-c4fa-4230-a536-bbb48b916bd5\" alt=\"paginated.jpg\" title=\"paginated.jpg\" /><br /><br />More details can be found in the blog - <a href=\"http://jobijoy.blogspot.com/2008/12/paginated-observablecollection.html\">http://jobijoy.blogspot.com/2008/12/paginated-observablecollection.html</a><br />A running silverlight demo is also can be seen in the blog<br />\n<ul><li>the code is not tested against multi threaded scenarios</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Silverlight,.NET 3.5,Silverlight 2.0,",
+  "LastEdited": "2008-12-26T17:26:48.277-08:00"
+}

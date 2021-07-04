@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pgbootstrapbasetheme",
+  "Title": "Pretty Good Bootstrap Base Theme Orchard Theme",
+  "Description": "An Orchard base theme building on Twitter's Bootstrap framework.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An Orchard base theme building on Twitter&#39;s Bootstrap framework.<br />\n<h2>This repository has moved to GitHub. Please visit the new repository at <a href=\"https://github.com/Lombiq/Pretty-Good-Bootstrap-Base-Theme\">https://github.com/Lombiq/Pretty-Good-Bootstrap-Base-Theme</a>.</h2>\r<h2>The CodePlex page is not maintained anymore, but still here for historical reference. </h2>\r\nWe&#39;ve also created a <a href=\"https://github.com/Lombiq/Pretty-Good-Bootstrap-Base-Theme-Sample\">complete sample theme</a> demonstrating what you can do with PGBBT.<br /><br />PGBBT is the base for the themes of all Lombiq websites, including <a href=\"http://lombiq.com/\">Lombiq.com</a>, <a href=\"http://orcharddojo.net/\">Orchard Dojo</a> and <a href=\"http://dotnest.com/\">DotNest.com</a>. The theme is also available for all DotNest sites.<br /><br /><b>This project is developed by <a href=\"http://lombiq.com/\">Lombiq Technologies Ltd.</a> Commercial-grade support is available through Lombiq.</b><br /><br />The theme is also available for <a href=\"http://dotnest.com/\">DotNest</a> sites.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-11-28T05:55:45.98-08:00"
+}

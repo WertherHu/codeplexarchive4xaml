@@ -1,0 +1,9 @@
+{
+  "ProjectName": "TFSPDIntegration",
+  "Title": "TFS Process Dashboard Integration",
+  "Description": "Small tool which allows integration of Team Foundation Server source control with the Process Dashboard line counter.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Small tool which allows integration of Team Foundation Server source control with the Process Dashboard line counter.<br /><br /><br />This project should allow you to have an integrated TFS Line counter with process dashboard.<br /><br />There is a small installer that will check to ensure that you have all the files needed and put them in place if not.<br /><br />Update the ProjectSpecificLanguageFilter-template.xml file to customize the filter used for your specific project.<br /><br />There are some know issue with the installer on Windows 7 since it is trying to access your Program Files folder. This needs to be fixed.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-01T10:11:06.683-08:00"
+}

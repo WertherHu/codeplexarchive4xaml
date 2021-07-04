@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DotNTech",
+  "Title": "DOT&Tech Toolkit",
+  "Description": "DotNTech Toolkit",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nDotNTech Toolkit is a toolkit contains a lot of controls, that you would find online in different toolkits</p>\r\n<p>So, Now you don't need to add all the toolkit, just download the .dll and add it to project and use it.</p>\r\n<p><strong>Guide:</strong></p>\r\n<p>The toolkit contains following controls and converters, and others</p>\r\n<p>- BooleanToVisibility Converter</p>\r\n<p>- LargeText Trimmer</p>\r\n<p>- String to Visibility Converter</p>\r\n<p>- Themed Image Converter</p>\r\n<p>- Visibility to Boolean Converter</p>\r\n<p>- Link</p>\r\n<p>- LinkCollection</p>\r\n<p>- LinkMatchMethod</p>\r\n<p>- ButtonBaseHelper</p>\r\n<p>- Dialog Service</p>\r\n<p>- GestureHelper</p>\r\n<p>- LinkLabel</p>\r\n<p>- PopUp</p>\r\n<p>- RoundButton</p>\r\n<p>- ToastPrompt</p>\r\n<p>- LowProfileImage Loader</p>\r\n<p>- LinkedClicked Controle</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotN'Tech,Toolkit,roundbutton,BooleanToVisibility,LargeText Trimmer,Themed Image Convert,GestureHelper,popup,linklabel,toast prompt,lowprofileimage,profile,image,loader,",
+  "LastEdited": "2013-08-06T09:05:42.083-07:00"
+}

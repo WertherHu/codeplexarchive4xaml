@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Bugger",
+  "Title": "Bugger",
+  "Description": "This is a small tool for give a simple overview of bugs assigned to anyone (or team) in the source control system and show all their status, severity.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rThis is a small tool for give a simple overview of bugs assigned to anyone &#40;or team&#41; in the source control system and show all their status, severity.<br /><br />It will like the bugger tool for Product Studio in MS. Can helped people a lot in efficiently tracking bugs assigned to he or she.<br />For anyone want to have a gadget as a simple dashboard for bugs, this is what he want.<br />\n<h2>For source code</h2>\rThis project use the core library of me.<br />So please download the Related project (the Framework): <a href=\"https://bigeggcore.codeplex.com/\">https://bigeggcore.codeplex.com/</a><br />All the source code can also be found in the GitHub: <a href=\"https://github.com/BigEgg/Bugger\">the Application</a> and <a href=\"https://github.com/BigEgg/Core\">the Framework</a> <br /><br />Put the two solutions in the same folder and remove the suffix.<br />Then open the solution file in the “Bugger” folder.<br />\n<h2>The change log</h2>\rTo see what features in this version or the future, please go to <a href=\"https://bugger.codeplex.com/wikipage?title=Change%20Log&referringTitle=Home\">Change Log</a>.<br />\n<h2>For anything else</h2>\rPlease go to the documentation to get more information. Or you can send the mail to me.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,Unit Test,C#,WPF,TFS,Jira,Tracing System,Bug,",
+  "LastEdited": "2015-03-02T22:43:09.78-08:00"
+}

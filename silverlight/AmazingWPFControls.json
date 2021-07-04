@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AmazingWPFControls",
+  "Title": "Amazings WPF Controls",
+  "Description": "This project is the portal for accessing a lot of amazing WPF controls. \r\n\r\nIt's developed in C# 4.0 with Visual studio 2010 ...\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is the portal for accessing a lot of amazing WPF controls. <br /><br />It&#39;s developed in C&#35; 4.0 with Visual studio 2010 ...<br /><br /><br />They have their internals described on my web site: <a href=\"http://www.jonathanantoine.com\">http://www.jonathanantoine.com</a><br /><br />So far, here is a list of the available (or will be soon) controls :\n<ul><li>A Headered control (done),</li>\n<li>An animated expander (done),</li>\n<li>A Hand written text recognizer control (done),</li>\n<li>A wheel listbox control (soon).</li></ul>\n<br /><b>It also contains the Silverlight Jetpack theme ported to WPF</b><br /><br /><img src=\"http://i52.tinypic.com/3178h3o.jpg\" /><br /><img src=\"http://i54.tinypic.com/4t3wgo.jpg\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF controls,Controls,xaml,Theme,WPF themes,WPF Theme,Silverlight,control,control library,Code,",
+  "LastEdited": "2011-09-08T17:16:38.09-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "CSAutoBox",
+  "Title": "WPF AutoCompleteBox for Chinese Spell",
+  "Description": "CSAutoBox is a type of WPF AutoCompleteBox \r\nfor Chinese Spell in Input,Like Google,Bing.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />CSAutoBox is a type of WPF AutoCompleteBox <br />for Chinese Spell in Input,Like Google,Bing.<br /><br /><br />1.This project is done for Wpf AutoCompleteBox in Chinese Spell,it is coded in Vs 2008 or Expression Blend 3.<br />2.The Project have 100% source,you can Recompile it for you Purpose.<br />3.If you have any questions in using it,please email to me.<br />4.The project  Follow MATERIALS PROVIDED TO MICROSOFT OR POSTED AT ANY MICROSOFT WEB SITE and Open Source license.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "AutoComplete Textbox,汉语拼音过滤,类似Bing,WPF controls,",
+  "LastEdited": "2010-04-20T19:05:28.413-07:00"
+}

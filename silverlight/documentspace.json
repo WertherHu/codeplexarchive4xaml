@@ -1,0 +1,9 @@
+{
+  "ProjectName": "documentspace",
+  "Title": "DocumentSpace",
+  "Description": "Basic open source VB.Net/Silverlight 4 Tabbed Interface Word Processor.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nBasic open source VB.Net/Silverlight 4 Tabbed Interface Word Processor.</p>\r\n<p><img src=\"http://semagsoft.com/wp-content/uploads/2014/07/documentspacescreenshot.png\" alt=\"Screenshot\" width=\"410\" height=\"301\"></p>\r\n<p>supports basic editing commands like cut, copy, paste and select all.</p>\r\n<p>Also supports formatting commands like Bold, Italic, and Underline.</p>\r\n<p>Open/save xaml documents from/to disk.<br>\r\n<br>\r\nDocumentSpace also supports Out-of-Browser mode, <a href=\"http://msdn.microsoft.com/en-us/library/dd550721(VS.95).aspx\" target=\"_blank\">\r\nClick here</a> for more info about Out-of-Browser mode.</p>\r\n<h2><a href=\"http://documentspace.semagsoft.com\">Try Demo</a></h2>\r\n<hr>\r\n<p>&nbsp;</p>\r\n<p><a title=\"Donate\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=K4QJBR4UJ3W5E&lc=US&item_name=Semagsoft&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted\" target=\"_blank\">Please donate to help keep this project\r\n active.</a></p>\r\n<p>If you would like to donate bitcoins, please send them here: 1EgeEKzqxSSPgoGxtp2bvhkKkq9dDf3o6</p>\r\n<hr>\r\n<p>DocumentSpace is developed and maintained by&nbsp;<a href=\"http://cur.lv/54kgs\" target=\"_blank\">Semagsoft</a>.</p>\r\n<hr>\r\n<p>For more info go to: <a href=\"http://cur.lv/54kb3\"><strong>http://cur.lv/54kb3</strong></a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "VB.Net,silverlight 4,tabbed,word processor,xaml,Silverlight,",
+  "LastEdited": "2014-07-15T23:13:24.733-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AzureOneDay",
+  "Title": "Azure In a Day",
+  "Description": "This is the project to help students understand how to build a Azure solution using the following technologies\r\n\r\n1. Azure Storage (Queue and Blob)\r\n2. SQL Azure\r\n3. AppFabric Access Control Service\r\n4. AppFabric Service Bus\r\n5. ASP.NET MVC 3",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is the project to help students understand how to build a Azure solution using the following technologies<br /><br />1. Azure Storage &#40;Queue and Blob&#41;<br />2. SQL Azure<br />3. AppFabric Access Control Service<br />4. AppFabric Service Bus<br />5. ASP.NET MVC 3<br /><br /><br />The initial project is based on Steve Marx&#39;s demo with some tweaks in it. It is presented for the first time in Kuala Lumpur at Cloud Computing: Adapts to the Changing Needs of Business event. <br /><a href=\"https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032488969\">https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032488969</a><br /><br />Download the source code and PowerPoint slides here <a href=\"http://azureoneday.codeplex.com/releases/view/69842\">http://azureoneday.codeplex.com/releases/view/69842</a><br /><br />The demo site is at <a href=\"http://ipsazuredemo.cloudapp.net/\">http://ipsazuredemo.cloudapp.net/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Azure,ASP.NET MVC,AppFabric,",
+  "LastEdited": "2011-07-12T04:10:47.647-07:00"
+}

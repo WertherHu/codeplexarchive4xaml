@@ -1,0 +1,9 @@
+{
+  "ProjectName": "spilverlight",
+  "Title": "SPilverlight - SharePoint Web Part For Easy Silverlight",
+  "Description": "The SPilverlight web part for SharePoint allows you to add Silverlight to SharePoint, and all you need to know is the path to the XAP file.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The SPilverlight web part for SharePoint allows you to add Silverlight to SharePoint, and all you need to know is the path to the XAP file.<br /><br />SharePoint Web part for &lt;= SilverlightV3. All you need is the path to the XAP file, hight, width, and init params (if any). No configuration needed. All JavaScript and supporting files included as resources of the assembly - <a href=\"http://karinebosch.wordpress.com/2009/07/17/integrating-silverlight-3-in-sharepoint-2007/\">including the createSL script by Karine Bosch</a>- as resources embeded in the assembly, so there is no configuration on the part of the user or admin. Just enter the properties, and Silverlight is working in SharePoint.<br /><br /><a href=\"http://blog.richfinn.net/blog/2009/10/11/SPilverlightWebPartForSilverlightInSharePoint2007.aspx\">More information and installation instructions can be found at this blog post</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint 2007,SharePoint WebPart,WebPart,Silverlight,Silverlight 2,Silverlight 3,",
+  "LastEdited": "2009-10-29T08:13:09.92-07:00"
+}

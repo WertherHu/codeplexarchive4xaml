@@ -1,0 +1,9 @@
+{
+  "ProjectName": "prismwithribbon",
+  "Title": "WPF PRISM 4.0 and Ribbons",
+  "Description": "Using Infragistics XamRibbon with WPF PRISM for building rich UI",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Using Infragistics XamRibbon with WPF PRISM for building rich UI<br /><br />Prism is the great Framework and sometimes some of the default .NET UI components doesnt quite work for certain scenarios (like RibbonBar and DockManager). <br /><br /><br />This project is about using Infragistics RibbonBar and later on if time permits Microsoft&#39;s Ribbon for WPF (which is provided separately) with Prism. So that we can utilize RibbonBar functionality quite smoothly with PRISM (without breaking MVVM and PRISM Extensiblity). <br /><br />See <a href=\"https://prismwithribbon.codeplex.com/documentation?referringTitle=Home\">Documentation</a> for more information about concept and step by step guide. <br /><br />If you have a look at SourceCode, it is quite easy to adapt this into another Ribbon Control. <br /><br /><img src=\"/projects/prismwithribbon/b72a18c0-910a-4f6e-b3d0-7e31eaf80a12\" alt=\"Demo&#32;Screenshot.png\" title=\"Demo&#32;Screenshot.png\" /><br /><br /><b>Note</b><br />I havent included Infragistics in the &quot;lib&quot; folder, you will need to include one of your own as it is licensed. <br /><br />Current project is based on Infragistics 2012 vol1 libraries. <br /><br /><br /><br /><br />Pls be patient as I try to flesh it up. <br /><br /><br />If you really want to see how it is done, then goto to <b>Source Code</b> Tab and download it<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Prism,ribbon wpf,Infragistics,",
+  "LastEdited": "2012-06-14T13:59:41.457-07:00"
+}

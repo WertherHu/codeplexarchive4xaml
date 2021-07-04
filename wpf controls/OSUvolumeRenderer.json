@@ -1,0 +1,9 @@
+{
+  "ProjectName": "OSUvolumeRenderer",
+  "Title": "Programmer's Distributed Visualization Framework",
+  "Description": "This project contains several subprojects, including a turn-key volume renderer with support for editable GLSL shaders and a Photoshop-like layer approach to visualization. Supporting projects include an AssetManager to support light-weight proxy objects across many machines or interface devices. A remotable camera control project that is OpenGL and DirectX independent allows for shared cameras and manipulation of cameras across machines. A rudimentary math library and a collection of GUI controls for visualization are also provided. This project is ongoing research at The Ohio State University.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project contains several subprojects, including a turn-key volume renderer with support for editable GLSL shaders and a Photoshop-like layer approach to visualization. Supporting projects include an AssetManager to support light-weight proxy objects across many machines or interface devices. A remotable camera control project that is OpenGL and DirectX independent allows for shared cameras and manipulation of cameras across machines. A rudimentary math library and a collection of GUI controls for visualization are also provided. This project is ongoing research at The Ohio State University.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2008-10-22T13:50:09.447-07:00"
+}

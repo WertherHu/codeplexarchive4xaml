@@ -1,0 +1,9 @@
+{
+  "ProjectName": "herodotus",
+  "Title": "Herodotus",
+  "Description": "A light-weighted MVVM friendly framework that provides change tracking capabilities for Windows 8/RT apps.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Herodotus</b><br /><i>A light-weighted MVVM friendly framework that provides change tracking capabilities for Windows 8&#47;RT apps.</i><br /><br />It currently supports\n<ul><li>Tracking changes of properties of objects</li>\n<li>Tracking changes of linear collections</li>\n<li>Unlimited Undo/Redo linearly and/or over the entire revision tree (subject to memory restrictions)</li>\n<li>Allowing changes to be packed together into change-sets</li>\n<li>Change-sets can be optionally optimised by putting same changes on same objects together</li></ul>\n<br />A demo app with a canvas allowing creating and changing of lines is provided. All the changes to the canvas are being tracked, displayed in the list view through MVVM binding and can be undone/redone.<br /><br />The original source code of the framework was based on that in <a href=\"https://physioassist.codeplex.com/\">Physio Assist</a> a WPF application with very little change. And it can clearly be seen that with even less effort this source code can be ported back to WPF.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Windows Store App,UI Change Tracking,Undo/redo,",
+  "LastEdited": "2014-04-23T18:58:27.167-07:00"
+}

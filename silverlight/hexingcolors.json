@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hexingcolors",
+  "Title": "Hexing Colors for Windows Phone 7",
+  "Description": "Hexing Colors is a simple Silverlight game for Windows Phone 7 based on the web game \"What the Hex\" written by Andrew Yang and created for educational purposes. The code of the app is here published for anyone to download and analyze it to learn the basic internals of a WP7 app.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nHexing Colors is a simple Silverlight game for Windows Phone 7 based on the web game &quot;What the Hex&quot; written by Andrew Yang and created for educational purposes. The code of the app is here published for anyone to download and analyze it to learn the basic internals\r\n of a WP7 app.<br>\r\n<br>\r\nThe objective of the game is to guess which tile matches the color described by the hex string on top of the app. The game has 3 difficulty levels: easy (2 tiles), medium (4 tiles and this is the default mode) and hard (9 tiles). The code allows to add more\r\n levels (if needed) with just a few lines of code.<br>\r\n<br>\r\n</p>\r\n<p><a title=\"Hexing Colors game on WP7 marketplace  by doctor.Fate, on Flickr\" href=\"http://www.flickr.com/photos/56448117@N00/5366303278/\"><img src=\"http://farm6.static.flickr.com/5083/5366303278_e29ebe441c.jpg\" alt=\"Hexing Colors game on WP7 marketplace \" width=\"500\" height=\"399\"></a></p>\r\n<p><br>\r\n<br>\r\nThe app can be installed from the Windows Phone Marketplace on a Windows Phone 7 device or using the Zune Software on a PC.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-01-17T21:03:12.687-08:00"
+}

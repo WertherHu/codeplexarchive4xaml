@@ -1,0 +1,9 @@
+{
+  "ProjectName": "pocketbook",
+  "Title": "Pocket Book",
+  "Description": "A WPF version of the popular PocketMod utility.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h3>Project Description</h3>\r\n<p>A standalone WPF version of the popular <a href=\"http://www.pocketmod.com/\" target=\"_blank\">\r\nPocketMod</a> utility.</p>\r\n<p><br>\r\n<a href=\"http://download.codeplex.com/Download?ProjectName=pocketbook&DownloadId=320311\"><img title=\"Main window\" border=\"0\" alt=\"Screenshot\" src=\"http://download.codeplex.com/Download?ProjectName=pocketbook&DownloadId=320312\" width=\"644\" height=\"446\" style=\"border-right-width:0px; padding-left:0px; padding-right:0px; display:inline; border-top-width:0px; border-bottom-width:0px; border-left-width:0px; padding-top:0px\"></a></p>\r\n<p>&#160;</p>\r\n<p>This was developed as a hobby project with the following requirements in mind:</p>\r\n<ul>\r\n<li>to have a <em>standalone </em>version of the application (PocketMod is only available online);\r\n</li><li>the ability to print to A4 pages; </li><li>the ability to save layouts; </li><li>the ability to add new templates as required. </li></ul>\r\n<h3>Credits </h3>\r\n<p>Thanks to the contributors of <a href=\"http://caliburnmicro.codeplex.com/\" target=\"_blank\">\r\nCaliburn.Micro</a>.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,printing,CaliburnMicro,C#,.NET 4.0,MVVM,",
+  "LastEdited": "2011-12-31T16:24:12.12-08:00"
+}

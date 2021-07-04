@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvvmsuite",
+  "Title": "MVVM Suite",
+  "Description": "This Application make Easy to create WPF Application using the MVVM Pattern",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br>\r\nThis Application make Easy to create WPF Application using the MVVM Pattern<br>\r\n<p>&nbsp;</p>\r\n<p><strong>The application is composed of two main modules</strong><br>\r\nThe ViewModel Creator which automates the creation of ViewModel classes<br>\r\nthe View Creator, a simple editor to quickly create your sights</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-07-13T15:39:57.75-07:00"
+}

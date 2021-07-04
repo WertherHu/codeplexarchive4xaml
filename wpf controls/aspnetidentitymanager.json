@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aspnetidentitymanager",
+  "Title": "ASP.NET Identity Manager",
+  "Description": "The management application for simply and clear administrating and controlling  of users and roles for Asp.Net Identity.",
+  "MovedLink": "https://github.com/top111/ASP.NET-Identity-Manager",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project description</h1>\rThe management application for simply and clear administrating and controlling  of users and roles for Asp.Net Identity.<br />Asp.Net Identity Manager is a application for managing ASP.Net Identity users, roles and their relations.<br /><br />\n<h1>Summary</h1>\rThe management application for simply and clear administrating and controlling  of users and roles for Asp.Net Identity. <br />\n<h1>Features</h1>\r<ul><li>Initialize database for Asp.Net Identity</li>\n<li>Create and delete users</li>\n<li>Create and delete roles</li>\n<li>Assign and un-assign users to roles</li>\n<li>Reset user passwords (planned)</li>\n<li>Use the Web.API with WebForms (planned)</li>\n<li>Use Knockout (planned)</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Asp.Net Identity,Identity Manager,Web.API,Knockout,",
+  "LastEdited": "2014-01-12T04:40:48.487-08:00"
+}

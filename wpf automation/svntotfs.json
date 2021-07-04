@@ -1,0 +1,9 @@
+{
+  "ProjectName": "svntotfs",
+  "Title": "SvnToTfs",
+  "Description": "Simple tool that migrates every Subversion revision toward Team Foundation Server 2010.  It is developed in C# witn a WPF front-end.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple tool that migrates every Subversion revision toward Team Foundation Server 2010.  It is developed in C&#35; witn a WPF front-end.<br /><br /><br />The project does what it says, helping you migrate your Subversion repository (including comments) toward TFS.<br /><br />After finishing the tool and gooing to Codeplex to publish, we found out of another tool built arount the same idea.  We asked ourself if we should plce this one as well, and decided to do so, as one might be conceived in a way closer to what you are looking for.  We are only looking to enlarge the community, not steel the sun over this other great project : http://svn2tfs.codeplex.com/<br /><br />So tell us what you think of this, first time trying to put a project over on Codeplex.<br /><br />Thanks !</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-05-27T13:59:43.107-07:00"
+}

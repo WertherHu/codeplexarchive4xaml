@@ -1,0 +1,9 @@
+{
+  "ProjectName": "URM",
+  "Title": "Unmanned Ripping Maching",
+  "Description": "URM is an automation tool designed for use with the HTPC. It rips DVDs and encodes automatically behind the scenes.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>Unmanned Ripping Machine</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"background-color:#f5f6f5\">Unmanned Ripping Machine i</span>s an automation tool designed for use with the HTPC (Home Theater Personal Computer). It requires windows 8 or higher and runs with .net framework. It is also designed&nbsp;to replace\r\n your shell for windows as it works like a proxy for starting up your media system (Kodi, for example).&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>You need to be sure to have MakeMKV, and Handbrake installed prior to configuring this system.&nbsp;</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-11-07T02:53:39.797-08:00"
+}

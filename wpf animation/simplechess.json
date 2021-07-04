@@ -1,0 +1,9 @@
+{
+  "ProjectName": "simplechess",
+  "Title": "Simple Chess",
+  "Description": "A simple chess engine & UI implemented in C# and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Simple Chess</h1>\rInvestigations on building a simple chess board and engine, with focus on clear design patterns and an easy to understand design.<br /><br /><b>About the author</b><br />My name is Andrei Scripniciuc, and I&#39;m a software developer from Cluj-Napoca, Romania. My personal blog: <a href=\"http://www.scripni.com\">http://www.scripni.com</a>.<br />\n<h2>External components used</h2>\r<ul><li>Galasoft MVVM Light - <a href=\"http://www.galasoft.ch/mvvm/\">http://www.galasoft.ch/mvvm/</a></li>\n<li>Chess Icons from Peter Wong - <a href=\"http://www.virtualpieces.net/icons/\">http://www.virtualpieces.net/icons/</a></li></ul>\n<br /><b>I&#39;m currently looking for someone to help me with the UI/X design, please contact me if you want to be a contributor.</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Chess,WPF,MVVM,fun,",
+  "LastEdited": "2012-05-11T01:45:56.26-07:00"
+}

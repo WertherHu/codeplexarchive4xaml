@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tidy",
+  "Title": "Tidy DotNetNuke Theme",
+  "Description": "Tidy is a responsive DotNetNuke theme originally created by Adam Humphrey for DotNetNuke World 2012 training.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"http://tidy.skinsbyadammer.com/portals/tidy/graphics/responsive_iPad_iPhone.png\" alt=\"Tidy In Action\" title=\"Tidy In Action\" /><br />\n<h1>Project Description</h1>\rTidy is a responsive DotNetNuke theme originally created by Adam Humphrey for DotNetNuke World 2012 training.<br />\n<h1>Demo</h1>\rSee Tidy in action at <a href=\"http://tidy.byadammer.com\">http://tidy.byadammer.com</a><br />\n<h1>Features</h1>\r<ul><li>Responsive</li>\n<li>HTML5, CSS3, jQuery</li>\n<li>Social Page Styles</li>\n<li>Right-To-Left page style (Beta) for <a href=\"http://en.wikipedia.org/wiki/Right-to-left\">http://en.wikipedia.org/wiki/Right-to-left</a> languages</li></ul>\n\n<h1>Dependencies</h1>\r<ul><li>DotNetNuke 6 or later</li>\n<li>DotNetNuke 7 optimized</li></ul>\n\n<h1>Installation</h1>\rThis theme can only be installed as a HOST (installation) skin, not as an ADMIN (site) skin. Meaning you can only install it from the Host Extensions page, not the Admin Extensions page. It can be used on any website in a DotNetNuke Installation.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "CMS,skins,Design,DotNetNuke,DNN,Skin,dnn skin,dnn7,dnn6,Theme,DNN Theme,",
+  "LastEdited": "2014-11-22T14:27:59.913-08:00"
+}

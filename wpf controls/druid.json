@@ -1,0 +1,9 @@
+{
+  "ProjectName": "druid",
+  "Title": "HyperCrunch Druid",
+  "Description": "HyperCrunch Druid is a toolkit that extends the DotNetNuke platform with a flexible Rule Engine and an innovative Mobile App Engine. Druid, which stands for Dynamic Rule-based User Interface for DotNetNuke, makes it easy to control the end-user experience of DotNetNuke-based websites. It is designed from the bottom up to enable cutting-edge mobile application development using DotNetNuke.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>HyperCrunch Druid</h1>\r\n<br />HyperCrunch Druid is a toolkit that extends the DotNetNuke platform with a flexible <b>Rule Engine</b> and an innovative <b>Mobile App Engine</b>. <br /><br />Druid, which stands for <b>Dynamic Rule-based User Interface for DotNetNuke</b>, makes it easy to control the end-user experience of DotNetNuke-based websites. It is designed from the bottom up to enable cutting-edge mobile application development using DotNetNuke.<br /><br />NEW -- Druid now enables Open Graph Protocol, Schema.org and social sharing support via the &quot;Druid Social&quot; Content Modifier extension.<br />\n<h2>For complete details, documentation and samples, go to <a href=\"http://druid.hypercrunch.com\">http://druid.hypercrunch.com</a></h2></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DotNetNuke,DNN,",
+  "LastEdited": "2012-10-12T06:45:04.69-07:00"
+}

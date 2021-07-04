@@ -1,0 +1,9 @@
+{
+  "ProjectName": "datagridtoolbar",
+  "Title": "Silverlight DataGridToolbar Control for OData, RIA Services and local data",
+  "Description": "The library contains three controls for Silverlight DataGrid. The first control works with OData(WCF Data Services), the second one works with RIA Services and the third one works with local data. It can be used to filter, remove, edit and insert data.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>DataGrid Toolbar</b></h1>\r\nDataGridToolbar contains three controls for Silverlight DataGrid.<br />The first control is designed for work with OData(WCF Data Services), the second one works with RIA Services and the third one works with local data.<br />The DataGridToolbar can be used to filter or remove data, invoke a modal form to edit data, and to submit or cancel changes.<br /><br />You can try the DataGridToolbar <a href=\"http://alutam.cz/samples/DataGridToolBar.aspx\">here</a>  in the live demo<br /><br />The OData DataGridToolbar uses &quot;ODataSource&quot; control from Slma.Odata.dll library. <a href=\"http://odatacontrols.codeplex.com/\">http://odatacontrols.codeplex.com/</a><br /><br /><b>Filtr</b><br /><img src=\"/projects/datagridtoolbar/b9deb6bd-56d0-45fd-95ba-782e7fd0983a\" alt=\"DGTB_Filter.gif\" title=\"DGTB_Filter.gif\" /><br /><br /><b>Delete</b><br /><img src=\"/projects/datagridtoolbar/1e373d59-2d35-41bb-a187-9c76fab6744e\" alt=\"DGTB_Delete.gif\" title=\"DGTB_Delete.gif\" /><br /><br /><b>Edit</b><br /><img src=\"/projects/datagridtoolbar/54616fcc-0c4f-4d77-bda0-3675130dc561\" alt=\"DGTB_Edit.gif\" title=\"DGTB_Edit.gif\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "DataGrid,Silverlight 4.0,RIA Services,Toolbar,silverlight 4,OData,WCF Data Services,",
+  "LastEdited": "2010-09-09T12:56:44.067-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightPopupMenu",
+  "Title": "Silverlight menu control using popup free user control",
+  "Description": "A silverlight menu custom control, a modified version of the control by mherdotinfo (http://slmenu.codeplex.com).\nThis version uses popup control for the menu items to encounter the zIndex issues.\nTested on silverlight3 and silverlight4",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A silverlight menu custom control, a modified version of the control by mherdotinfo &#40;http&#58;&#47;&#47;slmenu.codeplex.com&#41;.<br />This version uses popup control for the menu items to encounter the zIndex issues.<br />Tested on silverlight3 and silverlight4<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-16T23:59:00.523-07:00"
+}

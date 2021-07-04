@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slwizard",
+  "Title": "Silverlight MVVM wizard using Caliburn Micro",
+  "Description": "This MVVM style Silverlight 4 wizard shows some Caliburn Micro features, as well as the use of MEF and MVVM style unit testing. The UI and code are based on the code accompanying the \"Code Project\" article \"Creating an Internationalized Wizard in WPF\" from dec. 2008.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p><strong></strong>This MVVM style Silverlight 4 wizard shows some Caliburn Micro features, as well as the use of MEF and MVVM style unit testing. The UI and code are based on the code accompanying the &quot;Code Project&quot; article &quot;Creating an Internationalized\r\n Wizard in WPF&quot; from dec. 2008.</p>\r\n<p>You can download the latest version of the code <a href=\"http://slwizard.codeplex.com/SourceControl/list/changesets#\" target=\"_self\">\r\nhere</a>.</p>\r\n<p>This is how it looks:</p>\r\n<p><img src=\"http://www.codeplex.com/download?ProjectName=slwizard&DownloadId=173503\" alt=\"screenshot\" width=\"400\" height=\"233\"></p>\r\n<p>You can play around with it here: <a title=\"Silverlight Bike Wizard\" href=\"http://slwizard.dotnet-works.com/Caliburn.Micro.BikeWizardTestPage.html\" target=\"_blank\">\r\nhttp://slwizard.dotnet-works.com/Caliburn.Micro.BikeWizardTestPage.html<br>\r\n</a>Or run the unit tests here:&nbsp;<a title=\"Tests\" href=\"http://slwizard.dotnet-works.com/Caliburn.Micro.BikeWizard.TestsTestPage.html\" target=\"_blank\">http://slwizard.dotnet-works.com/Caliburn.Micro.BikeWizard.TestsTestPage.html</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-30T01:15:27.923-08:00"
+}

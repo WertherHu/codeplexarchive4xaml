@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightbridge",
+  "Title": "Silverlight Bridge",
+  "Description": "Silverlight Bridge is Silverlight File Manager. Runs in and out of web browser. Allows drag and drop of files between the local file system and the server.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Bridge is Silverlight File Manager. Runs in and out of web browser. Allows drag and drop of files between the local file system and the server.<br />\n<ul><li>This project requires Silverlight 4 (currently in Beta) </li>\n<li>ASP.NET 4.0 (currently in Beta) </li>\n<li>VS2010 (currently in Beta)</li>\n<li>It will NOT run on ASP.NET 3.5 and Visual Studio 2008</li>\n<li>Not for production use</li></ul>\n<br /><img src=\"/projects/silverlightbridge/3654af75-1a48-4909-8e60-9135145a9fdb\" alt=\"SilverlightBridgeInBrowser.png\" title=\"SilverlightBridgeInBrowser.png\" /><br /><img src=\"/projects/silverlightbridge/d19ca53b-9065-4d10-a70f-39e9725f3287\" alt=\"SilverlightBridgeOOB.png\" title=\"SilverlightBridgeOOB.png\" /><br />\n<ul><li>Allows files to be moved by Dragging and Dropping</li>\n<li>Allows multiple files to be uploaded</li>\n<li>Allows Folders to be Created, Updated, and Deleted</li>\n<li>Allows Files to be Uploaded, and Deleted</li></ul>\n<br />Please subscribe to our release RSS feed to be notified when new releases are available: <a href=\"http://silverlightbridge.codeplex.com/Project/ProjectRss.aspx?ProjectRSSFeed=codeplex%3a%2f%2frelease%2fsilverlightbridge\">Release RSS</a><br /><br /><img src=\"/projects/silverlightbridge/218f9046-f172-43c0-a387-e58862d1007b\" alt=\"OpenLightBadge.gif\" title=\"OpenLightBadge.gif\" /><br /><a href=\"http://www.openlightgroup.net\">www.OpenLightGroup.net</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,DotNetNuke,silverlight file,silverlight 4,silverlight 4.0,RETURN,",
+  "LastEdited": "2012-01-01T18:28:53.953-08:00"
+}

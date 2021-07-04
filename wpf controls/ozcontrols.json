@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ozcontrols",
+  "Title": "OhZee Creative Controls",
+  "Description": "Includes several XAML controls for Silverlight and Windows 8.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Includes several XAML controls for Silverlight and Windows 8.<br /><br />OhZee Creative Controls contains several XAML controls for Silverlight and Windows 8. Included are:\n<ul><li>RadialControl</li>\n<li>RadialIndicator</li>\n<li>RadialLayoutPanel </li>\n<li>RadialRepeater</li>\n<li>EvenLayoutPanel</li>\n<li>Checkers</li>\n<li>Starburst</li>\n<li>Sunburst</li></ul>\n<br />Install via NuGet:  http://www.nuget.org/packages/OzControls/<br /><br /><br />NOTE: Use at your own risk. This project may or may not be updated.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-01-21T20:30:14.29-08:00"
+}

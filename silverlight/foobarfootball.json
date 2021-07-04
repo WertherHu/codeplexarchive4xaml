@@ -1,0 +1,9 @@
+{
+  "ProjectName": "foobarfootball",
+  "Title": "Foo Bar Football",
+  "Description": "An open source C# football simulation engines featuring intelligent agents.\n\nHeavily inspired by sports interactives football manager.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />An open source C&#35; football simulation engines featuring intelligent agents.<br /><br />Heavily inspired by sports interactives football manager.<br /><br />This project is in the very early stages of development. Feel free to browse the source code. Hopefully we will have an alpha release soon.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "c#,game,football,soccer,silverlight,simulation,\"match engine\",",
+  "LastEdited": "2010-02-05T21:16:08.55-08:00"
+}

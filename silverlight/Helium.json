@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Helium",
+  "Title": "Helium",
+  "Description": "The Helium XNA game engine is a light portable game engine designed to work on many platforms and soon to be expanded on more. Currently the helium game engine can be easily run on Windows, Xbox, and Windows Phone and with a coming port to the iPhone and SilverLight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The Helium XNA game engine is a light portable game engine designed to work on many platforms and soon to be expanded on more. Currently the helium game engine can be easily run on Windows, Xbox, and Windows Phone and with a coming port to the iPhone and SilverLight.<br /><br /><br /><img src=\"/projects/Helium/b4d59769-c0fa-4f78-b1a7-1b820d51dfc7\" alt=\"breakoutSample.png\" title=\"breakoutSample.png\" /><br /><i>Screenshot of the sample Breakout style game &#39;Breakfree&#39;</i><br /><br /><img src=\"/projects/Helium/8ff84bdc-e558-423b-8cf5-a9271eb31ed9\" alt=\"PixelBoardSample.png\" title=\"PixelBoardSample.png\" /><br /><i>Screenshot of the sample PixelBoard, this sample shows how to use gamestates to do more then just run your one game state</i><br /><br /><img src=\"http://img839.imageshack.us/img839/1796/photonsample.png\" /><br /><i>Screenshot of the Photon Particle Editing Tool, Listed in the downloads section</i></div><div class=\"ClearBoth\"></div>",
+  "TagList": "xna,game engine,wp7,XBox360,windows,",
+  "LastEdited": "2010-08-17T06:44:40.503-07:00"
+}

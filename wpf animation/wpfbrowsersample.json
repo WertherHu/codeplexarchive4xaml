@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfbrowsersample",
+  "Title": "WPF Frame Web Browser Sample",
+  "Description": "A simple web browser sample based on frame navigation themed in a Modern UI style.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A simple web browser sample based on frame navigation themed in a Modern UI style.<br /><br />This sample project is a good way to understand:<br />\n<ul><li>Frame behavior</li>\n<li>Resources and Resource dictionary</li>\n<li>Styles (Default and specific)</li>\n<li>Templates</li>\n<li>Grid organization through scalable columns and rows</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Frame,Modern UI,Metro,Web,Browser,Sample,Example,",
+  "LastEdited": "2013-05-16T22:28:02.6-07:00"
+}

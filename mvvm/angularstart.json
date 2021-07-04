@@ -1,0 +1,9 @@
+{
+  "ProjectName": "angularstart",
+  "Title": "AngularStart",
+  "Description": "Visual Studio 2010\\2012, Project Template, ASP.Net MVC, WebApi, AngularJS with Bootstrap.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>AngularStart</b><br /><br />AngularStart is a Visual Studio 2010/2012/2013 project template for integrating ASP.Net MVC 4 with AngularJS framework. The project template stack  contains ASP.Net MVC, WebAPI, Bootstrap 2.3.2 and AngularJS 1.2.14.<br /><br />It supports Visual Versions 2010, 2012 and 2013.<br /><br />The template is also available at Visual Studio gallery <a href=\"https://visualstudiogallery.msdn.microsoft.com/cc6c9c5f-2846-4822-899f-a6c295cd4f2b\">https://visualstudiogallery.msdn.microsoft.com/cc6c9c5f-2846-4822-899f-a6c295cd4f2b</a> and can be directly download from Visual Studio.<br /><br />For more details check these posts<br /><a href=\"http://blog.technovert.com/2013/09/integrating-angularjs-with-asp-net-mvc-and-webapi/\">http://blog.technovert.com/2013/09/integrating-angularjs-with-asp-net-mvc-and-webapi/</a><br /><a href=\"http://blog.technovert.com/2013/12/setting-up-angularjs-for-asp-net-mvc-n-webapi-project/\">http://blog.technovert.com/2013/12/setting-up-angularjs-for-asp-net-mvc-n-webapi-project/</a><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "angular,spa,js,javascript,mvvm,",
+  "LastEdited": "2014-12-04T00:52:48.62-08:00"
+}

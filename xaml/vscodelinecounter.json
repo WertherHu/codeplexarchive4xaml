@@ -1,0 +1,9 @@
+{
+  "ProjectName": "vscodelinecounter",
+  "Title": "Visual Studio Code Line Counter",
+  "Description": "Counts the number of lines of code included in a Visual Studio solution.",
+  "MovedLink": "https://github.com/mingslogar/vscodelinecounter",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h2 style=\"font-family:'Segoe UI'; font-size:18pt!important; font-weight:100\">What It Does</h2>\r\n<p style=\"font-family:'Segoe UI'; font-size:12pt\">VS Code Line Counter takes a Visual Studio solution file, parses it for all of its included projects, parses each project for its included code files, and counts the number of lines in each file.</p>\r\n<p>&nbsp;</p>\r\n<h2 style=\"font-family:'Segoe UI'; font-size:18pt!important; font-weight:100\">A Little History</h2>\r\n<p style=\"font-family:'Segoe UI'; font-size:12pt\">I made this app after the projects I created began to have more than a few dozen files. Counting the number of lines manually on some of my projects could take well over 10 minutes, besides being error-prone.</p>\r\n<p>&nbsp;</p>\r\n<h2 style=\"font-family:'Segoe UI'; font-size:18pt!important; font-weight:100\">A Screenshot</h2>\r\n<p><img src=\"http://i.imgur.com/TbrHrUR.png?1\" alt=\"Screenshot of VS Code Line Counter\" style=\"max-width:100%\"></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,C#,XAML,",
+  "LastEdited": "2014-09-29T19:27:52.157-07:00"
+}

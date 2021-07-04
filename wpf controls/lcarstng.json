@@ -1,0 +1,9 @@
+{
+  "ProjectName": "lcarstng",
+  "Title": "LCARS TNG",
+  "Description": "This is a revival of the LCARS WinForms controls by Marcelo Chavez. The project was hosted on CodeProject, but seems dead since 2006.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a revival of the LCARS WinForms controls by Marcelo Chavez. The project was hosted on CodeProject, but seems dead since 2006.<br /><br /><b>About the original work</b><br />The original project was created by Marcelo Chavez in 2006. The project seems dead since then. The original project was published on CodeProject:<br /><a href=\"http://www.codeproject.com/KB/miscctrl/lcars_net_controls.aspx\">http://www.codeproject.com/KB/miscctrl/lcars_net_controls.aspx</a><br />under a CodeProject license. I changed the license to LGPL to publish here, tell me if there is a better match.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-05T00:01:24.47-07:00"
+}

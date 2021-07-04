@@ -1,0 +1,9 @@
+{
+  "ProjectName": "memoryview",
+  "Title": "Memory View controls",
+  "Description": "Memory View controls are a pair of controls for real time and static viewing and editing of a memory space. MemoryHexEditor is a hex editor that supports viewing and editing memory, and MemoryHeatMap is a time-based graphical view that shows how memory is read and written to.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Memory View controls are a pair of controls for real time and static viewing and editing of a memory space. MemoryHexEditor is a hex editor that supports viewing and editing memory, and MemoryHeatMap is a time-based graphical view that shows how memory is read and written to.<br /><br />MemoryHexViewControl:<br /><img src=\"/projects/memoryview/18b7667c-cce0-4c54-8638-14833263a0df\" alt=\"image2.png\" title=\"image2.png\" /><br /><br />MemoryHeatMapControl:<br /><img src=\"/projects/memoryview/9b236bc7-799a-46e2-8e35-0b7c7c773018\" alt=\"image3.png\" title=\"image3.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-02-10T20:40:16.46-08:00"
+}

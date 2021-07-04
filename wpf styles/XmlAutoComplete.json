@@ -1,0 +1,9 @@
+{
+  "ProjectName": "XmlAutoComplete",
+  "Title": "XmlAutoComplete (WPF)",
+  "Description": "XmlAutoComplete is a WPF (.NET4.0) control providing suggestions while writing XML according to a bounded schema.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>What is XmlAutoComplete?</h1>\rXmlAutoComplete is a WPF &#40;.NET4.0&#41; control providing suggestions while writing XML according to a bounded schema.<br />\n<h1>Your XML helper</h1>\rWe all love Visual Studio XML editor with helpful suggestions, but you cannot use it directly in your applications. XmlAutoComplete is a WPF control which will allow you to provide an auto-complete functionality while editing XML files in your applications.<br />Attach an XSD file and you can start typing!  <br /><br /><img src=\"/projects/XmlAutoComplete/e48e5ef9-c35c-4914-92cc-f10f77e36b4a\" alt=\"demo.png\" title=\"demo.png\" /><br /><br /><b>XmlAutoComplete</b> control provides suggestions for:\n<ul><li>Elements</li>\n<li>Attributes</li>\n<li>Attribute values</li></ul>\n<br />And it also:\n<ul><li>Auto-close elements</li>\n<li>Append namespaces into elements</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-07-18T11:30:47.84-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DataSetInspector",
+  "Title": "DataSetInspector plugin for Fiddler HTTP Debugger",
+  "Description": "This is an inspector plugin for the Fiddler HTTP Debugger which shows datasets in a .Net DataGridView control.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Inspector plugin for Fiddler to display xml data in a tabular structure, to easily browse the data in both the request and response.<br />Originally created to inspect xml datasets, but it works for any type of xml.<br /><br />Download Fiddler at: <a href=\"http://www.fiddler2.com\">http://www.fiddler2.com</a><br /><br />Update November 2012: Fixed some bugs &amp; made some changes...<br /><br />Example:<br /><img src=\"/projects/DataSetInspector/ef41fe08-1e85-475a-b504-e2b21ffdf379\" alt=\"ScreenShot.PNG\" title=\"ScreenShot.PNG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Fiddler,HTTP Debugger,plugin,dataset,xml,debugging,",
+  "LastEdited": "2012-11-10T06:34:54.733-08:00"
+}

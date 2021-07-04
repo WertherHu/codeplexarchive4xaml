@@ -1,0 +1,9 @@
+{
+  "ProjectName": "nopcontrols",
+  "Title": "NopControls for Silverlight & Silverlight for Windows Phone",
+  "Description": "NopControls is a set of fun controls for Silverlight (both desktop and Windows Phone).\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">NopControls is a set of fun controls for Silverlight &#40;both desktop and Windows Phone&#41;.<br /><br /><br /><b>Silverlight for Desktop version:</b><br /><br /><object data=\"data:application/x-silverlight-2,\" type=\"application/x-silverlight-2\" style=\"height:2100px;width:800px;\"><param name=\"source\" value=\"http://www.catuhe.com/NopControls/ClientBin/NopControlsTest.xap\"></param><param name=\"windowless\" value=\"true\"></param><param name=\"minRuntimeVersion\" value=\"5.0.61118.0\"></param><param name=\"autoUpgrade\" value=\"true\"></param><p>You need to install Microsoft Silverlight to view this content. <a href=\"http://go.microsoft.com/fwlink/?LinkID=149156&v=5.0.61118.0\" style=\"text-decoration:none;\">Get Silverlight!<br /><img src=\"http://go.microsoft.com/fwlink/?LinkID=108181\" alt=\"Get Microsoft Silverlight\" style=\"border-style:none;\" /></a></p></object><iframe style=\"visibility:hidden;height:0;width:0;border-width:0;\"></iframe><br /><br /><b>Screen captures on Windows Phone:</b><br /><br /><img src=\"http://www.catuhe.com/image.axd?picture=image_32.png\" /><img src=\"http://www.catuhe.com/image.axd?picture=image_33.png\" /><img src=\"http://www.catuhe.com/image.axd?picture=image_34.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Silverlight Controls,silverlight 4,Windows Phone 7,windows phone,Silverlight control,Controls,WP 7,WP7,Library,",
+  "LastEdited": "2011-03-29T03:42:15.43-07:00"
+}

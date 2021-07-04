@@ -1,0 +1,9 @@
+{
+  "ProjectName": "animatrix",
+  "Title": "Animatrix",
+  "Description": "Animatrix is a lightweight library for animating controls in Form or even add some fancy effects like reflection, shadows.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1><b>Introduction</b></h1>\rAnimatrix is light weight library for animating Controls in Forms. It has collection of all generally used animation like Slide, Fade, Rotate etc. If you want to create your own animation you can do with it without getting in complexity of how things are working behind the scene. With this library you can even add Special effect to your Control like Reflection, Shadows. Again you can create a new Effect if Default are not satisfying your requirement.<br /><br /><img src=\"http://imageshack.us/a/img16/1949/demous.jpg\" /><br />\n<h1><b>How to use it in your project</b></h1>\r<div class=\"video\" style=\"text-align:Center\"><span class=\"player\"><object height=\"285px\" width=\"320px\"><param name=\"movie\" value=\"http://www.youtube.com/v/R-sTQoIdvb4\"></param><param name=\"wmode\" value=\"transparent\"></param><embed height=\"285px\" width=\"320px\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" src=\"http://www.youtube.com/v/R-sTQoIdvb4\" /></object></span><br /><span class=\"external\"><a href=\"http://www.youtube.com/watch?v=R-sTQoIdvb4\" target=\"_blank\">Launch in another window</a></span></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Animation,Control,Animatrix,Rotate,Slide,Fade,Reflection,Shadow,",
+  "LastEdited": "2013-06-01T03:26:32.203-07:00"
+}

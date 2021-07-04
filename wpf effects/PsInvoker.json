@@ -1,0 +1,9 @@
+{
+  "ProjectName": "PsInvoker",
+  "Title": "PowerShell Invoker (PsInvoker)",
+  "Description": "The PowerShell Invoker is a small lib, which provides executing PowerShell cmdlets or PowerShell scripts from any context such as Windows Forms, WPF, Console or ASP.Net web applications.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>PsInvoker</h1>\r<h1>Project Description</h1>\rThe PowerShell Invoker is a small lib, which provides executing PowerShell cmdlets or PowerShell scripts from any context such as Windows Forms, WPF, Console or ASP.Net web applications.<br /><br />\n<h2>PsInvoker Usage</h2>\rPsInvoker is written on .Net Framework 3.5, the PowerShell Libraries are referenced by latebinding to provide a better error handling. <b>before using PsInvoker ensure that your PowerShell policies are correctly set</b><br />\n<h2>PsInvoker Examples</h2>\r\nHere are some small examples, where PsInvoker could be used. The first screen shot shows an ASP.Net 3.5 Web application, it allows you to execute some PowerShell scripts directly from webpage.<br /><img src=\"/projects/PsInvoker/b5e1c510-5d27-4e5b-80c4-e86eb2c45d45\" alt=\"PsInvoker&#32;in&#32;WebApplication.png\" title=\"PsInvoker&#32;in&#32;WebApplication.png\" /><br /><br />The following example shows the usage of PsInvoker in a very simple Windows Forms application<br /><img src=\"/projects/PsInvoker/47f119cb-d77c-4701-aa18-da5574734539\" alt=\"PsInvoker&#32;in&#32;WindowsApplication.png\" title=\"PsInvoker&#32;in&#32;WindowsApplication.png\" /><br />\n<h2>PsInvoker RoadMap</h2>\r\nHere some features, which will be included in the future:\n<ul><li>Overloading RunPowerShellScript Method to provide a better API</li>\n<li>XML-Documentation</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "PowerShell,Integration,API,Embedded,PSHost,",
+  "LastEdited": "2009-05-28T00:54:11.607-07:00"
+}

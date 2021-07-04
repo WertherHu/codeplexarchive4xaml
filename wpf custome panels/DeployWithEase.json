@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DeployWithEase",
+  "Title": "deploy-with-ease",
+  "Description": "One-click deployment tool based on DrobBox files hosting",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>deploy-with-ease</b><br /><br />The goal of this project is to provide an ability to easily deploy and keep updated the applications without distribution of standalone installers or hosting a web services. This tool primarily relies on the free file sharing services such as DropBox to store the data. It has a client which can be configured for specific application or a set of apps. Once the client is deployed on the user&#39;s PC it will allow the user to get the newest version of your app with one click. Also it provides an API that can be used within your app to track it&#39;s updates automatically.<br /><br />It doesn&#39;t take your DropBox credentials and completely based on the usage of public links to the DropBox.<br /><br />The client is fully customizable so your users won&#39;t even know that they use something called &quot;deploy-with-ease&quot; =)<br /><br />The project in the initial stage and has no working version of the app yet.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": ".NET 4,WPF,",
+  "LastEdited": "2012-11-23T10:52:19.08-08:00"
+}

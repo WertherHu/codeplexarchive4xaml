@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rwpf",
+  "Title": "rWPF",
+  "Description": "WPF User Controls, ValueConverters and Helpers for UI Development",
+  "MovedLink": "https://github.com/steto-scope/rWPF",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>rWPF</h1>\r\nThis is the source hub for the rWPF libary, containing some useful UI Elements and Converters. <br /><br /><br />\n<h2>How to use</h2>\r\nReleases are published via NuGet. Install rWPF using:<br /><br /><pre>\nPM&gt; Install-Package rwpf\n</pre><br /><br />Declare in XAML the rwpf namespace and you&#39;re ready to go:<br /><br /><pre>&lt;Window xmlns:r=&quot;http://rwpf.codeplex.com&quot; ...&gt;\n  ...\n  &lt;StackPanel&gt;\n    &lt;r:IPv4Field IP=&quot;{Binding IP}&quot; /&gt;\n    &lt;r:IPv4Field IP=&quot;{Binding Mask}&quot; NetmaskOnly=&quot;true&quot; /&gt;\n  &lt;/StackPanel&gt;\n  ...\n&lt;/Window&gt;\n</pre><br /><br />See <a href=\"https://rwpf.codeplex.com/documentation?referringTitle=Home\">Documentation</a> for a quick summary of all Controls and Converters<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-09-08T12:21:21.403-07:00"
+}

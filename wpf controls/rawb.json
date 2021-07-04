@@ -1,0 +1,9 @@
+{
+  "ProjectName": "rawb",
+  "Title": "Rawb",
+  "Description": "High performance, simple, composable web UI controls (grid, scrollbar, splitters, etc.) for use with Knockout.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>This is a collection of high-performance web UI controls for use with <a href=\"http://knockoutjs.com/index.html\">\r\nKnockout</a>: grids, scrollbars, &quot;draggers&quot;, splitters, etc. &nbsp;I've given up on finding decent controls, so I've written my own. &nbsp;These were designed for Knockout from the ground up, they try to provide mechanism rather than policy, and they are intended\r\n to be simple and composable.</p>\r\n<p><strong>Demo</strong></p>\r\n<p>Click <a href=\"http://www.spannerjs.com/Rawb/index.html\">here</a>&nbsp;to see the&nbsp;<em>Rawb</em> controls in action.</p>\r\n<p><strong>Recent Changes</strong></p>\r\n<p><strong>Rawb.1.1.1</strong></p>\r\n<ul>\r\n<li>Added a new section,&nbsp;<em>rawb.util.js</em>, currently containing&nbsp;<em>nonOverlappingAsync</em>, which is useful for drop-down lists which fetch autocompletion lists as the user types.\r\n</li></ul>\r\n<p><strong>Rawb.1.0.1</strong></p>\r\n<ul>\r\n<li>Scroll bar update rate capped at 50 Hz to prevent the UI from locking up under IE11.\r\n</li></ul>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-05-07T00:15:07.387-07:00"
+}

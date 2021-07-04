@@ -1,0 +1,9 @@
+{
+  "ProjectName": "BloqueosSVN",
+  "Title": "Piezas Bloqueadas SVN version 1.0.0",
+  "Description": "Espero que esta aplicación les pueda servir para facilitar el control de las piezas bloqueadas de SVN. Consultas a:\r\nCristian Núñez - cenunezm@gmail.com\r\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Descripcion del proyecto</b><br />Espero que esta aplicaci&#243;n les pueda servir para facilitar el control de las piezas bloqueadas de SVN. Consultas a&#58;<br />Cristian N&#250;&#241;ez - cenunezm&#64;gmail.com<br /><br /><br /><br />Este sencillo proyecto nace de la necesidad de saber que cantidad de piezas bloqueadas existen en un repositorio espec&#237;fico de SVN Server y que usuario es el que tiene bloqueada la pieza de software. esto sirve para evitar, en una administraci&#243;n sencilla de SVN, que dos requerimiento est&#233;n utilizando la misma pieza de software<br />Este requerimiento cuenta con 4 objetos con los cuales se resuelve el problema:\n<ul><li>Archivo de linea de comando (BAT) con que se obtienen las piezas bloqueadas diariamente de un repositorio <b>svnadmin lslocks</b></li>\n<li>aplicaci&#243;n visual basic creada en Visual Studio 2012 que limpia y genera un archivo ordenado y separado  por <b>&quot;|&quot;</b></li>\n<li>planilla Microsoft excel con ejemplo de estad&#237;stica generada.</li></ul>\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2017-01-11T11:25:05.803-08:00"
+}

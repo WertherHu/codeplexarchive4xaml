@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mvcboost",
+  "Title": "MVC Boost (Tools to Speed Up ASP.NET MVC Coding)",
+  "Description": "Utility tools and helpers to speed up coding when using ASP.NET MVC technologies.\r\n\r\nInclude HTML tag rendering extensions, Metro/ModernUI helpers, EF tools, etc.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Utility tools and helpers to speed up coding when using ASP.NET MVC technologies.<br /><br />Include HTML tag rendering extensions, Metro&#47;ModernUI helpers, EF tools, etc.<br /><br />This project provides developers with a set of utility tools that help speed up coding when using ASP.NET MVC technologies.<br /><br />Key features include: <br />\n<ul><li>Tools to manage POCO Entity model descriptions when using Fluent API</li>\n<li>DbContext Service based approach infrastructure to decouple controllers from data management</li>\n<li>HTML Extension methods to render pages with Windows 8 Metro/ModernUI Style (conforming to <a href=\"http://metroui.org.ua/\">MetroUI CSS</a></li>\n<li>Helper methods for faster HTML Rendering</li></ul>\n<br />You can find more information and examples in the <a href=\"https://mvcboost.codeplex.com/documentation?referringTitle=Home\">documentation section</a>.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-07-11T00:23:46.927-07:00"
+}

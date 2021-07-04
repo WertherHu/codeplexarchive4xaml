@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ipcontrols",
+  "Title": "IpControls",
+  "Description": "\"IpControls\" contains IPv4 and IPv6 text boxes, both as Windows Forms and WPF version. \nThe IPv6 control automatically detects the older hybrid format which i.e. is used on Windows XP platforms. Developed in C#/XAML.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>&#34;IpControls&#34; contains IPv4 and IPv6 text boxes, both as Windows Forms and WPF version. <br />The IPv6 control automatically detects the older hybrid format which i.e. is used on Windows XP platforms. Developed in C&#35;&#47;XAML.</b><br /><br /><img src=\"/projects/ipcontrols/93638006-bb6c-4950-aa20-4fcc1a21fa05\" alt=\"Windows&#32;Forms&#32;version\" title=\"Windows&#32;Forms&#32;version\" /><br /><blockquote><sub>Windows forms version</sub></blockquote>\n<img src=\"/projects/ipcontrols/ba1aabf8-6d9c-4207-9c85-d9d55a088208\" alt=\"WPF&#32;version\" title=\"WPF&#32;version\" /><br /><blockquote><sub>WPF version</sub></blockquote>\nThe project intends to provide an easy way of entering IP addresses in versions 4 and 6 in both Windows Forms and WPF technology. The content of the visual elements (such as the address itself) can be accessed (get/set) via a simple property. The IPv6 control automatically detects the kind of presentation which is currently used on the current platform, that means the setter routine understands both the following string formats:<br /><br />2001:0db8:85a3:08d3:1319:8a2e:0370:7344   (normal)<br /> vs.<br />2001:0db8:85a3:08d3:1319:8a2e:3.112.115.68   (hybrid)</div><div class=\"ClearBoth\"></div>",
+  "TagList": "sockets,IP,IPv4,IPv6,networking,WPF,UserControls,Windows Forms,NET,control,TextBox,WPF controls,",
+  "LastEdited": "2010-05-04T11:31:40.287-07:00"
+}

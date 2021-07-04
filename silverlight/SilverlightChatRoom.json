@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightChatRoom",
+  "Title": "Silverlight Socket ChatRoom",
+  "Description": "Silverlight Socket ChatRoom\nSilverlight Socket 聊天室",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Silverlight Socket ChatRoom<br />Silverlight Socket 聊天室<br /><br /><br />基于silverlight socket通讯机制的聊天室 <br />实现的功能:<br />1.文字聊天 <br />2.允许本地图片发送 <br />3.允许文件传送并保存到本地 <br />4.文字颜色可自定义 <br />5.允许私聊 <br />6.在线列表查看 <br />7.用户进入/离开聊天室的广播通知<br />8.用户呢称更改的广播通知<br />9.允许屏幕截图并保存jpg到本机(需要activeX支持)<br />10.增加了手写板功能(2010/1/15更新)<br /><br />在线演示地址:<br /><a href=\"http://images.24city.com/jimmy/ChatDemo/\">http://images.24city.com/jimmy/ChatDemo/</a><br /><br />作者(菩提树下的杨过)官方博客:<a href=\"http://yjmyzz.cnblogs.com/\">http://yjmyzz.cnblogs.com/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Scoket,ChatRoom,socket,",
+  "LastEdited": "2010-01-14T17:36:07.257-08:00"
+}

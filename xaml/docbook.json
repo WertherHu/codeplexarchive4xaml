@@ -1,0 +1,9 @@
+{
+  "ProjectName": "docbook",
+  "Title": "Docbook Converter",
+  "Description": "This library provides .NET classes, written in C#, to easily convert to and from Docbook and Xaml Packages (from FlowDocuments).",
+  "MovedLink": "https://github.com/madd0/DocbookConverter",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This library provides .NET classes, written in C&#35;, to easily convert to and from Docbook and Xaml Packages &#40;from FlowDocuments&#41;.<br /><br />The current version is far from complete, supporting only the strict necessary to make an internal project work.<br /><br />Docbook code can be generated from Xaml Packages coming from a RichTextBox&#39;s FlowDocument. The following are supported:<br />\n<ol><li>Paragraphs</li>\n<li>Bold text</li>\n<li>Italic text</li>\n<li>Ordered lists</li>\n<li>Bullet lists</li>\n<li>Images</li></ol></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-18T15:36:54.433-08:00"
+}

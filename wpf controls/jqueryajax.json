@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jqueryajax",
+  "Title": "jQuery Based Library for ASP.NET",
+  "Description": "A set of jQuery based Ajax enabled ASP.NET controls including:\n- Multi-column auto-complete\n- Masked input\n- Calendar drop-down\n- Validation (including call-out validator)\n- Spell checking\n- Tab bar control.\n- GridView with insert line and total section\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A set of jQuery based Ajax enabled ASP.NET controls including&#58;<br />- Multi-column auto-complete<br />- Masked input<br />- Calendar drop-down<br />- Validation &#40;including call-out validator&#41;<br />- Spell checking<br />- Tab bar control.<br />- GridView with insert line and total section<br /><br /><br /><br /><img src=\"http://www.codeproject.com/KB/ajax/jqueryajax/screen.GIF\" /><br />Please go to the <a href=\"http://www.codeproject.com/KB/ajax/jqueryajax.aspx\">http://www.codeproject.com/KB/ajax/jqueryajax.aspx</a> to see detail APIs<br /><br /><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=BY3W8VY9WA2PA&amp;lc=US&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted\"><img style=\"border:none;\" src=\"http://www.paypal.com/en_US/i/btn/x-click-butcc-donate.gif\" alt=\"Donate\" title=\"Donate\" /></a><br />Your donations are kindly appreciated. If you wish your information listed in this site please specify it in PayPal memo field<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "jquery,GridView,autocomplete,spell check,Tab Control,calendar,masked,validation,validator,dropdown,ajax,ASP.NET,",
+  "LastEdited": "2009-11-25T07:39:49.573-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "MVMMapper",
+  "Title": "MVMMapper",
+  "Description": "Generate the ViewModel and its mapping to the Model when implementing MVVM in .NET. \r\nDeveloped using T4 templates. \r\nCurrent version supports Silverlight.",
+  "MovedLink": "https://bitbucket.org/ernow/mvmmapper",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>!IMPORTANT!</h1>\r<b>This project has been migrated to a repo BitBucket:</b><br /><a href=\"https://bitbucket.org/ernow/mvmmapper/overview\">https://bitbucket.org/ernow/mvmmapper/overview</a><br /><br /><b>Project Description</b><br />Generate the ViewModel and its mapping to the Model when implementing MVVM in .NET. <br />Developed using T4 templates. <br />Current version supports Silverlight.<br /><br /><b>Getting Started</b><br /><a href=\"https://mvmmapper.codeplex.com/wikipage?title=The%20MVMMapper%20in%203%20minutes&referringTitle=Home\">I want to know what this is about</a><br /><a href=\"https://mvmmapper.codeplex.com/wikipage?title=DIY%3a%20Simple%20scenario&referringTitle=Home\">I want to implement a simple example</a><br /><a href=\"https://mvmmapper.codeplex.com/wikipage?title=DIY%3a%20More%20complex%20scenarios&referringTitle=Home\">I want to implement some more advanced scenarios</a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "MVVM,Silverlight,viewmodel,T4,Visual Studio,",
+  "LastEdited": "2017-04-02T08:56:39.21-07:00"
+}

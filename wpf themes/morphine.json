@@ -1,0 +1,9 @@
+{
+  "ProjectName": "morphine",
+  "Title": "Morphine",
+  "Description": "Morphine is a new media player with beautiful interface. It uses Windows Media Player engine to play media and WPF to render UI.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Morphine</b><br />Morphine is a new media player with beautiful interface. It uses Windows Media Player engine to play media and WPF to render UI.<br /><br /><b>For now it can:</b><br />- Play any audio files that WMP can play<br />- Display info and album art<br />- Open playlists that WMP can open<br />- Play/Pause and switch tracks by pressing keyboard multimedia keys<br />- Change playing position<br />- Play tracks in shuffle mode<br />- Switch to mini mode<br />- Play previous playlist<br /><br /><img src=\"http://i3.imageban.ru/out/2011/05/04/b6979a3c7c65c9d8ebaa0d4df0a2e781.png\" /><br /><img src=\"http://i1.imageban.ru/out/2011/05/05/817ce904e5433ad342ddd93c6f54b3ac.png\" /><br /><br /><b>System Requirements</b><br />- Windows 7<br />- Microsoft .NET Framework 4.0</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-05-05T08:28:27.45-07:00"
+}

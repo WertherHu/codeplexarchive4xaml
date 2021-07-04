@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hashcalculator",
+  "Title": "Hash Calculator",
+  "Description": "WPF Windows 7 program to compute SHA1, MD5 & CRC32 hash functions.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WPF Windows 7 program to compute SHA1, MD5 &#38; CRC32 hash functions. Supports Windows 7 taskbar progressbar.<br /><br /><table><tr><td><img src=\"/projects/hashcalculator/7df59662-3ccd-4356-a9d1-41c5d46718fd\" alt=\"Hash&#32;Calculator\" title=\"Hash&#32;Calculator\" /></td><td><img src=\"/projects/hashcalculator/0b7a8b16-2e13-43fb-9aff-7acd492fe273\" alt=\"ThumbButton\" title=\"ThumbButton\" /></td></tr></table></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,Cryptography,calculator,md5,Hash,SHA1,Windows 7,CRC32,.NET Framework 4.0,",
+  "LastEdited": "2010-04-17T01:12:19.043-07:00"
+}

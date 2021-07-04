@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VoxelEngine",
+  "Title": "VoxelEngine",
+  "Description": "Minecraft style terrain engine in SharpDX, SlimDX, C# XNA 4.0",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Minecraft style terrain engine in SharpDX, SlimDX, XNA 4.0</h2>\rMinecraft style terrain engine in SharpDX, SlimDX, C&#35; XNA 4.0<br />\n<h1>Prerequisite </h1>\r\n<b>SlimDX</b> <br /><a href=\"http://slimdx.org/download.php\">http://slimdx.org/download.php</a><br /><br /><b>XNA</b> <br /><a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=23714\">http://www.microsoft.com/en-us/download/details.aspx?id=23714</a><br />\n<h1>Текущее состояние (SharpDX)</h1>\r\n<a href=\"http://www.youtube.com/watch?v=xBK8CAbUfCE\"><img style=\"border:none;\" src=\"http://s2.hostingkartinok.com/uploads/images/2012/06/4d82a8040dedc2f4813758524282c9c3.png\" alt=\"SharpDX VoxelEngine\" title=\"SharpDX VoxelEngine\" /></a><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,XNA,engine,Terrain,SlimDX,infinite,XNA 4.0,Minecraft,voxel,ANX,SharpDX,",
+  "LastEdited": "2012-06-24T08:12:48.593-07:00"
+}

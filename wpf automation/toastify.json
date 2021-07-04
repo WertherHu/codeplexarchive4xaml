@@ -1,0 +1,9 @@
+{
+  "ProjectName": "toastify",
+  "Title": "Toastify",
+  "Description": "Toastify adds some missing functionallity to the Spotify client(Windows only). It shows a popup, toast style, dialog on track change and it allows you to use global hot keys for Play/Pause, Next, Previous etc. Toastify is developed using C# and WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Toastify</b><br />Toastify adds some missing functionallity to the Spotify client&#40;Windows only&#41;. It shows a popup, toast style, dialog on track change and it allows you to use global hot keys for Play&#47;Pause, Next, Previous etc. Toastify is developed using C&#35; and WPF.<br /><br /><img src=\"/projects/toastify/7cce2a82-b902-47e7-934f-5efc3bc7909f\" alt=\"Toastify.png\" title=\"Toastify.png\" /><br />\n<h2>Welcome to Toastify!</h2>\r\nSporting better album art, more reliable Toasts and the hotkeys that keep you coming back for more Spotify music, this is the best version of Toastify yet - <a href=\"https://toastify.codeplex.com/wikipage?title=url%3ahttps%3a%2f%2ftoastify.codeplex.com%2freleases%2fview%2f24273&referringTitle=Home\">Download Now&#33;</a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Popup,hotkey,global,spotify,hey,",
+  "LastEdited": "2014-09-03T12:04:08.46-07:00"
+}

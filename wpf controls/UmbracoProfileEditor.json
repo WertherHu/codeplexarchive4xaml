@@ -1,0 +1,9 @@
+{
+  "ProjectName": "UmbracoProfileEditor",
+  "Title": "Umbraco Profile Editor",
+  "Description": "Allows site members to edit their profiles using a user control based on Umbraco membership tabs and properties.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Allows site members to edit their profiles using a user control based on Umbraco membership tabs and properties.<br /><br /><br /><b>What is is?</b><br />I initially began developing this for a client project running Umbraco CMS.<br /><br />The client needed a way for members to be able to edit their profiles via the website.<br />This is very much a work in progress, but feel free to download the Alpha release and see what it does.<br /><br />Currently it only pulls the profile tab and properties structure.<br /><br />Tabs are displayed using the AjaxControlToolkit.dll (version 1.0 that comes with Umbraco)<br /><br />It has a lot of potential.<br /><br />I am still working on developing the saving feature, but it&#39;s going to make a world of difference in it&#39;s usability.<br /><br /><b>How to implement</b><br />Create a new usercontrol macro in Umbraco and add it to a template.<br />The document that is using the template should be setup with membership login access privileges.<br /><br />That&#39;s it!!<br /><br />Please give me feedback on whether or not this will be a benefit to you or anyone on current or future projects.<br /><br />I will continue development until I tire of it or it&#39;s completed.<br /><br />Thanks!</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-01-14T23:36:08.393-08:00"
+}

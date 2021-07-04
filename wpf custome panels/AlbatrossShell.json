@@ -1,0 +1,9 @@
+{
+  "ProjectName": "AlbatrossShell",
+  "Title": "Albatross Shell",
+  "Description": "Albatross Shell is a WPF based Shell program that can host other WPF application modules.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<h6>Please note:</h6>\r\n<h6>This project is now hosted on <a href=\"https://github.com/RushuiGuan/Albatross\">\r\nGitHub</a>. Further development will take place there.</h6>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Ribbon,shell,ReportViewer,albatrossshell,wpf shell,wpf module,albatross,albatross.shell,albatross shell,composite wpf,SSRS Viewer,ssrs report viewer,composite app,",
+  "LastEdited": "2015-06-13T20:07:07.533-07:00"
+}

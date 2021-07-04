@@ -1,0 +1,9 @@
+{
+  "ProjectName": "stsadm",
+  "Title": "SharePoint Automation Source Code",
+  "Description": "This project is used to store the version history of the custom STSADM and PowerShell CmdLets found at http://stsadm.blogspot.com/.  To get the latest releases visit my downloads page at http://stsadm.blogspot.com.  This project is meant solely for users to view change history.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This project is used to store the version history of the custom STSADM and PowerShell CmdLets found at http&#58;&#47;&#47;stsadm.blogspot.com&#47;.  To get the latest releases visit my downloads page at http&#58;&#47;&#47;stsadm.blogspot.com.  This project is meant solely for users to view change history.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "SharePoint,STSADM,PowerShell,",
+  "LastEdited": "2009-07-02T15:24:52.677-07:00"
+}

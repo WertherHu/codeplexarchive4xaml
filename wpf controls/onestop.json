@@ -1,0 +1,9 @@
+{
+  "ProjectName": "onestop",
+  "Title": "OneStop - Decompression Software",
+  "Description": "OneStop Deco is a scuba diving program that calculates dive time and decompression obligations. Technology being used is .Net 3.5 & WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />OneStop is a decompression planning application for open and closed circuit diving. The application is based on the Buhlmann ZHL16B algorithm with m-value gradient conservatism. OneStop supports the use of air, nitrox and trimix gases. <br /><br />The application is built using Silverlight 3. A beta version is currently avilable at <a href=\"http://damiensiviero.com/onestopdeco/beta/\">http://damiensiviero.com/onestopdeco/beta/</a><br /><br />Credit must be given to Guy Wittig who developed MV-Plan, upon which the the algorithm code is based. <br /><br />NOTE: No further development is expect on the previous WPF version, although the source code is still available. <br /><br /><img src=\"/projects/onestop/7ff25312-ac26-45bc-aead-df1d380745d5\" alt=\"screenshot.jpg\" title=\"screenshot.jpg\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "scuba,diving,decompression,",
+  "LastEdited": "2009-11-01T16:40:58.497-08:00"
+}

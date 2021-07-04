@@ -1,0 +1,9 @@
+{
+  "ProjectName": "surfium",
+  "Title": "Surfium",
+  "Description": "Web browser for MS Surface",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Surfium - Surface browser</b>\n<ul><li>Based on Chris Cavanagh’s <a href=\"http://wpfchromium.codeplex.com/\">WPF Chromium</a></li>\n<li>NUI</li>\n<li>Javascript-C# interaction for active content detecting (links, forms)</li>\n<li><a href=\"http://www.youtube.com/watch?v=EEDjPgoHWKc\">Demo on YT</a></li></ul>\n<br /><img src=\"/projects/surfium/b622a292-4648-4557-b480-d87ddc5ae415\" alt=\"screen_v2_5.png\" title=\"screen_v2_5.png\" /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Surface,WPF Chromium,Awesomium,",
+  "LastEdited": "2010-05-11T01:16:47.177-07:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "voiceCommands",
+  "Title": "WinRT Voice Commands Sample for Cortana integration for WP 8.1",
+  "Description": "Introduction\r\nDuring this coding challenge, you will create a quick clever C# App that will target Windows Phone 8.1 Voice Commands for integrating with Cortana.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Introduction<br />During this coding challenge, you will create a quick clever C&#35; App that will target Windows Phone 8.1 Voice Commands for integrating with Cortana.<br /><b>Quickstart : Voice Commands VoiceSnap Photo Search and Snapshot Sample</b><br />\n<h1>Introduction</h1>\r\nThe goal of this challenge is to discover how to allow users to deep launch your app using Voice Commands.  Your app will use your users’ voice inputs to find tagged photographs on their device, display a specific set requested by the user, and allow your users to use Voice to take more photos—including tagged ones.  This Quick Start will also introduce you to the powerful new PhraseTopic element, which allows the app to take advantage of the Voice Recognition cloud service to relay the recognized utterance.<br /><br /><b>Here are the three steps you will go through:</b><br />1.\tCreate a Voice Command Definition file.<br />2.\tUpdate a simple Windows Phone app to take advantage of Voice Commands<br />3.\tUpdate the app to allow more natural speech by using some of the Voice Command features.\n<h2>Requirements</h2>\r-\tPC running Windows 8.1<br />-\tVisual Studio 2013<br />-\tWindows Phone 8.1 SDK<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Voice Commands,VoiceCommands,Cortana,Windows Phone 8.1,Cortana Integration,",
+  "LastEdited": "2014-04-18T18:07:15.983-07:00"
+}

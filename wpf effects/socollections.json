@@ -1,0 +1,9 @@
+{
+  "ProjectName": "socollections",
+  "Title": "SOCollections",
+  "Description": "Synchronized, observable collections library.\r\nLibrary with some usable collections for WPF and other DataSourced application parts.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Synchronized, observable collections library.<br />Library with some usable collections for WPF and other DataSourced application parts.<br /><br />List of the collections:\n<ul><li>ObservableDictionary&lt;TKey, TValue&gt;</li>\n<li>ObservableSortedList&lt;TKey, TValue&gt;</li>\n<li>SynchronizedObservableCollection&lt;T&gt;</li>\n<li>SynchronizedObservableSortedList&lt;TKey, TValue&gt;</li>\n<li>SynchronizedObservableDictionary&lt;TKey, TValue&gt;</li></ul>\n<br /><img src=\"/projects/socollections/2060d327-2acd-451f-a7ef-e02e0470184f\" alt=\"classes.png\" title=\"classes.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-12-08T23:42:13.773-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "docsasattachments",
+  "Title": "Emailing Files as Attachments in Sharepoint 2010",
+  "Description": "This solution makes it easy for Sharepoint 2010 users to email files as attachments from the Sharepoint Ribbon Menu.\r\n\r\nThe user can select multiple documents at a time, as well as Folders of files and document sets.\r\n\r\nThe form contains fields for external email addresses as well a Sharepoint People Picker for internal users. If you want to exclude either of them, then simply set the containing panel to invisible. This is described in the documentation",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This solution makes it easy for Sharepoint 2010 users to email files as attachments from the Sharepoint Ribbon Menu.<br /><br />The user can select multiple documents at a time, as well as Folders of files and document sets.<br /><br />The form contains fields for external email addresses as well a Sharepoint People Picker for internal users. If you want to exclude either of them, then simply set the containing panel to invisible. This is described in the documentation<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2011-11-19T12:12:47.067-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "opendiagram",
+  "Title": "Open Diagram",
+  "Description": "Open Diagram is the definitive open source .net diagramming component library for the .Net framework winforms environment.\r\n\r\nUse Open Diagram to add interactive data visualizations to your .net applications. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h2>Overview</h2>\r\nOpen Diagram is the definitive open source .net diagramming component library for the .Net framework winforms environment.<br /><br />Use Open Diagram to add interactive data visualizations to your .net applications. <br /><br />Knowledge of design patterns such as Model-View-Controller is highly recommended.<br /><br />The latest version of the source is available from the Source Code tab. Examples are located in the <i>Crainiate.Diagramming.Testing.Forms</i> and the <i>Crainiate.Diagramming.Examples.Forms</i> projects.<br /><br />\n<h2>Licensing</h2>\r\nOpen Diagram is now fully open source using the permissive BSD licence.<br /><br />\n<h2>Getting Started</h2>\r\nView the videos showing how to open the Open Diagram solution in Visual Studio and run the examples and test forms:<br /><br /><a href=\"http://www.youtube.com/watch?v=1prsVl8ks1k\">Open Diagram June 2010 Part 1</a><br /><a href=\"http://www.youtube.com/watch?v=61HqcBilLrg\">Open Diagram June 2010 Part 2</a><br /><br />\n<h2>Previous Versions</h2>\r\nVersion 4.1 of Open Diagram is now available in source control including examples and tutorial code.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "diagram,diagramming,flowchart,control,",
+  "LastEdited": "2017-04-28T02:25:31.727-07:00"
+}

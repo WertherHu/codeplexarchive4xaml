@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ngSharePointApp",
+  "Title": "SharePoint hosted app with AngularJS, a Project Skeleton.",
+  "Description": "A starter project to help SharePoint developers build better structured apps using AngulrJS, MVVM and SharePoint app development's best practices. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>A starter project to help SharePoint developers build apps in a MV* pattern, using AngulrJS' and SharePoint hosted apps' best practices.<br>\r\n<br>\r\nThis project is using&nbsp;Model View View Model (MVVM) pattern for UI development and supports&nbsp;event-driven applications&nbsp;and AngularJS framework&nbsp;to create a SharePoint 2013 Hosted App. &nbsp;</p>\r\n<p>Single Page App (SPA): SPAs, in a nutshell, are web applications that only load one HTML page and all the other content will render as the user interacts with the app. These contents are loaded asynchronously using Ajax avoiding constant page reloads enhancing\r\n the user experience.</p>\r\n<p><strong>Features</strong><br>\r\nMakes&nbsp;REST API calls to a SharePoint list<br>\r\nHas read access to host web.</p>\r\n<p><strong>Project Contents</strong><br>\r\nV1:&nbsp;Basic MVVM project skeleton.&nbsp;</p>\r\n<p><br>\r\n<strong>Contributing</strong><br>\r\nPlease try to contribute to this project by :</p>\r\n<p>This project currently does not have a unit testing component included in it. Please feel free to contribute using either&nbsp;Jasmine or Karma to write your unit tests.</p>\r\n<p><br>\r\n<strong>Legal Stuff:</strong>&nbsp;This project is licensed under Apache License 2.0.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2014-12-09T10:13:07.293-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "carcass",
+  "Title": "Carcass",
+  "Description": "\"Carcass\" project makes it easier creating IDE-like applications similar to Microsoft Visual Studio Shell and SharpDevelop IDE. Its mission is to provide the flexible and extensible infrastructure necessary to create an IDE-based application in WPF with less efforts.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />&#34;Carcass&#34; project makes it easier creating IDE-like applications similar to Microsoft Visual Studio Shell and SharpDevelop IDE. Its mission is to provide the flexible and extensible infrastructure necessary to create an IDE-based application in WPF with less efforts.<br /><br /><br /><b>More details on the project are to be published soon...</b></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,IDE,",
+  "LastEdited": "2009-02-06T13:21:20.1-08:00"
+}

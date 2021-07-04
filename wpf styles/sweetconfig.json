@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sweetconfig",
+  "Title": "SweetConfig - WebDeploy style config transformations",
+  "Description": "SweetConfig transforms config files in the style of WebDeploy,, allowing services etc to have app config transformed on deployment.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">SweetConfig transforms xml files (such has config files) using the same method / formats as WebDeploy. <br />This allows services (and other none web projects) to have their config replaced with environment specific  (i.e. dev, staging) values at deployment time.<br />\n<h1>Usage</h1>\rSweetConfig &quot;parameters.xml filename&quot; &quot;setparameters.xml filename&quot; &quot;source xml filename&quot; &quot;transformed xml filename&quot;<br /><br /><b>parameters.xml</b> : File defines the parameters to be replaced with an xpath location and an optional default value.<br /><b>setparamters.xml</b> : Files defines the value of parameters specified in the parameters.xml.  Each environment would have it&#39;s own setparameters.xml file.<br /><br />See <a href=\"https://sweetconfig.codeplex.com/wikipage?title=http%3a%2f%2fmsdn.microsoft.com%2fen-us%2flibrary%2fff398068%28v%3dvs.110%29.aspx&referringTitle=Home\">http&#58;&#47;&#47;msdn.microsoft.com&#47;en-us&#47;library&#47;ff398068&#40;v&#61;vs.110&#41;.aspx</a> for examples of parameters and setpararmeters xml.<br /> <br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Configuration,Deployment,app.config,.net 4.0,",
+  "LastEdited": "2014-03-19T06:51:43.107-07:00"
+}

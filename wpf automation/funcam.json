@@ -1,0 +1,9 @@
+{
+  "ProjectName": "funcam",
+  "Title": "FunCam",
+  "Description": "A fun application for playing with your webcam.  Experiment with different overlays and exciting effects.  Save the images when you want, or on a timer.  Great fun for parties!  (WPF/C#)\n\nUses WPF Media Kit for webcam integration, and Shazzam for the great shader effects.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Fun software for your webcam -- For free!</b><br />Have fun with your webcam!  Use image overlays or dynamic effects to really enhance the view.  Save your favorite poses, or use it in party mode to capture candid shots on a timer.<br />\n<ul><li>Supports image overlays</li>\n<li>Includes over 25 dynamic effects that manipulate the video</li>\n<li>Allows you to save photos with overlays and effects intact</li>\n<li>Save your photos in one of five formats</li>\n<li>Party mode lets you set a configurable delay to take photos at an interval</li>\n<li>Turn off the camera shutter sound for stealth!</li>\n<li>Best of all, it&#39;s free!</li></ul>\n<br /><a href=\"http&#58;&#47;&#47;funcam.codeplex.com&#47;releases&#47;57085&#47;clickOnce&#47;FunCam.application\"><img src=\"/projects/funcam/a187441a-d2d6-4a52-8a56-6ba53930f477\" alt=\"Download\" title=\"Download\" /></a><br /><br /><img src=\"/projects/funcam/e17d8642-53dc-4071-820a-b50d0718a688\" alt=\"camshot1.png\" title=\"camshot1.png\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "webcam,wpf,DirectX,shadereffect,",
+  "LastEdited": "2010-12-06T23:39:10.26-08:00"
+}

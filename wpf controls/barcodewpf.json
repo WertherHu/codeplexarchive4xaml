@@ -1,0 +1,9 @@
+{
+  "ProjectName": "barcodewpf",
+  "Title": "Barcode WPF",
+  "Description": "BarcodeWPF is pure WPF barcode control, support multi-symbologies and colors, base on barcoderender.codeplex.com",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />BarcodeWPF is pure WPF barcode control, support multi-symbologies and colors, base on <a href=\"http://barcoderender.codeplex.com\">http://barcoderender.codeplex.com</a><br /><br />Currently supported bar-code symbologies:\n<ul><li>Code 11 with or without checksum</li>\n<li>Code 25 standard/interleaved with or without checksum</li>\n<li>Code 39 with or without checksum</li>\n<li>Code 93 with checksum only</li>\n<li>Code 128 with checksum only</li>\n<li>Code EAN 13 with checksum only</li>\n<li>Code EAN 8 with checksum only</li>\n<li>Code QR 2D</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2016-10-22T06:32:46.85-07:00"
+}

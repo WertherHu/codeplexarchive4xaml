@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverCrmLookup",
+  "Title": "Silverlight CRM Lookup Control",
+  "Description": "SilverCrmLookup is a Silverlight user control for CRM 2011 to help improve user experience for silverlight web resources. Contains built in properties that gives Single Lookup or Multi Lookup options and item auto complete options , Filtering ...",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverCrmLookup is a Silverlight user control for CRM 2011 to help improve user experience for silverlight web resources. Contains built in properties that gives Single Lookup or Multi Lookup options and item auto complete options , Filtering ...<br /><br /><b>Dependencies</b>\n<ul><li>SilverCrmSoap</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "crm,Silverlight,CRM 2011,lookup,Silverlight Controls,Silverlight Library,lookup control,Custom Controls,Custom Lookup Field,autocomplete,Filtered Lookup,",
+  "LastEdited": "2012-05-24T08:15:30.97-07:00"
+}

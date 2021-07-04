@@ -1,0 +1,9 @@
+{
+  "ProjectName": "W3CValidatorClient",
+  "Title": "W3C API Validator Client",
+  "Description": "W3C API validator client library with source codes and sample application",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<ul>\r\n<li><span style=\"font-size:10pt\">W3C API client for HTML markup validation which is perfect for web UI automation, accessibility and cross browser testing</span>\r\n</li><li>Can test external URL (check sample) </li><li>Can test HTML source (check sample) </li><li><span style=\"font-size:10pt\">Based on public API&nbsp;http://validator.w3.org/docs/api.html</span>\r\n</li><li><span style=\"font-size:10pt\">Does not require local server installation</span>\r\n</li><li><span style=\"font-size:10pt\">DLL can be integrated in test application</span>\r\n</li><li><span style=\"font-size:10pt\">Source code in C# can be tuned for special tasks to consume locally installed W3C server</span>\r\n</li></ul>\r\n<p>Sample usage</p>\r\n<p><em>var result = Validator.Client.Check(new Uri(&quot;http://www.bing.com&quot;, UriKind.Absolute));</em></p>\r\n<p><em>if(!result.Validity)</em><br>\r\n<em>{</em><br>\r\n<em>&nbsp; &nbsp;.... Show errors.... result.Errors</em><br>\r\n<em><span style=\"font-size:10pt\">}&nbsp;</span></em></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "w3c,validator,html,automation,test,html5,soap,api,",
+  "LastEdited": "2013-01-20T13:56:55.76-08:00"
+}

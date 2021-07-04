@@ -1,0 +1,9 @@
+{
+  "ProjectName": "videocommander",
+  "Title": "Video Commander",
+  "Description": "VideoCommander is a control interface for vlc player. It enables users to create play lists with start- and stop time and to play videos on a specified display.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Note: the project lives on github, now:</b> <a href=\"https://github.com/feg-giessen/videocommander\">https://github.com/feg-giessen/videocommander</a><br /><br /><br /><b>Project Description</b><br />VideoCommander is a control interface for vlc player. It enables users to create play lists with start- and stop time and to play videos on a specified display.<br /><br />The user interface is available in <b>German (default) and English</b>.<br /><br /><img src=\"/projects/videocommander/3623e9dd-fbd7-436f-bd0e-1deed9e4fc62\" alt=\"screen1.PNG\" title=\"screen1.PNG\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "video,vlc,Events,theater,Church,",
+  "LastEdited": "2012-12-16T05:23:03.113-08:00"
+}

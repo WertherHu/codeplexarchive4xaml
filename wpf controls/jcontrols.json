@@ -1,0 +1,9 @@
+{
+  "ProjectName": "jcontrols",
+  "Title": "jControls",
+  "Description": "jControls wrap jQuery and various jQuery plugins inside of .NET controls.  This makes it much easier to use jQuery with .NET since you don't have to know the sometimes nebulous ClientID of the control at runtime.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />jControls wrap jQuery and various jQuery plugins inside of .NET controls.  This makes it much easier to use jQuery with .NET since you don&#39;t have to know the sometimes nebulous ClientID of the control at runtime.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-06-30T14:48:28.917-07:00"
+}

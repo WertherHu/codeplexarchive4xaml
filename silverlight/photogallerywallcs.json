@@ -1,0 +1,9 @@
+{
+  "ProjectName": "photogallerywallcs",
+  "Title": "Photo Gallery Wall C#",
+  "Description": "The original Photo Gallery Wall application was created by Jeffrey Paries (http://designwithsilverlight.com/2008/01/31/photo-gallery-wall). It was written using Microsoft Silverlight 1.0 and JavaScript, but works for Silverlight 2. \nThis version is written in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Silverlight Application: Photo Gallery Wall in C#<br /><br />The original version of Photo Gallery Wall was created by Jeff Paries. Though this application was based on Microsoft Silverlight 1.0 and JavaScript, it works in Silverlight 2. This C# version involves converting the JavaScript code to C# while the visual designs are kept unchanged.<br /><br />The source code of the original application is available for download at http://designwithsilverlight.com/2008/01/31/photo-gallery-wall, thanks to Jeff for his great work in putting together this creative application.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-03-06T09:05:41.977-08:00"
+}

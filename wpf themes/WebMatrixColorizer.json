@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WebMatrixColorizer",
+  "Title": "WebMatrixColorizer",
+  "Description": "WebMatrix 2.0 supports code color theming but uses a different .XML file than Visual Studio's. This simple app converts a .vssettings file into a color scheme importable by WebMatrix. Export from VS or download from StudioStyl.es, then convert and import. Want a dark theme? Easy!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />WebMatrix 2.0 supports code color theming but uses a different .XML file than Visual Studio&#39;s. This simple app converts a .vssettings file into a color scheme importable by WebMatrix. Export from VS or download from StudioStyl.es, then convert and import. Want a dark theme&#63; Easy&#33;<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-15T19:17:17.903-07:00"
+}

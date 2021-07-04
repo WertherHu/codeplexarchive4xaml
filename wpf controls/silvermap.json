@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silvermap",
+  "Title": "SilverMap - A Silverlight Tile Map using WriteableBitmap for Games",
+  "Description": "SilverMap is Silverlight/WriteableBitmap based tile map/editor useful for game development. Tiles are placed in layers and rather than the typical grid. The tiles can be placed at random throughout the map. Each layer is draw over the other and opacity can be applied to any tile.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />SilverMap is Silverlight&#47;WriteableBitmap based tile map&#47;editor useful for game development. Tiles are placed in layers and rather than the typical grid. The tiles can be placed at random throughout the map. Each layer is draw over the other and opacity can be applied to any tile.<br /><br /><b>SilverMap is still in an alpha phase so the editor or map may contain bugs, who I am kidding, they will contain bugs so use at your own risk!</b><br /><br />The SilverMap control library makes use of the <a href=\"http://writeablebitmapex.codeplex.com\">WriteableBitmapEx</a> library. Be sure to download the source for the  <a href=\"http://writeablebitmapex.codeplex.com\">WriteableBitmapEx</a> before attempting to compile the solution.<br /><br />The tiles used in the editor/sample application are <a href=\"http://lostgarden.com/2007/05/dancs-miraculously-flexible-game.html\">Danc&#39;s Miraculously Flexible Game Prototyping Tiles</a>.<br /><br /><a href=\"http://silvermap.codeplex.com/documentation\">Getting Started and Setup</a><br /><br /><img src=\"/projects/silvermap/d9f59633-0f87-4bd8-bd6e-96c924bfc933\" alt=\"SilverMap&#32;Editor\" title=\"SilverMap&#32;Editor\" /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Games,Silverlight control,game,game components,game development,",
+  "LastEdited": "2009-12-17T18:22:02.31-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "sleepManager",
+  "Title": "Sleep Manager",
+  "Description": "Win-based service for controlling time.\r\nC# .net 4.5",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Sleep Manager</h1>\r<h2>- is a simple util for controlling time of using computer.</h2>\r\nThis Util build as Windows Service, and at specifying &#39;dream&#39; time it will block mouse and keyboard and show annoying message &#39;YOU MUST GO TO THE BED!&#39;<br /><br />Certainly user can disable mouse and keyboard blocking by CTRL-ALT-DEL, but after 5 min (for example, also specified by user) that operation will be repeated</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-12-30T03:17:21.947-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "YuiDotNet",
+  "Title": "Yahoo User Interface Web Controls for Asp.Net",
+  "Description": "A library of web controls which wrap the functionality of the Yahoo! User Interface Library.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />A library of web controls which wrap the functionality of the Yahoo&#33; User Interface Library.<br /><br /><b>Project example site live:</b><br /><a href=\"http://yuidotnet.qsh.eu/\">www.yuidotnet.qsh.eu</a><br /><br />Currently, the following YUI controls are supported:<br /><a href=\"http://developer.yahoo.com/yui/button/\">Button</a><br /><a href=\"http://developer.yahoo.com/yui/calendar/\">Calendar</a><br /><a href=\"http://developer.yahoo.com/yui/container/panel/\">Panel</a><br /><a href=\"http://developer.yahoo.com/yui/container/tooltip/\">Tooltip</a><br /><a href=\"http://developer.yahoo.com/yui/logger/\">Logger</a><br /><a href=\"http://developer.yahoo.com/yui/menu/\">Menu</a><br /><a href=\"http://developer.yahoo.com/yui/tabview/\">TabView</a><br /><br /><b>2/20/2008 - Announcement</b><br />I am suspending development on this project for now. I just can&#39;t keep up with the pace of improvement made by the YUI team and I don&#39;t have the time or resources to work on this project. Please feel free to contact me via my blog if you have any interest in working on the project. More details here: <a href=\"http://blog.spontaneouspublicity.com/2008/02/20/yui-i-officially-cant-keep-up/\">http://blog.spontaneouspublicity.com/2008/02/20/yui-i-officially-cant-keep-up/</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Controls,Library,YUI,cool,webcontrols,Yahoo WebControls,",
+  "LastEdited": "2008-03-14T15:28:04.033-07:00"
+}

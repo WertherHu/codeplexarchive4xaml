@@ -1,0 +1,9 @@
+{
+  "ProjectName": "kinectdepthsmoothing",
+  "Title": "Kinect Depth Smoothing",
+  "Description": "Removes noise from the Kinect Depth Frames in real-time using pixel filters and weighted moving average technique",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Removes noise from the Kinect Depth Frames in real-time using pixel filters and weighted moving average techniques.<br /><br />More here: <a href=\"http://www.codeproject.com/Articles/317974/KinectDepthSmoothing\">http://www.codeproject.com/Articles/317974/KinectDepthSmoothing</a><br /><br />This uses version 1.7 of the Kinect for Windows SDK: <a href=\"http://www.microsoft.com/en-us/kinectforwindows/develop/developer-downloads.aspx\">http://www.microsoft.com/en-us/kinectforwindows/develop/developer-downloads.aspx</a><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Kinect,WPF,DepthFrame,Smoothing,",
+  "LastEdited": "2013-03-25T06:59:09.687-07:00"
+}

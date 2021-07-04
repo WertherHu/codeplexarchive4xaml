@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ExceptionViews",
+  "Title": "ExceptionViews",
+  "Description": "This is a WinForms project that shows exception information. You can use either the control or a dialog window. The main reason I published this project is due to other projects I have that have a dependency on this code. It's not the prettiest code I've ever written, but it's functional!",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><img src=\"/projects/ExceptionViews/dec82760-d152-47ce-be89-f4b7afe979dd\" alt=\"example.png\" title=\"example.png\" /><br /><br /><b>Project Description</b><br />This is a WinForms project that shows exception information. You can use either the control or a dialog window. The main reason I published this project is due to other projects I have that have a dependency on this code. It&#39;s not the prettiest code I&#39;ve ever written, but it&#39;s functional! </div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,winforms,Reflection,",
+  "LastEdited": "2008-01-17T17:06:41.98-08:00"
+}

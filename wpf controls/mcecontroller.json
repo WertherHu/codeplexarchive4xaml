@@ -1,0 +1,9 @@
+{
+  "ProjectName": "mcecontroller",
+  "Title": "MCEController",
+  "Description": "MCEController is a Blackberry application to control the Microsoft Media Center. It uses VMCController as a backend on the Windows side (also available on Codeplex). MCEController makes of of the OS 5.0 APIs and WIFI, so it´s only usable on devices like the Curve or the Bold.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />MCEController is a Blackberry application to control the Microsoft Media Center. It uses VMCController as a backend on the Windows side &#40;also available on Codeplex&#41;. MCEController makes of of the OS 5.0 APIs and WIFI, so it&#180;s only usable on devices like the Curve or the Bold.<br /><br /><b>Help Wanted</b><br />You are welcome to participate in this project. Drop me a line if you are interested.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-11-22T11:39:00.757-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "LYBPager",
+  "Title": "Stored Procedure Pager",
+  "Description": "Stored Procedure Pager is an open source asp.net/mvc user pager control.The most important feature is support for Stored Procedure.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rStored Procedure Pager is an open source asp.net&#47;mvc user pager control.The most important feature is support for Stored Procedure.<br /><br />the appearance of application like this:<br /><img src=\"/projects/LYBPager/9ac9810f-e332-4b7b-a54a-9297c74e731e\" alt=\"main.jpg\" title=\"main.jpg\" /><br />\n<h1>Main feature</h1>\r1 Client can use custom stored procedure or the default stored procedure named  &quot;.LYBPager&quot;.<br />2 Support jquery ajax and general html.<br />3 Support asp.net MVC 3.0 OR later<br />\n<h1>First Sight</h1>\r<img src=\"/projects/LYBPager/21c0b41e-a3a7-4aa3-ad6c-484dee7695ac\" alt=\"1.jpg\" title=\"1.jpg\" /><br /><img src=\"/projects/LYBPager/eca52ac7-b320-431c-84b7-487d0096d38d\" alt=\"2.jpg\" title=\"2.jpg\" /><br />\n<h1>Links</h1>\rBlog:<a href=\"http://www.cnblogs.com/DotCpp\">http://www.cnblogs.com/DotCpp</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "ASP.NET,Pager,",
+  "LastEdited": "2013-06-26T02:55:29.67-07:00"
+}

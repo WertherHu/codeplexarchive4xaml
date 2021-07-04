@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SilverlightMediator",
+  "Title": "Silverlight Mediator",
+  "Description": "This code sample implements Mediator design pattern in Silverlight. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This code sample implements Mediator design pattern in Silverlight. <br /><br />The Mediator design pattern is briefly described <a href=\"http://en.wikipedia.org/wiki/Mediator_pattern\">here</a> and can be represented by following UML class diagram:<br /><br /><img src=\"http://upload.wikimedia.org/wikipedia/en/0/08/MediatorClassDiagram.png\" /><br /><br />In this implementation, three loosely coupled Silverlight applications are hosted on the same page and communicate with each other by raising the events which trigger actions in other Silverlight applications subscribed to these events through <a href=\"http://en.wikipedia.org/wiki/Mediator_pattern\">Mediator</a>. Separate (possibly invisible) Silverlight application could serve as a Mediator or, as shown in this sample, Mediator could be one of these applications interacting with each other as long as others know its name. Mediator doesn&#39;t have to know anything about other Silverlight applications communicating through it but merely expose and register itself on the page. <br /><br /><img src=\"http://blogs.msdn.com/photos/ales/images/9145568/original.aspx\" /><br /><br />This sample is compatible with SharePoint 2007 and can help in implementing Mediator design pattern with SharePoint web parts.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,design patterns,Visual Studio,C#,",
+  "LastEdited": "2008-11-26T22:14:29.807-08:00"
+}

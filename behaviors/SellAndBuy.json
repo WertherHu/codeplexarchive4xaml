@@ -1,0 +1,9 @@
+{
+  "ProjectName": "SellAndBuy",
+  "Title": "SellAndBuy (Domain Driven Design sample using .Net 4.0)",
+  "Description": "Domain Driven Design (DDD)\r\nBehavior Driven Design (BDD)\r\nTest Driven Design (TDD)\r\n.Net 4.0\r\nNHibernate\r\nSpecFlow\r\nNUnit\r\nNSubstitute\r\nMVC 3 Razor Engine\r\nWCF\r\nNLayer",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong></p>\r\n<p>Sample .Net 4.0 application implemented used for developing complex business applications using Domain Driven Design and Agile Practices, the sample is still in initial phase.</p>\r\n<p>You will find initial fictional requirements (User Stories) in Documentation tab.\r\n<strong></strong></p>\r\n<p>Feel free to discuss any details of implementation, this is intended to be a community project for elaborating applying domain driven design.</p>\r\n<p>Details&nbsp;of implementation will be described in my <a title=\"Blog\" href=\"http://moh-abed.com\" target=\"_blank\">\r\nblog</a>.&nbsp;</p>\r\n<p>Note: Many concept implemented in this application are taken from other open source projects like (<a href=\"http://microsoftnlayerapp.codeplex.com/\">http://microsoftnlayerapp.codeplex.com</a>).</p>\r\n<p><strong>Technologies &amp; Practices Used</strong></p>\r\n<p>Domain Driven Design (DDD) <br>\r\nBehavior Driven Design (BDD) - Specflow <br>\r\nTest Driven Design (TDD) - NUnit <br>\r\n.Net 4.0 <br>\r\nNHibernate</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "DDD,Domain Driven Design,.NET 4.0,bdd,TDD,dependency injection,unity,NHibernate,",
+  "LastEdited": "2011-07-21T05:49:25.44-07:00"
+}

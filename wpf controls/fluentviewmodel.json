@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fluentviewmodel",
+  "Title": "Fluent ViewModel Configuration for WPF (MVVM)",
+  "Description": "\nFluent MVVM Configuration for WPF. A powerful yet simple interface for configuring view models for WPF.  \nEliminates INotifyPropertyChanged duplication. Provides support for automatic ICommand wiring. \n\nC#, .NET4, VS2010.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />Fluent MVVM Configuration for WPF. A powerful yet simple interface for configuring view models for WPF.  <br />Eliminates INotifyPropertyChanged duplication. Provides support for automatic ICommand wiring. <br /><br />C&#35;, .NET4, VS2010.<br /><br /><b>Features</b><br />\n<ul><li>Enhances testability of controllers, commands and view models.</li>\n<li>Fluent interface for view model and controller configuration.</li>\n<li>Define view models using interfaces only.</li>\n<li>Automatically wire controller methods to respond to ICommand.</li>\n<li>Configure INotifyPropertyChanged for view model properties in configuration only. Zero implementation code!</li>\n<li>View model activation via WPF markup extension.</li>\n<li>View model validation using the FluentValidation library (<a href=\"http://fluentvalidation.codeplex.com/\">http://fluentvalidation.codeplex.com/</a>)</li>\n<li>IoC friendly.</li></ul>\n<br /><b>Planned Features</b><br />\n<ul><li>Binding view models to one or more models</li>\n<li>Dispatch commands to multiple different controllers</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,Fluent Interface,MVVM,C#,.NET 4.0,INotifyPropertyChang,ICommand,viewmodel,Fluent,",
+  "LastEdited": "2010-04-26T01:03:26.447-07:00"
+}

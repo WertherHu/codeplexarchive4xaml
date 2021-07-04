@@ -1,0 +1,9 @@
+{
+  "ProjectName": "fingertip",
+  "Title": "Fingertip detection via OpenNI",
+  "Description": "\"Fingertip Detection\" prject is intended to give usual PC user availability to control PC unsing only hand and finger gestures.\r\nProject is built on .NET framework.\r\nUsed technologies :\r\n 1. OpenNI\r\n 2. NITE\r\n 3. EmguCV",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>&quot;Fingertip Detection&quot; prject is intended to give usual PC user availability to control PC unsing only hand and finger gestures.<br>\r\nProject is built on .NET framework.<br>\r\nUsed technologies :<br>\r\n1. OpenNI<br>\r\n2. NITE<br>\r\n3. EmguCV</p>\r\n<p><img src=\"https://lh6.googleusercontent.com/-rmQ7kXQGbLo/Tr_NBS3JayI/AAAAAAAAAMU/jLy1E4t4nNk/s545/fingertip.jpg\" alt=\"Fingertips detected \" width=\"545\" height=\"468\" style=\"vertical-align:text-top\"><br>\r\nYou can find more information in http://3dkinect.blogspot.com/</p>\r\n<p>On the basis of this program, we have created Kinect mouse emulator, which can be freely downloaded from&nbsp;<a href=\"http://tiptep.com/index.php/products\">http://tiptep.com/index.php/products</a>.</p>\r\n<p>The source code of the program is not yet available, but we are planning to publish it in the near future.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-06T08:18:59.047-08:00"
+}

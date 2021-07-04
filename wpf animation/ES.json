@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ES",
+  "Title": "Dolphins Education System",
+  "Description": "Application for manage trainings and  courses on some discipline. Server side: IIS, WCF, MS SQL Server 2008 (NHibernate for data access). Client side: ASP.NET MVC, WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><h1>Project Description</h1>\rApplication for manage trainings and  courses on some discipline. Server side&#58; IIS, WCF, MS SQL Server 2008 &#40;NHibernate for data access&#41;. Client side&#58; ASP.NET MVC, WPF.<br />\n<h2>Project use cases</h2>\r<ul><li><a href=\"https://es.codeplex.com/wikipage?title=Web%20part&referringTitle=Home\">Web part</a></li></ul>\n\n<h2>Application architecture</h2>\r<ul><li><a href=\"https://es.codeplex.com/wikipage?title=Database%20structure&referringTitle=Home\">Database structure</a></li></ul>\n\n<h2>Work with source code of project</h2>\r<ul><li><a href=\"https://es.codeplex.com/wikipage?title=Create%20Database&referringTitle=Home\">Create Database</a></li>\n<li><a href=\"https://es.codeplex.com/wikipage?title=Build%20project%20NAnt&referringTitle=Home\">Build project NAnt</a></li>\n<li><a href=\"https://es.codeplex.com/wikipage?title=NUnit%20tests&referringTitle=Home\">NUnit tests</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2009-02-14T17:12:43.587-08:00"
+}

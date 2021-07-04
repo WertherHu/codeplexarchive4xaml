@@ -1,0 +1,9 @@
+{
+  "ProjectName": "scheduling",
+  "Title": "Lightweight Task Scheduling for .NET / Silverlight",
+  "Description": "A lightweight task scheduling library that allows you to easily schedule the invocation of callback methods at specified times or intervals. Supports .NET 3.5 and Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br /><br />A lightweight task scheduling library that allows you to easily schedule the invocation of callback methods at specified times or intervals. Supports .NET 3.5 and Silverlight.<br /><br />The library allows you to include flexibule scheduling functionality into your application with just a few lines of code, and provides a fluent API to configure jobs:<br /><br /><pre>\nprivate Scheduler scheduler = new Scheduler();\n\nprivate void CreateJob()\n{\n  DateTime startTime = ...;\n  DateTime expirationTime = ...;\n  \n  //create job that executes every 1.5 seconds until it expires\n  Job job = new Job(&quot;Job 1&quot;);\n  job.Run.From(startTime).Every.Seconds(1.5).Until(expirationTime);\n\n  //submit to scheduler\n  scheduler.SubmitJob(job, OnJobExecution);\n}\n\n\n//the callback handler that is invoked every time the job is due\nprivate void OnJobExecution(Job job)\n{\n  //process job\n  ...\n\n  //the job can be aborted directly via the callback method\n  if (...)\n  {\n    job.Cancel();\n  }\n}\n\n</pre><br /><b>Samples and a description of the API can be found in this blog post:</b><br /><b><a href=\"http://www.hardcodet.net/2010/01/lightweight-task-slash-job-scheduling-with-silverlight-support\">http://www.hardcodet.net/2010/01/lightweight-task-slash-job-scheduling-with-silverlight-support</a></b><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Scheduling,",
+  "LastEdited": "2010-01-13T02:34:16.943-08:00"
+}

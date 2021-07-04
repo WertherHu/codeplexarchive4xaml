@@ -1,0 +1,9 @@
+{
+  "ProjectName": "doq",
+  "Title": "doq",
+  "Description": "An embedded document database that persists to isolated storage, compatible with .NET, .NET Compact Framework, Silverlight and Windows Phone 7.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><div class=wikidoc><b>Project Description</b>    <br>An embedded document database that persists to isolated storage, compatible with .NET, .NET Compact Framework, Silverlight and Windows Phone 7.</div>  <div class=wikidoc>&#160;</div>  <div class=wikidoc>Indexing provided by Lucene.NET.</div>  <div></div></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-08-20T11:26:53.317-07:00"
+}

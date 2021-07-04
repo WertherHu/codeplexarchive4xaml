@@ -1,0 +1,9 @@
+{
+  "ProjectName": "hudsonmonitor",
+  "Title": "Hudson build monitor",
+  "Description": "Simple WPF application that monitors your Hudson build server.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Hudson Build Monitor</b><br /><br />Just a simple WPF project that monitors your Hudson build server.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-11-12T04:01:20.98-08:00"
+}

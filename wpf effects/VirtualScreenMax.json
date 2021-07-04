@@ -1,0 +1,9 @@
+{
+  "ProjectName": "VirtualScreenMax",
+  "Title": "VirtualScreenMaximizer",
+  "Description": "Small utility that maximizes user's windows over the entire virtual screen area (that is, all monitors). It registers configurable hotkeys and runs in the traybar. Pretty cool effect on VS 2005 - I recommend it.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Small utility that maximizes user&#39;s windows over the entire virtual screen area &#40;that is, all monitors&#41;. It registers configurable hotkeys and runs in the traybar. Pretty cool effect on VS 2005 - I recommend it.<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "VirtualScreen,Maximize,",
+  "LastEdited": "2008-12-05T17:41:11.943-08:00"
+}

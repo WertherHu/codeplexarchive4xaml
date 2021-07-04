@@ -1,0 +1,9 @@
+{
+  "ProjectName": "DMmodelTreeView",
+  "Title": "MS DataMining Model content in TreeView control",
+  "Description": "DMmodelTreeView is a sample about using ADOMD.NET to extract information from a Data Mining model data set and present it using .NET Form controls.",
+  "MovedLink": "https://github.com/juanpablojofre/DMmodelTreeView",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />DMmodelTreeView is a sample about using ADOMD.NET to extract information from a Data Mining model data set and present it using .NET Form controls.<br /><br />This sample c# application was created as a request to document how to access information from MS Analysis Services Data Mining models using ADOMD.NET.<br /><br /><img src=\"/projects/DMmodelTreeView/9360e559-3db8-4f8b-926a-9e624eea3500\" alt=\"TreeViewDataMiningModelData.jpg\" title=\"TreeViewDataMiningModelData.jpg\" /><br /><br />Most of the sample deals with handling the user interface, validating input values and creating the hierarchical structure, for the TreeView control, from the data mining model data. The ADOMD.NET code used here is about 5 lines of code.<br /><br /><br />Hope you find the sample useful!!<br /><br />Best regards,<br /><br />JuanPablo</div><div class=\"ClearBoth\"></div>",
+  "TagList": "ADOMD,ADOMD.NET,C#,DataMining,Data Mining,",
+  "LastEdited": "2011-04-16T13:44:40.19-07:00"
+}

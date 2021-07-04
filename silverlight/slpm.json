@@ -1,0 +1,9 @@
+{
+  "ProjectName": "slpm",
+  "Title": "Silverlight Printer Map",
+  "Description": "This printer map makes it easier for an end user in an enterprise to find and install networked printers. The end user need only find the closest printer on the map of the organization, click on it once and it then allow the program to map the printer, install the driver and set it as default printer. It's developed in C#\r\n\r\nThe backend of this program relies on SharePoint 2010 libraries.  See documentation for further information.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">     This project was a collaboration by several CAT students to make a easy and hassle free way to install printers in a large-scale environment lacking a print server. It was then adapted to fit the layout at CAT.  It references several lists and libraries to make it as automated as possible in the time allotted. The key aspect of this project was to make it user friendly as well as only sharepoint reliant.   </div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-04-04T19:00:49.517-07:00"
+}

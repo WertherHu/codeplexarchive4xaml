@@ -1,0 +1,9 @@
+{
+  "ProjectName": "silverlightsudoku",
+  "Title": "Silverlight Sudoku (2010)",
+  "Description": "This is a Silverlight 4 interactive Sudoku game, full source included.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This is a Silverlight 4 interactive Sudoku game, full source included.<br /><br />The implementation uses a Mediator class to construct and manage the presentation of a Sudoku puzzle.  The solution technique is brute force recursion and generally takes about 1 second for any given puzzle.<br /><br />The application has been deployed here <a href=\"http://londonelegance.com/tyburn-consultancy/sudoku/\">http://londonelegance.com/tyburn-consultancy/sudoku/</a><br /><br />Screen shot...<br /><img src=\"http://www.londonelegance.com/tyburn-consultancy/wpf/images/sudoku.jpg\" /><br /><br /><br /><br /><br />Author:  Garry Vass (WPF/Silverlight Specialist)<br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight,Sudoku,C# 4.0,brute force,Silverlight 4,Silverlight Sudoku,puzzle,game,tyburn consultancy,",
+  "LastEdited": "2011-11-23T04:10:24.593-08:00"
+}

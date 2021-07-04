@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfdatagridformat",
+  "Title": "WPF Datagrid Conditional Formatting",
+  "Description": "The conditional formatting library allows the formatting of several datagrid elements based on given conditions. It currently works with the datagrid control of the WPF Toolkit and is written entirely in C#.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />The conditional formatting library allows the formatting of several datagrid elements based on given conditions. It currently works with the datagrid control of the WPF Toolkit and is written entirely in C&#35;.<br /><br />For information about installing and using the library have a look at: <a href=\"http://wpfdatagridformat.codeplex.com/documentation\">http://wpfdatagridformat.codeplex.com/documentation</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WPF Toolkit,DataGrid,formatting,conditional,",
+  "LastEdited": "2011-05-17T07:52:02.34-07:00"
+}

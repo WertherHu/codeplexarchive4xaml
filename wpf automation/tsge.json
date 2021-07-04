@@ -1,0 +1,9 @@
+{
+  "ProjectName": "tsge",
+  "Title": "Terraria Save Game Editor",
+  "Description": "TSGE, Terraria Save Game Editor, allows users to modify save game files for the popular game, Terraria.\r\n\r\nTSGE is written in C# using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p>TSGE for Terraria 1.3.0.x is now released on the EliteMMO Network here:<br>\r\n<a href=\"http://www.elitemmonetwork.com/forums/\">http://www.elitemmonetwork.com/forums/</a></p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-07-04T21:20:00.11-07:00"
+}

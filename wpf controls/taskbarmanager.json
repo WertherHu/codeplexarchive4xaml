@@ -1,0 +1,9 @@
+{
+  "ProjectName": "taskbarmanager",
+  "Title": "Task Bar Manager",
+  "Description": "The WinForm .NET application that allow user to control Windows system's task bar.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Task Bar Manager</b><br /><br />A simple WinForm .NET application with which user can \n<ul><li>show the normal or auto-hiding Windows task bar </li>\n<li>hide the task bar</li>\n<li>set its auto hiding property</li>\n<li>set its on top of all property (not supported in such systems as Windows 8.x)</li></ul>\n<br />It is especially useful for some Windows 8 tablets when used in tablet mode and task bar&#39;s auto hide mode is on.<br />It becomes handy if it&#39;s been added to the desktop or start screen (depending on the user&#39;s preference) and when the hidden task bar needs to be raised the user just launches the app (from desktop or start screen) and clicks the &#39;Show ...&#39; button.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "Utilities,",
+  "LastEdited": "2015-02-02T16:53:23.997-08:00"
+}

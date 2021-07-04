@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wpfentityobjecteditform",
+  "Title": "Editing EntityObject on WPF",
+  "Description": "This project consist on a simple xaml and a class.\r\n\r\nThe xaml is used to create a Grid where the content will be displayed. All the items will be added in code-b",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Editing EntityObject with WPF Form</strong><br>\r\n<br>\r\n<br>\r\n<br>\r\nThis project consist on a simple xaml and a class.</p>\r\n<p>The xaml is used to create a Grid where the content will be displayed. All the items will be added in code-behind.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,EntityObject,Editing,Edit,Database,ADO.Net,C#,Reflection,System.Reflection,Editor,",
+  "LastEdited": "2013-10-11T23:41:56.283-07:00"
+}

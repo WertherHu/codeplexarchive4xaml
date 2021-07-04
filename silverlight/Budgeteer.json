@@ -1,0 +1,9 @@
+{
+  "ProjectName": "Budgeteer",
+  "Title": "Budgeteer",
+  "Description": "Budgeteer - Definition from the Merriam-Webster Online Dictionary:\n\n1  : one who prepares a budget   \n2  : one who is restricted to a budget  \n\nA simple Silverlight application intended to assist in preparing a family budget. \nIt parses a credit card transaction file and automates categorization of the charges.\n",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Budgeteer - Definition from the Merriam-Webster Online Dictionary&#58;<br /><br />1  &#58; one who prepares a budget   <br />2  &#58; one who is restricted to a budget  <br /><br />A simple Silverlight application intended to assist in preparing a family budget. <br />It parses a credit card transaction file and automates categorization of the charges.<br /><br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Silverlight 2.0,budget,",
+  "LastEdited": "2008-10-19T01:03:21.613-07:00"
+}

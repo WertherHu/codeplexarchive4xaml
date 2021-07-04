@@ -1,0 +1,9 @@
+{
+  "ProjectName": "RazorReports",
+  "Title": "Razor Reports - a Visualizer for the DotNetNuke Reports Module",
+  "Description": "Razor Reports is a visualizer plugin for the DotNetNuke Reports module. In addition to HTML and XSLT templates, Razor Results allows to develop templates in C#/VB Razor syntax. It integrates the script editor and the settings controls from DotNetNuke Razor Host Module.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Razor Reports is a visualizer plugin for the DotNetNuke Reports module. In addition to HTML and XSLT templates, Razor Results allows to develop templates in C&#35;&#47;VB Razor syntax. It integrates the script editor and the settings controls from DotNetNuke Razor Host Module.<br /><br />This is an entry of the DotNetNuke Razor Hackethon. <br />This plugin can also be seen as blueprint for further integrations into other DotNetNuke extensions like Form and List or the XML module.<br /><img src=\"http://cullnet.de/Portals/0/RazorTeaser.png\" /><br /><br />I also prepared a demo page at <a href=\"http://cullnet.de/razorreports\">http://cullnet.de/razorreports</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-12-14T01:53:21.803-08:00"
+}

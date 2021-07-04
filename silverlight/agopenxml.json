@@ -1,0 +1,9 @@
+{
+  "ProjectName": "agopenxml",
+  "Title": "Ag.OpenXML",
+  "Description": "Ag.OpenXMLs a project that aimes at making it possible and easy to create OpenXML documents in Silverlight.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Ag.OpenXMLs a project that aimes at making it possible and easy to create OpenXML documents in Silverlight.<br /><br /><br /><b>Welcome to the home of Ag.OpenXML</b><br /><br />Ag.OpenXML is a small library that makes it possible to create OpenXML documents from Silverlight. The current version of the livrary supports limited WordprocessingML features. The plan is obviously to keep building on the library, but I&#39;m going to be honest and admit that I have limited time to spend on this project. It is however available for you here so that you can extend it. Either by downloading the source and modifying/adding to it, or by downloading the binaries and extending the functionality in your own project.<br /><br />If you have any questions, send me an e-mail on chris@59north.com</div><div class=\"ClearBoth\"></div>",
+  "TagList": "openxml,silverlight,Mirshahreza,",
+  "LastEdited": "2010-02-09T00:16:00.147-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "krystal",
+  "Title": "Krystal POS",
+  "Description": "Krystal POS\r\n\r\nPoint of Sale Software with Dynamics AX 2009 provider.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Point of sales application for Microsoft Dynamics AX (Axapta)<br /><br />Language : C#<br /><br />Frameworks : .Net 3.5, WCF, WPF, Composite Application Library(<a href=\"http://compositewpf.codeplex.com/\">http://compositewpf.codeplex.com/</a>), Entreprise Library (<a href=\"http://www.codeplex.com/entlib\">http://www.codeplex.com/entlib</a>)<br /><br />This application uses Foxit reader for PDF printing. Download from  <a href=\"http://www.foxitsoftware.com/pdf/reader/\">http://www.foxitsoftware.com/pdf/reader/</a><br /><br /> <br /><br />This project is not even in alpha state do not use yet.<br /><br /><br /><br />French:<br /><br />Logiciel point de vente pour Microsoft Dynamics AX.<br /><br />Cette application utilise Foxit reader pour imprimer les documents PDF. T&#233;l&#233;charger le sur le site <a href=\"http://www.foxitsoftware.com/pdf/reader/\">http://www.foxitsoftware.com/pdf/reader/</a><br /><br />Ce projet est dans un &#233;tat pr&#233;-alpha donc ne pas l&#39;utiliser encore.</div><div class=\"ClearBoth\"></div>",
+  "TagList": "WPF,WCF,PDF,Dynamics AX,POS,Enterprise Library,Prism,C#,X++,Business Connector,Point of Sale,Invoice,Packing Slip,Krystal POS,Axapta,",
+  "LastEdited": "2009-07-29T23:32:14.32-07:00"
+}

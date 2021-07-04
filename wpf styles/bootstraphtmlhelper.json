@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bootstraphtmlhelper",
+  "Title": "Bootstrap HtmlHelper",
+  "Description": "Bootstrap HtmlHelper adds extensions to the ASP.net MVC HtmlHelper class to support Bootstrap's HTML and CSS style of layout.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Bootstrap HtmlHelper adds extensions to the ASP.net MVC HtmlHelper class to support Bootstrap&#39;s HTML and CSS style of layout.<br /><br />Currently adds extensions for ASP.net MVC 3 and supports <a href=\"http://twitter.github.com/bootstrap/\">Bootstrap 2.0.3</a>.<br /><br /><b>Implemented Controls</b>\n<ul><li>Text Box Input</li>\n<li>Password Input</li>\n<li>Check Box</li>\n<li>Radio Button</li>\n<li>Validation Summary</li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "bootstrap,HtmlHelpers,ASP.NET MVC,HtmlHelper,",
+  "LastEdited": "2012-06-18T06:26:48.657-07:00"
+}

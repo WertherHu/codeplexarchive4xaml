@@ -1,0 +1,9 @@
+{
+  "ProjectName": "dataconnector",
+  "Title": "Silverlight Map DataConnector",
+  "Description": "Silverlight Map DataConnector is an open source project allowing developer to easily create solutions that integrate Bing Maps, Silverlight and spatial data features in SQL Server 2008 or SQL Azure.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">The DataConnector project was designed and implemented by OnTerra Systems. A commercial and supported version of DataConnector called GeoSavvy is available here. <a href=\"http://www.onterrasystems.com/data-visualization-geosavvy/\">http://www.onterrasystems.com/data-visualization-geosavvy/</a> <br /><br /><b>Project Description</b><br /><br /><b>Silverlight Map DataConnector</b> is a CodePlex project focused on connecting the power of Bing Maps and SQL Server 2008 (and can also be easily used with SQL Azure). This allows organizations and developers to rapidly create web mapping applications that contain rich geospatial data visualization features. <br /><br />Silverlight Map DataConnector provides the techology and integration components with full access to code and sample data to create Bing Maps Silverlight applications with spatial data stored in SQL spatial data types. This includes creating map based displays, performing spatial queries (e.g. bounding box, radius etc) and displaying  points, lines and polygons and generating/displaying tile representations of the spatial data. If you are interested in an AJAX version visit <a href=\"http://ajaxmapdataconnector.codeplex.com\">http://ajaxmapdataconnector.codeplex.com</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "Bing Maps,Silverlight,",
+  "LastEdited": "2012-05-14T16:07:43.83-07:00"
+}

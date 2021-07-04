@@ -1,0 +1,9 @@
+{
+  "ProjectName": "aeroforms",
+  "Title": "AeroForms",
+  "Description": "AeroForms allows you to apply the Aero effect across the entire window of your .NET WPF application using this open source C# DLL and a single line of code. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />AeroForms allows you to apply the Aero effect across the entire window of your .NET WPF application using this open source C&#35; DLL and a single line of code. <br /><br /><b>Example:</b><br /><img src=\"http://www.tensailabs.com/images/aeronotes.jpg\" /><br /><a href=\"http://www.tensailabs.com/\">Click Here</a> To Download Example<br /><br /><br />Gregory Kornblum - <a href=\"http://www.tensailabs.com/\">Tensai Labs</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "aero,wpf,vista,C#,glass,controls,dwm,",
+  "LastEdited": "2008-12-18T20:37:38.55-08:00"
+}

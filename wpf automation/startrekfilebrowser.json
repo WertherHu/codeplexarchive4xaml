@@ -1,0 +1,9 @@
+{
+  "ProjectName": "startrekfilebrowser",
+  "Title": "Star Trek File Browser (with Touch)",
+  "Description": "Simple File-Browser that should look a bit like the Star Trek TNG displays.\r\nThoguht it would be great to have this on a touchtable oder -display.\r\nRuns also with mouse.\r\n\r\nDeveloped in .Net 4.0 using WPF.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Simple File-Browser that should look a bit like the Star Trek TNG displays.<br />Thoguht it would be great to have this on a touchtable oder -display.<br />Runs also with mouse.<br /><br />Developed in .Net 4.0 using WPF.<br /><br /><br /><b>Known Bugs</b><br />Some displaying stuff does not run smoothly.<br />- connecting lines from active elements<br />- length &amp; position of the connecting line for elements on the right side<br />- selection sometimes does not disable the last selection<br /><br /><b>Possible Improvements</b><br />- animations<br />- a real doc-viewer<br />- movie viewer<br />- edit mode for files<br />- touch based skaling and rotating of content<br />- html &amp; xml viewer</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2010-07-07T06:11:57.373-07:00"
+}

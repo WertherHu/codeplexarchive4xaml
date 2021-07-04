@@ -1,0 +1,9 @@
+{
+  "ProjectName": "browsercontroller",
+  "Title": "Browser Controller",
+  "Description": "BrowserController is a .NETlibrary for controlling WebBrowser component's web-page presentation. \nUsing it you can controll WebBrowser's behavior using intergrated script language.\nIt's developed for use in .Net 2.0 projects",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">BrowserController is a .NET library for controlling behavior of WebBrowser component by using inegrated script language. BrowserController language is very simple but designed with &quot;make complex things clear&quot; idea in mind.  Brief description of this languge see in Documentation.<br />Using this component you will be able to control web page displaying in your application any way you like to.<br /><br /><br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "browser,scripting language,html,Controls,",
+  "LastEdited": "2010-01-19T10:38:09.773-08:00"
+}

@@ -1,0 +1,9 @@
+{
+  "ProjectName": "wardphotodirectory",
+  "Title": "Ward Photo Directory",
+  "Description": "Makes producing ward photo directories easy for LDS wards and stakes that use MLS to track their membership. A simple data export from MLS can be coupled with a directory of photos and immediately converted into a PDF of families, photos, and contact information. ",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">Makes producing ward photo directories easy for LDS wards and stakes that use MLS to track their membership. A simple data export from MLS can be coupled with a directory of photos and immediately converted into a PDF of families, photos, and contact information. <br />\n<h3>Topics</h3>\r<ul><li><a href=\"https://wardphotodirectory.codeplex.com/wikipage?title=Introduction&referringTitle=Home\">Introduction</a> walkthrough with screenshots</li>\n<li><a href=\"https://wardphotodirectory.codeplex.com/wikipage?title=Features&referringTitle=Home\">Features</a></li>\n<li>Get started with the <a href=\"http://www.codeplex.com/wardphotodirectory/release/projectreleases.aspx\">Current Release</a></li></ul></div><div class=\"ClearBoth\"></div>",
+  "TagList": "C#,WPF,LDS,NFOP,FOP,weird religions,religion,directory,",
+  "LastEdited": "2008-01-30T12:18:19.18-08:00"
+}

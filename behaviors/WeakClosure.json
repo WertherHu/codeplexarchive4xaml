@@ -1,0 +1,9 @@
+{
+  "ProjectName": "WeakClosure",
+  "Title": "Weak Closure Pattern",
+  "Description": "The weak closures.\r\nCreation of the closure behavior that independent from a compiler.",
+  "MovedLink": "https://github.com/it3xl/Weak-Closure-Pattern",
+  "HomeWiki": "<div class=\"wikidoc\">The weak closures.<br />Creation of the closure behavior that independent from a compiler.<br /><br /><b>Under development...</b><br /><b>This project required the <a href=\"http://weakdelegate.codeplex.com\">Weak Delegate</a> for accommodation.</b><br /><br /><br /><pre>\nweakClosure.ExecuteIfTargetNotNull(objectSupplier =&gt;\n\t{\n\t\t...\n</pre><br />To understand the approach see the sample here:<br /><a href=\"http://weakclosure.codeplex.com/SourceControl/changeset/view/70528#1219250\">program.cs</a><br />Or download the solution from the source code.<br /><br />it3xl.com</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2015-07-06T02:41:07.477-07:00"
+}

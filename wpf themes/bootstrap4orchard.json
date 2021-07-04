@@ -1,0 +1,9 @@
+{
+  "ProjectName": "bootstrap4orchard",
+  "Title": "Bootstrap for Orchard",
+  "Description": "Bootstrap Framework for Orchard. Provides a dynamic build of the Bootstrap CSS framework allowing developers of modules and themes to dynamically add css (in less of course), variables, mixins, and settings. (includes the Orchard dotless module)",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />Bootstrap Framework for Orchard. Provides a dynamic build of the Bootstrap CSS framework allowing developers of modules and themes to dynamically add css &#40;in less of course&#41;, variables, mixins, and settings. &#40;includes the Orchard dotless module&#41;<br /><br />More information about the Bootstrap Framework can be found <a href=\"http://twitter.github.com/bootstrap/\">HERE</a></div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2012-03-06T10:38:39.36-08:00"
+}

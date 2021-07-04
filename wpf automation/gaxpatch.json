@@ -1,0 +1,9 @@
+{
+  "ProjectName": "gaxpatch",
+  "Title": "Visual Studio 2008 Guidance Automation Extension Patch",
+  "Description": "This tool fixes the Visual Studio 2008 configuration after installing the Guidance Automation Extension (July 2007).",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\"><b>Project Description</b><br />This tool fixes the Visual Studio 2008 configuration after installing the Guidance Automation Extension &#40;July 2007&#41;.<br /><br /><br />As described in my blog entry <a href=\"https://gaxpatch.codeplex.com/wikipage?title=http%3a%2f%2fmharbauer.spaces.live.com%2fblog%2fcns%212171BCF268FDF9DB%21226.entry&referringTitle=Home\">Guidance Automation Extension &#40;July 2007&#41; breaks Visual Studio 2008 Configuration</a> the installation of the Guidance Automation Extension (July 2007) will harm the Visual Studio 2008 installation. <br />In order to repair the broken configuration file tool based, and not by manipulating config files manually, you may use this application. It requires the Visual Studio installation directory as input and patches the necessary files automatically just by pressing the GaxPatch&#39;s patch-button.<br /></div><div class=\"ClearBoth\"></div>",
+  "TagList": "GAX,Visual Studio 2008,vs2008,Guidance Automation,",
+  "LastEdited": "2007-11-27T22:17:00.057-08:00"
+}

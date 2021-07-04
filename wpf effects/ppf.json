@@ -1,0 +1,9 @@
+{
+  "ProjectName": "ppf",
+  "Title": "Plane Presentation Framework",
+  "Description": "This aim of the project was to write a framework that provides all the common underpinning needed for demonstrating pixel manipulation effects, via GDI or DirectDraw, under a managed context in a Microsoft Windows environment.",
+  "MovedLink": "",
+  "HomeWiki": "<div class=\"wikidoc\">\r\n<p><strong>Project Description</strong><br>\r\nThis aim of this project was to write a framework which provides all the common underpinning needed for demonstrating pixel manipulation effects, via GDI or DirectDraw, under a managed context in a Microsoft Windows environment.</p>\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>Render Simple <br>\r\n<img title=\"simplerender_demo.jpg\" src=\"http://i3.codeplex.com/Download?ProjectName=ppf&DownloadId=320069\" alt=\"simplerender_demo.jpg\" width=\"200\" height=\"158\"></td>\r\n<td>Starfield <br>\r\n<img title=\"starfield_demo.jpg\" src=\"http://i3.codeplex.com/Download?ProjectName=ppf&DownloadId=320070\" alt=\"starfield_demo.jpg\" width=\"200\" height=\"158\"></td>\r\n</tr>\r\n<tr>\r\n<td>Gradients <br>\r\n<img title=\"gradient_demo.jpg\" src=\"http://i3.codeplex.com/Download?ProjectName=ppf&DownloadId=320071\" alt=\"gradient_demo.jpg\" width=\"200\" height=\"158\"></td>\r\n<td>Fire <br>\r\n<img title=\"fire_demo.jpg\" src=\"http://i3.codeplex.com/Download?ProjectName=ppf&DownloadId=320072\" alt=\"fire_demo.jpg\" width=\"200\" height=\"158\"></td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><br>\r\nIf you would like to contribute, or have any feedback in general, feel free to contact me at bmoretz at IonicSolutions dot net.</p>\r\n</div><div class=\"ClearBoth\"></div>",
+  "TagList": "",
+  "LastEdited": "2013-02-12T07:51:36.61-08:00"
+}
